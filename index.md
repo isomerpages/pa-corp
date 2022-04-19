@@ -14,25 +14,27 @@ sections:
       subtitle: Be our volunteer
       button: Read More
       url: /Permalink
-      image: /images/favicon-isomer.ico
+      image: /images/our-volunteers_compressed.jpg
       alt: Image alt text
   - infopic:
       subtitle: Connect with Government
       button: Read More
       alt: Image alt text
       url: /Permalink
+      image: /images/seniors.png
   - infobar:
-      subtitle: Resumption of activities
       description: From 1 November 2021, PA will resume selected activities for fully
         vaccinated/COVID-19 recovered seniors, who are 60 and above
       button: Read More
       url: /Permalink
+      title: Resumption of activities
   - infopic:
       subtitle: MyPassion Mobile App
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
       url: /Permalink
       alt: Image alt text
+      image: /images/Passion Mobile.png
   - infobar:
       title: "Response To Parliamentary Question By Minister "
       description: Written Response To Parliamentary Question By Minister Chan Chun
