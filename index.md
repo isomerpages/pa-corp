@@ -21,4 +21,22 @@ sections:
       button: Read More
       alt: Image alt text
       url: /Permalink
+  - infobar:
+      subtitle: Resumption of activities
+      description: From 1 November 2021, PA will resume selected activities for fully
+        vaccinated/COVID-19 recovered seniors, who are 60 and above
+      button: Read More
+      url: /Permalink
+  - infopic:
+      subtitle: MyPassion Mobile App
+      description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
+      button: READ MORE
+      url: /Permalink
+      alt: Image alt text
+  - infobar:
+      title: "Response To Parliamentary Question By Minister "
+      description: Written Response To Parliamentary Question By Minister Chan Chun
+        Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021
+      button: Read More
+      url: /Permalink
 ---
