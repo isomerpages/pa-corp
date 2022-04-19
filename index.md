@@ -11,17 +11,17 @@ sections:
       button: Join Your Community
       url: /https://www.pa.gov.sg/engage/join-your-community
   - infopic:
-      subtitle: Be our volunteer
       button: Read More
       url: /Permalink
       image: /images/our-volunteers_compressed.jpg
       alt: Image alt text
+      title: Be our volunteer
   - infopic:
-      subtitle: Connect with Government
       button: Read More
       alt: Image alt text
       url: /Permalink
       image: /images/seniors.png
+      title: Connect with Government
   - infobar:
       description: From 1 November 2021, PA will resume selected activities for fully
         vaccinated/COVID-19 recovered seniors, who are 60 and above
@@ -29,12 +29,12 @@ sections:
       url: /Permalink
       title: Resumption of activities
   - infopic:
-      subtitle: MyPassion Mobile App
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
       url: /Permalink
       alt: Image alt text
       image: /images/Passion Mobile.png
+      title: MyPassion Mobile App
   - infobar:
       title: "Response To Parliamentary Question By Minister "
       description: Written Response To Parliamentary Question By Minister Chan Chun
