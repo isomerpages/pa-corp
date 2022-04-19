@@ -2,5 +2,6 @@ collections:
   newsroom:
     output: true
     order:
+      - Speeches.md
       - Publications.md
       - News.md
