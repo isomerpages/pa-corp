@@ -1,4 +1,5 @@
 collections:
   get-involved:
     output: true
-    order: []
+    order:
+      - Visit onePA for Courses.md
