@@ -1,0 +1,4 @@
+collections:
+  our-network:
+    output: true
+    order: []
