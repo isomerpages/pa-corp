@@ -17,9 +17,8 @@ sections:
       image: /images/favicon-isomer.ico
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      subtitle: Connect with Government
+      button: Read More
       alt: Image alt text
+      url: /Permalink
 ---
