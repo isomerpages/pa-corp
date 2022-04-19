@@ -39,4 +39,25 @@ sections:
         Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021
       button: Read More
       url: /Permalink
+  - infopic:
+      subtitle: Find a Course
+      description: PA offers you endless opportunities to pick up new skills, have
+        fun, while making new friends in the process. Come join us today
+      button: Visit OnePA
+      url: /Permalink
+      alt: Image alt text
+  - infopic:
+      subtitle: Locate a CC
+      description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
+        nearest CC to attend courses, book CC facilities, or join an Interest
+        Group.
+      button: CC Location
+      url: //permalink
+      alt: Image alt text
+  - infopic:
+      subtitle: District Information
+      description: Find out your district's information.
+      button: SearchGoWhere
+      url: //Permalink
+      alt: Image alt text
 ---
