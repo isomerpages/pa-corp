@@ -2,4 +2,5 @@ collections:
   get-involved:
     output: true
     order:
+      - Join Our Community.md
       - Visit onePA for Courses.md
