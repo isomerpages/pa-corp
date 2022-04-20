@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Board of Management.md
       - Our History.md
