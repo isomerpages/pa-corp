@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - 60th Anniversary.md
-      - Contact Us.md
-      - PA Act and Other Constitutions.md
-      - Annual Reports.md
-      - Board of Management.md
       - Our History.md
+      - Board of Management.md
+      - Annual Reports.md
+      - PA Act and Other Constitutions.md
+      - Contact Us.md
+      - 60th Anniversary.md
