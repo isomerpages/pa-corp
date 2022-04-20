@@ -23,12 +23,6 @@ sections:
       url: /Permalink
       image: /images/seniors.png
       title: Connect with Government
-  - infobar:
-      description: From 1 November 2021, PA will resume selected activities for fully
-        vaccinated/COVID-19 recovered seniors, who are 60 and above
-      button: Read More
-      url: /Permalink
-      title: Resumption of activities
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
