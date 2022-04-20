@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - PA Act and Other Constitutions.md
       - Annual Reports.md
       - Board of Management.md
       - Our History.md
