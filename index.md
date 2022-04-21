@@ -4,8 +4,7 @@ title: People's Association
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: From 1 November 2021, PA will resume selected activities for fully
-  vaccinated/COVID-19 recovered seniors, who are 60 and above
+notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
