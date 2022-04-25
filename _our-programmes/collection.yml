@@ -2,4 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
+      - Active Ageing.md
       - Our Programmes.md
