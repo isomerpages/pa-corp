@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CC Courses/CC Courses.md
       - CC Courses/.keep
       - Community Integration.md
       - Community Sports.md
