@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - PAssion Wave/PAssion WaVe.md
       - PAssion Wave/.keep
       - Women's Programmes.md
       - CC Courses/PWRX.md
