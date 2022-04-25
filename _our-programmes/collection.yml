@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - CC Courses/PA SHIOK Series.md
       - CC Courses/SkillsFuture@PA.md
       - CC Courses/Industry Guru Series.md
       - CC Courses/School Holidays Series.md
