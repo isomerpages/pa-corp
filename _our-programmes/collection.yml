@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Emergency Preparedness.md
       - PAssion Wave/Locate PAWV.md
       - PAssion Wave/PAssion WaVe.md
       - PAssion Wave/.keep
