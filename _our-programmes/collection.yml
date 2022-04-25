@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Family Life/Community Integration.md
       - Family Life/Community Sports.md
       - Family Life/Embracing PArenthood.md
       - Family Life/Family Life.md
