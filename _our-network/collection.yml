@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - National Community Leadership/Training Programmes.md
       - National Community Leadership/Locate Us.md
       - National Community Leadership/Campus Facilities.md
       - National Community Leadership/National Community Leadership Institute.md
