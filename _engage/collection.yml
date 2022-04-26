@@ -2,4 +2,5 @@ collections:
   engage:
     output: true
     order:
+      - Join Your Community.md
       - Engage.md
