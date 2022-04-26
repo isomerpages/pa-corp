@@ -2,12 +2,16 @@ collections:
   our-programmes:
     output: true
     order:
-      - PAssion Card.md
-      - Emergency Preparedness.md
-      - PAssion Wave/.keep
-      - PAssion Wave/Locate PAWV.md
-      - PAssion Wave/PAssion WaVe.md
-      - Women's Programmes.md
+      - Our Programmes.md
+      - Active Ageing.md
+      - Community Arts.md
+      - Community Dialogue.md
+      - Racial Harmony.md
+      - Family Life/.keep
+      - Family Life/Embracing PArenthood.md
+      - Family Life/Family Life.md
+      - Community Sports.md
+      - Community Integration.md
       - CC Courses/.keep
       - CC Courses/PWRX.md
       - CC Courses/Online PA Booking.md
@@ -17,13 +21,9 @@ collections:
       - CC Courses/School Holidays Series.md
       - CC Courses/Be a Training Provider.md
       - CC Courses/CC Courses.md
-      - Community Integration.md
-      - Community Sports.md
-      - Family Life/.keep
-      - Family Life/Embracing PArenthood.md
-      - Family Life/Family Life.md
-      - Racial Harmony.md
-      - Community Dialogue.md
-      - Community Arts.md
-      - Our Programmes.md
-      - Active Ageing.md
+      - PAssion Card.md
+      - Women's Programmes.md
+      - PAssion Wave/.keep
+      - PAssion Wave/Locate PAWV.md
+      - PAssion Wave/PAssion WaVe.md
+      - Emergency Preparedness.md
