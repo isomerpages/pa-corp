@@ -2,10 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - MERDEKA GENERATIONS PROGRAMMES.md
-      - IMPACT @ HONG LIM GREEN.md
-      - Youth.md
-      - Passion Card.md
       - Our Programmes.md
       - Active Ageing.md
       - Community Arts.md
@@ -30,3 +26,7 @@ collections:
       - PAssion Wave/Locate PAWV.md
       - PAssion Wave/PAssion WaVe.md
       - Emergency Preparedness.md
+      - Passion Card.md
+      - Youth.md
+      - IMPACT @ HONG LIM GREEN.md
+      - MERDEKA GENERATIONS PROGRAMMES.md
