@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Partners/WeCare PALs.md
       - Partners/POSB Passion Run For Kids.md
       - Partners/Partners.md
       - Partners/.keep
