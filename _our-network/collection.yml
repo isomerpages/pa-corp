@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Heartbeat@Bedok/.keep
       - Our Tampines Hub/.keep
       - Our Tampines Hub/Our Tampines Hub.md
       - Our Tampines Hub/Hub Info.md
