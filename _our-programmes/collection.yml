@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Our Programmes.md
       - Active Ageing.md
       - Community Arts.md
       - Community Dialogue.md
