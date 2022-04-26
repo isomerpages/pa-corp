@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Our Tampines Hub/Our Tampines Hub.md
       - Our Tampines Hub/.keep
       - Wisma Geylang Serai/.keep
       - Wisma Geylang Serai/Contact Us.md
