@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - National Community Leadership/National Community Leadership Institute.md
       - National Community Leadership/.keep
       - Grassroots Organisations/Women's Integration Network Council.md
       - Grassroots Organisations/Residents' Network Council.md
