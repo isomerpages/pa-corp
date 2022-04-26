@@ -2,10 +2,10 @@ collections:
   our-network:
     output: true
     order:
-      - Community Development Councils/Common Flagship Programmes.md
-      - Community Development Councils/Office of the Mayors.md
-      - Community Development Councils/Community Development Councils.md
       - Community Development Councils/.keep
+      - Community Development Councils/Common Flagship Programmes.md
+      - Community Development Councils/Community Development Councils.md
+      - Community Development Councils/Office of the Mayors.md
       - Community Clubs/.keep
       - Community Clubs/Community Clubs.md
       - Community Clubs/Legal Advice Service.md
