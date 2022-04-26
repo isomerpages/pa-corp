@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Wisma Geylang Serai/.keep
       - Partners/.keep
       - Partners/Project We Care.md
       - Partners/Partners.md
