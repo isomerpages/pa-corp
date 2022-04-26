@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Community Clubs/Rentals.md
       - Community Clubs/Legal Advice Service.md
       - Community Clubs/Community Clubs.md
       - Community Clubs/.keep
