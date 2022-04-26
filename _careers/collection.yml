@@ -2,5 +2,6 @@ collections:
   careers:
     output: true
     order:
+      - PA Scholarship/Our Scholars.md
       - PA Scholarship/.keep
       - PA Careers.md
