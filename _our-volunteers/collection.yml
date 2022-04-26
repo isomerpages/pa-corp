@@ -2,7 +2,7 @@ collections:
   our-volunteers:
     output: true
     order:
-      - Apply Online.md
       - Our Volunteers.md
       - Capability Development.md
+      - Apply Online.md
       - Volunteering Opportunities.md
