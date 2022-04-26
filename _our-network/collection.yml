@@ -2,5 +2,6 @@ collections:
   our-network:
     output: true
     order:
+      - Community Clubs/Community Clubs.md
       - Community Clubs/.keep
       - Our Network.md
