@@ -2,23 +2,6 @@ collections:
   our-network:
     output: true
     order:
-      - Heartbeat@Bedok/Contact Us.md
-      - Heartbeat@Bedok/.keep
-      - Our Tampines Hub/.keep
-      - Our Tampines Hub/Our Tampines Hub.md
-      - Our Tampines Hub/Hub Info.md
-      - Our Tampines Hub/What's Happening.md
-      - Our Tampines Hub/Contact Us.md
-      - Our Tampines Hub/Festive Mall Directory.md
-      - Wisma Geylang Serai/.keep
-      - Wisma Geylang Serai/Contact Us.md
-      - Wisma Geylang Serai/Wisma Geylang Serai.md
-      - Wisma Geylang Serai/Facilities.md
-      - Partners/.keep
-      - Partners/Project We Care.md
-      - Partners/Partners.md
-      - Partners/POSB Passion Run For Kids.md
-      - Partners/WeCare PALs.md
       - Our Network.md
       - Community Clubs/.keep
       - Community Clubs/Community Clubs.md
@@ -52,3 +35,20 @@ collections:
       - National Community Leadership/Locate Us.md
       - National Community Leadership/Training Programmes.md
       - National Community Leadership/Learn with NACLI.md
+      - Partners/.keep
+      - Partners/Project We Care.md
+      - Partners/Partners.md
+      - Partners/POSB Passion Run For Kids.md
+      - Partners/WeCare PALs.md
+      - Wisma Geylang Serai/.keep
+      - Wisma Geylang Serai/Contact Us.md
+      - Wisma Geylang Serai/Wisma Geylang Serai.md
+      - Wisma Geylang Serai/Facilities.md
+      - Our Tampines Hub/.keep
+      - Our Tampines Hub/Our Tampines Hub.md
+      - Our Tampines Hub/Hub Info.md
+      - Our Tampines Hub/What's Happening.md
+      - Our Tampines Hub/Contact Us.md
+      - Our Tampines Hub/Festive Mall Directory.md
+      - Heartbeat@Bedok/.keep
+      - Heartbeat@Bedok/Contact Us.md
