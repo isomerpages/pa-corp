@@ -2,5 +2,6 @@ collections:
   engage:
     output: true
     order:
+      - Connect With Government/.keep
       - Join Your Community.md
       - Be Our Volunteer.md
