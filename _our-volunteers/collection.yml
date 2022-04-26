@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Apply Online.md
-      - Volunteering Opportunities.md
-      - Capability Development.md
       - Our Volunteers.md
+      - Capability Development.md
+      - Volunteering Opportunities.md
