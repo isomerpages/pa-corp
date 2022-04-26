@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - MERDEKA GENERATIONS PROGRAMMES.md
       - IMPACT @ HONG LIM GREEN.md
       - Youth.md
       - Passion Card.md
