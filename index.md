@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/join-your-community.jpg
       button: Join Your Community
       url: /https://www.pa.gov.sg/engage/join-your-community
   - infopic:
