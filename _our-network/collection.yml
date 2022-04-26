@@ -2,12 +2,12 @@ collections:
   our-network:
     output: true
     order:
-      - Our Tampines Hub/Festive Mall Directory.md
-      - Our Tampines Hub/Contact Us.md
-      - Our Tampines Hub/What's Happening.md
-      - Our Tampines Hub/Hub Info.md
-      - Our Tampines Hub/Our Tampines Hub.md
       - Our Tampines Hub/.keep
+      - Our Tampines Hub/Our Tampines Hub.md
+      - Our Tampines Hub/Hub Info.md
+      - Our Tampines Hub/What's Happening.md
+      - Our Tampines Hub/Contact Us.md
+      - Our Tampines Hub/Festive Mall Directory.md
       - Wisma Geylang Serai/.keep
       - Wisma Geylang Serai/Contact Us.md
       - Wisma Geylang Serai/Wisma Geylang Serai.md
