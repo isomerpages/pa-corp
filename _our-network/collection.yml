@@ -1,4 +1,5 @@
 collections:
   our-network:
     output: true
-    order: []
+    order:
+      - Our Network.md
