@@ -2,6 +2,7 @@ collections:
   engage:
     output: true
     order:
+      - Connect With Government/Ask Kopi Kakis.md
       - Connect With Government/.keep
       - Join Your Community.md
       - Be Our Volunteer.md
