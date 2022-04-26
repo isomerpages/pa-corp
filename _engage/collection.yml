@@ -2,5 +2,6 @@ collections:
   engage:
     output: true
     order:
+      - Be Our Volunteer.md
       - Join Your Community.md
       - Engage.md
