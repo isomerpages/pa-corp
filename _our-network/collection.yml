@@ -2,12 +2,17 @@ collections:
   our-network:
     output: true
     order:
-      - National Community Leadership/.keep
-      - National Community Leadership/National Community Leadership Institute.md
-      - National Community Leadership/Campus Facilities.md
-      - National Community Leadership/Locate Us.md
-      - National Community Leadership/Training Programmes.md
-      - National Community Leadership/Learn with NACLI.md
+      - Our Network.md
+      - Community Clubs/.keep
+      - Community Clubs/Community Clubs.md
+      - Community Clubs/Legal Advice Service.md
+      - Community Clubs/Rentals.md
+      - Community Clubs/Locate CC.md
+      - Community Development Councils/.keep
+      - Community Development Councils/Common Flagship Programmes.md
+      - Community Development Councils/Community Development Councils.md
+      - Community Development Councils/Office of the Mayors.md
+      - Member Organisations.md
       - Grassroots Organisations/.keep
       - Grassroots Organisations/Grassroots Organisations.md
       - Grassroots Organisations/Active Ageing Council.md
@@ -24,14 +29,9 @@ collections:
       - Grassroots Organisations/Residents' Network.md
       - Grassroots Organisations/Residents' Network Council.md
       - Grassroots Organisations/Women's Integration Network Council.md
-      - Member Organisations.md
-      - Community Development Councils/.keep
-      - Community Development Councils/Common Flagship Programmes.md
-      - Community Development Councils/Community Development Councils.md
-      - Community Development Councils/Office of the Mayors.md
-      - Community Clubs/.keep
-      - Community Clubs/Community Clubs.md
-      - Community Clubs/Legal Advice Service.md
-      - Community Clubs/Rentals.md
-      - Community Clubs/Locate CC.md
-      - Our Network.md
+      - National Community Leadership/.keep
+      - National Community Leadership/National Community Leadership Institute.md
+      - National Community Leadership/Campus Facilities.md
+      - National Community Leadership/Locate Us.md
+      - National Community Leadership/Training Programmes.md
+      - National Community Leadership/Learn with NACLI.md
