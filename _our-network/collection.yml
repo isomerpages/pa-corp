@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Wisma Geylang Serai/Facilities.md
       - Wisma Geylang Serai/Wisma Geylang Serai.md
       - Wisma Geylang Serai/.keep
       - Partners/.keep
