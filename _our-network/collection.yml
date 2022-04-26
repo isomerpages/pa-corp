@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Grassroots Organisations/Neighbourhood Committees.md
       - Grassroots Organisations/Narpani Pearavai.md
       - Grassroots Organisations/Malay Activity Executive Committees Council.md
       - Grassroots Organisations/Citizens' Consultative Committees.md
