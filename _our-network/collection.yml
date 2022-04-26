@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Grassroots Organisations/Community Sports Club Council.md
       - Grassroots Organisations/Community Sports Clubs.md
       - Grassroots Organisations/Community Club Management Committees.md
       - Grassroots Organisations/Active Ageing Council.md
