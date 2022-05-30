@@ -5,7 +5,7 @@ description: ""
 ---
 ### Active Ageing
 #### Senior Citizens' Executive Committees
-Senior Citizens' Executive Committees
+
 PA Senior Citizens’ Executive Committees (SCECs) is the largest seniors’ network in Singapore. Through this network, the SCEC plans and organises a wide array of activities and courses to enrich the life experiences of senior citizens. There are sports and dance activities that are specially designed to help participants stay fit and healthy. There are also courses that fulfill the pursuit of lifelong learning by offering skills to pick up a new language, improve one's cooking, and even explore the possibilities of computer technology. It aims to engage and empower seniors to lead active, healthy and meaningful lives in the community.
 
 For more information on courses and activities, please visit your nearest Community Club (CC).
@@ -25,5 +25,3 @@ The PA Wellness Programme's focus is on three areas. They include:
 * seniors participating in CC, RC and NC programmes so as to stay socially engaged.
 
 Residents found to be with risk conditions will be encouraged to see their General Practitioner and take part in the various programmes offered by PA, while those without risk conditions can maintain their good health by participating in the many activities and interest groups under the PA Wellness Programme. Seniors can also form strong social networks with other seniors so that they will look out for one another.
-
- 
