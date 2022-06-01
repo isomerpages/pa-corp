@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Careers.md
-      - Why Join.md
-      - PA Student Internship.md
       - PA Careers.md
       - PA Scholarship/.keep
       - PA Scholarship/Our Scholars.md
+      - PA Student Internship.md
+      - Why Join.md
