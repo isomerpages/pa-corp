@@ -17,4 +17,4 @@ The Family Fun.Family Time programme is a series of customised family-centric ac
 
 The We Grow.We Explore Holiday programme is a series of thematic parent-child activities, specially curated to get families to foster stronger ties and connections during the holiday season.
 
-Follow us on the ‘PA Family Life Champion’ Facebook Page for more family programme updates, or email us at PA_FamilyLife@pa.gov.sg for more details. 
+Follow us on the ‘PA Family Life Champion’ Facebook Page for more family programme updates, or email us at [PA_FamilyLife@pa.gov.sg](mailto: PA_FamilyLife@pa.gov.sg) for more details.
