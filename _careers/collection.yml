@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - PA Careers.md
       - Careers/Why Join?.md
       - Careers/PA Student Internship.md
       - Careers/PA Careers.md
