@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Careers/.keep
-      - PA Careers.md
       - PA Scholarship/.keep
       - PA Scholarship/Our Scholars.md
       - PA Student Internship.md
