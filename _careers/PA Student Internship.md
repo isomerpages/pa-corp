@@ -3,21 +3,34 @@ title: PA Student Internship
 permalink: /careers/PA-Student-Internship
 description: ""
 ---
-PA Student Internship
-PA Structured Student Internship Programme
+#### PA Student Internship
+#### 
+
+#### PA Structured Student Internship Programme
+#### 
 Participating in the PA Structured Internship Programme is a great opportunity for you to appreciate PA’s mission of bridging and building communities and to experience a career to work on projects and/or organise events that will help foster engaged communities and develop your soft skills.
 
  As part of our commitment to nurture and support interns, supervisors will work with the interns to set work and learning goals for the internships and facilitate reflection session to reinforce learning.
 
-Apply for Internship with PA
-You may contact your school’s Career Services Office; or
-You may apply by submitting the Internship Application Form. Successful candidates will be notified by email.
-Internship Opportunities
-Period
+#### Apply for Internship with PA
+#### 
+1. You may contact your school’s Career Services Office; or
+2. You may apply by submitting the Internship Application Form. Successful candidates will be notified by email.
 
-Internship Opportunities
+#### Internship Opportunities
+#### 
 
-Jan to Dec
+
+
+
+| Period | Internship Opportunities |
+| -------- | -------- | 
+| Jan to Dec     | 1. Based at the Community Clubs, this internship is for students who are interested to interact with residents and deliver programmes to meet residents’ needs<br>2. Conduct study on residents’ needs and interests to plan and coordinate community events, courses and activities for residents <br> 3. Required to work on weekends and evenings     |
+
+
+
+
+
 
 Based at the Community Clubs, this internship is for students who are interested to interact with residents and deliver programmes to meet residents’ needs
 Conduct study on residents’ needs and interests to plan and coordinate community events, courses and activities for residents
