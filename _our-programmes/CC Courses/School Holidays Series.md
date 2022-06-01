@@ -18,4 +18,4 @@ Click here to download the School Holidays Series (May - June 2022) Catalogue in
 
 For more information on School Holidays Series, visit the PA Courses Facebook page or School Holidays Series KDandFriends Facebook page.
 
-To sign up for courses and programmes, visit [www.onePA.gov.sg](www.onePA.gov.sg). Search ‘SHS’ to find a variety of specially curated courses designed for your little one and you.
+To sign up for courses and programmes, visit [www.onePA.gov.sg](https://www.onepa.gov.sg/). Search ‘SHS’ to find a variety of specially curated courses designed for your little one and you.
