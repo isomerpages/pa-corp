@@ -16,13 +16,13 @@ Bachelor of Arts and Social Sciences at National University of Singapore
 
  
 
-Muhammad Naufal Zahin AzmiMuhammad Naufal Zahin Azmi
-PA Scholar (Overseas)
+Muhammad Naufal Zahin Azmi<br>
+PA Scholar (Overseas)<br>
 Bachelor of Arts in Politics at King's College London (UK)
 
 “I am set at being involved in community activities to help strengthen ties among residents. My recent internship experience at Pasir Ris Elias Community Club further spurred my interest to serve in the public service. I strongly believe that big changes begin with small steps and progress has little to do with speed, but much to do with direction.”
 
-Click here to read more » (2803KB, PDF)
+[Click here to read more](//) » (2803KB, PDF)
 
  
  
