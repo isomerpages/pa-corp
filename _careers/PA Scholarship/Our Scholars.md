@@ -25,26 +25,24 @@ Bachelor of Arts in Politics at King's College London (UK)
 [Click here to read more](//) » (2803KB, PDF)
 
  
- 
 
-Chan Enying GraceChan Enying Grace
-
-PA Scholar (Overseas)
+Chan Enying Grace<br>
+PA Scholar (Overseas)<br>
 Bachelor of Science in Economics at London School of Economics and Political Science (UK)
 
 “As a PA scholar, I would like to build better communication channels with residents from all walks of life and to forge a stronger bond between the government and its people, thereby paving the way for the shaping of community schemes for the betterment of all Singaporeans. The constant contact I had with residents inspired me to take up the PA Scholarship. I’ve come to realise my passion to serve and work with people on the ground to make a meaningful difference. This gives me a great sense of purpose because I’ve seen how much my job means to the people I interact with.”
 
-Click here to read more » (0.98MB, PDF)
+[Click here to read more](//)» (0.98MB, PDF)
 
  
 
-Wong Yali ValenciaWong Yali Valencia
-PA Scholar (Local)
+Wong Yali Valencia<br>
+PA Scholar (Local)<br>
 Bachelor of Business Administration (Accountancy) with College of Alice and Peter Tan at National University of Singapore
 
 “I’m passionate about the wider community and its people and the PA Scholarship appealed to me as it provided me with opportunities to engage with local communities at the grassroots level. The most compelling factor was seeing how PA’s vision and work were aligned with my own goals in life. PA’s bottom-up approach and commitment to community- building and building bridges between communities resonate strongly with me.”
 
-Click here to read more » (935KB, PDF)
+[Click here to read more](//) » (935KB, PDF)
 
 
 Seah Tiong KiatSeah Tiong Kiat
