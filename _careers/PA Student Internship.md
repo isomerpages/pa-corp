@@ -34,7 +34,7 @@ Participating in the PA Structured Internship Programme is a great opportunity f
 | Mar to Jul | 1. For students who are passionate about outdoor and experiential learning and have skills in outdoor and adventure learning<br> 2.  Required to work on weekends and evenings |
 | May to Aug | 1. For students interested in conducting study to understand trends and needs of young families and design and implement programmes to engage families at different life stages |
 | May to Oct | 1. For students interested to learn and apply research methodology to conduct research on understanding youth perceptions of PA’s programming and social cohesion, and to design strategic engagement for youths online |
-| Jun to Oct  1.|For students who are interested in developing training videos and have video editing skills |
+| Jun to Oct  | 1. For students who are interested in developing training videos and have video editing skills |
 
 ##### For Further Enquiries
 You may write in to PA_Champs@pa.gov.sg for further enquiries.
