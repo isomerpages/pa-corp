@@ -45,32 +45,32 @@ Bachelor of Business Administration (Accountancy) with College of Alice and Pete
 [Click here to read more](//) » (935KB, PDF)
 
 
-Seah Tiong KiatSeah Tiong Kiat
-PA Scholar (Local)
+Seah Tiong Kiat<br>
+PA Scholar (Local)<br>
 Bachelor of Social Science at Singapore Management University
 
 “If you like working with people and want a meaningful job that allows you to make a real impact on the community, then the PA Scholarship is the one that you should apply for.”
 
-Click here to read more » (194KB, PDF)
+[Click here to read more](//)» (194KB, PDF)
 
-Jessica Tan Mei YuJessica Tan Mei Yu
-PA Scholar (Local)
+Jessica Tan Mei Yu<br>
+PA Scholar (Local)<br>
 Bachelor of Business Administration at National University of Singapore
 
 “These six weeks of internship has been a great experience for me to observe the leaders in the Youth Division and allowed me to grow as a leader, especially for my upcoming year, whereby I will be serving as the Vice President in my hall.  I am thankful for the opportunity to work alongside my colleagues in the Youth Division and I am looking forward to my next internship which I hope to work directly with residents and volunteers in the community.”
 
-Click here to read more » (520KB, PDF)
+[Click here to read more](//) » (520KB, PDF)
 
 
 
-Angela Tan Yee JinAngela Tan Yee Jin
-PA Scholar (Overseas)
-Bachelor of Economics, Politics and International Studies, University of Warwick, and
+Angela Tan Yee Jin<br>
+PA Scholar (Overseas)<br>
+Bachelor of Economics, Politics and International Studies, University of Warwick, and<br>
 Master of Science in Social Development Practice at University College London, UK
 
 “I'm a strong believer of the maxim ‘live to work’ and I feel that it is important to work for an organisation that I am passionate about! The PA’s scholarship’s career prospects also strongly appeal to me. Being an extrovert, I enjoy interacting with people and through the scholarship, I will be involved in community projects and job placements in various strategic units.”
 
-Click here to read more » (200KB, PDF)
+[Click here to read more](//)» (200KB, PDF)
 
 This article was adapted from the BrightSparks publication with the permission of CareerBuilder Singapore. The contents cannot be reproduced, modified or further circulated without the prior written consent of CareerBuilder Singapore. For more articles, visit www.brightsparks.com.sg/magazine.
 
