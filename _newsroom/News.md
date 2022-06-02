@@ -21,16 +21,5 @@ description: ""
 | 14 Sep 2021 | [Response to Parliamentary Questions On Audit Observations at People’s Association Identified in the Auditor-General’s Office FY2020/2021 Report](//)<br> People’s Association is committed to resolving and improving its governance and oversight processes. |
 | 22 Jul 2021 | [Statement by the People’s Association on Audit Observations in the Report of the Auditor-General for Financial Year 2020/2021](//) <br>The Auditor-General’s Office (AGO) audited two development projects under PA, namely, Our Tampines Hub (OTH) and Heartbeat@Bedok (HBB).|
 | 14Jun 2021
- | -------- |
-| -------- | -------- |
-
-
-
-
-
-
-
-PA Statement on the Use of Photo in Hari Raya Decorations
-PA Statement on the Use of Photo in Hari Raya Decorations
 
 [1](/permalink)      [2](/permalink)    [3]() [4]() [5]() ................  [56]()
