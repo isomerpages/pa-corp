@@ -4,7 +4,7 @@ permalink: /careers/PA-Careers
 description: ""
 ---
 ### PA Careers
-### 
+
 
 The People's Association's mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 Grassroots Organisations, five Community Development Councils, National Community Leadership Institute, and Water-Venture.
 
@@ -17,7 +17,7 @@ If you have what it takes, we want to hear from you! Please submit your online a
 * RC Managers
 
 #### Constituency Managers
-#### 
+
 You will actively recruit and develop volunteers for Grassroots Organisations (GROs) to promote racial harmony and social cohesion. You will also serve as an administrator and facilitator in the formation, development and consolidation of GROs at the constituency level. You will initiate and implement activities, programmes and services to meet the needs of the community at Community Clubs (CCs) and Residents' Committees (RCs). In addition, you will take on one or more functional roles in the Constituency Office such as CC course development and maintenance.
 
 Requirements:
@@ -33,7 +33,7 @@ Successful candidates will be given a 3-year contract.
 
 
 #### Constituency Management Executives
-#### 
+
 You will support Community Club (CC) operations; serve CC customers by actively promoting and marketing CC activities, courses and events; as well as attract new customers. You will also provide administrative support for the operations of the Constituency Office (CO) and Grassroots Organisations (GROs). In addition, you will take on functional and coordinating roles in Finance, Operations or Information Technology support in the CO.
 
 Requirements:
