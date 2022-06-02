@@ -25,4 +25,4 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 |20 May 2022 | [Tender for Provision of Security Services at The Frontier Community Club](//) <br>Invitation to Tender for Provision of Security Services at The Frontier Community Club located at 60 Jurong West Central 3, Singapore 648346 for a Period of Two (2) Years + Two (2) Years Extension, from 1...<br><br>Calling Committee : The Frontier Community Place Facilities Management Committee<br>Closing Date & Time : 07 Jun 2022, 06:00 PM| 
 |20 May 2022 |[Tender for Bukit Batok East CCC Trade Fair 2022](//) <br>Trade Fair for Period from 29 July 2022 to 13 August 2022 (16 days) Venue: Open space along Bukit Batok East Ave 4 & 5 and open space in between Blk 273 & 279 coffee shops<br><br>Calling Committee : Bukit Batok East Citizens’ Consultative Committee (CCC)<br>Closing Date & Time : 03 Jun 2022, 06:00 PM | 
 
-    [1](//)    [2](//)
+    [1]()    [2]()
