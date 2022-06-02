@@ -37,7 +37,7 @@ Here’s a list of our Corporate Members, by different categories:
 * Singapore Hadrah And Kompang Association
 * [Singapore Indian Fine Arts Society]()
 * [Society of Chinese Artists]()
-* [* Sriwana]()
+* [Sriwana]()
 * [Tamils Representative Council]()
 * [The Photographic Society of Singapore]()
 
