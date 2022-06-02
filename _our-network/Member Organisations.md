@@ -14,7 +14,7 @@ Here’s a list of our Corporate Members, by different categories:
 #### Academic Guilds  
 
 * [Alumni International Singapore]()
-* [* Association of Nanyang University Graduates]()
+* [ Association of Nanyang University Graduates]()
 * [National University of Singapore Society]()
 * [Singapore Polytechnic Graduates' Guild]()
 
