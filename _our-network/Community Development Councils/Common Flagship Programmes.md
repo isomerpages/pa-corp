@@ -57,4 +57,5 @@ Please click [here]() to find out more about WeCare Arts Fund.
 
 SME Centres and the five CDCs have collaborated to establish a wider network of SME Centres across Singapore to provide Heartland SMEs with greater convenience and access to business resources and advice.  These SME Centres provide local business with integrated services including business and productivity diagnosis, guidance on government assistance schemes and capability workshop.
 
-To view more photos, please visit https://www.cdc.gov.sg/Gallery.
+To view more photos, please visit [https://www.cdc.gov.sg/Gallery.](https://www.cdc.gov.sg/Gallery.)
+
