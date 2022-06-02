@@ -4,3 +4,53 @@ permalink: /our-network/Community-Development-Councils/Community-Development-Cou
 description: ""
 third_nav_title: Community Development Councils
 ---
+#### Community Development Councils
+
+### About CDC
+### 
+The Community Development Councils (CDCs) were established in 1997 to build a cohesive, compassionate and self-reliant community.  The CDCs strengthen social infrastructure, build social capital and resilience, and promote the culture of giving back through:
+
+(a) Aggregating of Needs and Resources;
+(b) Building Capability / Capacity in Partners and Networks; and
+(c) Connecting Communities.
+ 
+At the national level, the five CDCs come together to strengthen the Ministry / government agency to ground connectivity by supporting national initiatives and policies. 
+ 
+At the district level, the CDCs collaborate with partners from the People, Public and Private sectors to meet emerging and felt needs as well as promote greater corporate and community social responsibility. 
+ 
+At the constituency level, each CDC works closely with the Grassroots Organisations and community partners to facilitate their engagement with residents. 
+
+There are five CDCs:
+
+
+
+Building a Do-Good District
+
+
+
+
+A Caring & Cohesive Community
+
+
+
+
+
+
+A Caring and Healthy Community
+
+
+SECDC  
+
+Your Social Broker
+
+
+ 
+
+Owning Your Community
+
+
+
+
+For more information, please visit www.cdc.gov.sg.
+
+To volunteer at the CDCs please fill up this form. We will get back to you within three working days.
