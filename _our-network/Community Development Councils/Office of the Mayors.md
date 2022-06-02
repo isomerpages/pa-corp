@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Community Development Councils
 ---
 #### Office of the Mayors
-#### 
+
 
 The Office of the Mayors in Singapore serves the residents in the five districts. Each district is helmed by a mayor, each of whom also serves as a Chairman of the Community Development Council (CDC) in a particular district. 
 
@@ -18,6 +18,5 @@ The Office of the Mayors in Singapore serves the residents in the five districts
 
 For more information on the Mayors, please visit https://www.cdc.gov.sg/office-of-the-mayors/our-mayors.
 
-For coordination work under Office of the Mayors, please write to PA CDC Planning & Development Division.  Visit the Government Directory at https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa
-
- 
+For coordination work under Office of the Mayors, please write to PA CDC Planning & Development Division.  Visit the Government Directory at 
+[https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa](https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa)
