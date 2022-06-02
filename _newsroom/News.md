@@ -20,6 +20,5 @@ description: ""
 | 29 Oct 2021 | [PA to Pilot Resumption of Selected Classes and Activities for Seniors in a Safe Environment](//)<br>From Monday, 1 November 2021, the People’s Association (PA) will pilot the resumption of selected classes and activities for fully vaccinated or COVID-19 recovered seniors, who are 60 and above, at 21 designated Community Clubs/Centres (CCs) and integrated community hubs, so that they can have a safe environment to stay healthy and active, and renew social bonds. |
 | 14 Sep 2021 | [Response to Parliamentary Questions On Audit Observations at People’s Association Identified in the Auditor-General’s Office FY2020/2021 Report](//)<br> People’s Association is committed to resolving and improving its governance and oversight processes. |
 | 22 Jul 2021 | [Statement by the People’s Association on Audit Observations in the Report of the Auditor-General for Financial Year 2020/2021](//) <br>The Auditor-General’s Office (AGO) audited two development projects under PA, namely, Our Tampines Hub (OTH) and Heartbeat@Bedok (HBB).|
-| 14Jun 2021
 
 [1](/permalink)      [2](/permalink)    [3]() [4]() [5]() ................  [56]()
