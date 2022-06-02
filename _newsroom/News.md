@@ -3,7 +3,17 @@ title: News
 permalink: /newsroom/News
 description: ""
 ---
-News
+### News
+
+
+
+
+| 10 May 2022 | [Update on Utilisation of CDC Vouchers and Heartland Merchants Onboard CDC Vouchers Scheme](//) <br>Response to parliamentary question on the participation of merchants, utilisation of CDC vouchers, and potential use of the CDC e-voucher system to enable charities and philanthropic individuals to give e-vouchers to be spent at heartland shops.  |
+| -------- | -------- |
+| Text     | Text     | 
+
+
+
 10Mar 2022
 Community Development Councils’ Financial Assistance Schemes
 Response to parliamentary question on the number of applications received under Community Development Councils’ Financial Assistance Schemes, and the average processing time for these schemes
