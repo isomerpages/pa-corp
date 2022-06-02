@@ -51,7 +51,7 @@ Successful candidates will be given a 3-year contract.
 
 
 #### RC Managers
-#### 
+
 You will assist Residents' Committees (RCs) to widen their outreach and deepen engagement with residents. You will assist RCs to promote and market RC activities, courses and events, form and develop Interest Groups, and attract new customers. You will assist in the operations of RC centres, RC accounts and provide administrative support for RCs.
 
 Requirements
