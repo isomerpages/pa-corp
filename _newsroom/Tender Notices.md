@@ -22,7 +22,7 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 |27 May 2022 | [Tender for Kampong Glam Mid-Autumn Festival Fair](//)<br>Mid-Autumn Festival Fair for Period from 27 August 2022 to 10 September 2022 (15 days) Trade Fair for period from 11 September 2022 to 02 October 2022 (22 days) Venue: Albert Pedestrian Mall bounded...<br><br>Calling Committee : Kampong Glam Citizens’ Consultative Committee<br>Closing Date & Time : 09 Jun 2022, 06:00 PM | 
 |24 May 2022 |[Tender for Event Management and Fireworks/Pyrotechnics](//) <br>Provision Of Event Management Company To Plan And Execute Activities And Supply Fireworks / Pyrotechnics And All Related Logistics And Services For Pasir Ris Town National Day Celebration 2022 Venue:...<br><br>Calling Committee : Pasir Ris East Community Club Management Committee<br>Closing Date & Time : 13 Jun 2022, 06:00 PM | 
 | 23 May 2022 |[Tender for Provision of Stage and Programme Management Services](//) <br> Invitation to Tender for the Provision of Stage and Programme Management Services A mandatory Pre-tender briefing will be held on: Date: 27 May 2022 Time: 5.00pm...<br><br>Calling Committee : Jurong Central Citizens’ Consultative Committee <br>Closing Date & Time : 10 Jun 2022, 06:00 PM| 
-| | | 
+|20 May 2022 |  [Tender for Provision of Security Services at The Frontier Community Club](//)| 
 
 | | | 
 
@@ -36,7 +36,6 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 
 
 
-20May 2022
 Tender for Provision of Security Services at The Frontier Community Club
 Invitation to Tender for Provision of Security Services at The Frontier Community Club located at 60 Jurong West Central 3, Singapore 648346 for a Period of Two (2) Years + Two (2) Years Extension, from 1...
 
