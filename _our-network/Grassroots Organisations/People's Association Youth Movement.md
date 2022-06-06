@@ -120,9 +120,3 @@ In celebration of the nation’s Golden Jubilee, ‘SG50 YOUths Care @ PAYM’ w
 To learn more about the PAYM’s programmes and activities or to find out how to join us:
 
 Email us at [PA_PAYM@pa.gov.sg,](PA_PAYM@pa.gov.sg,), or contact us via our [PAYM Facebook Page.](//)
-
-
-
-
-
-
