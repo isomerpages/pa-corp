@@ -33,7 +33,7 @@ The objectives of the WEC are :
 Our Youth Executive Committee (YEC) is the managing body for the Youth Group in a Community Club. Reaching out to youths, our YEC organises a wide range of activities and projects ranging from sports and recreation to culture, arts and community service.
 
 
-The role of YECs include:
+* The role of YECs include:
 Developing programmes for youths and setting up subcommittees to implement its activities
 Working closely with the Community Club Management Committee and other grassroots organisations in putting tog
 Connecting with other Youth Clubs and the Council to support the People’s Association Youth Movement (PAYM)
