@@ -21,9 +21,9 @@ Have a say in your estate. Join your NCs as a volunteer.
 
 Click [here](//) to search for your nearest NC.
 
+#### One Connect
 
+The People's Association (PA) One Connect programme is a citizen-centric community programme for residents living in private estates, where they can reach out to their Neighbourhood Committees (NCs) to provide suggestions to improve their estates and to find out more information about the community acitivites taking place around their neighbourhood.
 
-
-
-
+For more information, please contact your nearest One Connect Team [here](//).
 
