@@ -39,4 +39,3 @@ CCCs facilitate interaction between the people and the Government by explaining 
 
 
 To find out more about the various programmes and initiatives of the CCCs for your constituency, please locate your nearest [CC](//).
-
