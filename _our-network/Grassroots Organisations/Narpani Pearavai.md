@@ -15,8 +15,3 @@ The functions of Narpani Pearavai are to:
 * Facilitate collaborations between IAECs and other Grassroots Organisations (GROs) in the community;
 
 Find out more about [Narpani Pearavai.](//)
-
-
-
-
-
