@@ -21,5 +21,20 @@ These programmes are designed to:
 * Encourage residents to get to know and understand one another; and
 * Support the Government and various agencies in nationwide campaigns such as dengue prevention, Clean & Green Week, Racial Harmony Month and Good Neighbour Day.
 
+#### Assistance Programmes
+
+CCCs help implement/ administer assistance schemes for the needy and economically underprivileged in our community. These schemes include:
+
+* CCCs ComCare Fund for urgent, temporary relief in hardship cases;
+* Edusave Awards;
+* Pre-School Outreach programmes; and
+* Distribution of adhoc meal/ transport vouchers.
+
+
+#### Bridging Programmes
+CCCs facilitate interaction between the people and the Government by explaining government policies and gathering feedback from residents. These bridging programmes include:
+
+* Community forums involving residents; and
+* Dialogue sessions with representatives from the Government agencies.
 
 
