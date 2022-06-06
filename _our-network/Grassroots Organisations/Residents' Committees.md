@@ -24,11 +24,3 @@ Volunteer or be nominated by residents under the Residents Nomination Scheme. Th
 Singapore Citizens or Permanent Residents, aged 18 and above and living within the RCs Zone, can be nominated to join the RCs.
 
 Interested in nominating someone to be part of your RCs? Complete and submit the [nomination form](//)
-
-
-
-
-
-
-
-
