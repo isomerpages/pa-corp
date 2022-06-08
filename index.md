@@ -10,13 +10,18 @@ sections:
       background: /images/join-your-community.jpg
       title: Main Title
       subtitle: Sub Title
-      dropdown:
-        title: Select
-        options:
-          - title: test1
-            url: ""
-          - title: test 2
-            url: https://pa.gov.sg
+      key_highlights:
+        - title: Highlight 1
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      button: Join Community
+      url: /pa.gov.sg
   - infopic:
       button: Read More
       url: /Permalink
