@@ -4,12 +4,19 @@ title: People's Association
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: This is a staging website
 sections:
   - hero:
       background: /images/join-your-community.jpg
-      button: Join Your Community
-      url: /https://www.pa.gov.sg/engage/join-your-community
+      title: Main Title
+      subtitle: Sub Title
+      dropdown:
+        title: Select
+        options:
+          - title: test1
+            url: ""
+          - title: test 2
+            url: https://pa.gov.sg
   - infopic:
       button: Read More
       url: /Permalink
