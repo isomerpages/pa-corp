@@ -57,6 +57,3 @@ This is  a sample HTML Content
 
 
 Click here to apply online [>>](https://www.grassrootsconnect.pa.gov.sg/VolunteerRegistration.aspx)
-
-
-
