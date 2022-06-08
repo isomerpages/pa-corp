@@ -14,11 +14,7 @@ description: ""
 ~~Apply Online
 ~~
 
-```
-<html>
-This is  a sample HTML Content
-</html>
-```
+
 
 > This section is in quotes.
 > 
