@@ -8,8 +8,6 @@ notification: This is a staging website
 sections:
   - hero:
       background: /images/join-your-community.jpg
-      title: Main Title
-      subtitle: Sub Title
       key_highlights:
         - title: Highlight 1
           description: Key Highlight description
