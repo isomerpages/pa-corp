@@ -9,12 +9,6 @@ sections:
   - hero:
       background: /images/join-your-community.jpg
       key_highlights:
-        - title: Highlight 1
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
