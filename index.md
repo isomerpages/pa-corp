@@ -4,7 +4,7 @@ title: People's Association
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This is a staging website
+notification: ""
 sections:
   - hero:
       background: /images/join-your-community.jpg
