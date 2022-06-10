@@ -2,6 +2,7 @@ collections:
   sample-folder:
     output: true
     order:
+      - Sub Folder/Sub Page 1.md
       - Sub Folder/.keep
       - Page 2.md
       - Page 1.md
