@@ -26,3 +26,7 @@ With our community lenses and wide network, Project We Care serves as your one-s
 ![](/images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png)
 ![](/images/Project%20We%20Care/girish%20-%20edited%20(28%20Jan%202022).png)
 ![](/images/Project%20We%20Care/taufiq%20-%20edited%20(28%20Jan%202022).png)
+
+**Do Good with Us**
+
+We welcome companies to come onboard Project We Care as a member (at no fees) and do good with us. For enquiries, please write to **[**PA\_Partnership@pa.gov.sg**](mailto:PA_Partnership@pa.gov.sg).** To join us or find out more, please fill up **[](http://form.gov.sg/617a64accdbbd5001230935c)[**this form**](https://go.gov.sg/connectwithprojectwecare).**
