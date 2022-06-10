@@ -4,11 +4,17 @@ title: People's Association
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: This is a staging website
 sections:
   - hero:
       background: /images/join-your-community.jpg
       key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Be our volunteer
+          description: More details on the programme
+          url: https://www.pa.gov.sg/our-volunteers
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
@@ -60,8 +66,4 @@ sections:
       button: SearchGoWhere
       url: //Permalink
       alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Find More
 ---
