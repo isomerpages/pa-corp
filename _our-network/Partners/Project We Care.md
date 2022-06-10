@@ -14,3 +14,4 @@ To find out more about our latest news happenings, read our newsletter **[here]
 
 From befriending disadvantaged families to upskilling the community, our corporate partners play a pivotal role in creating a more inclusive and compassionate society, enabling Project We Care to live out its mission of connecting businesses and impacting lives.
 ![](/images/Project%20We%20Care/Time%20and%20Talent.png)
+![](/images/Project%20We%20Care/treasure%20-%20grouped%20edited.png)
