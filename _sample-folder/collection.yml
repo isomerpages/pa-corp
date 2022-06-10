@@ -1,0 +1,4 @@
+collections:
+  sample-folder:
+    output: true
+    order: []
