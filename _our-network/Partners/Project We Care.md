@@ -29,4 +29,4 @@ With our community lenses and wide network, Project We Care serves as your one-s
 
 ##### **Do Good with Us**
 
-We welcome companies to come onboard Project We Care as a member (at no fees) and do good with us. For enquiries, please write to **[**PA\_Partnership@pa.gov.sg**](mailto:PA_Partnership@pa.gov.sg).** To join us or find out more, please fill up **[](http://form.gov.sg/617a64accdbbd5001230935c)[**this form**](https://go.gov.sg/connectwithprojectwecare).**
+We welcome companies to come onboard Project We Care as a member (at no fees) and do good with us. For enquiries, please write to **[PA\_Partnership@pa.gov.sg](mailto:PA_Partnership@pa.gov.sg).** To join us or find out more, please fill up **[](http://form.gov.sg/617a64accdbbd5001230935c)[this form](https://go.gov.sg/connectwithprojectwecare).**
