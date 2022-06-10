@@ -1,4 +1,5 @@
 collections:
   sample-folder:
     output: true
-    order: []
+    order:
+      - Page 1.md
