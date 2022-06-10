@@ -4,28 +4,27 @@ title: People's Association
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: This is a staging website
 sections:
   - hero:
-      background: /images/join-your-community.jpg
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Be our volunteer
-          description: More details on the programme
-          url: https://www.pa.gov.sg/our-volunteers
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-      button: Join Community
-      url: /pa.gov.sg
+      background: /images/our-volunteers_compressed.jpg
+      title: This is title
+      subtitle: This is subtitle
+      dropdown:
+        title: Get Involved
+        options:
+          - title: Join Our Community
+            url: /community.
+          - title: Volunteering oppurtunites
+            url: ""
   - infopic:
       button: Read More
       url: /Permalink
-      image: /images/our-volunteers_compressed.jpg
+      image: /images/seniors.png
       alt: Image alt text
       title: Be our volunteer
+      subtitle: This is a subtitle
+      description: More Volunteering oppurtunities
   - infopic:
       button: Read More
       alt: Image alt text
@@ -45,6 +44,7 @@ sections:
         Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021
       button: Read More
       url: /Permalink
+      subtitle: Subtile
   - infopic:
       subtitle: Find a Course
       description: PA offers you endless opportunities to pick up new skills, have
@@ -66,4 +66,8 @@ sections:
       button: SearchGoWhere
       url: //Permalink
       alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
