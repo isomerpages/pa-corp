@@ -4,3 +4,8 @@ permalink: /our-network/Partners/Project-We-Care
 description: ""
 third_nav_title: Partners
 ---
+![](/images/Project%20We%20Care/pwc%20logo.png)
+
+Established in 2012, the **Project We Care CEOs and Business Leaders Network** is a **corporate social responsibility (CSR) initiative** led by the private sector and the People’s Association (PA) to encourage corporate giving and volunteerism in Singapore; engaging CEOs and business leaders to rally their employees to contribute towards meaningful causes in the community.
+
+To find out more about our latest news happenings, read our newsletter **[here](https://www.pa.gov.sg/docs/default-source/default-document-library/project-we-care-dec-2021-edm.pdf?sfvrsn=11371ef5_0 "here")**.
