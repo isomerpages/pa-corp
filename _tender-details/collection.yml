@@ -1,0 +1,4 @@
+collections:
+  tender-details:
+    output: true
+    order: []
