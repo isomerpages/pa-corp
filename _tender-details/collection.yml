@@ -1,4 +1,5 @@
 collections:
   tender-details:
     output: true
-    order: []
+    order:
+      - Tender for Toa Payoh Central Trade Fair.md
