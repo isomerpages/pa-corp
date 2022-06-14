@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Tender Details/.keep
       - News.md
       - Publications.md
       - Speeches.md
