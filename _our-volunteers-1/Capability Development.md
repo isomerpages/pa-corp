@@ -18,3 +18,5 @@ Through volunteering, you will also forge strong friendships with your neighbour
 <img style="height:200px;width:200px" src="/images/Our%20Programmes/activeageing-scec.jpg" >
 
 [Read More](/files/Speech.pdf)
+
+With more than 1,800 
