@@ -2,6 +2,7 @@ collections:
   our-volunteers-1:
     output: true
     order:
+      - Sample Subfolder/Subfolder page1.md
       - Sample Subfolder/.keep
       - Capability Development.md
       - Volunteering Oppurtunities.md
