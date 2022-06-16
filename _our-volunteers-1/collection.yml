@@ -2,4 +2,5 @@ collections:
   our-volunteers-1:
     output: true
     order:
+      - Volunteering Oppurtunities.md
       - Capability Development.md
