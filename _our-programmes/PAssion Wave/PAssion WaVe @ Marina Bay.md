@@ -16,8 +16,7 @@ Please visit our [Facebook Page](https://www.facebook.com/pa.passionwave) for 
 
 **All outlets are closed on Mondays and all Public Holidays.**
 
-Contact Information
--------------------
+#### Contact Information
 
 11 Rhu Cross S437440  
 Phone: 62966683  
