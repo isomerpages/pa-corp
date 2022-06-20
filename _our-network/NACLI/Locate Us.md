@@ -7,7 +7,7 @@ third_nav_title: NACLI
 ### Locate Us
 
 #### National Community Leadership Institute
-#### 
+
 70 South Buona Vista Road<br>
 Singapore 118176
 
@@ -44,5 +44,3 @@ Monday - Thursday : 8.30am - 6.00pm
 Friday : 8.30am - 5.30pm
 Saturday, Sunday & Public Holiday : Closed
 * Closed during lunch time (1.00pm - 2.00pm)
-
- 
