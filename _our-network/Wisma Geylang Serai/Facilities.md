@@ -50,5 +50,17 @@ The Geylang Serai Heritage Gallery is a community gallery that is developed and 
 #### Community Spaces
 **Serai Square / Open Plaza** - The Open Plaza is an open atrium that is ideal for hosting events of various scales
 
-**Event Piazza ** -  The Event Piazza is a multi-purpose atrium,  anchored by a main stage with audio visual equipment. These spaces are open for corporate bookings.
+**Event Piazza** -  The Event Piazza is a multi-purpose atrium,  anchored by a main stage with audio visual equipment. These spaces are open for corporate bookings.
+
+**Media Studio (coming soon)** - The Media Studio is a professional studio with recording and broadcasting capabilities. From live webcasts of events at WGS to productions by aspiring vloggers, the studio will produce content for everyone in the community.
+
+**Gelanggang @ WGS  (coming soon)** - The Gelanggang (Open Court) will house several sports courts. It will complement the existing sport facilities, creating a well-rounded and versatile sports area within the W
+
+**Wisma Geylang Serai (WGS) Mall** - The Wisma Geylang Serai (WGS) Mall features heritage stores that offer exclusive and unique wares for the community. These stores offer local Singaporean products, run workshops and conduct hands-on demonstrations to engage the local community and tourists alike. This leisure and lifestyle section of WGS also includes Food and Beverages outlets offering Halal options.
+
+**Link Bridge** - A link bridge connects the Geylang Serai Market to WGS and the future development within the Geylang Serai Precinct.
+
+
+**Silver Circle Senior Care Centre**
+
 
