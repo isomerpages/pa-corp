@@ -4,4 +4,4 @@ permalink: /our-programmes/CC-Courses/Online-PA-Booking
 description: ""
 third_nav_title: CC Courses
 ---
-Log on to [www.onePA.gov.sg](https://www.onepa.gov.sg/) for online booking.
+Log on to [here](https://www.pa.gov.sg/our-programmes/cc-courses/online-booking) for online booking.
