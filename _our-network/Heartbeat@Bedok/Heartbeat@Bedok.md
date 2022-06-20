@@ -29,5 +29,3 @@ Our tenants include food and beverage outlets, childcare and enrichment centres,
 • Active Health Lab
 
 Connect with Heartbeat@Bedok on [Facebook](https://www.facebook.com/heartbeatbedok) today!
-
- 
