@@ -48,19 +48,56 @@ The Geylang Serai Heritage Gallery showcases the history of the precinct and tra
 The Geylang Serai Heritage Gallery is a community gallery that is developed and managed by National Heritage Board in partnership with People’s Association and Malay Heritage Foundation.
 
 #### Community Spaces
-**Serai Square / Open Plaza** - The Open Plaza is an open atrium that is ideal for hosting events of various scales
+**Serai Square / Open Plaza** <br>
+The Open Plaza is an open atrium that is ideal for hosting events of various scales
 
-**Event Piazza** -  The Event Piazza is a multi-purpose atrium,  anchored by a main stage with audio visual equipment. These spaces are open for corporate bookings.
+**Event Piazza** <br>
+The Event Piazza is a multi-purpose atrium,  anchored by a main stage with audio visual equipment. These spaces are open for corporate bookings.
 
-**Media Studio (coming soon)** - The Media Studio is a professional studio with recording and broadcasting capabilities. From live webcasts of events at WGS to productions by aspiring vloggers, the studio will produce content for everyone in the community.
+**Media Studio (coming soon)** <br>
+The Media Studio is a professional studio with recording and broadcasting capabilities. From live webcasts of events at WGS to productions by aspiring vloggers, the studio will produce content for everyone in the community.
 
-**Gelanggang @ WGS  (coming soon)** - The Gelanggang (Open Court) will house several sports courts. It will complement the existing sport facilities, creating a well-rounded and versatile sports area within the W
+**Gelanggang @ WGS  (coming soon)** <br>
+The Gelanggang (Open Court) will house several sports courts. It will complement the existing sport facilities, creating a well-rounded and versatile sports area within the W
 
-**Wisma Geylang Serai (WGS) Mall** - The Wisma Geylang Serai (WGS) Mall features heritage stores that offer exclusive and unique wares for the community. These stores offer local Singaporean products, run workshops and conduct hands-on demonstrations to engage the local community and tourists alike. This leisure and lifestyle section of WGS also includes Food and Beverages outlets offering Halal options.
+**Wisma Geylang Serai (WGS) Mall** <br>
+The Wisma Geylang Serai (WGS) Mall features heritage stores that offer exclusive and unique wares for the community. These stores offer local Singaporean products, run workshops and conduct hands-on demonstrations to engage the local community and tourists alike. This leisure and lifestyle section of WGS also includes Food and Beverages outlets offering Halal options.
 
-**Link Bridge** - A link bridge connects the Geylang Serai Market to WGS and the future development within the Geylang Serai Precinct.
+**Link Bridge** <br>
+A link bridge connects the Geylang Serai Market to WGS and the future development within the Geylang Serai Precinct.
 
 
-**Silver Circle Senior Care Centre**
+**Silver Circle Senior Care Centre**  <br>
+Silver Circle Senior Care Centres support working families by caring for their elderly loved ones while they are at work. Silver Circle is part of NTUC Health, an NTUC social enterprise that provides quality and affordable health and eldercare services to meet the growing needs of families and their dependents.
+
+**Family Service Centre**<br>
+Family Service Centres (FSCs) are community-based social work agencies that provide help and support to individuals and families in need. Their primary focus is on helping these individuals and families to better cope with their personal, social and emotional challenges in their lives. Working closely with these individuals and families, FSCs aim to help them achieve independence, stability and resilience.
+
+**Child Care Centre**<br>
+Managed by Ministry of Social and Family (MSF), the Child Care Centre provides full day and half day care programmes to children below the age of seven.
+
+**Art Studios**<br>
+National Arts Council's five arts houses add to the vibrancy of Wisma Geylang Serai, as they bring new spaces not only where Singaporeans can learn about Malay arts and culture, but also where the community can come and enjoy enriching cultural experiences together, These arts spaces enable closer interaction and collaboration amongst artists, arts groups and the community.
+
+**Auditorium** <br>
+The auditorium has 154 retractable seats and can accommodate up to 400 people for arts performances, dramas and skits.
+
+**Black Box Studios**<br>
+The studios are suitable for talks, seminars and press conferences. With a modular stage, projector and portable microphone available for rent, the studios are definitely well-equipped for any of your media events.
+
+**Rooftop Gardens and Barbecue Pits** <br>
+The rooftop garden and barbecue pits allow visitors to hold their social events outdoors. Overlooking the scenic view of the Geylang Serai Precinct, the lush rooftop garden is an ideal place for fun activities with family and friends. Barbecue pits, which include dedicated Halal ones, are available for rent if you are looking for an outdoor dining experience.
+
+**Kidzone @ WGS**<br>
+Kidzone is an area where kids can play, either in the indoor playground or on the bouncy castles. As safety is always a priority at Wisma Geylang Serai, parents can be assured their children enjoying themselves within the play area will be safe.
+
+
+
+
+
+
+
+
+
 
 
