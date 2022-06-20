@@ -15,6 +15,3 @@ Tel: 6241 9878, 6243 1663
 
 **Feedback**
 For feedback, please email us at: [heartbeat\_bedok@pa.gov.sg](mailto:heartbeat_bedok@pa.gov.sg).
-
-
-
