@@ -28,3 +28,4 @@ Website: [https://www.facebook.com/pa.passionwave](https://www.facebook.com/pa.
 
 ### Map
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.772877507018!2d103.95026841533112!3d1.311658262060919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22dc7e65fef5%3A0x25d1e14fbf0db682!2sPAssion%20WaVe%20%40%20East%20Coast!5e0!3m2!1sen!2ssg!4v1655786070967!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
