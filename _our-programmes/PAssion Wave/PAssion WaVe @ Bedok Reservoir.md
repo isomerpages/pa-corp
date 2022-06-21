@@ -29,3 +29,5 @@ Website: [https://www.facebook.com/pa.passionwave](https://www.facebook.com/pa.
 [I want to register for a course](https://www.onepa.sg/)
 
 ### Map
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7241199534824!2d103.93009541533102!3d1.3418977619733208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3d46effffff9%3A0xcb45e7b544630ce4!2sPAssion%20WaVe%20%40%20Bedok%20Reservoir!5e0!3m2!1sen!2ssg!4v1655786025178!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
