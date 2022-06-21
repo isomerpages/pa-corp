@@ -19,7 +19,7 @@ Please visit our [Facebook Page](https://www.facebook.com/login/?next=https%3A%2
 **
 
 #### Contact Information
-#### 
+
 911 Bedok Reservoir Road S479311  
 Phone: 97101697  
 Fax: 62944393  
@@ -29,4 +29,3 @@ Website: [https://www.facebook.com/pa.passionwave](https://www.facebook.com/pa.
 [I want to register for a course](https://www.onepa.sg/)
 
 ### Map
-
