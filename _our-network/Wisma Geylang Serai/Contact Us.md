@@ -11,7 +11,6 @@ third_nav_title: Wisma Geylang Serai
 Singapore 408528
 
 ##### Geylang Serai Community Club:
-##### 
 Tel: 6747 2919
 
 
