@@ -18,7 +18,7 @@ Please visit our [Facebook Page](https://www.facebook.com/pa.passionwave) for 
 ****All outlets are closed on Mondays and all Public Holidays.****
 
 ### Contact Information
-### 
+
 125 Elias Road S519926  
 Phone: 65824796  
 Fax: 65815781  
