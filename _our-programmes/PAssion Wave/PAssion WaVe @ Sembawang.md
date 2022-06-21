@@ -16,7 +16,7 @@ Please visit our [Facebook Page](https://www.facebook.com/pa.passionwave) for 
 ****All outlets are closed on Mondays and all Public Holidays.****
 
 #### Contact Information
-#### 
+
 
 60 Jalan Mempurong S759058  
 Phone: 6755 0225  
