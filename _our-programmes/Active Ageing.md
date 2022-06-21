@@ -13,7 +13,7 @@ PA Senior Citizens’ Executive Committees (SCECs) is the largest seniors’ net
 For more information on courses and activities, please visit your nearest Community Club (CC).
 
 #### PA Wellness Programme
-#### 
+
 
 PA Wellness Programme
 The objective of the PA Wellness Programme is to get seniors to take charge of their own health by participating in the myriad of programmes and activities in the Community Club (CC), Residents' Committee (RC) and Neighbourhood Committee (NC) so that more seniors can continue to enjoy a high quality of life for as long as possible.
