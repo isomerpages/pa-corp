@@ -11,6 +11,9 @@ third_nav_title: NACLI
 70 South Buona Vista Road<br>
 Singapore 118176
 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.817515732155!2d103.78655051533119!3d1.2833490621415753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bb1bde04bc1%3A0x78dc11ebac0af460!2s70%20South%20Buona%20Vista%20Rd%2C%20Singapore%20118176!5e0!3m2!1sen!2ssg!4v1655785915410!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
+
 **Public Transport
 
 Bus no. 200
