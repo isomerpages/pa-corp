@@ -29,8 +29,8 @@ Here’s a list of our Corporate Members, by different categories:
 * [Hindi Society (Singapore)](http://www.hindi-society.com/)
 * [Institute of Technical Education, Singapore](https://www.ite.edu.sg/)
 * Metro Philharmonic Society
-* [Nanyang Academy of Fine Arts]()
-* [Perkumpulan Seni]()
+* [Nanyang Academy of Fine Arts](https://www.nafa.edu.sg/)
+* [Perkumpulan Seni]([Perkumpulan Seni Singapura (facebook.com)](https://www.facebook.com/perkumpulanseni.org))
 * [Singapore Art Society]()
 * Singapore Arts Federation
 * [Singapore Dance Theatre]()
