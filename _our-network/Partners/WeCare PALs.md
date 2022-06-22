@@ -17,4 +17,4 @@ WeCare PALs are corporate and community partners of PA, working hand in hand wit
 
 * Visit our [WeCare PALs Facebook Page](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FWeCarePALs) for more partnership opportunities and heartfelt stories on the meaningful programmes our WeCare PALs had with us!
 * Watch our [WeCare PALS Video](https://www.youtube.com/watch?v=yJkPFgliSBA) for more information on partnership with PA.
-* Connect with us at PA_Partnership@pa.gov.sg if your organisation is keen to do good for the community with PA!
+* Connect with us at [PA_Partnership@pa.gov.sg](PA_Partnership@pa.gov.sg) if your organisation is keen to do good for the community with PA!
