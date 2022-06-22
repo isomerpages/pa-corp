@@ -32,7 +32,7 @@ On 28 September 2020, Minister Edwin Tong announced the renewal of two Memorandu
 
 LAW@CDC was started to educate residents through legal talks conducted across the five districts on basic legal knowledge. These talks are held at Community Centres/Clubs (CCs) and Residents' Committee (RC) Centres. The talks are tailored for those who are not legally trained by breaking down legal jargons so that they are easy 
 to understand. 
-Please click [here]() to find out more about LAW@CDC.
+Please click [here](https://www.youtube.com/watch?v=v0W0jI8xjx0) to find out more about LAW@CDC.
 
 
 #### SkillsFuture Advice and SkillsFuture @ CDC
