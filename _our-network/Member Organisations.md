@@ -96,8 +96,8 @@ Here’s a list of our Corporate Members, by different categories:
 
 #### Unions
 
-* [National Trades Union Congress]()
-* [Singapore Chinese Teachers' Union]()
+* [National Trades Union Congress](https://www.ntuc.org.sg/wps/portal/up2/home)
+* [Singapore Chinese Teachers' Union](https://www.sctu.org.sg/)
 * Singapore Malay Teachers' Union
 * Singapore Middle School Chinese Teachers' Association
 * Singapore Tamil Teacher's Union
