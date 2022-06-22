@@ -51,7 +51,7 @@ Please click [here](https://www.youtube.com/watch?v=PJ0qu1agLv0) to find out mor
 
 The WeCare Arts Fund is a grant scheme in partnership between the Community Development Councils (CDCs) and the National Arts Council (NAC).  The fund aims to support Social Service Agencies (SSAs) by engaging their beneficiaries through the arts.  The CDCs and the NAC renewed their partnership on 4 September 2017 by setting aside $1 million for the WeCare Arts Fund over the next two year for programmes that make arts inclusive and promote self-confidence among the led advantages and underserved communities. The fund supports project costs that involve artists working directly with SSAs and their beneficiaries through the Performing, Visual, Literary and Multi-Disciplinary arts.
 
-Please click [here]() to find out more about WeCare Arts Fund. 
+Please click [here](https://www.youtube.com/watch?v=Wt0rwbte5_Q&feature=youtu.be) to find out more about WeCare Arts Fund. 
 
 #### SME Centre @ CDC
 
