@@ -4,7 +4,6 @@ permalink: /our-programmes/PAssion-Wave/PAssion-WaVe
 description: ""
 third_nav_title: PAssion Wave
 ---
-
 [img]()
 
 People’s Association PAssion WaVe (PAWV), formerly known as Water-Venture was first coined in 2015 as PA’s specialist community club offering a broad range of waterfront lifestyle programmes to the community. PAWV is an integral part of PA that bonds people and bridges the communities through water sports and waterfront lifestyle pursuits. Together with its partners and trainers, PAWV provides safe, affordable and exciting courses, programmes and activities to the community.
@@ -23,11 +22,11 @@ Please [email](mailto: passionwave@pa.gov.sg) us for more enquiries.
 
 **Brochures and Forms**
 
-1. PAssion WaVe Brochure
-2. Risk Disclosure Course/Activity Administration Information
-3. PAssion WaVe Course/Activity GAQ Registration Form
-4. PAssion WaVe Rental Form
-5. PAssion WaVe Group Rental Form
-6. PAssion WaVe Course/Activity Medical Declaration Form
-7. Group Booking Form
-8. Camp Booking Form
+1. [PAssion WaVe Brochure](//)
+2. [Risk Disclosure Course/Activity Administration Information](//)
+3. [PAssion WaVe Course/Activity GAQ Registration Form](//)
+4. [PAssion WaVe Rental Form](//)
+5. [PAssion WaVe Group Rental Form](//)
+6. [PAssion WaVe Course/Activity Medical Declaration Form](//)
+7. [Group Booking Form](//)
+8. [Camp Booking Form](//)
