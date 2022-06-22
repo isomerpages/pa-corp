@@ -25,7 +25,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Chinese Calligraphy Society of Singapore](https://www.ccss.org.sg/)
 * [Chinese Dance Artistes' Association](https://zh-cn.facebook.com/pages/Chinese-Dance-Artistes-Association/209711552462560)
 * [Chinese Theatre Circle](http://www.ctcopera.com/)
-* [Er Woo Amateur Musical And Dramatic Association]()
+* [Er Woo Amateur Musical And Dramatic Association](https://www.facebook.com/ErWooAmateurMusicalDramaticAssociation)
 * [Hindi Society (Singapore)]()
 * [Institute of Technical Education, Singapore]()
 * Metro Philharmonic Society
