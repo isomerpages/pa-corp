@@ -58,8 +58,8 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Bowling Federation](http://www.singaporebowling.org.sg/)
 * Singapore Canoe Federation
 * [Singapore Chess Federation](http://www.singaporechess.org.sg/)
-* [Singapore Contract Bridge Association]()
-* [Singapore Cycling Federation]()
+* [Singapore Contract Bridge Association](https://www.scba.org.sg/)
+* [Singapore Cycling Federation](http://www.cycling.org.sg/)
 * [Singapore Dragon Boat Association]()
 * [Singapore Judo Association]()
 * [Singapore Floorball Association]()
