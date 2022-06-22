@@ -17,9 +17,9 @@ NCs’ functions are to:
 * Disseminate information and obtain feedback on government policies and actions from the residents; and
 * Foster good citizenship amongst residents.
 
-Have a say in your estate. Join your NCs as a volunteer.
+Have a say in your estate. Join your NCs as a [Volunteer](engage/be-our-volunteer).
 
-Click [here](//) to search for your nearest NC.
+Click [here](our-network/grassroots-organisations/locate-nc) to search for your nearest NC.
 
 #### One Connect
 
