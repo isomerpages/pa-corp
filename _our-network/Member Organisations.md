@@ -68,15 +68,15 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Sepaktakraw Federation]()
 * [Singapore Silat Federation](https://www.persisi.org/)
 * Singapore Squash Rackets Association
-* [Singapore Swimming Association]()
-* [Singapore Table Tennis Association]()
-* [Singapore Taekwondo Federation]()
-* [Singapore Tennis Association]()
-* [Singapore Weiqi Association]()
-* [Singapore Wushu Dragon & Lion Dance Federation]()
-* [Singapore Xiangqi General Association]()
-* [Sports Boules Singapore]()
-* [Volleyball Association of Singapore]()
+* [Singapore Swimming Association](http://www.swimming.org.sg/)
+* [Singapore Table Tennis Association](https://www.stta.org.sg/)
+* [Singapore Taekwondo Federation](https://www.stf.sg/)
+* [Singapore Tennis Association](http://www.singtennis.org.sg/)
+* [Singapore Weiqi Association](http://weiqi.org.sg/)
+* [Singapore Wushu Dragon & Lion Dance Federation](http://www.wuzong.com/en/)
+* [Singapore Xiangqi General Association]([新加坡象棋总会 (xiangqi.sg)](http://www.xiangqi.sg/xqsite/))
+* [Sports Boules Singapore](https://www.sportsboules.org.sg/)
+* [Volleyball Association of Singapore]([VAS – Volleyball Singapore](https://www.vas.org.sg/))
 
 #### Students' Unions
 
