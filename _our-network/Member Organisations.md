@@ -33,13 +33,13 @@ Here’s a list of our Corporate Members, by different categories:
 * [Perkumpulan Seni]([Perkumpulan Seni Singapura (facebook.com)](https://www.facebook.com/perkumpulanseni.org))
 * [Singapore Art Society](http://singaporeartsociety.com/)
 * Singapore Arts Federation
-* [Singapore Dance Theatre]()
+* [Singapore Dance Theatre](http://www.singaporedancetheatre.com/)
 * Singapore Hadrah And Kompang Association
-* [Singapore Indian Fine Arts Society]()
-* [Society of Chinese Artists]()
-* [Sriwana]()
-* [Tamils Representative Council]()
-* [The Photographic Society of Singapore]()
+* [Singapore Indian Fine Arts Society](https://www.sifas.org/)
+* [Society of Chinese Artists](https://soca.org.sg/)
+* [Sriwana](http://www.sriwana.com/)
+* [Tamils Representative Council](http://www.trc.org.sg/)
+* [The Photographic Society of Singapore](http://www.pss1950.org/)
 
 #### Hobby Clubs
 
