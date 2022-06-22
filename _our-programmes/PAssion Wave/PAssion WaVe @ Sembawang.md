@@ -24,7 +24,7 @@ Fax: 6755 0263
 Email: [PA\_WVSEMBAWANG@pa.gov.sg](mailto:PA_WVSEMBAWANG@pa.gov.sg)  
 Website: [https://www.facebook.com/pa.passionwave](https://www.facebook.com/pa.passionwave)
 
-[I want to register for a course](https://www.onepa.sg/)
+[I want to register for a course](https://www.onepa.gov.sg/)
 
 ### Map
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.524742487623!2d103.83946822838278!3d1.4590463582329647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da14bfece2893b%3A0x1a3017b35a14b9f6!2s60%20Jln%20Mempurong!5e0!3m2!1sen!2ssg!4v1655786431312!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
