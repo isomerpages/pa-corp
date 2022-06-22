@@ -12,9 +12,6 @@ locations:
       - days: Mon - Fri
         time: 9.00am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: ""
     title: Head Quarters
 contacts:
