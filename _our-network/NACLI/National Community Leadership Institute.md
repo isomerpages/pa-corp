@@ -5,8 +5,6 @@ description: NACLI is the community leadership development arm of the People's A
 third_nav_title: NACLI
 image: /images/Our Network/NACLI/nacli_logo (red_brown).png
 ---
-
-
 ### National Community Leadership Institute
 
 
@@ -25,6 +23,6 @@ The Institute of Learning Excellence for Community Leadership Development
 *Tagline*<br>
 Inspiring Leaders, Serving the Community
 
-#### About NACLI Logo
+#### About the NACLI Logo
 
 [Click here](//) to understand more about the NACLI Logo. (94.8KB, PDF)
