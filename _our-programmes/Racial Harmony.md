@@ -42,4 +42,4 @@ The annual street procession brings diverse groups of people together, and showc
 
 The National Orange Ribbon Celebrations are organised by OnePeople.sg in promotion of Singapore’s multi-racial society. The Celebrations aim to facilitate deeper interaction and better understanding between individuals and communities, thus fostering a stronger sense of identity and building a more resilient social fabric.
 
-OnePeople.sg, the leading advocate for multi-racialism, was formed in 1997 by the Community Development Councils to promote racial harmony and to spearhead programmes to bring the different ethnic communities together. Visit OnePeople.sg Facebook page for more information.
+OnePeople.sg, the leading advocate for multi-racialism, was formed in 1997 by the Community Development Councils to promote racial harmony and to spearhead programmes to bring the different ethnic communities together. Visit [OnePeople.sg Facebook page ](https://www.facebook.com/OnePeople.sg) for more information.
