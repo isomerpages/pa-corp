@@ -35,7 +35,7 @@ Most disciplines, except Medicine, Dentistry, Architecture and Law.
 
 #### Tenable Universities
 
-The undergraduate scholarships are applicable to courses at renowned overseas universities and the five local universities, namely National University of Singapore, Nanyang Technological University, Singapore Management University, Singapore Institute of Technology and Singapore University of Technology and Design.
+The undergraduate scholarships are applicable to courses at renowned overseas universities and the six local universities, namely National University of Singapore, Nanyang Technological University, Singapore Management University, Singapore Institute of Technology, Singapore University of Technology and Design and Singapore University of Social Sciences.
 
 #### Benefits of the Scholarship Award
 
@@ -52,7 +52,7 @@ The undergraduate scholarships are applicable to courses at renowned overseas un
 
 Application for the PA Scholarship will open in December of each year and close two weeks after the release of ‘A’ level results.
 
-Mid-term undergraduates who have completed at least two semesters of undergraduate studies with exemplary results may apply for the mid-term scholarship during the same period.
+Mid-term undergraduates who have completed at least one semester of undergraduate studies with exemplary results and not be in the final year of undergraduate study may apply for the mid-term scholarship during the same period.
 
 Come create a great home and caring community with us.
 
