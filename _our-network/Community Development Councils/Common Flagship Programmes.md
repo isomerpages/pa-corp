@@ -16,7 +16,7 @@ At Budget 2020, Deputy Prime Minister (DPM) and Minister for Finance, Mr Heng Sw
 
 Please click below to find out more about CDC Vouchers Scheme
 * Mr Heng Swee Keat, Deputy Prime Minister and Minister of Finance ([Video](https://www.youtube.com/watch?v=PKu86gzFzug))
-* Ms Low Yen Ling, Chairman of Mayors’ Committee and Mayor of South West District ([Video]())
+* Ms Low Yen Ling, Chairman of Mayors’ Committee and Mayor of South West District ([Video](https://www.youtube.com/watch?v=caimAImLPQ8))
 
 #### National Integration Council (NIC) - CDC Corporate Social Integration (CSI) Fund
 
