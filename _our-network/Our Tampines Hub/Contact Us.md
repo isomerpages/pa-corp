@@ -17,7 +17,7 @@ third_nav_title: Our Tampines Hub
 
 **Feedback**:
 
-For feedback, please email us at: our_tampines_hub@pa.gov.sg.
+For feedback, please email us at: [our_tampines_hub@pa.gov.sg.](mailto:our_tampines_hub@pa.gov.sg.)
 
 **Customer Service Hotline:**<br>
 6340 3636 (10am - 10pm)
