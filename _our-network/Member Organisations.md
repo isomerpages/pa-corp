@@ -105,12 +105,12 @@ Here’s a list of our Corporate Members, by different categories:
 
 ##### Youth Organisations
 
-* [Malay Youth Literary Association]()
-* [Metropolitan Young Men's Christian Association of Singapore]()
+* [Malay Youth Literary Association](http://4pm.org.sg/)
+* [Metropolitan Young Men's Christian Association of Singapore](https://www.mymca.org.sg/)
 * Singapore Malay Youth Library Association
-* [Young Men's Christian Association of Singapore]()
-* [Young Women Muslim Association]()
-* [Young Women's Christian Association of Singapore]()
+* [Young Men's Christian Association of Singapore](https://www.ymca.org.sg/)
+* [Young Women Muslim Association](https://ppis.sg/)
+* [Young Women's Christian Association of Singapore](https://ywca.org.sg/)
 
 #### Service Organisations 
 
