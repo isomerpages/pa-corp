@@ -34,4 +34,6 @@ Bringing People Together
 
 
 
-The People's Association's (PA) logo is made up of one continuous element. This represents the PA's mission of connecting Singaporeans from all ethnic backgrounds to promote active citizenry and multiracial harmony.
+The People's Association's (PA) logo is made up of one continuous element. This represents the PA's mission of connecting Singaporeans from all ethnic backgrounds to promote active citizenry and multiracial harmony
+
+Different communities, represented by the circles, keep their distinct identities and cultural values while moving and interacting with one another in the common space. Our vision is one of all communities bonding closely together, increasing the common space and strengthening the nation.
