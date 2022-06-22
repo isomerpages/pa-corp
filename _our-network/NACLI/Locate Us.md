@@ -15,9 +15,9 @@ Singapore 118176
 
 ##### Public Transport
 
-Bus no. 200
-From Buona Vista Stn (Exit D): Alight at the 7th* stop (i.e. Bus Stop 15099 Natl Leadership Inst)
-From Kent Ridge Stn (Exit B): Alight at the 4th* stop (i.e. Bus Stop 15099 Natl Leadership Inst)
+**Bus no. 200** <br>
+From Buona Vista Stn (Exit D): Alight at the 7th* stop (i.e. Bus Stop 15099 Natl Leadership Inst) <br>
+From Kent Ridge Stn (Exit B): Alight at the 4th* stop (i.e. Bus Stop 15099 Natl Leadership Inst) <br>
 From Haw Par Villa Stn: Alight at the 4th* stop (i.e. Bus Stop 15091 Opp Natl Leadership Inst)
 
 *Including the bus stop you board from
