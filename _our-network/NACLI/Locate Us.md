@@ -20,7 +20,7 @@ From Buona Vista Stn (Exit D): Alight at the 7th* stop (i.e. Bus Stop 15099 Natl
 From Kent Ridge Stn (Exit B): Alight at the 4th* stop (i.e. Bus Stop 15099 Natl Leadership Inst) <br>
 From Haw Par Villa Stn: Alight at the 4th* stop (i.e. Bus Stop 15091 Opp Natl Leadership Inst)
 
-*Including the bus stop you board from
+**Including the bus stop you board from*
 
 ##### Driving Directions
 
@@ -45,4 +45,4 @@ Email: nacli@pa.gov.sg
 Monday - Thursday : 8.30am - 6.00pm <br>
 Friday : 8.30am - 5.30pm <br>
 Saturday, Sunday & Public Holiday : Closed <br>
-*Closed during lunch time (1.00pm - 2.00pm)
+**Closed during lunch time (1.00pm - 2.00pm)*
