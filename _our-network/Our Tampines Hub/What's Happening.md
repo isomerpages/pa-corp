@@ -13,7 +13,7 @@ The series of video clips below showcases our key facilities, the different visi
 
 
 * Welcome Tour: [VIEW](https://www.youtube.com/watch?v=oG3hz9sCOXk)
-* After School Activities: [VIEW](//)
+* After School Activities: [VIEW](https://www.youtube.com/watch?v=CiP5t-UiCIQ&feature=youtu.be)
 * PAssion Card Benefits: [VIEW](//)
 * For Teens: [VIEW](//)
 * Seniors Day Out: [VIEW](//)
