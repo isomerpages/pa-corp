@@ -127,8 +127,8 @@ Here’s a list of our Corporate Members, by different categories:
 
 #### Professional Bodies 
 
-* [Institute of Singapore Chartered Accountants (ISCA)]()
-* [Singapore Chefs Association]()
+* [Institute of Singapore Chartered Accountants (ISCA)]([Home (isca.org.sg)](https://www.isca.org.sg/))
+* [Singapore Chefs Association](https://www.singaporechefs.com/)
 
 
 [Back to top]()
