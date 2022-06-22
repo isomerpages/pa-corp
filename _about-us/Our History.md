@@ -3,55 +3,15 @@ title: Our History
 permalink: /about-us/Our-History
 description: ""
 ---
-### About Us
+### Our History
 
-The People’s Association (PA) was established on 1 July 1960 as a statutory board to promote racial harmony and social cohesion in Singapore. Our mission is to build and bridge communities in achieving one people, one Singapore.
+On 1 July 1960, the PA was formed to help foster racial harmony and social cohesion to form the basis for nation building. Twenty-eight CCs were set up as meeting grounds for various ethnic, language and religious groups. Community leaders served in the newly-formed Community Centre Management Committees.
 
-PA offers a wide range of programmes to cater to Singaporeans from all walks of life - connecting people to people, and people and government. We do this through our network of over 2,000 grassroots organisations (GROs), over 100 Community Clubs, five Community Development Councils, National Community Leadership Institute and PAssion WaVe.
-
-### Vision for the Community
-
-A Great Home and A Caring Community, where we
-
-*   Share our Values
-*   Pursue our Passions
-*   Fulfil our Hopes, and
-*   Treasure our Memories
-
-Read more on the explanation of the [Vision for the Community](https://www.pa.gov.sg/docs/default-source/others-documents/about-us-doc/vision-for-the-community.pdf) (10KB, PDF).
-
-### Our Mission
-
-To Build and to Bridge communities in achieving One People, One Singapore
-
-Read more on the [PA Mission](https://www.pa.gov.sg/docs/default-source/others-documents/about-us-doc/pa's-mission-statement.pdf) (170KB, PDF).
-
-### Our Motto
-
-Bringing People Together
-
-### Our Logo
+The 1950s and early 60s saw turbulent times for Singapore. Racial riots and political strife made Singapore a poor and divided society with closely-knit communal groups pulling in different directions. We had to overcome serious political, economic and communal problems in order to survive.
 
 
 
-The People's Association's (PA) logo is made up of one continuous element. This represents the PA's mission of connecting Singaporeans from all ethnic backgrounds to promote active citizenry and multiracial harmony
-
-Different communities, represented by the circles, keep their distinct identities and cultural values while moving and interacting with one another in the common space. Our vision is one of all communities bonding closely together, increasing the common space and strengthening the nation.
-
-### Our Flag
+More and more people became active with the establishment of the Citizens' Consultative Committees and later, the Residents' Committees (RCs) and Neighbourhood Committees (NCs). People of different racial, language, income and age groups participated in a wide range of activities at the CCs. Such multi-racial participation helped to promote unity despite the diversity in race, culture and religion.
 
 
-At the heart of the PA flag is the PA logo. The borders curling upward signify a forward-looking organisation, progressing towards greater heights.
-
-### Our Service Pledge
-
-We are the People’s Association  
-  
-We pledge to care for the people  
-With integrity and empathy.  
-  
-We pledge to innovate for the people  
-To deliver confidence and excellence.  
-  
-We are the People’s Association  
-And we will Serve with Care.
+Today, we continue to bring people together through a wide range of activities organised at more than 100 CCs, 550 RCs and 100 NCs all across Singapore. We have grown from strength to strength and we look forward to continuing our role in strengthening the community and nation-building. Be a part of history and join us in this worthwhile endeavour.
