@@ -3,14 +3,13 @@ title: Community Sports
 permalink: /our-programmes/community-sports
 description: ""
 ---
-
 The People’s Association works through Community Sports Networks (CSNs) to foster community bonding through a wide array of sports activities for residents to participate and interact with one another.
 
 Over the years, the CSN flagship programmes like the evergreen programme PAssion Community Football.
 
 The CSNs at the grassroots level organises an array of activities such as brisk walks, mass swims, sports carnivals, bowling, badminton, football and sepaktakraw, and in recent years also included disc golf, kin-ball and floorball.
 
-Visit our Facebook page for more information! Alternatively, you could email us at [PA_Community_Sports@pa.gov.sg](mailto: PA_Community_Sports@pa.gov.sg)!
+Visit our [Facebook Page](https://www.facebook.com/CommunitySportsClub) for more information! Alternatively, you could email us at [PA_Community_Sports@pa.gov.sg](mailto: PA_Community_Sports@pa.gov.sg)!
 
  
 ### PAssion Community Football
