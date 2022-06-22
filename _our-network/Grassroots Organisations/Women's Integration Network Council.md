@@ -15,7 +15,4 @@ The mission of the WIN Council is to:
 * Inspire women to take leadership positions in GROs; and
 * Nurture women to play an active role in society and the community.
 
-For more information on WECs and WIN Council, please visit our [Facebook Page](//)
-
-
-
+For more information on WECs and WIN Council, please visit our [Facebook Page](https://www.facebook.com/PAWIN.sg/)
