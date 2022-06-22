@@ -14,4 +14,4 @@ The functions of Narpani Pearavai are to:
 * Assist IAECs and other GROs to identify and recruit suitable Indian grassroots leaders; and
 * Facilitate collaborations between IAECs and other Grassroots Organisations (GROs) in the community;
 
-Find out more about [Narpani Pearavai.](//)
+Find out more about [Narpani Pearavai.](https://www.facebook.com/friendsofnarpanipearavai)
