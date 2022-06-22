@@ -63,10 +63,10 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Dragon Boat Association](http://www.sdba.org.sg/)
 * [Singapore Judo Association](http://www.sjf.sg/)
 * [Singapore Floorball Association](https://www.revolutionise.sg/sgfloorball/home)
-* [Singapore Karate-Do Federation]()
-* [Singapore Sailing Federation]()
+* [Singapore Karate-Do Federation](http://www.singaporekarate.org/)
+* [Singapore Sailing Federation](https://sailing.org.sg/)
 * [Singapore Sepaktakraw Federation]()
-* [Singapore Silat Federation]()
+* [Singapore Silat Federation](https://www.persisi.org/)
 * Singapore Squash Rackets Association
 * [Singapore Swimming Association]()
 * [Singapore Table Tennis Association]()
