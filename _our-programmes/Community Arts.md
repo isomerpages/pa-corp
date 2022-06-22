@@ -48,7 +48,7 @@ With 38 Art Villages happening island-wide, organised by our network of Communit
 
 In commemoration of Singapore's Bicentennial, PAssionArts and 30,000 residents including young families will present a special gift to all Singaporeans: The Garden of HeARTs. 200 of such gardens will bloom with 4,000 small, medium and big hearts. These installations will be on display at various community locations island-wide.
 
-Be part of this year's PAssionArts Festival with your family and friends! To download the Festival Guide, click here (15.2MB, PDF).
+Be part of this year's PAssionArts Festival with your family and friends! To download the Festival Guide, [click here](//)
 
 For more information and full event listings, visit us at [PAssionArts Facebook page](https://www.facebook.com/PAssionArtsSG) today!
 
