@@ -54,10 +54,10 @@ Here’s a list of our Corporate Members, by different categories:
 * [Basketball Association of Singapore](https://bas.org.sg/)
 * [Football Association of Singapore](http://www.fas.org.sg/)
 * [Qigong Shi Ba Shi Association](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FQigong18A)
-* [Singapore Badminton Association]()
-* [Singapore Bowling Federation]()
+* [Singapore Badminton Association](http://www.singaporebadminton.org.sg/)
+* [Singapore Bowling Federation](http://www.singaporebowling.org.sg/)
 * Singapore Canoe Federation
-* [Singapore Chess Federation]()
+* [Singapore Chess Federation](http://www.singaporechess.org.sg/)
 * [Singapore Contract Bridge Association]()
 * [Singapore Cycling Federation]()
 * [Singapore Dragon Boat Association]()
