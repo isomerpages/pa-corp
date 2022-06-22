@@ -9,11 +9,11 @@ Established by PA with the support of the Ministry of Culture, Community and You
 
 The key PAssionArts programmes include:
 * Community Arts and Culture Clubs
-* PAssionArts Community Art Gallery
 * PAssionArts Festival
+* PAssionArts Volunteer Corps
+* PAssionArts Community Art Gallery
 * PAssionArts Hotspot
 * PAssionArts Inspiration Series
-* PAssionArts Volunteer Corps
 
 For more information, check out our [Facebook page](http://www.facebook.com/PAssionArtsSG).
 
