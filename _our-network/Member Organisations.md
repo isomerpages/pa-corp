@@ -87,12 +87,12 @@ Here’s a list of our Corporate Members, by different categories:
 
 #### Uniformed Organisations
 
-* [Girl Guides Singapore]()
-* [The Singapore Scout Association]()
+* [Girl Guides Singapore](https://girlguides.org.sg/)
+* [The Singapore Scout Association](https://scout.sg/)
 * Singapore Red Cross Society
-* [St. John Singapore]()
-* [The Boys' Brigade in Singapore]()
-* [The Girls' Brigade Singapore]()
+* [St. John Singapore](https://stjohn.org.sg/)
+* [The Boys' Brigade in Singapore](https://www.bb.org.sg/)
+* [The Girls' Brigade Singapore](https://www.gb.org.sg/)
 
 #### Unions
 
