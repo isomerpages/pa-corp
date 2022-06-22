@@ -27,7 +27,7 @@ description: ""
 
 | img | img| img |
 | -------- | -------- | -------- |
-| [PAssion Wave](/our-programmes/PAssion-Wave) <br>PA PAssion WaVe's outlets offer a range of land and water sports programmes such as abseiling and power boating. <br>[Read More](/our-programmes/PAssion-Wave) | [Emergency Preparedness](/our-programmes/Emergency-Preparedness)<br>PA's Emergency Preparedness Groups and Community Emergency Response Teams shows you how to react during emergencies.<br>[Read More](/our-programmes/Emergency-Preparedness)     | [PAssion Card](/our-programmes/PAssion-Card) <br>The PAssion Card offers exclusive privileges to its members for PA's exciting range of courses and activities.<br>[Read More](/our-programmes/PAssion-Card)    |
+| [PAssion Wave](//our-programmes/PAssion-Wave/PAssion-WaVe) <br>PA PAssion WaVe's outlets offer a range of land and water sports programmes such as abseiling and power boating. <br>[Read More](//our-programmes/PAssion-Wave/PAssion-WaVe) | [Emergency Preparedness](/our-programmes/Emergency-Preparedness)<br>PA's Emergency Preparedness Groups and Community Emergency Response Teams shows you how to react during emergencies.<br>[Read More](/our-programmes/Emergency-Preparedness)     | [PAssion Card](/our-programmes/PAssion-Card) <br>The PAssion Card offers exclusive privileges to its members for PA's exciting range of courses and activities.<br>[Read More](/our-programmes/PAssion-Card)    |
 
 
 
