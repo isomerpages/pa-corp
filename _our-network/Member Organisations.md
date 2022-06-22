@@ -51,8 +51,8 @@ Here’s a list of our Corporate Members, by different categories:
 
 #### Sports & Martial Arts Associations
 
-* [Basketball Association of Singapore]()
-* [Football Association of Singapore]()
+* [Basketball Association of Singapore](https://bas.org.sg/)
+* [Football Association of Singapore](http://www.fas.org.sg/)
 * [Qigong Shi Ba Shi Association]()
 * [Singapore Badminton Association]()
 * [Singapore Bowling Federation]()
