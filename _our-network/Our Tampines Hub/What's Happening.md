@@ -12,7 +12,7 @@ Our Tampines Hub (OTH) boasts more than 30 sports, community, arts and lifestyle
 The series of video clips below showcases our key facilities, the different visitor demographics that we serve, and how we use OTH as a communal infrastructure which features multiple platforms to build and bridge different members of our community, while engendering a sense of ownership amongst visitors and building a foundation that will nurture more meaningful and lasting relationships.
 
 
-* Welcome Tour: [VIEW](//)
+* Welcome Tour: [VIEW](https://www.youtube.com/watch?v=oG3hz9sCOXk)
 * After School Activities: [VIEW](//)
 * PAssion Card Benefits: [VIEW](//)
 * For Teens: [VIEW](//)
