@@ -4,3 +4,36 @@ permalink: /our-network/Partners/PA-Partners
 description: ""
 third_nav_title: Partners
 ---
+#### Partners
+
+The People's Association (PA) offers partnership opportunities for corporate and community organisations to collaborate with our extensive grassroots network to support programmes and initiatives that make a difference in the community.
+
+Organisations can support the calendar of community events, co-create cause-based and/or interest-based programmes with PA that benefit the community. The contributions by partners will certainly go a long way to impact lives and build a great and caring home for all.
+
+#### Why Partner PA?
+
+#### The "Network of Partners" Approach
+
+Our partners can **join efforts with other PA partners towards a common cause/interest to create greater social impact**, each contributing in their own ways, in accordance to the organisation’s capabilities, such as expertise, volunteers, donations in cash and/or in-kind. Together with the **extensive network of PA**, including the grassroots organisations and PA units, we can co-create meaningful programmes through concerted efforts.
+
+
+#### Community Insights
+
+Having a diverse networks in the community, PA can share on the community needs to better enhance the outreach programmes and partnership initiatives.
+
+#### Sharing of Ideas and Best Practices
+Platforms such as dialogue sessions and networking opportunities are available for partners to share creative ideas and best practices. This mutual learning opportunity will improve existing collaborative programmes and inspire new partnership possibilities.
+
+#### Recognition for partners
+
+We give recognition to strategic partners who had worked closely with PA. The PA Community Spirit Award Scheme is given to recognise exemplary partners who have assisted in building social capital and contributed to the community.
+
+#### Be a Friend of PA, Be Our WeCare PALs
+
+WeCare PALs are our friends of PA, an overarching term we use for all our PA partners. Check out the [WeCare PALs](our-network/partners/wecare-pals) page to find out more about WeCare PALs and how your organisation can partner with us!
+
+
+
+If you are a corporate organisation keen on corporate giving and volunteerism, join [Project We Care](our-network/partners/project-we-care) and let us co-create meaningful programmes together!
+
+
