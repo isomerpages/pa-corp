@@ -52,6 +52,6 @@ Owning Your Community
 
 
 
-For more information, please visit www.cdc.gov.sg.
+For more information, please visit [www.cdc.gov.sg.](www.cdc.gov.sg.)
 
 To volunteer at the CDCs please fill up [this]((https://www.cdc.gov.sg/CSR-And-Volunteer/Join-as-Volunteer) form. We will get back to you within three working days.
