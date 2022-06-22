@@ -12,7 +12,7 @@ Community Clubs (CCs) are common spaces for people of all races to come together
 
 Click [here](/our-network/Community-Clubs/Locate-CC) to search for your nearest CC.
 
-For information on the Legal Advice Service provided at the CCs, click [here]().
+For information on the Legal Advice Service provided at the CCs, click [here](/our-network/Community-Clubs/Legal-Advice-Service).
 
 For information on the Rental Facilities that are available at the CCs, click [here]().
 
