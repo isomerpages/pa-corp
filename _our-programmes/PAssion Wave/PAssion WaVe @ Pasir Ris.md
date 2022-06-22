@@ -25,7 +25,7 @@ Fax: 65815781
 Email: [PA\_WVPASIRRIS@pa.gov.sg](mailto:PA_WVPASIRRIS@pa.gov.sg)  
 Website: [https://www.facebook.com/pa.passionwave](https://www.facebook.com/pa.passionwave)
 
-[I want to register for a course](https://www.onepa.sg/)
+[I want to register for a course](https://www.onepa.gov.sg/)
 
 ### Map
 
