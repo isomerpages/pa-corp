@@ -6,7 +6,6 @@ third_nav_title: CC Courses
 ---
 Life is a journey of constant learning and improvement. The PA offers you endless opportunities to pick up new skills, have fun, while making new friends. From cultivating your taste for fine wines and cuisine, to offering you personal grooming and beauty tips; from the development of your information technology skills to classes in martial arts, dance, and sporting activities; we have something for everyone!
 
-Visit the [onePA website](https://www.onepa.gov.sg/) to book CC courses and facilities, or join an Interest Group.
 
 ### Series of Courses
 The main categories of courses offered at our CCs/RCs are:
