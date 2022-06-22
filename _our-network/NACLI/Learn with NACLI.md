@@ -30,7 +30,7 @@ Come onboard NACLI’s learning journey today!  Download the latest copy of our 
 
 | NC 3/2020 | NC 2/2020  | 
 | -------- | -------- | 
-|     |    |
+|  [img](#)   |  [img](#)  |
 
 | NC 1/2020 | 
 | -------- |  
