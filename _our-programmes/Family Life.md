@@ -3,7 +3,6 @@ title: Family Life
 permalink: /our-programmes/Family-Life
 description: ""
 ---
-
 The Family Life Champion programme was incepted in 2005 to promote community support for family formation and strengthen the social fabric. The Family Life Champions (FLCs) work towards building strong families and nurture a strong Singapore core with many helping hands through family-centric events and outreach programmes.  Together with various grassroots organisations, government agencies and community partners, the FLCs build communities of support to co-create a society where marriage and parenthood are achievable, enjoyable and celebrated.
 
 Parents can also look out for a wide myriad of family bonding activities such as interactive parent-child activities, family life workshops, themed family outings and more:
@@ -18,4 +17,4 @@ The Family Fun.Family Time programme is a series of customised family-centric ac
 
 The We Grow.We Explore Holiday programme is a series of thematic parent-child activities, specially curated to get families to foster stronger ties and connections during the holiday season.
 
-Follow us on the ‘PA Family Life Champion’ Facebook Page for more family programme updates, or email us at [PA_FamilyLife@pa.gov.sg](mailto: PA_FamilyLife@pa.gov.sg) for more details.
+Follow us on the [PA Family Life Champion Facebook Page](https://www.facebook.com/flc.pa.1) for more family programme updates, or email us at [PA_FamilyLife@pa.gov.sg](mailto: PA_FamilyLife@pa.gov.sg) for more details.
