@@ -30,5 +30,5 @@ Scan the QR code or click the link below to register to be a CERT member.
 
 [img]()
 
-[http://go.gov.sg/dzdaq0](http://go.gov.sg/dzdaq0)
+[http://go.gov.sg/dzdaq0](http://go.gov.sg/dzdaq0)<br>
 Residents can visit the nearest Community Clubs/Centres to sign up or learn more about the eligibility requirements for our EP Programmes. For any enquiries, please email to [PA_CERT@pa.gov.sg](PA_CERT@pa.gov.sg)
