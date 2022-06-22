@@ -16,4 +16,4 @@ For information on the Legal Advice Service provided at the CCs, click [here](/o
 
 For information on the Rental Facilities that are available at the CCs, click [here](/our-network/Community-Clubs/Rentals).
 
-Click here to search for your nearest RC, and [here]() to search for your nearest NC.
+Click here to search for your nearest RC, and [here](/our-network/Grassroots-Organisations/Residents-Committees) to search for your nearest NC.
