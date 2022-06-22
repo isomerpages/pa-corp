@@ -3,7 +3,6 @@ title: Community Integration
 permalink: /our-programmes/community-integration
 description: ""
 ---
-
 PA through its Grassroots Organisations (GROs) and Integration and Naturalisation Champions (INCs), help new citizens and Permanent Residents (PRs) settle in the community, providing platforms for them to interact with and bond with the local residents. Through their participation in various integration-centric programmes and GRO programmes/activities, the new immigrants can make friends and develop mutual understanding with their neighbours and other residents in the community. 
 
 ### New Initiative: ‘Your Neighbourly Welcome Guide’
@@ -14,14 +13,14 @@ An initiative of the People’s Association, “Your Neighbourly Welcome Guide�
 Discover the gems of your neighbourhood with the guidebook!
 (More GRC Welcome Guides are coming up!)
 
-* Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs
-* East Coast GRC
-* Holland-Bukit Timah GRC and Bukit Panjang SMC
-* Jalan Besar GRC and Potong Pasir SMC
-* Marine Parade GRC, MacPherson and Mountbatten SMCs
-* Marsiling - Yew Tee GRC
-* Nee Soon GRC
-* Sembawang GRC
+* [Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs](//)
+* [ East Coast GRC](//)
+* [Holland-Bukit Timah GRC and Bukit Panjang SMC](//)
+* [Jalan Besar GRC and Potong Pasir SMC](//)
+* [Marine Parade GRC, MacPherson and Mountbatten SMCs](//)
+* [Marsiling - Yew Tee GRC](//)
+* [Nee Soon GRC](//)
+* [Sembawang GRC](//)
 
 ### Integration and Naturalisation Champions
 [img]()
