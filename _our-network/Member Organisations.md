@@ -27,7 +27,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Chinese Theatre Circle](http://www.ctcopera.com/)
 * [Er Woo Amateur Musical And Dramatic Association](https://www.facebook.com/ErWooAmateurMusicalDramaticAssociation)
 * [Hindi Society (Singapore)](http://www.hindi-society.com/)
-* [Institute of Technical Education, Singapore]()
+* [Institute of Technical Education, Singapore](https://www.ite.edu.sg/)
 * Metro Philharmonic Society
 * [Nanyang Academy of Fine Arts]()
 * [Perkumpulan Seni]()
