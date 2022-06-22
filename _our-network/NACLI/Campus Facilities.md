@@ -4,11 +4,6 @@ permalink: /our-network/National-Community-Leadership-Institute/Campus-Facilitie
 description: ""
 third_nav_title: NACLI
 ---
-
-
-
-
-
 #### Campus Facilities
 
 
@@ -18,8 +13,6 @@ Surrounded by the vast greenery of Kent Ridge Park and linked to Singapore’s S
 
 Contact us today so that we can assist to make your learning experience an enjoyable and memorable one!
 
-We have revised our rental rates from 1 February 2020. Click the link below for more information on our new rates. For rental enquiries, please fill up the rental enquiry form and email back to us.
+We have revised our rental rates from **1 February 2020**. Click the link below for more information on our new rates. For rental enquiries, please fill up the rental enquiry form and email back to us.
 
 * [Rental Enquiry Form](//) (862KB, PDF)
-
-
