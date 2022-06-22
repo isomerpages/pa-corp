@@ -4,15 +4,6 @@ permalink: /our-network/National-Community-Leadership-Institute/NACLI
 description: ""
 third_nav_title: NACLI
 ---
-
-
-
-
-
-
-
-
-
 ### National Community Leadership Institute
 
 
@@ -23,19 +14,14 @@ Leadership development is crucial to the continued excellence and growth of comm
 ##### Overview of NACLI
 
 *Mission*<br>
-
 To Develop, Align and Inspire Leaders in Building and Bridging Communities
 
 *Vision*<br>
-
 The Institute of Learning Excellence for Community Leadership Development
 
 *Tagline*<br>
-
 Inspiring Leaders, Serving the Community
 
 #### About NACLI Logo
 
 [Click here](//) to understand more about the NACLI Logo. (94.8KB, PDF)
-
-
