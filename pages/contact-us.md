@@ -17,18 +17,11 @@ locations:
         description: ""
     maps_link: ""
     title: Head Quarters
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6225 5322
+      - email: ""
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
