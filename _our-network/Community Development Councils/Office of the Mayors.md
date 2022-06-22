@@ -16,7 +16,7 @@ The Office of the Mayors in Singapore serves the residents in the five districts
 * Mr Mohd Fahmi Aliman, Mayor of South East District
 
 
-For more information on the Mayors, please visit https://www.cdc.gov.sg/office-of-the-mayors/our-mayors.
+For more information on the Mayors, please visit [https://www.cdc.gov.sg/office-of-the-mayors/our-mayors.](https://www.cdc.gov.sg/office-of-the-mayors/our-mayors.)
 
 For coordination work under Office of the Mayors, please write to PA CDC Planning & Development Division.  Visit the Government Directory at 
 [https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa](https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa)
