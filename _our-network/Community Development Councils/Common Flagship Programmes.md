@@ -15,7 +15,7 @@ The five Community Development Councils (CDCs) have come together to bring servi
 At Budget 2020, Deputy Prime Minister (DPM) and Minister for Finance, Mr Heng Swee Keat announced that Community Development Councils (CDCs) will be given $20 million to better meet the needs of the residents through local initiatives.  The CDC Vouchers Scheme aims to help Singaporean households defray the cost of living and at the same time, support participating local merchants and hawkers at HDB estates / heartlands during the COVID-19 situation.  
 
 Please click below to find out more about CDC Vouchers Scheme
-* Mr Heng Swee Keat, Deputy Prime Minister and Minister of Finance ([Video]())
+* Mr Heng Swee Keat, Deputy Prime Minister and Minister of Finance ([Video](https://www.youtube.com/watch?v=PKu86gzFzug))
 * Ms Low Yen Ling, Chairman of Mayors’ Committee and Mayor of South West District ([Video]())
 
 #### National Integration Council (NIC) - CDC Corporate Social Integration (CSI) Fund
@@ -58,4 +58,3 @@ Please click [here]() to find out more about WeCare Arts Fund.
 SME Centres and the five CDCs have collaborated to establish a wider network of SME Centres across Singapore to provide Heartland SMEs with greater convenience and access to business resources and advice.  These SME Centres provide local business with integrated services including business and productivity diagnosis, guidance on government assistance schemes and capability workshop.
 
 To view more photos, please visit [https://www.cdc.gov.sg/Gallery.](https://www.cdc.gov.sg/Gallery.)
-
