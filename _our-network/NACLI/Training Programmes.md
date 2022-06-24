@@ -5,13 +5,12 @@ description: ""
 third_nav_title: NACLI
 ---
 #### Training Programmes
-![NACLI Training Programmes](/images/Our%20Network/NACLI/NACLI%20-%20Training%20Programmes%20(Website).jpg) 
+![NACLI Training Programmes](/images/Our%20Network/NACLI/NACLI%20-%20Training%20Programmes.jpg) 
 ##### Grassroots Leaders
 
 NACLI provides leadership training for grassroots leaders through a Community Leadership Development Framework, to equip grassroots leaders with practical knowledge and competencies to carry out their roles in the community effectively.
 
-For more information about our grassroots training programmes, please click on the links below.
-
+For more information about our grassroots training programmes, please click on the links below. <br>
 [Induction for PA New Grassroots Leaders (IPNGL)](#)<br>
 [Customised Programmes for Grassroots Leaders](#)<br>
 
