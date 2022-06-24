@@ -13,8 +13,8 @@ Through regular dialogue sessions, community events and house visits, our reside
 
 When major new government policies that directly affect the lives of many Singaporeans are introduced, our grassroots help residents better understand the key basic points of these policies and how they can benefit from them. The Ask Kopi Kakis (AKK) initiative was implemented by PA in all its CCs, to make government policies simple, relevant and accessible to all. To read more, please click [here]().
 
-Serving as a bridge between the Government and the people, our grassroots also bring together government agencies and residents to help find community-led solutions for local problems. For example, efforts from the Grassroots Organisation to ease the congestion issue in the Tiong Bahru neighbourhood. To read the full article, please click [here]().  
+Serving as a bridge between the Government and the people, our grassroots also bring together government agencies and residents to help find community-led solutions for local problems. For example, efforts from the Grassroots Organisation to ease the congestion issue in the Tiong Bahru neighbourhood. To read the full article, please click [here](https://www.todayonline.com/singapore/grassroots-effort-aims-ease-traffic-woes-tiong-bahru).  
 
 Through some of our CCs, PA also provides some basic government services to make it more convenient to residents.
 
-Our network of grassroots organisations and volunteers work tirelessly to connect Government and the people. If you have the passion and drive to contribute to the community and help your fellow residents, click here to join us as a grassroots volunteer today. 
+Our network of grassroots organisations and volunteers work tirelessly to connect Government and the people. If you have the passion and drive to contribute to the community and help your fellow residents, click here to join us as a grassroots volunteer today.
