@@ -3,7 +3,6 @@ title: Be Our Volunteer
 permalink: /engage/Be-Our-Volunteer
 description: ""
 ---
-
 #### Our Volunteers
 
 ![](/images/our-volunteers_compressed.jpg)
@@ -14,6 +13,6 @@ Our volunteers visit residents to encourage community involvement, raise awarene
 
 Through volunteering, you will also forge strong friendships with your neighbours and other volunteers.
 
-With more than 1,800 [Grassroots Organisations]() within the PA network, there will definitely be a role that will suit your interest and strengths.
+With more than 1,800 [Grassroots Organisations](/our-network/Grassroots-Organisations/Grassroots-Organisations) within the PA network, there will definitely be a role that will suit your interest and strengths.
 
 [Apply Online]()now to become a PA volunteer.
