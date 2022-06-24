@@ -25,4 +25,4 @@ Inspiring Leaders, Serving the Community
 
 ##### About the NACLI Logo
 
-[Click here](//) to understand more about the NACLI Logo. (94.8KB, PDF)
+[Click here](/files/NACLI/01%20NACLI/About%20NACLI%20Logo.pdf) to understand more about the NACLI Logo.
