@@ -17,7 +17,6 @@ Come onboard NACLI’s learning journey today!  Download the latest copy of our 
 
 ##### Past Issues
 
-
 |  |
 |  ------- | 
 | [Apr - Jun 2022](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue3-apr-jun-2022.pdf) |
