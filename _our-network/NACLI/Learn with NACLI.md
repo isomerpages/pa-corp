@@ -8,14 +8,16 @@ third_nav_title: NACLI
 
 Come onboard NACLI’s learning journey today!  Download the latest copy of our Training Schedule here!  Click on the image below to download a copy to your devices.
 
-#### Current Issue (Jul - Sep 2022)
+#### Training Schedule 
+
+##### Current Issue (Jul - Sep 2022)
 
  [![NACLI Courses - Jul-Sep 2022](/images/Our%20Network/NACLI/Jul-Sep-2022.png)](#)
 
-##### Training Schedule (Past Issues)
+##### Past Issues
 
 
-| Past Issues |  
+|  |
 |  ------- | 
 | [Apr - Jun 2022](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue3-apr-jun-2022.pdf) |
 | [Jan - Mar 2022](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue2-janmar-2022.pdf) |
