@@ -10,6 +10,6 @@ Surrounded by the vast greenery of Kent Ridge Park and linked to Singapore’s S
 
 Contact us today so that we can assist to make your learning experience an enjoyable and memorable one!
 
-We have revised our rental rates from **1 February 2020**. Click the link below for more information on our new rates. For rental enquiries, please fill up the rental enquiry form and email back to us.
+We have revised our rental rates from **1 February 2020**. Click the link below for more information on our new rates. For rental enquiries, please fill up the rental enquiry form and email back to us: 
 
-* [Rental Enquiry Form](//) (862KB, PDF)
+[Rental Enquiry Form](/files/NACLI/04%20Campus%20Facilities/NACLI%20Rental%20Enquiry%20Form%20(as%20at%2015%20Jan%202020).pdf)
