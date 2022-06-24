@@ -30,7 +30,7 @@ Find out more about our Grassroots Organisations [here](/our-network/Grassroots-
                 Help explain government initiatives
 								
 								
-Find out more about our Community Development Councils [here]().
+Find out more about our Community Development Councils [here](/our-network/Community-Development-Councils/Community-Development-Councils).
 
 #### Have a question to ask?
 
