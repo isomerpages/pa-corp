@@ -5,10 +5,7 @@ description: ""
 third_nav_title: NACLI
 ---
 #### Campus Facilities
-
-
-[img](//)
-
+![NACLI Campus Facilities](/images/Our%20Network/NACLI/Campus%20Facilities%20-%20LL%20(Website).jpeg) <br>
 Surrounded by the vast greenery of Kent Ridge Park and linked to Singapore’s Southern Ridges, NACLI provides the ideal venue for your grassroots training and retreats; both indoors and outdoors. With its rustic and resort like ambience, our campus offers training facilities and learning spaces of different sizes that can accommodate up to 800 participants to suit your programme needs. 
 
 Contact us today so that we can assist to make your learning experience an enjoyable and memorable one!
