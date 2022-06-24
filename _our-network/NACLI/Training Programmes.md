@@ -11,8 +11,8 @@ third_nav_title: NACLI
 NACLI provides leadership training for grassroots leaders through a Community Leadership Development Framework, to equip grassroots leaders with practical knowledge and competencies to carry out their roles in the community effectively.
 
 For more information about our grassroots training programmes, please click on the links below. <br>
-[Induction for PA New Grassroots Leaders (IPNGL)](#)<br>
-[Customised Programmes for Grassroots Leaders](#)<br>
+[Induction for PA New Grassroots Leaders (IPNGL)](/files/NACLI/03%20Training%20Programmes/Induction%20for%20PA%20New%20Grassroots%20Leaders%20(IPNGL).pdf)<br>
+[Customised Programmes for Grassroots Leaders](/files/NACLI/03%20Training%20Programmes/Customised%20Programmes%20for%20Grassroots%20Leaders.pdf)<br>
 
 **For enquiries on courses, please contact:**<br>
 Training Administration Section<br>
