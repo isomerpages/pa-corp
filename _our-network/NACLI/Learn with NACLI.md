@@ -15,13 +15,13 @@ Come onboard NACLI’s learning journey today!  Download the latest copy of our 
 ##### Training Schedule (Past Issues)
 
 
-| Issue | Download Link |  
-| -------- |  ------- | 
-| Apr - Jun 2022 | [Download](#) |
-| Jan - Mar 2022 | [Download](#) |
-| Oct - Dec 2021 | [Download](#) |
-| NC 2/2021 | [Download](#) |
-| NC 1/2021 | [Download](#) |
-| NC 3/2020  | [Download](#) |
-| NC 2/2020 | [Download](#) |
-| NC 1/2020 | [Download](#) |
+| Past Issues |  
+|  ------- | 
+| [Apr - Jun 2022](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue3-apr-jun-2022.pdf) |
+| [Jan - Mar 2022](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue2-janmar-2022.pdf) |
+| [Oct - Dec 2021](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue1-oct-dec2021.pdf) |
+| [Issue 2 - 2021](#) |
+| [Issue 1 - 2021](#) |
+| [Issue 3 - 2020](/files/NACLI/02%20Learn%20with%20NACLI/nc-3-2020-(web).pdf) |
+| [Issue 2 - 2020](/files/NACLI/02%20Learn%20with%20NACLI/nc-2-2020-(web).pdf) |
+| [Issue 1 - 2020](/files/NACLI/02%20Learn%20with%20NACLI/nc-1-2020-(web).pdf) |
