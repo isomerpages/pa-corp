@@ -11,4 +11,4 @@ Bringing diverse people together to solve problems in the community also create 
 
 In this way, residents expand their social networks and get to know one another better which build mutual trust, friendship and reciprocity amongst them.
 
-Click [here]() to learn more about our extensive range of programmes available and get involved today!
+Click [here](/our-programmes/Programmes) to learn more about our extensive range of programmes available and get involved today!
