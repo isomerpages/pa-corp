@@ -37,4 +37,4 @@ Participating in the PA Structured Internship Programme is a great opportunity f
 | Jun to Oct  | 1. For students who are interested in developing training videos and have video editing skills |
 
 ##### For Further Enquiries
-You may write in to PA_Champs@pa.gov.sg for further enquiries.
+You may write in to [PA_Champs@pa.gov.sg ](mailto: PA_Champs@pa.gov.sg ) for further enquiries.
