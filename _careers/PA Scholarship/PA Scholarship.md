@@ -58,6 +58,6 @@ Come create a great home and caring community with us.
 
 If you are interested to apply for the PA Scholarship, click [here](//) and complete an online application form.
 
-Find out more about the PA Scholarship through the [FAQs on Scholarship](//) (382KB, PDF).
+Find out more about the PA Scholarship through the [FAQs on Scholarship](/files/Careers/FAQs%20on%20PA%20Scholarship(internet).pdf)
 
 [Back to top](#1)
