@@ -5,7 +5,7 @@ description: ""
 third_nav_title: NACLI
 ---
 #### Training Programmes
-
+![NACLI Training Programmes](/images/Our%20Network/NACLI/NACLI%20-%20Training%20Programmes%20(Website).jpg) 
 ##### Grassroots Leaders
 
 NACLI provides leadership training for grassroots leaders through a Community Leadership Development Framework, to equip grassroots leaders with practical knowledge and competencies to carry out their roles in the community effectively.
