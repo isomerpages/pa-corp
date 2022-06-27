@@ -60,13 +60,13 @@ sections:
       button: CC Location
       url: //permalink
       alt: Image alt text
-  - infopic:
-      subtitle: District Information
-      description: Find out your district's information.
-      button: Find
-      url: /district-info/Details
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
       button: Resources Button Name
+  - infobar:
+      subtitle: DISTRICT INFORMATION
+      description: Find out your district's information
+      button: Find
+      url: /district-info/Details
 ---
