@@ -68,5 +68,5 @@ sections:
   - infobar:
       subtitle: Phone Number check
       button: Click here
-      url: /
+      url: /Authenticity-Check
 ---
