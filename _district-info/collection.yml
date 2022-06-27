@@ -1,4 +1,5 @@
 collections:
   district-info:
     output: true
-    order: []
+    order:
+      - Details.md
