@@ -1,0 +1,4 @@
+collections:
+  district-info:
+    output: true
+    order: []
