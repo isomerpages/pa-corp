@@ -60,10 +60,6 @@ sections:
       button: CC Location
       url: //permalink
       alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
   - infobar:
       subtitle: DISTRICT INFORMATION
       description: Find out your district's information
