@@ -14,7 +14,8 @@ People’s Association (PA) Senior Citizens’ Executive Committees (SCECs) is t
 
 Jointly offered by the People’s Association and Health Promotion Board, the Live Well, Age Well programme aims to empower adults aged 50 and above to help them remain mentally, physically and socially active. The programme offers a series of exciting activities across six well domains:
 
-*   **Live Active** : To engage seniors in regular group exercises, focusing on strength, balance and flexibility to support seniors in meeting their recommended physical activity levels<br>
+
+*  **Live Active** : To engage seniors in regular group exercises, focusing on strength, balance and flexibility to support seniors in meeting their recommended physical activity levels<br>
 • **Live Enriched**: To equip seniors with knowledge and skills to improve and maintain their physical, mental and functional health<br>
 • **Live Nourished**: To encourage seniors to adopt a healthy and balanced diet, with a focus on meeting recommended intake of important nutrients including protein and calcium<br>
 • **Live Assured**: To encourage seniors to go for regular health screening and follow-up<br>
