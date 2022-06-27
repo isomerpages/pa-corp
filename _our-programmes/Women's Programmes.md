@@ -3,11 +3,13 @@ title: Women's Programmes
 permalink: /our-programmes/womens-programmes
 description: ""
 ---
-#### Women's Programmes
+### Women's Programmes
+
+![](/images/Our%20Programmes/Women's%20Programmes%20New%20Banner%20Photo.jpg)
 
 The PA, through its network of Women’s Executive Committees, encourages women to lead active lives and contribute to the community.
 
-### Women's Executive Committees
+#### Women's Executive Committees
 
 **The Women’s Executive Committees (WECs)** organise a wide range of programmes to meet the needs of women from different backgrounds ranging from health matters related to women and family, managing work-life harmony to programmes on parenting, financial literacy and employability. They also help to form interest groups for residents to interact with one another and make more friends, as well as recruit more volunteers to serve the community. There are WECs located at each of the Community Clubs islandwide.
 
