@@ -2,4 +2,5 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Bishan Trade Fair.md
       - Tender for Toa Payoh Central Trade Fair.md
