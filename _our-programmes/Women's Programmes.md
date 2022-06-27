@@ -10,17 +10,11 @@ The PA, through its network of Women’s Executive Committees, encourages women 
 ### Women's Executive Committees
 **The Women’s Executive Committees (WECs)** organise a wide range of programmes to meet the needs of women from different backgrounds ranging from health matters related to women and family, managing work-life harmony to programmes on parenting, financial literacy and employability. They also help to form interest groups for residents to interact with one another and make more friends, as well as recruit more volunteers to serve the community. There are WECs located at each of the Community Clubs islandwide.
 
-Our WECs also organise interest groups to encourage women with common interests to meet regularly, exchange ideas, network, mingle and make new friends. There are many interest groups ranging from parenting, beauty and fitness to culinary and travel. You are welcomed to explore and visit any of our many interest groups to find one that suits you.
-
-The WECs are guided by the Women's Integration Network (WIN) Council. Besides offering national-level events, the WIN Council runs programmes such as the GRACE (GRoom-A-Child-to-Excel) Mentorship Programme which nurtures young girls from lower-income families and Citi-Tsao Financial Education Programme for Women to equip women with financial management knowledge.
-
-### GRACE Mentorship Programme
-The GRACE Mentorship Programme enables preteen girls (aged between 7 and 12 years old) to develop their potential with given opportunities from their community. Under this programme, the WIN Council members together with their WECs will be mentors to the girls who come from low household income families.
-
-The girls will receive help in their studies and get enrolled in enrichment courses at Community clubs to develop their academic and non-academic talents. They will also participate in community activities such as outdoor excursions.
+The WECs are guided by the Women's Integration Network (WIN) Council. The Council’s key initiatives include programmes to enable working women and mothers with knowledge and information to better manage work and family life, take charge of their health and their families, as well as to provide a platform for sharing of concerns and forge networks women can turn to for mutual support. The “Better Me, Better Us” is a series of talks that aim to provide women with knowledge and information by covering topics such as health and environmental awareness.
 
 
-### CITI-Tsao Financial Education Programme
-The Citi-Tsao Financial Education Programme was launched in April 2008 to help Singaporean women manage their finances better. The programme provides information and suggestions to help these women develop and manage their financial plans such that they are able to provide for themselves in their old age.
 
-For more information about programmes by WECs and WIN Council visit [our Facebook page](https://www.facebook.com/PAWIN.sg/).
+
+Besides actively promoting partnership to better cater to the needs of women from different backgrounds, the Council has also initiated numerous programmes to support national campaigns such as War Against Diabetes, Smart Nation and Climate Action. Programmes include the ‘WEC SMART Women Enabling Series’ to equip women with useful digital skills to bring convenience to their lives, Zumba parties to encourage women to adopt a healthy lifestyle and upcycling workshops to encourage women and their family to adopt green practices. For more information about programmes by WECs and WIN Council visit [our Facebook page](https://www.facebook.com/PAWIN.sg/).
+
+
