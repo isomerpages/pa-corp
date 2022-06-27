@@ -65,4 +65,8 @@ sections:
       description: Find out your district's information
       button: Find
       url: /district-info/Details
+  - infobar:
+      subtitle: Phone Number check
+      button: Click here
+      url: /
 ---
