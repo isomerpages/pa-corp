@@ -6,7 +6,7 @@ description: ""
 #### PAssion Card
 
 
- <img style="height:200px;width:300px" src="images/Our%20Programmes/PAssion%20Card(1).png" > 
+ <img style="height:300px;width:400px" src="images/Programmes/PAssion%20Card%20(1).png" > 
 
 
 The PAssion Card is a membership card of the People's Association (PA).
