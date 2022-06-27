@@ -64,7 +64,7 @@ sections:
       subtitle: District Information
       description: Find out your district's information.
       button: SearchGoWhere
-      url: //Permalink
+      url: "/district-info/details  "
       alt: Image alt text
   - resources:
       title: Resources Section Title
