@@ -13,7 +13,12 @@ The Ask Kopi Kakis booklets, a set of three easy-to-read policy e-booklets, cont
 English Version<br>
 (Booklets updated as at 30 Dec 2021)
 
-[img]()
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| [](/files/Engage/pa-career-a4-eng-30pp-30122021-(final).pdf)     | [](/files/Engage/pa-family-a4-39pp-eng-30122021-(final).pdf)     |  [](/files/Engage/pa-senior-a4-36pp-eng-30122021-(final).pdf)    |
+
 
 
 Chinese Version<br>
