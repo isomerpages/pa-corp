@@ -30,6 +30,10 @@ The Ask Kopi Kakis booklets, a set of three easy-to-read policy e-booklets, cont
 
 **Malay Version**<br>
 (Booklets updated as at 30 Dec 2021)
+|Policies relating to starting your career, life-long learning and support schemes for working adults.  | Family	Career	Seniors Policies relating to setting up a home and family and initiatives to help with the cost of living. | Policies relating to retirement schemes, healthcare and initiatives for active-ageing. |
+| -------- | -------- | -------- |
+| [](/files/Engage/pa-career-malay-(final).pdf) | [](/files/Engage/pa-career-malay-(final).pdf)| [](/files/Engage/pa-senior-malay-(final).pdf) |
+
 
 
 Tamil Version<br>
