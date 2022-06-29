@@ -14,7 +14,7 @@ It's mission statement is to help residents develop active, healthy, creative, l
 
 The Management Office partners co-located agencies namely, Sport Singapore, People’s Association (Kampong Chai Chee Constituency Office), SingHealth Polyclinics, National Library Board and NTUC DAY CENTRE FOR SENIORS as well as external agencies such as Health Promotion Board to drive regular sports and wellness integrated programmes under Heartbeat@Bedok’s “Good Morning”, “Good Afternoon” and “Good Evening” series in addition to other ad-hoc integrated activities that cater to residents of all ages. The co-location of the various agencies within the community building generates synergy of operations and promotes creative cross-programming, with the aim of achieving wider community outreach and resident engagement, for the betterment of residents in Bedok and East Coast.
 
-Our tenants include food and beverage outlets, childcare and enrichment centres, retail outlets, [ Kampong Chai Chee Community Club](//) Bedok Polyclinic, Bedok Public Library, NTUC DAY CENTRE FOR SENIORS - Senior Care Centre, and ActiveSG Bedok Sport Centre. Facilities managed by the sport centre include:
+Our tenants include food and beverage outlets, childcare and enrichment centres, retail outlets, [ Kampong Chai Chee Community Club](//) Bedok Polyclinic, Bedok Public Library, NTUC DAY CENTRE FOR SENIORS , and ActiveSG Bedok Sport Centre. Facilities managed by the sport centre include:
 
 • Swimming Pool
 
