@@ -69,4 +69,5 @@ sections:
       subtitle: Phone Number check
       button: Click here
       url: /Authenticity-Check
+      description: Check authenticity of the call you received!
 ---
