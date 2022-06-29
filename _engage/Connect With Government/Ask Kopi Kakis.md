@@ -51,6 +51,6 @@ The Ask Kopi Kakis booklets, a set of three easy-to-read policy e-booklets, cont
 
 
 
-|  Policies relating to starting your career, life-long learning and support schemes for working adults. | Family Career Seniors Policies relating to setting up a home and family and initiatives to help with the cost of living.| Policies relating to retirement schemes, healthcare and initiatives for active-ageing. |
+| ![](/images/Engage/pa-career-tamil.png) Policies relating to starting your career, life-long learning and support schemes for working adults. | ![](/images/Engage/pa-family-tamil.png)Family Career Seniors Policies relating to setting up a home and family and initiatives to help with the cost of living.|![](/images/Engage/pa-senior-tamil.png) Policies relating to retirement schemes, healthcare and initiatives for active-ageing. |
 | -------- | -------- | -------- |
-| [](/files/Engage/pa-career-tamil-final.pdf) | [](/files/Engage/pa-family-tamil-final.pdf)| [](/files/Engage/pa-senior-tamil-final.pdf)|
+| [Download](/files/Engage/pa-career-tamil-final.pdf) | [Download](/files/Engage/pa-family-tamil-final.pdf)| [Download](/files/Engage/pa-senior-tamil-final.pdf)|
