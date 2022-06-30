@@ -22,32 +22,6 @@ At the district level, the CDCs collaborate with partners from the People, Publi
 At the constituency level, each CDC works closely with the Grassroots Organisations and community partners to facilitate their engagement with residents.
 
  
-For more information, visit ww.cdc.gov.sg (to update this URL once CDC’s Isomer site is live). 
- 
- 
- 
+For more information, visit ww.cdc.gov.sg (to update this URL once CDC’s Isomer site is live).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+If you wish to join the CDCs as a volunteer, please sign up here. <link to new volunteer registration form https://form.gov.sg/62b428e70c90650012b77985>
