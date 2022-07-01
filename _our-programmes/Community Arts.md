@@ -32,10 +32,19 @@ As part of the festival highlight, the National-Level Art Initiative provides op
 
 For more information and full event listings, visit us at **[PAssionArts Facebook page](https://www.facebook.com/PAssionArtsSG)** today!
 
-### PAssionArts Hotspot
-[img]()
 
-A PAssionArts programme where residents can showcase their talents right in the heart of their neighbourhood. This programme invite residents and community artistes to step out and showcase their talents in community spaces like hawker centres/food courts, town centres, parks and playgrounds with residents, for residents. It also provides a good opportunity for the community to appreciate and make friends through arts. Happening monthly, it provides spaces in our neighbourhood filled with exciting showcases for everyone to enjoy with their families, friends and neighbours.
+### PAssionArts Volunteer Corps
+![](/images/Our%20Programmes/commarts-volunteer.jpg)
+
+Want to make a difference through Arts and Culture? Join us as volunteers today!  
+  
+**How can you volunteer?**
+
+*   If you love to perform and interact with the public
+*   If you love to share the joy of performance with others
+*   If you love art and want to contribute behind the scenes at PAssionArts activities
+
+Get in touch with your local Community Arts and Culture Club (CACC) at the Community Club closest to you or email us at [PA\_ACD@pa.gov.sg](mailto:PA_ACD@pa.gov.sg).
 
 ### PAssionArts Inspiration Series
 [img]()
