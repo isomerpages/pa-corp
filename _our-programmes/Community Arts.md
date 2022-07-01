@@ -18,12 +18,12 @@ The key PAssionArts programmes include:
 For more information, check out our [Facebook page](http://www.facebook.com/PAssionArtsSG).
 
 ### Community Arts and Culture Clubs
-[img]()
+
 
 The Community Arts & Culture Clubs (CACC) is a co-ordinating arts and culture club managed by like-minded volunteers with a PAssion in promoting community arts. The CACCs' main objective is to better leverage on arts and culture as a means to reach out and engage the residents from childhood to golden age, of all races and from all estates. The many interesting programmes offered will contribute in making each constituency and neighbourhood a vibrant arts and culture scene
 
 ### PAssionArts Community Art Gallery
-[img]()
+
 
 The Community Art Gallery is a PAssionArts programme by PA Community Arts & Culture Clubs. This programme invites residents and community artists to display and share their art works at community places so more residents could appreciate art at their doorstep. Community Art Galleries can be found right in our neighbourhoods - at HDB void decks, coffee shops and marketplaces - where it is accessible to everyone, everyday.
 
