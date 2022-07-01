@@ -59,23 +59,14 @@ A PAssionArts programme where residents can showcase their talents right in the 
 
 
 
+### PAssionArts Inspiration Series
 
-### PAssionArts Volunteer Corps
-[img]()
+![](/images/Our%20Programmes/commart-inspiration.jpg)
 
-Want to make a difference through Arts and Culture? Join us as volunteers today!
+PAssionArts Inspiration Series serves as a platform for various community arts and culture interest groups to be showcased at National level events, such as Istana Open Houses. These programmes encourage everyone to take part as active participants celebrating arts and culture in a refreshing manner.
 
-**How can you volunteer?**
 
-As PAssionArts Community Artists:
 
-* If you love to perform and interact with the public
-* If you love to share the joy of performance with others
-* Roles include: Comperes, Performers – Singers, Dancers, Actors, Artist- Mural Painting, Craft, Sculpture, Cartoon/Portrait Drawing
 
-As PAssionArts Programme Volunteers
 
-* If you love art and want to contribute behind the scenes at PAssionArts activities
-* Roles include: Space Designers, Marketing and publicity consultants, Collaterals editors, Programme booklets/flyers designers
 
-Get in touch with your local Community Arts and Culture Club (CACC) at the Community Club closest to you or call us at 6340 5548.
