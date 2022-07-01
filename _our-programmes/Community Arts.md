@@ -22,9 +22,15 @@ For more information, check out our [Facebook page](http://www.facebook.com/PAss
 
 The Community Arts & Culture Clubs (CACC) is a co-ordinating arts and culture club comprising like-minded volunteers with a passion in promoting community arts.  The CACC’s main objective is to leverage on arts and culture to reach out and engage residents of all ages, races and estates and bringing arts and culture accessible to the community.  The many interesting programmes offered will contribute in making each constituency and neighbourhood a vibrant arts and culture scene with its own unique art identity.
 
-### PAssionArts Community Art Gallery
+### PAssionArts Festival
 
-The Community Art Gallery is a PAssionArts programme by PA Community Arts & Culture Clubs. This programme invites residents and community artists to display and share their art works at community places so more residents could appreciate art at their doorstep. Community Art Galleries can be found right in our neighbourhoods - at HDB void decks, coffee shops and marketplaces - where it is accessible to everyone, everyday.
+![](/images/Our%20Programmes/commmart-paf.jpeg)
+
+PAssionArts Festival (PAF) is an annual community arts festival organised by the Community Arts & Culture Clubs (CACC).  Since its inception in 2012 as a flagship programme, PAF has fostered a sense of togetherness and belonging to the community through the arts, providing people from all walks of life an access to quality art programmes and a platform for community collaboration and engagement.  Engaging performances, arts activities and visual art exhibitions/installations were curated and organised to showcase the community’s creativity and local talents.
+
+As part of the festival highlight, the National-Level Art Initiative provides opportunities for residents to co-create artistic representations of their neighbourhood to add vibrancy to their HeARTland. Partnering community artists, the CACCs and their residents come together to unleash their creativity, make new friends/fond memories and create art for their neighbourhood!
+
+For more information and full event listings, visit us at **[PAssionArts Facebook page](https://www.facebook.com/PAssionArtsSG)** today!
 
 ### PAssionArts Hotspot
 [img]()
