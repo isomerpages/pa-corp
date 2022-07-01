@@ -64,9 +64,3 @@ A PAssionArts programme where residents can showcase their talents right in the 
 ![](/images/Our%20Programmes/commart-inspiration.jpg)
 
 PAssionArts Inspiration Series serves as a platform for various community arts and culture interest groups to be showcased at National level events, such as Istana Open Houses. These programmes encourage everyone to take part as active participants celebrating arts and culture in a refreshing manner.
-
-
-
-
-
-
