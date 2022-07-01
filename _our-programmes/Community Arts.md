@@ -51,20 +51,14 @@ Get in touch with your local Community Arts and Culture Club (CACC) at the Comm
 ![](/images/Our%20Programmes/commarts-gallery.jpg)
 The Community Art Gallery is a PAssionArts programme by PA Community Arts & Culture Clubs. This programme invites residents and community artists to display and share their art works at community places so more residents could appreciate art at their doorstep. Community Art Galleries can be found right in our neighbourhoods - at HDB void decks, coffee shops and marketplaces - where it is accessible to everyone, everyday.
 
-### PAssionArts Festival 2019
-6 July to 25 August 2019
+
+### PAssionArts Hotspot
+![](/images/Our%20Programmes/commarts-hotspots.jpg)
+
+A PAssionArts programme where residents can showcase their talents right in the heart of their neighbourhood. This programme invite residents and community artistes to step out and showcase their talents in community spaces like hawker centres/food courts, town centres, parks and playgrounds with residents, for residents. It also provides a good opportunity for the community to appreciate and make friends through arts. Happening monthly, it provides spaces in our neighbourhood filled with exciting showcases for everyone to enjoy with their families, friends and neighbours.
 
 
 
-Into its 8th year, PAssionArts Festival 2019 will run from 6 July to 25 August 2019, bringing community arts to 250,000 residents across Singapore. The festival theme, “Our Home, Our HeARTs", invites residents to use arts to express our love and aspirations, as Singaporeans, for our community and for Singapore.
-
-With 38 Art Villages happening island-wide, organised by our network of Community Arts & Culture Clubs, the festival will showcase a range of vibrant art elements. It will spread across five different festival experiences catered for families: Season of Painting, Story Land, Starry Starry Night, Art Kaleidoscope and Pop-up Art!.
-
-In commemoration of Singapore's Bicentennial, PAssionArts and 30,000 residents including young families will present a special gift to all Singaporeans: The Garden of HeARTs. 200 of such gardens will bloom with 4,000 small, medium and big hearts. These installations will be on display at various community locations island-wide.
-
-Be part of this year's PAssionArts Festival with your family and friends! To download the Festival Guide, [click here](//)
-
-For more information and full event listings, visit us at [PAssionArts Facebook page](https://www.facebook.com/PAssionArtsSG) today!
 
 ### PAssionArts Volunteer Corps
 [img]()
