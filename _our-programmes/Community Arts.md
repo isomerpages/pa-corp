@@ -46,10 +46,10 @@ Want to make a difference through Arts and Culture? Join us as volunteers today
 
 Get in touch with your local Community Arts and Culture Club (CACC) at the Community Club closest to you or email us at [PA\_ACD@pa.gov.sg](mailto:PA_ACD@pa.gov.sg).
 
-### PAssionArts Inspiration Series
-[img]()
+### PAssionArts Community Art Gallery
 
-PAssionArts Inspiration Series serves as a platform for various community arts and culture interest groups to be showcased at National level events, such as Istana Open Houses. These programmes encourage everyone to take part as active participants celebrating arts and culture in a refreshing manner.
+![](/images/Our%20Programmes/commarts-gallery.jpg)
+The Community Art Gallery is a PAssionArts programme by PA Community Arts & Culture Clubs. This programme invites residents and community artists to display and share their art works at community places so more residents could appreciate art at their doorstep. Community Art Galleries can be found right in our neighbourhoods - at HDB void decks, coffee shops and marketplaces - where it is accessible to everyone, everyday.
 
 ### PAssionArts Festival 2019
 6 July to 25 August 2019
