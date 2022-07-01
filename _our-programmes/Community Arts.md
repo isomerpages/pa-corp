@@ -20,11 +20,10 @@ For more information, check out our [Facebook page](http://www.facebook.com/PAss
 ### Community Arts and Culture Clubs
 ![](/images/Our%20Programmes/commarts-cacc.jpg)
 
-The Community Arts & Culture Clubs (CACC) is a co-ordinating arts and culture club managed by like-minded volunteers with a PAssion in promoting community arts. The CACCs' main objective is to better leverage on arts and culture as a means to reach out and engage the residents from childhood to golden age, of all races and from all estates. The many interesting programmes offered will contribute in making each constituency and neighbourhood a vibrant arts and culture scene
+The Community Arts & Culture Clubs (CACC) is a co-ordinating arts and culture club comprising like-minded volunteers with a passion in promoting community arts.  The CACC’s main objective is to leverage on arts and culture to reach out and engage residents of all ages, races and estates and bringing arts and culture accessible to the community.  The many interesting programmes offered will contribute in making each constituency and neighbourhood a vibrant arts and culture scene with its own unique art identity.
 
 ### PAssionArts Community Art Gallery
 
-![](/images/Our%20Programmes/commmart-paf.jpeg)
 The Community Art Gallery is a PAssionArts programme by PA Community Arts & Culture Clubs. This programme invites residents and community artists to display and share their art works at community places so more residents could appreciate art at their doorstep. Community Art Galleries can be found right in our neighbourhoods - at HDB void decks, coffee shops and marketplaces - where it is accessible to everyone, everyday.
 
 ### PAssionArts Hotspot
@@ -40,7 +39,7 @@ PAssionArts Inspiration Series serves as a platform for various community arts a
 ### PAssionArts Festival 2019
 6 July to 25 August 2019
 
-[img]()
+
 
 Into its 8th year, PAssionArts Festival 2019 will run from 6 July to 25 August 2019, bringing community arts to 250,000 residents across Singapore. The festival theme, “Our Home, Our HeARTs", invites residents to use arts to express our love and aspirations, as Singaporeans, for our community and for Singapore.
 
