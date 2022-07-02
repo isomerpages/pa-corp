@@ -1,4 +1,5 @@
 collections:
   cc-details:
     output: true
-    order: []
+    order:
+      - ACE The Place Community Club.md
