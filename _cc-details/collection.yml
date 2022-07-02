@@ -1,0 +1,4 @@
+collections:
+  cc-details:
+    output: true
+    order: []
