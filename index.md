@@ -8,6 +8,9 @@ notification: This is a staging website
 sections:
   - hero:
       background: /images/join-your-community.jpg
+      title: Join Your Community
+      button: Read More
+      url: /engage/join-your-community
   - infopic:
       button: Read More
       url: /Permalink
