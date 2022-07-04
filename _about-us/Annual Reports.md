@@ -21,20 +21,20 @@ description: ""
 [Report here]( https://go.gov.sg/pa-annual-report-1819)
 ##### Annual Report 17/18
 ![](/images/About%20Us/Annual%20Reports/AR17.png)
-[](/files/About%20Us/Annual%20Reports/pa-annual-report-1718.pdf)
+[Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1718.pdf)
 ##### Annual Report 16/17
 
 ![](/images/About%20Us/Annual%20Reports/AR16.png)
-[](/files/About%20Us/Annual%20Reports/pa-annual-report-1617.pdf)
+[Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1617.pdf)
 ##### Annual Report 15/16
 
 ![](/images/About%20Us/Annual%20Reports/AR15.png)
-[](/files/About%20Us/Annual%20Reports/pa-annual-report-1516.pdf)
+[Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1516.pdf)
 
 ##### Annual Report 14/15
 
 ![](/images/About%20Us/Annual%20Reports/AR14.png)
-[](/files/About%20Us/Annual%20Reports/pa-annual-report-1415.pdf)
+[Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1415.pdf)
 
 ##### Annual Report 13/14
 
