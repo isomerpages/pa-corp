@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Ang Mo Kio Community Centre.md
       - Anchorvale Community Club.md
       - Aljunied Community Centre.md
       - ACE The Place Community Club.md
