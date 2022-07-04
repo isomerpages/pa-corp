@@ -38,6 +38,9 @@ sections:
         Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021
       button: Read More
       url: /Permalink
+  - infobar:
+      button: Read More Articles
+      url: //
   - infopic:
       subtitle: Find a Course
       description: PA offers you endless opportunities to pick up new skills, have
@@ -63,7 +66,4 @@ sections:
       button: Click here
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
-  - infobar:
-      button: Read More Articles
-      url: //
 ---
