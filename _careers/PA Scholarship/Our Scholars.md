@@ -16,7 +16,7 @@ Bachelor of Arts and Social Sciences at National University of Singapore
 [Click here to read more](//) » (2545KB, PDF)
 
  
-
+![](/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg)
 Muhammad Naufal Zahin Azmi<br>
 PA Scholar (Overseas)<br>
 Bachelor of Arts in Politics at King's College London (UK)
@@ -26,7 +26,7 @@ Bachelor of Arts in Politics at King's College London (UK)
 [Click here to read more](//) » (2803KB, PDF)
 
  
-
+![](/images/Careers/Chan%20Enying%20Grace.jpg)
 Chan Enying Grace<br>
 PA Scholar (Overseas)<br>
 Bachelor of Science in Economics at London School of Economics and Political Science (UK)
@@ -36,7 +36,7 @@ Bachelor of Science in Economics at London School of Economics and Political Sci
 [Click here to read more](//)» (0.98MB, PDF)
 
  
-
+![](/images/Careers/Wong%20Yali%20Valencia.jpg)
 Wong Yali Valencia<br>
 PA Scholar (Local)<br>
 Bachelor of Business Administration (Accountancy) with College of Alice and Peter Tan at National University of Singapore
@@ -45,7 +45,7 @@ Bachelor of Business Administration (Accountancy) with College of Alice and Pete
 
 [Click here to read more](//) » (935KB, PDF)
 
-
+![](/images/Careers/Seah%20Tiong%20Kiat.jpg)
 Seah Tiong Kiat<br>
 PA Scholar (Local)<br>
 Bachelor of Social Science at Singapore Management University
