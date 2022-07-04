@@ -16,17 +16,20 @@ At the heart of this community are our grassroots leaders, volunteers, community
 Singapore is a multi-cultural nation and we stay united because we share common values that hold us together, and give us our confidence and commitment to the future of our Home.
 
 ##### Care and Courage
-![](/images/About%20Us/60th%20Anniversary/Care%20and%20Courage.jpg)
 
 We show and demonstrate care. We believe that it is important to do what is right for our people.
 
+![](/images/About%20Us/60th%20Anniversary/Care%20and%20Courage.jpg)
+
+
 ##### Diversity and Inclusiveness
-![](/images/About%20Us/60th%20Anniversary/Diversity%20and%20Inclusiveness.jpg)
 
 We welcome and celebrate diversity. By co-creating a community, we create an environment where everyone can thrive and succeed.
+
+![](/images/About%20Us/60th%20Anniversary/Diversity%20and%20Inclusiveness.jpg)
+
 
 #### Innovation and Excellence
 
 We create new ascents and deliver on our promises to the highest standards
 ![](/images/About%20Us/60th%20Anniversary/Innovation%20and%20Excellence.jpg)
-
