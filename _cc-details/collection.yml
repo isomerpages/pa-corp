@@ -2,4 +2,5 @@ collections:
   cc-details:
     output: true
     order:
+      - Aljunied Community Centre.md
       - ACE The Place Community Club.md
