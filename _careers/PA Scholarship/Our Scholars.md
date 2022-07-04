@@ -54,6 +54,7 @@ Bachelor of Social Science at Singapore Management University
 
 [Click here to read more](//)» (194KB, PDF)
 
+![](/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg)
 Jessica Tan Mei Yu<br>
 PA Scholar (Local)<br>
 Bachelor of Business Administration at National University of Singapore
@@ -63,7 +64,7 @@ Bachelor of Business Administration at National University of Singapore
 [Click here to read more](//) » (520KB, PDF)
 
 
-
+![](/images/Careers/Angela%20Tan%20Yee%20Jin.jpg)
 Angela Tan Yee Jin<br>
 PA Scholar (Overseas)<br>
 Bachelor of Economics, Politics and International Studies, University of Warwick, and<br>
