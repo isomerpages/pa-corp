@@ -13,8 +13,8 @@ The Family Fun.Family Time programme is a series of customised family-centric ac
 
 [img] ()
 
-### We Grow.We Explore Holiday Series
+### Let's Learn.Let's Play Together! Holiday Series
 
-The We Grow.We Explore Holiday programme is a series of thematic parent-child activities, specially curated to get families to foster stronger ties and connections during the holiday season.
+The Let's Learn. Let's Play Together! Holiday programme is a series of thematic parent-child activities, specially curated to get families to foster stronger ties and connections during the holiday season.
 
 Follow us on the [PA Family Life Champion Facebook Page](https://www.facebook.com/flc.pa.1) for more family programme updates, or email us at [PA_FamilyLife@pa.gov.sg](mailto: PA_FamilyLife@pa.gov.sg) for more details.
