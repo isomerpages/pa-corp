@@ -43,4 +43,5 @@ description: ""
 ##### Annual Report 13/14
 
 
-![Annual Report 13/14](https://www.pa.gov.sg/images/default-source/module/page/about-us/ar2014-thumbnail.png "Annual Report 13/14")[Download Annual Report](https://www.pa.gov.sg/docs/default-source/others-documents/about-us-doc/pa-annual-report-1314.pdf) (3.56MB, PDF)
+![](/images/About%20Us/Annual%20Reports/AR13.png)
+[Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1314.pdf)
