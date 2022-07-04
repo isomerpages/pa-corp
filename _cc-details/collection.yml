@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Ayer Rajah Community Club.md
       - Ang Mo Kio Community Centre.md
       - Anchorvale Community Club.md
       - Aljunied Community Centre.md
