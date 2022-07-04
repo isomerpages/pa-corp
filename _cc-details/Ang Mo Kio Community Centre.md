@@ -33,3 +33,4 @@ Email : PA_ANGMOKIOCC@pa.gov.sg
 
 ### Map
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6828708219305!2d103.8382313153309!3d1.366958361899593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16dedd4fd81b%3A0x5751734752a5ce39!2s795%20Ang%20Mo%20Kio%20Ave%201%2C%20Singapore%20569976!5e0!3m2!1sen!2ssg!4v1656897282830!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
