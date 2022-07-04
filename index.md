@@ -7,16 +7,7 @@ permalink: /
 notification: This is a staging website
 sections:
   - hero:
-      background: /images/our-volunteers_compressed.jpg
-      title: This is title
-      subtitle: This is subtitle
-      dropdown:
-        title: Get Involved
-        options:
-          - title: Join Our Community
-            url: /community.
-          - title: Volunteering oppurtunites
-            url: ""
+      background: /images/join-your-community.jpg
   - infopic:
       button: Read More
       url: /Permalink
