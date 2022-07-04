@@ -18,6 +18,7 @@ description: ""
 ##### Annual Report 18/19
 
 ![](/images/About%20Us/Annual%20Reports/AR18.png)
+[Report here]( https://go.gov.sg/pa-annual-report-1819)
 ##### Annual Report 17/18
 ![](/images/About%20Us/Annual%20Reports/AR17.png)
 [](/files/About%20Us/Annual%20Reports/pa-annual-report-1718.pdf)
