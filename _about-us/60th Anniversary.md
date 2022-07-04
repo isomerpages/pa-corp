@@ -21,11 +21,11 @@ Singapore is a multi-cultural nation and we stay united because we share common 
 We show and demonstrate care. We believe that it is important to do what is right for our people.
 
 ##### Diversity and Inclusiveness
-[img]()
+![](/images/About%20Us/60th%20Anniversary/Diversity%20and%20Inclusiveness.jpg)
 
 We welcome and celebrate diversity. By co-creating a community, we create an environment where everyone can thrive and succeed.
 
 #### Innovation and Excellence
-[img]()
+![](/images/About%20Us/60th%20Anniversary/Innovation%20and%20Excellence.jpg)
 
 We create new ascents and deliver on our promises to the highest standards
