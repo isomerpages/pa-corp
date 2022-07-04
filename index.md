@@ -18,6 +18,13 @@ sections:
         - title: Connect With Government
           description: ""
           url: /engage/connect-with-government/connect-with-government
+  - infobar:
+      title: Resumption of Selected Classes and Activities for Seniors
+      subtitle: HIGHLIGHTS
+      description: From Monday, 1 November 2021, the People’s Association will pilot
+        the resumption of selected classes and activities for Seniors
+      button: Read More
+      url: //
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
@@ -31,7 +38,6 @@ sections:
         Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021
       button: Read More
       url: /Permalink
-      subtitle: Subtile
   - infopic:
       subtitle: Find a Course
       description: PA offers you endless opportunities to pick up new skills, have
@@ -58,10 +64,6 @@ sections:
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
   - infobar:
-      title: Resumption of Selected Classes and Activities for Seniors
-      subtitle: HIGHLIGHTS
-      description: From Monday, 1 November 2021, the People’s Association will pilot
-        the resumption of selected classes and activities for Seniors
-      button: Read More
+      button: Read More Articles
       url: //
 ---
