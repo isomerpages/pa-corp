@@ -5,14 +5,14 @@ description: ""
 ---
 #### Why Join?
 
-Tan Jun Yi <br>
-![](/images/Careers/Tan%20Jun%20Yi.jpg)
+#### Tan Jun Yi <br>
+  ![](/images/Careers/Tan%20Jun%20Yi.jpg)
 Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her a unique working experience to be a catalyst to bring people of all walks of life together to foster friendship and bonding through sports.
 [Read More](//) (984KB, PDF)
 
 
-Edwin Yap Chee Kian <br>
-![](/images/Careers/Edwin%20Yap%20Chee%20Kian.png)
+#### Edwin Yap Chee Kian <br>
+ ![](/images/Careers/Edwin%20Yap%20Chee%20Kian.png)
 Mr Edwin Yap, Head (Community Arts - Bishan-Toa Payoh GRC) enjoys meeting people from all walks of life and hopes he is able to help them in one way or another through his work.<br>
 [Read More](//) (1.09MB, PDF)
 
