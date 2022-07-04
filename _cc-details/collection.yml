@@ -2,5 +2,6 @@ collections:
   cc-details:
     output: true
     order:
+      - Anchorvale Community Club.md
       - Aljunied Community Centre.md
       - ACE The Place Community Club.md
