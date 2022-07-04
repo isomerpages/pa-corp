@@ -3,28 +3,26 @@ title: Anchorvale Community Club
 permalink: /cc-details/Anchorvale-Community-Club
 description: ""
 ---
-#### Aljunied Community Centre
+#### Anchorvale Community Club	
 
-You can find the Aljunied CC at the void deck of Block 110, Hougang Avenue 1. It is conveniently located across a market and hawker centre. The CC is noted for its hugely popular abacus course for
+Situated on the east bank of the Punggol River, the Anchorvale CC is the first CC to be co-located with a Sports and Recreation Centre. It also has a floating island just behind the building.
 
 
 
 #### Contact Information
 
-110 Hougang Avenue 1 #01-1048	, 530110<br>
-Phone : 62823553	
-Fax : 	62884681
-Email : PA_ALJUNIEDCC@pa.gov.sg	
+59 Anchorvale Road, 544965	
+Phone : 64894959
+Fax : 	64895269
+Email : PA_ANCHORVALECC@pa.gov.sg	
 
 [I want to register for a course](https://www.onepa.gov.sg/)
 
 #### Facilities
 
-* Volleyball Court
-* Lecture Room
-* Dance Studio
-* Outdoor Stage
-* Multi Purpose Room	
+* Multi Purpose Hall
+* Multi Purpose Area
+* Badminton Court		
 
 [I want to book a facility](https://www.onepa.gov.sg/)
 
