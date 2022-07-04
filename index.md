@@ -41,13 +41,12 @@ sections:
   - infobar:
       button: Read More Articles
       url: //
-  - infopic:
-      subtitle: Find a Course
+  - infobar:
+      subtitle: FIND A COURSE
       description: PA offers you endless opportunities to pick up new skills, have
         fun, while making new friends in the process. Come join us today
-      button: Visit OnePA
-      url: /Permalink
-      alt: Image alt text
+      button: Visit OnePa
+      url: https://www.onepa.gov.sg/
   - infopic:
       subtitle: Locate a CC
       description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
