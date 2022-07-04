@@ -19,20 +19,6 @@ sections:
           description: ""
           url: /engage/connect-with-government/connect-with-government
   - infopic:
-      button: Read More
-      url: /Permalink
-      image: /images/seniors.png
-      alt: Image alt text
-      title: Be our volunteer
-      subtitle: This is a subtitle
-      description: More Volunteering oppurtunities
-  - infopic:
-      button: Read More
-      alt: Image alt text
-      url: /Permalink
-      image: /images/seniors.png
-      title: Connect with Government
-  - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
       url: /Permalink
@@ -71,4 +57,11 @@ sections:
       button: Click here
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
+  - infobar:
+      title: Resumption of Selected Classes and Activities for Seniors
+      subtitle: HIGHLIGHTS
+      description: From Monday, 1 November 2021, the People’s Association will pilot
+        the resumption of selected classes and activities for Seniors
+      button: Read More
+      url: //
 ---
