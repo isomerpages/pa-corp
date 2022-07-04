@@ -26,6 +26,7 @@ We show and demonstrate care. We believe that it is important to do what is righ
 We welcome and celebrate diversity. By co-creating a community, we create an environment where everyone can thrive and succeed.
 
 #### Innovation and Excellence
-![](/images/About%20Us/60th%20Anniversary/Innovation%20and%20Excellence.jpg)
 
 We create new ascents and deliver on our promises to the highest standards
+![](/images/About%20Us/60th%20Anniversary/Innovation%20and%20Excellence.jpg)
+
