@@ -11,6 +11,13 @@ sections:
       title: Join Your Community
       button: Read More
       url: /engage/join-your-community
+      key_highlights:
+        - title: Be Our Volunteer
+          description: ""
+          url: /our-volunteers
+        - title: Connect With Government
+          description: ""
+          url: /engage/connect-with-government/connect-with-government
   - infopic:
       button: Read More
       url: /Permalink
