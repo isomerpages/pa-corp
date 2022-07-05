@@ -23,11 +23,13 @@ Our partners can **join efforts with other PA partners towards a common cause/i
 #### Community Insights
 
 Having a diverse networks in the community, PA can share on the community needs to better enhance the outreach programmes and partnership initiatives.
-![](/images/Our%20Network/Partners/icon3.png)
+
+<img style="height:200px;width:200px" src="/images/Our%20Network/Partners/icon3.png">
 
 #### Sharing of Ideas and Best Practices
 Platforms such as dialogue sessions and networking opportunities are available for partners to share creative ideas and best practices. This mutual learning opportunity will improve existing collaborative programmes and inspire new partnership possibilities.
-![](/images/Our%20Network/Partners/icon4.jpg)
+
+<img style="height:200px;width:200px" src="/images/Our%20Network/Partners/icon4.jpg">
 
 #### Recognition for partners
 
