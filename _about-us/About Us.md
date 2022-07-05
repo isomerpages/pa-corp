@@ -32,8 +32,7 @@ Bringing People Together
 
 ### Our Logo
 
-<img src="/images/About%20Us/pa-logo.jpg"
- style="width=100px;height=auto;"/>)
+<img style="height:200px;width:200px" src="/images/About%20Us/pa-logo.jpg">
 
 The People's Association's (PA) logo is made up of one continuous element. This represents the PA's mission of connecting Singaporeans from all ethnic backgrounds to promote active citizenry and multiracial harmony
 
@@ -41,4 +40,6 @@ Different communities, represented by the circles, keep their distinct identitie
 
 
 ### Our Flag
-![](/images/About%20Us/pa-flag.jpg)
+<img style="height:200px;width:200px" src="/images/About%20Us/pa-flag.jpg">
+At the heart of the PA flag is the PA logo. The borders curling upward signify a forward-looking organisation, progressing towards greater heights.
+
