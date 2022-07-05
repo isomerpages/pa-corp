@@ -25,7 +25,8 @@ A strong emphasis on personal development and hands-on experiences greatly enhan
 
 ##### Community Leadership Programme
 
-![](/images/Programmes/Youth/CLP.jpg)
+<img style="height:500px;width:500px" src="/images/Programmes/Youth/CLP.jpg">
+
 The Community Leadership Programme (CLP) is developed to expose students to grassroots work and a diverse range of volunteer activities.
 
 Students will be attached to the Youth Executive Committees (YECs) and mentored by experienced YEC leaders. Students will be challenged to step out of their comfort zones through a journey of experiential learning, community projects, leadership workshops, house-to-house visits, dialogue sessions and participation in national campaigns – PAYM Loves Red and YOUths Care @ PAYM.
@@ -33,7 +34,7 @@ Students will be attached to the Youth Executive Committees (YECs) and mentored 
 Through CLP, the students will not only hone their leadership skills but also cultivate a sense of appreciation on the importance of bridging diverse communities.
 
 ##### Interests Groups
-![](/images/Programmes/Youth/IG.jpg)
+<img style="height:500px;width:500px" src="/images/Programmes/Youth/IG.jpg">
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
 
