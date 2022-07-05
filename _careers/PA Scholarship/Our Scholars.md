@@ -15,8 +15,8 @@ Bachelor of Arts and Social Sciences at National University of Singapore
 
 [Click here to read more](/files/Careers/wb-(16-aug-2018-p7)-pa-scholarship-recipient-family-challenges-motivate-teen-to-study-hard%20(1).pdf)
  
- #### Muhammad Naufal Zahin Azmi<br>
-![](/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg)
+####   Muhammad Naufal Zahin Azmi<br>
+ ![](/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg)
  PA Scholar (Overseas)<br>
 Bachelor of Arts in Politics at King's College London (UK)
 
