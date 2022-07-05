@@ -6,6 +6,7 @@ third_nav_title: PAssion Wave
 ---
 ### PAssion WaVe @ Marina Bay
 
+![](/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Marina%20Bay.jpg)
 PAssion WaVe @ Marina Bay is a BCA Green Mark Platinum & Universal Design award eco-friendly building with green features and is strategically located along the Marina Reservoir, the centre boosts an iconic view of a world-class skyline.
 
 The outlet is ideal for beginners to pick up kayaking, dragon boating, bell boating and pedal boating.
