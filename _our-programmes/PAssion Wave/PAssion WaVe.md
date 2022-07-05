@@ -4,8 +4,7 @@ permalink: /our-programmes/PAssion-Wave/PAssion-WaVe
 description: ""
 third_nav_title: PAssion Wave
 ---
-[img]()
-
+![](/images/Programmes/PAssion%20Wave/PAssion%20Wave%20cover.jpg)
 People’s Association PAssion WaVe (PAWV), formerly known as Water-Venture was first coined in 2015 as PA’s specialist community club offering a broad range of waterfront lifestyle programmes to the community. PAWV is an integral part of PA that bonds people and bridges the communities through water sports and waterfront lifestyle pursuits. Together with its partners and trainers, PAWV provides safe, affordable and exciting courses, programmes and activities to the community.
 
 PAWV has the passionate belief that an exciting and healthy lifestyle should be accessible to everyone in the community regardless of age, race or gender.
