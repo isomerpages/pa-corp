@@ -50,8 +50,9 @@ To build a civic-conscious youth community, the PAYM also provides platforms for
 
 The PAYM engages both schooling and working youths and heightens their sense of belonging in the community by consulting their views on current issues and national policies through a series of different forums and dialogues lined up every year.
 
-[img]()
-
+![](/images/Programmes/Youth/Dialogue%201.jpg)
+![](/images/Programmes/Youth/Dialogue%202.jpg)
+![](/images/Programmes/Youth/Dialogue%203.jpg)
 **YOUTHSpeak on Budget** engages youth from our youth communities to gather feedback on Budget. This annual post-Budget dialogue is held after Budget Day as a platform for our youths to share their feedback on the budget initiatives shared by the Finance Minister during Budget Day. Through this process, PAYM hopes to deepen youths’ interest, knowledge and insight on current affairs, as well as understand the trade-off in policy-making.
 
 The youths will have the opportunity to meet and network with like-minded youths from the various institutions and organisations, as well as to share their views with fellow youths and our special guests.
