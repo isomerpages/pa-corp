@@ -46,7 +46,7 @@ At the heart of the PA flag is the PA logo. The borders curling upward signify a
 
 ### Our Service Pledge
 
-*We are the People’s Association *<br><br>
+*We are the People’s Association <br><br>*
 *We pledge to care for the people* <br>
 *With integrity and empathy.*<br><br>
 *We pledge to innovate for the people*<br>
