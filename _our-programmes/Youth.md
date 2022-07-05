@@ -32,7 +32,7 @@ Students will be attached to the Youth Executive Committees (YECs) and mentored 
 Through CLP, the students will not only hone their leadership skills but also cultivate a sense of appreciation on the importance of bridging diverse communities.
 
 ##### Interests Groups
-[img]()
+![](/images/Programmes/Youth/IG.jpg)
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
 
@@ -41,11 +41,10 @@ These interest groups are excellent platforms for youths to interact regularly, 
 Popular interest groups include beach volleyball, archery, cheerleading, yo-yo, performing arts and astronomy.
 
 ##### Community Service Programmes
-[img]()
+![](/images/Programmes/Youth/Comm%20Service.jpg)
 
 To build a civic-conscious youth community, the PAYM also provides platforms for youths to contribute to the wider community.
 
-Currently, our youths have implemented more than 100 sustainable community service programmes such as weekly reading classes for children from the lower-income families, environmental outreach drives, and weekly free meal distribution to the needy and less mobile elderly, and environmental outreach activities.
 
 ##### Forum and Dialogue Series
 
