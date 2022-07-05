@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PAssion Wave
 ---
 ### PAssion WaVe @ Pasir Ris
-
+![](/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Pasir%20Ris.jpg)
 
 PAssion WaVe @ Pasir Ris, located at the popular Pasir Ris Beach Park, was officially opened in 1987. The outlet offers dinghy sailing, kayaking and abseiling and sports climbing.
 
