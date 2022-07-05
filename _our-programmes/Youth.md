@@ -14,20 +14,17 @@ PA recognises the importance of getting a good start in life, and we have the to
 * Community YOUthCare Festival
 
 
-### People's Association Youth Movement Programmes
-As a leading youth organisation, the PAYM was set up in 1971 as a core youth movement in Singapore to engage youth in meaningful pursuits and support the Government in nation building. Through our strategy of ‘Youth for Youth, Youth for Community’, PAYM provides diverse and holistic activities for our youths to develop into responsible and active citizens.
+##### PAYM Service-Learning Champion
 
-Involving 102 Youth Clubs based at the Community Clubs/Centres (CCs), PAYM’s various programs and activities create a common space for youth to bond and contribute to their local communities regardless of race, religion and educational backgrounds. Over at PAYM, we proactively create opportunities for our youth to unleash their potentials and fulfil their aspirations.
-
-##### People's Association Youth Movement Service-Learning Champions
 
 The PAYM reaches out to youths in secondary schools via the Service-Learning Champion (SLC) Scheme, which aims to promote holistic development in youths by enabling them to achieve personal, character and academic development, and acquire values, life skills, a sense of civil responsibility and commitment through being involved in community service.
 
 A strong emphasis on personal development and hands-on experiences greatly enhance the learning experience of students. SLCs are encouraged to organise a wide variety of service activities to meet the needs of their community, and to tap on their own talents and initiatives in the process.
 
-##### Community Leadership Programme
-[img]()
 
+##### Community Leadership Programme
+
+![](/images/Programmes/Youth/1)%20CLP.jpg)
 The Community Leadership Programme (CLP) is developed to expose students to grassroots work and a diverse range of volunteer activities.
 
 Students will be attached to the Youth Executive Committees (YECs) and mentored by experienced YEC leaders. Students will be challenged to step out of their comfort zones through a journey of experiential learning, community projects, leadership workshops, house-to-house visits, dialogue sessions and participation in national campaigns – PAYM Loves Red and YOUths Care @ PAYM.
