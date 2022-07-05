@@ -31,8 +31,7 @@ Bachelor of Science in Economics at London School of Economics and Political Sci
 
 “As a PA scholar, I would like to build better communication channels with residents from all walks of life and to forge a stronger bond between the government and its people, thereby paving the way for the shaping of community schemes for the betterment of all Singaporeans. The constant contact I had with residents inspired me to take up the PA Scholarship. I’ve come to realise my passion to serve and work with people on the ground to make a meaningful difference. This gives me a great sense of purpose because I’ve seen how much my job means to the people I interact with.”
 
-[Click here to read more](//)» (0.98MB, PDF)
-
+[Click here to read more](/files/Careers/story-grace-chan.pdf)
  
 ![](/images/Careers/Wong%20Yali%20Valencia.jpg)
 Wong Yali Valencia<br>
@@ -41,8 +40,7 @@ Bachelor of Business Administration (Accountancy) with College of Alice and Pete
 
 “I’m passionate about the wider community and its people and the PA Scholarship appealed to me as it provided me with opportunities to engage with local communities at the grassroots level. The most compelling factor was seeing how PA’s vision and work were aligned with my own goals in life. PA’s bottom-up approach and commitment to community- building and building bridges between communities resonate strongly with me.”
 
-[Click here to read more](//) » (935KB, PDF)
-
+[Click here to read more](/files/Careers/writeup---wong-yali-valencia.pdf)
 ![](/images/Careers/Seah%20Tiong%20Kiat.jpg)
 Seah Tiong Kiat<br>
 PA Scholar (Local)<br>
@@ -50,7 +48,7 @@ Bachelor of Social Science at Singapore Management University
 
 “If you like working with people and want a meaningful job that allows you to make a real impact on the community, then the PA Scholarship is the one that you should apply for.”
 
-[Click here to read more](//)» (194KB, PDF)
+[Click here to read more](/files/Careers/writeup---seah-tiong-kiat.pdf)
 
 ![](/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg)
 Jessica Tan Mei Yu<br>
@@ -59,8 +57,7 @@ Bachelor of Business Administration at National University of Singapore
 
 “These six weeks of internship has been a great experience for me to observe the leaders in the Youth Division and allowed me to grow as a leader, especially for my upcoming year, whereby I will be serving as the Vice President in my hall.  I am thankful for the opportunity to work alongside my colleagues in the Youth Division and I am looking forward to my next internship which I hope to work directly with residents and volunteers in the community.”
 
-[Click here to read more](//) » (520KB, PDF)
-
+[Click here to read more](/files/Careers/writeup---jessica-tan.pdf)
 
 ![](/images/Careers/Angela%20Tan%20Yee%20Jin.jpg)
 Angela Tan Yee Jin<br>
@@ -70,8 +67,6 @@ Master of Science in Social Development Practice at University College London, U
 
 “I'm a strong believer of the maxim ‘live to work’ and I feel that it is important to work for an organisation that I am passionate about! The PA’s scholarship’s career prospects also strongly appeal to me. Being an extrovert, I enjoy interacting with people and through the scholarship, I will be involved in community projects and job placements in various strategic units.”
 
-[Click here to read more](//)» (200KB, PDF)
-
+[Click here to read more](/files/Careers/writeup---angela-tan.pdf)
 This article was adapted from the BrightSparks publication with the permission of CareerBuilder Singapore. The contents cannot be reproduced, modified or further circulated without the prior written consent of CareerBuilder Singapore. For more articles, visit www.brightsparks.com.sg/magazine.
 
-[Back to top](#1)
