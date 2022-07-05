@@ -3,7 +3,6 @@ title: About Us
 permalink: /about-us/About-Us
 description: ""
 ---
-
 ### About Us
 
 The People’s Association (PA) was established on 1 July 1960 as a statutory board to promote racial harmony and social cohesion in Singapore. Our mission is to build and bridge communities in achieving one people, one Singapore.
@@ -19,13 +18,13 @@ A Great Home and A Caring Community, where we
 *   Fulfil our Hopes, and
 *   Treasure our Memories
 
-Read more on the explanation of the [Vision for the Community](https://www.pa.gov.sg/docs/default-source/others-documents/about-us-doc/vision-for-the-community.pdf) (10KB, PDF).
+Read more on the explanation of the [Vision for the Community](/files/About%20Us/vision-for-the-community.pdf)
 
 ### Our Mission
 
 To Build and to Bridge communities in achieving One People, One Singapore
 
-Read more on the [PA Mission](https://www.pa.gov.sg/docs/default-source/others-documents/about-us-doc/pa's-mission-statement.pdf) (170KB, PDF).
+Read more on the [PA Mission](/files/About%20Us/pa's-mission-statement.pdf)
 
 ### Our Motto
 
