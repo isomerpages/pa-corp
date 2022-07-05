@@ -18,13 +18,16 @@ Organisations can support the calendar of community events, co-create cause-base
 
 Our partners can **join efforts with other PA partners towards a common cause/interest to create greater social impact**, each contributing in their own ways, in accordance to the organisation’s capabilities, such as expertise, volunteers, donations in cash and/or in-kind. Together with the **extensive network of PA**, including the grassroots organisations and PA units, we can co-create meaningful programmes through concerted efforts.
 
+![](/images/Our%20Network/Partners/icon2.jpg)
 
 #### Community Insights
 
 Having a diverse networks in the community, PA can share on the community needs to better enhance the outreach programmes and partnership initiatives.
+![](/images/Our%20Network/Partners/icon3.png)
 
 #### Sharing of Ideas and Best Practices
 Platforms such as dialogue sessions and networking opportunities are available for partners to share creative ideas and best practices. This mutual learning opportunity will improve existing collaborative programmes and inspire new partnership possibilities.
+![](/images/Our%20Network/Partners/icon4.jpg)
 
 #### Recognition for partners
 
