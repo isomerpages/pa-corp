@@ -13,7 +13,7 @@ Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her
 #### Edwin Yap Chee Kian <br>
  ![](/images/Careers/Edwin%20Yap%20Chee%20Kian.png)
 Mr Edwin Yap, Head (Community Arts - Bishan-Toa Payoh GRC) enjoys meeting people from all walks of life and hopes he is able to help them in one way or another through his work.<br>
-[Read More](//) (1.09MB, PDF)
+[Read More](/files/Careers/story-edwin-yap-chee-kian.pdf)
 
 #### Wendy Zeng<br>
 ![](/images/Careers/Wendy%20Zeng.jpg)
@@ -21,8 +21,7 @@ Deputy Constituency Director, Kebun Baru Constituency Office @ Kebun Baru CC, We
 
 (Copyright 2011 Singapore Press Holdings Ltd.)
 
-[Read More](//)(1.58MB, PDF)
-
+[Read More](/files/Careers/story-wendy-zeng.pdf)
 
 #### Ang Ying Hin<br>
 ![](/images/Careers/Ang%20Ying%20Hin.png)
