@@ -43,3 +43,13 @@ Different communities, represented by the circles, keep their distinct identitie
 <img style="height:200px;width:200px" src="/images/About%20Us/pa-flag.jpg">
 At the heart of the PA flag is the PA logo. The borders curling upward signify a forward-looking organisation, progressing towards greater heights.
 
+
+### Our Service Pledge
+
+*We are the People’s Association *<br><br>
+*We pledge to care for the people* <br>
+*With integrity and empathy.*<br><br>
+*We pledge to innovate for the people*<br>
+*To deliver confidence and excellence.*<br><br>
+*We are the People’s Association*<br>
+*And we will Serve with Care*
