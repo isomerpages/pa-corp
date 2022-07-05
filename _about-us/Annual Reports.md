@@ -17,19 +17,20 @@ description: ""
 
 
 
-<img style="height:500px;width:500px" src=/images/About%20Us/Annual%20Reports/AR19.png>
+<img style="height:500px;width:500px" src="/images/About%20Us/Annual%20Reports/AR19.png">
 
 [Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1920.pdf)
+																					 
 ##### Annual Report 18/19
 
 
-<img style="height:500px;width:500px" src=/images/About%20Us/Annual%20Reports/AR18.png>
+<img style="height:500px;width:500px" src="/images/About%20Us/Annual%20Reports/AR18.png">
 
 [Download Annual Report]( https://go.gov.sg/pa-annual-report-1819)
 
 ##### Annual Report 17/18
 
-<img style="height:500px;width:500px" src=/images/About%20Us/Annual%20Reports/AR17.png>
+<img style="height:500px;width:500px" src="/images/About%20Us/Annual%20Reports/AR17.png">
 
 [Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1718.pdf)
 ##### Annual Report 16/17
