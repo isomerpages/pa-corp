@@ -33,8 +33,8 @@ Bachelor of Science in Economics at London School of Economics and Political Sci
 
 [Click here to read more](/files/Careers/story-grace-chan.pdf)
  
- #### Wong Yali Valencia<br>
-![](/images/Careers/Wong%20Yali%20Valencia.jpg)
+####   Wong Yali Valencia<br>
+ ![](/images/Careers/Wong%20Yali%20Valencia.jpg)
  PA Scholar (Local)<br>
 Bachelor of Business Administration (Accountancy) with College of Alice and Peter Tan at National University of Singapore
 
