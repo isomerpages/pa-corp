@@ -10,9 +10,9 @@ PA recognises the importance of getting a good start in life, and we have the to
 * Interest Groups
 * Community Service Programmes
 * Forum and Dialogue Series
-* PAYM Chingay Contingent
 * PAYM Loves Red
-* Youths Care @ PAYM
+* Community YOUthCare Festival
+
 
 ### People's Association Youth Movement Programmes
 As a leading youth organisation, the PAYM was set up in 1971 as a core youth movement in Singapore to engage youth in meaningful pursuits and support the Government in nation building. Through our strategy of ‘Youth for Youth, Youth for Community’, PAYM provides diverse and holistic activities for our youths to develop into responsible and active citizens.
@@ -20,7 +20,6 @@ As a leading youth organisation, the PAYM was set up in 1971 as a core youth mov
 Involving 102 Youth Clubs based at the Community Clubs/Centres (CCs), PAYM’s various programs and activities create a common space for youth to bond and contribute to their local communities regardless of race, religion and educational backgrounds. Over at PAYM, we proactively create opportunities for our youth to unleash their potentials and fulfil their aspirations.
 
 ##### People's Association Youth Movement Service-Learning Champions
-[img]()
 
 The PAYM reaches out to youths in secondary schools via the Service-Learning Champion (SLC) Scheme, which aims to promote holistic development in youths by enabling them to achieve personal, character and academic development, and acquire values, life skills, a sense of civil responsibility and commitment through being involved in community service.
 
