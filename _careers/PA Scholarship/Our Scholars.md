@@ -6,8 +6,8 @@ third_nav_title: PA Scholarship
 ---
 ### Our Scholars
 
-![](/images/Careers/Jazreel%20Tay%20Hui%20Ying.jpg)
 #### Jazreel Tay Hui Ying<br>
+![](/images/Careers/Jazreel%20Tay%20Hui%20Ying.jpg)
 PA Scholar (Local)<br>
 Bachelor of Arts and Social Sciences at National University of Singapore
 
@@ -15,8 +15,8 @@ Bachelor of Arts and Social Sciences at National University of Singapore
 
 [Click here to read more](/files/Careers/wb-(16-aug-2018-p7)-pa-scholarship-recipient-family-challenges-motivate-teen-to-study-hard%20(1).pdf)
  
+ #### Muhammad Naufal Zahin Azmi<br>
 ![](/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg)
-#### Muhammad Naufal Zahin Azmi<br>
  PA Scholar (Overseas)<br>
 Bachelor of Arts in Politics at King's College London (UK)
 
@@ -24,8 +24,8 @@ Bachelor of Arts in Politics at King's College London (UK)
 [Click here to read more](/files/Careers/bh-(28-aug-2018-p3)-determine-to-give-back-to-society.pdf)
 
  
-![](/images/Careers/Chan%20Enying%20Grace.jpg)
 #### Chan Enying Grace<br>
+![](/images/Careers/Chan%20Enying%20Grace.jpg)
  PA Scholar (Overseas)<br>
 Bachelor of Science in Economics at London School of Economics and Political Science (UK)
 
@@ -41,9 +41,9 @@ Bachelor of Business Administration (Accountancy) with College of Alice and Pete
 “I’m passionate about the wider community and its people and the PA Scholarship appealed to me as it provided me with opportunities to engage with local communities at the grassroots level. The most compelling factor was seeing how PA’s vision and work were aligned with my own goals in life. PA’s bottom-up approach and commitment to community- building and building bridges between communities resonate strongly with me.”
 
 [Click here to read more](/files/Careers/writeup---wong-yali-valencia.pdf)
-![](/images/Careers/Seah%20Tiong%20Kiat.jpg)
 
 #### Seah Tiong Kiat<br>
+![](/images/Careers/Seah%20Tiong%20Kiat.jpg)
 PA Scholar (Local)<br>
 Bachelor of Social Science at Singapore Management University
 
@@ -51,8 +51,8 @@ Bachelor of Social Science at Singapore Management University
 
 [Click here to read more](/files/Careers/writeup---seah-tiong-kiat.pdf)
 
-![](/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg)
 #### Jessica Tan Mei Yu<br>
+![](/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg)
  PA Scholar (Local)<br>
 Bachelor of Business Administration at National University of Singapore
 
@@ -60,13 +60,14 @@ Bachelor of Business Administration at National University of Singapore
 
 [Click here to read more](/files/Careers/writeup---jessica-tan.pdf)
 
-![](/images/Careers/Angela%20Tan%20Yee%20Jin.jpg)
 #### Angela Tan Yee Jin<br>
+![](/images/Careers/Angela%20Tan%20Yee%20Jin.jpg)
 PA Scholar (Overseas)<br>
 Bachelor of Economics, Politics and International Studies, University of Warwick, and<br>
 Master of Science in Social Development Practice at University College London, UK
 
 “I'm a strong believer of the maxim ‘live to work’ and I feel that it is important to work for an organisation that I am passionate about! The PA’s scholarship’s career prospects also strongly appeal to me. Being an extrovert, I enjoy interacting with people and through the scholarship, I will be involved in community projects and job placements in various strategic units.”
 
-[Click here to read more](/files/Careers/writeup---angela-tan.pdf)
-This article was adapted from the BrightSparks publication with the permission of CareerBuilder Singapore. The contents cannot be reproduced, modified or further circulated without the prior written consent of CareerBuilder Singapore. For more articles, visit www.brightsparks.com.sg/magazine.
+[Click here to read more](/files/Careers/writeup---angela-tan.pdf)<br>
+
+This article was adapted from the BrightSparks publication with the permission of CareerBuilder Singapore. The contents cannot be reproduced, modified or further circulated without the prior written consent of CareerBuilder Singapore. For more articles, visit [www.brightsparks.com.sg/magazine.](www.brightsparks.com.sg/magazine.)
