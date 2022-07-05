@@ -8,13 +8,14 @@ description: ""
 #####  Annual Report 20/21
 
 ![](/images/About%20Us/Annual%20Reports/AR20.png)
-
+[Report here](https://go.gov.sg/pa-annual-report-2021)
 ### Past Publications
 
 ##### Annual Report 19/20
 
 
 ![](/images/About%20Us/Annual%20Reports/AR19.png)
+
 ##### Annual Report 18/19
 
 ![](/images/About%20Us/Annual%20Reports/AR18.png)
