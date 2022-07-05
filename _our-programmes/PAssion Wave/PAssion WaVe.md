@@ -19,5 +19,4 @@ For course registration, please log on to the [onePA portal](https://www.onepa.g
 
 Please [email](mailto: passionwave@pa.gov.sg) us for more enquiries. 
 
-**Brochures and Forms**
-
+[PAssion Wave Rate Card 2022](/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf)
