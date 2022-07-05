@@ -6,6 +6,7 @@ third_nav_title: Partners
 ---
 #### Partners
 
+![](/images/Our%20Network/Partners/Banner%20(Partners).jpg)
 The People's Association (PA) offers partnership opportunities for corporate and community organisations to collaborate with our extensive grassroots network to support programmes and initiatives that make a difference in the community.
 
 Organisations can support the calendar of community events, co-create cause-based and/or interest-based programmes with PA that benefit the community. The contributions by partners will certainly go a long way to impact lives and build a great and caring home for all.
@@ -35,5 +36,3 @@ WeCare PALs are our friends of PA, an overarching term we use for all our PA par
 
 
 If you are a corporate organisation keen on corporate giving and volunteerism, join [Project We Care](our-network/partners/project-we-care) and let us co-create meaningful programmes together!
-
-
