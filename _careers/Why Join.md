@@ -31,13 +31,13 @@ One of his most memorable projects was the National Day dinner held in his const
 
 He is thankful that this job has given him many opportunities to meet and work with people from diverse backgrounds and cultures. It has also taught him to be more culture-sensitive and to see things from different perspectives. Everyone has a part to play in the community and he is happy to know that he is involved in a part that brings people together.
 
+
 #### Fu Shuyi<br>
 ![](/images/Careers/Fu%20Shuyi.jpg)
- Ms Fu Shuyi, Group Constituency Director (Jurong GRC and Yuhua SMC), enjoys working for a harmonious and united community. Read more on what drives her to achieve job satisfaction in the Straits Times story [here](//) (650KB, PDF).
+ Ms Fu Shuyi, Group Constituency Director (Jurong GRC and Yuhua SMC), enjoys working for a harmonious and united community. Read more on what drives her to achieve job satisfaction in the Straits Times story [here](/files/Careers/story-fu-shuyi.pdf)
 
 #### Grace Chan<br>
 ![](/images/Careers/Grace%20Chan.png)
 Ms Grace Chan En Ying, Head (Grassroots Development & Planning), views her job as a bridge between the people and the Government. <br>
-[Read More](//)(165KB, PDF)
 
-[ Back to top](#1)
+[Read More](/files/Careers/story-grace-chan.pdf)
