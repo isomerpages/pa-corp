@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PAssion Wave
 ---
 ### PAssion WaVe @ East Coast
-
+![](/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20East%20Coast.jpg)
 
 PAssion WaVe @ East Coast set up in 1987, is nestled at the corner of East Coast Beach Park off the East Coast Parkway (ECP). This outlet is a haven for windsurfers with its excellent facilities including affordable storage of windsurfing equipment. Windsurfing and Stand Up Paddling courses are conducted regularly over the weekends.
 
