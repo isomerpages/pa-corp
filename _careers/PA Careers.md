@@ -64,4 +64,3 @@ Requirements
 (Only shortlisted candidates will be notified)
 Successful candidates will be given a 1-year contract.
 
-[Back to top](#1)
