@@ -51,35 +51,17 @@ To build a civic-conscious youth community, the PAYM also provides platforms for
 The PAYM engages both schooling and working youths and heightens their sense of belonging in the community by consulting their views on current issues and national policies through a series of different forums and dialogues lined up every year.
 
 ![](/images/Programmes/Youth/Dialogue%201.jpg)
+
 ![](/images/Programmes/Youth/Dialogue%202.jpg)
+
 ![](/images/Programmes/Youth/Dialogue%203.jpg)
-**YOUTHSpeak on Budget** engages youth from our youth communities to gather feedback on Budget. This annual post-Budget dialogue is held after Budget Day as a platform for our youths to share their feedback on the budget initiatives shared by the Finance Minister during Budget Day. Through this process, PAYM hopes to deepen youths’ interest, knowledge and insight on current affairs, as well as understand the trade-off in policy-making.
 
-The youths will have the opportunity to meet and network with like-minded youths from the various institutions and organisations, as well as to share their views with fellow youths and our special guests.
-
-[img]()
-
-**Voices of Youth** is a post- National Day Rally (NDR) forum programme series that is held every year to gather feedback from youths on Prime Minister's NDR speech. The discussions enabled youths to engage constructively and provided a platform for them to share their feedback on the issues raised at the NDR . This series aims to strengthen the government to youth connectivity by deepening the youths' interest, knowledge and insight on current affairs, as well as understand the trade-off in policy-making.
-
-[img]()
-
-**Conversation with Leaders of with Leaders of Tomorrow** Policy Forum series is one of PAYM’s latest initiatives to promote better understanding of government policies and its trade-offs among youths from the Institutes of Higher Learning (IHLs). The forum invites IHL youths to share their views on current issues and national policies with representatives from the government, private and academic sectors. The feedback received would be channelled to the relevant agencies for consideration and implementation where appropriate.
-
-**People's Association Youth Movement Chingay Contingent**
-
-[img]()
-
-Since 2008, youths have come forward to take charge in creating their own special showcases, taking on roles that see them lead fellow volunteers and performers, and even design their own costumes in the annual extravaganza of Chingay Parade. For Chingay Parade 2015, the PAYM anchored the finale of the Parade, showcasing the dynamism and strength of the youths. 1,000 youths performed with a compliment of 150 tree props across a sector of 360 meters in length and 12 meters in width at the F1 Pit. The PAYM contingent was awarded the ‘Best Audience Contingent’ and ‘Champion of the Year Award.
-
- 
 
 ##### PAYM Loves Red
 
-[img]()
-
+![](/images/Programmes/Youth/PAYM%20Loves%20Red.jpg)
 The “PAYM Loves Red” supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their patriotism toward the nation in creative and unique ways.
 
-The focus for “SG50 PAYM Loves Red” is for youths to embrace and actualise the values and visions from the Youth Aspirations for Singapore Campaign in their ‘SG50 PAYM Loves Red’ projects. As part of SG50 celebration, projects undertaken by the youths and participants would allow them to reflect on the reasons for our nation’s success and the factors underpinning it.
 
 ##### YOUths Care @ People's Association Youth Movement
 [img]()
