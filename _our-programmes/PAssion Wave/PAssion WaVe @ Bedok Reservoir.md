@@ -6,7 +6,7 @@ third_nav_title: PAssion Wave
 ---
 ### PAssion WaVe @ Bedok Reservoir
 
-
+![](/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Bedok%20Reservoir.jpg)
 Easily accessible from the Bedok Reservoir Road, PAssion WaVe @ Bedok Reservoir is situated in a picturesque and serene catchment area in the eastern part of Singapore. This outlet was opened in June 2005 by Minister Dr. Yaacob Ibrahim. The proximity of the outlet to nearby schools and Bedok housing estate makes it an excellent ground for recreational water sports training and activity.
 
 An ideal water sports centre, this WV outlet offers orientation courses and rentals for dragon boats and kayaks. The surrounding park is also equipped with a jogging track, children's playground, fitness stations and open fields for group activities. So, indulge in some leisure kayaking activity with your family or friends on a sunny afternoon, or take part in dragon boating activities at the PAssion WaVe @ Bedok Reservoir.
