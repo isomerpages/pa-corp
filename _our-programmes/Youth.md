@@ -43,7 +43,7 @@ These interest groups are excellent platforms for youths to interact regularly, 
 Popular interest groups include beach volleyball, archery, cheerleading, yo-yo, performing arts and astronomy.
 
 ##### Community Service Programmes
-![](/images/Programmes/Youth/Comm%20Service.jpg)
+<img style="height:500px;width:500px" src="/images/Programmes/Youth/Comm%20Service.jpg">
 
 To build a civic-conscious youth community, the PAYM also provides platforms for youths to contribute to the wider community.
 
@@ -52,21 +52,22 @@ To build a civic-conscious youth community, the PAYM also provides platforms for
 
 The PAYM engages both schooling and working youths and heightens their sense of belonging in the community by consulting their views on current issues and national policies through a series of different forums and dialogues lined up every year.
 
-![](/images/Programmes/Youth/Dialogue%201.jpg)
+<img style="height:500px;width:500px" src="/images/Programmes/Youth/Dialogue%201.jpg"><br>
 
-![](/images/Programmes/Youth/Dialogue%202.jpg)
+<img style="height:500px;width:500px" src="/images/Programmes/Youth/Dialogue%202.jpg"><br>
 
-![](/images/Programmes/Youth/Dialogue%203.jpg)
+<img style="height:500px;width:500px" src="/images/Programmes/Youth/Dialogue%203.jpg">
 
 
 ##### PAYM Loves Red
 
-![](/images/Programmes/Youth/PAYM%20Loves%20Red.jpg)
+<img style="height:500px;width:500px" src="/images/Programmes/Youth/PAYM%20Loves%20Red.jpg">
+
 The “PAYM Loves Red” supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their patriotism toward the nation in creative and unique ways.
 
 
 #### Community YOUthCare Festival 
-![](/images/Programmes/Youth/CYF.jpg)
+<img style="height:500px;width:500px" src="/images/Programmes/Youth/CYF.jpg">
 
 Community YOUthCare Festival is an annual island-wide community service campaign, mooted in 2011 to encourage more youths to come together to care for the less privileged in our community.
 
