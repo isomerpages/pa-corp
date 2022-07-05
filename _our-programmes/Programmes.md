@@ -31,6 +31,6 @@ description: ""
 
 
 
-| img |  
+| <img style="height:300px;width:300px" src="/images/Programmes/main-youth_edited.jpg"> |  
 | -------- |
 | [Youth](/our-programmes/Youth) <br>Channel your youthful energy and help shape your dreams for a happy and vibrant Singapore with our programmes<br>[Read More](/our-programmes/Youth)   |
