@@ -13,8 +13,7 @@ Bachelor of Arts and Social Sciences at National University of Singapore
 
 “I believe that only serving and working to better lives will I find meaning in my own. Overcoming challenges in life and my personal experiences inspired me to serve the community, which was why I applied for the PA Scholarship.”
 
-[Click here to read more](//) » (2545KB, PDF)
-
+[Click here to read more](/files/Careers/wb-(16-aug-2018-p7)-pa-scholarship-recipient-family-challenges-motivate-teen-to-study-hard%20(1).pdf)
  
 ![](/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg)
 Muhammad Naufal Zahin Azmi<br>
