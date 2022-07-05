@@ -63,11 +63,10 @@ The PAYM engages both schooling and working youths and heightens their sense of 
 The “PAYM Loves Red” supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their patriotism toward the nation in creative and unique ways.
 
 
-##### YOUths Care @ People's Association Youth Movement
-[img]()
+#### Community YOUthCare Festival 
+![](/images/Programmes/Youth/CYF.jpg)
 
-‘YOUths Care @ PAYM’, an island-wide community service initiative, was mooted in 2011 to encourage more youths to come together to care for the less privileged in our community. In the month of November and December 2014, more than 6,800 youths spread love and joy to more than 13,500 beneficiaries through 104 programmes island-wide.
+Community YOUthCare Festival is an annual island-wide community service campaign, mooted in 2011 to encourage more youths to come together to care for the less privileged in our community.
 
-In celebration of the nation’s Golden Jubilee, ‘SG50 YOUths Care @ PAYM’ took place over three months, from April to June 2015. For this special year, YECs, RC/NC Youth Chapters, IHLs and SLCs are outreaching together as a PAYM, to help 50 beneficiary organisations in conjunction with Singapore’s 50th birthday.
 
 Find out more about PAYM on our [Facebook page](https://www.facebook.com/PAYMyouths)!
