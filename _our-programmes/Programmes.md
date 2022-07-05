@@ -13,13 +13,13 @@ description: ""
 
 
 
-| ![](/images/Programmes/main-racialharmony.jpg)| ![](/images/Programmes/main-familylife.jpg) | ![](/images/Programmes/main-waterventure.jpg) |
+| ![](/images/Programmes/main-racialharmony.jpg)| ![](/images/Programmes/main-familylife.jpg) | ![](/images/Programmes/main-communitysports.jpg) |
 | -------- | -------- | -------- |
 | [Racial Harmony](/our-programmes/Racial-Harmony) <br>Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of differ<br>  [Read More](/our-programmes/Racial-Harmony)  | [Family Life](/our-programmes/Family-life)   <br>Participate in our family programmes to strengthen family bonds and build a strong community.<br>[Read More](/our-programmes/Family-Life)  | [Community Sports](/our-programmes/Community-Sports)  <br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character. <br>[Read More](/our-programmes/Community-Sports)  |
 
 
 
-| img | img | img |
+| ![](/images/Programmes/main-communityintegration.jpg) | ![](/images/Programmes/main-cccourses_edited.jpg) | ![](/images/Programmes/main-womensprogrammes_edited.jpg) |
 | -------- | -------- | -------- |
 | [Community Integration](/our-programmes/Community-Integration)  <br>New to Singapore? Get yourself integrated with your new environment with our various community programmes.<br>[Read More](/our-programmes/Community-Integration)  | [CC Courses](/our-programmes/CC-Courses/CC-Courses) <br>Hone your skills or acquire new ones. From cooking to dance and exotic sports, there is a course to for everyone.<br>[Read More](/our-programmes/CC-Courses/CC-Courses)    | [Women's Programmes](/our-programmes/Womens-Programmes) <br>Learn how PA encourages women to lead active lives and contribute to the community.<br>[Read More](/our-programmes/Womens-Programmes)    |
 
