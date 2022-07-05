@@ -7,7 +7,7 @@ third_nav_title: PA Scholarship
 ### Our Scholars
 
 ![](/images/Careers/Jazreel%20Tay%20Hui%20Ying.jpg)
-Jazreel Tay Hui Ying<br>
+#### Jazreel Tay Hui Ying<br>
 PA Scholar (Local)<br>
 Bachelor of Arts and Social Sciences at National University of Singapore
 
@@ -16,8 +16,8 @@ Bachelor of Arts and Social Sciences at National University of Singapore
 [Click here to read more](/files/Careers/wb-(16-aug-2018-p7)-pa-scholarship-recipient-family-challenges-motivate-teen-to-study-hard%20(1).pdf)
  
 ![](/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg)
-Muhammad Naufal Zahin Azmi<br>
-PA Scholar (Overseas)<br>
+#### Muhammad Naufal Zahin Azmi<br>
+ PA Scholar (Overseas)<br>
 Bachelor of Arts in Politics at King's College London (UK)
 
 “I am set at being involved in community activities to help strengthen ties among residents. My recent internship experience at Pasir Ris Elias Community Club further spurred my interest to serve in the public service. I strongly believe that big changes begin with small steps and progress has little to do with speed, but much to do with direction.”<br>
@@ -25,8 +25,8 @@ Bachelor of Arts in Politics at King's College London (UK)
 
  
 ![](/images/Careers/Chan%20Enying%20Grace.jpg)
-Chan Enying Grace<br>
-PA Scholar (Overseas)<br>
+#### Chan Enying Grace<br>
+ PA Scholar (Overseas)<br>
 Bachelor of Science in Economics at London School of Economics and Political Science (UK)
 
 “As a PA scholar, I would like to build better communication channels with residents from all walks of life and to forge a stronger bond between the government and its people, thereby paving the way for the shaping of community schemes for the betterment of all Singaporeans. The constant contact I had with residents inspired me to take up the PA Scholarship. I’ve come to realise my passion to serve and work with people on the ground to make a meaningful difference. This gives me a great sense of purpose because I’ve seen how much my job means to the people I interact with.”
@@ -34,15 +34,16 @@ Bachelor of Science in Economics at London School of Economics and Political Sci
 [Click here to read more](/files/Careers/story-grace-chan.pdf)
  
 ![](/images/Careers/Wong%20Yali%20Valencia.jpg)
-Wong Yali Valencia<br>
-PA Scholar (Local)<br>
+#### Wong Yali Valencia<br>
+ PA Scholar (Local)<br>
 Bachelor of Business Administration (Accountancy) with College of Alice and Peter Tan at National University of Singapore
 
 “I’m passionate about the wider community and its people and the PA Scholarship appealed to me as it provided me with opportunities to engage with local communities at the grassroots level. The most compelling factor was seeing how PA’s vision and work were aligned with my own goals in life. PA’s bottom-up approach and commitment to community- building and building bridges between communities resonate strongly with me.”
 
 [Click here to read more](/files/Careers/writeup---wong-yali-valencia.pdf)
 ![](/images/Careers/Seah%20Tiong%20Kiat.jpg)
-Seah Tiong Kiat<br>
+
+#### Seah Tiong Kiat<br>
 PA Scholar (Local)<br>
 Bachelor of Social Science at Singapore Management University
 
@@ -51,8 +52,8 @@ Bachelor of Social Science at Singapore Management University
 [Click here to read more](/files/Careers/writeup---seah-tiong-kiat.pdf)
 
 ![](/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg)
-Jessica Tan Mei Yu<br>
-PA Scholar (Local)<br>
+#### Jessica Tan Mei Yu<br>
+ PA Scholar (Local)<br>
 Bachelor of Business Administration at National University of Singapore
 
 “These six weeks of internship has been a great experience for me to observe the leaders in the Youth Division and allowed me to grow as a leader, especially for my upcoming year, whereby I will be serving as the Vice President in my hall.  I am thankful for the opportunity to work alongside my colleagues in the Youth Division and I am looking forward to my next internship which I hope to work directly with residents and volunteers in the community.”
@@ -60,7 +61,7 @@ Bachelor of Business Administration at National University of Singapore
 [Click here to read more](/files/Careers/writeup---jessica-tan.pdf)
 
 ![](/images/Careers/Angela%20Tan%20Yee%20Jin.jpg)
-Angela Tan Yee Jin<br>
+#### Angela Tan Yee Jin<br>
 PA Scholar (Overseas)<br>
 Bachelor of Economics, Politics and International Studies, University of Warwick, and<br>
 Master of Science in Social Development Practice at University College London, UK
