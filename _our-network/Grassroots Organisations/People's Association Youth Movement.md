@@ -52,10 +52,9 @@ Students will be attached to the Youth Executive Committees (YECs) and mentored 
 Through CLP, the students will not only hone their leadership skills but also cultivate a sense of appreciation on the importance of bridging diverse communities.
 
 ##### Engage Youth through Interests/ Causes 
-**Interest Groups
-**
+**Interest Groups**
 
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth6_compressed.jpg">
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth6_compressed.jpg"><br><br><br><br><br>
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
 
