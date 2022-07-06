@@ -8,8 +8,7 @@ The People’s Association (PA) Emergency Preparedness (EP) seeks to strengthen 
 Through PA and its Grassroots'  EP Programmes, residents will not only acquire EP skills and take part in emergency exercises, but also learn about the importance of racial harmony as a fundamental building block in strengthening our social fabric. The objective of the EP Programmes is to help the community stay calm, be resilient during emergencies and return to normalcy as quickly as possible.
 
 ### Emergency Preparedness Programme
-[img]()
-
+![](/images/Programmes/Emergency%20Preparedness/Emergency.jpg)
 Take part in EP programme organised by our Grassroots Organisations to prepare us to respond and render help promptly during emergencies. This can be achieved through joining our Community Emergency Response Team (CERT), participate in EP Days, learn useful skills such as Cardio-Pulmonary Resuscitation (CPR) + Automated External Defibrillator (AED) and other EP-related courses jointly organised with the Homefront Agencies.
 
 ### Community Life Saving Programme
