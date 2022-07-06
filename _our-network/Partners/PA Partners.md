@@ -12,24 +12,24 @@ The People's Association (PA) offers partnership opportunities for corporate and
 Organisations can support the calendar of community events, co-create cause-based and/or interest-based programmes with PA that benefit the community. The contributions by partners will certainly go a long way to impact lives and build a great and caring home for all.
 
 #### Why Partner PA?
-<img style="height:200px;width:200px" src="/images/Our%20Network/Partners/icon1.jpg">
+<img style="height:200px;width:200px"  align="left" src="/images/Our%20Network/Partners/icon1.jpg"><br><br><br><br><br>
 
 #### The "Network of Partners" Approach
 
 Our partners can **join efforts with other PA partners towards a common cause/interest to create greater social impact**, each contributing in their own ways, in accordance to the organisation’s capabilities, such as expertise, volunteers, donations in cash and/or in-kind. Together with the **extensive network of PA**, including the grassroots organisations and PA units, we can co-create meaningful programmes through concerted efforts.
 
-<img style="height:200px;width:200px" src="/images/Our%20Network/Partners/icon2.jpg">
+<img style="height:200px;width:200px" align="left" src="/images/Our%20Network/Partners/icon2.jpg"><br><br><br><br><br>
 
 #### Community Insights
 
 Having a diverse networks in the community, PA can share on the community needs to better enhance the outreach programmes and partnership initiatives.
 
-<img style="height:200px;width:200px" src="/images/Our%20Network/Partners/icon3.png">
+<img style="height:200px;width:200px" align="left" src="/images/Our%20Network/Partners/icon3.png"><br><br><br><br><br>
 
 #### Sharing of Ideas and Best Practices
 Platforms such as dialogue sessions and networking opportunities are available for partners to share creative ideas and best practices. This mutual learning opportunity will improve existing collaborative programmes and inspire new partnership possibilities.
 
-<img style="height:200px;width:200px" src="/images/Our%20Network/Partners/icon4.jpg">
+<img style="height:200px;width:200px" align="left" src="/images/Our%20Network/Partners/icon4.jpg"><br><br><br><br><br>
 
 #### Recognition for partners
 
