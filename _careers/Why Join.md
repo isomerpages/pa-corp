@@ -11,7 +11,7 @@ Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her
 [Read More](/files/Careers/story-tan-jun-yi.pdf)
 
 #### Edwin Yap Chee Kian <br>
- ![](/images/Careers/Edwin%20Yap%20Chee%20Kian.png)
+ <img style="height:300px;width:300px"  align="left" src="/images/Careers/Edwin%20Yap%20Chee%20Kian.png"><br><br><br><br><br><br><br><br><br>
 Mr Edwin Yap, Head (Community Arts - Bishan-Toa Payoh GRC) enjoys meeting people from all walks of life and hopes he is able to help them in one way or another through his work.<br>
 [Read More](/files/Careers/story-edwin-yap-chee-kian.pdf)
 
