@@ -13,3 +13,4 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 [Toa Payoh Trade Fair 1 Aug 2022 to 30 August 2022](/tender-details/Tender-for-Toa-Payoh-Central-Trade-Fair)
 
 [Bishan Trade Fair 1 Sep to 15 Sep 2022](/tender-details/Tender-for-Bishan-Trade-Fair)
+
