@@ -36,7 +36,7 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/story-grace-chan.pdf)
  
 ####   Wong Yali Valencia<br>
- <img style="height:300px;width:300px"  align="left" src="images/Careers/Wong%20Yali%20Valencia.jpg"><br><br><br><br><br><br><br><br><br>
+ <img style="height:300px;width:300px"  align="left" src="/images/Careers/Wong%20Yali%20Valencia.jpg"><br><br><br><br><br><br><br><br><br>
 **PA Scholar (Local)<br>**
 **Bachelor of Business Administration (Accountancy) with College of Alice and Peter Tan at National University of Singapore**
 
