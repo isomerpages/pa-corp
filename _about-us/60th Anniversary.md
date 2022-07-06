@@ -6,7 +6,7 @@ description: ""
 #### **60 Years of Community Building**
 
 
-<img style="height:500px;width:500px" src="/images/About%20Us/60th%20Anniversary/pa60-logo-high-res462929700a1d6b0c895eff0000f6c7a3.jpg">
+<img style="height:300px;width:300px" align="left" src="/images/About%20Us/60th%20Anniversary/pa60-logo-high-res462929700a1d6b0c895eff0000f6c7a3.jpg">
 2020 marks 60 years of community building with our people. We have walked this journey with fellow Singaporeans to build a harmonious, multi-racial and multi-cultural community.
 
 The road ahead is not without challenges, but a strong and united community creates possibilities for Singapore to respond to these challenges, seize new opportunities and make things happen.
