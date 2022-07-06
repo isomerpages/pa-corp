@@ -27,9 +27,9 @@ third_nav_title: PA Scholarship
 
  
 #### Chan Enying Grace<br>
-![](/images/Careers/Chan%20Enying%20Grace.jpg)
- PA Scholar (Overseas)<br>
-Bachelor of Science in Economics at London School of Economics and Political Science (UK)
+<img style="height:300px;width:300px"  align="left" src="/images/Careers/Chan%20Enying%20Grace.jpg"><br><br><br><br><br><br><br><br><br>
+**PA Scholar (Overseas)<br>**
+**Bachelor of Science in Economics at London School of Economics and Political Science (UK)**
 
 “As a PA scholar, I would like to build better communication channels with residents from all walks of life and to forge a stronger bond between the government and its people, thereby paving the way for the shaping of community schemes for the betterment of all Singaporeans. The constant contact I had with residents inspired me to take up the PA Scholarship. I’ve come to realise my passion to serve and work with people on the ground to make a meaningful difference. This gives me a great sense of purpose because I’ve seen how much my job means to the people I interact with.”
 
