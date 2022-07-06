@@ -58,6 +58,6 @@ description: ""
 
 
 
-<img style="height:500px;width:500px" src="/images/About%20Us/Annual%20Reports/AR13.png">
+<img style="height:200px;width:200px" align="left" src="/images/About%20Us/Annual%20Reports/AR13.png"><br><br><br><br><br>
 
 [Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1314.pdf)
