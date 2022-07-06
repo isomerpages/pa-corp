@@ -53,7 +53,7 @@ sections:
         nearest CC to attend courses, book CC facilities, or join an Interest
         Group.
       button: CC Location
-      url: //
+      url: /info/CC-Details
   - infobar:
       subtitle: DISTRICT INFORMATION
       description: Find out your district's information
