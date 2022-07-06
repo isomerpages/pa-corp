@@ -8,7 +8,7 @@ description: ""
 #####  Annual Report 20/21
 
 
-<img style="height:500px;width:500px" align="left" src="/images/About%20Us/Annual%20Reports/AR20.png"><br>
+<img style="height:300px;width:300px" align="left" src="/images/About%20Us/Annual%20Reports/AR20.png"><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 [Download Annual Report ](https://go.gov.sg/pa-annual-report-2021)
