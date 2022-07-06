@@ -15,7 +15,7 @@ As a PA scholar, you will have a rich experience of community organising and lea
 
 We offer local and overseas undergraduate scholarships to outstanding students with a heart and who are keen to grow the community with us.
 
-Upon completion of their studies, scholars will work with PA for a period of four years for local scholarship, five years for overseas scholarship (non-English speaking countries) and six years fo overseas scholarship (English speaking countries).
+Upon completion of their studies, scholars will work with PA for a period of four years for local scholarship, five years for overseas scholarship (non-English speaking countries) and six years for overseas scholarship (English speaking countries).
 
 ### Eligibility Criteria
 
