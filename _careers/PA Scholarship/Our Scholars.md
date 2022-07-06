@@ -36,9 +36,9 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/story-grace-chan.pdf)
  
 ####   Wong Yali Valencia<br>
- ![](/images/Careers/Wong%20Yali%20Valencia.jpg)
- PA Scholar (Local)<br>
-Bachelor of Business Administration (Accountancy) with College of Alice and Peter Tan at National University of Singapore
+ <img style="height:300px;width:300px"  align="left" src="images/Careers/Wong%20Yali%20Valencia.jpg"><br><br><br><br><br><br><br><br><br>
+**PA Scholar (Local)<br>**
+**Bachelor of Business Administration (Accountancy) with College of Alice and Peter Tan at National University of Singapore**
 
 “I’m passionate about the wider community and its people and the PA Scholarship appealed to me as it provided me with opportunities to engage with local communities at the grassroots level. The most compelling factor was seeing how PA’s vision and work were aligned with my own goals in life. PA’s bottom-up approach and commitment to community- building and building bridges between communities resonate strongly with me.”
 
