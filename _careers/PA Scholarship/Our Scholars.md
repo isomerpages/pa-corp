@@ -54,9 +54,9 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/writeup---seah-tiong-kiat.pdf)
 
 #### Jessica Tan Mei Yu<br>
-![](/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg)
- PA Scholar (Local)<br>
-Bachelor of Business Administration at National University of Singapore
+<img style="height:300px;width:300px"  align="left" src="/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg"><br><br><br><br><br><br><br><br><br>
+**PA Scholar (Local)<br>**
+**Bachelor of Business Administration at National University of Singapore**
 
 “These six weeks of internship has been a great experience for me to observe the leaders in the Youth Division and allowed me to grow as a leader, especially for my upcoming year, whereby I will be serving as the Vice President in my hall.  I am thankful for the opportunity to work alongside my colleagues in the Youth Division and I am looking forward to my next internship which I hope to work directly with residents and volunteers in the community.”
 
