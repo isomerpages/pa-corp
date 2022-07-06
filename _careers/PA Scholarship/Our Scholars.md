@@ -7,15 +7,11 @@ third_nav_title: PA Scholarship
 ### Our Scholars
 
 #### Jazreel Tay Hui Ying<br>
-<table border="0" width="100%">
-	<tr>
-		<td align="left" width="40%">
-<img style="height:300px;width:300px" src="/images/Careers/Jazreel%20Tay%20Hui%20Ying.jpg">
-		</td>
-	</tr>
-	</table>
-PA Scholar (Local)<br>
-Bachelor of Arts and Social Sciences at National University of Singapore
+
+<img style="height:300px;width:300px"  align="left" src="/images/Careers/Jazreel%20Tay%20Hui%20Ying.jpg"><br><br><br><br><br><br><br><br>
+
+**PA Scholar (Local)<br>**
+**Bachelor of Arts and Social Sciences at National University of Singapore**
 
 “I believe that only serving and working to better lives will I find meaning in my own. Overcoming challenges in life and my personal experiences inspired me to serve the community, which was why I applied for the PA Scholarship.”
 
