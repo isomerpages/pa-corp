@@ -91,16 +91,14 @@ Since 2008, youths have come forward to take charge in creating their own specia
 
 The “PAYM Loves Red” supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their patriotism toward the nation in creative and unique ways.
 
-The focus for “SG50 PAYM Loves Red” is for youths to embrace and actualize the values and visions from the Youth Aspirations for Singapore Campaign in their ‘SG50 PAYM Loves Red’ projects. As part of SG50 celebration, projects undertaken by the youths and participants would allow them to reflect on the reasons for our nation’s success and the factors underpinning it (e.g. through the hard work and determination of our founding fathers and pioneer generation and the values/beliefs that have enabled us to succeed).
 
-#### YOUths Care @ PAYM
+#### Community YOUthCare Festival
 
-[img]()
-[img]()
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth17_compressed.jpg"><br><br><br><br><br><br><br><br>
 
-‘YOUths Care @ People’s Association Youth Movement (PAYM)’, an island-wide community service initiative, was mooted in 2011 to encourage more youths to come together to care for the less privileged in our community. In the month of November and December 2014, more than 6,800 youths spread love and joy to more than 13,500 beneficiaries through 104 programmes island-wide.
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth18_compressed.jpg"><br><br><br><br><br><br><br><br>
 
-In celebration of the nation’s Golden Jubilee, ‘SG50 YOUths Care @ PAYM’ will take place for three months, from April to June 2015. For this special year, YECs, RC/NC Youth Chapters, IHLs and SLCs are outreaching together as a PAYM, to help 50 beneficiary organisations in conjunction with Singapore’s 50th birthday.
+Community YOUthCare Festival, an island-wide community service initiative, was mooted in 2011 encourage more youths to come together to care for their community. Our youths have since implemented regular sustainable community service programmes such as weekly reading classes for children from the lower-income families, environmental outreach drives, and weekly free meal distribution to the seniors in need of support, and mental wellness initiatives.
 
 To learn more about the PAYM’s programmes and activities or to find out how to join us:
 
