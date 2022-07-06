@@ -25,7 +25,7 @@ Deputy Constituency Director, Kebun Baru Constituency Office @ Kebun Baru CC, We
 [Read More](/files/Careers/story-wendy-zeng.pdf)
 
 #### Ang Ying Hin<br>
-<img style="height:400px;width:300px"  align="left" src="/images/Careers/Ang%20Ying%20Hin.png"><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="height:300px;width:200px"  align="left" src="/images/Careers/Ang%20Ying%20Hin.png"><br><br><br><br><br><br><br><br><br>
  Ang Ying Hin, Head (Community Arts & Culture, Tanjong Pagar GRC) joined PA as a Constituency Manager (CM) because he enjoys working and interacting with people. As a CM, he worked closely with grassroots volunteers in organising outreach programmes for the residents to participate in and to get to know one another, thereby promoting social cohesion, racial harmony and community bonding.
 
 One of his most memorable projects was the National Day dinner held in his constituency in 2008. He was given the task of organising an eight-course dinner for nearly 2,000 people and to oversee the 3-hour entertainment programme. At the end of the event, he had residents coming to him with their feedback, telling him how much they had enjoyed themselves. He derived great satisfaction, seeing how his contribution has led to the success of this event and it motivated him to work even harder.
