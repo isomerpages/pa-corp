@@ -2,5 +2,6 @@ collections:
   info:
     output: true
     order:
+      - NC Details.md
       - CC Details.md
       - Details.md
