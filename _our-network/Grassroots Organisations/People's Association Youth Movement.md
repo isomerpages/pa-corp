@@ -34,8 +34,7 @@ A strong emphasis on personal development and hands-on experiences greatly enhan
 
 #### Empowering Youth 
 
-**Youth Chapters
-**
+**Youth Chapters**
 
 <img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth3_compressed.jpg"><br><br><br><br><br><br>
 In addition to involving youths in the YECs, the Youth Chapters at the Residents’ Committees and Neighbourhood Committees is another key initiative to facilitate deeper local youth engagement as it will give young residents a chance to get to know each other and do meaningful activities together.
