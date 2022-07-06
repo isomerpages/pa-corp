@@ -72,26 +72,13 @@ Currently, our youths have implemented more than 100 sustainable community servi
 #### Forum and Dialogue Series
 The PAYM engages both schooling and working youths and heightens their sense of belonging in the community by consulting their views on current issues and national policies through the different series of forum and dialogue lined up every year.
 
-[img](//)
-[img](//)
-
-YOUTHSpeak on Budget engages youth from our youth communities to gather feedback on Budget. This post-Budget dialogue is held annually after Budget Day as a platform for our youths to share their feedback on the budget initiatives shared by the Finance Minister during Budget Day. Through this process, PAYM hopes to deepen youths’ interest, knowledge and insight on current affairs, as well as understand the trade-off in policy-making.
-
-The youths will have the opportunity to meet and network with like-minded youths from the various institutions and organisations, as well as to share their views with fellow youths and our special guests.
-
-[img](//)
-Voices of Youth is a post- National Day Rally (NDR)  forum programme series that is held every year to gather feedback from youths on Prime Minister's NDR speech.  The discussions enabled youths to engage constructively and provided a platform for them to share their feedback on the issues raised at the NDR . This series aims to strengthen the government to youth connectivity by deepening the youths' interest, knowledge and insight on current affairs, as well as understand the trade-off in policy-making.
-[img](//)
-[img](//)
-
-Conversation with Leaders of Tomorrow Policy Forum series is one of PAYM’s latest initiatives to promote better understanding of government policies and its trade-offs among youths from the Institutes of Higher Learning (IHLs). The forum invites IHL youths to share their views on current issues and national policies with representatives from the government, private and academic sectors. The feedback received would be channelled to the relevant agencies for consideration and implementation where appropriate.
 
 ##### Excite Youths with High-Point Events
 
 ##### PAYM Chingay Contingent
 
 
-[img]()
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth14_compressed.jpg"><br><br><br><br><br><br><br
 
 Since 2008, youths have come forward to take charge in creating their own special showcases, taking on roles that see them lead fellow volunteers and performers, and even design their own costumes in the annual extravaganza of Chingay Parade
 
