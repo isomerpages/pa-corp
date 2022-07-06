@@ -63,10 +63,10 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/writeup---jessica-tan.pdf)
 
 #### Angela Tan Yee Jin<br>
-![](/images/Careers/Angela%20Tan%20Yee%20Jin.jpg)
-PA Scholar (Overseas)<br>
-Bachelor of Economics, Politics and International Studies, University of Warwick, and<br>
-Master of Science in Social Development Practice at University College London, UK
+<img style="height:300px;width:300px"  align="left" src="/images/Careers/Angela%20Tan%20Yee%20Jin.jpg"><br><br><br><br><br><br><br><br><br>
+**PA Scholar (Overseas)<br>**
+**Bachelor of Economics, Politics and International Studies, University of Warwick, and<br>
+Master of Science in Social Development Practice at University College London, UK**
 
 “I'm a strong believer of the maxim ‘live to work’ and I feel that it is important to work for an organisation that I am passionate about! The PA’s scholarship’s career prospects also strongly appeal to me. Being an extrovert, I enjoy interacting with people and through the scholarship, I will be involved in community projects and job placements in various strategic units.”
 
