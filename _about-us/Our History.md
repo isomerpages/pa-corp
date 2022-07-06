@@ -9,7 +9,8 @@ On 1 July 1960, the PA was formed to help foster racial harmony and social cohes
 
 The 1950s and early 60s saw turbulent times for Singapore. Racial riots and political strife made Singapore a poor and divided society with closely-knit communal groups pulling in different directions. We had to overcome serious political, economic and communal problems in order to survive.
 
-![](/images/About%20Us/Our%20History/pa-buildingoutlook1970s.jpg)
+<img style="height:300px;width:300px"  align="left" src="/images/About%20Us/Our%20History/pa-buildingoutlook1970s.jpg"><br><br><br><br><br><br><br><br>
+
 
 More and more people became active with the establishment of the Citizens' Consultative Committees and later, the Residents' Committees (RCs) and Neighbourhood Committees (NCs). People of different racial, language, income and age groups participated in a wide range of activities at the CCs. Such multi-racial participation helped to promote unity despite the diversity in race, culture and religion.
 
