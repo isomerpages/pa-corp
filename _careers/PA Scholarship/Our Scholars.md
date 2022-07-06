@@ -45,9 +45,9 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/writeup---wong-yali-valencia.pdf)
 
 #### Seah Tiong Kiat<br>
-![](/images/Careers/Seah%20Tiong%20Kiat.jpg)
-PA Scholar (Local)<br>
-Bachelor of Social Science at Singapore Management University
+<img style="height:300px;width:300px"  align="left" src="/images/Careers/Seah%20Tiong%20Kiat.jpg"><br><br><br><br><br><br><br><br><br>
+**PA Scholar (Local)<br>**
+**Bachelor of Social Science at Singapore Management University**
 
 “If you like working with people and want a meaningful job that allows you to make a real impact on the community, then the PA Scholarship is the one that you should apply for.”
 
