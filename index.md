@@ -11,7 +11,11 @@ sections:
       title: Join Your Community
       dropdown:
         title: Get Involved
-        options: []
+        options:
+          - title: Visit OnePA for Courses
+            url: https://www.onepa.gov.sg/
+          - title: Join Our Community
+            url: /engage/join-your-community
   - infobar:
       title: Resumption of Selected Classes and Activities for Seniors
       subtitle: HIGHLIGHTS
