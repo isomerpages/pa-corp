@@ -40,7 +40,7 @@ The annual street procession brings diverse groups of people together, and showc
  
 
 ### National Orange Ribbon Celebrations
-[img]()
+<img style="height:200px;width:300px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-orangeribbon.jpg"><br><br><br><br><br>
 
 The National Orange Ribbon Celebrations are organised by OnePeople.sg in promotion of Singapore’s multi-racial society. The Celebrations aim to facilitate deeper interaction and better understanding between individuals and communities, thus fostering a stronger sense of identity and building a more resilient social fabric.
 
