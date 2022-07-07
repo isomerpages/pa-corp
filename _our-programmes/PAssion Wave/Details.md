@@ -1,0 +1,23 @@
+---
+title: Details
+permalink: /our-programmes/PAssion-Wave/Details
+description: ""
+third_nav_title: PAssion Wave
+---
+
+![](/images/Programmes/PAssion%20Wave/PAssion%20Wave%20cover.jpg)
+People’s Association PAssion WaVe (PAWV), formerly known as Water-Venture was first coined in 2015 as PA’s specialist community club offering a broad range of waterfront lifestyle programmes to the community. PAWV is an integral part of PA that bonds people and bridges the communities through water sports and waterfront lifestyle pursuits. Together with its partners and trainers, PAWV provides safe, affordable and exciting courses, programmes and activities to the community.
+
+PAWV has the passionate belief that an exciting and healthy lifestyle should be accessible to everyone in the community regardless of age, race or gender.
+
+PAWV offers sports equipment for rental. Valid certification is required for certain sports like windsurfing, stand up paddling, and sport climbing. For certification courses or programmes, you can contact any of our PAWV outlets for more information.
+
+Our rental hours are from 9am to 6pm on Wednesday to Sunday. All outlets are closed on Mondays and Public Holidays. With effect from 19 June 2020, all sports equipment rental offered at the six PAssion WaVe outlets have to be pre-booked by users online, subject to availability. 
+
+Please visit our [Facebook page](http://www.facebook.com/pa.passionwave) or follow us on [Instagram](https://www.instagram.com/pa.passionwave) for more information.
+
+For course registration, please log on to the [onePA portal](https://www.onepa.gov.sg/).
+
+Please [email](mailto: passionwave@pa.gov.sg) us for more enquiries. 
+
+[PAssion Wave Rate Card 2022](/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf)
