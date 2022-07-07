@@ -11,6 +11,4 @@ Leadership development is crucial to the continued excellence and growth of comm
 
 ####  Training Programmes
 
-To support your continued learning journey with us, we would like to introduce you to the various learning opportunities ranging from face-to-face courses (held at NACLI or your nearest CC) to e-learning and bite-sized social media learning posts. For more information, 
-
-More information available at [www.pa.gov.sg/nacli](https://www.pa.gov.sg/nacli).
+To support your continued learning journey with us, we would like to introduce you to the various learning opportunities ranging from face-to-face courses (held at NACLI or your nearest CC) to e-learning and bite-sized social media learning posts. For more information, visit [www.pa.gov.sg/nacli](https://www.pa.gov.sg/nacli).
