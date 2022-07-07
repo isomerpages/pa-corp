@@ -24,6 +24,6 @@ Terms & Conditions apply:
 * The terms and conditions are subject to changes without notice.
 
 ### Brochure
-Click [here](//) to download the ‘PA SHIOK Series’ (September to December 2021) brochure. 
+Click [here](/files/Our%20Programmes/CC%20Courses/SHIOK%20Series-e-brochure_may-to-july-2022.pdf) to download the ‘PA SHIOK Series’ (**May to July 2022)** brochure. 
 
 For more information on ‘PA SHIOK Series’ courses, please visit our SHIOK Series Facebook page or visit [www.onePA.gov.sg](https://www.onepa.gov.sg/) with keyword search “SHIOK”.
