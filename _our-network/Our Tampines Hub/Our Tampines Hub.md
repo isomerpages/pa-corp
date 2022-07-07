@@ -4,6 +4,8 @@ permalink: /our-network/Our-Tampines-Hub/Our-Tampines-Hub
 description: ""
 third_nav_title: Our Tampines Hub
 ---
+![](/images/Our%20Network/OTH/NYE%20Fireworks%20at%20Town%20Square.jpg)
+
 Our Tampines Hub (OTH) is Singapore’s largest integrated community and lifestyle hub, bringing together multiple agencies and offering a comprehensive range of services and facilities.
 
 Led by People’s Association, OTH represents a new model of a community-focused development, celebrating the full sense of community through meaningful engagement, enriching residents through multiple experiences and empowering them to stake ownership of the hub, so as to build a robust identity for Tampines and a truly sustainable community.
