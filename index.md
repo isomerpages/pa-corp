@@ -9,15 +9,9 @@ sections:
   - hero:
       background: /images/join-your-community.jpg
       title: Join Your Community
-      button: Read More
-      url: /engage/join-your-community
-      key_highlights:
-        - title: Be Our Volunteer
-          description: ""
-          url: /engage/Be-Our-Volunteer
-        - title: Connect With Government
-          description: ""
-          url: /engage/connect-with-government/connect-with-government
+      dropdown:
+        title: Get Involved
+        options: []
   - infobar:
       title: Resumption of Selected Classes and Activities for Seniors
       subtitle: HIGHLIGHTS
