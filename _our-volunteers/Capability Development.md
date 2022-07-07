@@ -3,7 +3,8 @@ title: Capability Development
 permalink: /our-volunteers/Capability-Development
 description: ""
 ---
-# Training Programmes by the National Community Leadership Institute
+# National Community Leadership Institute
+##  Training Programmes
 
 As the training arm of the People’s Association (PA), the National Community Leadership Institute (NACLI) has been developing community leaders since its establishment on 5 October 1964. Our mission is to Develop, Align and Inspire Leaders in Building and Bridging Communities. 
 
