@@ -10,7 +10,8 @@ The programmes organised by the PA are open to everyone. They are common spaces 
 * National Orange Ribbon Celebrations
 
 ### Community Activities
-[img]()
+<img style="height:200px;width:300px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-communityactivities.jpg"><br><br><br><br><br>
+
 
 Many local-level racial harmony programmes are organised by the grassroots organisations to raise the level of understanding amongst neighbours of different races. In recent years, more focus has been given to programmes that encourage community participation to deepen inter-racial understanding among residents. Some of the efforts include bringing residents from various races and ethnic groups together to develop and organise racial harmony programmes.
 
