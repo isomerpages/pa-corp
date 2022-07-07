@@ -18,7 +18,8 @@ Many local-level racial harmony programmes are organised by the grassroots organ
  
 
 ### Arts & Cultural Programmes
-[img]()
+<img style="height:200px;width:300px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-artscultureprog.jpg"><br><br><br><br><br>
+
 
 The PA organises many programmes to showcase and celebrate Singapore’s rich multi-cultural heritage. Here are some of them.
 
