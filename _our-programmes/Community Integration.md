@@ -12,6 +12,7 @@ An initiative of the People’s Association, “Your Neighbourly Welcome Guide�
 Discover the gems of your neighbourhood with the guidebook!
 (More GRC Welcome Guides are coming up!)
 
+[Aljunied GRC and Hougang SMC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Aljunied-Hougang.pdf)
 * [Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs](//)
 * [ East Coast GRC](//)
 * [Holland-Bukit Timah GRC and Bukit Panjang SMC](//)
