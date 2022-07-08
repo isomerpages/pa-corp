@@ -19,8 +19,9 @@ Discover the gems of your neighbourhood with the guidebook!
 * [Jalan Besar GRC and Potong Pasir SMC](//)
 * [Marine Parade GRC, MacPherson and Mountbatten SMCs](//)
 * [Marsiling - Yew Tee GRC](//)
-* [Nee Soon GRC](//)
+* [Nee Soon GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_NeeSoon.pdf)
 * [Sembawang GRC](//)
+* [Sengkang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sengkang.pdf)
 
 ### Integration and Naturalisation Champions
 ![](/images/Programmes/Community%20Integration/CI2.jpg)
