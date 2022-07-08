@@ -67,4 +67,7 @@ sections:
       button: Click here
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
+  - resources:
+      title: Highlights
+      button: //
 ---
