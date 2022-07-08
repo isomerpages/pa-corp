@@ -37,8 +37,8 @@ We give recognition to strategic partners who had worked closely with PA. The PA
 
 #### Be a Friend of PA, Be Our WeCare PALs
 
-WeCare PALs are our friends of PA, an overarching term we use for all our PA partners. Check out the [WeCare PALs](our-network/partners/wecare-pals) page to find out more about WeCare PALs and how your organisation can partner with us!
+WeCare PALs are our friends of PA, an overarching term we use for all our PA partners. Check out the [WeCare PALs](/our-network/Partners/WeCare-PALs) page to find out more about WeCare PALs and how your organisation can partner with us!
 
 
 
-If you are a corporate organisation keen on corporate giving and volunteerism, join [Project We Care](our-network/partners/project-we-care) and let us co-create meaningful programmes together!
+If you are a corporate organisation keen on corporate giving and volunteerism, join [Project We Care](/our-network/partners/project-we-care) and let us co-create meaningful programmes together!
