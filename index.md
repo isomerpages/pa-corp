@@ -16,6 +16,9 @@ sections:
         - title: Connect with Government
           description: Read More
           url: /engage/Connect-With-Government/Connect-with-Government
+        - title: Visit onePA for Courses
+          description: ""
+          url: https://www.onepa.gov.sg/
       button: Read more
       url: /engage/Join-Your-Community
   - infobar:
