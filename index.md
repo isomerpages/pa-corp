@@ -69,5 +69,5 @@ sections:
       description: Check authenticity of the call you received!
   - resources:
       title: Highlights
-      button: //
+      button: Read More
 ---
