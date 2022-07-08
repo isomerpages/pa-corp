@@ -27,7 +27,7 @@ sections:
       description: From Monday, 1 November 2021, the People’s Association will pilot
         the resumption of selected classes and activities for Seniors
       button: Read More
-      url: //
+      url: /newsroom/News
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
@@ -68,4 +68,3 @@ sections:
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
 ---
-
