@@ -9,17 +9,15 @@ sections:
   - hero:
       background: /images/join-your-community.jpg
       title: Join Your Community
-      dropdown:
-        title: Get Involved
-        options:
-          - title: Visit OnePA for Courses
-            url: https://www.onepa.gov.sg/
-          - title: Join Our Community
-            url: /engage/join-your-community
-          - title: Connect with Government
-            url: engage/connect-with-government/connect-with-government
-          - title: Be Our Volunteer
-            url: engage/be-our-volunteer
+      key_highlights:
+        - title: Be our Volunteer
+          description: Read More
+          url: /engage/Be-Our-Volunteer
+        - title: Connect with Government
+          description: Read More
+          url: /engage/Connect-With-Government/Connect-with-Government
+      button: Read more
+      url: /engage/Join-Your-Community
   - infobar:
       title: Resumption of Selected Classes and Activities for Seniors
       subtitle: HIGHLIGHTS
