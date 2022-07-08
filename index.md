@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: People's Association
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: This is a staging website
@@ -68,3 +68,4 @@ sections:
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
 ---
+
