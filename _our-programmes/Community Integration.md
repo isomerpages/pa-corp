@@ -22,14 +22,12 @@ Discover the gems of your neighbourhood with the guidebook!
 * [Sembawang GRC](//)
 
 ### Integration and Naturalisation Champions
-[img]()
-
+![](/images/Programmes/Community%20Integration/CI2.jpg)
 Integration and Naturalisation Champions (INCs) initiate and spearhead integration and naturalisation programmes in the local community. INCs actively reach out to new citizens/PRs by conducting house visits to welcome and invite them to join grassroots activities to expand their social network. INCs also organise various grassroots activities such as welcome tea parties and festive celebrations to engage new citizens/PRs.
 
 
 ### Integration Strategies
-[img] ()
-
+![](/images/Programmes/Community%20Integration/CI3.jpg)
 To achieve the key objective of PA’s integration efforts to widen our outreach and deepen engagement with new citizens/PRs (new immigrants), PA has adopted the following three key strategic approaches:
 
 Intensifying local integration efforts through the Residents' Committees and Neighbourhood Committees;
