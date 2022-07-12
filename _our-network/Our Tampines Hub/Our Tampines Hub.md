@@ -45,10 +45,23 @@ Having achieved BCA’s Green Market (Platinum) certification, OTH boasts a clos
 
 
 
-
+![](/images/Our%20Network/OTH/Closed%20loop%20system%20of%20enviornmental%20solutions%20and%20features.jpg)
  
 
+### Smart Nation Technology and Initiatives
 
+
+OTH is proud to support Smart Nation initiatives in an effort to serve communities efficiently and effectively. These include the adoption of various Smart Nation technology to ensure service delivery exceeds visitor expectations including intelligent queue management systems, cashless kiosks / systems, video analytic software programmes, interactive way-finding, integrated ticketing systems, mobile apps and social media tools.
+
+Taking advantage of innovation and productivity, hub visitors can now enjoy greater convenience and better accessibility.
+
+
+img..
+
+#### Tampines Kindness Movement
+The Tampines Kindness Movement (TKM) is an offshoot of the Singapore Kindness Movement and focuses on building a community culture that practices graciousness toward neighbour and environment. OTH is the crucible for the TKM and supports this by promoting ground-up initiatives of Tampines residents with its Ambassadors i.e. volunteers, across different facets of its operations.
+
+The objective is to engender in all visitors a sense of responsibility toward building this culture because everyone plays a part in contributing toward the creation of a kinder and more gracious culture toward each other and the environment.
 
 
 
