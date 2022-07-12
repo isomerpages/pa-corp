@@ -55,8 +55,10 @@ OTH is proud to support Smart Nation initiatives in an effort to serve communiti
 
 Taking advantage of innovation and productivity, hub visitors can now enjoy greater convenience and better accessibility.
 
-
-img..
+![](/images/Our%20Network/OTH/Eco-Warriors%20(1).jpg)
+![](/images/Our%20Network/OTH/Wellness%20Centre.jpg)
+![](/images/Our%20Network/OTH/Mass%20Yoga.jpg)
+![](/images/Our%20Network/OTH/OTH%20Eco%20Digester%20.jpg)
 
 #### Tampines Kindness Movement
 The Tampines Kindness Movement (TKM) is an offshoot of the Singapore Kindness Movement and focuses on building a community culture that practices graciousness toward neighbour and environment. OTH is the crucible for the TKM and supports this by promoting ground-up initiatives of Tampines residents with its Ambassadors i.e. volunteers, across different facets of its operations.
@@ -67,4 +69,3 @@ The objective is to engender in all visitors a sense of responsibility toward bu
 ![](/images/Our%20Network/OTH/TKMBeely%202.jpg)
 
 ![](/images/Our%20Network/OTH/Logos.png)
-
