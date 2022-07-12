@@ -16,12 +16,13 @@ Discover the gems of your neighbourhood with the guidebook!
 * [Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Ang%20Mo%20Kio%20(1).pdf)
 * [East Coast GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_East%20Coast%20(1).pdf)
 * [Holland-Bukit Timah GRC and Bukit Panjang SMC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_HollandBT1623_compressed.pdf)
-* [Jalan Besar GRC and Potong Pasir SMC](//)
-* [Marine Parade GRC, MacPherson and Mountbatten SMCs](//)
-* [Marsiling - Yew Tee GRC](//)
-* [Nee Soon GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_NeeSoon.pdf)
-* [Sembawang GRC](//)
-* [Sengkang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sengkang.pdf)
+* [Jalan Besar GRC and Potong Pasir SMC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Jalan%20Besar1654-compressed.pdf)
+* [Jurong GRC, Bukit Batok and Yuhua SMCs](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Jurong%20(1).pdf)
+* [Marine Parade GRC, MacPherson and Mountbatten SMCs](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Marine%20Parade_compressed.pdf)
+* [Marsiling - Yew Tee GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_MarsilingYewTee%20compressed.pdf)
+* [Nee Soon GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_NeeSoon%20(1).pdf)
+* [Sembawang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sembawang%20compressed.pdf)
+* [Sengkang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sengkang%20(1).pdf)
 
 ### Integration and Naturalisation Champions
 <img style="height:200px;width:300px"  align="left" src="/images/Programmes/Community%20Integration/CI2.jpg"><br><br><br><br><br><br>
