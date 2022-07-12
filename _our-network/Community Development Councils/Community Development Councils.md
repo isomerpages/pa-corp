@@ -29,7 +29,7 @@ At the constituency level, each CDC works closely with the Grassroots Organisati
 | <img style="height:100px;width:200px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/02.png"> |   A Caring & Cohesive Community   |      |
 | <img style="height:100px;width:150px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/03.png">   |A Caring and Healthy Community    |      |
 | <img style="height:100px;width:200px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/south-east-cdc-(1).jpg">   | Your Social Broker   |      |
-| <img style="height:100px;width:150px"  align="left" src="images/Our%20Network/Community%20Development%20Councils/sw_cdc_logo_fa-1-(1).png">   | Owning Your Community     |      |
+| <img style="height:100px;width:150px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/sw_cdc_logo_fa-1-(1).png">   | Owning Your Community     |      |
 
 
 
