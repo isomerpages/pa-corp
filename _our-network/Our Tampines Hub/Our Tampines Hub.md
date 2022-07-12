@@ -63,7 +63,8 @@ The Tampines Kindness Movement (TKM) is an offshoot of the Singapore Kindness Mo
 
 The objective is to engender in all visitors a sense of responsibility toward building this culture because everyone plays a part in contributing toward the creation of a kinder and more gracious culture toward each other and the environment.
 
+![](/images/Our%20Network/OTH/tkm_beely.jpg)
+![](/images/Our%20Network/OTH/TKMBeely%202.jpg)
 
+![](/images/Our%20Network/OTH/Logos.png)
 
-
-Download the e-copy of our Hub Guide                  fdfgfdgdf, featuring details on all the facilities and services OTH has to offer now!
