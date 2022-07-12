@@ -16,4 +16,3 @@ For more information, visit the following links:
 [Scheduled Courses](https://www.pa.gov.sg/our-network/national-community-leadership-institute/learn-with-nacli)
 <br> 
 [Training Programmes](https://www.pa.gov.sg/our-network/national-community-leadership-institute/training-programmes)
-
