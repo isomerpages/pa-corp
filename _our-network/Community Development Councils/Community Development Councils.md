@@ -25,8 +25,8 @@ At the constituency level, each CDC works closely with the Grassroots Organisati
 
 |  |  |  |
 | -------- | -------- | -------- |
-| logo     | Building a Do-Good District     |      |
-| logo     |   A Caring & Cohesive Community   |      |
+| <img style="height:100px;width:150px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/01.png">    | Building a Do-Good District     |      |
+| <img style="height:100px;width:200px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/02.png"> |   A Caring & Cohesive Community   |      |
 | logo     |A Caring and Healthy Community    |      |
 | logo     | Your Social Broker   |      |
 | logo     | Owning Your Community     |      |
