@@ -49,5 +49,4 @@ We will take steps to guide and help our staff and, as far as possible, external
 
  
 
-We have apologised unreservedly to Ms Sarah Bagharib and her family for the distress our mistake has caused. We have given her an explanation of the circumstances which led to the error and have also offered to meet with her to discuss any other concerns which she might have. 
-
+We have apologised unreservedly to Ms Sarah Bagharib and her family for the distress our mistake has caused. We have given her an explanation of the circumstances which led to the error and have also offered to meet with her to discuss any other concerns which she might have.
