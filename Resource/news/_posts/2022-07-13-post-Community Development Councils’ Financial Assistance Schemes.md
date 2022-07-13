@@ -13,4 +13,4 @@ Response to parliamentary question on the number of applications received under 
 
 **Description**: 
 
-The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website here. 
+The full questions and responses are available on the  Ministry of Culture, Community and Youth (MCCY) website here.
