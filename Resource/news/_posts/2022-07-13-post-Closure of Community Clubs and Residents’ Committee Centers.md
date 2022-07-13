@@ -27,4 +27,3 @@ PA urges Singaporeans to stay at home, except for essential services.
 
 * Singpass reset is available at selected CCs. Please use visit https://www.singpass.gov.sg/singpass/common/counter to find the location nearest to you. 
 
-Publish Date: 
