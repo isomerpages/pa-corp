@@ -21,7 +21,7 @@ OTH currently serves more than 250,000 residents and approximately 80,000 househ
 
 With an **enhanced transportation node of 3 new MRT stations** along the Downtown Line at Tampines Town Centre (Tampines West, Tampines, Tampines East), **OTH is a convenient and accessible hub with something for everyone.**
 
-![](/images/Our%20Network/OTH/Jogging%20Track.jpeg)
+<img style="height:300px;width:600px" src="/images/Our%20Network/OTH/Jogging%20Track.jpeg">
 
 OTH provides a **common secular space** for residents and visitors of different backgrounds, races, ages and public and private estates to come together, interact and bond.
 
