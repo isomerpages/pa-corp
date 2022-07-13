@@ -21,13 +21,9 @@ sections:
           url: https://www.onepa.gov.sg/
       button: Read more
       url: /engage/Join-Your-Community
-  - infobar:
-      title: Resumption of Selected Classes and Activities for Seniors
-      subtitle: HIGHLIGHTS
-      description: From Monday, 1 November 2021, the People’s Association will pilot
-        the resumption of selected classes and activities for Seniors
+  - resources:
+      title: Highlights
       button: Read More
-      url: /newsroom/News
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
@@ -35,15 +31,6 @@ sections:
       alt: Image alt text
       image: /images/Passion Mobile.png
       title: MyPassion Mobile App
-  - infobar:
-      title: "Response To Parliamentary Question By Minister "
-      description: Written Response To Parliamentary Question By Minister Chan Chun
-        Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021
-      button: Read More
-      url: /Permalink
-  - infobar:
-      button: Read More Articles
-      url: //
   - infobar:
       subtitle: FIND A COURSE
       description: PA offers you endless opportunities to pick up new skills, have
@@ -67,7 +54,4 @@ sections:
       button: Click here
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
-  - resources:
-      title: Highlights
-      button: Read More
 ---
