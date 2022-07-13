@@ -57,7 +57,4 @@ Other PA facilities such as PAssion WaVe outlets and IMPACT@Hong Lim Green will 
 
  
 
-Participants who have queries on the status of their courses or interest group activities may contact their respective CCs. 
-
-
-
+Participants who have queries on the status of their courses or interest group activities may contact their respective CCs.
