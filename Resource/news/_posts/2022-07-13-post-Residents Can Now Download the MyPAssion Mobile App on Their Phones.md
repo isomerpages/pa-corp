@@ -26,4 +26,4 @@ The MyPAssion Mobile App may be downloaded:
 
 Here for IOS users 
 
-Here for Andriod users 
+Here for Andriod users
