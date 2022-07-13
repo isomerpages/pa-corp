@@ -27,7 +27,7 @@ OTH provides a **common secular space** for residents and visitors of differen
 
  In addition to building social cohesion and racial harmony, it caters for a **deepened engagement amongst Tampines residents and Hub visitors**.
  
- ![](/images/Our%20Network/OTH/ND%20Kids.jpg)
+ <img style="height:300px;width:600px" src="/images/Our%20Network/OTH/ND%20Kids.jpg">
  
  OTH integrates the physical facilities, management and programming of multiple agencies. It is currently working toward achieving PA, MCCY/SSC/NA/NHB, NLB, MOH, NEA, HDB, MOH’s key priorities and initiatives to **provide better services, widen community outreach and engagement and build community ownership in programming for its residents and visitors**.
 
