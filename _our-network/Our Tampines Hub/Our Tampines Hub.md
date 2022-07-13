@@ -11,7 +11,7 @@ Our Tampines Hub (OTH) is **Singapore’s largest integrated community and life
 
 Led by People’s Association, OTH represents a new model of a community-focused development, celebrating the full sense of community through meaningful engagement, enriching residents through multiple experiences and empowering them to stake ownership of the hub, so as to build a robust identity for Tampines and a truly sustainable community.
 
-![](/images/Our%20Network/OTH/kids_at_swimming_pool.jpg)
+<img style="height:300px;width:600px" src="/images/Our%20Network/OTH/kids_at_swimming_pool.jpg">
 
 Residents can **enjoy a range of facilitie****s** such as sports facilities, a regional library, community club programmes and facilities, arts programmes and facilities, hawker centre and retail shops.
 
