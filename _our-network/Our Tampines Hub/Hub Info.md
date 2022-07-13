@@ -36,10 +36,19 @@ As a resident-centric development, the 5 “E”s of a participatory design proc
 
 **Evaluate**: The ongoing process of constantly taking stock and engaging with residents to ensure continual refinement of the hub.
 
-![](/images/Our%20Network/OTH/Eco-Warriors%20(1).jpg)
-![](/images/Our%20Network/OTH/Wellness%20Centre.jpg)
-![](/images/Our%20Network/OTH/Mass%20Yoga.jpg)
-![](/images/Our%20Network/OTH/OTH%20Eco%20Digester%20.jpg)
+
+
+
+
+
+||  |  
+| -------- | --------|
+| <img style="height:200px;width:500px" src="/images/Our%20Network/OTH/Eco-Warriors%20(1).jpg">  |<img style="height:200px;width:500px" src="/images/Our%20Network/OTH/Wellness%20Centre.jpg"> |
+| <img style="height:200px;width:500px" src="/images/Our%20Network/OTH/Mass%20Yoga.jpg"> | <img style="height:200px;width:500px" src="images/Our%20Network/OTH/OTH%20Eco%20Digester%20.jpg">|
+
+
+
+
 
 
 ### Eco-sustainability at Our Tampines Hub
