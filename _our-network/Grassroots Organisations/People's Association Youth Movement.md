@@ -79,14 +79,14 @@ The PAYM engages both schooling and working youths and heightens their sense of 
 ##### PAYM Chingay Contingent
 
 
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth14_compressed.jpg"><br><br><br><br><br><br><br>
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth14_compressed.jpg"><br><br><br><br><br>
 
 Since 2008, youths have come forward to take charge in creating their own special showcases, taking on roles that see them lead fellow volunteers and performers, and even design their own costumes in the annual extravaganza of Chingay Parade
 
 
 ##### PAYM Loves Red
 
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth15_compressed.jpg"><br><br><br><br><br><br>
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth15_compressed.jpg"><br><br><br><br><br>
 
 <img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth16_compressed.jpg"><br><br><br><br><br>
 
@@ -95,9 +95,9 @@ The “PAYM Loves Red” supports and encourages all youths to organise meaningf
 
 #### Community YOUthCare Festival
 
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth17_compressed.jpg"><br><br><br><br><br><br><br><br>
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth17_compressed.jpg"><br><br><br><br><br>
 
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth18_compressed.jpg"><br><br><br><br><br><br><br><br>
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth18_compressed.jpg"><br><br><br><br><br>
 
 Community YOUthCare Festival, an island-wide community service initiative, was mooted in 2011 encourage more youths to come together to care for their community. Our youths have since implemented regular sustainable community service programmes such as weekly reading classes for children from the lower-income families, environmental outreach drives, and weekly free meal distribution to the seniors in need of support, and mental wellness initiatives.
 
