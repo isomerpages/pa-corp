@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Cairnhill Community Club.md
       - Buona Vista Community Club.md
       - Bukit Timah Community Club.md
       - Bukit Panjang Community Club.md
