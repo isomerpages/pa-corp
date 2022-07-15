@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Ci Yuan Community Centre.md
       - Chua Chu Kang Community Club.md
       - Chong Pang Community Club.md
       - Cheng San Community Club.md
