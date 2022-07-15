@@ -18,20 +18,21 @@ The materials located on this website including the information and software pro
 
 Click here to review this Website Privacy Policy Statement.
 
-Restrictions on use of Materials
+#### Restrictions on use of Materials
 Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of PA.
 
 Modification of any of the Contents or use of the Contents for any other purpose will be a violation of PA's copyright and other intellectual property rights. Graphics and images on this Website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of PA.
 
-Disclaimer of Warranties and Liability
-The Contents of this Website provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, PA does not warrant and hereby disclaims any warranty:
+#### Disclaimer of Warranties and Liability
+ The Contents of this Website provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, PA does not warrant and hereby disclaims any warranty:
 
-as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Website;
-that the Contents available through this Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website and the server are and will be free of all viruses and/or other harmful elements.
+1. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Website;
+2. that the Contents available through this Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website and the server are and will be free of all viruses and/or other harmful elements.
+
 PA shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Website.
 
-Right of Access
-This Website contains hyperlinks to websites which are not maintained by PA. PA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those Websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+#### Right of Access
+ This Website contains hyperlinks to websites which are not maintained by PA. PA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those Websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
 Links from this Website to other Websites
 PA reserves all rights to deny or restrict access to this Website to any particular person, or to block access from a particular Internet address to this Website, at any time, without ascribing any reasons whatsoever.
