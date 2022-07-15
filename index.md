@@ -37,13 +37,15 @@ sections:
         fun, while making new friends in the process. Come join us today
       button: Visit OnePa
       url: https://www.onepa.gov.sg/
-  - infobar:
-      subtitle: LOCATE A CC
+  - infopic:
+      title: CC Locations
       description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
         nearest CC to attend courses, book CC facilities, or join an Interest
         Group.
-      button: CC Location
-      url: /info/CC-Details
+      button: Find More
+      url: //
+      image: /images/Photo - Locate a CC.jpg
+      alt: /info/CC-Details
   - infobar:
       subtitle: DISTRICT INFORMATION
       description: Find out your district's information
@@ -54,13 +56,4 @@ sections:
       button: Click here
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
-  - infopic:
-      title: CC Locations
-      description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
-        nearest CC to attend courses, book CC facilities, or join an Interest
-        Group.
-      button: Find More
-      url: //
-      image: /images/Photo - Locate a CC.jpg
-      alt: Image alt text
 ---
