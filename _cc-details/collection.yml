@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Bishan Community Club.md
       - Bedok Community Centre.md
       - Ayer Rajah Community Club.md
       - Ang Mo Kio Community Centre.md
