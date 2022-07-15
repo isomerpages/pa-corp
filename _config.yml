@@ -53,7 +53,7 @@ plugins:
 staging: https://pa-corp-staging.netlify.app
 prod: https://pa-corp-prod.netlify.app
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
