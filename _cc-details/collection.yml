@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Eunos Community Club.md
       - Dover Community Centre.md
       - Clementi Community Centre.md
       - Ci Yuan Community Centre.md
