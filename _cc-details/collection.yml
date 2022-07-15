@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Yew Tee Community Club.md
       - Woodlands Galaxy Community Club.md
       - Woodlands Community Club.md
       - Woodgrove Community Centre.md
