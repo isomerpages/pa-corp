@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Hong Kah North Community Club.md
       - Hillview Community Club.md
       - Henderson Community Club.md
       - Geylang West Community Club.md
