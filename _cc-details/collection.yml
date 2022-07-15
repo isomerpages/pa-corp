@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Toa Payoh East Community Club.md
       - Toa Payoh Central Community Club.md
       - Tiong Bahru Community Centre.md
       - Thomson Community Club.md
