@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Leng Kee Community Club.md
       - Kreta Ayer Community Club.md
       - Kolam Ayer Community Club.md
       - Kim Seng Community Centre.md
