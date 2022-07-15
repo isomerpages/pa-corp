@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - The Serangoon Community Club.md
       - The Frontier Community Club.md
       - Telok Blangah Community Club.md
       - Teck Ghee Community Club.md
