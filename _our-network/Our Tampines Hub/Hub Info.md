@@ -43,8 +43,8 @@ As a resident-centric development, the 5 “E”s of a participatory design proc
 
 ||  |  
 | -------- | --------|
-| <img style="height:200px;width:400px" src="/images/Our%20Network/OTH/Eco-Warriors%20(1).jpg">  |<img style="height:200px;width:400px" src="/images/Our%20Network/OTH/Wellness%20Centre.jpg"> |
-| <img style="height:200px;width:400px" src="/images/Our%20Network/OTH/Mass%20Yoga.jpg"> | <img style="height:200px;width:400px" src="/images/Our%20Network/OTH/OTH%20Eco%20Digester%20.jpg">|
+| <img style="height:200px;width:350px" src="/images/Our%20Network/OTH/Eco-Warriors%20(1).jpg">  |<img style="height:200px;width:350px" src="/images/Our%20Network/OTH/Wellness%20Centre.jpg"> |
+| <img style="height:200px;width:350px" src="/images/Our%20Network/OTH/Mass%20Yoga.jpg"> | <img style="height:200px;width:350px" src="/images/Our%20Network/OTH/OTH%20Eco%20Digester%20.jpg">|
 
 
 
