@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Geylang West Community Club.md
       - Geylang Serai Community Club.md
       - Gek Poh Ville Community Club.md
       - Fuchun Community Club.md
