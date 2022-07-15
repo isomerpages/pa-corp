@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Rivervale Community Club.md
       - Radin Mas Community Club.md
       - Queenstown Community Centre.md
       - Punggol Vista Community Centre.md
