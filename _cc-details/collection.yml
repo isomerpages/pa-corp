@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Tampines North Community Club.md
       - Tampines East Community Club.md
       - Tampines Changkat Community Club.md
       - Tampines Central Community Club @ OTH.md
