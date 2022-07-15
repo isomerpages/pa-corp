@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - PAssion WaVe @ Pasir Ris.md
       - PAssion WaVe @ Marina Bay.md
       - PAssion WaVe @ Lower Seletar Reservoir.md
       - PAssion WaVe @ East Coast.md
