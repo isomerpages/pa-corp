@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Marsiling Community Club.md
       - Marine Parade Community Club.md
       - MacPherson Community Club.md
       - Limbang CC.md
