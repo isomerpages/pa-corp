@@ -9,7 +9,7 @@ Leadership development is crucial to the continued excellence and growth of comm
 
 ####  Learn with NACLI
 
-To support your continued learning journey as a grassroots leader / PA volunteer, explore various learning opportunities by NACLI ranging from face-to-face courses (held at NACLI or your nearest community center) to e-learning and bite-sized social media learning posts!
+To support your continued learning journey as a grassroots leader/PA volunteer, explore various learning opportunities offered by NACLI ranging from synchronous face to face, hybrid or virtual training (held at NACLI or your nearest Community Clubs) to asynchronous digital learning through learning gamification, bite-sized e-learning modules, social media learning initiatives, among others.
 
 For more information on our grassroots training, visit the following links: 
 <br> 
