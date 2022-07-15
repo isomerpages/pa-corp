@@ -38,7 +38,7 @@ sections:
       button: Visit OnePa
       url: https://www.onepa.gov.sg/
   - infopic:
-      title: CC Locations
+      title: Locate CC
       description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
         nearest CC to attend courses, book CC facilities, or join an Interest
         Group.
@@ -46,6 +46,7 @@ sections:
       url: //
       image: /images/Photo - Locate a CC.jpg
       alt: /info/CC-Details
+      subtitle: Find your CC details
   - infobar:
       subtitle: DISTRICT INFORMATION
       description: Find out your district's information
