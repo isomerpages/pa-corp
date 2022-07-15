@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Henderson Community Club.md
       - Geylang West Community Club.md
       - Geylang Serai Community Club.md
       - Gek Poh Ville Community Club.md
