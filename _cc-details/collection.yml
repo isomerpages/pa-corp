@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Thomson Community Club.md
       - The Serangoon Community Club.md
       - The Frontier Community Club.md
       - Telok Blangah Community Club.md
