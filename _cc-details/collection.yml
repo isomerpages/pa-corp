@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Dover Community Centre.md
       - Clementi Community Centre.md
       - Ci Yuan Community Centre.md
       - Chua Chu Kang Community Club.md
