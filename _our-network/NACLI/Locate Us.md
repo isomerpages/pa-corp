@@ -16,18 +16,18 @@ Singapore 118176
 ##### Public Transport
 
 **Bus no. 200** <br>
-From Buona Vista Stn (Exit D): Alight at the 7th* stop (i.e. Bus Stop 15099 Natl Leadership Inst) <br>
-From Kent Ridge Stn (Exit B): Alight at the 4th* stop (i.e. Bus Stop 15099 Natl Leadership Inst) <br>
-From Haw Par Villa Stn: Alight at the 4th* stop (i.e. Bus Stop 15091 Opp Natl Leadership Inst)
+* From Buona Vista Stn (Exit D): Alight at the 7th* stop (i.e. Bus Stop 15099 Natl Leadership Inst) <br>
+* From Kent Ridge Stn (Exit B): Alight at the 4th* stop (i.e. Bus Stop 15099 Natl Leadership Inst) <br>
+* From Haw Par Villa Stn: Alight at the 4th* stop (i.e. Bus Stop 15091 Opp Natl Leadership Inst)
 
 **Including the bus stop you board from*
 
 ##### Driving Directions
 
-From Tuas towards AYE (City)
+* From Tuas towards AYE (City)
 On AYE, take Exit 8 towards North Buona Vista Road. Turn right into Buona Vista Flyover and continue straight towards the winding South Buona Vista Road for about 1.9km. Our NACLI campus is on your left.
 
-From CTE towards AYE (Tuas)
+* From CTE towards AYE (Tuas)
 On AYE, take Exit 8 towards South Buona Vista Road and continue down the winding road for about 1.8km. Our NACLI campus is on your left.
 
 ##### Carpark
