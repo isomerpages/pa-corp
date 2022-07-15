@@ -16,8 +16,7 @@ The materials located on this website including the information and software pro
 
 #### Privacy Policy
 
-Click here to review this Website Privacy Policy Statement.
-
+[Click here to review this Website Privacy Policy Statement.](/privacy/)
 #### Restrictions on use of Materials
 Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of PA.
 
