@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Cheng San Community Club.md
       - Changi Simei Community Club.md
       - Canberra Community Club.md
       - Cairnhill Community Club.md
