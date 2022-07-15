@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Zhenghua Community Club.md
       - Yuhua Community Club.md
       - Yio Chu Kang Community Club.md
       - Yew Tee Community Club.md
