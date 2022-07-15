@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Keat Hong Community Club.md
       - Katong Community Centre.md
       - Kampong Ubi Community Centre.md
       - Kampong Kembangan Community Club.md
