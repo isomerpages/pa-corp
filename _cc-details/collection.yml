@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Hwi Yoh Community Centre.md
       - Hougang Community Club.md
       - Hong Kah North Community Club.md
       - Hillview Community Club.md
