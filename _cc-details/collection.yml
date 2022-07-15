@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Bukit Merah Community Centre.md
       - Bukit Batok East Community Club (Temporary CC).md
       - Bukit Batok Community Club.md
       - Braddell Heights Community Club.md
