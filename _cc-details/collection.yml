@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Our Tampines Hub.md
       - Nee Soon Spring Community Centre.md
       - Nee Soon South Community Club.md
       - Nee Soon East Community Club.md
