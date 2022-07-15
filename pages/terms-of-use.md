@@ -34,12 +34,12 @@ PA shall also not be liable for any damage or loss of any kind caused as a resul
 #### Right of Access
  This Website contains hyperlinks to websites which are not maintained by PA. PA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those Websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
-Links from this Website to other Websites
-PA reserves all rights to deny or restrict access to this Website to any particular person, or to block access from a particular Internet address to this Website, at any time, without ascribing any reasons whatsoever.
+#### Links from this Website to other Websites
+ PA reserves all rights to deny or restrict access to this Website to any particular person, or to block access from a particular Internet address to this Website, at any time, without ascribing any reasons whatsoever.
 
 Hyperlinks to other Websites are provided as a convenience. In no circumstances shall PA be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Website is linked.
 
-Links to this Website from other External Websites
+#### Links to this Website from other External Websites
 Except as set forth below, caching and links to, and the framing of this Website or any of the Contents are prohibited.
 
 You must secure permission from PA prior to hyperlinking to, or framing, this Website or any of the Contents, or engaging in similar activities. PA reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Website or any of the Contents.
@@ -52,5 +52,5 @@ PA reserves all rights to disable any links to, or frames of any site containing
 
 PA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Website or any of the contents.
 
-Governing Law
+#### Governing Law
 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
