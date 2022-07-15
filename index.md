@@ -43,9 +43,8 @@ sections:
         nearest CC to attend courses, book CC facilities, or join an Interest
         Group.
       button: Locate
-      url: //
+      url: /info/CC-Details
       image: /images/Photo - Locate a CC.jpg
-      alt: /info/CC-Details
       subtitle: More details on your CC
   - infobar:
       subtitle: DISTRICT INFORMATION
