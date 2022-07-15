@@ -54,4 +54,13 @@ sections:
       button: Click here
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
+  - infopic:
+      title: CC Locations
+      description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
+        nearest CC to attend courses, book CC facilities, or join an Interest
+        Group.
+      button: Find More
+      url: //
+      image: /images/Photo - Locate a CC.jpg
+      alt: Image alt text
 ---
