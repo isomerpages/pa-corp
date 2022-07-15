@@ -42,7 +42,7 @@ sections:
       description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
         nearest CC to attend courses, book CC facilities, or join an Interest
         Group.
-      button: Find More
+      button: Locate
       url: //
       image: /images/Photo - Locate a CC.jpg
       alt: /info/CC-Details
