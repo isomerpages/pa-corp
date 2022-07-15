@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Teck Ghee Community Club.md
       - Tanjong Pagar Community Club.md
       - Tanglin Community Club.md
       - Tampines West Community Club.md
