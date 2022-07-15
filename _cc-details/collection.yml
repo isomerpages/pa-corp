@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Queenstown Community Centre.md
       - Punggol Vista Community Centre.md
       - Punggol Park Community Centre.md
       - Punggol Community Club.md
