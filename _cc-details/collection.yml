@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - MacPherson Community Club.md
       - Limbang CC.md
       - Leng Kee Community Club.md
       - Kreta Ayer Community Club.md
