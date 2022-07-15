@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Mountbatten Community Club.md
       - Marymount Community Club.md
       - Marsiling Community Club.md
       - Marine Parade Community Club.md
