@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Canberra Community Club.md
       - Cairnhill Community Club.md
       - Buona Vista Community Club.md
       - Bukit Timah Community Club.md
