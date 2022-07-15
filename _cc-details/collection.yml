@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Punggol Vista Community Centre.md
       - Punggol Park Community Centre.md
       - Punggol Community Club.md
       - Punggol 21 Community Club.md
