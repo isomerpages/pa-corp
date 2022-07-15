@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Kim Seng Community Centre.md
       - Kebun Baru Community Club.md
       - Keat Hong Community Club.md
       - Katong Community Centre.md
