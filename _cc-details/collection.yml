@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Taman Jurong Community Club.md
       - Siglap South Community Centre.md
       - Siglap Community Club.md
       - Senja Cashew Community Club.md
