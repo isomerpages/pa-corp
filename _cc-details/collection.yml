@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Punggol Community Club.md
       - Punggol 21 Community Club.md
       - Potong Pasir Community Club.md
       - Pek Kio Community Centre.md
