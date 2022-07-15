@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Paya Lebar Kovan Community Club.md
       - PAssion WaVe @ Sembawang.md
       - PAssion WaVe @ Pasir Ris.md
       - PAssion WaVe @ Marina Bay.md
