@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Gek Poh Ville Community Club.md
       - Fuchun Community Club.md
       - Fengshan Community Club.md
       - Eunos Community Club.md
