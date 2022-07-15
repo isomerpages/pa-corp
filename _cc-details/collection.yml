@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Tanjong Pagar Community Club.md
       - Tanglin Community Club.md
       - Tampines West Community Club.md
       - Tampines North Community Club.md
