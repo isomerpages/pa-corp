@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Kallang Community Club.md
       - Kaki Bukit Community Centre.md
       - Jurong Spring Community Club.md
       - Jurong Green Community Club.md
