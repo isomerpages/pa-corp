@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Joo Chiat Community Club.md
       - Jalan Besar Community Club.md
       - Hwi Yoh Community Centre.md
       - Hougang Community Club.md
