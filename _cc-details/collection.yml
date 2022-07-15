@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Water Venture Changi.md
       - Ulu Pandan Community Club.md
       - Toa Payoh West Community Club.md
       - Toa Payoh South Community Club.md
