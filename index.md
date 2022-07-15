@@ -46,7 +46,7 @@ sections:
       url: //
       image: /images/Photo - Locate a CC.jpg
       alt: /info/CC-Details
-      subtitle: Find your CC details
+      subtitle: More details on your CC
   - infobar:
       subtitle: DISTRICT INFORMATION
       description: Find out your district's information
