@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Sembawang Community Club.md
       - Rivervale Community Club.md
       - Radin Mas Community Club.md
       - Queenstown Community Centre.md
