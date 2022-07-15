@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Pasir Ris Elias Community Club.md
       - Pasir Ris East Community Club.md
       - Our Tampines Hub.md
       - Nee Soon Spring Community Centre.md
