@@ -2,6 +2,7 @@ collections:
   cc-details:
     output: true
     order:
+      - Jurong Green Community Club.md
       - Joo Chiat Community Club.md
       - Jalan Besar Community Club.md
       - Hwi Yoh Community Centre.md
