@@ -31,12 +31,16 @@ sections:
       alt: Image alt text
       image: /images/Passion Mobile.png
       title: MyPassion Mobile App
-  - infobar:
+  - infopic:
+      title: Infopic Title
       subtitle: FIND A COURSE
-      description: PA offers you endless opportunities to pick up new skills, have
-        fun, while making new friends in the process. Come join us today
+      description: Infopic descriPA offers you endless opportunities to pick up new
+        skills, have fun, while making new friends in the process. Come join us
+        todayption
       button: Visit OnePa
       url: https://www.onepa.gov.sg/
+      image: /images/PA Course.jpg
+      alt: PA courses
   - infopic:
       title: Locate CC
       description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
