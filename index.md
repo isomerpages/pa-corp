@@ -32,11 +32,10 @@ sections:
       image: /images/Passion Mobile.png
       title: MyPassion Mobile App
   - infopic:
-      title: Infopic Title
+      title: PA Courses
       subtitle: FIND A COURSE
-      description: Infopic descriPA offers you endless opportunities to pick up new
-        skills, have fun, while making new friends in the process. Come join us
-        todayption
+      description: PA offers you endless opportunities to pick up new skills, have
+        fun, while making new friends in the process. Come join us today!
       button: Visit OnePa
       url: https://www.onepa.gov.sg/
       image: /images/PA Course.jpg
