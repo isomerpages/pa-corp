@@ -10,7 +10,7 @@ sections:
       background: /images/join-your-community.jpg
       title: Join Your Community
       key_highlights:
-        - title: Be our Volunteer
+        - title: Join as a Volunteer
           description: Read More
           url: /engage/Be-Our-Volunteer
         - title: Connect with Government
@@ -19,6 +19,9 @@ sections:
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
+        - title: Report Scams
+          description: ""
+          url: ""
       button: Read more
       url: /engage/Join-Your-Community
   - resources:
