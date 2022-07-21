@@ -41,7 +41,7 @@ sections:
         fun, while making new friends in the process. Come join us today!
       button: Visit OnePa
       url: https://www.onepa.gov.sg/
-      image: /images/PA Course.jpg
+      image: /images/PA Course (smaller).jpg
       alt: PA courses
   - infopic:
       title: Locate CC
