@@ -4,7 +4,7 @@ title: People's Association
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: This is a staging website
+notification: This is a staging website in isomer
 sections:
   - hero:
       background: /images/join-your-community.jpg
