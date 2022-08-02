@@ -40,7 +40,7 @@ The annual street procession brings diverse groups of people together, and showc
  
 
 ### HarmonyWorks! Conference by OnePeople.sg
-<img style="height:200px;width:300px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-orangeribbon.jpg"><br><br><br><br><br>
+<img style="height:200px;width:300px"  align="left" src="/images/Programmes/Racial%20Harmony/Conference.jpg"><br><br><br><br><br>
 
 
 OnePeople.sg’s HarmonyWorks! Conference is a signature youth-driven initiative which explores key trends and issues of race relations in Singapore. This annual youth conference provides a platform for youths to speak their thoughts and gather insights on pertinent issues concerning race and religious relations.
