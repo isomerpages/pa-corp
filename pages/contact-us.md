@@ -11,13 +11,14 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 9.00am - 6.00pm
-        description: Closed on Public Holidays
+        description: Closed on weekends and Public Holidays
     maps_link: ""
-    title: Head Quarters
+    title: Headquarters
 contacts:
   - content:
       - phone: +65 6225 5322
       - email: ""
-      - other: ""
+      - other: The PA Contact Centre operates from 8am to 6pm daily, except public
+          holidays.
     title: General Enquiries & Feedback
 ---
