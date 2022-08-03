@@ -18,8 +18,8 @@ For more information about SkillsFuture Credit, please visit [www.skillsfuture.g
         <colgroup><col width="201"><col width="236"></colgroup>
         <tbody>
             <tr height="23">
-                <td style="width: 201px; height: 23px;">CC Name</td>
-                <td style="width: 236px;">Phone Number</td>
+							<td style="width: 201px; height: 23px;"><b>CC Name</b></td>
+							<td style="width: 236px;"><b>Phone Number</b></td>
             </tr>
             <tr height="23">
                 <td style="height: 23px;">Ace The Place CC</td>
