@@ -31,12 +31,6 @@ sections:
           url: ""
       button: Read more
       url: /engage/Join-Your-Community
-  - infobar:
-      title: SCAM ALERT
-      subtitle: "Beware of scam "
-      description: Read more  on various scams and how to report
-      button: Find More
-      url: //
   - resources:
       title: Highlights
       button: Read More
