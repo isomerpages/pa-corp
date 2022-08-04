@@ -19,8 +19,5 @@ description: ""
  |
 | 11  Jan 2022 | [Response to Parliamentary Question on Plans to Tighten the Eligibility Criteria of PA Grassroots Leaders   Summary]()<br>Response to parliamentary question on whether the Government has plans to tighten the eligibility criteria of PA grassroots leaders.  |
 | 11 Jan 2022 | [Response to Parliamentary Questions on the CDC Vouchers and Outreach to Households Who Have Not Claimed Their Vouchers as They Are Less IT-Savvy ]()<br>Response to parliamentary questions on the claims of the CDC Vouchers, and the outreach to households who have not claimed their vouchers as they are less IT-savvy. |
-| 27 Dec 2021 | [Usher in 2022 with Family and Neighbours with PA's Virtual Programmes ]()<br>As we usher in 2022, the People’s Association (PA) Grassroots Organisations (GROs) will be organising 15 virtual year-end countdown  
+| 27 Dec 2021 | [Usher in 2022 with Family and Neighbours with PA's Virtual Programmes ]()<br>As we usher in 2022, the People’s Association (PA) Grassroots Organisations (GROs) will be organising 15 virtual year-end countdown  community programmes to connect residents in a safe way and celebrate as one united community on 31 December 2021. |
 
-community programmes to connect residents in a safe way and celebrate as one united community on 31 December 2021. |
-
-[1](/permalink)      [2](/permalink)    [3]() [4]() [5]() ................  [56]()
