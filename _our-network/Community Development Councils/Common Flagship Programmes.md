@@ -67,3 +67,4 @@ SFA is a community outreach initiative that was launched in 2017.  It helps resi
 
 #### SME Centres@CDC
 
+SME Centres and the five CDCs have collaborated to establish a wider network of SME Centres across Singapore to provide Heartland SMEs with greater convenience and access to business resources and advice.  These SME Centres provide local business with integrated services including business and productivity diagnosis, guidance on government assistance schemes and capability workshop.  
