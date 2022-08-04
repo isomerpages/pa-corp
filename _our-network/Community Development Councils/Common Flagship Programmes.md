@@ -53,6 +53,8 @@ On 28 September 2020, Minister Edwin Tong announced the renewal of two Memorandu
 
 #### Maybank Family Fund@CDC
 
+<img style="height:200px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/MAYBANK.png"><br><br><br><br><br>
+
 Launched in November 2018, the $1.55 million Maybank Family Fund@CDC aims to uplift low income and vulnerable families through three broad areas of financial empowerment, livelihood and employability.
 
 The fund includes a five-year insurance coverage scheme by Maybank to provide medical and mobility expenses reimbursement for up to 1,000 needy families.
