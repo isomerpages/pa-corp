@@ -3,14 +3,13 @@ title: News
 permalink: /newsroom/News
 description: ""
 ---
-
 ### News
 
 
 
 |  | | 
 | -------- | -------- |
-| 10 May 2022 | [Update on Utilisation of CDC Vouchers and Heartland Merchants Onboard CDC Vouchers Scheme](//) <br>Response to parliamentary question on the participation of merchants, utilisation of CDC vouchers, and potential use of the CDC e-voucher system to enable charities and philanthropic individuals to give e-vouchers to be spent at heartland shops.  |
+| 10 May 2022 | [Response to Parliamentary Question on People’s Association not making donations to charities using government funding ]() <br>Response to parliamentary question on the participation of merchants, utilisation of CDC vouchers, and potential use of the CDC e-voucher system to enable charities and philanthropic individuals to give e-vouchers to be spent at heartland shops.  |
 | 10 Mar 2022     | [Community Development Councils’ Financial Assistance Schemes ](//)<br>Response to parliamentary question on the number of applications received under Community Development Councils’ Financial Assistance Schemes, and the average processing time for these schemes     | 
 | 15 Feb 2022 | [Framework in Place on Managing and Governing Personal Data](//)<br>Response to parliamentary question on the People’s Association’s guidelines and protocols governing the use of personal data. |
 | 11 Jan 2022 | [Response to Parliamentary Question on Plans to Tighten the Eligibility Criteria of PA Grassroots Leaders](//) <br>Response to parliamentary question on whether the Government has plans to tighten the eligibility criteria of PA grassroots leaders.|
