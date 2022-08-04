@@ -18,7 +18,7 @@ description: ""
 | 15 Feb 2022 | [Framework in Place on Managing and Governing Personal Data ]()<br>Response to parliamentary question on the People’s Association’s guidelines and protocols governing the use of personal data.
  |
 | 11  Jan 2022 | [Response to Parliamentary Question on Plans to Tighten the Eligibility Criteria of PA Grassroots Leaders   Summary]()<br>Response to parliamentary question on whether the Government has plans to tighten the eligibility criteria of PA grassroots leaders.  |
-| 14 Sep 2021 | [Response to Parliamentary Questions On Audit Observations at People’s Association Identified in the Auditor-General’s Office FY2020/2021 Report](//)<br> People’s Association is committed to resolving and improving its governance and oversight processes. |
+| 11 Jan 2022 | [Response to Parliamentary Questions on the CDC Vouchers and Outreach to Households Who Have Not Claimed Their Vouchers as They Are Less IT-Savvy ]()<br>Response to parliamentary questions on the claims of the CDC Vouchers, and the outreach to households who have not claimed their vouchers as they are less IT-savvy. |
 | 22 Jul 2021 | [Statement by the People’s Association on Audit Observations in the Report of the Auditor-General for Financial Year 2020/2021](//) <br>The Auditor-General’s Office (AGO) audited two development projects under PA, namely, Our Tampines Hub (OTH) and Heartbeat@Bedok (HBB).|
 
 [1](/permalink)      [2](/permalink)    [3]() [4]() [5]() ................  [56]()
