@@ -68,6 +68,8 @@ Jointly developed by the National Integration Council (NIC) and the Community De
 
 #### SkillsFuture Advice and SkillsFuture@CDC
 
+<img style="height:200px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/SKILLSFUTURE.png"><br><br><br><br><br>
+
 On 25 September 2020, Minister Lawrence Wong witnessed the virtual SkillsFuture Advice (SFA) Memorandum of Understanding (MOU) between Community Development Councils (CDCs), SkillsFuture Singapore (SSG) and Employment and Employability Institute (e2i) to affirm their commitment to support Singaporeans in skills upgrading and career planning. 
 
 SFA is a community outreach initiative that was launched in 2017.  It helps residents to navigate through the SkillsFuture landscape and help them better understand their own strengths, and help them to be more aware of the types of skills needed in today’s employment, as well as the skypes of skills required for future of work.
