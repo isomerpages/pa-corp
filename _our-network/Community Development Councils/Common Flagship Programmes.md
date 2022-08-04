@@ -25,6 +25,9 @@ Learn how you can claim your CDC Vouchers 2022 at [vouchers.cdc.gov.sg.](https:/
 
 #### Kong Meng San – CDC COVID-19 Relief Fund 
 
+<img style="height:200px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/KMS.png"><br><br><br><br><br>
+
+
 he five Community Development Councils (CDCs) and Kong Meng San Phor Kark See Monastery (KMSPKS) are pleased to announce the enhanced Kong Meng San-CDC COVID-19 Relief Fund.
 
 The Fund will open for registration from now till 31 March 2023 to help more Singaporeans, including those who are self-employed, cope with rising costs of living and inflationary pressures. Each successful applicant will receive $800 per household. 
