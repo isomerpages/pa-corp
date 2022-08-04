@@ -61,6 +61,7 @@ The fund includes a five-year insurance coverage scheme by Maybank to provide me
 
 #### National Integration Council (NIC) - CDC Corporate Social Integration (CSI) Fund
 
+<img style="height:200px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/NIC%20CDC.png"><br><br><br><br><br>
 
 Jointly developed by the National Integration Council (NIC) and the Community Development Councils (CDCs), the Corporate Social Integration (CSI) Fund encourages companies to do their part for the community by getting their employees to contribute in the most meaningful way.   For example, Corporate organisations may organise befriending session with vulnerable seniors, bring the underprivileged children out for fun-filled experience, or even bring festive cheers to our marginalised families, and at the same time, enable employees to build bonds and teamwork and use their skills and expertise for a greater good.
 
