@@ -64,3 +64,6 @@ On 25 September 2020, Minister Lawrence Wong witnessed the virtual SkillsFuture 
 
 SFA is a community outreach initiative that was launched in 2017.  It helps residents to navigate through the SkillsFuture landscape and help them better understand their own strengths, and help them to be more aware of the types of skills needed in today’s employment, as well as the skypes of skills required for future of work.
 
+
+#### SME Centres@CDC
+
