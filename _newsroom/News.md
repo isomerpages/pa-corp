@@ -47,4 +47,4 @@ description: ""
 | 10 Mar  2020 |[Suspension of Senior-Centric Courses and Activities at CCs and RCs ]()<br>The respective CCs and RCs will inform all affected participants directly on the suspension. Participants who have queries on the status of their courses or interest group activities may contact their respective CCs and RCs.   |
 | 10 Mar  2020 |[Suspension of Senior-Centric Courses and Activities at CCs and RCs ]()<br>The respective CCs and RCs will inform all affected participants directly on the suspension. Participants who have queries on the status of their courses or interest group activities may contact their respective CCs and RCs.   |
 | 1 Feb 2020 |[Collection of Masks from 1 Feb – 9 Feb at RCs and CCs]()<br>Please check your community noticeboards, digital display panels, Government’s social media platforms or maskgowhere.sg for details on when and where to collect their masks. |
-
+| 24 jan  2020 |[Chingay 2020 sets the stage for PA to mark its 60 years of Community Building ]()<br>Themed ‘Colours of Harmony’, the parade returns to the F1 Pit Building on 31 Jan and 1 Feb 2020. Grab your tickets online today.. |
