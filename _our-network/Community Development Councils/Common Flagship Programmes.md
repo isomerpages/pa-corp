@@ -6,17 +6,22 @@ third_nav_title: Community Development Councils
 ---
 #### Common Flagship Programmes
 
-The five Community Development Councils (CDCs) have come together to bring services closer to the residents. Below are examples of such collaboration.
+The five Community Development Councils (CDCs) come together to run common flagship programmes to support the Government’s efforts in promoting a caring, inclusive, resilient and future-ready Singapore; and engender and spread goodwill among the people.
 
-#### CDC Vouchers Scheme
+Below are examples of such collaboration.
+
+#### CDC Vouchers Scheme 2022
 
 [img]()
 
-At Budget 2020, Deputy Prime Minister (DPM) and Minister for Finance, Mr Heng Swee Keat announced that Community Development Councils (CDCs) will be given $20 million to better meet the needs of the residents through local initiatives.  The CDC Vouchers Scheme aims to help Singaporean households defray the cost of living and at the same time, support participating local merchants and hawkers at HDB estates / heartlands during the COVID-19 situation.  
 
-Please click below to find out more about CDC Vouchers Scheme
-* Mr Heng Swee Keat, Deputy Prime Minister and Minister of Finance ([Video](https://www.youtube.com/watch?v=PKu86gzFzug))
-* Ms Low Yen Ling, Chairman of Mayors’ Committee and Mayor of South West District ([Video](https://www.youtube.com/watch?v=caimAImLPQ8))
+Finance Minister Mr Lawrence Wong announced at Budget 2022 that the Community Development Councils (CDCs) will be giving three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.
+
+
+In May 2022, the CDCs will distribute $100 worth of CDC Vouchers 2022 to each Singaporean Household to help in daily expenses as part of the Household Support Package. Singaporean households can use the vouchers to purchase goods and services from participating hawkers and heartland merchants.
+
+Learn how you can claim your CDC Vouchers 2022 at [vouchers.cdc.gov.sg.](https://vouchers.cdc.gov.sg/)
+
 
 #### National Integration Council (NIC) - CDC Corporate Social Integration (CSI) Fund
 
