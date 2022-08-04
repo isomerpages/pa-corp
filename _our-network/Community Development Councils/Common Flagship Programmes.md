@@ -23,43 +23,37 @@ In May 2022, the CDCs will distribute $100 worth of CDC Vouchers 2022 to each Si
 Learn how you can claim your CDC Vouchers 2022 at [vouchers.cdc.gov.sg.](https://vouchers.cdc.gov.sg/)
 
 
-#### National Integration Council (NIC) - CDC Corporate Social Integration (CSI) Fund
+#### Kong Meng San – CDC COVID-19 Relief Fund 
 
-[img]()
+he five Community Development Councils (CDCs) and Kong Meng San Phor Kark See Monastery (KMSPKS) are pleased to announce the enhanced Kong Meng San-CDC COVID-19 Relief Fund.
 
-Jointly developed by the National Integration Council (NIC) and the Community Development Councils (CDCs), the Corporate Social Integration (CSI) Fund encourages companies to do their part for the community by getting their employees to contribute in the most meaningful way.   For example, Corporate organisations may organise befriending session with vulnerable seniors, bring the underprivileged children out for fun-filled experience, or even bring festive cheers to our marginalised families, and at the same time, enable employees to build bonds and teamwork and use their skills and expertise for a greater good.
+The Fund will open for registration from now till 31 March 2023 to help more Singaporeans, including those who are self-employed, cope with rising costs of living and inflationary pressures. Each successful applicant will receive $800 per household. 
 
-#### Law Awareness Weeks @ CDC (Law @ CDC)
+The Fund is open to Singaporeans aged 21 years old and above who have experienced:
+a) A total loss of income due to non-voluntary no-pay leave, retrenchment or termination for at least two months at the point of application; or
+b) Income loss of at least 30% from all jobs prior to application.*  
 
-[img]()
+*Loss of income must have taken place after 23 Jan 2020 when COVID-19 first occurred in Singapore. Applicant must have monthly gross income of $3,000 or less.
 
-On 28 September 2020, Minister Edwin Tong announced the renewal of two Memorandums of Understanding (MOU) – one MOU between the Community Development Councils (CDCs) and Law Society Pro Bono Services (LSPBS) on Community Legal Pro Bono Services Network (Community Legal Clinics); and one MOU between CDCs, LSPBS, three Institutes of Higher Learning (National University of Singapore, Singapore Management University and Singapore University of Social Sciences) and one new partner Singapore Counsel Association (SCCA) on Law Awareness Weeks @ CDC. 
+Each successful applicant (and his/ her household) will receive a one-time relief of $800.
 
-LAW@CDC was started to educate residents through legal talks conducted across the five districts on basic legal knowledge. These talks are held at Community Centres/Clubs (CCs) and Residents' Committee (RC) Centres. The talks are tailored for those who are not legally trained by breaking down legal jargons so that they are easy 
-to understand. 
-Please click [here](https://www.youtube.com/watch?v=v0W0jI8xjx0) to find out more about LAW@CDC.
+For more information, visit the [CDC website.](https://www.cdc.gov.sg/)
 
 
-#### SkillsFuture Advice and SkillsFuture @ CDC
 
-[img]()
 
-On 25 September 2020, Minister Lawrence Wong witnessed the virtual SkillsFuture Advice (SFA) Memorandum of Understanding (MOU) between Community Development Councils (CDCs), SkillsFuture Singapore (SSG) and Employment and Employability Institute (e2i) to affirm their commitment to support Singaporeans in skills upgrading and career planning. 
 
-SFA is a community outreach initiative that was launched in 2017.  It helps residents to navigate through the SkillsFuture landscape and help them better understand their own strengths, and help them to be more aware of the types of skills needed in today’s employment, as well as the skypes of skills required for future of work.  
 
-Please click [here](https://www.youtube.com/watch?v=PJ0qu1agLv0) to find out more about SkillsFuture@CDC
 
-#### WeCare Arts Fund
 
-[img]()
 
-The WeCare Arts Fund is a grant scheme in partnership between the Community Development Councils (CDCs) and the National Arts Council (NAC).  The fund aims to support Social Service Agencies (SSAs) by engaging their beneficiaries through the arts.  The CDCs and the NAC renewed their partnership on 4 September 2017 by setting aside $1 million for the WeCare Arts Fund over the next two year for programmes that make arts inclusive and promote self-confidence among the led advantages and underserved communities. The fund supports project costs that involve artists working directly with SSAs and their beneficiaries through the Performing, Visual, Literary and Multi-Disciplinary arts.
 
-Please click [here](https://www.youtube.com/watch?v=Wt0rwbte5_Q&feature=youtu.be) to find out more about WeCare Arts Fund. 
 
-#### SME Centre @ CDC
 
-SME Centres and the five CDCs have collaborated to establish a wider network of SME Centres across Singapore to provide Heartland SMEs with greater convenience and access to business resources and advice.  These SME Centres provide local business with integrated services including business and productivity diagnosis, guidance on government assistance schemes and capability workshop.
 
-To view more photos, please visit [https://www.cdc.gov.sg/Gallery.](https://www.cdc.gov.sg/Gallery.)
+
+
+
+
+
+
