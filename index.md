@@ -75,4 +75,10 @@ sections:
       description: Year End Countdown Community Programmes Go Virtual For The First Time
       button: Find More
       url: /resource/news/year-end-countdown-community-programmes-go-virtual-for-the-first-time
+  - infopic:
+      title: Highlights
+      description: Year End Countdown Community Programmes Go Virtual For The First Time
+      button: Find More
+      url: /resource/news/year-end-countdown-community-programmes-go-virtual-for-the-first-time
+      alt: Image alt text
 ---
