@@ -70,4 +70,9 @@ sections:
       button: Click here
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
+  - infobar:
+      title: Highlights
+      description: Year End Countdown Community Programmes Go Virtual For The First Time
+      button: Find More
+      url: /resource/news/year-end-countdown-community-programmes-go-virtual-for-the-first-time
 ---
