@@ -26,9 +26,6 @@ sections:
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
-        - title: Report Scams
-          description: ""
-          url: ""
       button: Read more
       url: /engage/Join-Your-Community
   - resources:
