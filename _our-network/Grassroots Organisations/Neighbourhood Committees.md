@@ -25,4 +25,4 @@ Click [here](https://www.onepa.gov.sg/cc) to search for your nearest NC.
 
 The People's Association (PA) One Connect programme is a citizen-centric community programme for residents living in private estates, where they can reach out to their Neighbourhood Committees (NCs) to provide suggestions to improve their estates and to find out more information about the community acitivites taking place around their neighbourhood.
 
-For more information, please contact your nearest One Connect Team [here](//).
+For more information, please contact your nearest One Connect Team [here](/files/Our%20Network/Grassroots%20Organisations/ochotline.pdf)
