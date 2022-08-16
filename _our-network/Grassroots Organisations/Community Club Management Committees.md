@@ -51,4 +51,4 @@ The Indian Activity Executive Committees (IAECs) organise cultural, educational,
 
 The IAECs work closely with other grassroots organisations (GROs) to open up opportunities for Indians and other Singaporeans to interact and build mutual understanding.
 
-To know more about the Indian culture, join the IAEC activities at your nearest [CC](https://pa-corp-staging.netlify.app/our-network/community-clubs/locate-cc)
+To know more about the Indian culture, join the IAEC activities at your nearest [CC](https://www.onepa.gov.sg/cc)
