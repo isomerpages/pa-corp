@@ -42,7 +42,7 @@ ether community development projects; andConnecting with other Youth Clubs and t
 #### Malay Activity Executive Committees
 The Malay Activity Executive Committees (MAECs) promote greater Malay participation in the management and activities of various grassroots organisations (GROs). MAECs organise cultural, educational, social, recreational and sporting activities to promote mutual respect and harmonious relations between the Malays and other communities. Activities organised by our MAECs include Silat classes, dance workshops, and Hari Raya celebrations.
 
-Want to know more about the Malay culture? Join the MAEC activities at your nearest [CC](https://pa-corp-staging.netlify.app/our-network/community-clubs/locate-cc)
+Want to know more about the Malay culture? Join the MAEC activities at your nearest [CC](https://www.onepa.gov.sg/cc)
 
 
 #### Indian Activity Executive Committees
