@@ -19,7 +19,7 @@ NCs’ functions are to:
 
 Have a say in your estate. Join your NCs as a [Volunteer](engage/be-our-volunteer).
 
-Click [here](our-network/grassroots-organisations/locate-nc) to search for your nearest NC.
+Click [here](https://www.onepa.gov.sg/cc) to search for your nearest NC.
 
 #### One Connect
 
