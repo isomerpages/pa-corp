@@ -8,7 +8,7 @@ third_nav_title: Connect With Government
 
 To communicate government policies to the public in a simple and accessible way, PA introduced the Ask Kopi Kakis (AKK) initiative in all Community Centres/Clubs (CCs). Residents can learn more about key government policies and schemes that they can benefit from by visiting any of the Ask Kopi Kakis kiosks conveniently located at 108 CCs island wide.
 
-The Ask Kopi Kakis booklets, a set of three easy-to-read policy e-booklets, contain bite-sized details on a wide range of topics ranging from healthcare subsidies and housing grants, to transport and education schemes that are of interest to residents at various stages of their lives.  Click on the links below to download a digital copy of the Ask Kopi Kakis booklets. 
+The **Ask Kopi Kakis** booklets, a set of three easy-to-read policy e-booklets, contain bite-sized details on a wide range of topics ranging from healthcare subsidies and housing grants, to transport and education schemes that are of interest to residents at various stages of their lives.  Click on the links below to download a digital copy of the Ask Kopi Kakis booklets. 
 **English Version**<br>
 (Booklets updated as at 30 Dec 2021)
 
