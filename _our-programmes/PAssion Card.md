@@ -28,7 +28,7 @@ The Card merges the existing purple Senior Citizen Concession Card and PAssion C
 
  
 
-Starting July 2018, PAssion Card Members can do good in the community simply by tapping their PAssion Cards at PAssion CARES terminals at selected community events. With each tap of your PAssion Card, 7.5 TFM points will be contributed to community projects, while another 7.5 TFM points will be credited to your PAssion Card in appreciation of your support towards PAssion CARES. This initiative is fully supported by our long-term partners, Dairy Farm Singapore Group (DFSG) and POSB. The TFM points raised will go towards various community projects benefitting the underprivileged in the community.
+Starting July 2018, PAssion Card Members can do good in the community simply by tapping their PAssion Cards at PAssion CARES terminals at selected community events. With each tap of your PAssion Card, 7.5 TFM points will be contributed to community projects, while another 7.5 TFM points will be credited to your PAssion Card in appreciation of your support towards PAssion CARES. This initiative is fully supported by our long-term partners, Dairy Farm International Retail Group (DFI Retail Group) and POSB. The TFM points raised will go towards various community projects benefitting the underprivileged in the community.
 
 
 As a PAssion Card Member, there’s always something to look forward to.
