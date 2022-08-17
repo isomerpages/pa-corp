@@ -33,7 +33,7 @@ Starting July 2018, PAssion Card Members can do good in the community simply by 
 
 As a PAssion Card Member, there’s always something to look forward to.
 
-For more information on the PAssion Card, log on to [www.onepa.gov.sg/passion-card](www.onepa.gov.sg/passion-card).
+For more information on the PAssion Card, log on to [www.onepa.gov.sg/passion-card](https://www.onepa.gov.sg/passion-card).
 
 For more information on the PAssion POSB Debit Card, log on to [www.posb.com.sg/passion](http://www.posb.com.sg/passion).
 
