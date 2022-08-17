@@ -56,7 +56,6 @@ Mid-term undergraduates who have completed at least one semester of undergraduat
 
 Come create a great home and caring community with us.
 
-If you are interested to apply for the PA Scholarship, click [here](https://brightsparks.com.sg/profile/PA/scholarship.php?&schid=7489) and complete an online application form.
+If you are interested to apply for the PA Scholarship, click <a href="https://brightsparks.com.sg/profile/PA/scholarship.php?&schid=7489" target="_blank">here</a> and complete an online application form.
 
 Find out more about the PA Scholarship through the [FAQs on Scholarship](/files/Careers/FAQs%20on%20PA%20Scholarship(internet).pdf)
-
