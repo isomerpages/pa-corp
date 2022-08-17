@@ -14,7 +14,7 @@ The **Ask Kopi Kakis** booklets, a set of three easy-to-read policy e-booklets, 
 
 
 
-|![](/images/Engage/Getting%20ahead%20in%20my%20career.png)Policies relating to starting your career, life-long learning and support schemes for working adults.  | ![](/images/Engage/Caring%20My%20Family.png)Family	Career	Seniors Policies relating to setting up a home and family and initiatives to help with the cost of living. | ![](/images/Engage/Caring%20for%20Seniors.png)Policies relating to retirement schemes, healthcare and initiatives for active-ageing. |
+|![](/images/Engage/Getting%20ahead%20in%20my%20career.png)Policies relating to starting your career, life-long learning and support schemes for working adults.  | ![](/images/Engage/Caring%20My%20Family.png)Policies relating to setting up a home and family and initiatives to help with the cost of living. | ![](/images/Engage/Caring%20for%20Seniors.png)Policies relating to retirement schemes, healthcare and initiatives for active-ageing. |
 | -------- | -------- | -------- |
 | [Download](/files/Engage/pa-career-a4-eng-30pp-30122021-(final).pdf)     | [Download](/files/Engage/pa-family-a4-39pp-eng-30122021-(final).pdf)     |  [Download](/files/Engage/pa-senior-a4-36pp-eng-30122021-(final).pdf)    |
 
