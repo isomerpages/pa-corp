@@ -13,7 +13,7 @@ The PAssion Card is a membership card of the People's Association (PA).
 
 In November 2009, the PAssion ez-link Card was launched. Besides offering our members exclusive privileges for our exciting range of courses, activities and programmes, the PAssion Card also offers unique promotions via our tie-ups with our lifestyle merchants and partners.
 
-The TapForMore (TFM) Rewards Programme was launched in April 2010 and allows members to earn and redeem TFM points when they shop at Cold Storage, Giant and Guardian Health & Beauty stores. For more information on the TFM Rewards Programme, please log on to [https://tapformore.com.sg/](https://tapformore.com.sg/)
+The TapForMore (TFM) Rewards Programme was launched in April 2010 and allows members to earn and redeem TFM points when they shop at Cold Storage, Giant and Guardian Health & Beauty stores. For more information on the TFM Rewards Programme, please log on to [https://tapformore.com.sg/](https://tapformore.com.sg/.)
 
 PAssion Card Members also get to enjoy exclusive privileges on eCapitaVoucher and deals on the CapitaStar App. To enjoy this privilege, download the CapitaStar App and activate your CapitaStar
 privileges.
