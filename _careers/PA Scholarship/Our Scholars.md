@@ -72,4 +72,4 @@ Master of Science in Social Development Practice at University College London, U
 
 [Click here to read more](/files/Careers/writeup---angela-tan.pdf)<br>
 
-This article was adapted from the BrightSparks publication with the permission of CareerBuilder Singapore. The contents cannot be reproduced, modified or further circulated without the prior written consent of CareerBuilder Singapore. For more articles, visit [www.brightsparks.com.sg/magazine.](www.brightsparks.com.sg/magazine)
+This article was adapted from the BrightSparks publication with the permission of CareerBuilder Singapore. The contents cannot be reproduced, modified or further circulated without the prior written consent of CareerBuilder Singapore. For more articles, visit [www.brightsparks.com.sg/magazine](www.brightsparks.com.sg/magazine)
