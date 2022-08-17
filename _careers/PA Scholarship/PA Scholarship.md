@@ -60,4 +60,3 @@ If you are interested to apply for the PA Scholarship, click [here](https://brig
 
 Find out more about the PA Scholarship through the [FAQs on Scholarship](/files/Careers/FAQs%20on%20PA%20Scholarship(internet).pdf)
 
-[Back to top](#1)
