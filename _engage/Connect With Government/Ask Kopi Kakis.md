@@ -24,7 +24,7 @@ The **Ask Kopi Kakis** booklets, a set of three easy-to-read policy e-booklets, 
 (Booklets updated as at 30 Dec 2021)
 
 
-|![](/images/Engage/Pa-career-chinese.png) Policies relating to starting your career, life-long learning and support schemes for working adults | ![](/images/Engage/pa-family-chinese.png)Policies relating to setting up a home and family and initiatives to help with the cost of living. | ![](/images/Engage/pa-senior-chinese.png)Policies relating to retirement schemes, healthcare and initiatives for active-ageing. |
+|![](/images/Engage/Pa-career-chinese.png) Policies relating to starting your career, life-long learning and support schemes for working adults. | ![](/images/Engage/pa-family-chinese.png)Policies relating to setting up a home and family and initiatives to help with the cost of living. | ![](/images/Engage/pa-senior-chinese.png)Policies relating to retirement schemes, healthcare and initiatives for active-ageing. |
 | -------- | -------- | -------- |
 | [Download](/files/Engage/pa-career-chinese-final.pdf)    | [Download](/files/Engage/pa-family-chinese-final.pdf) | [Download](/files/Engage/pa-senior-chinese-final.pdf) |
 
