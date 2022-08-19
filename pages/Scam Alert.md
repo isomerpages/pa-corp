@@ -9,6 +9,6 @@ Beware of potential scam letters, calls, messages (e.g. over SMS, WhatsApp, or T
 
 #### NUMBER CHECKER
 
-Use this tool to check if the call you received from MOH is genuine. Stay vigilant and safe.
+Use this tool to check if the call you received from PA is genuine. Stay vigilant and safe.
 
 [Verify your PA Call](/Authenticity-Check)
