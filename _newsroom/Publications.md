@@ -18,9 +18,10 @@ The Ask Kopi Kakis booklets contain information on important government schemes 
 
 Visit your nearest CC to get a copy, or click [here](/engage/Connect-With-Government/Ask-Kopi-Kakis) to download your copy.
 
+<a id="Tech_Connect_Brochures"></a>
 #### Tech Connect Brochures 
 
-<a id="Tech_Connect_Brochures"></a>To help our seniors be Smart Nation ready, MCI and PA have launched the “Tech Connect” initiative in eight CCs to provide one-on-one tech assistance to our residents who need help with digital devices and services.  PA’s Tech Connect Kakis will also share with you mobile apps and websites that can make your daily living easier. Click on the links below to download a copy of the brochure.
+To help our seniors be Smart Nation ready, MCI and PA have launched the “Tech Connect” initiative in eight CCs to provide one-on-one tech assistance to our residents who need help with digital devices and services.  PA’s Tech Connect Kakis will also share with you mobile apps and websites that can make your daily living easier. Click on the links below to download a copy of the brochure.
 
 ![](/images/NewsRoom/Publications/Cover1.jpg)
 
