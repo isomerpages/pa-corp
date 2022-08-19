@@ -5,7 +5,7 @@ description: ""
 ---
 #### Publications
 * <a href="#Ask_Kopi_Kakis">Ask Kopi Kakis (AKK) Booklets</a>
-* Tech Connect Brochures
+* <a href="#Tech_Connect_Brochures">Tech Connect Brochures</a>
 * [Annual Reports](/about-us/Annual-Reports)
 * Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015
 * NC Quarterly E-Newsletter
@@ -18,7 +18,8 @@ description: ""
 Visit your nearest CC to get a copy, or click [here](/engage/Connect-With-Government/Ask-Kopi-Kakis) to download your copy.
 
 #### Tech Connect Brochures 
-To help our seniors be Smart Nation ready, MCI and PA have launched the “Tech Connect” initiative in eight CCs to provide one-on-one tech assistance to our residents who need help with digital devices and services.  PA’s Tech Connect Kakis will also share with you mobile apps and websites that can make your daily living easier. Click on the links below to download a copy of the brochure.
+
+<a id="Tech_Connect_Brochures"></a>To help our seniors be Smart Nation ready, MCI and PA have launched the “Tech Connect” initiative in eight CCs to provide one-on-one tech assistance to our residents who need help with digital devices and services.  PA’s Tech Connect Kakis will also share with you mobile apps and websites that can make your daily living easier. Click on the links below to download a copy of the brochure.
 
 ![](/images/NewsRoom/Publications/Cover1.jpg)
 
