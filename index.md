@@ -24,12 +24,6 @@ sections:
           url: https://www.onepa.gov.sg/
       button: Read more
       url: /engage/Join-Your-Community
-  - infobar:
-      title: SCAM ALERT
-      description: "Beware of potential scam letters, calls, messages, social media
-        pages, websites and mobile applications impersonating PA/staff. "
-      button: Click here for more details
-      url: /Scam-Alert
   - resources:
       title: Highlights
       button: Read More
