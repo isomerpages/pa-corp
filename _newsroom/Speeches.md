@@ -9,7 +9,7 @@ description: ""
 
 |  | | 
 | -------- | -------- | 
-| 06 Apr 2021     |  Written Response To Parliamentary Question By Minister Chan Chun Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021 [](/files/NewsRoom/written-response-to-parliamentary-question-by-minister-chan-chun-sing.pdf)  | 
+| 06 Apr 2021     |<a href="/files/NewsRoom/written-response-to-parliamentary-question-by-minister-chan-chun-sing.pdf"> Written Response To Parliamentary Question By Minister Chan Chun Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021</a> | 
 | 22 Mar 2021     | Speech by Mr Chan Chun Sing Minister for Trade and Industry and Deputy Chairman of the People’s Association at the North West CDC Volunteers’ Appreciation 2021 On Friday, 19 March 2021 at *SCAPE  [](/files/NewsRoom/speech-by-mr-chan-chun-sing-minister-for-trade-and-industr.pdf)  | 
 | 08 Mar 2021     | Speech by Mr Eric Chua, Parliamentary Secretary for Culture, Community and Youth & Social and Family Development at the Committee of Supply Debate 2021, 8 March 2021  [](/files/NewsRoom/speech-by-mr-eric-chua-parliamentary-secretary-for-culture-community-and-youth.pdf)   | 
 | 19 Aug 2015    | Speech by Mr Lim Swee Say, Deputy Chairman of the People's Association (PA) at the PA National Day Observance Ceremony 2015 on 19 August 2015 at PA Headquarters [](/files/NewsRoom/speech-by-minister-lim-swee-say-deputy-chairman-of-the-peoples-association.pdf)| 
