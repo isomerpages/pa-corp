@@ -68,14 +68,9 @@ sections:
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
   - infobar:
-      title: Highlights
-      description: Year End Countdown Community Programmes Go Virtual For The First Time
-      button: Find More
-      url: /resource/news/year-end-countdown-community-programmes-go-virtual-for-the-first-time
-  - infopic:
-      title: Highlights
-      description: Year End Countdown Community Programmes Go Virtual For The First Time
-      button: Find More
-      url: /resource/news/year-end-countdown-community-programmes-go-virtual-for-the-first-time
-      alt: Image alt text
+      title: SCAM ALERT
+      description: "Beware of potential scam letters, calls, messages, social media
+        pages, websites and mobile applications impersonating PA/staff. "
+      button: Click here to provide your details for our team to reach you.
+      url: https://form.gov.sg/#!/62e8e68d9b241b001207dbdf
 ---
