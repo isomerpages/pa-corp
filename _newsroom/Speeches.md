@@ -10,7 +10,7 @@ description: ""
 |  | | 
 | -------- | -------- |
 | 6 Aug 2022|<a href="/files/NewsRoom/remarks-by-deputy-prime-minister-heng-swee-keat-on-6-august-2022.pdf">Remarks by Deputy Prime Minister Heng Swee Keat at Siglap Community Club Grand Opening on 6 August 2022</a>|
-| 30 July 2022| <a href="">Speech by Prime Minister Lee Hsien Loong at Rivervale Community Club Opening Ceremony on 30 July 2022</a>|
+| 30 July 2022| <a href="/files/NewsRoom/speech-by-prime-minister30-july-2022-at-rivervale-community-club.pdf">Speech by Prime Minister Lee Hsien Loong at Rivervale Community Club Opening Ceremony on 30 July 2022</a>|
 | 23 July 2022| <a href="/files/NewsRoom/opening-address-by-mr-edwin-tong-23-july-2022.pdf">Opening Address by Mr. Edwin Tong, Deputy Chairman of the People's Association at INConversation: A Dialogue on Inclusivity in Multicultural Singapore, on 23 July 2022</a>|
 | 22 Mar 2021     | <a href="/files/NewsRoom/speech-by-mr-chan-chun-sing-minister-for-trade-and-industr.pdf">Speech by Mr Chan Chun Sing Minister for Trade and Industry and Deputy Chairman of the People’s Association at the North West CDC Volunteers’ Appreciation 2021 On Friday, 19 March 2021 at *SCAPE </a>  | 
 | 19 Aug 2015    | <a href="/files/NewsRoom/speech-by-minister-lim-swee-say-deputy-chairman-of-the-peoples-association.pdf">Speech by Mr Lim Swee Say, Deputy Chairman of the People's Association (PA) at the PA National Day Observance Ceremony 2015 on 19 August 2015 at PA Headquarters</a>| 
