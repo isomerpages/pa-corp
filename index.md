@@ -32,8 +32,8 @@ sections:
       title: SCAM ALERT
       description: "Beware of potential scam letters, calls, messages, social media
         pages, websites and mobile applications impersonating PA/staff. "
-      button: Click here to provide your details for our team to reach you.
-      url: https://form.gov.sg/#!/62e8e68d9b241b001207dbdf
+      button: Click here for more details
+      url: /Scam-Alert
   - resources:
       title: Highlights
       button: Read More
