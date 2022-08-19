@@ -9,7 +9,7 @@ People’s Association PAssion Wave (PW), formerly known as Water-Venture was fi
 
 PW has the passionate belief that an exciting and healthy lifestyle should be accessible to everyone in the community regardless of age, race or gender.
 
-PAWV offers sports equipment for rental. Valid certification is required for certain sports like windsurfing, stand up paddling, and sport climbing. For certification courses or programmes, you can contact any of our PAWV outlets for more information.
+PW offers sports equipment for rental. Valid certification is required for certain sports like windsurfing, stand up paddling, and sport climbing. For certification courses or programmes, you can contact any of our PW outlets for more information.
 
 Our rental hours are from 9am to 6pm on Wednesday to Sunday. All outlets are closed on Mondays and Public Holidays. With effect from 19 June 2020, all sports equipment rental offered at the six PAssion WaVe outlets have to be pre-booked by users online, subject to availability. 
 
