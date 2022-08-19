@@ -28,6 +28,12 @@ sections:
           url: https://www.onepa.gov.sg/
       button: Read more
       url: /engage/Join-Your-Community
+  - infobar:
+      title: SCAM ALERT
+      description: "Beware of potential scam letters, calls, messages, social media
+        pages, websites and mobile applications impersonating PA/staff. "
+      button: Click here to provide your details for our team to reach you.
+      url: https://form.gov.sg/#!/62e8e68d9b241b001207dbdf
   - resources:
       title: Highlights
       button: Read More
@@ -67,10 +73,4 @@ sections:
       button: Click here
       url: /Authenticity-Check
       description: Check authenticity of the call you received!
-  - infobar:
-      title: SCAM ALERT
-      description: "Beware of potential scam letters, calls, messages, social media
-        pages, websites and mobile applications impersonating PA/staff. "
-      button: Click here to provide your details for our team to reach you.
-      url: https://form.gov.sg/#!/62e8e68d9b241b001207dbdf
 ---
