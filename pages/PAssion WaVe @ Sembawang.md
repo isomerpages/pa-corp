@@ -3,11 +3,10 @@ title: PAssion WaVe @ Sembawang
 permalink: /our-programmes/PAssion-Wave/PAssionWaVe-Sembawang
 description: ""
 ---
-
-#### PAssion WaVe @ Sembawang
+#### PAssion Wave @ Sembawang
 
 ![](/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Sembawang.jpg)
-Occupying a stretch of a beach in the northern part of Singapore, PAssion WaVe @ Sembawang caters to resident in the North West region. Opened in 2008 and situated close to the Sembawang Park, the outlet is the perfect getaway from the concrete jungle. Enjoy kayaking and soak in the beauty of diverse flora and fauna along with numerous bird species that have made the area their home.
+Occupying a stretch of a beach in the northern part of Singapore, PAssion Wave @ Sembawang caters to resident in the North West region. Opened in 2008 and situated close to the Sembawang Park, the outlet is the perfect getaway from the concrete jungle. Enjoy kayaking and soak in the beauty of diverse flora and fauna along with numerous bird species that have made the area their home.
 
 Please visit our [Facebook Page](https://www.facebook.com/pa.passionwave) for more information.
 
