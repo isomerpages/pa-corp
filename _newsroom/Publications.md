@@ -7,8 +7,8 @@ description: ""
 * <a href="#Ask_Kopi_Kakis">Ask Kopi Kakis (AKK) Booklets</a>
 * <a href="#Tech_Connect_Brochures">Tech Connect Brochures</a>
 * [Annual Reports](/about-us/Annual-Reports)
-* <a href="Citizen_Con_Comm">Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015</a>
-* NC Quarterly E-Newsletter
+* <a href="#Citizen_Con_Comm">Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015</a>
+* <a href="#NC_Quart_News">NC Quarterly E-Newsletter</a>
  
 
 #### Ask Kopi Kakis (AKK) Booklets
@@ -31,7 +31,7 @@ Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1
 To read the book, click [here](https://en.calameo.com/read/0045413478a6be90340a5)
 
 #### NC Quarterly E-Newsletter 
-
+<a id="NC_Quart_News"></a>
 
 <img style="height:200px;width:400px"  align="left" src="/images/NewsRoom/Publications/Cover3.jpg"><br><br><br><br><br><br>
 The NC Engage is a quarterly e-newsletter for the private estate residents by the Neighbourhood Committee Coordinating Council. The newsletter will cover a range of topics including success stories and interesting activities organised by the Neighbourhood Committees, as well as upcoming courses or programmes which can be conducted within the condominium clubhouses or public parks. Read the latest e-Newsletter [here](//). (3.80MB, JPG)
