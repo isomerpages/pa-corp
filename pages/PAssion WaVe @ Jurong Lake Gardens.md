@@ -8,8 +8,6 @@ description: ""
 ![](/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Jurong%20Lake%20Gardens.jpg)
 PAssion WaVe @ Jurong Lake Gardens, the first waterfront facility in the West provides residents in the West easy access to a myriad of fun and unique waterfront sports and lifestyle programmes for everyone, ranging from families to youths and working professionals. These range from paddle-boating and kayaking to arts, food and beverage and health & wellness programmes.
 
-Rental and programmes at PAssion Wave @ Jurong Lake Gardens will be available from 1 June 2019 onwards.
-
 Please visit our [Facebook Page](https://www.facebook.com/pa.passionwave) for more information.
 
 **Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)**
