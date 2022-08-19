@@ -4,7 +4,7 @@ permalink: /newsroom/Publications
 description: ""
 ---
 #### Publications
-* Ask Kopi Kakis (AKK) Booklets
+* <a href="#Ask_Kopi_Kakis">Ask Kopi Kakis (AKK) Booklets</a>
 * Tech Connect Brochures
 * [Annual Reports](/about-us/Annual-Reports)
 * Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015
@@ -13,9 +13,9 @@ description: ""
 
 #### Ask Kopi Kakis (AKK) Booklets
 
-The Ask Kopi Kakis booklets contain information on important government schemes and initiatives that benefit Singaporeans at various stages of their lives. Key policies ranging from housing grants, healthcare subsidies, GST vouchers, childcare subsidies to transport concessions have been consolidated into these booklets, which are available at any of the Ask Kopi Kakis policy kiosks conveniently located at 109 Community Clubs/Centres island-wide.
+<a id="Ask_Kopi_Kakis">The Ask Kopi Kakis booklets contain information on important government schemes and initiatives that benefit Singaporeans at various stages of their lives. Key policies ranging from housing grants, healthcare subsidies, GST vouchers, childcare subsidies to transport concessions have been consolidated into these booklets, which are available at any of the Ask Kopi Kakis policy kiosks conveniently located at 109 Community Clubs/Centres island-wide.
 
-Visit your nearest CC to get a copy, or click [here](/engage/Connect-With-Government/Ask-Kopi-Kakis) to download your copy.
+Visit your nearest CC to get a copy, or click [here](/engage/Connect-With-Government/Ask-Kopi-Kakis) to download your copy.</a>
 
 #### Tech Connect Brochures 
 To help our seniors be Smart Nation ready, MCI and PA have launched the “Tech Connect” initiative in eight CCs to provide one-on-one tech assistance to our residents who need help with digital devices and services.  PA’s Tech Connect Kakis will also share with you mobile apps and websites that can make your daily living easier. Click on the links below to download a copy of the brochure.
