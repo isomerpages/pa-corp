@@ -11,9 +11,10 @@ description: ""
 * <a href="#NC_Quart_News">NC Quarterly E-Newsletter</a>
  
 
+<a id="Ask_Kopi_Kakis"></a>
 #### Ask Kopi Kakis (AKK) Booklets
 
-<a id="Ask_Kopi_Kakis"></a>The Ask Kopi Kakis booklets contain information on important government schemes and initiatives that benefit Singaporeans at various stages of their lives. Key policies ranging from housing grants, healthcare subsidies, GST vouchers, childcare subsidies to transport concessions have been consolidated into these booklets, which are available at any of the Ask Kopi Kakis policy kiosks conveniently located at 109 Community Clubs/Centres island-wide.
+The Ask Kopi Kakis booklets contain information on important government schemes and initiatives that benefit Singaporeans at various stages of their lives. Key policies ranging from housing grants, healthcare subsidies, GST vouchers, childcare subsidies to transport concessions have been consolidated into these booklets, which are available at any of the Ask Kopi Kakis policy kiosks conveniently located at 109 Community Clubs/Centres island-wide.
 
 Visit your nearest CC to get a copy, or click [here](/engage/Connect-With-Government/Ask-Kopi-Kakis) to download your copy.
 
