@@ -3,11 +3,10 @@ title: PAssion WaVe @ Pasir Ris
 permalink: /our-programmes/PAssion-Wave/PAssionWaVe-PasirRis
 description: ""
 ---
-
-### PAssion WaVe @ Pasir Ris
+### PAssion Wave @ Pasir Ris
 ![](/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Pasir%20Ris.jpg)
 
-PAssion WaVe @ Pasir Ris, located at the popular Pasir Ris Beach Park, was officially opened in 1987. The outlet offers dinghy sailing, kayaking and abseiling and sports climbing.
+PAssion Wave @ Pasir Ris, located at the popular Pasir Ris Beach Park, was officially opened in 1987. The outlet offers dinghy sailing, kayaking and abseiling and sports climbing.
 
 The relatively calm waters between Pasir Ris and Pulau Ubin are ideal for beginners to pick up kayaking, Laser and Laser Pico sailing. 
 
