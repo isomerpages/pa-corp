@@ -64,4 +64,4 @@ When a major Government policy is announced, PA, together with grassroots Adviso
 The Member can rest assured that PA’s budget we have set aside has been put to good use. The proof of the pudding is in the eating and there is no doubt that the PA has proven its worth in the past year. 
 
  
-[Click here to read the full speech.](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2021/mar/building-a-caring-cohesive-confident-society-through-charities-sports-sector)
+[Click here to read the full speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2021/mar/building-a-caring-cohesive-confident-society-through-charities-sports-sector)
