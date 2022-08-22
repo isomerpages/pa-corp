@@ -26,4 +26,4 @@ The MyPAssion Mobile App may be downloaded:
 
 [Here](https://apps.apple.com/us/app/mypassion/id1494070367) for IOS users 
 
-Here for Andriod users
+[Here](https://play.google.com/store/apps/details?id=mypassion.sg)for Andriod users
