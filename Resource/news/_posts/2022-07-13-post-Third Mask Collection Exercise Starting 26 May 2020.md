@@ -28,4 +28,4 @@ There will be two mask sizes available for collection – adult size and kid siz
  
 Safe distancing measures and temperature taking will be implemented at all CCs and RC Centres to ensure the safety and well-being of our residents, volunteers and staff. Residents are reminded to wear a mask when leaving their homes. 
 
-Visit  [MaskGoWhere](https://mask.gowhere.gov.sg/)for more information on collection locations or watch this informative video for details on using the self-service vending machines.
+Visit  [MaskGoWhere](https://mask.gowhere.gov.sg/)for more information on collection locations or watch this  [informative video](https://www.facebook.com/165507888765/videos/2628864290769787/)for details on using the self-service vending machines.
