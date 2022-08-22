@@ -14,4 +14,4 @@ Response to parliamentary questions on the claims of the CDC Vouchers, and the o
 
 **Description**: 
 
-The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website [here]([MCCY - Claim and spend rate of elderly for CDC Vouchers Scheme 2021](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2022/July/claim-and-spend-rate-of-elderly-for-cdc-vouchers-scheme-2021)).
+The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website [here](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2022/July/claim-and-spend-rate-of-elderly-for-cdc-vouchers-scheme-2021).
