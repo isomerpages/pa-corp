@@ -9,6 +9,8 @@ third_nav_title: Wisma Geylang Serai
 
 Wisma Geylang Serai (WGS) is envisioned to be the community civic and cultural centre in the heart of Geylang Serai precinct. It is a multi-agency development that celebrates the heritage of Geylang Serai communities, and encourages social interactions and community bonding among different communities of all ages and races.
 
+![](/images/Our%20Network/WGS/wgs-website-01309528700a1d6b0c895eff0000f6c7a3.png)
+
 It houses the Geylang Serai Community Club, the South East Community Development Council, the Geylang Serai Heritage Gallery Family Service and Child Care Centre, Senior Care Centre, and cultural arts group and social/community-related facilities. 
 
 
