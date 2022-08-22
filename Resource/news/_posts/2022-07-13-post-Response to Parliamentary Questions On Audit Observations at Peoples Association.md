@@ -14,4 +14,4 @@ People’s Association is committed to resolving and improving its governance an
 
 **Description**: 
 
-The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website here. 
+The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website [here](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2021/sep/people-association-governance-processes)
