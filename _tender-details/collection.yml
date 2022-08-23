@@ -1,6 +1,4 @@
 collections:
   tender-details:
     output: true
-    order:
-      - Tender for Bishan Trade Fair for the period 15 Oct to 30 Oct 2022 (16
-        days).md
+    order: []
