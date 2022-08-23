@@ -2,7 +2,5 @@ collections:
   tender-details:
     output: true
     order:
-      - Tender for Toa Payoh Central Trade Fair for the period 1 Aug to 16 Aug
-        2022 (16 days).md
       - Tender for Bishan Trade Fair for the period 15 Oct to 30 Oct 2022 (16
         days).md
