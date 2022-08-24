@@ -14,7 +14,7 @@ The ‘SHIOK 555 Campaign’ allows residents to take part in five selected cour
 
 From October to December 2021, the ‘SHIOK 555 Campaign’ will be available at Sembawang GRC, featuring the following courses:
 
-![](/images/Programmes/CC%20Courses/SHIOK%20555%20campaign%20May%20to%20July%202022.png)
+<img style="height:200px;width:200px" align="left" src="/images/Programmes/CC%20Courses/SHIOK%20555%20campaign%20May%20to%20July%202022.png"><br><br><br><br><br><br>
 Terms & Conditions apply:
 
 * For Singaporeans and PRs only.
