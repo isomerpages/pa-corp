@@ -15,4 +15,4 @@ community programmes to connect residents in a safe way and celebrate as one uni
 
 **Description**: 
 
-For more information, please click here. 
+For more information, please [click here](/files/NewsRoom/Usher-in-2022-with-Family-and-Neighbours-with-PA-s-Virtual-Programmes.pdf)
