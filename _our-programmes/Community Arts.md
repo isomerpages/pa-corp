@@ -18,7 +18,7 @@ The key PAssionArts programmes include:
 For more information, check out our [Facebook page](http://www.facebook.com/PAssionArtsSG).
 
 ### Community Arts and Culture Clubs
-![](/images/Our%20Programmes/commarts-cacc.jpg)
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Programmes/commarts-cacc.jpg"><br><br><br><br><br>
 
 The Community Arts & Culture Clubs (CACC) is a co-ordinating arts and culture club comprising like-minded volunteers with a passion in promoting community arts.  The CACC’s main objective is to leverage on arts and culture to reach out and engage residents of all ages, races and estates and bringing arts and culture accessible to the community.  The many interesting programmes offered will contribute in making each constituency and neighbourhood a vibrant arts and culture scene with its own unique art identity.
 
