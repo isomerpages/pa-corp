@@ -34,7 +34,7 @@ For more information and full event listings, visit us at **[PAssionArts Facebo
 
 
 ### PAssionArts Volunteer Corps
-![](/images/Our%20Programmes/commarts-volunteer.jpg)
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commarts-volunteer.jpg"><br><br><br><br><br><br>
 
 Want to make a difference through Arts and Culture? Join us as volunteers today!  
   
