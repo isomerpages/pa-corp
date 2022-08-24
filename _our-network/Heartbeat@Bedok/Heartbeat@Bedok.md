@@ -19,7 +19,7 @@ The Management Office partners co-located agencies namely, Sport Singapore, Peop
 
 <img style="height:400px;width:500px"  src="/images/Our%20Network/HeartBeat%20Bedok/HBB3.jpg">
 
-Our tenants include food and beverage outlets, childcare and enrichment centres, retail outlets, [ Kampong Chai Chee Community Club](//) Bedok Polyclinic, Bedok Public Library, NTUC DAY CENTRE FOR SENIORS , and ActiveSG Bedok Sport Centre. Facilities managed by the sport centre include:
+Our tenants include food and beverage outlets, childcare and enrichment centres, retail outlets, [ Kampong Chai Chee Community Club](/cc-details/KampongChaiChee-Community-Club-at-HeartbeatBedok) Bedok Polyclinic, Bedok Public Library, NTUC DAY CENTRE FOR SENIORS , and ActiveSG Bedok Sport Centre. Facilities managed by the sport centre include:
 
 • Swimming Pool
 
