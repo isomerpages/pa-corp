@@ -13,4 +13,4 @@ Written Response To Parliamentary Question By Minister Chan Chun Sing, Deputy Ch
 
 **Description**: 
 
-Click here to view the full response. 
+Click [here](/files/NewsRoom/Written-Response-To-Parliamentary-Question-By-Minister-Chan-Chun-Sing-Deputy-Chairman.pdf)  to view the full response.
