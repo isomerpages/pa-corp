@@ -14,4 +14,4 @@ From Monday, 1 November 2021, the People’s Association (PA) will pilot the res
 
 **Description**: 
 
-To view the full media release, please click here. 
+To view the full media release, please click [here](/files/NewsRoom/PA-to-Pilot-Resumption-of-Selected-Classes-and-Activities-for-Seniors-in-a-Safe-Environment.pdf)
