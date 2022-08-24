@@ -24,7 +24,7 @@ A strong emphasis on personal development and hands-on experiences greatly enhan
 <a id="Community_Leadership_Pgm"></a>
 ##### Community Leadership Programme
 
-<img style="height:200px;width:200px;align:left" src="/images/Programmes/Youth/CLP.jpg">
+<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/CLP.jpg">
 
 The Community Leadership Programme (CLP) is developed to expose students to grassroots work and a diverse range of volunteer activities.
 
@@ -34,7 +34,7 @@ Through CLP, the students will not only hone their leadership skills but also cu
 
 <a id="Interests_Group"></a>
 ##### Interests Groups
-<img style="height:200px;width:200px;align:left" src="/images/Programmes/Youth/IG.jpg">
+<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/IG.jpg">
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
 
