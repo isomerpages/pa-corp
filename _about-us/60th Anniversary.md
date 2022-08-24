@@ -33,4 +33,4 @@ We welcome and celebrate diversity. By co-creating a community, we create an env
 #### Innovation and Excellence
 
 We create new ascents and deliver on our promises to the highest standards
-<img style="height:400px;width:500px"  src="/images/About%20Us/60th%20Anniversary/Innovation%20and%20Excellence.jpg">
+<img style="height:200px;width:250px" align="left" src="/images/About%20Us/60th%20Anniversary/Innovation%20and%20Excellence.jpg">
