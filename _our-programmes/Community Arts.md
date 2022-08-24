@@ -53,7 +53,7 @@ The Community Art Gallery is a PAssionArts programme by PA Community Arts & Cult
 
 
 ### PAssionArts Hotspot
-![](/images/Our%20Programmes/commarts-hotspots.jpg)
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commarts-hotspots.jpg"><br><br><br><br><br><br>
 
 A PAssionArts programme where residents can showcase their talents right in the heart of their neighbourhood. This programme invite residents and community artistes to step out and showcase their talents in community spaces like hawker centres/food courts, town centres, parks and playgrounds with residents, for residents. It also provides a good opportunity for the community to appreciate and make friends through arts. Happening monthly, it provides spaces in our neighbourhood filled with exciting showcases for everyone to enjoy with their families, friends and neighbours.
 
