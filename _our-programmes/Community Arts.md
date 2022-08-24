@@ -48,7 +48,7 @@ Get in touch with your local Community Arts and Culture Club (CACC) at the Comm
 
 ### PAssionArts Community Art Gallery
 
-![](/images/Our%20Programmes/commarts-gallery.jpg)
+<img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commarts-gallery.jpg"><br><br><br><br><br><br>
 The Community Art Gallery is a PAssionArts programme by PA Community Arts & Culture Clubs. This programme invites residents and community artists to display and share their art works at community places so more residents could appreciate art at their doorstep. Community Art Galleries can be found right in our neighbourhoods - at HDB void decks, coffee shops and marketplaces - where it is accessible to everyone, everyday.
 
 
