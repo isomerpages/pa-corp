@@ -20,7 +20,7 @@ There will be 16 virtual engagement programmes lined up at the various constitue
  
 We hope that residents can join our virtual programmes online and come together as a community to reflect the past and look forward to the new year with hope, optimism and confidence.  
  
-Click here to view the full list of PA virtual engagements. 
+Click [here](/files/NewsRoom/Year-End-Countdown-Community-Programmes-Go-Virtual-For-The-First-Time.pdf) to view the full list of PA virtual engagements. 
  
 Fireworks may also be enjoyed at the following heartland sites: 
  
