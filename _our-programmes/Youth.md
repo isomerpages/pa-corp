@@ -34,7 +34,7 @@ Through CLP, the students will not only hone their leadership skills but also cu
 
 <a id="Interests_Group"></a>
 ##### Interests Groups
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/IG.jpg">
+<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/IG.jpg"><br><br><br><br><br>
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
 
