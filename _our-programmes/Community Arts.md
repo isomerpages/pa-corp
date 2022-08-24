@@ -11,9 +11,9 @@ The key PAssionArts programmes include:
 * <a href="#Community_Arts">Community Arts and Culture Clubs</a>
 * <a href="#Passion_Arts">PAssionArts Festival</a>
 * <a href="#PassionArts_volunteer">PAssionArts Volunteer Corps</a>
-*  <a href="#">PAssionArts Community Art Gallery</a>
-* <a href="#">PAssionArts Hotspot</a>
-* <a href="#">PAssionArts Inspiration Series</a>
+*  <a href="#Passion_Community">PAssionArts Community Art Gallery</a>
+* <a href="#Passion_Hotspot">PAssionArts Hotspot</a>
+* <a href="#Passion_Inspi">PAssionArts Inspiration Series</a>
 
 For more information, check out our [Facebook page](http://www.facebook.com/PAssionArtsSG).
 
