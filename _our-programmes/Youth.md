@@ -57,7 +57,7 @@ The PAYM engages both schooling and working youths and heightens their sense of 
 <br><br><br><br><br><br>
 <img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%202.jpg"><br><br>
 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%203.jpg"><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%203.jpg"><br><br><br><br><br><br><br><br><br><br>
 
 <a id="Paym_Loves_Red"></a>
 ##### PAYM Loves Red
