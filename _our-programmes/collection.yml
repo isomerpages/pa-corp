@@ -4,12 +4,6 @@ collections:
     order:
       - Programmes.md
       - Active Ageing.md
-      - Community Arts.md
-      - Community Dialogue.md
-      - Racial Harmony.md
-      - Family Life.md
-      - Community Sports.md
-      - Community Integration.md
       - CC Courses/.keep
       - CC Courses/Be a Training Provider.md
       - CC Courses/School Holidays Series.md
@@ -20,11 +14,17 @@ collections:
       - CC Courses/PWRX.md
       - CC Courses/Resources for PA Trainers & Operators.md
       - CC Courses/Courses.md
-      - Women's Programmes.md
+      - Community Arts.md
+      - Community Dialogue.md
+      - Community Integration.md
+      - Community Sports.md
+      - Emergency Preparedness.md
+      - Family Life.md
+      - imPAct@Hong Lim Green.md
+      - PAssion Card.md
       - PAssion Wave/.keep
       - PAssion Wave/Details.md
       - PAssion Wave/Locate PAWV.md
-      - Emergency Preparedness.md
-      - PAssion Card.md
+      - Racial Harmony.md
+      - Women's Programmes.md
       - Youth.md
-      - imPAct@Hong Lim Green.md
