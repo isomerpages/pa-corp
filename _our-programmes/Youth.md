@@ -5,7 +5,7 @@ description: ""
 ---
 PA recognises the importance of getting a good start in life, and we have the tools and channels to help you express yourself in your community. We know you have something to say, ideas to contribute and activities you want to participate in. So whether you are looking to quench your thirst for adventure, develop your potential in sports, or fulfil your quest for knowledge, PA has a wide-range of youth programmes and activities for you.
 
-* PAYM Service-Learning Champions
+* <a href="#Paym_Ser_LC">PAYM Service-Learning Champions</a>
 * Community Leadership Programme
 * Interest Groups
 * Community Service Programmes
