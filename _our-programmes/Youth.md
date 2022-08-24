@@ -53,10 +53,10 @@ To build a civic-conscious youth community the PAYM also provides platforms for 
 
 The PAYM engages both schooling and working youths and heightens their sense of belonging in the community by consulting their views on current issues and national policies through a series of different forums and dialogues lined up every year.
 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%201.jpg">
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%202.jpg"><br><br>
+<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%201.jpg"><br><br><br><br><br><br><br>
+<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%202.jpg"><br><br><br><br><br><br>
 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%203.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%203.jpg"><br><br><br><br><br>
 
 <a id="Paym_Loves_Red"></a>
 ##### PAYM Loves Red
