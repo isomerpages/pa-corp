@@ -20,4 +20,4 @@ Calling all Singaporeans! Share your views in the lead up to Budget 2022, which 
 
  
 
-Click here to view details of virtual Ask Kopi Kakis #ShareYourViews engagement platforms.
+Click [here](/files/NewsRoom/Share-Your-Views-Ahead-of-Budget-2022.pdf) to view details of virtual Ask Kopi Kakis #ShareYourViews engagement platforms.
