@@ -13,16 +13,14 @@ PA recognises the importance of getting a good start in life, and we have the to
 * PAYM Loves Red
 * Community YOUthCare Festival
 
-
+<a id="Paym_Ser_LC"></a>
 ##### PAYM Service-Learning Champion
-
-
 <img style="height:500px;width:500px" src="/images/Programmes/Youth/SLC.jpg">
 The PAYM reaches out to youths in secondary schools via the Service-Learning Champion (SLC) Scheme, which aims to promote holistic development in youths by enabling them to achieve personal, character and academic development, and acquire values, life skills, a sense of civil responsibility and commitment through being involved in community service.
 
 A strong emphasis on personal development and hands-on experiences greatly enhance the learning experience of students. SLCs are encouraged to organise a wide variety of service activities to meet the needs of their community, and to tap on their own talents and initiatives in the process.
 
-
+<a id="Community_Leadership_Pgm"></a>
 ##### Community Leadership Programme
 
 <img style="height:500px;width:500px" src="/images/Programmes/Youth/CLP.jpg">
