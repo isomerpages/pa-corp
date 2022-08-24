@@ -17,11 +17,13 @@ The key PAssionArts programmes include:
 
 For more information, check out our [Facebook page](http://www.facebook.com/PAssionArtsSG).
 
+<a id="Community_Arts"></a>
 ### Community Arts and Culture Clubs
 <img style="height:200px;width:250px"  align="left" src="/images/Our%20Programmes/commarts-cacc.jpg"><br><br><br><br><br>
 
 The Community Arts & Culture Clubs (CACC) is a co-ordinating arts and culture club comprising like-minded volunteers with a passion in promoting community arts.  The CACC’s main objective is to leverage on arts and culture to reach out and engage residents of all ages, races and estates and bringing arts and culture accessible to the community.  The many interesting programmes offered will contribute in making each constituency and neighbourhood a vibrant arts and culture scene with its own unique art identity.
 
+<a id="Passion_Arts"></a>
 ### PAssionArts Festival
 
 <img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commmart-paf.jpeg"><br><br><br><br><br>
@@ -32,7 +34,7 @@ As part of the festival highlight, the National-Level Art Initiative provides op
 
 For more information and full event listings, visit us at **[PAssionArts Facebook page](https://www.facebook.com/PAssionArtsSG)** today!
 
-
+<a id="PassionArts_volunteer"></a>
 ### PAssionArts Volunteer Corps
 <img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commarts-volunteer.jpg"><br><br><br><br><br><br>
 
@@ -46,19 +48,20 @@ Want to make a difference through Arts and Culture? Join us as volunteers today
 
 Get in touch with your local Community Arts and Culture Club (CACC) at the Community Club closest to you or email us at [PA\_ACD@pa.gov.sg](mailto:PA_ACD@pa.gov.sg).
 
+<a id="Passion_Community"></a>
 ### PAssionArts Community Art Gallery
 
 <img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commarts-gallery.jpg"><br><br><br><br><br><br>
 The Community Art Gallery is a PAssionArts programme by PA Community Arts & Culture Clubs. This programme invites residents and community artists to display and share their art works at community places so more residents could appreciate art at their doorstep. Community Art Galleries can be found right in our neighbourhoods - at HDB void decks, coffee shops and marketplaces - where it is accessible to everyone, everyday.
 
-
+<a id="Passion_Hotspot"></a>
 ### PAssionArts Hotspot
 <img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commarts-hotspots.jpg"><br><br><br><br><br><br>
 
 A PAssionArts programme where residents can showcase their talents right in the heart of their neighbourhood. This programme invite residents and community artistes to step out and showcase their talents in community spaces like hawker centres/food courts, town centres, parks and playgrounds with residents, for residents. It also provides a good opportunity for the community to appreciate and make friends through arts. Happening monthly, it provides spaces in our neighbourhood filled with exciting showcases for everyone to enjoy with their families, friends and neighbours.
 
 
-
+<a id="Passion_Inspi"></a>
 ### PAssionArts Inspiration Series
 
 <img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commart-inspiration.jpg"><br><br><br><br><br>
