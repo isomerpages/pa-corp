@@ -8,10 +8,10 @@ PA recognises the importance of getting a good start in life, and we have the to
 * <a href="#Paym_Ser_LC">PAYM Service-Learning Champions</a>
 * <a href="#Community_Leadership_Pgm">Community Leadership Programme</a>
 *<a href="#Interests_Group">Interest Groups</a>
-* <a href="Community_Service_Programmes">Community Service Programmes</a>
-* Forum and Dialogue Series
-* PAYM Loves Red
-* Community YOUthCare Festival
+* <a href="#Community_Service_Programmes">Community Service Programmes</a>
+* <a href="#Forum_Dialogue_Series"> Forum and Dialogue Series</a>
+* <a href="#Paym_Loves_Red">PAYM Loves Red</a>
+* <a href="#Community_Youthcare_festival">Community YOUthCare Festival</a>
 
 <a id="Paym_Ser_LC"></a>
 ##### PAYM Service-Learning Champion
