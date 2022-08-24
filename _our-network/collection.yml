@@ -2,20 +2,23 @@ collections:
   our-network:
     output: true
     order:
-      - OnePunggol/.keep
       - Our Network.md
       - Community Clubs/.keep
       - Community Clubs/CC Information.md
       - Community Clubs/Legal Advice Service.md
       - Community Clubs/Rentals.md
       - Community Clubs/Locate CC.md
+      - Partners/.keep
+      - Partners/PA Partners.md
+      - Partners/WeCare PALs.md
+      - Partners/Project We Care.md
       - Community Development Councils/.keep
       - Community Development Councils/Community Development Councils.md
       - Community Development Councils/Office of the Mayors.md
       - Community Development Councils/Common Flagship Programmes.md
       - Member Organisations.md
-      - Grassroots Organisations/Locate NC.md
       - Grassroots Organisations/.keep
+      - Grassroots Organisations/Locate NC.md
       - Grassroots Organisations/Grassroots Organisations.md
       - Grassroots Organisations/Active Ageing Council.md
       - Grassroots Organisations/Community Club Management Committees.md
@@ -37,20 +40,17 @@ collections:
       - NACLI/Training Programmes.md
       - NACLI/Campus Facilities.md
       - NACLI/Locate Us.md
-      - Partners/PA Partners.md
-      - Partners/.keep
-      - Partners/WeCare PALs.md
-      - Partners/Project We Care.md
-      - Wisma Geylang Serai/.keep
-      - Wisma Geylang Serai/Wisma Geylang Serai.md
-      - Wisma Geylang Serai/Contact Us.md
-      - Wisma Geylang Serai/Facilities.md
+      - Heartbeat@Bedok/.keep
+      - Heartbeat@Bedok/Heartbeat@Bedok.md
+      - Heartbeat@Bedok/Contact Us.md
+      - OnePunggol/.keep
       - Our Tampines Hub/.keep
       - Our Tampines Hub/Our Tampines Hub.md
       - Our Tampines Hub/Hub Info.md
       - Our Tampines Hub/What's Happening.md
       - Our Tampines Hub/Contact Us.md
       - Our Tampines Hub/Festive Mall Directory.md
-      - Heartbeat@Bedok/Heartbeat@Bedok.md
-      - Heartbeat@Bedok/.keep
-      - Heartbeat@Bedok/Contact Us.md
+      - Wisma Geylang Serai/.keep
+      - Wisma Geylang Serai/Wisma Geylang Serai.md
+      - Wisma Geylang Serai/Contact Us.md
+      - Wisma Geylang Serai/Facilities.md
