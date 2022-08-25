@@ -3,7 +3,7 @@ title: Sample Images
 permalink: /Sample-Images
 description: ""
 ---
-<img style="height:100px;width:150px"  align="left" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg">
+<img style="height:100px;width:100px"  align="left" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg">
 <br><br><br><br><br>
 
 
