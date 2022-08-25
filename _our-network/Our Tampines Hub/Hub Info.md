@@ -4,8 +4,6 @@ permalink: /our-network/Our-Tampines-Hub/Hub-Info
 description: ""
 third_nav_title: Our Tampines Hub
 ---
-#### Hub Info
-
 #### About Our Tampines Hub
 
 Our Tampines Hub (OTH) is Singapore’s first and largest integrated community and lifestyle hub, catering to the needs of over 225,000 Tampines residents and the eastern region of Singapore.
