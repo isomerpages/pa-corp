@@ -4,8 +4,6 @@ permalink: /our-network/Grassroots-Organisations/Residents-Network-Council
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-#### Residents' Network Council
-
 With the merger of Residents’ Committee (RC) Council and Neighbourhood Committee (NC) Council, the Residents’ Network (RN) Council was formed on 1 April 2019. Its roles are to enhance the capabilities of RCs, NCs, and RNs in engaging residents, promoting neighbourliness, and bridging residents and the Government. Comprising volunteers from public and private estates, the Council also aims to facilitate collaborations among frontline grassroots organisations (GROs) to achieve better social mixing outcomes among residents. 
 
 The functions of the RN Council are to: 
