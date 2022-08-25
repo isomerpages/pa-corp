@@ -4,8 +4,6 @@ permalink: /our-network/Grassroots-Organisations/Malay-Activity-Executive-Commit
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-##### Malay Activity Executive Committees Council
-
 
 The People’s Association Malay Activity Executive Committees Council (MESRA) is the coordinating body for Malay Activity Executive Committees (MAECs) that are set up at Community Clubs.
 
