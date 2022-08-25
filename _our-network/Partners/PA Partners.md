@@ -22,7 +22,7 @@ Our partners can **join efforts with other PA partners towards a common cause/i
 
 #### Community Insights
 
-Having a diverse networks in the community, PA can share on the community needs to better enhance the outreach programmes and partnership initiatives.
+Having a diverse networks in the community, PA can **share on the community needs** to better enhance the outreach programmes and partnership initiatives.
 
 <img style="height:200px;width:200px" align="left" src="/images/Our%20Network/Partners/icon3.png"><br><br><br><br><br>
 
