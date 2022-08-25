@@ -4,8 +4,6 @@ permalink: /careers/PA-Scholarship/PA-Scholarship
 description: ""
 third_nav_title: PA Scholarship
 ---
-### PA Scholarship
-
 
 If you are looking for a meaningful career where you can find an area that you are passionate about, be it youth, active ageing, sports, arts and culture, social development or community leadership, the PA Scholarship is for you.
 
