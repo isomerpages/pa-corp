@@ -3,8 +3,6 @@ title: PA Student Internship
 permalink: /careers/PA-Student-Internship
 description: ""
 ---
-#### PA Student Internship
-
 
 #### PA Structured Student Internship Programme
 
