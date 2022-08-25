@@ -3,9 +3,6 @@ title: PAssion Card
 permalink: /our-programmes/Passion-Card
 description: ""
 ---
-#### PAssion Card
-
-
 The PAssion Card is a membership card of the People's Association (PA).
 
 
