@@ -3,7 +3,6 @@ title: Publications
 permalink: /newsroom/Publications
 description: ""
 ---
-#### Publications
 * <a href="#Ask_Kopi_Kakis">Ask Kopi Kakis (AKK) Booklets</a>
 * <a href="#Tech_Connect_Brochures">Tech Connect Brochures</a>
 * [Annual Reports](/about-us/Annual-Reports)
