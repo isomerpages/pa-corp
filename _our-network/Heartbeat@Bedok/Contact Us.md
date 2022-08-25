@@ -4,8 +4,6 @@ permalink: /our-network/Heartbeat-Bedok/Contact-Us
 description: ""
 third_nav_title: Heartbeat@Bedok
 ---
-### Contact Us
-
 
 **Heartbeat@Bedok:**<br>
 11 Bedok North Street 1, Singapore 469662
