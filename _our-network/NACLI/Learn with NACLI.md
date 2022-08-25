@@ -12,7 +12,7 @@ Come onboard NACLI’s learning journey today!  Download the latest copy of our 
 
 ##### Current Issue (Jul - Sep 2022)
 
-[![NACLI Courses (Jul-Sep 2022)](/images/Our%20Network/NACLI/Jul-Sep-2022.png)](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue4-jul-sep-2022.pdf)
+[![NACLI Courses (Jul-Sep 2022)][<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/NACLI/Jul-Sep-2022.png">](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue4-jul-sep-2022.pdf)<br><br><br><br><br><br>
 
 
 ##### Past Issues
