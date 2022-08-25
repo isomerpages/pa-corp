@@ -4,9 +4,6 @@ permalink: /our-network/Grassroots-Organisations/Neighbourhood-Committees
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-#### Neighbourhood Committees
-
-
 Neighbourhood Committees (NCs) were formed in June 1998 to encourage active citizenry and foster stronger community bonds within private housing estates. NCs also work with various government agencies to improve the social and physical environment in their private housing estates.
 
 
