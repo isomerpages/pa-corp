@@ -43,8 +43,8 @@ As a resident-centric development, the 5 “E”s of a participatory design proc
 
 ||  |  
 | -------- | --------|
-| <img style="height:200px;width:350px" src="/images/Our%20Network/OTH/Eco-Warriors%20(1).jpg">  |<img style="height:200px;width:350px" src="/images/Our%20Network/OTH/Wellness%20Centre.jpg"> |
-| <img style="height:200px;width:350px" src="/images/Our%20Network/OTH/Mass%20Yoga.jpg"> | <img style="height:200px;width:350px" src="/images/Our%20Network/OTH/OTH%20Eco%20Digester%20.jpg">|
+| <img style="height:200px;width:250px" src="/images/Our%20Network/OTH/Eco-Warriors%20(1).jpg">  |<img style="height:200px;width:250px" src="/images/Our%20Network/OTH/Wellness%20Centre.jpg"> |
+| <img style="height:200px;width:250px" src="/images/Our%20Network/OTH/Mass%20Yoga.jpg"> | <img style="height:200px;width:250px" src="/images/Our%20Network/OTH/OTH%20Eco%20Digester%20.jpg">|
 
 
 
@@ -56,7 +56,7 @@ OTH champions Eco-sustainability and no effort is spared in optimising resources
 
 Having achieved BCA’s Green Market (Platinum) certification, OTH boasts a closed loop system of environment solutions and features i.e. solar panels, water catchment, storage and filtration equipment, irrigation features, green walls, natural ventilation, Electric Car Park and charging stations, Ethylene Tetra Fluoro Ethylene roofs and a comprehensive food waste management system supported by an Eco-Digester Centre that converts food waste into 3 by-products, namely non-potable water, liquid plant nutrients and organic fertiliser that is used by the Hub and shared with the community.
 
-<img style="height:300px;width:600px" src="/images/Our%20Network/OTH/Closed%20loop%20system%20of%20enviornmental%20solutions%20and%20features.jpg">
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/OTH/Closed%20loop%20system%20of%20enviornmental%20solutions%20and%20features.jpg"><br><br><br><br><br>
 																					 
 ### Smart Nation Technology and Initiatives
 
@@ -64,7 +64,7 @@ OTH is proud to support Smart Nation initiatives in an effort to serve communiti
 
 Taking advantage of innovation and productivity, hub visitors can now enjoy greater convenience and better accessibility.
 
-![](/images/Our%20Network/OTH/Images%202022.png)
+<img style="height:100px;width:250px"  align="left" src="/images/Our%20Network/OTH/Images%202022.png"><br><br>
 
 ### Tampines Kindness Movement
 
