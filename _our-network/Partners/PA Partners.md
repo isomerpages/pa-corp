@@ -27,7 +27,7 @@ Having a diverse networks in the community, PA can **share on the community need
 <img style="height:200px;width:200px" align="left" src="/images/Our%20Network/Partners/icon3.png"><br><br><br><br><br>
 
 #### Sharing of Ideas and Best Practices
-Platforms such as dialogue sessions and networking opportunities are available for partners to share creative ideas and best practices. This mutual learning opportunity will improve existing collaborative programmes and inspire new partnership possibilities.
+Platforms such as **dialogue sessions and networking opportunities are available** for partners to share creative ideas and best practices. This mutual learning opportunity will improve existing collaborative programmes and inspire new partnership possibilities.
 
 <img style="height:200px;width:200px" align="left" src="/images/Our%20Network/Partners/icon4.jpg"><br><br><br><br><br>
 
