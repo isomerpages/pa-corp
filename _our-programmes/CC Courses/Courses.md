@@ -26,7 +26,8 @@ Expand and broaden your child’s and your interest with our wide array of ‘Ed
 Look good and feel good with our health and wellness tips. Discover how you can spruce up your look with some grooming, make-up and skincare advice, and learn how to take better care of your health and body. With our ‘Health & Wellness’ courses, it is time for you to start feeling and looking your very best.
 
 
-![](/images/Programmes/CC%20Courses/PABanner-LifelongLearning.jpg)
+
+<img style="height:200px;width:250px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-LifelongLearning.jpg"><br><br><br><br><br><br>
 Improve your skills and develop yourself through the wide array of ‘Lifelong Learning' courses offered at our CCs. Learn about technical know-how, fine tune essential job skills, or pick up a new language! With the range of ‘Lifelong Learning' courses, you will be fully equipped for success.
 
 ![](/images/Programmes/CC%20Courses/PABanner-Lifestyle%20Leisure.jpg)
