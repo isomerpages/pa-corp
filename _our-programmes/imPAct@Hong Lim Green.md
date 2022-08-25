@@ -14,7 +14,8 @@ What used to be the Telok Ayer Hong Lim Green Community Centre (CC) is now the h
 imPAct@Hong Lim Green offers an array of flexible membership schemes for public to enjoy attractive rates for quality programmes. The Sports and Fitness programmes are curated and powered by Innervate Fitness, a social enterprise. Members of the public can sign up for the memberships via [onePA](https://www.onepa.gov.sg/interest-groups/search?interestgroup=&outlet=imPAct@Hong%20Lim%20Green?).
 
 **Membership Rates**
-![](/images/Our%20Programmes/Membership%20rates%20updated.jpg)
+
+<img style="height:200px;width:350px"  align="left" src="/images/Our%20Programmes/Membership%20rates%20updated.jpg"><br><br><br><br><br><br>
 *PAssion Card members enjoy exclusive discounts.M: PAssion Card Member. NM: Non-Member
 
 ^Resumption of Day Pass will be piloted in phases from March 2022 onwards, subject to SMM guidelines. imPAct@Hong Lim Green reserves the right to suspend the Day Pass at any time.
