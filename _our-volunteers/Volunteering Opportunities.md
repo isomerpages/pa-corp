@@ -3,7 +3,6 @@ title: Volunteering Opportunities
 permalink: /our-volunteers/Volunteering-Opportunities
 description: ""
 ---
-
 Whether you are 15 or 50, you can play a part in giving back to the community.
 
 #### Volunteering with the Grassroots Organisations
