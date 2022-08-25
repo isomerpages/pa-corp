@@ -3,7 +3,6 @@ title: Careers
 permalink: /careers/Careers
 description: ""
 ---
-### Careers
 
 #### Grow With Us
 
