@@ -5,8 +5,6 @@ description: NACLI is the community leadership development arm of the People's A
 third_nav_title: NACLI
 image: /images/Our Network/NACLI/nacli_logo (red_brown).png
 ---
-### National Community Leadership Institute
-
 <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/NACLI/nacli%20logo%20tagline%20(website)%20(200%20x%20250).png">
 <br clear="left">
 Leadership development is crucial to the continued excellence and growth of community organisations. As the community leadership development arm of the People’s Association (PA), National Community Leadership Institute (NACLI) has been developing community leaders since its establishment in 1964. It prides itself as THE Institute of Learning Excellence for Community Leadership Development.  NACLI offers a wide range of leadership development programmes to equip grassroots leaders and PA professional staff with practical and applied skills and competencies to carry out their work in the community effectively.
