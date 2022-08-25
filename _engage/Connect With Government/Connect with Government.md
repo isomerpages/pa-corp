@@ -4,8 +4,6 @@ permalink: /engage/Connect-With-Government/Connect-with-Government
 description: ""
 third_nav_title: Connect With Government
 ---
-#### Connect with Government
-
 
 As familiar faces in the community, many residents turn to PA staff and our grassroots leaders and volunteers to share their feedback and find out more information about government schemes. 
 
