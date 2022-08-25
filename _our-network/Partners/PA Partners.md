@@ -31,9 +31,9 @@ Platforms such as **dialogue sessions and networking opportunities are available
 
 <img style="height:200px;width:200px" align="left" src="/images/Our%20Network/Partners/icon4.jpg"><br><br><br><br><br>
 
-#### Recognition for partners
+#### Recognition for Partners
 
-We give recognition to strategic partners who had worked closely with PA. The PA Community Spirit Award Scheme is given to recognise exemplary partners who have assisted in building social capital and contributed to the community.
+We give recognition to strategic partners who had worked closely with PA. The **PA Community Spirit Award Scheme** is given to recognise exemplary partners who have assisted in building social capital and contributed to the community.
 
 #### Be a Friend of PA, Be Our WeCare PALs
 
