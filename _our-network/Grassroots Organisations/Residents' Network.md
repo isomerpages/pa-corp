@@ -4,8 +4,6 @@ permalink: /our-network/Grassroots-Organisations/Residents-Network
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-#### Residents' Network
-
 
 Residents’ Networks (RNs) were set up in 2018 to promote greater social mixing between residents across all ages, races and all estates.
 
@@ -19,8 +17,3 @@ The functions of the RNs are to:
 * To liaise with and make recommendations to governmental authorities on the needs and aspirations of residents of the Designated Zone;
 * To disseminate information and channel feedback on government policies and actions from residents of the Designated Zone; and
 * To promote good citizenship among residents of the Designated Zone.
-
-
-
-
-
