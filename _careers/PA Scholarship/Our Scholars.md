@@ -4,7 +4,6 @@ permalink: /careers/PA-Scholarship/Our-Scholars
 description: ""
 third_nav_title: PA Scholarship
 ---
-### Our Scholars
 
 #### Jazreel Tay Hui Ying<br>
 
