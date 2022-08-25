@@ -22,8 +22,8 @@ Find out more about our Grassroots Organisations [here](/our-network/Grassroots-
 
 * Reach out and assisting the Needy
 * Bond the People<br>
-              Promote family bonding and values<br>
-              Promote multi-racial understanding<br>
+        1.   Promote family bonding and values<br>
+        2.   Promote multi-racial understanding
 * Connect the Community
                   Organise activities to promote community interaction
                  Improve community safety and security
