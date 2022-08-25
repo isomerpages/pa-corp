@@ -4,8 +4,6 @@ permalink: /our-network/Grassroots-Organisations/Peoples-Association-Youth-Movem
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-#### People's Association Youth Movement
-
 As a leading youth organisation, the People’s Association Youth Movement (PAYM) has been reaching out to youths in Singapore from the ages of 12 to 35 since 1971. Over 40 years, the PAYM has been offering a wide spectrum of interesting and meaningful programmes and initiatives to excite, engage and and empower the youths in creating a vibrant youth community.
 
 
