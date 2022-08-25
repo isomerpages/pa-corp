@@ -5,7 +5,7 @@ description: ""
 ---
 ### Women's Programmes
 
-<img style="height:200px;width:200px" align="left" src="/images/Our%20Programmes/Women's%20Programmes%20New%20Banner%20Photo.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Our%20Programmes/Women's%20Programmes%20New%20Banner%20Photo.jpg"><br><br><br><br><br>
 
 The PA, through its network of Women’s Executive Committees, encourages women to lead active lives and contribute to the community.
 
