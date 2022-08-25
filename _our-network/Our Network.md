@@ -3,7 +3,6 @@ title: Our Network
 permalink: /our-network/Our-Network
 description: ""
 ---
-##### Our Network
 
 <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/our-network_compressed.jpg"><br><br><br><br><br>
 
