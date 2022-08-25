@@ -8,11 +8,14 @@ description: ""
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
-<img style="height:500px;width:450px"  align="left" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg"><br><br><br><br>
+<img style="height:300px;width:450px"  align="left" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg"><br><br><br><br><br><br><br><br><br>
 
 
 
 ![](/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg)
-
