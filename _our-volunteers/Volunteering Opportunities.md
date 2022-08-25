@@ -24,10 +24,10 @@ Find out more about our Grassroots Organisations [here](/our-network/Grassroots-
 * Bond the People<br>
         1.   Promote family bonding and values<br>
         2.   Promote multi-racial understanding
-* Connect the Community
-                  Organise activities to promote community interaction
-                 Improve community safety and security
-                Help explain government initiatives
+* Connect the Community<br>
+                  1.  Organise activities to promote community interaction.<br>
+                 2.  Improve community safety and security<br>
+                3.  Help explain government initiatives<br>
 								
 								
 Find out more about our Community Development Councils [here](/our-network/Community-Development-Councils/Community-Development-Councils).
