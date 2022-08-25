@@ -25,7 +25,7 @@ Find out more about our Grassroots Organisations [here](/our-network/Grassroots-
         1.  &nbsp;  Promote family bonding and values<br>
         2.  &nbsp;  Promote multi-racial understanding
 * Connect the Community<br>
-                  1.  &nbsp; Organise activities to promote community interaction.<br>
+                  1.  &nbsp; Organise activities to     promote community interaction.<br>
                  2.  &nbsp; Improve community safety and security<br>
                 3.  &nbsp; Help explain government initiatives<br>
 								
