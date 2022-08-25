@@ -4,15 +4,16 @@ permalink: /our-network/National-Community-Leadership-Institute/Learn-With-NACLI
 description: ""
 third_nav_title: NACLI
 ---
-
 Come onboard NACLI’s learning journey today!  Download the latest copy of our Training Schedule here!  Click on the image below to download a copy to your devices.
 
 #### Training Schedule 
 
 ##### Current Issue (Jul - Sep 2022)
 
-[![NACLI Courses (Jul-Sep 2022)][<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/NACLI/Jul-Sep-2022.png">](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue4-jul-sep-2022.pdf)<br><br><br><br><br><br>
 
+[<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/NACLI/Jul-Sep%202022%20(Website)%20(200%20x%20250).png">](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue4-jul-sep-2022.pdf)
+
+<br clear="left">
 
 ##### Past Issues
 
