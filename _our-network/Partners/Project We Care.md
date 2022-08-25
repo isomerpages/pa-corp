@@ -26,9 +26,12 @@ From befriending disadvantaged families to upskilling the community, our corpora
 With our community lenses and wide network, Project We Care serves as your one-stop facilitator in **identifying needs, matching resources and engaging your employees meaningfully**, to achieve your sustainability and corporate social responsibility objectives.
 
 **To date, **more than 380 companies** have partnered the Project We Care Network to give back to underprivileged groups in their journey towards making a positive difference on the community. Share with us your values, objectives and let us discuss how we can co-curate your CSR engagements to benefit the community together.**
-![](/images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png)
-![](/images/Project%20We%20Care/girish%20-%20edited%20(28%20Jan%202022).png)
-![](/images/Project%20We%20Care/taufiq%20-%20edited%20(28%20Jan%202022).png)
+
+<img style="height:200px;width:250px"  align="left" src="images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png">
+
+<img style="height:200px;width:250px"  align="left" src="/images/Project%20We%20Care/girish%20-%20edited%20(28%20Jan%202022).png">
+
+<img style="height:200px;width:250px"  align="left" src="/images/Project%20We%20Care/taufiq%20-%20edited%20(28%20Jan%202022).png"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### **Do Good with Us**
 
