@@ -4,10 +4,6 @@ permalink: /engage/Engage
 description: ""
 ---
 
-#### Engaging the community
-
-
-
 
 | ![](/images/Engage/join-your-community.png) |  ![](/images/Engage/beourvolunteer.png)|![](/images/Engage/Connect%20with%20Government.png) |
 | -------- | -------- | -------- |
