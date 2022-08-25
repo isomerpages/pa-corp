@@ -4,7 +4,6 @@ permalink: /our-network/Wisma-Geylang-Serai/Contact-Us
 description: ""
 third_nav_title: Wisma Geylang Serai
 ---
-#### Contact Us
 #### Wisma Geylang Serai:
 
 1 Engku Aman Turn<br>
