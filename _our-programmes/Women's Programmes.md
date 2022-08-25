@@ -3,7 +3,6 @@ title: Women's Programmes
 permalink: /our-programmes/womens-programmes
 description: ""
 ---
-### Women's Programmes
 
 <img style="height:200px;width:250px" align="left" src="/images/Our%20Programmes/Women's%20Programmes%20New%20Banner%20Photo.jpg"><br><br><br><br><br>
 
