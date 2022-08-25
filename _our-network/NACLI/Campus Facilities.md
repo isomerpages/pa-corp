@@ -4,7 +4,6 @@ permalink: /our-network/National-Community-Leadership-Institute/Campus-Facilitie
 description: ""
 third_nav_title: NACLI
 ---
-#### Campus Facilities
 <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/NACLI/Campus%20Facilities%20-LL%20(Website)%20(200%20x%20250).jpg">
 <br clear="left">
 
