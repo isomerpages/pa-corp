@@ -40,7 +40,7 @@ Different communities, represented by the circles, keep their distinct identitie
 
 
 ### Our Flag
-<img style="height:100px;width:100px" align="left" src="/images/About%20Us/pa-flag.jpg"><br><br><br>
+<img style="height:100px;width:140px" align="left" src="/images/About%20Us/pa-flag.jpg"><br><br><br>
 At the heart of the PA flag is the PA logo. The borders curling upward signify a forward-looking organisation, progressing towards greater heights.
 
 
