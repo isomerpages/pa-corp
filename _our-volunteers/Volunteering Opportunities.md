@@ -22,12 +22,12 @@ Find out more about our Grassroots Organisations [here](/our-network/Grassroots-
 
 * Reach out and assisting the Needy
 * Bond the People<br>
-        1.   Promote family bonding and values<br>
-        2.   Promote multi-racial understanding
+        1.  &nbsp;  Promote family bonding and values<br>
+        2.  &nbsp;  Promote multi-racial understanding
 * Connect the Community<br>
-                  1.  Organise activities to promote community interaction.<br>
-                 2.  Improve community safety and security<br>
-                3.  Help explain government initiatives<br>
+                  1.  &nbsp; Organise activities to promote community interaction.<br>
+                 2.  &nbsp; Improve community safety and security<br>
+                3.  &nbsp; Help explain government initiatives<br>
 								
 								
 Find out more about our Community Development Councils [here](/our-network/Community-Development-Councils/Community-Development-Councils).
