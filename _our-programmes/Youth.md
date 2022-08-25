@@ -16,7 +16,7 @@ PA recognises the importance of getting a good start in life, and we have the to
 <a id="Paym_Ser_LC"></a>
 ##### PAYM Service-Learning Champion
 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br>
 The PAYM reaches out to youths in secondary schools via the Service-Learning Champion (SLC) Scheme, which aims to promote holistic development in youths by enabling them to achieve personal, character and academic development, and acquire values, life skills, a sense of civil responsibility and commitment through being involved in community service.
 
 A strong emphasis on personal development and hands-on experiences greatly enhance the learning experience of students. SLCs are encouraged to organise a wide variety of service activities to meet the needs of their community, and to tap on their own talents and initiatives in the process.
@@ -24,7 +24,7 @@ A strong emphasis on personal development and hands-on experiences greatly enhan
 <a id="Community_Leadership_Pgm"></a>
 ##### Community Leadership Programme
 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/CLP.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/CLP.jpg"><br><br><br><br><br>
 
 The Community Leadership Programme (CLP) is developed to expose students to grassroots work and a diverse range of volunteer activities.
 
@@ -34,7 +34,7 @@ Through CLP, the students will not only hone their leadership skills but also cu
 
 <a id="Interests_Group"></a>
 ##### Interests Groups
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/IG.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/IG.jpg"><br><br><br><br><br>
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
 
@@ -44,7 +44,7 @@ Popular interest groups include beach volleyball, archery, cheerleading, yo-yo, 
 
 <a id="Community_Service_Programmes"></a>
 ##### Community Service Programmes
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Comm%20Service.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/Comm%20Service.jpg"><br><br><br><br><br>
 
 To build a civic-conscious youth community the PAYM also provides platforms for youths to contribute to the wider community.
 
@@ -53,21 +53,21 @@ To build a civic-conscious youth community the PAYM also provides platforms for 
 
 The PAYM engages both schooling and working youths and heightens their sense of belonging in the community by consulting their views on current issues and national policies through a series of different forums and dialogues lined up every year.
 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%201.jpg"><br><br><br><br><br><br><br>
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%202.jpg"><br><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/Dialogue%201.jpg"><br><br><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/Dialogue%202.jpg"><br><br><br><br><br><br>
 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/Dialogue%203.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/Dialogue%203.jpg"><br><br><br><br><br>
 
 <a id="Paym_Loves_Red"></a>
 ##### PAYM Loves Red
 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/PAYM%20Loves%20Red.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/PAYM%20Loves%20Red.jpg"><br><br><br><br><br>
 
 The “PAYM Loves Red” supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their patriotism toward the nation in creative and unique ways.
 
 <a id="Community_Youthcare_festival"></a>
 #### Community YOUthCare Festival 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Youth/CYF.jpg">
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/CYF.jpg">
 <br><br><br><br><br><br><br>
 
 Community YOUthCare Festival is an annual island-wide community service campaign, mooted in 2011 to encourage more youths to come together to care for the less privileged in our community.
