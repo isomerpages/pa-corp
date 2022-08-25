@@ -4,7 +4,6 @@ permalink: /our-network/Partners/Project-We-Care
 description: ""
 third_nav_title: Partners
 ---
-### **Project We Care**
 
 <img style="height:200px;width:250px"  align="left" src="/images/Project%20We%20Care/pwc%20logo.png"><br><br><br><br><br>
 
