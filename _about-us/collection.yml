@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - About Us.md
+      - About PA.md
       - Our History.md
       - Board of Management.md
       - Annual Reports.md
