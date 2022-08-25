@@ -4,8 +4,6 @@ permalink: /our-network/Our-Tampines-Hub/Whats-Happening
 description: ""
 third_nav_title: Our Tampines Hub
 ---
-### What's Happening
-
 
 Our Tampines Hub (OTH) boasts more than 30 sports, community, arts and lifestyle facilities. As our tagline suggests, there is truly something for everyone!
 
