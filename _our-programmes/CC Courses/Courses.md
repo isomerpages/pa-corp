@@ -28,12 +28,15 @@ Look good and feel good with our health and wellness tips. Discover how you can 
 
 
 <img style="height:200px;width:250px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-LifelongLearning.jpg"><br><br><br><br><br><br>
-Improve your skills and develop yourself through the wide array of ‘Lifelong Learning' courses offered at our CCs. Learn about technical know-how, fine tune essential job skills, or pick up a new language! With the range of ‘Lifelong Learning' courses, you will be fully equipped for success.
+Improve your skills and develop yourself through the wide array of ‘Lifelong Learning' courses offered at our CCs. Learn about technical know-how, fine tune essential job skills, or pick up a new language! With the range of ‘Lifelong Learning' courses, you will be fully equipped for 
+success.
 
-![](/images/Programmes/CC%20Courses/PABanner-Lifestyle%20Leisure.jpg)
+
+<img style="height:200px;width:250px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Lifestyle%20Leisure.jpg"><br><br><br><br><br>
 
 Explore your interests with our variety of ‘Lifestyle and Leisure’ courses. Embrace the Arts, craft your own leather cardholder, cook up a storm with our celebrity chefs and Trainers or unleash your creativity and find the star in you. Do these and more with our wide array of ‘Lifestyle and Leisure’ courses.
 
-![](/images/Programmes/CC%20Courses/PABanner-Sports_Fitness.jpg)
+
+<img style="height:200px;width:250px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Sports_Fitness.jpg"><br><br><br><br><br>
 
 Work up a sweat with our trendy ‘Sports and Fitness’ courses. Conquer air, water, and land while staying up to date with the latest in sports! Keep your body and mind fit and fabulous through the ‘Sports and Fitness’ courses at our CCs now.
