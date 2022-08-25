@@ -25,7 +25,7 @@ sections:
       button: Read more
       url: /engage/Join-Your-Community
   - resources:
-      title: Highlights
+      title: News & Speeches
       button: Read More
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
