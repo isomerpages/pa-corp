@@ -4,8 +4,6 @@ permalink: /our-network/Grassroots-Organisations/Narpani-Pearavai
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-#### Narpani Pearavai
-
 The Indian Activity Executive Committees Council or Narpani Pearavai is the coordinating body for the Indian Activity Executive Committees (IAECs). It acts as a catalyst enabling Indian Singaporeans to contribute positively as active citizens. Narpani Pearavai organises many events annually at the Constituency, District and National levels.
 
 The functions of Narpani Pearavai are to:
