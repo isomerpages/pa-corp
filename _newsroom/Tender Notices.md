@@ -3,8 +3,6 @@ title: Tender Notices
 permalink: /newsroom/Tender-Notices
 description: ""
 ---
-
-### Tender Notices
 All current tender notices released by PA’s grassroots organisations can be found below. Should you require assistance, please refer to the contact person listed in the tender notice.
 
 For tender notices pertaining to available spaces for rent at Community Clubs/Centres and Water Venture outlets, please click [here](/our-network/Community-Clubs/Rentals).
