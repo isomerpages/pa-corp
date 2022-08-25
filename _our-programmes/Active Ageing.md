@@ -3,7 +3,6 @@ title: Active Ageing
 permalink: /our-programmes/Active-Ageing
 description: ""
 ---
-### Active Ageing
 #### Senior Citizens' Executive Committees
 
 <img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/activeageing-scec.jpg" ><br><br><br><br><br>
