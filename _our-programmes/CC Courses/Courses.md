@@ -4,7 +4,6 @@ permalink: /our-programmes/CC-Courses/Courses
 description: ""
 third_nav_title: CC Courses
 ---
-
 Life is a journey of constant learning and improvement. The PA offers you endless opportunities to pick up new skills, have fun, while making new friends. From cultivating your taste for fine cuisine, to offering you personal grooming and beauty tips; from the development of your information technology skills to classes in martial arts, dance, and sporting activities; we have something for everyone!
 
 ### Series of Courses
@@ -17,7 +16,8 @@ The main categories of courses offered at our CCs/RCs are:
 *   Sports and Fitness
 
 Every day is a gift that is best shared with your loved ones. Set aside your hectic lifestyle and make the most of today! With so many courses to choose from, there is bound to be one that will delight you and others! 
-![](/images/Programmes/CC%20Courses/PABanner-Education%20Enrichment.jpg)
+
+<img style="height:200px;width:250px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Education%20Enrichment.jpg"><br><br><br><br><br>
 
 Expand and broaden your child’s and your interest with our wide array of ‘Education and Enrichment’ courses. Pique your child’s interest with our range of hands-on science courses or improve pronunciation and reading with our phonics courses.  Sign up for our ‘Education and Enrichment’ courses today!
 
