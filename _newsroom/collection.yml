@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Newsroom.md
-      - News.md
       - Publications.md
       - Speeches.md
       - Tender Notices.md
