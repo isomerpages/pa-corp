@@ -4,9 +4,6 @@ permalink: /our-network/Wisma-Geylang-Serai/Facilities
 description: ""
 third_nav_title: Wisma Geylang Serai
 ---
-### Facilities
-
-
 #### Geylang Serai Community Club
 
 Spanning across four storeys, the Community Club houses a variety of community-based facilities – such as Function Rooms, Seminar Rooms, Dance Studios and Activity Rooms –  that are available for public booking. There are Music Rooms and a Culinary Studio which are open for courses organised by the CC only.
@@ -90,14 +87,3 @@ The rooftop garden and barbecue pits allow visitors to hold their social events 
 
 **Kidzone @ WGS**<br>
 Kidzone is an area where kids can play, either in the indoor playground or on the bouncy castles. As safety is always a priority at Wisma Geylang Serai, parents can be assured their children enjoying themselves within the play area will be safe.
-
-
-
-
-
-
-
-
-
-
-
