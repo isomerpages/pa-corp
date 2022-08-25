@@ -4,9 +4,6 @@ permalink: /our-network/Grassroots-Organisations/Residents-Committees
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-#### Residents' Committees
-
-
 The Residents’ Committees (RCs) were introduced in 1978 to promote neighbourliness, racial harmony and community cohesiveness amongst residents within their respective RC zones in Housing and Development Board estates. Run by residents for residents, RCs also work closely with other grassroots organisations like the Citizens’ Consultative Committees and various government agencies to improve the physical environment and safety of their respective precincts.
 
 The functions of RCs are to:
