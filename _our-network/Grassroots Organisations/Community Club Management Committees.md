@@ -4,7 +4,6 @@ permalink: /our-network/Grassroots-Organisations/Community-Club-Management-Commi
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-#### Community Club Management Committees
 
 Our Community Club Management Committees (CCMCs) help build, manage and maintain all our Community Clubs (CCs). Made up of volunteers who work with our staff, the CCMCs meet regularly to plan and organise innovative programmes that help bring residents together at the CCs to interact and forge friendships.
 
