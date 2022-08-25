@@ -4,7 +4,6 @@ permalink: /our-network/Community-Development-Councils/Common-Flagship-Programme
 description: ""
 third_nav_title: Community Development Councils
 ---
-#### Common Flagship Programmes
 
 The five Community Development Councils (CDCs) come together to run common flagship programmes to support the Government’s efforts in promoting a caring, inclusive, resilient and future-ready Singapore; and engender and spread goodwill among the people.
 
