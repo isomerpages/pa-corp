@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Tampines Hub
 ---
 #### Our Tampines Hub
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/OTH/NYE%20Fireworks%20at%20Town%20Square.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/OTH/NYE%20Fireworks%20at%20Town%20Square.jpg"><br><br><br><br><br>
 
 Our Tampines Hub (OTH) is **Singapore’s largest integrated community and lifestyle hub**, bringing together multiple agencies and offering a comprehensive range of services and facilities.
 
