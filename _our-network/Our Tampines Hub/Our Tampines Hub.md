@@ -13,7 +13,7 @@ Led by People’s Association, OTH represents a new model of a community-focused
 
 <img style="height:200px;width:250px" align="left" src="/images/Our%20Network/OTH/kids_at_swimming_pool.jpg"><br><br><br><br><br>
 
-Residents can **enjoy a range of facilitie****s** such as sports facilities, a regional library, community club programmes and facilities, arts programmes and facilities, hawker centre and retail shops.
+Residents can **enjoy a range of facilities** such as sports facilities, a regional library, community club programmes and facilities, arts programmes and facilities, hawker centre and retail shops.
 
 This **integration of facilities in OTH and of other stakeholders** \- namely National Library Board (NLB), Ministry of Health (MOH), Workforce Singapore (WSG), North East Community Development Council (NE CDC), Ministry of Social and Family Services (MSF), Housing Development Board (HDB), National Heritage Board (NHB), National Arts Council (NAC), National Environment Agency (NEA), HomeTeamNS (HTNS) and SportSG (SSG) - **is an effort to better serve Tampines residents and people who live in eastern Singapore, so as to meet the rising expectations of Singaporeans and further intensify land utilisation**.
 
