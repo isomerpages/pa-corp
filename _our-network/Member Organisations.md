@@ -31,7 +31,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Perkumpulan Seni Singapura](https://www.facebook.com/perkumpulanseni.org)
 * [Singapore Art Society](http://singaporeartsociety.com/)
 * Singapore Arts Federation
-* [Singapore Dance Theatre](http://www.singaporedancetheatre.com/)
+* [Singapore Ballet](https://singaporeballet.org)
 * Singapore Hadrah And Kompang Association
 * [Singapore Indian Fine Arts Society](https://www.sifas.org/)
 * [Society of Chinese Artists](https://soca.org.sg/)
