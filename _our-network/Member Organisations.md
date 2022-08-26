@@ -87,7 +87,7 @@ Here’s a list of our Corporate Members, by different categories:
 
 * [Girl Guides Singapore](https://girlguides.org.sg/)
 * [The Singapore Scout Association](https://scout.sg/)
-* Singapore Red Cross Society
+* [Singapore Red Cross Society](https://www.redcross.sg/)
 * [St. John Singapore](https://stjohn.org.sg/)
 * [The Boys' Brigade in Singapore](https://www.bb.org.sg/)
 * [The Girls' Brigade Singapore](https://www.gb.org.sg/)
