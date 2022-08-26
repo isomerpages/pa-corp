@@ -14,7 +14,7 @@ Visit our [Facebook Page](https://www.facebook.com/PACommunitySportsNetwork) for
  
 ### PAssion Community Football
 
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/Community%20sports/commsports-passionfootball.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/Community%20sports/commsports-passionfootball.jpg"><br><br><br><br><br>
 
 The PAssion Community Football (PACF) programme was initiated in 2004 by the People’s Association (PA).  In partnership with the Football Association of Singapore and POSB PAssion Kids Fund, the programme is a platform for participant aged five to 16 years old to spend quality family time with their parents and bond with the community through football.
 
