@@ -12,7 +12,7 @@ The People's Association (PA) offers partnership opportunities for corporate and
 Organisations can support the calendar of community events, co-create cause-based and/or interest-based programmes with PA that benefit the community. The contributions by partners will certainly go a long way to impact lives and build a great and caring home for all.
 
 #### Why Partner PA?
-<img style="height:200px;width:200px"  align="left" src="/images/Our%20Network/Partners/icon1.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Partners/icon1.jpg"><br><br><br><br><br>
 
 #### The "Network of Partners" Approach
 
