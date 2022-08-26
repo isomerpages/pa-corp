@@ -22,7 +22,7 @@ At the constituency level, each CDC works closely with the Grassroots Organisati
 
  
 
-|  |  |  |
+|  CDC Vision|  |  |
 | -------- | -------- | -------- |
 |<a href="https://centralsingapore.cdc.gov.sg"> <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/01.png"> </a>   | Building a Do-Good District     |      |
 | <a href="https://northeast.cdc.gov.sg"<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/02.png"></a> |   A Caring & Cohesive Community   |      |
