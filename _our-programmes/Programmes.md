@@ -9,7 +9,7 @@ description: ""
 
 
 
-| <img style="height:100px;width:200px" src="/images/Programmes/main-racialharmony.jpg">|<img style="height:100px;width:200px" src="/images/Programmes/main-familylife.jpg">| <img style="height:100px;width:200px" src="/images/Programmes/main-communitysports.jpg">|
+| <img style="height:200px;width:250px" align="left" src="/images/Programmes/main-racialharmony.jpg">|<img style="height:200px;width:250px" align="center" src="/images/Programmes/main-familylife.jpg">| <img style="height:200px;width:250px" align="right" src="/images/Programmes/main-communitysports.jpg">|
 | -------- | -------- | -------- |
 | [Racial Harmony](/our-programmes/Racial-Harmony) <br>Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of differ<br>  [Read More](/our-programmes/Racial-Harmony)  | [Family Life](/our-programmes/Family-life)   <br>Participate in our family programmes to strengthen family bonds and build a strong community.<br>[Read More](/our-programmes/Family-Life)  | [Community Sports](/our-programmes/Community-Sports)  <br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character. <br>[Read More](/our-programmes/Community-Sports)  |
 
