@@ -98,7 +98,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Chinese Teachers' Union](https://www.facebook.com/SCTU.union/)
 * Singapore Malay Teachers' Union
 * Singapore Middle School Chinese Teachers' Association
-* Singapore Tamil Teacher's Union
+* [Singapore Tamil Teacher's Union](https://www.sttu.org.sg/)
 * Singapore Teachers' Union
 
 ##### Youth Organisations
