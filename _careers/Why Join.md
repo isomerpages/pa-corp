@@ -4,17 +4,17 @@ permalink: /careers/Why-Join
 description: ""
 ---
 #### Tan Jun Yi <br>
-  <img style="height:200px;width:200px"  align="left" src="/images/Careers/Tan%20Jun%20Yi.jpg"><br><br><br><br><br><br>
+  <img style="height:200px;width:250px"  align="left" src="/images/Careers/Tan%20Jun%20Yi.jpg"><br><br><br><br><br><br>
 Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her a unique working experience to be a catalyst to bring people of all walks of life together to foster friendship and bonding through sports.<br>
 [Read More](/files/Careers/story-tan-jun-yi.pdf)
 
 #### Edwin Yap Chee Kian <br>
- <img style="height:200px;width:300px"  align="left" src="/images/Careers/Edwin%20Yap%20Chee%20Kian.png"><br><br><br><br><br><br>
+ <img style="height:200px;width:250px"  align="left" src="/images/Careers/Edwin%20Yap%20Chee%20Kian.png"><br><br><br><br><br><br>
 Mr Edwin Yap, Head (Community Arts - Bishan-Toa Payoh GRC) enjoys meeting people from all walks of life and hopes he is able to help them in one way or another through his work.<br>
 [Read More](/files/Careers/story-edwin-yap-chee-kian.pdf)
 
 #### Wendy Zeng<br>
-<img style="height:200px;width:300px"  align="left" src="/images/Careers/Wendy%20Zeng.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Careers/Wendy%20Zeng.jpg"><br><br><br><br><br>
 
 Deputy Constituency Director, Kebun Baru Constituency Office @ Kebun Baru CC, Wendy Zeng, is passionate about improving the quality of life of the elderly. 
 
