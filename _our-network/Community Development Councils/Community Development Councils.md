@@ -24,7 +24,7 @@ At the constituency level, each CDC works closely with the Grassroots Organisati
 
 |  |  |  |
 | -------- | -------- | -------- |
-| <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/01.png">    | Building a Do-Good District     |      |
+|<a href="https://centralsingapore.cdc.gov.sg/"> <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/01.png"> </a>   | Building a Do-Good District     |      |
 | <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/02.png"> |   A Caring & Cohesive Community   |      |
 | <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/03.png">   |A Caring and Healthy Community    |      |
 | <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/south-east-cdc-(1).jpg">   | Your Social Broker   |      |
