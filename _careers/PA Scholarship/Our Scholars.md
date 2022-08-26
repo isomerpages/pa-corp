@@ -16,7 +16,7 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/wb-(16-aug-2018-p7)-pa-scholarship-recipient-family-challenges-motivate-teen-to-study-hard%20(1).pdf)
  
 ####   Muhammad Naufal Zahin Azmi<br>
- <img style="height:200px;width:250px"  align="left" src="/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg"><br><br><br><br><br><br>
+ <img style="height:300px;width:300px"  align="left" src="/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg"><br><br><br><br><br><br><br><br><br>
 **PA Scholar (Overseas)<br>**
 **Bachelor of Arts in Politics at King's College London (UK)**
 
