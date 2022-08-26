@@ -2,6 +2,6 @@ collections:
   newsroom:
     output: true
     order:
-      - Newsroom.md
+      - News & Speeches.md
       - Publications.md
       - Tender Notices.md
