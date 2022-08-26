@@ -74,7 +74,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Wushu Dragon & Lion Dance Federation](http://www.wuzong.com/en/)
 * [Singapore Xiangqi General Association](http://www.xiangqi.sg7)
 * [Sports Boules Singapore](https://www.sportsboules.org.sg/)
-* [Volleyball Association of Singapore]([VAS – Volleyball Singapore](https://www.vas.org.sg/))
+* [Volleyball Association of Singapore](https://www.vas.org.sg/)
 
 #### Students' Unions
 
