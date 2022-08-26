@@ -103,7 +103,7 @@ Here’s a list of our Corporate Members, by different categories:
 
 ##### Youth Organisations
 
-* [Malay Youth Literary Association](http://4pm.org.sg/)
+* [Malay Youth Literary Association](https://www.instagram.com/tamanbacaansg/?hl=en)
 * [Metropolitan Young Men's Christian Association of Singapore](https://www.mymca.org.sg/)
 * Singapore Malay Youth Library Association
 * [Young Men's Christian Association of Singapore](https://www.ymca.org.sg/)
