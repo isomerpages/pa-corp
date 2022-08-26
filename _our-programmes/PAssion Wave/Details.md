@@ -4,7 +4,7 @@ permalink: /our-programmes/PAssion-Wave/Details
 description: ""
 third_nav_title: PAssion Wave
 ---
-<img style="height:200px;width:200px" align="left" src="/images/Programmes/PAssion%20Wave/PAssion%20Wave%20cover.jpg"><br><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/Programmes/PAssion%20Wave/PAssion%20Wave%20cover.jpg"><br><br><br><br><br><br>
 People’s Association PAssion Wave (PW), formerly known as Water-Venture was first coined in 2015 as PA’s specialist community club offering a broad range of waterfront lifestyle programmes to the community. PW is an integral part of PA that bonds people and bridges the communities through water sports and waterfront lifestyle pursuits. Together with its partners and trainers, PW provides safe, affordable and exciting courses, programmes and activities to the community.
 
 PW has the passionate belief that an exciting and healthy lifestyle should be accessible to everyone in the community regardless of age, race or gender.
