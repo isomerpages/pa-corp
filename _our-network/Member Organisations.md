@@ -65,7 +65,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Sailing Federation](https://sailing.org.sg/)
 * [Singapore Sepaktakraw Federation](https://www.sgsepaktakraw.org/)
 * [Singapore Silat Federation](https://www.persisi.org/)
-* Singapore Squash Rackets Association
+* [Singapore Squash Rackets Association](https://www.sgsquash.com/)
 * [Singapore Swimming Association](http://www.swimming.org.sg/)
 * [Singapore Table Tennis Association](https://www.stta.org.sg/)
 * [Singapore Taekwondo Federation](https://www.stf.sg/)
