@@ -59,7 +59,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Contract Bridge Association](https://www.scba.org.sg/)
 * [Singapore Cycling Federation](http://www.cycling.org.sg/)
 * [Singapore Dragon Boat Association](http://www.sdba.org.sg/)
-* [Singapore Judo Association](http://www.sjf.sg/)
+* [Singapore Judo Federation](http://www.sjf.sg/)
 * [Singapore Floorball Association](https://www.revolutionise.sg/sgfloorball/home)
 * [Singapore Karate-Do Federation](http://www.singaporekarate.org/)
 * [Singapore Sailing Federation](https://sailing.org.sg/)
