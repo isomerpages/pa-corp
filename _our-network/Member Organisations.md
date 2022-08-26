@@ -63,7 +63,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Floorball Association](https://www.revolutionise.sg/sgfloorball/home)
 * [Singapore Karate-Do Federation](http://www.singaporekarate.org/)
 * [Singapore Sailing Federation](https://sailing.org.sg/)
-* [Singapore Sepaktakraw Federation]()
+* [Singapore Sepaktakraw Federation](https://www.sgsepaktakraw.org/)
 * [Singapore Silat Federation](https://www.persisi.org/)
 * Singapore Squash Rackets Association
 * [Singapore Swimming Association](http://www.swimming.org.sg/)
