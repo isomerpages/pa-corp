@@ -6,7 +6,7 @@ third_nav_title: PA Scholarship
 ---
 #### Jazreel Tay Hui Ying<br>
 
-<img style="height:200px;width:250px"  align="left" src="/images/Careers/Jazreel%20Tay%20Hui%20Ying.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:300px"  align="left" src="/images/Careers/Jazreel%20Tay%20Hui%20Ying.jpg"><br><br><br><br><br><br><br><br>
 
 **PA Scholar (Local)<br>**
 **Bachelor of Arts and Social Sciences at National University of Singapore**
