@@ -42,7 +42,7 @@ Here’s a list of our Corporate Members, by different categories:
 #### Hobby Clubs
 
 * [Radio Modellers Singapore](https://www.rms.org.sg/)
-* Singapore Numismatic Association
+* [Singapore Numismatic Association](https://www.facebook.com/sgsnasg/)
 * Singapore Philatelic Society
 * [Singapore Stamp Club](https://www.facebook.com/singaporestampclub)
 * [Singapore Youth Flying Club](http://www.syfc.sg/)
