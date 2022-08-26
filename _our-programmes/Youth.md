@@ -13,6 +13,13 @@ PA recognises the importance of getting a good start in life, and we have the to
 * <a href="#Paym_Loves_Red">PAYM Loves Red</a>
 * <a href="#Community_Youthcare_festival">Community YOUthCare Festival</a>
 
+##### People's Association Youth Movement Programmes
+----------------------------------------------
+
+As a leading youth organisation, the People's Association Youth Movement (PAYM) was set up in 1971 as a core youth movement in Singapore to engage youth in meaningful pursuits and support the Government in nation building. Through our strategy of ‘Youth for Youth, Youth for Community’, PAYM provides diverse and holistic activities for our youths to develop into active citizens.
+
+Involving over 90 Youth Networks based at the Community Clubs/Centres (CCs), PAYM’s various programs and activities create a common space for youth to bond and contribute to their local communities regardless of race, religion and educational backgrounds. Over at PAYM, we proactively create opportunities for our youth to unleash their potentials and fulfil their aspirations.
+
 <a id="Paym_Ser_LC"></a>
 ##### PAYM Service-Learning Champion
 
@@ -26,9 +33,9 @@ A strong emphasis on personal development and hands-on experiences greatly enhan
 
 <img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/CLP.jpg"><br><br><br><br><br>
 
-The Community Leadership Programme (CLP) is developed to expose students to grassroots work and a diverse range of volunteer activities.
+The Community Leadership Programme (CLP) is developed to introduce students from Institutes of Higher Learning (IHL) to community work and a diverse range of volunteer activities
 
-Students will be attached to the Youth Executive Committees (YECs) and mentored by experienced YEC leaders. Students will be challenged to step out of their comfort zones through a journey of experiential learning, community projects, leadership workshops, house-to-house visits, dialogue sessions and participation in national campaigns – PAYM Loves Red and YOUths Care @ PAYM.
+Students will be attached to the Youth Networks (YN) and mentored by experienced YN leaders. Students will embark on a journey of experiential learning, community projects, leadership workshops, house-to-house visits, dialogue sessions and participation in national campaigns – PAYM Loves Red and Community YOUthCare Festival.
 
 Through CLP, the students will not only hone their leadership skills but also cultivate a sense of appreciation on the importance of bridging diverse communities.
 
@@ -46,7 +53,7 @@ Popular interest groups include beach volleyball, archery, cheerleading, yo-yo, 
 ##### Community Service Programmes
 <img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/Comm%20Service.jpg"><br><br><br><br><br>
 
-To build a civic-conscious youth community the PAYM also provides platforms for youths to contribute to the wider community.
+To build a civic-conscious youth community, the PAYM also provides platforms for youths to contribute to the wider community.
 
 <a id="Forum_Dialogue_Series"></a>
 ##### Forum and Dialogue Series
@@ -63,14 +70,14 @@ The PAYM engages both schooling and working youths and heightens their sense of 
 
 <img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/PAYM%20Loves%20Red.jpg"><br><br><br><br><br>
 
-The “PAYM Loves Red” supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their patriotism toward the nation in creative and unique ways.
+The “PAYM Loves Red” campaign supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August to celebrate Singapore's multicultural social fabric. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their appreciation toward the nation in creative and unique ways.
 
 <a id="Community_Youthcare_festival"></a>
 #### Community YOUthCare Festival 
 <img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/CYF.jpg">
 <br><br><br><br><br><br><br>
 
-Community YOUthCare Festival is an annual island-wide community service campaign, mooted in 2011 to encourage more youths to come together to care for the less privileged in our community.
+Community YOUthCare Festival is an annual island-wide community service campaign, mooted in 2011 to encourage more youths to come together to care for the less privileged in our community.
 
 
 Find out more about PAYM on our [Facebook page](https://www.facebook.com/PAYMyouths)!
