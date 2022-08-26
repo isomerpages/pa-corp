@@ -19,7 +19,7 @@ Here’s a list of our Corporate Members, by different categories:
 
 #### Cultural & Educational Organisations
 
-* Central Council of Malay Cultural Organisations
+* [Central Council of Malay Cultural Organisations](https://majlispusatsg.org/)
 * [Chinese Calligraphy Society of Singapore](https://www.ccss.org.sg/)
 * [Chinese Dance Artistes' Association](https://zh-cn.facebook.com/pages/Chinese-Dance-Artistes-Association/209711552462560)
 * [Chinese Theatre Circle](http://www.ctcopera.com/)
@@ -28,7 +28,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Institute of Technical Education, Singapore](https://www.ite.edu.sg/)
 * Metro Philharmonic Society
 * [Nanyang Academy of Fine Arts](https://www.nafa.edu.sg/)
-* [Perkumpulan Seni]([Perkumpulan Seni Singapura (facebook.com)](https://www.facebook.com/perkumpulanseni.org))
+* [Perkumpulan Seni Singapura](https://www.facebook.com/perkumpulanseni.org)
 * [Singapore Art Society](http://singaporeartsociety.com/)
 * Singapore Arts Federation
 * [Singapore Dance Theatre](http://www.singaporedancetheatre.com/)
