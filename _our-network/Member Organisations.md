@@ -121,7 +121,7 @@ Here’s a list of our Corporate Members, by different categories:
 
 #### Self-help Group
 
-* The Eurasian Association, Singapore
+* [The Eurasian Association, Singapore](https://www.eurasians.sg/)
 
 #### Professional Bodies 
 
