@@ -23,8 +23,8 @@ The YECs under the umbrella of PAYM build social capital amongst youths, and thr
 ##### Engage Youth Since Young 
 **PAYM Service-Learning Champions**
 
-<img style="height:200px;width:300px"  align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br>
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth2_compressed.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth2_compressed.jpg"><br><br><br><br><br>
 
 
 The PAYM reaches out to youths in secondary schools via the Service-Learning Champion (SLC) Scheme, which aims to promote holistic development in youths by enabling them to achieve personal, character and academic development, and acquire values, life skills, a sense of civil responsibility and commitment through being involved in community service.
@@ -35,14 +35,14 @@ A strong emphasis on personal development and hands-on experiences greatly enhan
 
 **Youth Chapters**
 
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth3_compressed.jpg"><br><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth3_compressed.jpg"><br><br><br><br><br><br>
 In addition to involving youths in the YECs, the Youth Chapters at the Residents’ Committees and Neighbourhood Committees is another key initiative to facilitate deeper local youth engagement as it will give young residents a chance to get to know each other and do meaningful activities together.
 
 The Youth Chapters bring like-minded youths together through interest groups, bring about an impact to the needy residents through community service programmes and organise activities for fellow youths and residents.
 
 
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth4_compressed.jpg"><br><br><br><br><br><br>
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth5_compressed.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth4_compressed.jpg"><br><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth5_compressed.jpg"><br><br><br><br><br>
 
 The Community Leadership Programme (CLP) is developed to expose students to grassroots work and a diverse range of volunteer activities.
 
@@ -53,7 +53,7 @@ Through CLP, the students will not only hone their leadership skills but also cu
 ##### Engage Youth through Interests/ Causes 
 **Interest Groups**
 
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth6_compressed.jpg"><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth6_compressed.jpg"><br><br><br><br><br>
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
 
