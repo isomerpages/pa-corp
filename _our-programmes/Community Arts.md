@@ -26,7 +26,7 @@ The Community Arts & Culture Clubs (CACC) is a co-ordinating arts and culture cl
 <a id="Passion_Arts"></a>
 ### PAssionArts Festival
 
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commmart-paf.jpeg"><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Programmes/commmart-paf.jpeg"><br><br><br><br><br>
 
 PAssionArts Festival (PAF) is an annual community arts festival organised by the Community Arts & Culture Clubs (CACC).  Since its inception in 2012 as a flagship programme, PAF has fostered a sense of togetherness and belonging to the community through the arts, providing people from all walks of life an access to quality art programmes and a platform for community collaboration and engagement.  Engaging performances, arts activities and visual art exhibitions/installations were curated and organised to showcase the community’s creativity and local talents.
 
@@ -36,7 +36,7 @@ For more information and full event listings, visit us at **[PAssionArts Facebo
 
 <a id="PassionArts_volunteer"></a>
 ### PAssionArts Volunteer Corps
-<img style="height:200px;width:300px"  align="left" src="/images/Our%20Programmes/commarts-volunteer.jpg"><br><br><br><br><br><br>
+<img style="height:200px;width:250px"  align="left" src="/images/Our%20Programmes/commarts-volunteer.jpg"><br><br><br><br><br><br>
 
 Want to make a difference through Arts and Culture? Join us as volunteers today!  
   
