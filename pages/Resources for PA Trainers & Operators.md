@@ -36,4 +36,4 @@ Other useful references:
 
 [PSGs (As of 1 January 2023)]
 
-[Infographics of PSGs (As of 20 May 2022)]
+[Infographics of PSGs (As of 1 August 2023)]
