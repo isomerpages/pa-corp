@@ -3,7 +3,6 @@ title: Resources for PA Trainers & Operators
 permalink: /our-programmes/CC-Courses/pa-trainers-and-operators-resources
 description: ""
 ---
-
 **Resources for PA Trainers and PA Operators**
 
 All PA Trainers/ Operators are to comply with the prevailing **Safe Management Measures** (SMMs) and **Professional Standards & Guidelines** (PSGs) and work closely with the organising Community Clubs/Centres (CCs), Specialist Community Clubs (SCCs), RCs/RNs when organising classes/activities for residents. Should SMMs/PSGs are found to be in non-compliance, PA reserves the right to suspend the class/activity.
@@ -12,14 +11,11 @@ Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg]
 
 **Safe Management Measures**
 
-[Updated as at 12 May 2022]
+[Updated as at 27 August 2022]
 
 Please download the resources via the links below:
 
-Addendum to 57th Update on SMMs for PA Courses & Interest Groups (As of 12 May 2022)
-
-Annex A (Category Specific Guidelines)
-
+[Annex A - Course and IG Specific SMMs (As of 29 Aug 2022)](/files/Safe%20Management%20Measures/Annex%20A-CourseIGSpecificSMMs%20(29%20Aug%202022).pdf)
  
 
 Other useful references:
@@ -38,6 +34,6 @@ Other useful references:
 
 **Please download the resources via the links be below:**
 
-[PSGs (As of 19 July 2017)]
+[PSGs (As of 1 January 2023)]
 
 [Infographics of PSGs (As of 20 May 2022)]
