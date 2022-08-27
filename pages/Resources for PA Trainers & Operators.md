@@ -32,6 +32,9 @@ Other useful references:
 10. [Revised Healthcare Protocol Changes](https://www.covid.gov.sg/)
 11. [Ministry of Manpower](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures) (Workforce Vaccination Measures)
 
+
+**Professional Standards and Guidelines for PA Trainers**
+
 **Please download the resources via the links be below:**
 
 [PSG (As of 1 January 2023)]
