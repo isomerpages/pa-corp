@@ -15,7 +15,7 @@ Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg]
 
 Please download the resources via the links below:
 
-[Annex A - Course and IG Specific SMMs (As of 29 Aug 2022)](/files/Safe%20Management%20Measures/Annex%20A-CourseIGSpecificSMMs%20(29%20Aug%202022).pdf)
+[Annex A - Course and IG Specific SMMs (From 29 Aug 2022)](/files/Safe%20Management%20Measures/Annex%20A-CourseIGSpecificSMMs%20(29%20Aug%202022).pdf)
  
 
 Other useful references:
