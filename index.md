@@ -53,11 +53,6 @@ sections:
       image: /images/Photo - Locate a CC.jpg
       subtitle: More details on your CC
       alt: /info/CC-Details
-  - infobar:
-      subtitle: DISTRICT INFORMATION
-      description: Find out your district's information
-      button: Find
-      url: /district-info/Details
   - infopic:
       subtitle: DISTRICT INFORMATION
       description: Search for your district's information
