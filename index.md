@@ -4,9 +4,10 @@ title: People's Association
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: 'Beware of potential scam letters, calls, messages, social media
-  pages, websites and mobile applications impersonating PA or PA
-  staff.&nbsp;Click <a href="/Scam-Alert">here</a> for more '
+notification: Beware of potential scam letters, calls, messages, social media
+  pages, websites and mobile applications impersonating PA/staff. If unsure, do
+  not provide your personal or financial info (e.g. passwords, SingPass
+  details).<br />Click <a href="/scam-alert" >here</a> for more details.
 sections:
   - hero:
       background: /images/join-your-community.jpg
