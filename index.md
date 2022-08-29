@@ -5,8 +5,8 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Beware of potential scam letters, calls, messages, social media
-  pages, websites and mobile applications impersonating PA/staff<br>Click <a
-  href="/Scam-Alert">here</a> for more details.
+  pages, websites and mobile applications impersonating PA/staff. <br /> Click
+  <a href="/scam-alert" >here</a> for more details.
 sections:
   - hero:
       background: /images/join-your-community.jpg
