@@ -15,7 +15,7 @@ Take part in EP programme organised by our Grassroots Organisations to prepare u
 <img style="height:200px;width:250px"  align="left" src="/images/Programmes/Emergency%20Preparedness/ep-firstresponder.jpg"><br><br><br><br><br>
 
 
-The Community Life Saving Programme is a collaboration between PA and MHA which aims to enhance the community's level of preparedness and responsiveness in emergencies. Fully subsidised courses available for residents are:
+The Community Life-saving Programme is a collaboration between PA and MHA which aims to enhance the community's level of preparedness and responsiveness in emergencies. Fully subsidised courses available for residents are:
 
 * Standard First Aid + AED Awareness Course (SFAA)
 * CPR+AED Certification Course
