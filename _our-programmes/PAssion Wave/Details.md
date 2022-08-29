@@ -13,7 +13,7 @@ PW offers sports equipment for rental. Valid certification is required for certa
 
 Our rental hours are from 9am to 6pm on Wednesday to Sunday. All outlets are closed on Mondays and Public Holidays. With effect from 19 June 2020, all sports equipment rental offered at the six PAssion Wave outlets have to be pre-booked by users online, subject to availability. 
 
-Please visit our [Facebook page](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpa.passionwave) or follow us on [Instagram](https://www.instagram.com/accounts/login/?next=/pa.passionwave/)for more information.
+Please visit our [Facebook page](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpa.passionwave) or follow us on [Instagram](https://www.instagram.com/accounts/login/?next=/pa.passionwave/) for more information.
 
 For course registration, please log on to the [onePA portal](https://www.onepa.gov.sg/).
 
