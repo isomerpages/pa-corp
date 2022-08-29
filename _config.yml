@@ -2,13 +2,13 @@ title: People's Association
 url: ""
 favicon: /images/Fav-Icon.ico
 colors:
-  primary-color: "#b7b7b7"
+  primary-color: "#e21822"
   secondary-color: "#e21822"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#b7b7b7"
     - title: media-color-two
-      color: "#30d5c8"
+      color: "#b7b7b7"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
