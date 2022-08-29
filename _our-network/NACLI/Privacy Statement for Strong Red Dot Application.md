@@ -2,7 +2,6 @@
 title: Privacy Statement for Strong Red Dot Application
 permalink: /our-network/NACLI/privacy-statement-for-strong-red-dot-app
 description: ""
-published: false
 third_nav_title: NACLI
 ---
 1. The Strong Red Dot application belongs to the National Community Leadership Institute under the People’s Association. It is an e-learning application.
