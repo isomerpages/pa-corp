@@ -2,7 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
-      - Programmes.md
+      - PA's Programmes.md
       - Active Ageing.md
       - CC Courses/.keep
       - CC Courses/Be a Training Provider.md
