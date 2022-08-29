@@ -32,13 +32,13 @@ On AYE, take Exit 8 towards South Buona Vista Road and continue down the winding
 
 Parking at the campus is complimentary for learners and registered visitors based on availability.
 
-### Contact Information
+#### Contact Information
 
 Tel: 6672 5200<br>
 Fax: 6474 5527<br>
 Email: nacli@pa.gov.sg
 
-### Opening Hours
+#### Opening Hours
 
 Monday - Thursday : 8.30am - 6.00pm <br>
 Friday : 8.30am - 5.30pm <br>
