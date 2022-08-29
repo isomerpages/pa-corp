@@ -15,4 +15,4 @@ We have revised our rental rates from **1 February 2020**. Click the link below 
 
 [Rental Enquiry Form](/files/Our%20Network/NACLI/Campus%20Facilities/NACLI%20Rental%20Enquiry%20Form%20(2022).pdf)
 
-** Please note that our Multipurpose Hall and Auditorium are currently undergoing renovations.**
+*Note: The Multipurpose Hall and Auditorium are currently undergoing renovations.
