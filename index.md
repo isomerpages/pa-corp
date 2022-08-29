@@ -58,9 +58,10 @@ sections:
       description: Find out your district's information
       button: Find
       url: /district-info/Details
-  - infobar:
-      subtitle: Phone Number check
-      button: Click here
-      url: /Authenticity-Check
-      description: Check authenticity of the call you received!
+  - infopic:
+      subtitle: DISTRICT INFORMATION
+      description: Search for your district's information
+      button: SEARCH
+      url: /district-info/Details
+      alt: Image alt text
 ---
