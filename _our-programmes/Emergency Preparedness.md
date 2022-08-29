@@ -3,22 +3,22 @@ title: Emergency Preparedness
 permalink: /our-programmes/Emergency-Preparedness
 description: ""
 ---
-The People’s Association (PA) Emergency Preparedness (EP) seeks to strengthen the understanding and ties between people of different races and religions, impart EP skills and knowledge with an aim to build a safer and more resilient community.
+The People’s Association (PA) Emergency Preparedness Division (EPD) seeks to strengthen the understanding and ties between people of different races and religions, impart EP skills and knowledge with an aim to build a safer and more resilient community.
 
 Through PA and its Grassroots'  EP Programmes, residents will not only acquire EP skills and take part in emergency exercises, but also learn about the importance of racial harmony as a fundamental building block in strengthening our social fabric. The objective of the EP Programmes is to help the community stay calm, be resilient during emergencies and return to normalcy as quickly as possible.
 
 ### Emergency Preparedness Programme
 <img style="height:200px;width:250px"  align="left" src="/images/Programmes/Emergency%20Preparedness/Emergency.jpg"><br><br><br><br><br><br>
-Take part in EP programme organised by our Grassroots Organisations to prepare us to respond and render help promptly during emergencies. This can be achieved through joining our Community Emergency Response Team (CERT), participate in EP Days, learn useful skills such as Cardio-Pulmonary Resuscitation (CPR) + Automated External Defibrillator (AED) and other EP-related courses jointly organised with the Homefront Agencies.
+Take part in EP programme organised by our Grassroots Organisations to prepare us to respond and render help promptly during emergencies. This can be achieved through joining our Community Emergency Response Team (CERT), participate in EP Days, learn useful skills such as Cardio-Pulmonary Resuscitation (CPR) + Automated External Defibrillator (AED) and other EP-related courses jointly organised with the home team agencies.
 
-### Community Life Saving Programme
+### Community Life-saving Programme
 <img style="height:200px;width:250px"  align="left" src="/images/Programmes/Emergency%20Preparedness/ep-firstresponder.jpg"><br><br><br><br><br>
 
 
 The Community Life Saving Programme is a collaboration between PA and MHA which aims to enhance the community's level of preparedness and responsiveness in emergencies. Fully subsidised courses available for residents are:
 
-* Half day Standard First Aid (SFA) and AED Awareness
-* Half day Certified CPR+AED course
+* Standard First Aid + AED Awareness Course (SFAA)
+* CPR+AED Certification Course
 
 ### Join our CERT and Interest Groups
 A wide range of EP activities and programmes are organised at the constituencies all year round. Through the Community Emergency and Engagement Committee (C2E) and CERT, PA and its GROs work with other government agencies to prepare, train and support the community to deal with emergencies which include the threat of terrorism. Members of the community are encouraged to join the CERT and EP Interest Groups (IGs) such as CERT-on-Patrol IG to promote neighbourliness and help one another during peacetime and emergencies.
