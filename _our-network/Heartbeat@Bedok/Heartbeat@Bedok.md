@@ -9,7 +9,7 @@ Heartbeat@Bedok is conceptualised as a town-level community avenue to meet the c
 
 It's mission statement is to help residents develop active, healthy, creative, learning and forward-looking lifestyles through resident and community-centric programming.
 
-<img style="height:200px;width:250px" align="left" src="/images/Our%20Network/HeartBeat%20Bedok/HBB2.jpg"><br><br><br><br>
+<img style="height:300px;width:400px" align="left" src="/images/Our%20Network/HeartBeat%20Bedok/HBB2.jpg"><br><br><br><br><br><br><br>
 
 #### Bringing sports and wellness integrated programmes to encourage active living
 
