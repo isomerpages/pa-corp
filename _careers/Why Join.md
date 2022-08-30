@@ -14,7 +14,7 @@ Mr Edwin Yap, Head (Community Arts - Bishan-Toa Payoh GRC) enjoys meeting people
 [Read More](/files/Careers/story-edwin-yap-chee-kian.pdf)
 
 #### Wendy Zeng<br>
-<img style="height:200px;width:250px"  align="left" src="/images/Careers/Wendy%20Zeng.jpg"><br><br><br><br><br>
+<img style="height:300px;width:250px"  align="left" src="/images/Careers/Wendy%20Zeng.jpg"><br><br><br><br><br><br><br><br>
 
 Deputy Constituency Director, Kebun Baru Constituency Office @ Kebun Baru CC, Wendy Zeng, is passionate about improving the quality of life of the elderly. 
 
