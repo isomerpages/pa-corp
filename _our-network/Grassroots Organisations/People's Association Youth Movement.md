@@ -39,7 +39,7 @@ The Youth Chapters bring like-minded youths together through interest groups, br
 
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth4_compressed.jpg"><br><br><br><br><br><br><br><br><br><br>
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth5_compressed.jpg"><br><br><br><br><br><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth5_compressed.jpg"><br><br><br><br><br><br><br><br>
 
 The **Community Leadership Programme (CLP)** is developed to expose students to grassroots work and a diverse range of volunteer activities.
 
