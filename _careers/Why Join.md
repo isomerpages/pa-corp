@@ -1,10 +1,10 @@
 ---
 title: Why Join
-permalink: /careers/Why-Join
+permalink: /careers/Why-Join/
 description: ""
 ---
 #### Tan Jun Yi <br>
-  <img style="height:200px;width:250px"  align="left" src="/images/Careers/Tan%20Jun%20Yi.jpg"><br><br><br><br><br><br>
+  <img style="height:300px;width:250px"  align="left" src="/images/Careers/Tan%20Jun%20Yi.jpg"><br><br><br><br><br><br><br><br><br>
 Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her a unique working experience to be a catalyst to bring people of all walks of life together to foster friendship and bonding through sports.<br>
 [Read More](/files/Careers/story-tan-jun-yi.pdf)
 
