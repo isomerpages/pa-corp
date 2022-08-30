@@ -82,7 +82,7 @@ Since 2008, youths have come forward to take charge in creating their own specia
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth15_compressed.jpg"><br><br><br><br><br><br><br><br><br>
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth16_compressed.jpg"><br><br><br><br><br><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth16_compressed.jpg"><br><br><br><br><br><br><br><br>
 
 The “PAYM Loves Red” supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their love toward the nation in creative and unique ways to celebrate our multicultural social fabric!
 
