@@ -1,6 +1,6 @@
 ---
 title: Community Dialogue
-permalink: /our-programmes/Community-Dialogue
+permalink: /our-programmes/Community-Dialogue/
 description: ""
 ---
 The PA and its grassroots organisations regularly organise forums and seminars that give residents the opportunity to find out more about government policies and initiatives, to have their concerns addressed and to offer feedback to help refine policies and initiatives.   
@@ -12,4 +12,4 @@ Citizens’ Consultative Committees (CCC) organise community forums to give resi
 ### District Meetings
 Each Community Development Council (CDC) organises a District Meeting every year to update stakeholders on their programmes and to engage them on upcoming plans.
 
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/District%20Meetings.png">
+![](/images/Our%20Programmes/commdialogue-districtmtg.jpg)
