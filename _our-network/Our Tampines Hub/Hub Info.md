@@ -62,7 +62,7 @@ OTH is proud to support Smart Nation initiatives in an effort to serve communiti
 
 Taking advantage of innovation and productivity, hub visitors can now enjoy greater convenience and better accessibility.
 
-<img style="height:100px;width:250px"  align="left" src="/images/Our%20Network/OTH/Images%202022.png"><br><br>
+<img style="height:100px;width:400px"  align="left" src="/images/Our%20Network/OTH/Images%202022.png"><br><br>
 
 ### Tampines Kindness Movement
 
@@ -70,7 +70,7 @@ The Tampines Kindness Movement (TKM) is a**n offshoot of the Singapore Kindness 
 
 The objective is to engender in all visitors a sense of responsibility toward building this culture because everyone plays a part in contributing toward the creation of a **kinder and more gracious culture toward each other and the environment.**
 
-<img style="height:200px;width:250px" align="left" src="/images/Our%20Network/OTH/tkm_beely.jpg">
-<img style="height:200px;width:250px" align ="left" src="/images/Our%20Network/OTH/Tampinies-Kindness-Movenent.jpg">
+<img style="height:300px;width:400px" align="left" src="/images/Our%20Network/OTH/tkm_beely.jpg">
+<img style="height:300px;width:400px" align ="left" src="/images/Our%20Network/OTH/Tampinies-Kindness-Movenent.jpg">
 
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/OTH/Logos.png">
+<img style="height:300px;width:500px"  align="left" src="/images/Our%20Network/OTH/Logos.png">
