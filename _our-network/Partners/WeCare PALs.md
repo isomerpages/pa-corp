@@ -1,10 +1,10 @@
 ---
 title: WeCare PALs
-permalink: /our-network/Partners/WeCare-PALs
+permalink: /our-network/Partners/WeCare-PALs/
 description: ""
 third_nav_title: Partners
 ---
-![](/images/Our%20Network/Partners/Facebook%20Banner%20(Final)%2027%20April.jpg)
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Partners/Facebook%20Banner%20(Final)%2027%20April.jpg"><br><br><br><br><br><br><br><br><br>
 WeCare PALs are corporate and community partners of PA, working hand in hand with the PA and its grassroots networks, with the aim to create a caring society in Singapore. Through the avenue of any cause-driven programme, PA hopes to enable WeCare PALs to jointly play a meaningful role in helping the underprivileged, disadvantaged and/or the special needs citizens and deepening the connection with the community.
 
 ### How can you partner with us?
