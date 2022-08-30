@@ -42,7 +42,7 @@ The Youth Chapters bring like-minded youths together through interest groups, br
 <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth4_compressed.jpg"><br><br><br><br><br><br>
 <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth5_compressed.jpg"><br><br><br><br><br>
 
-The Community Leadership Programme (CLP) is developed to expose students to grassroots work and a diverse range of volunteer activities.
+The **Community Leadership Programme (CLP)** is developed to expose students to grassroots work and a diverse range of volunteer activities.
 
 Students will be attached to the Youth Executive Committees (YECs) and mentored by experienced YEC leaders. Students will be challenged to step out of their comfort zones through a journey of experiential learning, community projects, leadership workshops, house-to-house visits, dialogue sessions and participation in national campaigns – PAYM Loves Red and YOUths Care @ PAYM.
 
