@@ -42,7 +42,7 @@ For more information, visit the [CDC website.](https://www.cdc.gov.sg/)
 
 #### Law Awareness Weeks@CDC (LAW@CDC)
 
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/LAWCDC.png"><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/LAWCDC.png"><br><br><br><br><br><br><br><br>
 
 LAW@CDC was started to educate residents through legal talks conducted across the five districts on basic legal knowledge. These talks are held at Community Centres/Clubs (CCs) and Residents' Committee (RC) Centres. The talks are tailored for those who are not legally trained by breaking down legal jargons so that they are easy to understand. 
 
