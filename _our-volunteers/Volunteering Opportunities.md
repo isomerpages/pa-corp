@@ -1,6 +1,6 @@
 ---
 title: Volunteering Opportunities
-permalink: /our-volunteers/Volunteering-Opportunities
+permalink: /our-volunteers/Volunteering-Opportunities/
 description: ""
 ---
 Whether you are 15 or 50, you can play a part in giving back to the community.
@@ -20,12 +20,12 @@ Find out more about our Grassroots Organisations [here](/our-network/Grassroots-
 
 * Reach out and assisting the Needy
 * Bond the People<br>
-        1.  &nbsp;  Promote family bonding and values<br>
-        2.  &nbsp;  Promote multi-racial understanding
+                  * Promote family bonding and values<br>
+                  * Promote multi-racial understanding
 * Connect the Community<br>
-                  1.  &nbsp;Organise activities to     promote community interaction.<br>
-                 2.  &nbsp; Improve community safety and security<br>
-                3.  &nbsp; Help explain government initiatives<br>
+                   * Organise activities to     promote community interaction.<br>
+                   *  Improve community safety and security<br>
+                   * Help explain government initiatives<br>
 								
 								
 Find out more about our Community Development Councils [here](/our-network/Community-Development-Councils/Community-Development-Councils).
