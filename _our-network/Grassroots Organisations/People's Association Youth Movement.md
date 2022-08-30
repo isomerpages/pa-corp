@@ -21,7 +21,7 @@ The Youth Networks under the umbrella of PAYM build social capital amongst youth
 ##### Engage Youth Since Young 
 **PAYM Service-Learning Champions**
 
-<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br><br><br><br><br>
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth2_compressed.jpg"><br><br><br><br><br><br><br><br><br><br><br>
 
 
