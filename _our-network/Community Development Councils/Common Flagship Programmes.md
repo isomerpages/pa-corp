@@ -1,6 +1,6 @@
 ---
 title: Common Flagship Programmes
-permalink: /our-network/Community-Development-Councils/Common-Flagship-Programmes
+permalink: /our-network/Community-Development-Councils/Common-Flagship-Programmes/
 description: ""
 third_nav_title: Community Development Councils
 ---
@@ -10,7 +10,7 @@ Below are examples of such collaboration.
 
 #### CDC Vouchers Scheme 2022
 
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/CDCVS.png"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/CDCVS.png"><br><br><br><br><br><br><br><br>
 
 
 Finance Minister Mr Lawrence Wong announced at Budget 2022 that the Community Development Councils (CDCs) will be giving three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.
