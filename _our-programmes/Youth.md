@@ -3,7 +3,6 @@ title: Youth
 permalink: /our-programmes/Youth/
 description: ""
 ---
-
 PA recognises the importance of getting a good start in life, and we have the tools and channels to help you express yourself in your community. We know you have something to say, ideas to contribute and activities you want to participate in. So whether you are looking to quench your thirst for adventure, develop your potential in sports, or fulfil your quest for knowledge, PA has a wide-range of youth programmes and activities for you.
 
 * <a href="#Paym_Ser_LC">PAYM Service-Learning Champions</a>
@@ -70,7 +69,7 @@ The PAYM engages both schooling and working youths and heightens their sense of 
 <a id="Paym_Loves_Red"></a>
 ##### PAYM Loves Red
 
-<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/PAYM%20Loves%20Red.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px" align="left" src="/images/Programmes/Youth/PAYM%20Loves%20Red.jpg"><br><br><br><br><br>
 
 The “PAYM Loves Red” campaign supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August to celebrate Singapore's multicultural social fabric. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their appreciation toward the nation in creative and unique ways.
 
