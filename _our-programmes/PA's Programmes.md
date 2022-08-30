@@ -5,7 +5,7 @@ description: ""
 ---
 | <img style="height:200px;width:250px" align="left" src="/images/Programmes/main-activeageing_edited.jpg"> | <img style="height:200px;width:250px" align="center" src="/images/Programmes/main-communityarts_edited.jpg">| <img style="height:200px;width:250px" align="right" src="/images/Programmes/main-communitydialogue_edited.jpg"> |
 | -------- | -------- | -------- |
-| [Active Ageing](/our-programmes/Active-Ageing)<br>Learn about the different engagement programmes for seniors in their golden years.  <br> [Read More](/our-programmes/Active-Ageing)  | &emsp;&emsp;&emsp;[Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and brings <br>different communities together.<br>[Read More](/our-programmes/Community-Arts)| [Community Dialogue](/our-programmes/Community-Dialogue)<br>PA acts as a vital link between the Government and the community through community dialogues.<br>[Read More](/our-programmes/Community-Dialogue) |
+| [Active Ageing](/our-programmes/Active-Ageing)<br>Learn about the different engagement programmes for seniors in their golden years.  <br> [Read More](/our-programmes/Active-Ageing)  | [Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and brings <br>different communities together.<br>[Read More](/our-programmes/Community-Arts)| [Community Dialogue](/our-programmes/Community-Dialogue)<br>PA acts as a vital link between the Government and the community through community dialogues.<br>[Read More](/our-programmes/Community-Dialogue) |
 
 
 
