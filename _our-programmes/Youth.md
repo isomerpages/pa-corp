@@ -1,9 +1,15 @@
 ---
 title: Youth
-permalink: /our-programmes/Youth
+permalink: /our-programmes/Youth/
 description: ""
 ---
-PA recognises the importance of getting a good start in life, and we have the tools and channels to help you express yourself in your community. We know you have something to say, ideas to contribute and activities you want to participate in. So whether you are looking to quench your thirst for adventure, develop your potential in sports, or fulfil your quest for knowledge, PA has a wide-range of youth programmes and activities for you.
+### People's Association Youth Movement
+
+As a leading youth organisation, the People’s Association Youth Movement (PAYM) has been reaching out to youths in Singapore since its inception in 1971. It offers a wide spectrum of interesting and meaningful programmes and initiatives to excite, engage and and empower the youths in creating a vibrant youth community.The PAYM network currently consists of over 90 Youth Networks based at the CCs.
+
+### PAYM’s Youth Engagement Framework
+
+The Youth Networks under the umbrella of PAYM build social capital amongst youths, and through the youth by helping them to enrich the lives of others. The PAYM’s youth engagement framework includes programmes targeting youth profiles, interest-driven activities to meet the diverse interests of youths, opportunities for youths to do their part for the community, and highpoint engagement events to bring more youths together. A multi-prong approach is adopted for PAYM’s youth engagement framework.
 
 * <a href="#Paym_Ser_LC">PAYM Service-Learning Champions</a>
 * <a href="#Community_Leadership_Pgm">Community Leadership Programme</a>
