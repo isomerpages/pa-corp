@@ -62,9 +62,8 @@ Popular interest groups include beach volleyball, archery, cheerleading, yo-yo, 
 ##### Community Service Programmes
 
 <img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth7_compressed.jpg"><br><br><br><br><br><br>
-To build a civic-conscious youth community, the PAYM also provides platforms for youths to contribute to the wider community.
 
-Currently, our youths have implemented more than 100 sustainable community service programmes such as weekly reading classes for children from the lower-income families, environmental outreach drives, and weekly free meal distribution to the needy and less mobile elderly, and environmental outreach activities.
+To build a caring youth community, the PAYM also provides platforms for youths to  organise meaningful programmes and activities that reach out to less-privileged in the community via various cause-based initiatives.
 
 #### Forum and Dialogue Series
 The PAYM engages both schooling and working youths and heightens their sense of belonging in the community by consulting their views on current issues and national policies through the different series of forum and dialogue lined up every year.
