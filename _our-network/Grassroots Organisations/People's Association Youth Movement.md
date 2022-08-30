@@ -33,7 +33,7 @@ A strong emphasis on personal development and hands-on experiences greatly enhan
 
 **Youth Chapters**
 
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth3_compressed.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth3_compressed.jpg"><br><br><br><br><br><br><br><br><br>
 In addition to involving youths in the YECs, the Youth Chapters at the Residents’ Committees and Neighbourhood Committees is another key initiative to facilitate deeper local youth engagement as it will give young residents a chance to get to know each other and do meaningful activities together.
 
 The Youth Chapters bring like-minded youths together through interest groups, bring about an impact to the needy residents through community service programmes and organise activities for fellow youths and residents.
