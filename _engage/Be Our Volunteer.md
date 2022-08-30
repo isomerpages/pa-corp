@@ -5,7 +5,7 @@ description: ""
 ---
 #### Our Volunteers
 
-<img style="height:200px;width:250px"  align="left" src="/images/our-volunteers_compressed.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/our-volunteers_compressed.jpg"><br><br><br><br><br><br><br><br>
  
 People’s Association (PA) grassroots volunteers are like you and I – like-minded people who want to make a difference and contribute to the community by enriching the lives of fellow residents.
 
