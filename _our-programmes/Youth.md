@@ -69,7 +69,7 @@ The PAYM engages both schooling and working youths and heightens their sense of 
 <a id="Paym_Loves_Red"></a>
 ##### PAYM Loves Red
 
-<img style="height:300px;width:400px" align="left" src="/images/Programmes/Youth/PAYM%20Loves%20Red.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px" align="left" src="/images/Programmes/Youth/PAYM%20Loves%20Red.jpg"><br><br><br><br><br><br><br><br>
 
 The “PAYM Loves Red” campaign supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August to celebrate Singapore's multicultural social fabric. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their appreciation toward the nation in creative and unique ways.
 
