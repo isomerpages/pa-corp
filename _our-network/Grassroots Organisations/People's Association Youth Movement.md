@@ -90,7 +90,7 @@ The “PAYM Loves Red” supports and encourages all youths to organise meaningf
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth17_compressed.jpg"><br><br><br><br><br><br><br><br><br>
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth18_compressed.jpg"><br><br><br><br><br><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth18_compressed.jpg"><br><br><br><br><br><br><br><br>
 
 Community YOUthCare Festival, an island-wide community service initiative, was mooted in 2011 encourage more youths to come together to care for their community. Our youths have since implemented regular sustainable community service programmes such as weekly reading classes for children from the lower-income families, environmental outreach drives, and weekly free meal distribution to the seniors in need of support, and mental wellness initiatives.
 
