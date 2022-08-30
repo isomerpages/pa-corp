@@ -1,6 +1,6 @@
 ---
 title: Hub Info
-permalink: /our-network/Our-Tampines-Hub/Hub-Info
+permalink: /our-network/Our-Tampines-Hub/Hub-Info/
 description: ""
 third_nav_title: Our Tampines Hub
 ---
@@ -17,7 +17,7 @@ Commercial tenants are one of the channels through which the People’s Associat
 
 View the list of available spaces at OTH for lease here
 
-<img style="height:200px;width:250px" align="left" src="/images/Our%20Network/OTH/NYE%20Fireworks%20at%20Town%20Square.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px" align="left" src="/images/Our%20Network/OTH/NYE%20Fireworks%20at%20Town%20Square.jpg"><br><br><br><br><br><br><br><br>
 
 
 The development is guided by three principles: resident-centricity, optimisation of resources and infrastructure, as well as encouraging community ownership through resident engagement.
