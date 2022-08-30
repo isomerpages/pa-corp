@@ -12,7 +12,7 @@ imPAct@Hong Lim Green offers an array of flexible membership schemes for public 
 
 **Membership Rates**
 
-<img style="height:200px;width:350px"  align="left" src="/images/Our%20Programmes/Membership%20rates%20updated.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:4000px"  align="left" src="/images/Our%20Programmes/Membership%20rates%20updated.jpg"><br><br><br><br><br><br>
 *PAssion Card members enjoy exclusive discounts.M: PAssion Card Member. NM: Non-Member
 
 ^Resumption of Day Pass will be piloted in phases from March 2022 onwards, subject to SMM guidelines. imPAct@Hong Lim Green reserves the right to suspend the Day Pass at any time.
