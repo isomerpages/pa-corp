@@ -7,7 +7,7 @@ The programmes organised by the PA are open to everyone. They are common spaces 
 
 * Community Activities
 * Arts & Cultural Programmes
-* National Orange Ribbon Celebrations
+* HarmonyWorks! Conference
 
 ### Community Activities
 <img style="height:200px;width:250px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-communityactivities.jpg"><br><br><br><br><br>
