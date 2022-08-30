@@ -23,7 +23,7 @@ Learn how you can claim your CDC Vouchers 2022 at [vouchers.cdc.gov.sg.](https:/
 
 #### Kong Meng San – CDC COVID-19 Relief Fund 
 
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/KMS.png"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/KMS.png"><br><br><br><br><br><br><br><br>
 
 
 The five Community Development Councils (CDCs) and Kong Meng San Phor Kark See Monastery (KMSPKS) are pleased to announce the enhanced Kong Meng San-CDC COVID-19 Relief Fund.
