@@ -12,4 +12,4 @@ Citizens’ Consultative Committees (CCC) organise community forums to give resi
 ### District Meetings
 Each Community Development Council (CDC) organises a District Meeting every year to update stakeholders on their programmes and to engage them on upcoming plans.
 
-<img style="height:200px;width:156px"  align="left" src="/images/Our%20Programmes/commdialogue-districtmtg.jpg">
+<img style="height:156px;width:250px"  align="left" src="/images/Our%20Programmes/commdialogue-districtmtg.jpg">
