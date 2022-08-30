@@ -32,11 +32,11 @@ He is thankful that this job has given him many opportunities to meet and work w
 
 
 #### Fu Shuyi<br>
-<img style="height:200px;width:300px"  align="left" src="/images/Careers/Fu%20Shuyi.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:250px"  align="left" src="/images/Careers/Fu%20Shuyi.jpg"><br><br><br><br><br><br><br><br><br>
  Ms Fu Shuyi, Group Constituency Director (Jurong GRC and Yuhua SMC), enjoys working for a harmonious and united community. Read more on what drives her to achieve job satisfaction in the Straits Times story [here](/files/Careers/story-fu-shuyi.pdf)
 
 #### Grace Chan<br>
-<img style="height:200px;width:300px"  align="left" src="/images/Careers/Grace%20Chan.png"><br><br><br><br><br><br>
+<img style="height:300px;width:250px"  align="left" src="/images/Careers/Grace%20Chan.png"><br><br><br><br><br><br><br><br><br>
 Ms Grace Chan En Ying, Head (Grassroots Development & Planning), views her job as a bridge between the people and the Government. <br>
 
 [Read More](/files/Careers/story-grace-chan.pdf)
