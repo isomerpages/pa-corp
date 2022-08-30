@@ -54,7 +54,7 @@ OTH champions Eco-sustainability and no effort is spared in optimising resources
 
 Having achieved BCA’s Green Market (Platinum) certification, OTH boasts a closed loop system of environment solutions and features i.e. solar panels, water catchment, storage and filtration equipment, irrigation features, green walls, natural ventilation, Electric Car Park and charging stations, Ethylene Tetra Fluoro Ethylene roofs and a comprehensive food waste management system supported by an Eco-Digester Centre that converts food waste into 3 by-products, namely non-potable water, liquid plant nutrients and organic fertiliser that is used by the Hub and shared with the community.
 
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/OTH/Closed%20loop%20system%20of%20enviornmental%20solutions%20and%20features.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/OTH/Closed%20loop%20system%20of%20enviornmental%20solutions%20and%20features.jpg"><br><br><br><br><br><br><br><br>
 																					 
 ### Smart Nation Technology and Initiatives
 
