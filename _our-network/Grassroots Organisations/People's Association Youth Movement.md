@@ -51,7 +51,7 @@ Through CLP, the students will not only hone their leadership skills but also cu
 ##### Engage Youth through Interests/ Causes 
 **Interest Groups**
 
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth6_compressed.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth6_compressed.jpg"><br><br><br><br><br><br><br><br>
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
 
