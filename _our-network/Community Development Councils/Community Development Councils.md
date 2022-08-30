@@ -28,7 +28,7 @@ At the constituency level, each CDC works closely with the Grassroots Organisati
 | <a href="https://northeast.cdc.gov.sg"><img style="height:100px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/02.png"></a> |   A Caring & Cohesive Community   |      |
 | <a href="https://northwest.cdc.gov.sg"><img style="height:100px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/03.png">   </a>|A Caring and Healthy Community    |      |
 | <a href="https://southeast.cdc.gov.sg"><img style="height:100px;width:250px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/south-east-cdc-(1).jpg">  </a> | Your Social Broker   |      |
-| <a href="https://southwest.cdc.gov.sg"><img style="height:200px;width150px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/sw_cdc_logo_fa-1-(1).png"></a>   | Owning Your Community     |      |
+| <a href="https://southwest.cdc.gov.sg"><img style="height:100px;width150px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/sw_cdc_logo_fa-1-(1).png"></a>   | Owning Your Community     |      |
 
 
 
