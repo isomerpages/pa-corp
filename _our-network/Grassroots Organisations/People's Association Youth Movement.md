@@ -21,8 +21,8 @@ The Youth Networks under the umbrella of PAYM build social capital amongst youth
 ##### Engage Youth Since Young 
 **PAYM Service-Learning Champions**
 
-<img style="height:200px;width:250px"  align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br>
-<img style="height:200px;width:250px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth2_compressed.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth2_compressed.jpg"><br><br><br><br><br><br><br><br><br><br><br>
 
 
 The PAYM reaches out to youths in secondary schools via the Service-Learning Champion (SLC) Scheme, which aims to promote holistic development in youths by enabling them to achieve personal, character and academic development, and acquire values, life skills, a sense of civil responsibility and commitment through being involved in community service.
