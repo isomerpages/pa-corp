@@ -1,6 +1,6 @@
 ---
 title: About PA
-permalink: /about-us/About-PA
+permalink: /about-us/About-PA/
 description: ""
 ---
 ### About Us
@@ -40,7 +40,9 @@ Different communities, represented by the circles, keep their distinct identitie
 
 
 ### Our Flag
-<img style="height:200px;width:250px" align="left" src="/images/About%20Us/pa-flag.jpg"><br><br><br><br><br><br>
+<img style="height:200px;width:250px" align="left" src="/images/About%20Us/PA%20Flag.png">
+<br><br><br><br><br><br><br>
+
 At the heart of the PA flag is the PA logo. The borders curling upward signify a forward-looking organisation, progressing towards greater heights.
 
 
