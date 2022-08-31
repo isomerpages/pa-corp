@@ -1,10 +1,9 @@
 ---
 title: Women's Programmes
-permalink: /our-programmes/womens-programmes
+permalink: /our-programmes/womens-programmes/
 description: ""
 ---
-
-<img style="height:200px;width:250px" align="left" src="/images/Our%20Programmes/Women's%20Programmes%20New%20Banner%20Photo.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px" align="left" src="/images/Our%20Programmes/Women's%20Programmes%20New%20Banner%20Photo.jpg"><br><br><br><br><br><br><br><br>
 
 The PA, through its network of Women’s Executive Committees, encourages women to lead active lives and contribute to the community.
 
