@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /newsroom/Publications
+permalink: /newsroom/Publications/
 description: ""
 ---
 * <a href="#Ask_Kopi_Kakis">Ask Kopi Kakis (AKK) Booklets</a>
@@ -22,7 +22,7 @@ Visit your nearest CC to get a copy, or click [here](/engage/Connect-With-Govern
 
 To help our seniors be Smart Nation ready, MCI and PA have launched the “Tech Connect” initiative in eight CCs to provide one-on-one tech assistance to our residents who need help with digital devices and services.  PA’s Tech Connect Kakis will also share with you mobile apps and websites that can make your daily living easier. Click on the links below to download a copy of the brochure.
 
-<img style="height:200px;width:300px"  align="left" src="/images/NewsRoom/Publications/Cover1.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/NewsRoom/Publications/Cover1.jpg"><br><br><br><br><br><br><br>
 
 <a id="Citizen_Con_Comm"></a>
 ##### Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015
