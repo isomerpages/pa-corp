@@ -26,7 +26,7 @@ To help our seniors be Smart Nation ready, MCI and PA have launched the “Tech 
 
 <a id="Citizen_Con_Comm"></a>
 ##### Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015
-<img style="height:300px;width:400px"  align="left" src="/images/NewsRoom/Publications/Cover2.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/NewsRoom/Publications/Cover2.jpg"><br><br><br><br><br><br><br><br><br>
 Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015” chronicles the Citizens’ Consultative Committee (CCC)’s development over the last 50 years and how they are the backbone, stitching together the social fabric of Singapore. The CCCs have achieved much during the last 50 years but more commendable is the way the CCCs continue to stay in touch with Singaporeans’ aspirations during decades of rapid nationbuilding. This book showcases their good work and pays tribute to the grassroots leaders and volunteers as we celebrate 50 years of nationhood.
 
 To read the book, click [here](https://en.calameo.com/read/0045413478a6be90340a5)
