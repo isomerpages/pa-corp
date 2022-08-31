@@ -76,7 +76,7 @@ The “PAYM Loves Red” campaign supports and encourages all youths to organise
 <a id="Community_Youthcare_festival"></a>
 #### Community YOUthCare Festival 
 <img style="height:300px;width:400px" align="left" src="/images/Programmes/Youth/CYF.jpg">
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 Community YOUthCare Festival is an annual island-wide community service campaign, mooted in 2011 to encourage more youths to come together to care for the less privileged in our community.
 
