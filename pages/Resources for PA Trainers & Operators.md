@@ -39,5 +39,6 @@ Other useful references:
 
 1. [Professional Standards and Guidelines for PA Trainers (Effective 1 January 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(01)%20Professional%20Standards%20and%20Guidelines%20for%20PA%20Trainers%20(Effective%201%20Jan%202023).pdf)
 2. [Annex 2 - Classes for Children](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(02)%20Annex%202%20-%20Classes%20for%20Children.pdf)
+3. [Annex 2(a) - Guidelines for Organising Online and Blended Courses](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(03)%20Annex%202(a)%20-%20Guidelines%20for%20Online%20Courses.pdf)
 
 [Infographics of PSG (As of 1 January 2023)]
