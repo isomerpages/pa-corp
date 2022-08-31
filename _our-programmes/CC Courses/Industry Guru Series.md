@@ -1,6 +1,6 @@
 ---
 title: Industry Guru Series
-permalink: /our-programmes/CC-Courses/Industry-Guru-Series
+permalink: /our-programmes/CC-Courses/Industry-Guru-Series/
 description: ""
 third_nav_title: CC Courses
 ---
@@ -8,7 +8,7 @@ The People’s Association Industry Guru Series is a customised professional net
 
 The Industry Guru has just lined up a brand new series of Deep Dive Learning courses to get you ready for the future. Check out what is available at your nearby community centres/clubs (CCs) and keep in touch with the latest growing and emerging trends!
 
-<img style="height:200px;width:250px" align="left" src="/images/Programmes/CC%20Courses/IGuru%20webpage%20group%20photo.png"><br><br><br><br><br>
+<img style="height:300px;width:400px" align="left" src="/images/Programmes/CC%20Courses/IGuru%20webpage%20group%20photo.png"><br><br><br><br><br>
 #### About Deep Dive Courses
 
 Dive straight into the wide range of specially curated Deep Dive Learning courses.  Gain first-hand information and tips from our esteemed PA Trainers and valued partners such as the Singapore Fintech Association, Deloitte Singapore, and Microsoft through a series of exciting and thought provoking courses under the tracks of ‘Business Leadership and Management’ as well as ‘Digital Innovation’, PMEs can realise their aspirations to upskill and enhance their work competencies.
