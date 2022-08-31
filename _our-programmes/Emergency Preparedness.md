@@ -12,7 +12,7 @@ Through PA and its Grassroots'  EP Programmes, residents will not only acquire E
 Take part in EP programme organised by our Grassroots Organisations to prepare us to respond and render help promptly during emergencies. This can be achieved through joining our Community Emergency Response Team (CERT), participate in EP Days, learn useful skills such as Cardio-Pulmonary Resuscitation (CPR) + Automated External Defibrillator (AED) and other EP-related courses jointly organised with the home team agencies.
 
 ### Community Life-saving Programme
-<img style="height:200px;width:250px"  align="left" src="/images/Programmes/Emergency%20Preparedness/ep-firstresponder.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Emergency%20Preparedness/ep-firstresponder.jpg"><br><br><br><br><br><br><br><br>
 
 
 The Community Life-saving Programme is a collaboration between PA and MHA which aims to enhance the community's level of preparedness and responsiveness in emergencies. Fully subsidised courses available for residents are:
