@@ -52,7 +52,7 @@ Popular interest groups include beach volleyball, archery, cheerleading, yo-yo, 
 
 <a id="Community_Service_Programmes"></a>
 ##### Community Service Programmes
-<img style="height:200px;width:250px" align="left" src="/images/Programmes/Youth/Comm%20Service.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px" align="left" src="/images/Programmes/Youth/Comm%20Service.jpg"><br><br><br><br><br><br><br><br><br>
 
 To build a civic-conscious youth community, the PAYM also provides platforms for youths to contribute to the wider community.
 
