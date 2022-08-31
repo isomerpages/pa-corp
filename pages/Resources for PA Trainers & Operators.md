@@ -1,6 +1,6 @@
 ---
 title: Resources for PA Trainers & Operators
-permalink: /our-programmes/CC-Courses/pa-trainers-and-operators-resources
+permalink: /our-programmes/CC-Courses/pa-trainers-and-operators-resources/
 description: ""
 ---
 **Resources for PA Trainers and PA Operators**
@@ -37,6 +37,6 @@ Other useful references:
 
 **Please download the resources via the links be below:**
 
-[PSG (As of 1 January 2023)]
+1. [Professional Standards and Guidelines for PA Trainers (Effective 1 January 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(01)%20Professional%20Standards%20and%20Guidelines%20for%20PA%20Trainers%20(Effective%201%20Jan%202023).pdf)
 
 [Infographics of PSG (As of 1 January 2023)]
