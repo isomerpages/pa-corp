@@ -1,6 +1,6 @@
 ---
 title: PA SHIOK Series
-permalink: /our-programmes/CC-Courses/PA-SHIOK-Series
+permalink: /our-programmes/CC-Courses/PA-SHIOK-Series/
 description: ""
 third_nav_title: CC Courses
 ---
@@ -8,13 +8,13 @@ Led by the People’s Association (PA) Malay Activity Executive Committees Counc
 
 The Series offers a diverse choice of courses and programmes, from health and wellness, to career, and interest-based courses, ensuring there is something for everyone.  
 
-<img style="height:200px;width:250px" align="left" src="/images/Programmes/CC%20Courses/SHIOK%20Series%20web%20banner%20png.png"><br><br><br><br><br>
+<img style="height:300px;width:400px" align="left" src="/images/Programmes/CC%20Courses/SHIOK%20Series%20web%20banner%20png.png"><br><br><br><br><br>
 ### 'SHIOK 555 Campaign'
 The ‘SHIOK 555 Campaign’ allows residents to take part in five selected courses held at five different locations for just $5 per class, which will be happening across different CCs at various points throughout the year. 
 
 From October to December 2021, the ‘SHIOK 555 Campaign’ will be available at Sembawang GRC, featuring the following courses:
 
-<img style="height:200px;width:250px" align="left" src="/images/Programmes/CC%20Courses/SHIOK%20555%20campaign%20May%20to%20July%202022.png"><br><br><br><br><br><br>
+<img style="height:300px;width:400px" align="left" src="/images/Programmes/CC%20Courses/SHIOK%20555%20campaign%20May%20to%20July%202022.png"><br><br><br><br><br><br>
 Terms & Conditions apply:
 
 * For Singaporeans and PRs only.
