@@ -1,12 +1,12 @@
 ---
 title: Community Integration
-permalink: /our-programmes/community-integration
+permalink: /our-programmes/community-integration/
 description: ""
 ---
 PA through its Grassroots Organisations (GROs) and Integration and Naturalisation Champions (INCs), help new citizens and Permanent Residents (PRs) settle in the community, providing platforms for them to interact with and bond with the local residents. Through their participation in various integration-centric programmes and GRO programmes/activities, the new immigrants can make friends and develop mutual understanding with their neighbours and other residents in the community. 
 
 ### New Initiative: ‘Your Neighbourly Welcome Guide’
-<img style="height:200px;width:250px"  align="left" src="/images/Programmes/Community%20Integration/CI1.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Community%20Integration/CI1.jpg"><br><br><br><br><br><br>
 An initiative of the People’s Association, “Your Neighbourly Welcome Guide” contains colourful anecdotes and well-kept secrets from residents and volunteers. These unique stories of places, activities and experiences are happening right in your neighbourhood.
 
 Discover the gems of your neighbourhood with the guidebook!
@@ -25,7 +25,7 @@ Discover the gems of your neighbourhood with the guidebook!
 * [Sengkang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sengkang%20(1).pdf)
 
 ### Integration and Naturalisation Champions
-<img style="height:200px;width:250px"  align="left" src="/images/Programmes/Community%20Integration/CI2.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Community%20Integration/CI2.jpg"><br><br><br><br><br><br>
 Integration and Naturalisation Champions (INCs) initiate and spearhead integration and naturalisation programmes in the local community. INCs actively reach out to new citizens/PRs by conducting house visits to welcome and invite them to join grassroots activities to expand their social network. INCs also organise various grassroots activities such as welcome tea parties and festive celebrations to engage new citizens/PRs.
 
 
