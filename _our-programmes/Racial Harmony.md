@@ -10,7 +10,7 @@ The programmes organised by the PA are open to everyone. They are common spaces 
 * HarmonyWorks! Conference
 
 ### Community Activities
-<img style="height:200px;width:250px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-communityactivities.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-communityactivities.jpg"><br><br><br><br><br><br><br><br>
 
 
 Many local-level racial harmony programmes are organised by the grassroots organisations to raise the level of understanding amongst neighbours of different races. In recent years, more focus has been given to programmes that encourage community participation to deepen inter-racial understanding among residents. Some of the efforts include bringing residents from various races and ethnic groups together to develop and organise racial harmony programmes.
@@ -18,7 +18,7 @@ Many local-level racial harmony programmes are organised by the grassroots organ
  
 
 ### Arts & Cultural Programmes
-<img style="height:200px;width:250px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-artscultureprog.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-artscultureprog.jpg"><br><br><br><br><br><br><br><br>
 
 
 The PA organises many programmes to showcase and celebrate Singapore’s rich multi-cultural heritage. Here are some of them.
