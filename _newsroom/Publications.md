@@ -34,5 +34,5 @@ To read the book, click [here](https://en.calameo.com/read/0045413478a6be90340a5
 <a id="NC_Quart_News"></a>
 #### NC Quarterly E-Newsletter 
 
-<img style="height:200px;width:300px"  align="left" src="/images/NewsRoom/Publications/Cover3.jpg"><br><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/NewsRoom/Publications/Cover3.jpg"><br><br><br><br><br><br><br><br><br>
 The NC Engage is a quarterly e-newsletter for the private estate residents by the Neighbourhood Committee Coordinating Council. The newsletter will cover a range of topics including success stories and interesting activities organised by the Neighbourhood Committees, as well as upcoming courses or programmes which can be conducted within the condominium clubhouses or public parks. Read the latest e-Newsletter [here](//). (3.80MB, JPG)
