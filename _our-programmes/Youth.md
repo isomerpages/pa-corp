@@ -15,7 +15,6 @@ PA recognises the importance of getting a good start in life, and we have the to
 * <a href="#Community_Youthcare_festival">Community YOUthCare Festival</a>
 
 ##### People's Association Youth Movement Programmes
-----------------------------------------------
 
 As a leading youth organisation, the People's Association Youth Movement (PAYM) was set up in 1971 as a core youth movement in Singapore to engage youth in meaningful pursuits and support the Government in nation building. Through our strategy of ‘Youth for Youth, Youth for Community’, PAYM provides diverse and holistic activities for our youths to develop into active citizens.
 
