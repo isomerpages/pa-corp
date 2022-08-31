@@ -32,7 +32,7 @@ Improve your skills and develop yourself through the wide array of ‘Lifelong L
 success.
 
 
-<img style="height:200px;width:250px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Lifestyle%20Leisure.jpg"><br><br><br><br><br>
+<img style="height:300px;width:400px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Lifestyle%20Leisure.jpg"><br><br><br><br><br>
 
 Explore your interests with our variety of ‘Lifestyle and Leisure’ courses. Embrace the Arts, craft your own leather cardholder, cook up a storm with our celebrity chefs and Trainers or unleash your creativity and find the star in you. Do these and more with our wide array of ‘Lifestyle and Leisure’ courses.
 
