@@ -32,5 +32,5 @@ The Geylang Serai Heritage Gallery showcases the history of the precinct and tra
 
 The Geylang Serai Heritage Gallery is a community gallery that is developed and managed by National Heritage Board in partnership with People’s Association and Malay Heritage Foundation.
 
-Kebun Kami  
-The rooftop garden allows visitors to hold their social events outdoors. Overlooking the scenic view of the Geylang Serai Precinct, the lush rooftop garden is an ideal place for fun activities with family and friends at level 4.
+#### Kebun Kami  
+ The rooftop garden allows visitors to hold their social events outdoors. Overlooking the scenic view of the Geylang Serai Precinct, the lush rooftop garden is an ideal place for fun activities with family and friends at level 4.
