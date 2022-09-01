@@ -105,7 +105,7 @@ Here’s a list of our Corporate Members, by different categories:
 
 * [Malay Youth Literary Association](https://www.instagram.com/tamanbacaansg/?hl=en)
 * [Metropolitan Young Men's Christian Association of Singapore](https://www.mymca.org.sg/)
-* Singapore Malay Youth Library Association
+* [Singapore Malay Youth Library Association](https://www.instagram.com/tamanbacaansg/?hl=en)
 * [Young Men's Christian Association of Singapore](https://www.ymca.org.sg/)
 * [Young Women Muslim Association](https://ppis.sg/)
 * [Young Women's Christian Association of Singapore](https://ywca.org.sg/)
