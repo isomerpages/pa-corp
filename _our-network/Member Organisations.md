@@ -1,6 +1,6 @@
 ---
 title: Member Organisations
-permalink: /our-network/Member-Organisations
+permalink: /our-network/Member-Organisations/
 description: ""
 ---
 The People’s Association (PA) has 85 Corporate Members that represent various sectors of Singapore society, including academic guilds, cultural and educational organisations, hobby clubs, self-help groups, service organisations, sports and martial arts associations, students’ unions, uniformed organisations, unions, youth organisations and professional bodies.
@@ -72,7 +72,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Tennis Association](http://www.singtennis.org.sg/)
 * [Singapore Weiqi Association](http://weiqi.org.sg/)
 * [Singapore Wushu Dragon & Lion Dance Federation](http://www.wuzong.com/en/)
-* [Singapore Xiangqi General Association](http://www.xiangqi.sg7)
+* [Singapore Xiangqi General Association](http://www.xiangqi.sg)
 * [Sports Boules Singapore](https://www.sportsboules.org.sg/)
 * [Volleyball Association of Singapore](https://www.vas.org.sg/)
 
