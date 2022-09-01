@@ -26,7 +26,7 @@ Located next to the **South East CDC** and **PPIS (Family Service Centre),** it 
 
 The National Arts Council (NAC) champions the arts in Singapore. By nurturing creative excellence and supporting broad audience engagement, our diverse and distinctive arts inspire the people, connect communities and profile Singapore internationally. They preserve our rich, cultural traditions as they cultivate accomplished artists and vibrant companies for the future. The National Arts Council’s island-wide network of Arts & Culture Nodes is developed for people to come together to participate in, enjoy, and experience the value of the arts in their neighbourhood.  As an Arts & Culture Node, Wisma Geylang Serai aims to be the epicentre for the Nusantara Malay arts and culture. The Arts House Studios currently housed Kamal Arts Ltd, Singapore Malay Orchestra and Sri Warisan Performing Arts Ltd at Level 4. For cultural immersion programmes, pls contact them directly admin@kamaldollah.com and [www.sriwarisan.com](http://www.sriwarisan.com)
 
-Geylang Serai Heritage Gallery
+#### Geylang Serai Heritage Gallery
 
 The Geylang Serai Heritage Gallery showcases the history of the precinct and traces its growth from an outlying settler community in the 19th century to the suburban residential and business precinct it is today. It also features the experiences and memories of past and present residents as well as others who have connections to Geylang Serai, interweaving these stories with thematic displays of images and objects. The Gallery organises a variety of programmes form regular gallery tours to craft and cultural workshops.
 
