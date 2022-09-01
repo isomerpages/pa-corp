@@ -55,5 +55,3 @@ Email: [PA\_FUCHUNCC@pa.gov.sg](mailto:PA_FUCHUNCC@pa.gov.sg)
 
 #### Map
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.2871778412693!2d103.7740603078604!3d1.430791581113985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da124d4d32dc8b%3A0xf8dccaf25fa8bb7e!2sFuchun%20Community%20Club!5e0!3m2!1sen!2ssg!4v1662012983210!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
-
-
