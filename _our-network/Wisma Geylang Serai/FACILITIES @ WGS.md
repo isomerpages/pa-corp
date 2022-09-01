@@ -6,7 +6,7 @@ third_nav_title: Wisma Geylang Serai
 ---
 #### Geylang Serai Community Club
  
-The Community Club houses a variety of community-based facilities – such as Function Room, Dance Studios, Activity Rooms, Karaoke Rooms – that are available for public booking. There are also Music Rooms and a Culinary Studio which are open for courses organised by the CC only. For enquiries and booking, pls email to pa\_geylangseraicc@pa.gov.sg.
+The Community Club houses a variety of community-based facilities – such as Function Room, Dance Studios, Activity Rooms, Karaoke Rooms – that are available for public booking. There are also Music Rooms and a Culinary Studio which are open for courses organised by the CC only. For enquiries and booking, pls email to pa_geylangseraicc@pa.gov.sg.
 
 #### Community Spaces
 
@@ -21,4 +21,3 @@ The 1,704-square metre multi-sheltered hardcourt, Anjung@WGS, that can house spo
 
 **Project Studios and Function Rooms (Level 4)**
 The project studios and functions rooms are fully air conditioned with a seating capacity of up to 154 retractable seats and can accommodate up to 400 people for arts performances, dramas and skits. For booking, pls email to Wisma_geylang_serai@pa.gov.sg.
-
