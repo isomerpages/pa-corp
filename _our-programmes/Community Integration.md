@@ -43,5 +43,5 @@ Promoting greater awareness on integration through publicity and social media.
 * INC Activities
 * Integration of New Immigrants through Interest Groups
 * Community Learning Journey
-* Singapore Experiential Tour and Community Sharing Session (part of the Singapore Citizenship Journey for new citizens)
+* Singapore Experiential Visit and Community Sharing Session (part of the Singapore Citizenship Journey for new citizens)
 * Citizenship Ceremony
