@@ -49,6 +49,4 @@ Email: [PA\_CHONGPANGCC@pa.gov.sg](mailto:PA_CHONGPANGCC@pa.gov.sg)
 [I want to book a facility](https://www.onepa.gov.sg/)
 
 #### Map
-
-
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5696008958084!2d103.82773441399743!3d1.4335235617020623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da154c3665a49d%3A0xd8e1e7029dd8674c!2sChong%20Pang%20Community%20Club%20(Temporary%20Site)!5e0!3m2!1sen!2ssg!4v1662010051831!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
