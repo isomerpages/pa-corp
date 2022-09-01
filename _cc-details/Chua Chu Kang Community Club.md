@@ -50,3 +50,4 @@ Email: [PA\_CHUACHUKANGCC@pa.gov.sg](mailto:PA_CHUACHUKANGCC@pa.gov.sg)
 [I want to book a facility](https://www.onepa.gov.sg/)
 
 #### Map
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.659199501228!2d103.74779412695312!3d1.3811344000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11c07edc8925%3A0x18f020633c164d54!2sChua%20Chu%20Kang%20Community%20Club!5e0!3m2!1sen!2ssg!4v1662010289739!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen ="" loading="lazy"></iframe>
