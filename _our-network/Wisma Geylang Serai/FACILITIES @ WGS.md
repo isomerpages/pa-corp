@@ -22,4 +22,4 @@ The 1,704-square metre multi-sheltered hardcourt, Anjung@WGS, that can house spo
 
 
 **Project Studios and Function Rooms (Level 4)**
-The project studios and functions rooms are fully air conditioned with a seating capacity of up to 154 retractable seats and can accommodate up to 400 people for arts performances, dramas and skits. For booking, pls email to Wisma_geylang_serai@pa.gov.sg.
+The project studios and functions rooms are fully air conditioned with a seating capacity of up to 154 retractable seats and can accommodate up to 400 people for arts performances, dramas and skits. For booking, pls email to [Wisma\_geylang\_serai@pa.gov.sg](mailto:Wisma_geylang_serai@pa.gov.sg).
