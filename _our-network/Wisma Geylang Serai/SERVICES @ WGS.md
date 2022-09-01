@@ -4,7 +4,6 @@ permalink: /our-network/Wisma-Geylang-Serai/SERVICES-WGS/
 description: ""
 third_nav_title: Wisma Geylang Serai
 ---
-
 #### KURNIA @WGS and M3@WGS
 
 To enhance existing cooperation between Malay/ Muslim Organisations through regular engagements, KURNIA@WGS has merged office with M3@WGS, situated at level 3.
