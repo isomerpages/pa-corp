@@ -16,9 +16,9 @@ WGS holds the annual Hari-Raya Light-up (along Geylang Road and Sims Avenue) and
 
 Get in touch with us on our social media pages.<br>
 
-Facebook- [Wisma Geylang Serai](https://www.facebook.com/WismaGeylangSerai)<br>
+[Facebook](https://www.facebook.com/WismaGeylangSerai)<br>
 
-Instagram- Wisma Geylang Serai<br>
+[Instagram](https://www.instagram.com/wgeylangserai/)<br>
 
 Youtube Channel- Wisma Geylang Serai<br>
 
