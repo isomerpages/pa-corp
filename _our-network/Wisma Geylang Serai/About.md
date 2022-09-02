@@ -20,6 +20,6 @@ Get in touch with us on our social media pages.<br>
 
 [Instagram](https://www.instagram.com/wgeylangserai/)<br>
 
-Youtube Channel- Wisma Geylang Serai<br>
+[Youtube](https://www.youtube.com/c/WismaGeylangSerai_WGS)<br>
 
-TikTok- Wisma Geylang Serai<br>
+[TikTok](https://www.tiktok.com/@wismageylangserai)
