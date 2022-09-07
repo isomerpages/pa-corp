@@ -14,10 +14,7 @@ In 2007, along with the ‘Remaking Our Heartland’ (ROH) initiative, the idea 
 <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/HeartbeatBedok_9.jpg">
 <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/HeartbeatBedok_10.jpg">
 
-
-
-
-   
+ 
 #### Our Green and Sustainability Approach
 
 Heartbeat@Bedok has achieved many distinguished awards, namely, 
@@ -31,9 +28,6 @@ World Architecture Festival Awards 2018: Finalist in the Civic and community - C
 Landscape Industry Association Singapore Awards: Implementation – Non Residential Best of Category, 2019
 * Singapore Landscape Architecture Awards: Civic and Institutional Landscape Category Nominee, 2019
 * Winner of the Tropical Building - &nbsp;Energy Efficient Building Category of the ASEAN Energy Awards 2020.
-
-#### Our Green and Sustainability Approach
-
    
 
 In line with the East Coast Plan, Heartbeat@Bedok has introduced several eco-sustainable initiatives to enable the individuals to be conscious about how their actions can impact the environment and hopefully, on their own, take steps to pick up a more environmentally conscious habit. 
@@ -49,6 +43,8 @@ The ‘Skip the Straw’ initiative is a collaboration with the Food and Beverag
 (C) Our Green Space
 
 Our Green Space was officially launched in Year 2021. Till date, this recycling collection point has been very well-received by the residents and has collected more than 30,000 tones of wastes including electronic, paper, metal and plastic.
+
+
 
 ####    Embracing Digitalisation
 
