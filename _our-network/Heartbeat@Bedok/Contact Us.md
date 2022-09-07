@@ -26,4 +26,4 @@ We want to hear from you! For feedback, please email to [heartbeat\_bedok@pa.gov
 
  
 
-To find out more on our programmes, please connect with us on our Facebook Page and Instagram!
+To find out more on our programmes, please connect with us on our [Facebook Page](https://m.facebook.com/heartbeatbedok) and [Instagram](https://instagram.com/heartbeat_bedok?igshid=YmMyMTA2M2Y=)!
