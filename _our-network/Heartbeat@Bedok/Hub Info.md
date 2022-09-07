@@ -18,4 +18,4 @@ World Architecture Festival Awards 2018: Finalist in the Civic and community - C
 Asia Pacific Property Awards 2018, Singapore Mixed-use Architecture, 5 Star Award Winner
 Landscape Industry Association Singapore Awards: Implementation – Non Residential Best of Category, 2019
 Singapore Landscape Architecture Awards: Civic and Institutional Landscape Category Nominee, 2019
-Winner of the Tropical Building - &nbsp;Energy Efficient Building Category of the ASEAN Energy Awards 2020. 
+Winner of the Tropical Building - &nbsp;Energy Efficient Building Category of the ASEAN Energy Awards 2020.
