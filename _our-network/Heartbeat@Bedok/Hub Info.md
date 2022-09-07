@@ -37,3 +37,6 @@ The ‘Skip the Straw’ initiative is a collaboration with the Food and Beverag
 (C) Our Green Space
 
 Our Green Space was officially launched in Year 2021. Till date, this recycling collection point has been very well-received by the residents and has collected more than 30,000 tones of wastes including electronic, paper, metal and plastic.
+
+####    Embracing Digitalisation
+
