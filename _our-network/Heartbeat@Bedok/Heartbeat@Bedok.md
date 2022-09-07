@@ -6,8 +6,11 @@ third_nav_title: Heartbeat@Bedok
 ---
 Heartbeat@Bedok is conceptualised as a town-level community avenue to meet the changing lifestyle needs of East Coast residents. The building is located at the confluence of major pedestrian nodes in the heart of the Bedok Town Centre  which offers barrier-free access, linkways to the Mass Rapid Transit (MRT) station and bus interchange as well as nearby commercial malls, making it easier for residents to come by to enjoy the facilities and participate in community programmes to enhance their quality of life. With its lushness, Heartbeat@Bedok is an oasis of serenity amidst the bustling Bedok Town with some saying that it is a modern interpretation of the “Hanging Gardens of Babylon” of Bedok.
 <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/HeartBeat%20Bedok/HBB1.jpg"><br><br><br><br><br><br><br><br><br>
+   
+Officially opened in 2018, the 7-storey Heartbeat@Bedok was envisioned as a key civic space for the local community.<br>
+Vision: To establish Heartbeat@Bedok as a center of energy, enrichment and fun for the betterment of residents in Bedok and East Coast.<br>
+Mission : To help residents develop active, healthy, creative, learning and forward looking lifestyles through resident and community-centric programming
 
-It's mission statement is to help residents develop active, healthy, creative, learning and forward-looking lifestyles through resident and community-centric programming.
 
 <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/HeartBeat%20Bedok/HBB2.jpg"><br><br><br><br><br><br><br>
 
