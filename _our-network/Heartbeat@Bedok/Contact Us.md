@@ -1,12 +1,14 @@
 ---
 title: Contact Us
-permalink: /our-network/Heartbeat-Bedok/Contact-Us
+permalink: /our-network/Heartbeat-Bedok/Contact-Us/
 description: ""
 third_nav_title: Heartbeat@Bedok
 ---
-
 **Heartbeat@Bedok:**<br>
-11 Bedok North Street 1, Singapore 469662
+   
+Heartbeat@Bedok: 11 Bedok North Street 1 Singapore 469662
+
+Heartbeat@Bedok Management Office: 11 Bedok North Street 1 #02-04 Singapore 469662
 
 **Kampong Chai Chee Community Club:**<br>
 Tel: 6241 9878, 6243 1663
