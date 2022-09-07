@@ -10,7 +10,6 @@ Heartbeat@Bedok is conceptualised as a town-level community avenue to meet the c
 Officially opened in 2018, the 7-storey Heartbeat@Bedok was envisioned as a key civic space for the local community.<br><br>
 **Vision**: To establish Heartbeat@Bedok as a center of energy, enrichment and fun for the betterment of residents in Bedok and East Coast.<br><br>
 **Mission** : To help residents develop active, healthy, creative, learning and forward looking lifestyles through resident and community-centric programming
-![](/images/Our%20Network/HeartBeat%20Bedok/HeartbeatBedok_11.jpg)
 
 <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_2.jpg">
 <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_3.jpg">
