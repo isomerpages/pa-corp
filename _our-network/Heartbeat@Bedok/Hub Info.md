@@ -40,3 +40,8 @@ Our Green Space was officially launched in Year 2021. Till date, this recycling 
 
 ####    Embracing Digitalisation
 
+In line with the East Coast Digital Blueprint, Heartbeat@Bedok is proud to support a wide range of digital initiatives to help the underprivileged and the less savvy stay abreast of technology adoption. Some of these initiatives include broaden access to digital equipment, improve digital literacy amongst Seniors and help heartland businesses expand their online presence. 
+
+   
+
+In its facilities management, Heartbeat@Bedok has also implemented many smart and innovative initiatives such as the smart scrubbers, bins and toilet automation system to enhanced manpower deployment efficiency and better customer experience.
