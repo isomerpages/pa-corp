@@ -24,3 +24,6 @@ Bedok North Street 1 #01-31
 
 We want to hear from you! For feedback, please email to [heartbeat\_bedok@pa.gov.sg](mailto:heartbeat_bedok@pa.gov.sg)
 
+ 
+
+To find out more on our programmes, please connect with us on our Facebook Page and Instagram!
