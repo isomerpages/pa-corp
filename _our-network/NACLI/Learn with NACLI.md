@@ -19,7 +19,7 @@ Come onboard NACLI’s learning journey today!  Download the latest copy of our 
 
 |  2022 |  2021 |  
 |  ------- | ------ |  
-| [Jul - Sep 2022]([](/files/Our%20Network/NACLI/Learn%20With%20NACLI/naclicourses-issue4-jul-sep-2022%20(1).pdf)) | [Oct - Dec 2021](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue1-oct-dec2021.pdf)  |   
+| [Jul - Sep 2022](/files/Our%20Network/NACLI/Learn%20With%20NACLI/naclicourses-issue4-jul-sep-2022%20(1).pdf) | [Oct - Dec 2021](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue1-oct-dec2021.pdf)  |   
 | [Apr - Jun 2022](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue3-apr-jun-2022.pdf) | [Jul - Sep 2021](/files/NACLI/02%20Learn%20with%20NACLI/nc-2-2021-(web).pdf) |   
 | [Jan - Mar 2022](/files/NACLI/02%20Learn%20with%20NACLI/naclicourses-issue2-janmar-2022.pdf) | [May - June 2021](/files/NACLI/02%20Learn%20with%20NACLI/nc-1-2021-(web).pdf) | 
 |  | [Jan - Mar 2021](/files/NACLI/02%20Learn%20with%20NACLI/nc-3-2020-(web).pdf) |  |
