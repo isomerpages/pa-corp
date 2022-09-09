@@ -12,7 +12,8 @@ In 2007, along with the ‘Remaking Our Heartland’ (ROH) initiative, the idea 
 
 |  | | 
 | -------- | -------- |
-|<img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_6.jpg">| <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_7.jpg">| <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_8.jpg">|
+|  | | 
+|| <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_7.jpg">| <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_8.jpg">|
 |<img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_9.jpg">| <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_10.jpg">| | 
 
  
