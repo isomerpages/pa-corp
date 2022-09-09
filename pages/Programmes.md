@@ -5,7 +5,7 @@ description: ""
 ---
 | <img style="height:300px;width:400px" src="/images/Programmes/main-activeageing_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-racialharmony.jpg"> | 
 | -------- | -------- | 
-|<div style="text-align:left"> [Active Ageing](/our-programmes/Active-Ageing)<br>Learn about the different engagement programmes for seniors in their golden years.  <br> [Read More](/our-programmes/Active-Ageing) </div>|<div style="text-align:left">[Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and  brings different communities together.<br>[Read More](/our-programmes/Community-Arts)</div>| 
+| [Active Ageing](/our-programmes/Active-Ageing)<br>Learn about the different engagement programmes for seniors in their golden years.  <br> [Read More](/our-programmes/Active-Ageing) |[Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and  brings different communities together.<br>[Read More](/our-programmes/Community-Arts)| 
 
 | <img style="height:300px;width:400px" src="/images/Programmes/main-communitydialogue_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-familylife.jpg"> | 
 | -------- | -------- | 
