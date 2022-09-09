@@ -15,6 +15,10 @@ description: ""
 | -------- | -------- | 
 | [Community Sports](/our-programmes/Community-Sports)  <br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character. <br>[Read More](/our-programmes/Community-Sports)  |[Community Integration](/our-programmes/Community-Integration)  <br>New to Singapore? Get yourself integrated with your new environment with our various community programmes.<br>[Read More](/our-programmes/Community-Integration) | 
 
+|<img style="height:300px;width:400px" src="/images/Programmes/main-communitysports.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-cccourses_edited.jpg"> | 
+| -------- | -------- | 
+| [Community Sports](/our-programmes/Community-Sports)  <br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character. <br>[Read More](/our-programmes/Community-Sports)  | [CC Courses](/our-programmes/CC-Courses/CC-Courses) <br>Hone your skills or acquire new ones. From cooking to dance and exotic sports, there is a course to for everyone.<br>[Read More](/our-programmes/CC-Courses/CC-Courses)  | 
+
 
 
 
