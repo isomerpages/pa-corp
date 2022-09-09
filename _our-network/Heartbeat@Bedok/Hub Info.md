@@ -62,5 +62,3 @@ In line with the East Coast Digital Blueprint, Heartbeat@Bedok is proud to suppo
 | -------- | -------- | -------- |
 | <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_14.jpg">
      | <img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_15.jpg">     |      |
-
-
