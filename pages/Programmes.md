@@ -3,34 +3,6 @@ title: Programmes
 permalink: /Programmes/
 description: ""
 ---
-<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
-  <li>
-  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-		<img style="height:200px;width:250px;" src="images/Programmes/main-activeageing_edited.jpg">
-		<a href="/our-programmes/Active-Ageing" style="text-decoration:none;">Active Ageing</a><br>
-		Learn about the different engagement programmes for seniors in their golden years.<br>
-		<a href="/our-programmes/Active-Ageing" style="text-decoration:none;">Read More</a>
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-    
-  </div>
-</li>
-<li>
-  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/it-is-storytime" style="text-decoration:none;">
-      <img style="height:200px;width:250px;" src="/images/Programmes/main-racialharmony.jpg">
-				<a href="/our-programmes/Community-Arts" style="text-decoration:none;">Community Arts</a><br>
-	Learn more about how art inspires and  brings different communities together.<br>
-		<a href="/our-programmes/Community-Arts" style="text-decoration:none;">Read More</a>
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-    </a>
-  </div>
-</li>
-<li>
-  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">&nbsp;</div>
-</li>
-</ul>
-
-
 
 | <img style="height:300px;width:400px" src="/images/Programmes/main-activeageing_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-racialharmony.jpg"> | 
 | -------- | -------- | 
