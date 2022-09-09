@@ -7,7 +7,7 @@ description: ""
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Community-Tuition-Programme" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Community%20Tuition%20Programme%201.png">
+      <img style="height:300px;width:400px;" src="images/Programmes/main-activeageing_edited.jpg">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -15,7 +15,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/it-is-storytime" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/It's%20Storytime%201.png">
+      <img style="height:300px;width:400px;" src="/images/Programmes/main-racialharmony.jpg">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
