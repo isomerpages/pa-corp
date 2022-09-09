@@ -11,18 +11,13 @@ description: ""
 | -------- | -------- | 
 | [Racial Harmony](/our-programmes/Racial-Harmony) <br>Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of differ<br>  [Read More](/our-programmes/Racial-Harmony) |[Family Life](/our-programmes/Family-life)   <br>Participate in our family programmes to strengthen family bonds and build a strong community.<br>[Read More](/our-programmes/Family-Life) | 
 
-|<img style="height:300px;width:400px" src="/images/Programmes/main-communitysports.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-familylife.jpg"> | 
+|<img style="height:300px;width:400px" src="/images/Programmes/main-communitysports.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-communityintegration.jpg"> | 
 | -------- | -------- | 
-| [Community Sports](/our-programmes/Community-Sports)  <br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character. <br>[Read More](/our-programmes/Community-Sports)  |[Family Life](/our-programmes/Family-life)   <br>Participate in our family programmes to strengthen family bonds and build a strong community.<br>[Read More](/our-programmes/Family-Life) | 
+| [Community Sports](/our-programmes/Community-Sports)  <br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character. <br>[Read More](/our-programmes/Community-Sports)  |[Community Integration](/our-programmes/Community-Integration)  <br>New to Singapore? Get yourself integrated with your new environment with our various community programmes.<br>[Read More](/our-programmes/Community-Integration) | 
 
 
 
 
-
-
-| <img style="height:200px;width:250px"  src="/images/Programmes/main-racialharmony.jpg">|<img style="height:200px;width:250px"  src="/images/Programmes/main-familylife.jpg">| <img style="height:200px;width:250px"  src="/images/Programmes/main-communitysports.jpg">|
-| -------- | -------- | -------- |
-| [Racial Harmony](/our-programmes/Racial-Harmony) <br>Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of differ<br>  [Read More](/our-programmes/Racial-Harmony)  | [Family Life](/our-programmes/Family-life)   <br>Participate in our family programmes to strengthen family bonds and build a strong community.<br>[Read More](/our-programmes/Family-Life)  | [Community Sports](/our-programmes/Community-Sports)  <br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character. <br>[Read More](/our-programmes/Community-Sports)  |
 
 
 
