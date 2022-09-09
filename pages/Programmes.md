@@ -18,6 +18,9 @@ description: ""
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/it-is-storytime" style="text-decoration:none;">
       <img style="height:300px;width:400px;" src="/images/Programmes/main-racialharmony.jpg">
+				<a href="/our-programmes/Community-Arts" style="text-decoration:none;">Community Arts</a><br>
+	Learn more about how art inspires and  brings different communities together.<br>
+		<a href="/our-programmes/Community-Arts" style="text-decoration:none;">Read More</a>
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
