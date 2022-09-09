@@ -3,12 +3,9 @@ title: Programmes
 permalink: /Programmes/
 description: ""
 ---
-
-
-
 | <img style="height:300px;width:400px" src="/images/Programmes/main-activeageing_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-communityarts_edited.jpg"> | 
 | -------- | -------- | 
-| [Active Ageing](/our-programmes/Active-Ageing)<br>Learn about the different engagement programmes for seniors in their golden years.  <br> [Read More](/our-programmes/Active-Ageing)      |[Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and  brings different communities together.<br>[Read More](/our-programmes/Community-Arts     | 
+| [Active Ageing](/our-programmes/Active-Ageing)<br>Learn about the different engagement programmes for seniors in their golden years.  <br> [Read More](/our-programmes/Active-Ageing)      |[Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and  brings different communities together.<br>[Read More](/our-programmes/Community-Arts)| 
 
 
 
