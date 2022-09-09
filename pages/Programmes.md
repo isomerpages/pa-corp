@@ -7,9 +7,9 @@ description: ""
 | -------- | -------- | 
 | [Active Ageing](/our-programmes/Active-Ageing)<br>Learn about the different engagement programmes for seniors in their golden years.  <br> [Read More](/our-programmes/Active-Ageing)      |[Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and  brings different communities together.<br>[Read More](/our-programmes/Community-Arts)| 
 
-| <img style="height:300px;width:400px" src="/images/Programmes/main-communitydialogue_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-communityarts_edited.jpg"> | 
+| <img style="height:300px;width:400px" src="/images/Programmes/main-communitydialogue_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-familylife.jpg"> | 
 | -------- | -------- | 
-| [Racial Harmony](/our-programmes/Racial-Harmony) <br>Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of differ<br>  [Read More](/our-programmes/Racial-Harmony) |[Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and  brings different communities together.<br>[Read More](/our-programmes/Community-Arts)| 
+| [Racial Harmony](/our-programmes/Racial-Harmony) <br>Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of differ<br>  [Read More](/our-programmes/Racial-Harmony) |[Family Life](/our-programmes/Family-life)   <br>Participate in our family programmes to strengthen family bonds and build a strong community.<br>[Read More](/our-programmes/Family-Life) | 
 
 
 
