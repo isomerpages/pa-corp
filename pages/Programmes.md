@@ -3,15 +3,15 @@ title: Programmes
 permalink: /Programmes/
 description: ""
 ---
-| <img style="height:300px;width:400px" src="/images/Programmes/main-activeageing_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-communityarts_edited.jpg"> | 
+| <img style="height:300px;width:400px" src="/images/Programmes/main-activeageing_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-racialharmony.jpg"> | 
 | -------- | -------- | 
 | [Active Ageing](/our-programmes/Active-Ageing)<br>Learn about the different engagement programmes for seniors in their golden years.  <br> [Read More](/our-programmes/Active-Ageing)      |[Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and  brings different communities together.<br>[Read More](/our-programmes/Community-Arts)| 
 
+| <img style="height:300px;width:400px" src="/images/Programmes/main-communitydialogue_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-communityarts_edited.jpg"> | 
+| -------- | -------- | 
+| [Community Dialogue](/our-programmes/Community-Dialogue)<br>PA acts as a vital link between the Government and the community through community dialogues.<br>[Read More](/our-programmes/Community-Dialogue)   |[Community Arts](/our-programmes/Community-Arts)<br>Learn more about how art inspires and  brings different communities together.<br>[Read More](/our-programmes/Community-Arts)| 
 
 
-| <img style="height:200px;width:250px" src="/images/Programmes/main-activeageing_edited.jpg"> | <img style="height:200px;width:200px" src="/images/Programmes/main-communityarts_edited.jpg">| <img style="height:200px;width:250px" src="/images/Programmes/main-communitydialogue_edited.jpg"> |
-| -------- | -------- | -------- |
-| [Active Ageing](/our-programmes/Active-Ageing)<br>Learn about the different engagement programmes for seniors in their golden years.  <br> [Read More](/our-programmes/Active-Ageing)  |&emsp;&nbsp;&nbsp;&nbsp;&nbsp;[Community Arts](/our-programmes/Community-Arts)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learn more about how art inspires<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and  brings different communities<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;together.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Read More](/our-programmes/Community-Arts)| [Community Dialogue](/our-programmes/Community-Dialogue)<br>PA acts as a vital link between the Government and the community through community dialogues.<br>[Read More](/our-programmes/Community-Dialogue) |
 
 
 
