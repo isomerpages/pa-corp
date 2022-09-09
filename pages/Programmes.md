@@ -20,16 +20,13 @@ description: ""
 | [Community Sports](/our-programmes/Community-Sports)  <br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character. <br>[Read More](/our-programmes/Community-Sports)  | [CC Courses](/our-programmes/CC-Courses/CC-Courses) <br>Hone your skills or acquire new ones. From cooking to dance and exotic sports, there is a course to for everyone.<br>[Read More](/our-programmes/CC-Courses/CC-Courses)  | 
 
 
-|<img style="height:300px;width:400px" src="/images/Programmes/main-womensprogrammes_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-cccourses_edited.jpg"> | 
+|<img style="height:300px;width:400px" src="/images/Programmes/main-womensprogrammes_edited.jpg">  |  <img style="height:300px;width:400px" src="/images/Programmes/main-waterventure.jpg"> | 
 | -------- | -------- | 
-| [Women's Programmes](/our-programmes/Womens-Programmes) <br>Learn how PA encourages women to lead active lives and contribute to the community.<br>[Read More](/our-programmes/Womens-Programmes) | [CC Courses](/our-programmes/CC-Courses/CC-Courses) <br>Hone your skills or acquire new ones. From cooking to dance and exotic sports, there is a course to for everyone.<br>[Read More](/our-programmes/CC-Courses/CC-Courses)  |
+| [Women's Programmes](/our-programmes/Womens-Programmes) <br>Learn how PA encourages women to lead active lives and contribute to the community.<br>[Read More](/our-programmes/Womens-Programmes) | [PAssion Wave](/our-programmes/PAssion-Wave/PAssion-WaVe) <br>PA PAssion WaVe's outlets offer a range of land and water sports programmes such as abseiling and power boating. <br>[Read More](/our-programmes/PAssion-Wave/PAssion-WaVe) |
 
 
 
 
-| <img style="height:200px;width:250px"   src="/images/Programmes/main-communityintegration.jpg"> | <img style="height:200px;width:250px"  src="/images/Programmes/main-cccourses_edited.jpg"> | <img style="height:200px;width:250px" src="/images/Programmes/main-womensprogrammes_edited.jpg"> |
-| -------- | -------- | -------- |
-| [Community Integration](/our-programmes/Community-Integration)  <br>New to Singapore? Get yourself integrated with your new environment with our various community programmes.<br>[Read More](/our-programmes/Community-Integration)  | [CC Courses](/our-programmes/CC-Courses/CC-Courses) <br>Hone your skills or acquire new ones. From cooking to dance and exotic sports, there is a course to for everyone.<br>[Read More](/our-programmes/CC-Courses/CC-Courses)    | [Women's Programmes](/our-programmes/Womens-Programmes) <br>Learn how PA encourages women to lead active lives and contribute to the community.<br>[Read More](/our-programmes/Womens-Programmes)    |
 
 
 
