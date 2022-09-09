@@ -3,7 +3,7 @@ title: Programmes
 permalink: /Programmes/
 description: ""
 ---
-<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
+<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 		<img style="height:300px;width:400px;" src="images/Programmes/main-activeageing_edited.jpg">
