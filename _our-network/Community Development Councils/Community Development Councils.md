@@ -19,12 +19,11 @@ At the national level, the five CDCs come together to strengthen the Ministry / 
 At the district level, the CDCs collaborate with partners from the People, Public and Private sectors to meet emerging and felt needs as well as promote greater corporate and community social responsibility. 
  
 At the constituency level, each CDC works closely with the Grassroots Organisations and community partners to facilitate their engagement with residents.
-
  
 
 |  CDC Vision|  |  |
 | -------- | -------- | -------- |
-|<a href="https://centralsingapore.cdc.gov.sg"> <img style="height:150px;width:300px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/01.png"> </a>   | Building a Do-Good District     |      |
+|<a href="https://centralsingapore.cdc.gov.sg"> <img style="height:150px;width:300px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/CS%20CDC%20Longform%20Logo%20(Red).png"> </a>   | Building a Do-Good District     |      |
 | <a href="https://northeast.cdc.gov.sg"><img style="height:150px;width:300px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/02.png"></a> |   A Caring & Cohesive Community   |      |
 | <a href="https://northwest.cdc.gov.sg"><img style="height:150px;width:300px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/03.png">   </a>|A Caring and Healthy Community    |      |
 | <a href="https://southeast.cdc.gov.sg"><img style="height:150px;width:300px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/south-east-cdc-(1).jpg">  </a> | Your Social Broker   |      |
