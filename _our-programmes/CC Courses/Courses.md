@@ -35,6 +35,6 @@ success.
 Explore your interests with our variety of ‘Lifestyle and Leisure’ courses. Embrace the Arts, craft your own leather cardholder, cook up a storm with our celebrity chefs and Trainers or unleash your creativity and find the star in you. Do these and more with our wide array of ‘Lifestyle and Leisure’ courses.
 
 
-<img style="height:300px;width:400px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Sports_Fitness.jpg"><br><br><br><br><br><br><br><br>
+<img style="height:250px;width:400px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Sports_Fitness.jpg"><br><br><br><br><br><br><br>
 
 Work up a sweat with our trendy ‘Sports and Fitness’ courses. Conquer air, water, and land while staying up to date with the latest in sports! Keep your body and mind fit and fabulous through the ‘Sports and Fitness’ courses at our CCs now.
