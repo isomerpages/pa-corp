@@ -6,7 +6,7 @@ description: ""
 <table>
 	<tr>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-activeageing_edited.jpg"></td>
-		<td style="width:50%"><img style="height:200px;width:300px" src="/images/Programmes/main-communityarts_edited.jpg"></td>
+		<td style="width:10%"><img style="height:200px;width:300px" src="/images/Programmes/main-communityarts_edited.jpg"></td>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-communitydialogue_edited.jpg"></td>
 	</tr>
 	<tr>
