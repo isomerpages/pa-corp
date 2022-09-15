@@ -30,8 +30,8 @@ description: ""
 		<td><img style="height:200px;width:250px" src="/images/Programmes/main-womensprogrammes_edited.jpg"></td>
 	</tr>
 <tr>
-		<td><a href="/our-programmes/Active-Ageing">Active-Ageing</a><br>Learn about the different engagement programmes for seniors in their golden years.<br><a href="/our-programmes/Active-Ageing">Read More</a></td>
-		<td><div style="position:relative;left:30px;"><a href="/our-programmes/Community-Arts">Community Arts</a><br>Learn more about how art inspires and  brings different communities together.<br><a href="/our-programmes/Community-Arts">Read More</a></div></td>
-		<td><a  href="/our-programmes/Community-Dialogue"> Community  Dialogue</a><br>PA acts as a vital link between the Government and the community through community dialogues.<br><a href="/our-programmes/Community-Dialogue">Read More</a>
+		<td><a href="/our-programmes/Community-Integration">Community Integration</a><br>>New to Singapore? Get yourself integrated with your new environment with our various community programmes<br><a href="/our-programmes/Community-Integration">Read More</a></td>
+		<td><div style="position:relative;left:30px;"><a href="/our-programmes/CC-Courses/CC-Courses">CC Courses</a><br>Hone your skills or acquire new ones. From cooking to dance and exotic sports, there is a course to for everyone.<br><a href="/our-programmes/CC-Courses/CC-Courses">Read More</a></div></td>
+		<td><a  href="/our-programmes/Womens-Programmes"> Women's Programmes</a><br>Learn how PA encourages women to lead active lives and contribute to the community.<br><a href="/our-programmes/Womens-Programmes">Read More</a>
 			</td></tr>
 </table>
