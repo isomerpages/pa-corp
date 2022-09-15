@@ -24,6 +24,10 @@ description: ""
 		<td><div style="position:relative;left:30px"><a href="/our-programmes/Family-life">Family Life</a><br>Participate in our family programmes to strengthen family bonds and build a strong community.<br><a href="/our-programmes/Family-life">Read More</a></div></td>
 		<td><a  href="/our-programmes/Community-Sports"> Community  Sports</a><br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character.<br><a href="/our-programmes/Community-Sports">Read More</a>
 			</td></tr>
-
+<tr>
+		<td><img style="height:200px;width:250px" src="/images/Programmes/main-communityintegration.jpg"></td>
+		<td><img style="height:200px;width:250px" src="/images/Programmes/main-cccourses_edited.jpg"></td>
+		<td><img style="height:200px;width:250px" src="/images/Programmes/main-womensprogrammes_edited.jpg"></td>
+	</tr>
 
 </table>
