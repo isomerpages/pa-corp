@@ -41,8 +41,7 @@ description: ""
 	</tr>
 	<tr>
 		<td><a href="/our-programmes/PAssion-Wave/PAssion-WaVe">Passion Wave</a><br>PA PAssion WaVe's outlets offer a range of land and water sports programmes such as abseiling and power boating<br><a href="/our-programmes/PAssion-Wave/PAssion-WaVe">Read More</a></td>
-		<td><div style="position:relative;left:30px;"><a href="/our-programmes/Emergency-Preparedness">Emergency Preparedness</a><br>PA's Emergency Preparedness Groups and Community Emergency Response Teams shows you how to react during emergencies.<br><a href="/our-programmes/Emergency-Preparedness">Read More</a></div></td>
-		<td><a  href="/our-programmes/PAssion-Card)"> Passion Card</a><br>The PAssion Card offers
- exclusive privileges to its      members for PA's       exciting range of courses and       activities.<br><a href="/our-programmes/PAssion-Card">Read More</a>
+		<td><div style="position:relative;left:30px;"><a href="/our-programmes/Emergency-Preparedness">Emergency Preparedness</a><br>PA's Emergency Preparedness<br> Groups and Community Emergency Response Teams shows you how to react during emergencies.<br><a href="/our-programmes/Emergency-Preparedness">Read More</a></div></td>
+		<td><a  href="/our-programmes/PAssion-Card)"> Passion Card</a><br>The PAssion Card offers exclusive privileges to its  members for PA's       exciting range of courses an       activities.<br><a href="/our-programmes/PAssion-Card">Read More</a>
 			</td></tr>
 </table>
