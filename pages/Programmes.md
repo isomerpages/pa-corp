@@ -44,4 +44,9 @@ description: ""
 		<td><div style="position:relative;left:30px;"><a href="/our-programmes/Emergency-Preparedness">Emergency Preparedness</a><br>PA's Emergency Preparedness<br> Groups and Community Emergency Response Teams shows you how to react during emergencies.<br><a href="/our-programmes/Emergency-Preparedness">Read More</a></div></td>
 		<td><a  href="/our-programmes/PAssion-Card)"> Passion Card</a><br>The PAssion Card offers exclusive privileges to its  members for PA's       exciting range of courses an       activities.<br><a href="/our-programmes/PAssion-Card">Read More</a>
 			</td></tr>
+	<tr>
+		<td><img style="height:200px;width:250px" src="/images/Programmes/main-youth_edited.jpg"></td></tr>
+		<tr>
+		<td><a href="/our-programmes/Youth">Youth</a><br>Channel your youthful energy and help shape your dreams for a happy and vibrant Singapore with our programmes<br><a href="/our-programmes/Youth">Read More</a></td>
+			
 </table>
