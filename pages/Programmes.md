@@ -34,4 +34,10 @@ description: ""
 		<td><div style="position:relative;left:30px;"><a href="/our-programmes/CC-Courses/CC-Courses">CC Courses</a><br>Hone your skills or acquire new ones. From cooking to dance and exotic sports, there is a course to for everyone.<br><a href="/our-programmes/CC-Courses/CC-Courses">Read More</a></div></td>
 		<td><a  href="/our-programmes/Womens-Programmes"> Women's Programmes</a><br>Learn how PA encourages women to lead active lives and contribute to the community.<br><a href="/our-programmes/Womens-Programmes">Read More</a>
 			</td></tr>
+	<tr>
+		<td><img style="height:200px;width:250px" src="/images/Programmes/main-waterventure.jpg"></td>
+		<td><img style="height:200px;width:250px" src="/images/Programmes/main-emergencypreparedness_edited.jpg"></td>
+		<td><img style="height:200px;width:250px" src="/images/Programmes/main-passioncard.jpg"></td>
+	</tr>
+	
 </table>
