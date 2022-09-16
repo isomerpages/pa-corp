@@ -8,7 +8,6 @@ third_nav_title: Heartbeat@Bedok
    
 Heartbeat@Bedok: 11 Bedok North Street 1 Singapore 469662
 
-Heartbeat@Bedok Management Office: 11 Bedok North Street 1 #02-04 Singapore 469662
 
 **Kampong Chai Chee Community Club:**<br>
    
