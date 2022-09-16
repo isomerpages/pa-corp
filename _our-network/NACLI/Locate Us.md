@@ -38,7 +38,7 @@ Tel: 6672 5200<br>
 Fax: 6474 5527<br>
 Email: nacli@pa.gov.sg
 
-#### Opening Hours
+##### Opening Hours
 
 Monday - Thursday : 8.30am - 6.00pm <br>
 Friday : 8.30am - 5.30pm <br>
