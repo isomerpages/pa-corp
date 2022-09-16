@@ -4,7 +4,6 @@ permalink: /our-network/Grassroots-Organisations/Peoples-Association-Youth-Movem
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-### People's Association Youth Movement
  
 
 As a leading youth organisation, the People’s Association Youth Movement (PAYM) has been reaching out to youths in Singapore since its inception in 1971. It offers a wide spectrum of interesting and meaningful programmes and initiatives to excite, engage and and empower the youths in creating a vibrant youth community.The PAYM network currently consists of over 90 Youth Networks based at the CCs.
@@ -18,7 +17,7 @@ The Youth Networks under the umbrella of PAYM build social capital amongst youth
 * [Engage Youth through Interests/ Causes]()
 * [Excite Youths with High-Point Events](//)
 
-##### Engage Youth Since Young 
+#### Engage Youth Since Young 
 **PAYM Service-Learning Champions**
 
 <img style="height:300px;width:400px"  align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br><br><br><br><br>
@@ -47,7 +46,7 @@ Students will be attached to the Youth Executive Committees (YECs) and mentored 
 
 Through CLP, the students will not only hone their leadership skills but also cultivate a sense of appreciation on the importance of bridging diverse communities.
 
-##### Engage Youth through Interests/ Causes 
+#### Engage Youth through Interests/ Causes 
 **Interest Groups**
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth6_compressed.jpg"><br><br><br><br><br><br><br><br>
@@ -58,7 +57,7 @@ These interest groups are excellent platforms for youths to interact regularly, 
 
 Popular interest groups include beach volleyball, archery, cheerleading, yo-yo, performing arts and astronomy.
 
-##### Community Service Programmes
+#### Community Service Programmes
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth7_compressed.jpg"><br><br><br><br><br><br><br><br>
 
@@ -68,7 +67,7 @@ To build a caring youth community, the PAYM also provides platforms for youths t
 The PAYM engages both schooling and working youths and heightens their sense of belonging in the community by consulting their views on current issues and national policies through the different series of forum and dialogue lined up every year.
 
 
-##### Excite Youths with High-Point Events
+#### Excite Youths with High-Point Events
 
 ##### PAYM Chingay Contingent
 
@@ -78,7 +77,7 @@ The PAYM engages both schooling and working youths and heightens their sense of 
 Since 2008, youths have come forward to take charge in creating their own special showcases, taking on roles that see them lead fellow volunteers and performers, and even design their own costumes in the annual extravaganza of Chingay Parade
 
 
-##### PAYM Loves Red
+#### PAYM Loves Red
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth15_compressed.jpg"><br><br><br><br><br><br><br><br><br>
 
