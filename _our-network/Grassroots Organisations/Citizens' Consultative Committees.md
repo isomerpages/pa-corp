@@ -1,13 +1,12 @@
 ---
 title: Citizens' Consultative Committees
-permalink: /our-network/Grassroots-Organisations/Citizens-Consultative-Committees
+permalink: /our-network/Grassroots-Organisations/Citizens-Consultative-Committees/
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-
 The Citizens' Consultative Committees (CCCs) is a vital bridge between the people and the Government, the CCCs plan and lead major grassroots activities within the constituency, oversee local assistance programmes, and organise major fund-raising projects and national campaigns.
 
-##### Programmes
+####  Programmes
 
 The CCCs organise various programmes to support [PA's mission](/about-us/About-Us)
 
