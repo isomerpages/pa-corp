@@ -46,8 +46,8 @@ The ‘Skip the Straw’ initiative is a collaboration with the Food and Beverag
 
 Our Green Space was officially launched in Year 2021. Till date, this recycling collection point has been very well-received by the residents and has collected more than 30,000 tones of wastes including electronic, paper, metal and plastic.
 
-<img style="height:300px;width:400px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_11.jpg">
-<img style="height:300px;width:400px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_20.jpg">
+<img style="height:250px;width:350px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_11.jpg">
+<img style="height:250px;width:350px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_20.jpg">
 <br><br><br><br><br><br><br><br>
 
 
