@@ -22,7 +22,7 @@ description: ""
 <tr>
 		<td><a href="/our-programmes/Racial-Harmony">Racial Harmony</a><br>Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of differ...<br><a href="/our-programmes/Racial-Harmony">Read More</a></td> 
 		<td><div style="position:relative;left:45px"><a href="/our-programmes/Family-life">Family Life</a><br>Participate in our family programmes <br>to strengthen family bonds and <br>build a strong community.<br><a href="/our-programmes/Family-life">Read More</a></div></td>
-		<td><a  href="/our-programmes/Community-Sports"> Community  Sports</a><br>Enjoy the thrills and spills of our exciting sports events that not only bring people together but also build character.<br><a href="/our-programmes/Community-Sports">Read More</a>
+		<td><a  href="/our-programmes/Community-Sports"> Community  Sports</a><br>Enjoy the thrills and spills of our exciting sports events that not only bring people<br> together but also build character.<br><a href="/our-programmes/Community-Sports">Read More</a>
 	</td></tr>
 <tr>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-communityintegration.jpg"></td>
