@@ -32,7 +32,7 @@ description: ""
 <tr>
 		<td><a href="/our-programmes/Community-Integration">Community Integration</a><br>New to Singapore? Get<br> yourself integrated with your<br> new environment with our<br> various community<br> programmes<br><a href="/our-programmes/Community-Integration">Read More</a></td>
 		<td><div style="position:relative;left:25px;"><a href="/our-programmes/CC-Courses/CC-Courses">CC Courses</a><br>Hone your skills or acquire new ones.<br> From cooking to dance and sports,<br> there  is a course  for everyone.<br><a href="/our-programmes/CC-Courses/CC-Courses">Read More</a></div></td>
-		<td><a  href="/our-programmes/Womens-Programmes"> Women's Programmes</a><br>Learn how PA encourages women to lead active lives and contribute to the community.<br><a href="/our-programmes/Womens-Programmes">Read More</a>
+		<td><a  href="/our-programmes/Womens-Programmes"> Women's Programmes</a><br>Learn how PA encourages women to lead active lives<br> and contribute to  <br>the community.<br><a href="/our-programmes/Womens-Programmes">Read More</a>
 			</td></tr>
 	<tr>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-waterventure.jpg"></td>
