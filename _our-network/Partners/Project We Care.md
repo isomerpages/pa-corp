@@ -17,7 +17,7 @@ From befriending disadvantaged families to upskilling the community, our corpora
 
 <img style="height:300px;width:400px"  align="left" src="/images/Project%20We%20Care/Time%20and%20Talent.png"><br><br><br><br><br><br><br><br>
 
-<img style="height:300px;width:400px"  align="left" src="/images/Project%20We%20Care/treasure%20-%20grouped%20edited.png"><br><br><br><br><br><br><br><br>
+<img style="height:300px;width:404px"  align="left" src="/images/Project%20We%20Care/treasure%20-%20grouped%20edited.png"><br><br><br><br><br><br><br><br>
 
 ### **Why choose Project We Care as your preferred Corporate Social Responsibility (CSR) partner?**
 
