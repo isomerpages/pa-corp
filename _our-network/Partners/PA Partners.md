@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Partners
 ---
 #### Partners
-<img style="height:200px;width:500px"  align="left" src="/images/Our%20Network/Partners/banner%20for%20PA%20website%20partners.png"><br><br><br><br><br>
+<img style="height:200px;width:700px"  align="left" src="/images/Our%20Network/Partners/banner%20for%20PA%20website%20partners.png"><br><br><br><br><br>
 
 The People's Association (PA) offers partnership opportunities for corporate and community organisations to collaborate with our extensive grassroots network to support programmes and initiatives that make a difference in the community.
 
