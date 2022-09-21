@@ -14,7 +14,7 @@ Community Clubs (CCs) are meeting grounds for all residents, offering a venue fo
 
 Book your CC courses and facilities at the [onePA website](https://www.onepa.gov.sg/)
 
-#### CC Commercial Spaces for Lease
+#### Commercial Spaces for Lease
 <img style="height:200px;width:250px"  align="left" src="/images/PA%20Logo%202015%20(PNG).png"><br><br><br><br><br>
 		 
 
