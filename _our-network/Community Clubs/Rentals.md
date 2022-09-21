@@ -10,7 +10,7 @@ PA offers a wide range of facilities and services to cater to your different nee
 
 <img style="height:200px;width:200px"  align="left" src="/images/Our%20Network/Community%20Club/onepalogo.jpg"><br><br><br><br><br>
 
-Community Clubs (CCs) are meeting grounds for all residents, offering a venue for activities within the community. Our CCs bring people together through a variety of programmes, from youth to active-ageing programmes; and from classroom-based courses to sporting and fitness activities, bazaar sales and parties. CCs also offer a wide-range of facilities, from basic ones like basketball and badminton courts to more modern ones like dance studios and gymnasiums. Residents will also get to enjoy the services ranging from dining to enrichment.
+Community Clubs (CCs) are meeting grounds for all residents, offering a venue for activities within the community. Our CCs bring people together through a variety of programmes, from youth to active-ageing programmes; and from classroom-based courses to sporting and fitness activities, bazaar sales and parties. CCs also offer a wide-range of facilities, from basic ones like basketball and badminton courts to more modern ones like dance studios and gymnasiums.
 
 Book your CC courses and facilities at the [onePA website](https://www.onepa.gov.sg/)
 
