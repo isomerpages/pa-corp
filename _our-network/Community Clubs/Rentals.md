@@ -4,7 +4,7 @@ permalink: /our-network/Community-Clubs/Rentals/
 description: ""
 third_nav_title: Community Clubs
 ---
-The PA offers a wide range of facilities and services to cater to your different needs – be it for personal use, for the community or for your company. We offer common spaces for like minded people to connect and build new friendships through a variety of activities, from recreational to educational. You are even welcomed to rent traditional costumes or book our performing groups for your events.
+PA offers a wide range of facilities and services to cater to your different needs – be it for personal use, for the community or for your company. We offer common spaces for like-minded people to connect and build new friendships through a variety of activities, from recreational to educational. You are even welcomed to rent traditional costumes or book our performing groups for your events.
 
 #### Community Club Facilities
 
