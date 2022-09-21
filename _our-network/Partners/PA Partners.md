@@ -24,7 +24,7 @@ Our partners can cross-collaborate towards common causes and interests that gene
 
 #### Community Insights
 
-Having a diverse networks in the community, PA can **share on the community needs** to better enhance the outreach programmes and partnership initiatives.
+With our diverse and extensive network, we are able to gather a sensing of the community's needs to better enhance targeted outreach programmes and partner initiatives.
 
 <img style="height:200px;width:250px" align="left" src="/images/Our%20Network/Partners/icon3.png"><br><br><br><br><br>
 
