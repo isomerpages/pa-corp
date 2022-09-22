@@ -16,9 +16,7 @@ Organisations can support the calendar of community events, co-create cause-base
 
 #### The "Network of Partners" Approach
 
-
-
-Our partners can cross-collaborate towards common causes and interests that generate greater social impact, each contributing in their own ways, be it through various means such as expertise, volunteers, donations in cash and/or in-kind. Together with PA's extensive network which includes our GROs and other PA units, we can co-create meaningful initiatives through concerted efforts.
+Our partners can cross-collaborate towards common causes and interests that generate greater social impact, each contributing in their own ways, be it through various means such as expertise, volunteers, donations in cash and/or in-kind. Together with PA's extensive network which includes our GROs and other PA units, we can co-create meaningful initiatives through concerted efforts.
 
 <img style="height:200px;width:250px" align="left" src="/images/Our%20Network/Partners/icon2.jpg"><br><br><br><br><br>
 
