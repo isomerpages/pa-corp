@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Integrated Community Hubs.md
       - PA's Network.md
       - Community Clubs/.keep
       - Community Clubs/CC Information.md
