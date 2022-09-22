@@ -11,7 +11,7 @@ WeCare PALs are our corporate and community partners, working hand-in-hand with 
 ### How can you partner with us?
 
 
-<img style="height:300px;width:300px"  align="left" src="/images/Our%20Network/Partners/We%20care%20PALS.png"><br><br><br><br><br><br><br><br>
+<img style="height:350px;width:400px"  align="left" src="/images/Our%20Network/Partners/We%20care%20PALS.png"><br><br><br><br><br><br><br><br>
 ### Join us in the WeCare Journey!
 
 
