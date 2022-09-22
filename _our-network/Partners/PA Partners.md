@@ -27,7 +27,7 @@ With our diverse and extensive network, we are able to gather a sensing of the c
 <img style="height:200px;width:250px" align="left" src="/images/Our%20Network/Partners/icon3.png"><br><br><br><br><br>
 
 #### Sharing of Ideas and Best Practices
-Platforms such as **dialogue sessions and networking opportunities are available** for partners to share creative ideas and best practices. This mutual learning opportunity will improve existing collaborative programmes and inspire new partnership possibilities.
+Platforms such as dialogue and networking sessions are available for partners to share creative ideas and best practices. These mutual learning opportunities help improve existing collaborative programmes and inspire new partnership possibilities.
 
 <img style="height:200px;width:250px" align="left" src="/images/Our%20Network/Partners/icon4.jpg"><br><br><br><br><br>
 
