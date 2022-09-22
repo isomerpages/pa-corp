@@ -36,7 +36,7 @@ Platforms such as dialogue and networking sessions are available for partners to
 We recognise strategic partners who have worked closely with PA. The PA Community Spirit Award Scheme is given to exemplary partners who have assisted in building social capital and contributed to the community.
 
 
-#### Be a Friend of PA, Be Our WeCare PALs
+#### Be a Friend of PA, Be Our WeCare 
 
 WeCare PALs are our friends of PA, an overarching term we use for all our PA partners. Check out the [WeCare PALs](/our-network/Partners/WeCare-PALs) page to find out more about WeCare PALs and how your organisation can partner with us!
 
