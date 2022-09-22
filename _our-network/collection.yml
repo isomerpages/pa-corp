@@ -2,12 +2,12 @@ collections:
   our-network:
     output: true
     order:
-      - One Punggol/Mall Directory.md
-      - One Punggol/Contact Us.md
-      - One Punggol/What's Happening.md
-      - One Punggol/Hub Info.md
-      - One Punggol/One Punggol.md
       - One Punggol/.keep
+      - One Punggol/One Punggol.md
+      - One Punggol/Hub Info.md
+      - One Punggol/What's Happening.md
+      - One Punggol/Contact Us.md
+      - One Punggol/Mall Directory.md
       - PA's Network.md
       - Community Clubs/.keep
       - Community Clubs/CC Information.md
