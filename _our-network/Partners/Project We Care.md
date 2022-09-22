@@ -27,9 +27,9 @@ With our community lenses and wide network, Project We Care serves as your one-s
 
 <img style="height:250px;width:600px"  align="left" src="/images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png"><br><br><br><br><br>
 
-<img style="height:250px;width:500px"  align="left" src="/images/Project%20We%20Care/girish%20-%20edited%20(28%20Jan%202022).png"><br><br><br><br><br>
+<img style="height:250px;width:600px"  align="left" src="/images/Project%20We%20Care/girish%20-%20edited%20(28%20Jan%202022).png"><br><br><br><br><br>
 
-<img style="height:250px;width:500px"  align="left" src="/images/Project%20We%20Care/taufiq%20-%20edited%20(28%20Jan%202022).png"><br><br><br><br><br><br><br><br>
+<img style="height:250px;width:600px"  align="left" src="/images/Project%20We%20Care/taufiq%20-%20edited%20(28%20Jan%202022).png"><br><br><br><br><br><br><br><br>
 
 ### **Do Good with Us**
 
