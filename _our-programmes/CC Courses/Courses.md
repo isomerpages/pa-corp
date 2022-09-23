@@ -17,11 +17,11 @@ The main categories of courses offered at our CCs/RCs are:
 
 Every day is a gift that is best shared with your loved ones. Set aside your hectic lifestyle and make the most of today! With so many courses to choose from, there is bound to be one that will delight you and others! 
 
-<img style="height:250px;width:400px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Education%20Enrichment.jpg"><br><br><br><br><br><br><br><br>
+<img style="height:200px;width:500px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Education%20Enrichment.jpg"><br><br><br><br><br><br>
 Expand and broaden your child’s and your interest with our wide array of ‘Education and Enrichment’ courses. Pique your child’s interest with our range of hands-on science courses or improve pronunciation and reading with our phonics courses.  Sign up for our ‘Education and Enrichment’ courses today!
 
 
-<img style="height:250px;width:400px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-HealthWellness.jpg"><br><br><br><br><br><br><br><br>
+<img style="height:200px;width:500px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-HealthWellness.jpg"><br><br><br><br><br><br>
 Look good and feel good with our health and wellness tips. Discover how you can spruce up your look with some grooming, make-up and skincare advice, and learn how to take better care of your health and body. With our ‘Health & Wellness’ courses, it is time for you to start feeling and looking your very best.
 
 
