@@ -7,7 +7,7 @@ The People’s Association works through Community Sports Networks (CSNs) to fos
 
 Over the years, the CSN flagship programmes like the evergreen programme PAssion Community Football.
 
-The CSNs at the grassroots level organises an array of activities such as brisk walks, mass swims, sports carnivals, bowling, badminton, football and sepaktakraw, and in recent years also included disc golf, kin-ball and floorball.
+The CSNs at the grassroots level organises an array of activities such as brisk walks, mass swims, sports carnivals, bowling, badminton, football and sepak takraw, and in recent years also included disc golf, kin-ball and floorball.
 
 Visit our [Facebook Page](https://www.facebook.com/PACommunitySportsNetwork) for more information! Alternatively, you could email us at [PA_Community_Sports@pa.gov.sg](mailto: PA_Community_Sports@pa.gov.sg)!
 
