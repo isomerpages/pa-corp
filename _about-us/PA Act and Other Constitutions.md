@@ -1,8 +1,9 @@
 ---
 title: PA Act and Other Constitutions
-permalink: /about-us/pa-act-and-other-constitutions
+permalink: /about-us/pa-act-and-other-constitutions/
 description: ""
 ---
+For more information on the PA Act and CDC Rules, please visit the links below.
 
 [People's Association Act](https://sso.agc.gov.sg/Act/PAA1960)
 
