@@ -4,10 +4,9 @@ permalink: /our-network/Wisma-Geylang-Serai/Services-WGS/
 description: ""
 third_nav_title: Wisma Geylang Serai
 ---
-
 #### KURNIA @WGS and M3@WGS
 
-To enhance existing cooperation between Malay/ Muslim Organisations through regular engagements, KURNIA@WGS has merged office with M3@WGS, situated at level 3.
+To enhance existing cooperation between Malay Muslim Organisations through regular engagements, KURNIA@WGS has merged office with M3@WGS, situated at level 3.
 
 KURNIA, meaning ‘Gift’, is an acronym for “Khidmat Untuk Rakyat: Nadi, Inspirasi & Aspirasi”. **KURNIA @ Wisma Geylang Serai,** the first of its kind in Singapore, offers multiple services for the community whilst bringing together eight Malay Muslim Organisations and agencies to provide one-stop service to the community. The participating agencies include Association of Muslim Professionals (AMP), Berita Harian, Creative Malay Arts and Culture, Lembaga Biasiswa Kenangan Maulud (LBKM), Muhammadiyah, PERGAS, Tabung Amal Aidilfitri (TAA) and Persatuan Persuratan Pemuda Pemudi Melayu (4PM).
 
