@@ -40,7 +40,7 @@ Students will be attached to the Youth Networks (YN) and mentored by experienced
 Through CLP, the students will not only hone their leadership skills but also cultivate a sense of appreciation on the importance of bridging diverse communities.
 
 <a id="Interests_Group"></a>
-##### Interests Groups
+##### Interest Groups
 <img style="height:300px;width:400px" align="left" src="/images/Programmes/Youth/IG.jpg"><br><br><br><br><br><br><br><br>
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
