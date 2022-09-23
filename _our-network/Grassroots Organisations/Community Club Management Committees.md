@@ -30,12 +30,11 @@ The objectives of the WEC are :
 #### Youth Executive Committees
 Our Youth Executive Committee (YEC) is the managing body for the Youth Group in a Community Club. Reaching out to youths, our YEC organises a wide range of activities and projects ranging from sports and recreation to culture, arts and community service.
 
+The role of YECs include:
 
-* The role of YECs include:
-Developing programmes for youths and setting up subcommittees to implement its activities
-Working closely with the Community Club Management Committee and other grassroots organisations in putting tog
-Connecting with other Youth Clubs and the Council to support the People’s Association Youth Movement (PAYM)
-ether community development projects; andConnecting with other Youth Clubs and the Council to support the People’s Association Youth Movement (PAYM)
+*   Developing programmes for youths and setting up subcommittees to implement its activities
+*   Working closely with the Community Club Management Committee and other grassroots organisations in putting together community development projects; and
+*   Connecting with other Youth Clubs and the Council to support the People’s Association Youth Movement (PAYM)
 
 #### Malay Activity Executive Committees
 The Malay Activity Executive Committees (MAECs) promote greater Malay participation in the management and activities of various grassroots organisations (GROs). MAECs organise cultural, educational, social, recreational and sporting activities to promote mutual respect and harmonious relations between the Malays and other communities. Activities organised by our MAECs include Silat classes, dance workshops, and Hari Raya celebrations.
