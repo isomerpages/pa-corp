@@ -1,9 +1,8 @@
 ---
 title: PA Student Internship
-permalink: /careers/PA-Student-Internship
+permalink: /careers/PA-Student-Internship/
 description: ""
 ---
-
 #### PA Structured Student Internship Programme
 
 Participating in the PA Structured Internship Programme is a great opportunity for you to appreciate PA’s mission of bridging and building communities and to experience a career to work on projects and/or organise events that will help foster engaged communities and develop your soft skills.
@@ -13,7 +12,7 @@ Participating in the PA Structured Internship Programme is a great opportunity f
 #### Apply for Internship with PA
 
 1. You may contact your school’s Career Services Office; or
-2. You may apply by submitting the <a href="https://form.gov.sg/#!/5c7e4317e3264100179f5f12" target="\_blank">Internship Application Form.</a>. Successful candidates will be notified by email.
+2. You may apply by submitting the <a href="https://form.gov.sg/#!/5c7e4317e3264100179f5f12" target="\_blank">Internship Application Form</a>. Successful candidates will be notified by email.
 
 #### Internship Opportunities
 
