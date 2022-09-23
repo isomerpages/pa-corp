@@ -1,6 +1,6 @@
 ---
 title: Residents' Committees
-permalink: /our-network/Grassroots-Organisations/Residents-Committees
+permalink: /our-network/Grassroots-Organisations/Residents-Committees/
 description: ""
 third_nav_title: Grassroots Organisations
 ---
@@ -13,7 +13,7 @@ The functions of RCs are to:
 * Disseminate information and gather feedback on government policies and actions from residents; and
 * Promote good citizenship amongst residents.
 
-Click [here](https://www.onepa.gov.sg/rc)to search for your nearest RC.
+Click [here](https://www.onepa.gov.sg/rc) to search for your nearest RC.
 
 #### How to join the RCs
 Volunteer or be nominated by residents under the Residents Nomination Scheme. This scheme gives residents the opportunity to have a say on who becomes part of their RCs.
