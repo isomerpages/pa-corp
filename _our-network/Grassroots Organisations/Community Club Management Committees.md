@@ -28,9 +28,9 @@ The objectives of the WEC are :
 * Create opportunities for women to participate in community and national affairs.
 
 #### Youth Executive Committees
-Our Youth Executive Committee (YEC) is the managing body for the Youth Group in a Community Club. Reaching out to youths, our YEC organises a wide range of activities and projects ranging from sports and recreation to culture, arts and community service.
+Our YN (Youth Network) is the managing body for the Youth Group in a Community Club. Reaching out to youths, our YN organises a wide range of activities and projects ranging from sports and recreation to culture, arts and community service.
 
-The role of YECs include:
+The role of YNs include:
 
 *   Developing programmes for youths and setting up subcommittees to implement its activities
 *   Working closely with the Community Club Management Committee and other grassroots organisations in putting together community development projects; and
