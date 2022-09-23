@@ -34,9 +34,9 @@ Integration and Naturalisation Champions (INCs) initiate and spearhead integrati
 
 To achieve the key objective of PA’s integration efforts to widen our outreach and deepen engagement with new citizens/PRs (new immigrants), PA has adopted the following three key strategic approaches:
 
-Intensifying local integration efforts through the Residents' Committees and Neighbourhood Committees;
-Multiplying outreach through partnership with Immigrant Associations and external organisations; and
-Promoting greater awareness on integration through publicity and social media.
+* Intensifying local integration efforts through the Residents' Committees and Neighbourhood Committees;
+* Multiplying outreach through partnership with Immigrant Associations and external organisations; and
+* Promoting greater awareness on integration through publicity and social media.
  
 ### Integration Programmes
 * House Visits and Welcome/Floor Parties
