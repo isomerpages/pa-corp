@@ -13,7 +13,7 @@ Our CCMCs promote racial harmony and social cohesion through the various cultura
 #### Executive Committees
 To help the CCMCs achieve their objectives, various executive committees were set up to focus on different areas. These executive committees are under the purview of the CCMCs and help ensure that different segments of residents are well looked after.
 
-Join the various activities organised by these e xecutive committees at your nearest [CC](https://www.onepa.gov.sg/cc)
+Join the various activities organised by these executive committees at your nearest [CC](https://www.onepa.gov.sg/cc)
 
 #### Senior Citizens' Executive Committees
 The Senior Citizens’ Executive Committee (EC) plans and organises a wide array of activities and courses to enrich the life experiences of seniors. These include arts and culture, lifestyle pursuits, lifelong learning, and sports and wellness programmes. The SCEC aims to engage and empower seniors to lead active, healthy and meaningful lives in the community.
