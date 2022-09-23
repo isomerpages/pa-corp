@@ -46,7 +46,7 @@ Want to make a difference through Arts and Culture? Join us as volunteers today
 *   If you love to share the joy of performance with others
 *   If you love art and want to contribute behind the scenes at PAssionArts activities
 
-Get in touch with your local Community Arts and Culture Club (CACC) at the Community Club closest to you or email us at [PA\_ACD@pa.gov.sg](mailto:PA_ACD@pa.gov.sg).
+Get in touch with your local Community Arts and Culture Club (CACC) at the Community Club closest to you or email us at [PA_ACD@pa.gov.sg](mailto:PA_ACD@pa.gov.sg).
 
 <a id="Passion_Community"></a>
 ### PAssionArts Community Art Gallery
