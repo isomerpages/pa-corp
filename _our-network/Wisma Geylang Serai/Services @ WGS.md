@@ -12,7 +12,7 @@ KURNIA, meaning ‘Gift’, is an acronym for “Khidmat Untuk Rakyat: Nadi, Ins
 
 At **M3@WGS**, the community can get information on national support programmes and services provided by the three agencies – MUIS, MENDAKI and MESRA. Among MUIS services are Zakat payment, donations and facilitate info referral for financial assistance applications. Mendaki services include programme registrations and applications for their Educational Programmes, Financial Assistance Schemes and Employment Services and disbursement & repayment for Education Trust Fund and Study Loans.
 
-Located next to the **South East CDC** and **PPIS (Family Service Centre),** it enhances collaboration on social assistance programmes and synergy to build better programmes for the community. With its central location, the centre will be able to serve the community better and provide holistic support & assistance to the Malay community.
+Located next to the **South East CDC** and **PPIS (Family Service Centre),** it enhances collaboration on social assistance programmes and synergy to build better programmes for the community. With its central location, the centre will be able to serve the community more adequately and provide holistic support & assistance to the Malay community.
 
 #### NTUC Healthcare - Silver Circle @ WGS
 
