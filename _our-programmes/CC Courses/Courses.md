@@ -26,7 +26,7 @@ Look good and feel good with our health and wellness tips. Discover how you can 
 
 
 
-<img style="height:250px;width:400px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-LifelongLearning.jpg"><br><br><br><br><br><br><br><br>
+<img style="height:200px;width:500px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-LifelongLearning.jpg"><br><br><br><br><br><br>
 Improve your skills and develop yourself through the wide array of ‘Lifelong Learning' courses offered at our CCs. Learn about technical know-how, fine tune essential job skills, or pick up a new language! With the range of ‘Lifelong Learning' courses, you will be fully equipped for 
 success.
 
