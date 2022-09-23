@@ -11,7 +11,7 @@ The Industry Guru has just lined up a brand new series of Deep Dive Learning cou
 <img style="height:300px;width:400px" align="left" src="/images/Programmes/CC%20Courses/IGuru%20webpage%20group%20photo.png"><br><br><br><br><br><br><br>
 #### About Deep Dive Courses
 
-Dive straight into the wide range of specially curated Deep Dive Learning courses.  Gain first-hand information and tips from our esteemed PA Trainers and valued partners such as the Singapore Fintech Association, Deloitte Singapore, and Microsoft through a series of exciting and thought provoking courses under the tracks of ‘Business Leadership and Management’ as well as ‘Digital Innovation’, PMEs can realise their aspirations to upskill and enhance their work competencies.
+Dive straight into the wide range of specially curated Deep Dive Learning courses.  Gain first-hand information and tips from our esteemed PA Trainers and valued partners such as the Singapore Fintech Association, Deloitte Singapore, and Microsoft. Through a series of exciting and thought provoking courses under the tracks of ‘Business Leadership and Management’ as well as ‘Digital Innovation’, PMEs can realise their aspirations to upskill and enhance their work competencies.
 
 #### About T-Connect
 
