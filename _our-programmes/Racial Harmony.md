@@ -27,7 +27,7 @@ The PA organises many programmes to showcase and celebrate Singapore’s rich mu
 Soundwaves is PA’s signature concert that celebrates racial harmony and promotes local talents in Singapore. At the heart of the annual concert is the performance by the PA Talents, with 10 performing units and more than 300 musicians and dancers. The concert often brings together the biggest names in the industry. Performers who have been featured in previous Soundwaves include Dick Lee, Jeremy and Claressa Monteiro, George Chan, Eunice Olsen, Brian Richmond and many others.
 
 #### PA Talents Season
-These is a series of concerts that feature different ethnic music and dance groups, showcasing the diversity of Singapore’s cultures to a multi-ethnic audience. Visit the [PA Talents Facebook Page](https://www.facebook.com/PA.Talents) for more information.
+The PA Talents Season is a series of concerts that feature different ethnic music and dance groups, showcasing the diversity of Singapore’s cultures to a multi-ethnic audience. Visit the [PA Talents Facebook Page](https://www.facebook.com/PA.Talents) for more information.
 
 #### Gentarasa
 Gentarasa was initiated in 2002 to foster greater awareness and appreciation of the Malay culture in our multi-racial society.  Gentarasa also serves as a platform for the Malay performing groups at the Community Clubs (CCs) to showcase their talent in Malay performing arts.
