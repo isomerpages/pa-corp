@@ -1,13 +1,12 @@
 ---
 title: PA Scholarship
-permalink: /careers/PA-Scholarship/PA-Scholarship
+permalink: /careers/PA-Scholarship/PA-Scholarship/
 description: ""
 third_nav_title: PA Scholarship
 ---
-
 If you are looking for a meaningful career where you can find an area that you are passionate about, be it youth, active ageing, sports, arts and culture, social development or community leadership, the PA Scholarship is for you.
 
-As a PA scholar, you will have a rich experience of community organising and leadership through involvement in community projects, regular engagement with grassroots and PA leaders, job placements in various strategic units, and participation in overseas attachments and programmes. You can look forward to a fulfilling and challenging career with many opportunities to develop your potential to the fullest. 
+As a PA scholar, you will have a rich experience of community organising and leadership through involvement in community projects, regular engagement with grassroots volunteers and PA leaders, job placements in various strategic units, and participation in overseas attachments and programmes. You can look forward to a fulfilling and challenging career with many opportunities to develop your potential to the fullest. 
 
 ### Types of Scholarship
 
