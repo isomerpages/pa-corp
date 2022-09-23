@@ -1,10 +1,9 @@
 ---
 title: Community Club Management Committees
-permalink: /our-network/Grassroots-Organisations/Community-Club-Management-Committees
+permalink: /our-network/Grassroots-Organisations/Community-Club-Management-Committees/
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-
 Our Community Club Management Committees (CCMCs) help build, manage and maintain all our Community Clubs (CCs). Made up of volunteers who work with our staff, the CCMCs meet regularly to plan and organise innovative programmes that help bring residents together at the CCs to interact and forge friendships.
 
 #### What role does the CCMCs play?
@@ -14,7 +13,7 @@ Our CCMCs promote racial harmony and social cohesion through the various cultura
 #### Executive Committees
 To help the CCMCs achieve their objectives, various executive committees were set up to focus on different areas. These executive committees are under the purview of the CCMCs and help ensure that different segments of residents are well looked after.
 
-Join the various activities organised by these e xecutive committees at your nearest[CC](https://www.onepa.gov.sg/cc)
+Join the various activities organised by these e xecutive committees at your nearest [CC](https://www.onepa.gov.sg/cc)
 
 #### Senior Citizens' Executive Committees
 The Senior Citizens’ Executive Committee (EC) plans and organises a wide array of activities and courses to enrich the life experiences of seniors. These include arts and culture, lifestyle pursuits, lifelong learning, and sports and wellness programmes. The SCEC aims to engage and empower seniors to lead active, healthy and meaningful lives in the community.
