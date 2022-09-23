@@ -4,19 +4,18 @@ permalink: /our-network/Grassroots-Organisations/Peoples-Association-Youth-Movem
 description: ""
 third_nav_title: Grassroots Organisations
 ---
- 
-
 As a leading youth organisation, the People’s Association Youth Movement (PAYM) has been reaching out to youths in Singapore since its inception in 1971. It offers a wide spectrum of interesting and meaningful programmes and initiatives to excite, engage and and empower the youths in creating a vibrant youth community.The PAYM network currently consists of over 90 Youth Networks based at the CCs.
 
 #### PAYM’s Youth Engagement Framework
 
 The Youth Networks under the umbrella of PAYM build social capital amongst youths, and through the youth by helping them to enrich the lives of others. The PAYM’s youth engagement framework includes programmes targeting youth profiles, interest-driven activities to meet the diverse interests of youths, opportunities for youths to do their part for the community, and highpoint engagement events to bring more youths together. A multi-prong approach is adopted for PAYM’s youth engagement framework.
 
-* [Engage Youth since Young](//)
+* <a href="#youth_since young">Engage Youth since Young</a>
 * [Empowering Youth](//)
 * [Engage Youth through Interests/ Causes]()
 * [Excite Youths with High-Point Events](//)
 
+<a id="youth_since young"></a>
 #### Engage Youth Since Young 
 **PAYM Service-Learning Champions**
 
