@@ -40,4 +40,4 @@ For more information on the PAssion Silver Concession Card, log on to [www.onepa
 
 For more information on the PAssion CARES initiative, visit [www.onepa.gov.sg/passion-card/what-is-passion-cares](https://www.onepa.gov.sg/passion-card/what-is-passion-cares).
 
-Stay connected with us via [Facebook](http://www.facebook.com/PAssionCard), [Instagram](http://www.instgram.com/PAssionCard) and [Telegram](https://t.me/SGPAssionDeals)!
+Stay connected with us via [Facebook](http://www.facebook.com/PAssionCard), [Instagram](http://www.instagram.com/PAssionCard) and [Telegram](https://t.me/SGPAssionDeals)!
