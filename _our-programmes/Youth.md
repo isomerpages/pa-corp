@@ -24,7 +24,7 @@ Involving over 90 Youth Networks based at the Community Clubs/Centres (CCs), PAY
 ##### PAYM Service-Learning Champion
 
 <img style="height:300px;width:400px" align="left" src="/images/Programmes/Youth/SLC.jpg"><br><br><br><br><br><br><br><br><br>
-The PAYM reaches out to youths in secondary schools via the Service-Learning Champion (SLC) Scheme, which aims to promote holistic development in youths by enabling them to achieve personal, character and academic development, and acquire values, life skills, a sense of civil responsibility and commitment through being involved in community service.
+The PAYM reaches out to youths in secondary schools via the Service-Learning Champion (SLC) Scheme, which aims to promote holistic development in youths by enabling them to achieve personal, character and academic development, and acquire values, life skills, a sense of civic responsibility and commitment through being involved in community service.
 
 A strong emphasis on personal development and hands-on experiences greatly enhance the learning experience of students. SLCs are encouraged to organise a wide variety of service activities to meet the needs of their community, and to tap on their own talents and initiatives in the process.
 
