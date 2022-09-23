@@ -11,9 +11,9 @@ As a leading youth organisation, the People’s Association Youth Movement (PAYM
 The Youth Networks under the umbrella of PAYM build social capital amongst youths, and through the youth by helping them to enrich the lives of others. The PAYM’s youth engagement framework includes programmes targeting youth profiles, interest-driven activities to meet the diverse interests of youths, opportunities for youths to do their part for the community, and highpoint engagement events to bring more youths together. A multi-prong approach is adopted for PAYM’s youth engagement framework.
 
 * <a href="#youth_since young">Engage Youth since Young</a>
-* [Empowering Youth](//)
-* [Engage Youth through Interests/ Causes]()
-* [Excite Youths with High-Point Events](//)
+* <a href="#empowering-youth">Empowering Youth</a>
+* <a href="#youth_interests">Engage Youth through Interests/ Causes</a>
+* <a href="#">Excite Youths with High-Point Events</a>
 
 <a id="youth_since young"></a>
 #### Engage Youth Since Young 
@@ -26,6 +26,7 @@ The PAYM reaches out to youths in secondary schools via the Service-Learning Cha
 
 A strong emphasis on personal development and hands-on experiences greatly enhance the learning experience of students. SLCs are encouraged to organise a wide variety of service activities to meet the needs of their community, and to tap on their own talents and initiatives in the process.
 
+<a id="empowering-youth"></a>
 #### Empowering Youth 
 
 **Youth Chapters**
@@ -45,6 +46,7 @@ Students will be attached to the Youth Executive Committees (YECs) and mentored 
 
 Through CLP, the students will not only hone their leadership skills but also cultivate a sense of appreciation on the importance of bridging diverse communities.
 
+<a id="youth_interests"></a>
 #### Engage Youth through Interests/ Causes 
 **Interest Groups**
 
