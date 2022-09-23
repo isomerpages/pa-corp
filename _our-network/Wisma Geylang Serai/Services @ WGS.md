@@ -28,7 +28,7 @@ The National Arts Council (NAC) champions the arts in Singapore. By nurturing cr
 
 #### Geylang Serai Heritage Gallery
 
-The Geylang Serai Heritage Gallery showcases the history of the precinct and traces its growth from an outlying settler community in the 19th century to the suburban residential and business precinct it is today. It also features the experiences and memories of past and present residents as well as others who have connections to Geylang Serai, interweaving these stories with thematic displays of images and objects. The Gallery organises a variety of programmes form regular gallery tours to craft and cultural workshops.
+The Geylang Serai Heritage Gallery showcases the history of the precinct and traces its growth from an outlying settler community in the 19th century to the suburban residential and business precinct it is today. It also features the experiences and memories of past and present residents as well as others who have connections to Geylang Serai, interweaving these stories with thematic displays of images and objects. The Gallery organises a variety of programmes from regular gallery tours to craft and cultural workshops.
 
 The Geylang Serai Heritage Gallery is a community gallery that is developed and managed by National Heritage Board in partnership with People’s Association and Malay Heritage Foundation.
 
