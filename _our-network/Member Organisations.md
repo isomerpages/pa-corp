@@ -115,7 +115,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Consumers Association of Singapore](https://www.case.org.sg/)
 * [National Council of Social Service](https://www.ncss.gov.sg/)
 * [Singapore Council of Women's Organisations](https://www.scwo.org.sg/)
-* Singapore National Co-operative Federation Ltd
+* [Singapore National Co-operative Federation Ltd](https://www.sncf.coop/)
 * [Singapore Professional Centre](http://www.spc.org.sg/)
 * Pets Enterprises & Traders Association, Singapore (PETAS)
 
