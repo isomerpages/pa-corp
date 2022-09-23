@@ -3,7 +3,7 @@ title: Emergency Preparedness
 permalink: /our-programmes/Emergency-Preparedness/
 description: ""
 ---
-The People’s Association (PA) Emergency Preparedness Division (EPD) seeks to strengthen the understanding and ties between people of different races and religions, impart EP skills and knowledge with an aim to build a safer and more resilient community.
+The People's Association (PA) Community Emergency and Engagement Committees (C2E) seeks to strengthen the understanding and ties between people of different race and religions, impart Emergency Prepardness (EP) skills and knowledge with an aim to build a safer and more resilient community.
 
 Through PA and its Grassroots'  EP Programmes, residents will not only acquire EP skills and take part in emergency exercises, but also learn about the importance of racial harmony as a fundamental building block in strengthening our social fabric. The objective of the EP Programmes is to help the community stay calm, be resilient during emergencies and return to normalcy as quickly as possible.
 
