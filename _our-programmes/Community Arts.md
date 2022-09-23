@@ -28,7 +28,7 @@ The Community Arts & Culture Clubs (CACC) is a co-ordinating arts and culture cl
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Programmes/commmart-paf.jpeg"><br><br><br><br><br><br><br><br>
 
-PAssionArts Festival (PAF) is an annual community arts festival organised by the Community Arts & Culture Clubs (CACC).  Since its inception in 2012 as a flagship programme, PAF has fostered a sense of togetherness and belonging to the community through the arts, providing people from all walks of life an access to quality art programmes and a platform for community collaboration and engagement.  Engaging performances, arts activities and visual art exhibitions/installations were curated and organised to showcase the community’s creativity and local talents.
+PAssionArts Festival (PAF) is an annual community arts festival organised by the Community Arts & Culture Clubs (CACC).  Since its inception in 2012 as a flagship programme, PAF has fostered a sense of togetherness and belonging to the community through the arts, providing people from all walks of life an access to quality art programmes and a platform for community collaboration and engagement.  Engaging performances, arts activities and visual art exhibitions/installations are curated and organised to showcase the community’s creativity and local talents.
 
 As part of the festival highlight, the National-Level Art Initiative provides opportunities for residents to co-create artistic representations of their neighbourhood to add vibrancy to their HeARTland. Partnering community artists, the CACCs and their residents come together to unleash their creativity, make new friends/fond memories and create art for their neighbourhood!
 
