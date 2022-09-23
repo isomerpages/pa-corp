@@ -32,7 +32,7 @@ These is a series of concerts that feature different ethnic music and dance grou
 #### Gentarasa
 Gentarasa was initiated in 2002 to foster greater awareness and appreciation of the Malay culture in our multi-racial society.  Gentarasa also serves as a platform for the Malay performing groups at the Community Clubs (CCs) to showcase their talent in Malay performing arts.
 
-Gentarasa, meaning “Chimes of Expression”, showcases the many performing talents from the Malay community. This not only raises public awareness and appreciation for the Malay Culture but also provides a stage for the performing groups to increase their standards and nurture their potential.
+Gentarasa, meaning “Chimes of Expression”, showcases the many performing talents from the Malay community. This not only raises public awareness and appreciation for the Malay Culture but also provides a stage for the performing groups to nurture their potential.
 
 #### Chingay
 The annual street procession brings diverse groups of people together, and showcases the rich multi-cultural diversity of our society, through a parade of exciting performances and colourful floats. Visit the [Chingay Website](https://www.chingay.gov.sg/) for more information.
