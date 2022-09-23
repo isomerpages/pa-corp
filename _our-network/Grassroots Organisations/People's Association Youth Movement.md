@@ -13,7 +13,7 @@ The Youth Networks under the umbrella of PAYM build social capital amongst youth
 * <a href="#youth_since young">Engage Youth since Young</a>
 * <a href="#empowering-youth">Empowering Youth</a>
 * <a href="#youth_interests">Engage Youth through Interests/ Causes</a>
-* <a href="#">Excite Youths with High-Point Events</a>
+* <a href="#Youth-high">Excite Youths with High-Point Events</a>
 
 <a id="youth_since young"></a>
 #### Engage Youth Since Young 
