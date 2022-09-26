@@ -12,4 +12,4 @@ The Office of the Mayors organised the Singapore’s Meeting of the Governors an
 <br><br><br>
 
 
-<img style="height:300%;width:400%"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/swearing%20in%20mayors.png">
+<img style="height:200%;width:500%"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/swearing%20in%20mayors.png">
