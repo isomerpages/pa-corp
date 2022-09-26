@@ -4,7 +4,7 @@ permalink: /our-network/Grassroots-Organisations/Peoples-Association-Youth-Movem
 description: ""
 third_nav_title: Grassroots Organisations
 ---
-As a leading youth organisation, the People’s Association Youth Movement (PAYM) has been reaching out to youths in Singapore since its inception in 1971. It offers a wide spectrum of interesting and meaningful programmes and initiatives to excite, engage and and empower the youths in creating a vibrant youth community.The PAYM network currently consists of over 90 Youth Networks based at the CCs.
+As a leading youth organisation, the People’s Association Youth Movement (PAYM) has been reaching out to youths in Singapore since its inception in 1971. It offers a wide spectrum of interesting and meaningful programmes and initiatives to excite, engage and and empower the youths in creating a vibrant youth community. The PAYM network currently consists of over 90 Youth Networks based at the CCs.
 
 #### PAYM’s Youth Engagement Framework
 
@@ -32,17 +32,17 @@ A strong emphasis on personal development and hands-on experiences greatly enhan
 **Youth Chapters**
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth3_compressed.jpg"><br><br><br><br><br><br><br><br><br>
-In addition to involving youths in the YECs, the Youth Chapters at the Residents’ Committees and Neighbourhood Committees is another key initiative to facilitate deeper local youth engagement as it will give young residents a chance to get to know each other and do meaningful activities together.
-
+In addition to involving youths in the Youth Networks, the Youth Chapters at the Residents’ Committees and Neighbourhood Committees is another key initiative to facilitate deeper local youth engagement as it will give young residents a chance to get to know each other and do meaningful activities together.  
+  
 The Youth Chapters bring like-minded youths together through interest groups, bring about an impact to the needy residents through community service programmes and organise activities for fellow youths and residents.
 
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth4_compressed.jpg"><br><br><br><br><br><br><br><br><br><br>
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth5_compressed.jpg"><br><br><br><br><br><br><br><br>
 
-The **Community Leadership Programme (CLP)** is developed to expose students to grassroots work and a diverse range of volunteer activities.
+The **Community Leadership Programme (CLP)** is developed to introduce students from Institutes of Higher Learning (IHL) to community work and a diverse range of volunteer activities
 
-Students will be attached to the Youth Executive Committees (YECs) and mentored by experienced YEC leaders. Students will be challenged to step out of their comfort zones through a journey of experiential learning, community projects, leadership workshops, house-to-house visits, dialogue sessions and participation in national campaigns – PAYM Loves Red and YOUths Care @ PAYM.
+Students will be attached to the Youth Networks (YN) and mentored by experienced YN leaders. Students will embark on a journey of experiential learning, community projects, leadership workshops, house-to-house visits, dialogue sessions and participation in national campaigns – PAYM Loves Red and Community YOUthCare Festival.
 
 Through CLP, the students will not only hone their leadership skills but also cultivate a sense of appreciation on the importance of bridging diverse communities.
 
@@ -75,7 +75,7 @@ The PAYM engages both schooling and working youths and heightens their sense of 
 
 <img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/GrassRoots%20Organisation/youth14_compressed.jpg"><br><br><br><br><br><br><br><br>
 
-Since 2008, youths have come forward to take charge in creating their own special showcases, taking on roles that see them lead fellow volunteers and performers, and even design their own costumes in the annual extravaganza of Chingay Parade
+Since 2008, youths have come forward to take charge in creating their own special showcases, taking on roles that see them lead fellow volunteers and performers, and even design their own costumes in the annual extravaganza of Chingay Parade.
 
 
 #### PAYM Loves Red
