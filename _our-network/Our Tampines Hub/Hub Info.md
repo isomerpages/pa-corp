@@ -17,12 +17,16 @@ Commercial tenants are one of the channels through which the People’s Associat
 
 View the list of available spaces at OTH for lease [here](/files/Our%20Network/Our%20Tampinies%20Hub/Available%20listing%20on%20OTH%20as%20at%2015%20September%202022.pdf)
 
-Check out our tenant mix in this [video](https://vimeo.com/752413939/f68e34ee79)!
+Check out our tenant mix in this video!
 
-<img style="height:300px;width:400px" align="left" src="/images/Our%20Network/OTH/NYE%20Fireworks%20at%20Town%20Square.jpg"><br><br><br><br><br><br><br><br>
+     
+
+<iframe src="https://player.vimeo.com/video/752413939?h=f68e34ee79&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="960" height="540" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Retail @ OTH"></iframe>
 
 
-The development is guided by three principles: resident-centricity, optimisation of resources and infrastructure, as well as encouraging community ownership through resident engagement.
+
+
+OTH's development is guided by three principles: resident-centricity, optimisation of resources and infrastructure, as well as encouraging community ownership through resident engagement.
 
 As a resident-centric development, the 5 “E”s of a participatory design process was employed from the start to ensure purposeful inclusion of the community in the design process.
 
