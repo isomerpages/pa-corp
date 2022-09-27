@@ -22,6 +22,9 @@ sections:
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
+        - title: Contact Us
+          description: ""
+          url: ""
       button: Read more
       url: /engage/Join-Your-Community
   - resources:
