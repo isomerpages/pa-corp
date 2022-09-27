@@ -58,6 +58,6 @@ sections:
       description: Search for your district's information
       button: SEARCH
       url: /district-info/Details
-      alt: Image alt text
+      alt: /district-info/Details
       image: /images/SG Light up.png
 ---
