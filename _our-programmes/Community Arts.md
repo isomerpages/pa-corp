@@ -5,7 +5,7 @@ description: ""
 ---
 <center><img style="height:100px;width:250px" align="left" src="/images/Our%20Programmes/commarts-logo.png"></center><br><br>
 
-Established by PA with the support of the Ministry of Culture, Community and Youth, the PAssionArts brand was developed to provide a collective identity to community arts in Singapore. It aims to make arts & culture more accessible to the people by bringing it right to the heart of every constituency in Singapore. The vision is to bring arts & culture to reach “Everyone, Everywhere, Everyday”.
+<b>Established</b> by PA with the support of the Ministry of Culture, Community and Youth, the PAssionArts brand was developed to provide a collective identity to community arts in Singapore. It aims to make arts & culture more accessible to the people by bringing it right to the heart of every constituency in Singapore. The vision is to bring arts & culture to reach “Everyone, Everywhere, Everyday”.
 
 The key PAssionArts programmes include:
 * <a href="#Community_Arts">Community Arts and Culture Clubs</a>
