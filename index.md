@@ -59,4 +59,5 @@ sections:
       button: SEARCH
       url: /district-info/Details
       alt: Image alt text
+      image: /images/SG Light up.png
 ---
