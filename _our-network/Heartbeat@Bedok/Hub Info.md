@@ -65,7 +65,7 @@ label {
 .content {
     background: #FFFFFF;
     padding: 10px 25px;
-    margin: 0 0 1px 0;
+    margin: 0 0 0 0;
     border-radius: 3px;
 }
 
