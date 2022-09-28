@@ -81,13 +81,16 @@ label {
 Bounce Bags is a community bag-share campaign for shoppers who have not carried a reusable bag for their purchases. This novel bag-share project is a platform to facilitate re-usable bag sharing. This rack, containing reusable bags kindly donated by residents is installed at the atrium for residents to freely take in order to reduce their usage of single-use plastic bags.  We hope that by being involved in the action, East Coast residents will be able to make a transition towards a plastic bag free lifestyle.  </p></div>
 
 <input type="checkbox" id="Skipstraw">
-	<label for="BouSkipstraw" style="background-color: #FFBBBC; color:#000000;"><b>(B) ‘Skip The Straw'</label>
+	<label for="BouSkipstraw" style="background-color: #FFBBBC; color:#000000;"><b>(B) ‘Skip The Straw'</b></label>
 <div class="content" style="background-color:#FFBBBC;">
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">
 The ‘Skip the Straw’ initiative is a collaboration with the Food and Beverage tenants located within Heartbeat@Bedok that aims to minimise the use of non-biodegradable straws to reduce the release of harmful gases into the environment. The straws will only be made available upon request.</p></div>
-**(C) Our Green Space**
 
-Our Green Space was officially launched in Year 2021. Till date, this recycling collection point has been very well-received by the residents and has collected more than 30,000 tones of wastes including electronic, paper, metal and plastic.
+<input type="checkbox" id="GreenSpace">
+	<label for="GreenSpace" style="background-color: #FFBBBC; color:#000000;"><b>(C) Our Green Space</b></label>
+<div class="content" style="background-color:#FFBBBC;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">
+Our Green Space was officially launched in Year 2021. Till date, this recycling collection point has been very well-received by the residents and has collected more than 30,000 tones of wastes including electronic, paper, metal and plastic.</p></div>
 
 <img style="height:250px;width:350px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_11.jpg">
 <img style="height:250px;width:350px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_20.jpg">
