@@ -33,7 +33,7 @@ Landscape Industry Association Singapore Awards: Implementation – Non Resident
    
 
 In line with the East Coast Plan, Heartbeat@Bedok has introduced several eco-sustainable initiatives to enable the individuals to be conscious about how their actions can impact the environment and hopefully, on their own, take steps to pick up a more environmentally conscious habit. 
-<div style="position:relative;left:20px;right:100px;top:20px;width:80%;background-color:F05A4D;display:block">
+<div style="position:relative;left:20px;right:100px;width80%;background-color:F05A4D;display:block">
 	<h5>(A) Bounce Bag Point</h5>
 
 Bounce Bags is a community bag-share campaign for shoppers who have not carried a reusable bag for their purchases. This novel bag-share project is a platform to facilitate re-usable bag sharing. This rack, containing reusable bags kindly donated by residents is installed at the atrium for residents to freely take in order to reduce their usage of single-use plastic bags.  We hope that by being involved in the action, East Coast residents will be able to make a transition towards a plastic bag free lifestyle.  </div>
