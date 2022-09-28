@@ -33,8 +33,66 @@ Landscape Industry Association Singapore Awards: Implementation – Non Resident
    
 
 In line with the East Coast Plan, Heartbeat@Bedok has introduced several eco-sustainable initiatives to enable the individuals to be conscious about how their actions can impact the environment and hopefully, on their own, take steps to pick up a more environmentally conscious habit. 
-<div style="position:relative;left:20px;right:100px;width80%;background-color:e21822;display:block">
-	<h5>(A) Bounce Bag Point</h5>
+<style>
+
+td {
+		display: table-cell;
+		vertical-align: middle;
+}
+	
+input {
+    display: none;
+}
+
+label {
+    display: block;    
+	  font-size: 120%;
+    padding: 10px 30px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #153855;
+    border-radius: 3px;
+    color: #FFF;
+    transition: ease .5s;
+	position: relative;
+}
+
+label:hover {
+    background: #346f9e;
+}
+
+label::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\271A';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+}
+
+input:checked + label::after {
+	content: '\2716';
+}
+
+.content {
+    background: #FFFFFF;
+    padding: 10px 25px;
+    margin: 0 0 1px 0;
+    border-radius: 3px;
+}
+
+input + label + .content {
+    display: none;
+}
+
+input:checked + label + .content {
+    display: block;
+}
+	
+</style>
+<input type="checkbox" id="Environment">
+	<label for="Environment" style="background-color: #FFBBBC; color:#f7f7f7;"><b>A) Bounce Bag Point</b></label>
 
 Bounce Bags is a community bag-share campaign for shoppers who have not carried a reusable bag for their purchases. This novel bag-share project is a platform to facilitate re-usable bag sharing. This rack, containing reusable bags kindly donated by residents is installed at the atrium for residents to freely take in order to reduce their usage of single-use plastic bags.  We hope that by being involved in the action, East Coast residents will be able to make a transition towards a plastic bag free lifestyle.  </div>
 
