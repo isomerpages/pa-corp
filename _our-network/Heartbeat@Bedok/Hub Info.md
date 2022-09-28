@@ -55,19 +55,9 @@ label {
   	position: relative;
 }
 
-label:hover {
-    background: #346f9e;
-}
 
-label::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\271A';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
-}
+
+
 
 
 
@@ -85,8 +75,8 @@ label::after {
 
 </style>
 <input type="checkbox" id="Bouncebagpoint">
-	<label for="Bouncebagpoint" style="background-color: #FFBBBC; color:#f7f7f7;"><b>A) Bounce Bag Point</b></label>
-<div class="content" style="background-color:#edf4fa;">
+	<label for="Bouncebagpoint" style="background-color: #FFBBBC; color:#000000;"><b>A) Bounce Bag Point</b></label>
+<div class="content" style="background-color:#FFBBBC;">
 <p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">
 Bounce Bags is a community bag-share campaign for shoppers who have not carried a reusable bag for their purchases. This novel bag-share project is a platform to facilitate re-usable bag sharing. This rack, containing reusable bags kindly donated by residents is installed at the atrium for residents to freely take in order to reduce their usage of single-use plastic bags.  We hope that by being involved in the action, East Coast residents will be able to make a transition towards a plastic bag free lifestyle.  </p></div>
 
