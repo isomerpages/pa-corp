@@ -46,6 +46,6 @@ description: ""
 	<tr>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-youth_edited.jpg"></td></tr>
 		<tr>
-		<td><a href="/our-programmes/Youth">Youth</a><br>Channel your youthful<br> energy and help shape your <br>dreams for a happy and <br>vibrant Singapore through<br> our programmes<br><a href="/our-programmes/Youth">Read More</a></td>
+		<td><a href="/our-programmes/Youth">Youth</a><br>Channel your youthful<br> energy and help shape your <br>dreams for a happy and <br>vibrant Singapore through<br> our programmes<br></td>
 	</tr>			
 </table>
