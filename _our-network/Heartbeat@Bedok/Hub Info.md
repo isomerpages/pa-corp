@@ -55,24 +55,12 @@ label {
   	position: relative;
 }
 
-
-
-
-
-
-
-
 .content {
     background: #FFFFFF;
     padding: 10px 25px;
     margin: 0 0 0 0;
-    border-radius: 3px;
+    border-radius: 3 px;
 }
-
-
-
-
-
 </style>
 <input type="checkbox" id="Bouncebagpoint">
 	<label for="Bouncebagpoint" style="background-color: #FFBBBC; color:#000000;"><b>A) Bounce Bag Point</b></label>
