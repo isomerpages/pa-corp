@@ -13,7 +13,7 @@ Whether you are 15 or 50, you can play a part in giving back to the community.
 * Help address local issues and render social assistance to needy Singaporeans
 * Help instill a sense of social responsibility among Singaporeans
 
-Find out more about our <a href="our-network/Grassroots-Organisations/Grassroots-Organisations" style="font-size:15px; width:45%; height:30px; background-color:#0899AA; color:white" class="bp-button"><b>Grassroots Organisations</b> </a>
+Find out more about our <a href="our-network/Grassroots-Organisations/Grassroots-Organisations" style="font-size:15px; width:40%; height:30px; background-color:#0899AA; color:white" class="bp-button"><b>Grassroots Organisations</b> </a>
 
 #### Volunteering with the Community Development Councils
 
