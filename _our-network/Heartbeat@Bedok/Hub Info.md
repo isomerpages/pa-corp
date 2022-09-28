@@ -52,8 +52,7 @@ label {
     background: #153855;
     border-radius: 3px;
     color: #FFF;
-    transition: ease .5s;
-	position: relative;
+  	position: relative;
 }
 
 label:hover {
