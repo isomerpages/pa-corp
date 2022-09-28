@@ -36,7 +36,7 @@ In line with the East Coast Plan, Heartbeat@Bedok has introduced several eco-sus
 <style>
 
 td {
-		display: table-cell;
+		display: block;
 		vertical-align: middle;
 }
 	
@@ -49,7 +49,6 @@ label {
 	  font-size: 120%;
     padding: 10px 30px;
     margin: 0 0 1px 0;
-    cursor: pointer;
     background: #153855;
     border-radius: 3px;
     color: #FFF;
@@ -71,9 +70,8 @@ label::after {
 	top: 6px;
 }
 
-input:checked + label::after {
-	content: '\2716';
-}
+
+
 
 .content {
     background: #FFFFFF;
@@ -82,19 +80,16 @@ input:checked + label::after {
     border-radius: 3px;
 }
 
-input + label + .content {
-    display: none;
-}
 
-input:checked + label + .content {
-    display: block;
-}
-	
+
+
+
 </style>
-<input type="checkbox" id="Environment">
-	<label for="Environment" style="background-color: #FFBBBC; color:#f7f7f7;"><b>A) Bounce Bag Point</b></label>
-
-Bounce Bags is a community bag-share campaign for shoppers who have not carried a reusable bag for their purchases. This novel bag-share project is a platform to facilitate re-usable bag sharing. This rack, containing reusable bags kindly donated by residents is installed at the atrium for residents to freely take in order to reduce their usage of single-use plastic bags.  We hope that by being involved in the action, East Coast residents will be able to make a transition towards a plastic bag free lifestyle.  </div>
+<input type="checkbox" id="Bouncebagpoint">
+	<label for="Bouncebagpoint" style="background-color: #FFBBBC; color:#f7f7f7;"><b>A) Bounce Bag Point</b></label>
+<div class="content" style="background-color:#edf4fa;">
+<p style="font-size:18px; margin-top: 2px; margin-bottom:0px; line-height:1.35;">
+Bounce Bags is a community bag-share campaign for shoppers who have not carried a reusable bag for their purchases. This novel bag-share project is a platform to facilitate re-usable bag sharing. This rack, containing reusable bags kindly donated by residents is installed at the atrium for residents to freely take in order to reduce their usage of single-use plastic bags.  We hope that by being involved in the action, East Coast residents will be able to make a transition towards a plastic bag free lifestyle.  </p></div>
 
 **(B) ‘Skip The Straw’**
 
