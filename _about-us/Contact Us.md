@@ -5,7 +5,7 @@ description: ""
 ---
 ### People's Association Headquarters
 
-Click [here](https://www.pa.gov.sg/Our-Network/Community-Clubs/Locate-CCs) to search for your nearest Community Club (CC).
+Click [here]() to search for your nearest Community Club (CC).
 
 ### Getting to People's Association Headquarters
 
@@ -47,4 +47,3 @@ The PA Contact Centre operates from 8 am to 6 pm daily, except public holidays. 
 Monday to Friday - 9.00 am to 6.00 pm                              
 
 Closed on weekends and Public Holidays
-
