@@ -16,7 +16,7 @@ The **Ask Kopi Kakis** booklets, a set of three easy-to-read policy e-booklets, 
 <a href="/files/Engage/pa-career-a4-eng-30pp-30122021-(final).pdf)"><img   style="height:300;width:250"align="left" src="/images/Engage/Getting%20ahead%20in%20my%20career.png"><br><br><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults.
 		</td>
 		<td>
-		<a href="/files/Engage/pa-family-a4-39pp-eng-30122021-(final).pdf"><img   align="center" src="/images/Engage/Caring%20My%20Family.png"><br></a>Policies relating to setting up a home and family and initiatives to help with the cost of living.
+		<a href="/files/Engage/pa-family-a4-39pp-eng-30122021-(final).pdf"><img   style="height:300;width:250" align="center" src="/images/Engage/Caring%20My%20Family.png"><br></a>Policies relating to setting up a home and family and initiatives to help with the cost of living.
 		</td>
 		<td>
 			<a href="/files/Engage/pa-senior-a4-36pp-eng-30122021-(final).pdf"><img   align="right" src="/images/Engage/Caring%20for%20Seniors.png"><br><br><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing
