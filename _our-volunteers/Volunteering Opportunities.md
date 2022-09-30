@@ -27,7 +27,7 @@ Find out more about our <a href="/our-network/Grassroots-Organisations/Grassroot
                    * Help explain government initiatives<br>
 								
 								
-Find out more about our Community Development Councils [here](/our-network/Community-Development-Councils/Community-Development-Councils).
+Find out more about our [Community Development Councils](/our-network/Community-Development-Councils/Community-Development-Councils).
 
 #### Have a question to ask?
 
