@@ -11,7 +11,7 @@ description: ""
 													object-position: right;
 													width:300px;
 													height:200px;
-													border: solid 0px #CCC"/> <br>
+													border: solid 0px #CCC"/><br>
 			<a href="/our-programmes/Active-Ageing">Active-Ageing</a><br>
 			Learn about the different engagement programmes for seniors in their Silver years. <br>
 		</td>
@@ -21,20 +21,21 @@ description: ""
 													object-position: right;
 													width:300px;
 													height:200px;
-													border: solid 0px #CCC"/>
+													border: solid 0px #CCC"/><br>
+		<a href="/our-programmes/Community-Arts">Community Arts</a><br>
+			Learn more about how art inspires and brings different communities together. <br>
 		</td>
 		<td>
 		<img src="/images/Programmes/main-communitydialogue_edited.jpg"  style="object-fit:cover;
 						object-position: right;
 						width:300px;
 						height:200px;
-						border: solid 0px #CCC"/>
+						border: solid 0px #CCC"/><br>
+		<a href="/our-programmes/Community-Dialogue">Community Dialogue</a><br>PA acts as a vital link between the Government and the community through community dialogues<br>
 	</td>
 	</tr>
 	<tr>
-		<td><br></td>
-		<td><div style="position:relative;left:34px;"><a href="/our-programmes/Community-Arts">Community Arts</a><br>Learn more about how art<br> inspires and  brings<br> different communities together.<br></div></td>
-		<td><a  href="/our-programmes/Community-Dialogue"> Community  Dialogue</a><br>PA acts as a vital link between the Government and the community through <br> community dialogues.<br>	</td></tr>
+	<td><a  href="/our-programmes/Community-Dialogue"> Community  Dialogue</a><br>PA acts as a vital link between the Government and the community through <br> community dialogues.<br>	</td></tr>
 <tr>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-racialharmony.jpg"></td>
 		<td><img style="height:200px;width:220px" src="/images/Programmes/main-familylife.jpg"></td>
