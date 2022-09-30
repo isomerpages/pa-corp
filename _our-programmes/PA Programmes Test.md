@@ -55,13 +55,18 @@ description: ""
 			<a href="/our-programmes/Family-life">Family life</a><br>
 			Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of different backgrounds.<br>
 		</td>
-		<td><img style="height:200px;width:300px" src="/images/Programmes/main-communitysports.jpg"></td>
+		<td>
+			<img src="/images/Programmes/main-communitysports.jpg"
+							 style="object-fit:cover;
+													object-position: centre;
+													width:300px;
+													height:200px;
+													border: solid 0px #CCC"/><br>
+			<a href="/our-programmes/Community-Sports">Community Sports</a><br>
+			Enjoy the thrills of spills of our exciting sports events that not only bring people together but also build character.<br>
+		</td>
 	</tr>
-<tr>
-		<td></td> 
-		<td><div style="position:relative;left:34px"><a href="/our-programmes/Family-life">Family Life</a><br>Participate in our family programmes <br>to strengthen family bonds and <br>build a strong community.<br></div></td>
-		<td><a  href="/our-programmes/Community-Sports"> Community  Sports</a><br>Enjoy the thrills and spills of our exciting sports events<br> that not only bring people<br> together but also build character.<br>
-	</td></tr>
+
 <tr>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-communityintegration.jpg"></td>
 		<td><img style="height:200px;width:220px" src="/images/Programmes/main-cccourses_edited.jpg"></td>
