@@ -40,7 +40,7 @@ Singapore 208581
 
 PA Contact Centre’s Hotline: 62255322.
 
-The PA Contact Centre operates from 8 am to 6 pm daily, except public holidays. You can also reach PA via our online form at [www.pa.gov.sg/feedback](https://www.pa.gov.sg/feedback).
+The PA Contact Centre operates from 8 am to 6 pm daily, except public holidays. You can also reach PA via our [online form](https://www.pa.gov.sg/feedback).
 
 **PA Operating Hours:** 
 
