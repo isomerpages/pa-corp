@@ -8,7 +8,7 @@ description: ""
 		<td>
 		<img src="/images/Programmes/main-activeageing_edited.jpg"
 							style="object-fit:cover;
-													object-position: right;
+													object-position: centre;
 													width:300px;
 													height:200px;
 													border: solid 0px #CCC"/><br>
@@ -27,7 +27,7 @@ description: ""
 		</td>
 		<td>
 		<img src="/images/Programmes/main-communitydialogue_edited.jpg"  style="object-fit:cover;
-						object-position: right;
+						object-position: centre;
 						width:300px;
 						height:200px;
 						border: solid 0px #CCC"/><br>
@@ -35,14 +35,30 @@ description: ""
 	</td>
 	</tr>
 	<tr>
-	<td><a  href="/our-programmes/Community-Dialogue"> Community  Dialogue</a><br>PA acts as a vital link between the Government and the community through <br> community dialogues.<br>	</td></tr>
-<tr>
-		<td><img style="height:200px;width:300px" src="/images/Programmes/main-racialharmony.jpg"></td>
-		<td><img style="height:200px;width:220px" src="/images/Programmes/main-familylife.jpg"></td>
+		<td>
+		<img src="/images/Programmes/main-racialharmony.jpg"
+						 style="object-fit:cover;
+													object-position: centre;
+													width:300px;
+													height:200px;
+													border: solid 0px #CCC"/><br>
+			<a href="/our-programmes/Racial-Harmony">Racial Harmony</a><br>
+			Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of different backgrounds.<br>
+		</td>
+		<td>
+			<img src="/images/Programmes/main-familylife.jpg"
+							 style="object-fit:cover;
+													object-position: centre;
+													width:300px;
+													height:200px;
+													border: solid 0px #CCC"/><br>
+			<a href="/our-programmes/Family-life">Family life</a><br>
+			Enjoy programmes that enhance understanding, respect, mutual support and interaction among residents of different backgrounds.<br>
+		</td>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-communitysports.jpg"></td>
 	</tr>
 <tr>
-		<td><a href="/our-programmes/Racial-Harmony">Racial Harmony</a><br>Enjoy programmes that <br>enhance understanding,<br> respect, mutual support and <br>interaction among residents<br> of different backgrounds.<br></td> 
+		<td></td> 
 		<td><div style="position:relative;left:34px"><a href="/our-programmes/Family-life">Family Life</a><br>Participate in our family programmes <br>to strengthen family bonds and <br>build a strong community.<br></div></td>
 		<td><a  href="/our-programmes/Community-Sports"> Community  Sports</a><br>Enjoy the thrills and spills of our exciting sports events<br> that not only bring people<br> together but also build character.<br>
 	</td></tr>
