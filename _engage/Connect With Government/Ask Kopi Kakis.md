@@ -11,10 +11,9 @@ The **Ask Kopi Kakis** booklets, a set of three easy-to-read policy e-booklets, 
 **English Version**<br>
 (Booklets updated as at 30 Dec 2021)
 
-
 <table>
 	<tr><td>
-<a href="/files/Engage/pa-career-a4-eng-30pp-30122021-(final).pdf)"><img   align="left" src="/images/Engage/Getting%20ahead%20in%20my%20career.png"><br><br><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults.
+<a href="/files/Engage/pa-career-a4-eng-30pp-30122021-(final).pdf)"><img   style="height:300;width:250"align="left" src="/images/Engage/Getting%20ahead%20in%20my%20career.png"><br><br><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults.
 		</td>
 		<td>
 		<a href="/files/Engage/pa-family-a4-39pp-eng-30122021-(final).pdf"><img   align="center" src="/images/Engage/Caring%20My%20Family.png"><br></a>Policies relating to setting up a home and family and initiatives to help with the cost of living.
