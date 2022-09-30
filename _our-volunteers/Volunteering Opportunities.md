@@ -33,4 +33,6 @@ Find out more about our [Community Development Councils](/our-network/Community-
 
 We address your questions [here](/files/Our%20Volunteers/finalfaq.pdf)
 
-[Apply Online](https://www.grassrootsconnect.pa.gov.sg/VolunteerRegistration.aspx) now to become a PA volunteer.
+
+<a href="https://www.grassrootsconnect.pa.gov.sg/VolunteerRegistration.aspx" style="font-size:15px; width:20%; height:30px; background-color:#0899AA; color:white" class="bp-button"><b>Apply Online</b> </a>
+now to become a PA volunteer.
