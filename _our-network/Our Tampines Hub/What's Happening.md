@@ -14,11 +14,11 @@ The series of video clips below showcases our key facilities, the different visi
 * [PAssion Card Benefits](https://www.youtube.com/watch?v=_QW_YvxjrH4)
 * [For Teens](https://www.youtube.com/watch?v=TPGQYsmJdns&feature=youtu.be)
 * [Seniors Day Out](https://www.youtube.com/watch?v=h4NgsH4j69w&feature=youtu.be)
-* Public Service Centre: [VIEW](https://www.youtube.com/watch?v=BiWVuBV3C0U&feature=youtu.be)
-* Family Fun: [VIEW](https://www.youtube.com/watch?v=c-VNllkPDBI&feature=youtu.be)
-* Green Heroes: [VIEW](https://www.youtube.com/watch?v=eBSkwVEPQb8&feature=youtu.be)
-* For Techies: [VIEW](https://www.youtube.com/watch?v=Iu5M8KTVA1A)
-* For Foodies: [VIEW](https://www.youtube.com/watch?v=KdB_PpJtIMY&feature=youtu.be)
+* [Public Service Centre](https://www.youtube.com/watch?v=BiWVuBV3C0U&feature=youtu.be)
+* [Family Fun](https://www.youtube.com/watch?v=c-VNllkPDBI&feature=youtu.be)
+* [Green Heroes](https://www.youtube.com/watch?v=eBSkwVEPQb8&feature=youtu.be)
+* [For Techies](https://www.youtube.com/watch?v=Iu5M8KTVA1A)
+* [For Foodies](https://www.youtube.com/watch?v=KdB_PpJtIMY&feature=youtu.be)
 
 In case you missed it, here is also a series of clips showcasing event and programme highlights throughout 2018.
 
