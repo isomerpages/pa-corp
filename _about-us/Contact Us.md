@@ -13,7 +13,7 @@ Click [here](/https://www.onepa.gov.sg/cc) to search for your nearest Communit
 9 King George's Avenue  
 Singapore 208581
 
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7778049846565!2d103.85711995089758!3d1.3085633620651465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c8331b834b%3A0x7331b549928866eb!2sPeople&#39;s%20Association!5e0!3m2!1sen!2ssg!4v1664512018769!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
 
 **By MRT**:
 
