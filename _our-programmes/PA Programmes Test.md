@@ -9,7 +9,7 @@ description: ""
 		<img src="/images/Programmes/main-activeageing_edited.jpg"
 							style="object-fit:cover;
 													object-position: centre;
-													width:300px;
+													width:250px;
 													height:200px;
 													border: solid 0px #CCC"/><br>
 			<a href="/our-programmes/Active-Ageing">Active-Ageing</a><br>
@@ -19,7 +19,7 @@ description: ""
 		<img src="/images/Programmes/main-communityarts_edited.jpg"
 							style="object-fit:cover;
 													object-position: right;
-													width:300px;
+													width:250px;
 													height:200px;
 													border: solid 0px #CCC"/><br>
 		<a href="/our-programmes/Community-Arts">Community Arts</a><br>
@@ -28,7 +28,7 @@ description: ""
 		<td>
 		<img src="/images/Programmes/main-communitydialogue_edited.jpg"  style="object-fit:cover;
 						object-position: centre;
-						width:300px;
+						width:250px;
 						height:200px;
 						border: solid 0px #CCC"/><br>
 		<a href="/our-programmes/Community-Dialogue">Community Dialogue</a><br>PA acts as a vital link between the Government and the community through community dialogues<br>
@@ -39,7 +39,7 @@ description: ""
 		<img src="/images/Programmes/main-racialharmony.jpg"
 						 style="object-fit:cover;
 													object-position: centre;
-													width:300px;
+													width:250px;
 													height:200px;
 													border: solid 0px #CCC"/><br>
 			<a href="/our-programmes/Racial-Harmony">Racial Harmony</a><br>
@@ -49,7 +49,7 @@ description: ""
 			<img src="/images/Programmes/main-familylife.jpg"
 							 style="object-fit:cover;
 													object-position: centre;
-													width:300px;
+													width:250px;
 													height:200px;
 													border: solid 0px #CCC"/><br>
 			<a href="/our-programmes/Family-life">Family life</a><br>
@@ -59,14 +59,13 @@ description: ""
 			<img src="/images/Programmes/main-communitysports.jpg"
 							 style="object-fit:cover;
 													object-position: centre;
-													width:300px;
+													width:250px;
 													height:200px;
 													border: solid 0px #CCC"/><br>
 			<a href="/our-programmes/Community-Sports">Community Sports</a><br>
 			Enjoy the thrills of spills of our exciting sports events that not only bring people together but also build character.<br>
 		</td>
 	</tr>
-
 <tr>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-communityintegration.jpg"></td>
 		<td><img style="height:200px;width:220px" src="/images/Programmes/main-cccourses_edited.jpg"></td>
