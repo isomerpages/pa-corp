@@ -24,9 +24,9 @@ In case you missed it, here is also a series of clips showcasing event and progr
 
 It includes milestone celebrations like OTH’s First Anniversary and our biggest event of the year, OTH’s New Year’s Eve Countdown to 2019 on 31 December 2018!
 
-* Jan to  Mar 2018 Event Highlights: [VIEW](https://www.youtube.com/watch?v=r7COmnFb2tw&feature=youtu.be)
-* Apr to Jun 2018 Event Highlights: [VIEW](https://www.youtube.com/watch?v=NZR6QdLCbmw&feature=youtu.be)
-* Jul to Sep 2018 Event Highlights: [VIEW](https://www.youtube.com/watch?v=8VE826fNIMg&feature=youtu.be)
-* Our Tampines Hub's 1st Anniversary: [VIEW](https://www.youtube.com/watch?v=qSk1oOo8feU&feature=youtu.be)
-* Our Tampines Hub's Thank You: [VIEW](https://www.youtube.com/watch?v=b-qqMzPvMMk&feature=youtu.be)
-* Countdown to 2019 at Our Tampines Hub: [VIEW](https://www.youtube.com/watch?v=ni6iqKHS-rE&feature=youtu.be)
+* [Jan to  Mar 2018 Event Highlights](https://www.youtube.com/watch?v=r7COmnFb2tw&feature=youtu.be)
+* [Apr to Jun 2018 Event Highlights](https://www.youtube.com/watch?v=NZR6QdLCbmw&feature=youtu.be)
+* [Jul to Sep 2018 Event Highlights](https://www.youtube.com/watch?v=8VE826fNIMg&feature=youtu.be)
+* [Our Tampines Hub's 1st Anniversary](https://www.youtube.com/watch?v=qSk1oOo8feU&feature=youtu.be)
+* [Our Tampines Hub's Thank You](https://www.youtube.com/watch?v=b-qqMzPvMMk&feature=youtu.be)
+* [Countdown to 2019 at Our Tampines Hub](https://www.youtube.com/watch?v=ni6iqKHS-rE&feature=youtu.be)
