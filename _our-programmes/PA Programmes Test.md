@@ -5,9 +5,29 @@ description: ""
 ---
 <table>
 	<tr>
-		<td><img style="height:200px;width:300px" src="/images/Programmes/main-activeageing_edited.jpg"></td>
-		<td ><img style="height:200px;width:220px" src="/images/Programmes/main-communityarts_edited.jpg"></td>
-		<td><img style="height:200px;width:300px" src="/images/Programmes/main-communitydialogue_edited.jpg"></td>
+		<td>
+		<img src="/images/Programmes/main-activeageing_edited.jpg"
+							style="object-fit:cover;
+													object-position: right;
+													width:200px;
+													height:200px;
+													border: solid 0px #CCC"/>
+		</td>
+		<td >
+		<img src="/images/Programmes/main-communityarts_edited.jpg"
+							style="object-fit:cover;
+													object-position: right;
+													width:200px;
+													height:200px;
+													border: solid 0px #CCC"/>
+		</td>
+		<td>
+		<img src="/images/Programmes/main-communitydialogue_edited.jpg"  style="object-fit:cover;
+						object-position: right;
+						width:200px;
+						height:200px;
+						border: solid 0px #CCC"/>
+	</td>
 	</tr>
 	<tr>
 		<td><a href="/our-programmes/Active-Ageing">Active-Ageing</a><br>Learn about the different engagement programmes for seniors in their Silver years.<br></td>
