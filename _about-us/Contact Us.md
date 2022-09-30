@@ -5,7 +5,7 @@ description: ""
 ---
 ### People's Association Headquarters
 
-Click [here]() to search for your nearest Community Club (CC).
+Click [here](/https://www.onepa.gov.sg/cc) to search for your nearest Community Club (CC).
 
 ### Getting to People's Association Headquarters
 
@@ -13,7 +13,7 @@ Click [here]() to search for your nearest Community Club (CC).
 9 King George's Avenue  
 Singapore 208581
 
-Please click [here](https://www.onemap.sg/main/v2/?lat=1.30863358731787&lng=103.859134584436) to view the location map.
+
 
 **By MRT**:
 
