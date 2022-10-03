@@ -31,15 +31,13 @@ Platforms such as dialogue and networking sessions are available for partners to
 
 <img style="height:200px;width:200px" align="left" src="/images/Our%20Network/Partners/icon4.jpg"><br><br><br><br><br>
 
-#### Recognition for Partners
+#### Recognition of Partners
 
 We recognise strategic partners who have worked closely with PA. The PA Community Spirit Award Scheme is given to exemplary partners who have assisted in building social capital and contributed to the community.
 
 
-#### Be a Friend of PA, Be Our WeCare 
+#### Be a Friend of PA, Be Our WeCare PALs
 
-WeCare PALs are our friends of PA, an overarching term we use for all our PA partners. Check out the [WeCare PALs](/our-network/Partners/WeCare-PALs) page to find out more about WeCare PALs and how your organisation can partner with us!
-
-
+WeCare PALs are our friends of PA, an overarching term used for all our PA partners. Check out the [WeCare PALs](/our-network/Partners/WeCare-PALs) page to find out more info on how your organisation can partner with us!
 
 If you are a corporate organisation keen on corporate giving and volunteerism, join [Project We Care](/our-network/partners/project-we-care) and let us co-create meaningful programmes together!
