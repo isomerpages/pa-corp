@@ -4,7 +4,7 @@ permalink: /our-network/Partners/Project-We-Care/
 description: ""
 third_nav_title: Partners
 ---
-<img style="height:300px;width:400px"  align="left" src="/images/Project%20We%20Care/pwc%20logo.png"><br><br><br><br><br><br><br><br>
+<img style="width:400px"  align="center" src="/images/Project%20We%20Care/pwc%20logo.png"><br>
 
 Established in 2012, the **Project We Care CEOs and Business Leaders Network** is a **corporate social responsibility (CSR) initiative** led by the private sector and the People’s Association (PA) to encourage corporate giving and volunteerism in Singapore; engaging CEOs and business leaders to rally their employees to contribute towards meaningful causes in the community.
 
@@ -15,9 +15,9 @@ To find out more about our latest news happenings, read our newsletter **[here]
 From befriending disadvantaged families to upskilling the community, our corporate partners play a pivotal role in creating a more inclusive and compassionate society, enabling Project We Care to live out its mission of connecting businesses and impacting lives.
 
 
-<img style="height:300px;width:400px"  align="left" src="/images/Project%20We%20Care/Time%20and%20Talent.png"><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Project%20We%20Care/Time%20and%20Talent.png">
 
-<img style="height:300px;width:404px"  align="left" src="/images/Project%20We%20Care/treasure%20-%20grouped%20edited.png"><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Project%20We%20Care/treasure%20-%20grouped%20edited.png"><br>
 
 ### **Why choose Project We Care as your preferred Corporate Social Responsibility (CSR) partner?**
 
@@ -25,11 +25,11 @@ With our community lenses and wide network, Project We Care serves as your one-s
 
 **To date, more than 380 companies** have partnered the Project We Care Network to give back to underprivileged groups in their journey towards making a positive difference on the community. Share with us your values, objectives and let us discuss how we can co-curate your CSR engagements to benefit the community together.
 
-<img style="height:250px;width:600px"  align="left" src="/images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png"><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png"><br>
 
-<img style="height:250px;width:600px"  align="left" src="/images/Project%20We%20Care/girish%20-%20edited%20(28%20Jan%202022).png"><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Project%20We%20Care/girish%20-%20edited%20(28%20Jan%202022).png"><br>
 
-<img style="height:250px;width:600px"  align="left" src="/images/Project%20We%20Care/taufiq%20-%20edited%20(28%20Jan%202022).png"><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Project%20We%20Care/taufiq%20-%20edited%20(28%20Jan%202022).png"><br>
 
 ### **Do Good with Us**
 
