@@ -6,12 +6,11 @@ third_nav_title: Community Development Councils
 ---
 The five Community Development Councils (CDCs) come together to run common flagship programmes to support the Government’s efforts in promoting a caring, inclusive, resilient and future-ready Singapore; and engender and spread goodwill among the people.
 
-Below are examples of such collaboration
+Below are examples of such collaborations:
 
 #### CDC Vouchers Scheme 2022
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/CDCVS.png"><br><br><br><br><br><br><br><br>
-
+<img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Development%20Councils/CDCVS.png"><br>
 
 Finance Minister Mr Lawrence Wong announced at Budget 2022 that the Community Development Councils (CDCs) will be giving three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.
 
@@ -23,7 +22,7 @@ Learn how you can claim your CDC Vouchers 2022 at [vouchers.cdc.gov.sg.](https:/
 
 #### Kong Meng San – CDC COVID-19 Relief Fund 
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/KMS.png"><br><br><br><br><br><br><br><br>
+<img style="width:600px" align="center" src="/images/Our%20Network/Community%20Development%20Councils/KMS.png"><br>
 
 The five Community Development Councils (CDCs) and Kong Meng San Phor Kark See Monastery (KMSPKS) were pleased to announce the enhanced Kong Meng San-CDC COVID-19 Relief Fund.
 
@@ -41,7 +40,7 @@ For more information, visit the [CDC website.](https://www.cdc.gov.sg/)
 
 #### Law Awareness Weeks@CDC (LAW@CDC)
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/LAWCDC.png"><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Development%20Councils/LAWCDC.png"><br>
 
 LAW@CDC was started to educate residents through legal talks conducted across the five districts on basic legal knowledge. These talks are held at Community Centres/Clubs (CCs) and Residents' Committee (RC) Centres. The talks are tailored for those who are not legally trained by breaking down legal jargons so that they are easy to understand. 
 
@@ -50,7 +49,7 @@ On 28 September 2020, Minister Edwin Tong announced the renewal of two Memorandu
 
 #### Maybank Family Fund@CDC
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/MAYBANK.png"><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Development%20Councils/MAYBANK.png"><br>
 
 Launched in November 2018, the $1.55 million Maybank Family Fund@CDC aims to uplift low income and vulnerable families through three broad areas of financial empowerment, livelihood and employability.
 
@@ -58,14 +57,14 @@ The fund includes a five-year insurance coverage scheme by Maybank to provide me
 
 #### National Integration Council (NIC) - CDC Corporate Social Integration (CSI) Fund
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/NIC%20CDC.png"><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Development%20Councils/NIC%20CDC.png"><br>
 
 Jointly developed by the National Integration Council (NIC) and the Community Development Councils (CDCs), the Corporate Social Integration (CSI) Fund encourages companies to do their part for the community by getting their employees to contribute in the most meaningful way.   For example, Corporate organisations may organise befriending sessions with vulnerable seniors, bring the underprivileged children out for fun-filled experiences, or even bring festive cheers to our marginalised families, and at the same time, enable employees to build bonds and teamwork and use their skills and expertise for a greater good.
 
 
 #### SkillsFuture Advice and SkillsFuture@CDC
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/SKILLSFUTURE.png"><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Development%20Councils/SKILLSFUTURE.png"><br>
 
 On 25 September 2020, Minister Lawrence Wong witnessed the virtual SkillsFuture Advice (SFA) Memorandum of Understanding (MOU) between Community Development Councils (CDCs), SkillsFuture Singapore (SSG) and Employment and Employability Institute (e2i) to affirm their commitment to support Singaporeans in skills upgrading and career planning. 
 
@@ -74,13 +73,14 @@ SFA is a community outreach initiative that was launched in 2017.  It helps resi
 
 #### SME Centres@CDC
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/SME%20CENTRE.png"><br><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Development%20Councils/SME%20CENTRE.png"><br>
+
 SME Centres and the five CDCs have collaborated to establish a wider network of SME Centres across Singapore to provide Heartland SMEs with greater convenience and access to business resources and advice.  These SME Centres provide local business with integrated services including business and productivity diagnosis, guidance on government assistance schemes and capability workshop.
 
 
 #### WeCare Arts Fund@CDC
 
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/Community%20Development%20Councils/WECARE%20ARTS.png"><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Development%20Councils/WECARE%20ARTS.png"><br>
 
 The WeCare Arts Fund is a grant scheme in partnership between the Community Development Councils (CDCs) and the National Arts Council (NAC).  The fund aims to support Social Service Agencies (SSAs) by engaging their beneficiaries through the arts.  The CDCs and the NAC renewed their partnership on 4 September 2017 by setting aside $1 million for the WeCare Arts Fund over the next two year for programmes that make arts inclusive and promote self-confidence amongst the disadvantaged and underserved communities. The fund supports project costs that involve artists working directly with SSAs and their beneficiaries through the Performing, Visual, Literary and Multi-Disciplinary arts.
 
