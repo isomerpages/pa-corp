@@ -29,5 +29,5 @@ We welcome and celebrate diversity. By co-creating a community, we create an env
 <img style="width:350px" align="left" src="/images/About%20Us/60th%20Anniversary/Diversity%20and%20Inclusiveness.jpg"><br><br><br><br>
 
 #### Innovation and Excellence
-We create new ascents and deliver on our promises to the highest standards
+We create new ascents and deliver on our promises to the highest standards<br><br><br>
 <img style="width:350px" align="left" src="/images/About%20Us/60th%20Anniversary/Innovation%20and%20Excellence.jpg">
