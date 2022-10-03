@@ -4,14 +4,15 @@ permalink: /our-network/Partners/WeCare-PALs/
 description: ""
 third_nav_title: Partners
 ---
-<img style="height:300px;width:550px"  align="left" src="/images/Our%20Network/Partners/Facebook%20Banner%20(Final)%2027%20April.jpg"><br><br><br><br><br><br><br><br><br>
+<img style="width:550px"  align="centre" src="/images/Our%20Network/Partners/Facebook%20Banner%20(Final)%2027%20April.jpg"><br>
 
 WeCare PALs are our corporate and community partners, working hand-in-hand with us and our grassroots networks, with the aim to create a caring society. Through cause-driven programmes, PA hopes to enable WeCare PALs to jointly play a meaningful role in helping the underprivileged, disadvantaged and/or special needs citizens to deepen the connections with the community.
 
 ### How can you partner with us?
 
 
-<img style="height:350px;width:400px"  align="left" src="/images/Our%20Network/Partners/We%20care%20PALS.png"><br><br><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/Partners/We%20care%20PALS.png"><br>
+
 ### Join us in the WeCare Journey!
 
 
