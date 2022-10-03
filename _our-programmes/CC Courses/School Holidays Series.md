@@ -4,7 +4,7 @@ permalink: /our-programmes/CC-Courses/School-Holidays-Series/
 description: ""
 third_nav_title: CC Courses
 ---
-<img style="height:300px;width:400px" align= "left" src="/images/Programmes/CC%20Courses/School%20Holidays%20Series%20MayJun%202022%20Cover%20(1).png"><br><br><br><br><br><br><br><br>
+<img style="height:300px;width:350px" align= "left" src="/images/Programmes/CC%20Courses/School%20Holidays%20Series%20MayJun%202022%20Cover%20(1).png"><br><br><br><br><br><br><br><br>
 
 One learns better while having fun!
 
