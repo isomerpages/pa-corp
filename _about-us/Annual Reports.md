@@ -6,7 +6,7 @@ description: ""
 #####  Annual Report 20/21
 
 
-<img style="height:300px;width:300px" align="left" src="![Annual Report 2122](/images/PA%20AR%202122.png)"><br>
+<img style="height:300px;width:300px" align="left" src="!/images/PA%20AR%202122.png"><br>
 <br><br><br><br><br><br><br>
 
 [Download Annual Report ](https://go.gov.sg/pa-annual-report-2122)<br>
