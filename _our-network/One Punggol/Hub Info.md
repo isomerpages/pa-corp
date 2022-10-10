@@ -46,6 +46,4 @@ One Punggol will also feature community spaces on its roof! With 8 BBQ pits, com
 
 In addition, One Punggol will also feature a multitude of other retail, food and beverage options for visitors. These service and facility features will also support and nurture a collaborative environment between co-location partners, thereby allowing more innovative and varied programme offerings to be made available to the community.
 
-For more content on One Punggol, visit our YouTube channel: Onepunggol
-
 ![]()
