@@ -1,17 +1,24 @@
 ---
 title: Annual Reports
-permalink: /about-us/Annual-Reports
+permalink: /about-us/Annual-Reports/
 description: ""
 ---
-
 #####  Annual Report 20/21
 
 
-<img style="height:300px;width:300px" align="left" src="/images/About%20Us/Annual%20Reports/AR20.png"><br>
+<img style="height:300px;width:300px" align="left" src="![Annual Report 2122](/images/PA%20AR%202122.png)"><br>
 <br><br><br><br><br><br><br>
 
-[Download Annual Report ](https://go.gov.sg/pa-annual-report-2021)
+[Download Annual Report ]()
 ### Past Publications
+
+##### Annual Report 20/21
+
+
+
+<img style="height:200px;width:200px"  align="left" src="/images/About%20Us/Annual%20Reports/AR20.png"><br><br><br><br><br>
+
+[Download Annual Report](https://go.gov.sg/pa-annual-report-2021)
 
 ##### Annual Report 19/20
 
@@ -19,8 +26,8 @@ description: ""
 
 <img style="height:200px;width:200px"  align="left" src="/images/About%20Us/Annual%20Reports/AR19.png"><br><br><br><br><br>
 
-[Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1920.pdf)
-																					 
+[Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1920.pdf)			
+
 ##### Annual Report 18/19
 
 
