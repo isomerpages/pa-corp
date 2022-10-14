@@ -25,6 +25,4 @@ Come face-to-face with business experts and gain understanding on the inner work
 ### Brochures
 **Industry Guru Series - Deep Dive Learning Courses (Coming Soon!)**
 
- 
-
 For more information on Industry Guru Series, visit the [PMET Network](https://www.facebook.com/pmetnetwork) Facebook page.
