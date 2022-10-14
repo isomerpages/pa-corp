@@ -4,17 +4,19 @@ permalink: /careers/Why-Join/
 description: ""
 ---
 #### Tan Jun Yi <br>
-  <img style="height:300px;width:250px"  align="left" src="/images/Careers/Tan%20Jun%20Yi.jpg"><br><br><br><br><br><br><br><br><br>
-Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her a unique working experience to be a catalyst to bring people of all walks of life together to foster friendship and bonding through sports.<br>
+  <img style="width:300px"  align="center" src="/images/Careers/Tan%20Jun%20Yi.png">
+	
+Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her a unique working experience to be a catalyst to bring people of all walks of life together to foster friendship and bonding through sports. <br>
 [Read More](/files/Careers/story-tan-jun-yi.pdf)
 
 #### Edwin Yap Chee Kian <br>
- <img style="height:300px;width:250px"  align="left" src="/images/Careers/Edwin%20Yap%20Chee%20Kian.png"><br><br><br><br><br><br><br><br><br><br>
+<img style="width:450px" align="center" src="/images/Careers/Edwin.png">
+ 
 Mr Edwin Yap, Head (Community Arts - Bishan-Toa Payoh GRC) enjoys meeting people from all walks of life and hopes he is able to help them in one way or another through his work.<br>
 [Read More](/files/Careers/story-edwin-yap-chee-kian.pdf)
 
 #### Wendy Zeng<br>
-<img style="height:300px;width:250px"  align="left" src="/images/Careers/Wendy%20Zeng.jpg"><br><br><br><br><br><br><br><br>
+<img style="width:450px"  align="center" src="/images/Careers/wendy.png">
 
 Deputy Constituency Director, Kebun Baru Constituency Office @ Kebun Baru CC, Wendy Zeng, is passionate about improving the quality of life of the elderly. 
 
@@ -23,7 +25,8 @@ Deputy Constituency Director, Kebun Baru Constituency Office @ Kebun Baru CC, We
 [Read More](/files/Careers/story-wendy-zeng.pdf)
 
 #### Ang Ying Hin<br>
-<img style="height:300px;width:250px"  align="left" src="/images/Careers/Ang%20Ying%20Hin.png"><br><br><br><br><br><br><br><br><br>
+<img style="width:200px"  align="center" src="/images/Careers/Ang%20Ying%20Hin.png">
+
  Ang Ying Hin, Head (Community Arts & Culture, Tanjong Pagar GRC) joined PA as a Constituency Manager (CM) because he enjoys working and interacting with people. As a CM, he worked closely with grassroots volunteers in organising outreach programmes for the residents to participate in and to get to know one another, thereby promoting social cohesion, racial harmony and community bonding.
 
 One of his most memorable projects was the National Day dinner held in his constituency in 2008. He was given the task of organising an eight-course dinner for nearly 2,000 people and to oversee the 3-hour entertainment programme. At the end of the event, he had residents coming to him with their feedback, telling him how much they had enjoyed themselves. He derived great satisfaction, seeing how his contribution has led to the success of this event and it motivated him to work even harder.
@@ -32,11 +35,13 @@ He is thankful that this job has given him many opportunities to meet and work w
 
 
 #### Fu Shuyi<br>
-<img style="height:300px;width:250px"  align="left" src="/images/Careers/Fu%20Shuyi.jpg"><br><br><br><br><br><br><br><br><br>
+<img style="width:450px"  align="center" src="/images/Careers/Fu%20Shuyi.jpg">
+
  Ms Fu Shuyi, Group Constituency Director (Jurong GRC and Yuhua SMC), enjoys working for a harmonious and united community. Read more on what drives her to achieve job satisfaction in the Straits Times story [here](/files/Careers/story-fu-shuyi.pdf)
 
 #### Grace Chan<br>
-<img style="height:300px;width:250px"  align="left" src="/images/Careers/Grace%20Chan.png"><br><br><br><br><br><br><br><br><br>
+<img style="width:450px"  align="center" src="/images/Careers/Grace%20Chan.png">
+
 Ms Grace Chan En Ying, Head (Grassroots Development & Planning), views her job as a bridge between the people and the Government. <br>
 
 [Read More](/files/Careers/story-grace-chan.pdf)
