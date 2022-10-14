@@ -6,10 +6,7 @@ description: ""
 #####  Annual Report 20/21
 
 
-<img style="height:400px;width:300px" align="left" src="/images/About%20Us/Annual%20Reports/PA%20AR%202122.png">
-
-<br><br><br>
-<br><br><br><br><br><br><br><br>
+<img style="width:300px" align="left" src="/images/About%20Us/Annual%20Reports/PA%20AR%202122.png">
 
 [Download Annual Report ](https://go.gov.sg/pa-annual-report-2122)<br>
 [Download Audited Report](/files/About%20Us/Annual%20Reports/Financial%20Statement%202122.pdf)
