@@ -8,9 +8,9 @@ Heartbeat@Bedok is conceptualised as a town-level community avenue to meet the c
 
 
 
-<img style="height:250px;width:350px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_16.jpg">
+<img style="height:250px;width:375px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_16.jpg">
 
-<img style="height:250px;width:350px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_17.jpg">
+<img style="height:250px;width:375px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_17.jpg">
 
 <br><br><br><br><br><br><br>
    
@@ -19,9 +19,9 @@ Officially opened in 2018, the 7-storey Heartbeat@Bedok was envisioned as a key 
 **Mission** : To help residents develop active, healthy, creative, learning and forward looking lifestyles through resident and community-centric programming
 
 
-<img style="height:250px;width:350px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_2.jpg"><img style="height:250px;width:350px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_3.jpg">   
+<img style="height:250px;width:375px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_2.jpg"><img style="height:250px;width:750px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_3.jpg">   
 <br><br><br><br><br><br><br><br>
-<img style="height:250px;width:350px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_4.jpg"><img style="height:250px;width:350px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_18.jpg"><br><br><br><br><br><br>
+<img style="height:250px;width:375px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_4.jpg"><img style="height:250px;width:375px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_18.jpg"><br><br><br><br><br><br>
 
 #### Bringing Sports and Wellness Integrated Programmes to Encourage Active Living
 
