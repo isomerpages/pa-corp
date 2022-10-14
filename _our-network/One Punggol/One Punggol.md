@@ -20,4 +20,4 @@ One Punggol will strive to serve as a choice destination in North-eastern Singap
 
 This will involve not only the key facilities within the development, but also the use of all common event / shared spaces to deliver innovative and fresh programming to excite, interest and engage residents and visitors to build a more robust community.
 
-<img style="height:px;width:600px"  align="centre" src="/images/Our%20Network/OnePunggol/From%20Road%20Junction_One%20Punggol%20resize.jpg">
+<img style="width:600px"  align="centre" src="/images/Our%20Network/OnePunggol/From%20Road%20Junction_One%20Punggol%20resize.jpg">
