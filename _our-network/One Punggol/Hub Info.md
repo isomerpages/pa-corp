@@ -45,5 +45,3 @@ One Punggol will feature a 12,000 square metre linear green park called Punggol 
 One Punggol will also feature community spaces on its roof! With 8 BBQ pits, community garden, community activity spaces and a generous number of well-furnished common spaces throughout the entire rooftop, visitors will have countless opportunities to soak up the prettiest sunrises and sunsets in Singapore.
 
 In addition, One Punggol will also feature a multitude of other retail, food and beverage options for visitors. These service and facility features will also support and nurture a collaborative environment between co-location partners, thereby allowing more innovative and varied programme offerings to be made available to the community.
-
-![]()
