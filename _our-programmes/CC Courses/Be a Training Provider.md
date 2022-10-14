@@ -4,7 +4,7 @@ permalink: /ur-programmes/CC-Courses/Be-a-Training-Provider/
 description: ""
 third_nav_title: CC Courses
 ---
-<img style="width:350px" align="centre" src="/images/Programmes/CC%20Courses/Trainer%20ad_PA%20website%201462x975.jpg">
+<img style="width:600px" align="centre" src="/images/Programmes/CC%20Courses/Trainer%20ad_PA%20website%201462x975.jpg">
 
 ### From our PA Trainers
 * “Many people said they do not have the ‘green fingers’ when the primary issue was that they had used the wrong gardening technique. I would like to impart gardening knowledge to the course participants, so that they can also share with their neighbours and friends, and more people can benefit from the knowledge.” – Tony Yau, teaching Creative Gardening at CCs / RCs for 3 years.
