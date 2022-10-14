@@ -13,7 +13,7 @@ Whether you are 15 or 50, you can play a part in giving back to the community.
 * Help address local issues and render social assistance to needy Singaporeans
 * Help instill a sense of social responsibility among Singaporeans
 
-Find out more about our <a href="/our-network/Grassroots-Organisations/Grassroots-Organisations/" style="font-size:15px; width:30%; height:30px; background-color:#808080; color:white" class="bp-button"><b>Grassroots Organisations</b> </a>
+Find out more about our [Grassroots Organisations](/our-network/Grassroots-Organisations/Grassroots-Organisations/).
 
 #### Volunteering with the Community Development Councils
 
@@ -33,6 +33,4 @@ Find out more about our [Community Development Councils](/our-network/Community-
 
 We address your questions [here](/files/Our%20Volunteers/finalfaq.pdf)
 
-
-<a href="https://www.grassrootsconnect.pa.gov.sg/VolunteerRegistration.aspx" style="font-size:15px; width:20%; height:30px; background-color:#808080; color:white" class="bp-button"><b>Apply Online</b> </a>
-now to become a PA volunteer.
+<center><a href="https://www.grassrootsconnect.pa.gov.sg/VolunteerRegistration.aspx" style="font-size:18px; width:50%; height:40px; background-color:#e21822; color:white" class="bp-button"><b>Apply Now to be a PA Volunteer!</b> </a></center>
