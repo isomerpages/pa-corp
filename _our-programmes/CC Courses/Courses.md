@@ -17,24 +17,25 @@ The main categories of courses offered at our CCs/RCs are:
 
 Every day is a gift that is best shared with your loved ones. Set aside your hectic lifestyle and make the most of today! With so many courses to choose from, there is bound to be one that will delight you and others! 
 
-<img style="height:200px;width:400px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Education%20Enrichment.jpg"><br><br><br><br><br><br>
+<img style="width:600px"  align="centre" src="/images/Programmes/CC%20Courses/PABanner-Education%20Enrichment.jpg">
+
 Expand and broaden your child’s and your interest with our wide array of ‘Education and Enrichment’ courses. Pique your child’s interest with our range of hands-on science courses or improve pronunciation and reading with our phonics courses.  Sign up for our ‘Education and Enrichment’ courses today!
 
+<img style="width:600px"  align="centre" src="/images/Programmes/CC%20Courses/PABanner-HealthWellness.jpg">
 
-<img style="height:200px;width:500px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-HealthWellness.jpg"><br><br><br><br><br><br>
 Look good and feel good with our health and wellness tips. Discover how you can spruce up your look with some grooming, make-up and skincare advice, and learn how to take better care of your health and body. With our ‘Health & Wellness’ courses, it is time for you to start feeling and looking your very best.
 
+<img style="width:600px"  align="centre" src="/images/Programmes/CC%20Courses/PABanner-LifelongLearning.jpg">
 
-
-<img style="height:200px;width:500px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-LifelongLearning.jpg"><br><br><br><br><br><br>
 Improve your skills and develop yourself through the wide array of ‘Lifelong Learning' courses offered at our CCs. Learn about technical know-how, fine tune essential job skills, or pick up a new language! With the range of ‘Lifelong Learning' courses, you will be fully equipped for 
 success.
 
 
-<img style="height:200px;width:500px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Lifestyle%20Leisure.jpg"><br><br><br><br><br><br>
+<img style="width:600px"  align="centre" src="/images/Programmes/CC%20Courses/PABanner-Lifestyle%20Leisure.jpg">
+
 Explore your interests with our variety of ‘Lifestyle and Leisure’ courses. Embrace the Arts, craft your own leather cardholder, cook up a storm with our celebrity chefs and Trainers or unleash your creativity and find the star in you. Do these and more with our wide array of ‘Lifestyle and Leisure’ courses.
 
 
-<img style="height:200px;width:500px"  align="left" src="/images/Programmes/CC%20Courses/PABanner-Sports_Fitness.jpg"><br><br><br><br><br>
+<img style="width:600px"  align="centre" src="/images/Programmes/CC%20Courses/PABanner-Sports_Fitness.jpg">
 
 Work up a sweat with our trendy ‘Sports and Fitness’ courses. Conquer air, water, and land while staying up to date with the latest in sports! Keep your body and mind fit and fabulous through the ‘Sports and Fitness’ courses at our CCs now.
