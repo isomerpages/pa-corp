@@ -10,16 +10,14 @@ The programmes organised by the PA are open to everyone. They are common spaces 
 * HarmonyWorks! Conference
 
 ### Community Activities
-<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-communityactivities.jpg"><br><br><br><br><br><br><br><br>
-
+<img style="width:600px"  align="centre" src="/images/Programmes/Racial%20Harmony/racialharmony-communityactivities.jpg">
 
 Many local-level racial harmony programmes are organised by the grassroots organisations to raise the level of understanding amongst neighbours of different races. In recent years, more focus has been given to programmes that encourage community participation to deepen inter-racial understanding among residents. Some of the efforts include bringing residents from various races and ethnic groups together to develop and organise racial harmony programmes.
 
  
 
 ### Arts & Cultural Programmes
-<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Racial%20Harmony/racialharmony-artscultureprog.jpg"><br><br><br><br><br><br><br><br>
-
+<img style="width:600px"  align="centre" src="/images/Programmes/Racial%20Harmony/racialharmony-artscultureprog.jpg">
 
 The PA organises many programmes to showcase and celebrate Singapore’s rich multi-cultural heritage. Here are some of them.
 
@@ -40,17 +38,14 @@ The annual street procession brings diverse groups of people together, and showc
  
 
 ### HarmonyWorks! Conference by OnePeople.sg
-<img style="height:300px;width:400px"  align="left" src="/images/Programmes/Racial%20Harmony/Conference.jpg"><br><br><br><br><br>
-<br><br><br>
-
+<img style="width:600px"  align="centre" src="/images/Programmes/Racial%20Harmony/Conference.jpg">
 
 OnePeople.sg’s HarmonyWorks! Conference is one of our signature youth-driven initiative which explores key trends and issues of race relations in Singapore. This annual youth conference provides a platform for youths to speak and share their thoughts and gather insights on pertinent issues concerning race and religious relations.
 
 
-<img style="height:300px;width:400px"  align="left"
-src="/images/Our%20Programmes/OPSG%202.jpg"><br><br><br><br><br><br><br><br><br><img style="height:300px;width:400px"  align="left"
-src="/images/Our%20Programmes/OPSG%203.jpg"><br><br><br><br><br><br><br><br>
-
+<img style="width:600px"  align="centre"
+src="/images/Our%20Programmes/OPSG%202.jpg"><br><img style="width:600px"  align="centre"
+src="/images/Our%20Programmes/OPSG%203.jpg">
 
 Established in 1997 as Central Singapore Joint Social Service Centre, OnePeople.sg (OPSG) was repositioned and launched by Prime Minister Lee Hsien Loong in 2007 to champion racial harmony initiatives in Singapore. Since inception, OPSG has played an instrumental role promoting harmony through a range of programmes including community dialogues, learning journeys, training workshops, and resource development. OPSG also works closely with various religious organisations, community partners, government agencies and individuals to strengthen racial harmony and social cohesion in Singapore.
 
