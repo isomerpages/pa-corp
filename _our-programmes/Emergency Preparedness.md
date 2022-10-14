@@ -28,7 +28,7 @@ CERT is an organised group of volunteers equipped with specialised training to r
 
 Scan the QR code or click the link below to register to be a CERT member.
 
-<img style="width:300px"  align="center" src="/images/Programmes/Emergency%20Preparedness/CERT%20Form%20QR%20Code.png">
+<a href="http://go.gov.sg/dzdaq0"> <img style="width:300px"  align="center" src="/images/Programmes/Emergency%20Preparedness/CERT%20Form%20QR%20Code.png"></a>
 
 [<center>http://go.gov.sg/dzdaq0</center>](http://go.gov.sg/dzdaq0)
 
