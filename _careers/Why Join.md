@@ -6,13 +6,15 @@ description: ""
 #### Tan Jun Yi <br>
   <img style="width:300px"  align="center" src="/images/Careers/Tan%20Jun%20Yi.png">
 	
-Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her a unique working experience to be a catalyst to bring people of all walks of life together to foster friendship and bonding through sports. <br>
+Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her a unique working experience to be a catalyst to bring people of all walks of life together to foster friendship and bonding through sports.
+
 [Read More](/files/Careers/story-tan-jun-yi.pdf)
 
 #### Edwin Yap Chee Kian <br>
 <img style="width:450px" align="center" src="/images/Careers/Edwin.png">
  
-Mr Edwin Yap, Head (Community Arts - Bishan-Toa Payoh GRC) enjoys meeting people from all walks of life and hopes he is able to help them in one way or another through his work.<br>
+Mr Edwin Yap, Head (Community Arts - Bishan-Toa Payoh GRC) enjoys meeting people from all walks of life and hopes he is able to help them in one way or another through his work.
+
 [Read More](/files/Careers/story-edwin-yap-chee-kian.pdf)
 
 #### Wendy Zeng<br>
