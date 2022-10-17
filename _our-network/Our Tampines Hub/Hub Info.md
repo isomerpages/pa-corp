@@ -68,7 +68,7 @@ OTH is proud to support Smart Nation initiatives in an effort to serve communiti
 
 Taking advantage of innovation and productivity, hub visitors can now enjoy greater convenience and better accessibility.
 
-<img style="height:100px;width:400px"  align="left" src="/images/Our%20Network/OTH/Images%202022.png"><br><br>
+<img style="width:400px"  align="center" src="/images/Our%20Network/OTH/Images%202022.png">
 
 ### Tampines Kindness Movement
 
