@@ -16,7 +16,7 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/wb-(16-aug-2018-p7)-pa-scholarship-recipient-family-challenges-motivate-teen-to-study-hard%20(1).pdf)
  
 ####   Muhammad Naufal Zahin Azmi<br>
- <img style="width:600px"  align="left" src="/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg">
+ <img style="width:600px"  align="center" src="/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg">
  
 **PA Scholar (Overseas)<br>**
 **Bachelor of Arts in Politics at King's College London (UK)**
@@ -36,7 +36,7 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/story-grace-chan.pdf)
  
 ####   Wong Yali Valencia<br>
- <img style="width:600px"  align="left" src="/images/Careers/Wong%20Yali%20Valencia.jpg">
+ <img style="width:600px"  align="center" src="/images/Careers/Wong%20Yali%20Valencia.jpg">
  
 **PA Scholar (Local)<br>**
 **Bachelor of Business Administration (Accountancy) with College of Alice and Peter Tan at National University of Singapore**
