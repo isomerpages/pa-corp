@@ -16,4 +16,5 @@ Keyword search ‘PWRx’ on [www.onePA.gov.sg](http://www.onepa.gov.sg/) now to
 
 
 **Interested to be kept up to date with the latest PWRx happenings?  Follow us on social media!**
+
 <img style="width:600px" align="centre" src="/images/Programmes/CC%20Courses/Follow%20us%20on%20social%20media%20PWRx.png">
