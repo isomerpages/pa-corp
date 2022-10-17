@@ -17,9 +17,15 @@ For feedback or enquiries, please email us at [Wisma\_geylang\_serai@pa.gov.sg](
 Get in touch with us on our social media pages.<br>
 
 <a href="https://www.facebook.com/WismaGeylangSerai"> <img style="width:48px"  align="left" src="/images/Facebook Button Logo.png"></a>
-<br>
+
+<img style="width:10px"  align="left" src="/images/Blank Space.png">
+
 <a href="https://www.instagram.com/wgeylangserai/"> <img style="width:48px"  align="left" src="/images/Instagram Logo.png"></a>
-<br>
+
+<img style="width:10px"  align="left" src="/images/Blank Space.png">
+
 <a href="https://www.youtube.com/c/WismaGeylangSerai_WGS"> <img style="width:48px"  align="left" src="/images/Youtube Button Logo.png"></a>
-<br>
+
+<img style="width:10px"  align="left" src="/images/Blank Space.png">
+
 <a href="https://www.tiktok.com/@wismageylangserai"> <img style="width:48px"  align="left" src="/images/Tik Tok Button Logo.png"></a>
