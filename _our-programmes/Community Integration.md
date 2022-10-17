@@ -27,7 +27,8 @@ Discover the gems of your neighbourhood with the guidebook!
 
 ### Integration and Naturalisation Champions
 
-<img style="width:500px" src="/images/Programmes/Community%20Integration/CI2.jpg">
+<img style="width:600px" src="/images/Programmes/Community%20Integration/CI2.jpg">
+
 Integration and Naturalisation Champions (INCs) initiate and spearhead integration and naturalisation programmes in the local community. INCs actively reach out to new citizens/PRs by conducting house visits to welcome and invite them to join grassroots activities to expand their social network. INCs also organise various grassroots activities such as welcome tea parties and festive celebrations to engage new citizens/PRs.
 
 
