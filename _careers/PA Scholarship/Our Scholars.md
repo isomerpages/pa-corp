@@ -65,7 +65,8 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/writeup---jessica-tan.pdf)
 
 #### Angela Tan Yee Jin<br>
-<img style="height:300px;width:300px"  align="left" src="/images/Careers/Angela%20Tan%20Yee%20Jin.jpg"><br><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Careers/Angela%20Tan%20Yee%20Jin.jpg">
+
 **PA Scholar (Overseas)<br>**
 **Bachelor of Economics, Politics and International Studies, University of Warwick, and<br>
 Master of Science in Social Development Practice at University College London, UK**
