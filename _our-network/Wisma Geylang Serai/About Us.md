@@ -14,7 +14,7 @@ WGS holds the annual Hari Raya Light Up (along Geylang Road and Sims Avenue) and
 
 For feedback or enquiries, please email us at [Wisma\_geylang\_serai@pa.gov.sg](mailto:Wisma_geylang_serai@pa.gov.sg)
 
-Get in touch with us on our social media pages.<br>
+Get in touch with us on our social media pages.
 
 <a href="https://www.facebook.com/WismaGeylangSerai"> <img style="width:48px"  align="left" src="/images/Facebook Button Logo.png"></a>
 
