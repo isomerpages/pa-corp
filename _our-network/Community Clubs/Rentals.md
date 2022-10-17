@@ -15,7 +15,7 @@ Community Clubs (CCs) are meeting grounds for all residents, offering a venue fo
 Book your CC courses and facilities at the [onePA website](https://www.onepa.gov.sg/)
 
 #### Commercial Spaces for Lease
-<img style="height:200px;width:250px"  align="left" src="/images/PA%20Logo%202015%20(PNG).png"><br><br><br><br><br>
+<img style="width:250px"  align="center" src="/images/PA%20Logo%202015%20(PNG).png">
 		 
 
 Commercial tenants are one of the channels through which the People’s Association reaches out to residents across all ages, races and places of residence. We invite interested commercial operators to lease our commercial spaces to conduct businesses to add vibrancy and provide additional avenues for people to bond together.
