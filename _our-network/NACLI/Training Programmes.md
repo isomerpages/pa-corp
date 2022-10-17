@@ -4,8 +4,7 @@ permalink: /our-network/National-Community-Leadership-Institute/Training-Program
 description: ""
 third_nav_title: NACLI
 ---
-
-<img style="height:300px;width:400px"  align="left" src="/images/Our%20Network/NACLI/NACLI%20-%20Training%20Programmes%20(Website)%20(200%20x%20250).jpg">
+<img style="width:600px"  align="left" src="/images/Our%20Network/NACLI/NACLI%20-%20Training%20Programmes%20(Website)%20(200%20x%20250).jpg">
 <br clear="left">
 
 #### Grassroots Leaders
