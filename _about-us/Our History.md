@@ -15,4 +15,4 @@ More and more people became active with the establishment of the Citizens' Consu
 
 Today, we continue to bring people together through a wide range of activities organised at more than 100 CCs, 550 RCs and 100 NCs all across Singapore. We have grown from strength to strength and we look forward to continuing our role in strengthening the community and nation-building. Be a part of history and join us in this worthwhile endeavour.
 
-<img style="width:600px"  align="center" src="/images/About%20Us/Our%20History/pa-buildingoutlook.jpg">
+<img style="width:600px"  align="center" src="/images/About%20Us/Our%20History/PAHQ Night.jpg">
