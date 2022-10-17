@@ -34,7 +34,7 @@ Integration and Naturalisation Champions (INCs) initiate and spearhead integrati
 
 ### Integration Strategies
 
-<img style="width:500px" src="/images/Programmes/Community%20Integration/CI3.jpg">
+<img style="width:600px" src="/images/Programmes/Community%20Integration/CI3.jpg">
 
 To achieve the key objective of PA’s integration efforts to widen our outreach and deepen engagement with new citizens/PRs (new immigrants), PA has adopted the following three key strategic approaches:
 
