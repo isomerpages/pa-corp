@@ -6,7 +6,7 @@ description: ""
 PA through its Grassroots Organisations (GROs) and Integration and Naturalisation Champions (INCs), help new citizens and Permanent Residents (PRs) settle in the community, providing platforms for them to interact with and bond with the local residents. Through their participation in various integration-centric programmes and GRO programmes/activities, the new immigrants can make friends and develop mutual understanding with their neighbours and other residents in the community. 
 
 ### New Initiative: ‘Your Neighbourly Welcome Guide’
-<img style="width:400px" src="/images/Programmes/Community%20Integration/Guide.png">
+<img style="width:600px" src="/images/Programmes/Community%20Integration/Guide.png">
 
 An initiative of the People’s Association, “Your Neighbourly Welcome Guide” contains colourful anecdotes and well-kept secrets from residents and volunteers. These unique stories of places, activities and experiences are happening right in your neighbourhood.
 
