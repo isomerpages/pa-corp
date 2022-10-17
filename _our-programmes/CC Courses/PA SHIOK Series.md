@@ -8,7 +8,7 @@ Led by the People’s Association (PA) Malay Activity Executive Committees Counc
 
 The Series offers a diverse choice of courses and programmes, from health and wellness, to career, and interest-based courses, ensuring there is something for everyone.  
 
-<img style="width:400px" align="centre" src="/images/Programmes/CC%20Courses/SHIOK%20Series%20web%20banner%20png.png">
+<img style="width:600px" align="centre" src="/images/Programmes/CC%20Courses/SHIOK%20Series%20web%20banner%20png.png">
 
 ### 'SHIOK 555 Campaign'
 The ‘SHIOK 555 Campaign’ allows residents to take part in five selected courses held at five different locations for just $5 per class, which will be happening across different CCs at various points throughout the year. 
