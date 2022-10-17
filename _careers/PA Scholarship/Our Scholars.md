@@ -55,7 +55,8 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/writeup---seah-tiong-kiat.pdf)
 
 #### Jessica Tan Mei Yu<br>
-<img style="height:300px;width:300px"  align="left" src="/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg"><br><br><br><br><br><br><br><br><br>
+<img style="width:600px"  align="center" src="/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg">
+
 **PA Scholar (Local)<br>**
 **Bachelor of Business Administration at National University of Singapore**
 
