@@ -20,7 +20,7 @@ description: ""
 
 
 
-<img style="width:200px"  align="left" src="/images/About%20Us/Annual%20Reports/AR20.png"><br><br><br><br><br><br><br><br>
+<img style="width:200px"  align="left" src="/images/About%20Us/Annual%20Reports/AR20.png"><br><br><br><br><br><br><br>
 
 [Download Annual Report](https://go.gov.sg/pa-annual-report-2021)
 
