@@ -9,6 +9,7 @@ Click [here](/https://www.onepa.gov.sg/cc) to search for your nearest Communit
 
 ### Getting to People's Association Headquarters
 
+![](/images/About%20Us/pa-hq-building%20(1).png)
 
 9 King George's Avenue  
 Singapore 208581
