@@ -41,7 +41,7 @@ description: ""
 
 ##### Annual Report 17/18
 
-<img style="width:200px"   align="left" src="/images/About%20Us/Annual%20Reports/AR17-2.png"><br><br><br><br><br>
+<img style="width:200px"   align="left" src="/images/About%20Us/Annual%20Reports/AR17-2.png"><br><br><br><br><br><br><br>
 
 [Download Annual Report](/files/About%20Us/Annual%20Reports/pa-annual-report-1718.pdf)
 ##### Annual Report 16/17
