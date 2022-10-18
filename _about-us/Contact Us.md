@@ -45,5 +45,6 @@ The PA Contact Centre operates from 8 am to 6 pm daily, except public holidays. 
 
 **PA Operating Hours:** 
 
-Monday to Friday - 9.00 am to 6.00 pm   <br>                          
+Monday to Friday - 9.00 am to 6.00pm
+<br>
 Closed on weekends and Public Holidays
