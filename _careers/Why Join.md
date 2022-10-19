@@ -11,14 +11,14 @@ Ms Tan Jun Yi, Assistant Director (Community Sports) feels that PA has given her
 [Read More](/files/Careers/story-tan-jun-yi.pdf)
 
 #### Edwin Yap Chee Kian <br>
-<img style="width:300px" align="center" src="/images/Careers/Edwin.png">
+<img style="width:400px" align="center" src="/images/Careers/Edwin.png">
  
 Mr Edwin Yap, Head (Community Arts - Bishan-Toa Payoh GRC) enjoys meeting people from all walks of life and hopes he is able to help them in one way or another through his work.
 
 [Read More](/files/Careers/story-edwin-yap-chee-kian.pdf)
 
 #### Wendy Zeng<br>
-<img style="width:300px"  align="center" src="/images/Careers/wendy.png">
+<img style="width:400px"  align="center" src="/images/Careers/wendy.png">
 
 Deputy Constituency Director, Kebun Baru Constituency Office @ Kebun Baru CC, Wendy Zeng, is passionate about improving the quality of life of the elderly. 
 
@@ -37,12 +37,12 @@ He is thankful that this job has given him many opportunities to meet and work w
 
 
 #### Fu Shuyi<br>
-<img style="width:300px"  align="center" src="/images/Careers/Fu%20Shuyi.jpg">
+<img style="width:400px"  align="center" src="/images/Careers/Fu%20Shuyi.jpg">
 
  Ms Fu Shuyi, Group Constituency Director (Jurong GRC and Yuhua SMC), enjoys working for a harmonious and united community. Read more on what drives her to achieve job satisfaction in the Straits Times story [here](/files/Careers/story-fu-shuyi.pdf)
 
 #### Grace Chan<br>
-<img style="width:300px"  align="center" src="/images/Careers/Grace%20Chan.png">
+<img style="width:400px"  align="center" src="/images/Careers/Grace%20Chan.png">
 
 Ms Grace Chan En Ying, Head (Grassroots Development & Planning), views her job as a bridge between the people and the Government. <br>
 
