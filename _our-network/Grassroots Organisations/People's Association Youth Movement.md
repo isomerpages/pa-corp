@@ -20,7 +20,7 @@ The Youth Networks under the umbrella of PAYM build social capital amongst youth
 **PAYM Service-Learning Champions**
 
 <img style="width:600px"  align="center" src="/images/Programmes/Youth/SLC1.jpg"><br>
-<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/SLC2.jpg"><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/SLC2.jpg">
 
 The PAYM reaches out to youths in secondary schools via the Service-Learning Champion (SLC) Scheme, which aims to promote holistic development in youths by enabling them to achieve personal, character and academic development, and acquire values, life skills, a sense of civil responsibility and commitment through being involved in community service.
 
@@ -38,7 +38,7 @@ The Youth Chapters bring like-minded youths together through interest groups, br
 
 
 <img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/youth4_compressed.jpg"><br>
-<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/CLP.jpg"><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/CLP.jpg">
 
 The **Community Leadership Programme (CLP)** is developed to introduce students from Institutes of Higher Learning (IHL) to community work and a diverse range of volunteer activities
 
@@ -54,7 +54,7 @@ Through CLP, the students will not only hone their leadership skills but also cu
 							style="object-fit:cover;
 													object-position: top;
 													width:600px;
-													height:400px;"/><br>
+													height:400px;"/>
 
 Interest groups are formed by the youths for the youths at the CCs where youths can meet like-minded peers and pursue their interests together.
 
@@ -64,13 +64,13 @@ Popular interest groups include beach volleyball, archery, cheerleading, yo-yo, 
 
 #### Community Service Programmes
 
-<img style="width:600px"  align="center" src="/images%2FProgrammes%2FYouth/Comm Service.jpg"><br>
+<img style="width:600px"  align="center" src="/images%2FProgrammes%2FYouth/Comm Service.jpg">
 
 To build a caring youth community, the PAYM also provides platforms for youths to  organise meaningful programmes and activities that reach out to less-privileged in the community via various cause-based initiatives.
 
 #### Forum and Dialogue Series
 
-<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/Dialogue.jpg"><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/Dialogue.jpg">
 
 The PAYM engages both schooling and working youths and heightens their sense of belonging in the community by consulting their views on current issues and national policies through the different series of forum and dialogue lined up every year.
 
@@ -80,7 +80,7 @@ The PAYM engages both schooling and working youths and heightens their sense of 
 ##### PAYM Chingay Contingent
 
 
-<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/Chingay2.jpg"><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/Chingay2.jpg">
 
 Since 2008, youths have come forward to take charge in creating their own special showcases, taking on roles that see them lead fellow volunteers and performers, and even design their own costumes in the annual extravaganza of Chingay Parade.
 
@@ -89,7 +89,7 @@ Since 2008, youths have come forward to take charge in creating their own specia
 
 <img style="width:600px"  align="center" src="/images%2FProgrammes%2FYouth/PAYM Loves Red.jpg"><br>
 
-<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/Loves Red.jpg"><br>
+<img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/Loves Red.jpg">
 
 The “PAYM Loves Red” supports and encourages all youths to organise meaningful and interesting National Day celebratory activities in the months of July and August. Through these projects, youths can connect with their peers and local residents, and together, display the vibrant energy, passion and their love toward the nation in creative and unique ways to celebrate our multicultural social fabric!
 
@@ -97,7 +97,7 @@ The “PAYM Loves Red” supports and encourages all youths to organise meaningf
 
 <img style="width:600px"  align="center" src="/images/Our%20Network/GrassRoots%20Organisation/CYF.jpg"><br>
 
-<img style="width:600px"  align="center" src="/images%2FProgrammes%2FYouth/CYF.jpg"><br>
+<img style="width:600px"  align="center" src="/images%2FProgrammes%2FYouth/CYF.jpg">
 
 Community YOUthCare Festival, an island-wide community service initiative, was mooted in 2011 encourage more youths to come together to care for their community. Our youths have since implemented regular sustainable community service programmes such as weekly reading classes for children from the lower-income families, environmental outreach drives, and weekly free meal distribution to the seniors in need of support, and mental wellness initiatives.
 
