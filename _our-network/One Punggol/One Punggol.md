@@ -6,6 +6,8 @@ third_nav_title: One Punggol
 ---
 **Background & Overview**
 
+<img style="width:600px"  align="centre" src="/images/Our%20Network/OnePunggol/From%20Road%20Junction_One%20Punggol%20resize.jpg">
+
 One Punggol is an integrated lifestyle hub which serves Punggol residents’ community needs. Envisioned as a ‘place of many places’, its design is aimed at enabling and empowering residents to enrich their lives through the activities and programmes of their choice at this lifestyle destination. This integrated concept adopts a whole-of-government approach guided by 3 principles: resident-centricity, optimization of resources and infrastructure, and encouraging community ownership through resident programmes.
 
 Led by People’s Association, One Punggol continues a successful model of a community-focused development that encourages and strengthens meaningful engagement, resulting in an enriched and multi-sensory experience for residents and visitors. This model also provides the opportunity for residents to stake ownership of the development, leading to a more holistically interactive exchange of ideas that will continually benefit and sustain the Punggol community.
@@ -19,5 +21,3 @@ One Punggol’s facilities also aim to bring convenience to 3-generation familie
 One Punggol will strive to serve as a choice destination in North-eastern Singapore for community-based events and programmes. It will be a platform that organisations can leverage on to host programmes, events and activities that will engage with people living and working in the North-east.
 
 This will involve not only the key facilities within the development, but also the use of all common event / shared spaces to deliver innovative and fresh programming to excite, interest and engage residents and visitors to build a more robust community.
-
-<img style="width:600px"  align="centre" src="/images/Our%20Network/OnePunggol/From%20Road%20Junction_One%20Punggol%20resize.jpg">
