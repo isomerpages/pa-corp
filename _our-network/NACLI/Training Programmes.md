@@ -22,7 +22,7 @@ Training Administration Section<br>
 
 Enjoy bite-sized learning at your fingertips when you come onboard NACLI's social media platforms! Stay updated on NACLI courses and gather useful tips on community engagement - **just in time, just enough, and just for you**!
 
-Stay updated on: <br><br>
+Stay updated on: <br>
 
 <a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fnaclisg"><img style="width:48px"  align="left" src="/images/Facebook Button Logo.png"></a>
 
