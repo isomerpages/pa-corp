@@ -4,8 +4,7 @@ permalink: /our-network/National-Community-Leadership-Institute/Campus-Facilitie
 description: ""
 third_nav_title: NACLI
 ---
-<img style="width:600px"  align="left" src="/images/Our%20Network/NACLI/Campus%20Facilities%20-LL%20(Website)%20(200%20x%20250).jpg">
-<br clear="left">
+<img style="width:600px"  align="center" src="/images/Our%20Network/NACLI/Campus%20Facilities%20-LL%20(Website)%20(200%20x%20250).jpg">
 
 Surrounded by the vast greenery of Kent Ridge Park and linked to Singapore’s Southern Ridges, NACLI provides the ideal venue for your grassroots training and retreats; both indoors and outdoors. With its rustic and resort like ambience, our campus offers training facilities and learning spaces of different sizes that can accommodate up to 800 participants to suit your programme needs. 
 
