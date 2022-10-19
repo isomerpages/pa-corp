@@ -4,8 +4,7 @@ permalink: /our-network/National-Community-Leadership-Institute/Training-Program
 description: ""
 third_nav_title: NACLI
 ---
-<img style="width:600px"  align="left" src="/images/Our%20Network/NACLI/NACLI%20-%20Training%20Programmes%20(Website)%20(200%20x%20250).jpg">
-<br clear="left">
+<img style="width:600px"  align="center" src="/images/Our%20Network/NACLI/NACLI%20-%20Training%20Programmes%20(Website)%20(200%20x%20250).jpg">
 
 #### Grassroots Leaders
 
@@ -24,5 +23,11 @@ Training Administration Section<br>
 Enjoy bite-sized learning at your fingertips when you come onboard NACLI's social media platforms! Stay updated on NACLI courses and gather useful tips on community engagement - **just in time, just enough, and just for you**!
 
 Stay updated on: <br>
+<a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fnaclisg"> <img style="width:48px"  align="left" src="/images/Facebook Button Logo.png"></a>
+
+<img style="width:10px"  align="left" src="/images/Blank Space.png">
+
+<a href="https://www.instagram.com/accounts/login/?next=/naclisg/"> <img style="width:48px"  align="left" src="/images/Instagram Logo.png"></a>
+
 [Facebook](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fnaclisg) <br>
 [Instagram](https://www.instagram.com/accounts/login/?next=/naclisg/)
