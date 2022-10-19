@@ -6,7 +6,7 @@ third_nav_title: PA Scholarship
 ---
 #### Jazreel Tay Hui Ying<br>
 
-<img style="width:600px"  align="center" src="/images/Careers/Jazreel%20Tay%20Hui%20Ying.jpg">
+<img style="width:300px"  align="center" src="/images/Careers/Jazreel%20Tay%20Hui%20Ying.jpg">
 
 **PA Scholar (Local)<br>**
 **Bachelor of Arts and Social Sciences at National University of Singapore**
@@ -16,7 +16,7 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/wb-(16-aug-2018-p7)-pa-scholarship-recipient-family-challenges-motivate-teen-to-study-hard%20(1).pdf)
  
 ####   Muhammad Naufal Zahin Azmi<br>
- <img style="width:600px"  align="center" src="/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg">
+ <img style="width:300px"  align="center" src="/images/Careers/Muhammad%20Naufal%20Zahin%20Azmi.jpg">
  
 **PA Scholar (Overseas)<br>**
 **Bachelor of Arts in Politics at King's College London (UK)**
@@ -26,7 +26,7 @@ third_nav_title: PA Scholarship
 
  
 #### Chan Enying Grace<br>
-<img style="width:600px"  align="center" src="/images/Careers/Chan%20Enying%20Grace.jpg">
+<img style="width:300px"  align="center" src="/images/Careers/Chan%20Enying%20Grace.jpg">
 
 **PA Scholar (Overseas)<br>**
 **Bachelor of Science in Economics at London School of Economics and Political Science (UK)**
@@ -36,7 +36,7 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/story-grace-chan.pdf)
  
 ####   Wong Yali Valencia<br>
- <img style="width:600px"  align="center" src="/images/Careers/Wong%20Yali%20Valencia.jpg">
+ <img style="width:300px"  align="center" src="/images/Careers/Wong%20Yali%20Valencia.jpg">
  
 **PA Scholar (Local)<br>**
 **Bachelor of Business Administration (Accountancy) with College of Alice and Peter Tan at National University of Singapore**
@@ -46,7 +46,7 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/writeup---wong-yali-valencia.pdf)
 
 #### Seah Tiong Kiat<br>
-<img style="width:600px"  align="center" src="/images/Careers/Seah%20Tiong%20Kiat.jpg"><br>
+<img style="width:300px"  align="center" src="/images/Careers/Seah%20Tiong%20Kiat.jpg"><br>
 **PA Scholar (Local)<br>**
 **Bachelor of Social Science at Singapore Management University**
 
@@ -55,7 +55,7 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/writeup---seah-tiong-kiat.pdf)
 
 #### Jessica Tan Mei Yu<br>
-<img style="width:600px"  align="center" src="/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg">
+<img style="width:300px"  align="center" src="/images/Careers/Jessica%20Tan%20Mei%20Yu.jpg">
 
 **PA Scholar (Local)<br>**
 **Bachelor of Business Administration at National University of Singapore**
@@ -65,7 +65,7 @@ third_nav_title: PA Scholarship
 [Click here to read more](/files/Careers/writeup---jessica-tan.pdf)
 
 #### Angela Tan Yee Jin<br>
-<img style="width:600px"  align="center" src="/images/Careers/Angela%20Tan%20Yee%20Jin.jpg">
+<img style="width:300px"  align="center" src="/images/Careers/Angela%20Tan%20Yee%20Jin.jpg">
 
 **PA Scholar (Overseas)<br>**
 **Bachelor of Economics, Politics and International Studies, University of Warwick, and<br>
