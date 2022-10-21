@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Mr Jimmy Toh Yong Leng will be appointed as Chief Executive Director (Designate) of PA from 1 November 2022 and will take over as Chief Executive Director of PA from 1 January 2023. He succeeds Mr Lim Hock Yu, who will be stepping down on the same day.
+
+![]()
+
+The full media release by Ministry of Culture, Community and Youth (MCCY) can be read [here]().
