@@ -12,4 +12,6 @@ Mr Jimmy Toh Yong Leng will be appointed as Chief Executive Director (Designate)
 
 ![]()
 
+**Description**: 
+
 The full media release by Ministry of Culture, Community and Youth (MCCY) can be read [here]().
