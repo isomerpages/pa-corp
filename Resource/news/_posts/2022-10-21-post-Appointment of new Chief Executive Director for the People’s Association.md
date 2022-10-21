@@ -14,4 +14,4 @@ Mr Jimmy Toh Yong Leng will be appointed as Chief Executive Director (Designate)
 
 **Description**: 
 
-The full media release by Ministry of Culture, Community and Youth (MCCY) can be read [here]().
+The full media release by Ministry of Culture, Community and Youth (MCCY) can be read [here](/files/NewsRoom/Appointment%20of%20new%20Chief%20Executive%20Director%20for%20the%20People's%20Association_final%20website.pdf).
