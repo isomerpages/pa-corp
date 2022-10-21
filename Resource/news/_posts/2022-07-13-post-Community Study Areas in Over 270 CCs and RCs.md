@@ -1,6 +1,6 @@
 ---
 title: Community Study Areas in Over 270 CCs and RCs
-permalink: /Resource/news/Community-Study-Areas-in-Over-270-CCs-and-RCs
+permalink: /Resource/news/Community-Study-Areas-in-Over-270-CCs-and-RCs/
 date: 2022-07-13
 layout: post
 description: ""
@@ -13,7 +13,7 @@ Studying hard for the upcoming exams? You might just find the perfect study corn
 
 **Description**: 
 
-Update (as of May 2021): Please note that these study areas are temporarily unavailable due to Safe Management Measures. We apologise for any inconvenience caused. 
+Update (as of 21 Oct 2022): Please note that the listing of study corners available has been updated in the link below.
 
  
 
@@ -31,8 +31,8 @@ With temperature checks and safe distancing measures in place, a study corner is
 
  
 
-For the full list of community study areas and their opening hours, click here. For details of each study area, please contact the respective CCs, RCs and RNs. 
+For the full list of community study areas and their opening hours, click [here](). For details of each study area, please contact the respective CCs, RCs and RNs. 
 
  
 
-Visit your nearest CC to see for yourself, and best of luck on your exams. 
+Visit your nearest CC to see for yourself, and best of luck on your exams.
