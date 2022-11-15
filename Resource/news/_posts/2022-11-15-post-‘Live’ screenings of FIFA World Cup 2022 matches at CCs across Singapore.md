@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-![]()
-
-Singaporeans can look forward to catching the FIFA World Cup 2022 matches ‘live’ with their family, neighbours and friends at 65 community nodes, comprising the Sports Hub, Community Clubs (CC), the National Library Building, and ActiveSG Sport Centres, located islandwide from 21 November 2022.
+![](/images/NewsRoom/WC_Launchpost_Static_Highres_FINAL.png)
+<br>
+		Singaporeans can look forward to catching the FIFA World Cup 2022 matches ‘live’ with their family, neighbours and friends at 65 community nodes, comprising the Sports Hub, Community Clubs (CC), the National Library Building, and ActiveSG Sport Centres, located islandwide from 21 November 2022.
 
     Few things bring people together and build bonds in the way sports do. The Government has therefore organised the screening of World Cup matches at community spaces to provide opportunities for Singaporeans and football fans to watch the action unfold and cheer for their favourite teams together, and also a chance to create shared memories and experience through common interest. 
 
