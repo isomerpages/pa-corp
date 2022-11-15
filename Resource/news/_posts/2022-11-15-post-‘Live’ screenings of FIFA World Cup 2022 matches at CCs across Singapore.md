@@ -14,8 +14,6 @@ image: ""
 
     The community screenings have been made possible with the support of various community partners including PA’s Grassroots Organisations. PA will kickstart the community ‘live’ screenings with the opening match between Qatar and Ecuador on Monday, 21 November 2022, at 24 CCs. SportSG will also screen the opening match at five ActiveSG Sports Centres. Singaporeans will be able to catch select football matches at the Sports Hub in December 2022. There will also be screenings at the Plaza of the National Library Building on Victoria Street on Saturday and Sunday, 17 and 18 December 2022, which will include the final match.
 
-  
-
      Aside from the excitement of the matches, PA will also be hosting fringe activities at the CCs screening the matches, for residents to soak up the football fever atmosphere and get straight into the sporting spirit. Residents can look forward to activities such as E-sports console games, various sports try-outs, Subbuteo and Foosball table games, mini soccer challenges as well as live performances and prize giveaways.
 
      The current list of community screenings of the matches is found at the Annex. Updated details of the match screening schedules are also available at:
