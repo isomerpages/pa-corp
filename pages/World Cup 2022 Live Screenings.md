@@ -7,4 +7,4 @@ description: ""
 
 Go, go ,goal! PA is bringing the FIFA World Cup LIVE to you at 59 CCs - from 21 Nov to 18 Dec!
 
-![](/images/Website%20Youth1.jpg)![](/images/Website%20Youth2.jpg)
+![]()
