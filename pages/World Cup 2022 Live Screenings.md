@@ -18,3 +18,5 @@ Tag #PAssioninthehood for a chance to win goodies as you have a ball of a time w
 The match schedule up till the Final on 18 Dec is listed below!
 
 Please contact the CCs and Hubs directly for more information.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1Mgnp3R1e7rYXGY2Vn1efD-AWXlfZa8o&ehbc=2E312F" width="640" height="480"></iframe>
