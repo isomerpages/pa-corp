@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/AR2122.png)
+![]()
 
 The [People's Association Annual Report](https://go.gov.sg/pa-annual-report-2122) and [Financial Statements](/files/About%20Us/Annual%20Reports/Financial%20Statement%202122.pdf) for FY2021/2022 titled “From Challenge to Strength” presents an overview of our community’s efforts in caring for residents and aiding the vulnerable as we learn to live with COVID-19 and gradually resume life in the new normal.
 
