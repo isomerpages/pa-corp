@@ -44,4 +44,4 @@ Other useful references:
 5. [Annex 3 - Classroom Management Standards for Playgroups and Young Children ](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(05)%20Annex%203%20-%20Classroom%20Management%20Standards%20for%20Playgroups.pdf)
 6. [Annex 4 - Health Hygiene and Safety Standards for Playgroups and Young Children ](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(06)%20Annex%204%20-%20Health%20Hygiene%20and%20Safety%20Standards%20for%20Playgroups%20and%20Young%20Children.pdf)
 7. [Annex 5 - Fire Safety Standards for Playgroups and Young Children](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(07)%20Annex%205%20-%20Fire%20Safety%20Standards%20for%20Playgroups%20and%20Young%20Children.pdf)
-8. [Infographics of PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(1).pdf)
+8. [Infographics of PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(updated%206%20Jan%202023).pdf)
