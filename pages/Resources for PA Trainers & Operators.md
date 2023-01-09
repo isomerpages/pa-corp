@@ -46,4 +46,4 @@ Other useful references:
 7. [Annex 5 - Fire Safety Standards for Playgroups and Young Children](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(07)%20Annex%205%20-%20Fire%20Safety%20Standards%20for%20Playgroups%20and%20Young%20Children.pdf)
 8. [Infographics of PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(updated%206%20Jan%202023).pdf)
 9.  [Video for revised PSG (As of 1 Jan 2023)]()
-10.  1.  [FAQs for revised PSG (As of 1 Jan 2023)]()
+10. [FAQs for revised PSG (As of 1 Jan 2023)]()
