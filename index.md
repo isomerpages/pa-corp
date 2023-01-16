@@ -55,9 +55,9 @@ sections:
       alt: /info/CC-Details
   - infopic:
       subtitle: DISTRICT INFORMATION
-      description: Search for your district's information
-      button: SEARCH
-      url: /district-info/Details
+      description: Find your district's information in onepa.gov.sg
+      button: Find
+      url: https://www.onepa.gov.sg/dashboard/editprofile
       alt: /district-info/Details
       image: /images/SG Light up.png
 ---
