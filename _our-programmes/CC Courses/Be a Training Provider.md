@@ -33,11 +33,11 @@ For any enquiry, please email to [PA_Talent_Times@pa.gov.sg](mailto: PA_Talent_T
 
 New Application for Trainer
 
-* To apply, please click [link](https://form.gov.sg/admin/form/5d774ecac36c6500121c3468)
+* To apply, please click [link](https://form.gov.sg/5d774ecac36c6500121c3468) 
  
 New Application for Operator
 
-* To apply, please click [link](https://form.gov.sg/admin/form/5df748c39cf14f0019128ca1)
+* To apply, please click [link](https://form.gov.sg/5df748c39cf14f0019128ca1)
 
 
 New Course Proposal for existing Trainer/Operator
