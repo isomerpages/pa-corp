@@ -55,7 +55,7 @@ sections:
       alt: /info/CC-Details
   - infopic:
       subtitle: DISTRICT INFORMATION
-      description: Find your district's information in onepa.gov.sg
+      description: Find your district's information.
       button: Log in with Singpass
       url: https://www.onepa.gov.sg/dashboard/editprofile
       alt: /district-info/Details
