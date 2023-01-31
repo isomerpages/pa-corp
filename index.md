@@ -56,8 +56,8 @@ sections:
   - infopic:
       subtitle: DISTRICT INFORMATION
       description: Find your district's information.
-      button: Log in with Singpass
+      button: Find here
       url: https://www.onepa.gov.sg/dashboard/editprofile
-      alt: /district-info/Details
+      alt: /permalink/
       image: /images/SG Light up.png
 ---
