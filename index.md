@@ -57,7 +57,7 @@ sections:
       subtitle: DISTRICT INFORMATION
       description: Find your district's information.
       button: Find here
-      url: https://www.onepa.gov.sg/dashboard/editprofile
+      url: /permalink/
       alt: /permalink/
       image: /images/SG Light up.png
 ---
