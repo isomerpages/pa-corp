@@ -2,4 +2,5 @@ collections:
   onepunggol:
     output: true
     order:
+      - Programmes/Sustainability.md
       - Programmes/.keep
