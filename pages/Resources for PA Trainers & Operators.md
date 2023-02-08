@@ -23,6 +23,7 @@ Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg]
 8. [Infographics of PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(updated%206%20Jan%202023).pdf)
 9.  [Video for revised PSG (As of 1 Jan 2023)](https://go.gov.sg/revisedpsgvideo)
 10. [FAQs for revised PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/Frequently%20Asked%20Questions%20for%20PA%20TrainersOperators%20-%20PSG%20(27%20Dec%202022).pdf)
+11. [Video for revised PSG](https://go.gov.sg/pahandbook)
 
 **Safe Management Measures**
 
@@ -46,5 +47,3 @@ Other useful references:
 9. [Infectious Diseases Act](https://sso.agc.gov.sg/Act/IDA1976)
 10. [Revised Healthcare Protocol Changes](https://www.covid.gov.sg/)
 11. [Ministry of Manpower](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures) (Workforce Vaccination Measures)
-
-
