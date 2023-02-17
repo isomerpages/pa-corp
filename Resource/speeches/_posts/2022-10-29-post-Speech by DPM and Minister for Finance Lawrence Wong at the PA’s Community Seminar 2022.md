@@ -7,3 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
+#### Speech by Deputy Prime Minister and Minister for Finance Lawrence Wong at the PA's Community Seminar 2022 on 29 October 2022
+
+Click  [here](/files/) to read the full speech.
