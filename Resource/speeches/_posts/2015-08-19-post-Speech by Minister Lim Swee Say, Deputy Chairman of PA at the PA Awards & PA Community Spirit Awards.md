@@ -7,9 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-### Speech by Minister Lim Swee Say, Deputy Chairman of the People's Association at the People's Association Awards 2012 and People's Association Community Spirit Awards 2012 Presentation Ceremony on Saturday, 12 May 2012
+#### Speech by Minister Lim Swee Say, Deputy Chairman of the People's Association at the People's Association Awards 2012 and People's Association Community Spirit Awards 2012 Presentation Ceremony on Saturday, 12 May 2012
 
 
 
