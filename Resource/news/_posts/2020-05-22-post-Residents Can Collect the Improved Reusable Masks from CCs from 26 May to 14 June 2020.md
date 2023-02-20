@@ -7,19 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### Residents Can Collect the Improved Reusable Masks from CCs from 26 May to 14 June 2020 
 
-**Summary**: 
-
-Residents of Singapore will be able to collect an improved version of reusable masks as part of the third mask collection exercise. Residents with a valid identification card can collect one reusable mask each over a three-week period. 
-
-News Title Media: 
+**Residents of Singapore will be able to collect an improved version of reusable masks as part of the third mask collection exercise. Residents with a valid identification card can collect one reusable mask each over a three-week period.**
 
  
-
-**Description**: 
-
 Residents of Singapore will be able to collect an improved version of reusable masks as part of the third mask collection exercise. Residents with a valid identification card can collect one reusable mask each over a three-week period as follows: 
 
 From 26 May to 1 June 2020 (10am to 6pm) from the counter at all CCs and RC Centres. 
