@@ -7,8 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-### Chingay Parade 2023 Brings Together More Than 3,000 Youths to Co-Create and Bond While Keeping The People’s Parade Young and Relevant
-#### A platform for youth to showcase their talents, engage with local communities and shape the parade’s future
+### Chingay Parade 2023 Brings Together More Than 3,000 Youths to Co-Create and Bond While Keeping The People’s Parade Young and Relevant 
+**A platform for youth to showcase their talents, engage with local communities and shape the parade’s future**
 
 ![](/images/NewsRoom/Chingay%20MR2.png)
 
