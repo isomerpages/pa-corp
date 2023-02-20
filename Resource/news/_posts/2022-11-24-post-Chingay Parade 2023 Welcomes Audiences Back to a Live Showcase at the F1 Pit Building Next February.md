@@ -7,9 +7,10 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/NewsRoom/Chingay%202023.png)
-
+### Chingay Parade 2023 Welcomes Audiences Back to a Live Showcase at the F1 Pit Building Next February
 **A stellar programme line-up with show elements, special effects, and audience interactions to dazzle over 28,000 in-person spectators**
+
+![](/images/NewsRoom/Chingay%202023.png)
 
            Singapore’s biggest multicultural Chingay parade is back to electrify and engage audiences on **3 and 4 February 2023** with a live spectacle. Striding into the first year after its Golden Jubilee, the 2023 annual Chingay parade will present audiences with an entirely different experience of arts, culture, and heritage set in a musical format to mark a new beginning. A delight for the senses, Chingay Parade - Singapore’s largest community arts showcase - will involve over 10,000 residents, artists, and art groups including more than 3,000 performers. It will also mark the return of big resplendent floats alongside mini community-created floats. Spectators will also be able to see the floats and performers up close. The National Education (NE) show for primary school students is also back after a two-year hiatus. 
 
