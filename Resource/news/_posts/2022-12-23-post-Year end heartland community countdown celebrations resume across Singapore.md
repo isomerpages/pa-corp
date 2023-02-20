@@ -7,10 +7,9 @@ description: ""
 image: ""
 ---
 #### Year end heartland community countdown celebrations resume across Singapore
+**More than 70,000 residents come together to bond and have fun with families, friends, and neighbours as they welcome the new year**
 
 ![](/images/NewsRoom/2797f5e7-4b14-44f4-b3e7-c4137fe5f1e3.jpg)
-
-**More than 70,000 residents come together to bond and have fun with families, friends, and neighbours as they welcome the new year**
 
            As 2022 comes to a close, residents can look forward to more than **20 community celebrations** held physically at various locations around their neighbourhoods on 31 December 2022 to usher in the new year. These celebrations, organised by the **People’s Association Grassroots Organisations** (PA GROs), will bring together over **70,000 residents** of all ages, races, and nationalities to bond with families, friends, and neighbours as well as share their wishes and aspirations for 2023. This is the first time such physical year-end countdown festivities have resumed in the heartlands since the Covid-19 pandemic in 2020.   
 
