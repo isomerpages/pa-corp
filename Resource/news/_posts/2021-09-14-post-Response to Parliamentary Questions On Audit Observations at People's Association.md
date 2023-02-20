@@ -7,8 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-### Response to Parliamentary Questions On Audit Observations at Peoples Association
+### Response to Parliamentary Questions On Audit Observations at People’s Association Identified in the Auditor-General’s Office FY2020/2021 Report
 
 **People’s Association is committed to resolving and improving its governance and oversight processes.**
 
