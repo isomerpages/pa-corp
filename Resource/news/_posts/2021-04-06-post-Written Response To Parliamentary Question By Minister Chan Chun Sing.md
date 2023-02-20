@@ -6,13 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### Written Response To Parliamentary Question By Minister Chan Chun Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021
 
-**Summary**: 
-
-Written Response To Parliamentary Question By Minister Chan Chun Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021 
-
-**Description**: 
+**Written Response To Parliamentary Question By Minister Chan Chun Sing, Deputy Chairman Of People's Association On Monday, 5 April 2021**
 
 Click [here](/files/NewsRoom/Written-Response-To-Parliamentary-Question-By-Minister-Chan-Chun-Sing-Deputy-Chairman.pdf)  to view the full response.
