@@ -3,10 +3,6 @@ title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
 ---
-### People's Association Headquarters
-
-Click [here](/https://www.onepa.gov.sg/cc) to search for your nearest Community Club (CC).
-
 ### Getting to People's Association Headquarters
 
 ![](/images/About%20Us/pa-hq-building%20(1).png)
