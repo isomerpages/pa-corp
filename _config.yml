@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-resources_name: Resource
+resources_name: news-and-speeches
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
