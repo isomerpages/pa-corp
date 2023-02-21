@@ -24,6 +24,9 @@ sections:
           url: https://www.onepa.gov.sg/
       button: Read more
       url: /engage/Join-Your-Community
+  - resources:
+      title: News & Speeches
+      button: Read More
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
@@ -31,9 +34,6 @@ sections:
       alt: Image alt text
       image: /images/Passion Mobile.png
       title: MyPassion Mobile App
-  - resources:
-      title: News & Speeches
-      button: Read More
   - infopic:
       title: PA Courses
       subtitle: FIND A COURSE
