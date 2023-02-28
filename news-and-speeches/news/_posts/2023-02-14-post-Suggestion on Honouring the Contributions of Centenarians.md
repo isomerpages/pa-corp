@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: /images/NewsRoom/Parliament House.jpg
 ---
-### Suggestion on Honouring the Contributions of Centenarians
-**Response to parliamentary question on the suggestion made in the House on 8 March 2017 that the President of Singapore issues congratulatory notes to Singapore centenarians on the occasion of their birthdays**
+### Safeguards to Deter Improper Procurement Practices
+**Response to parliamentary question on safeguards to deter improper procurement practices for engagement and payment of vendors for grassroots services**
 
 ![](/images/NewsRoom/Parliament%20House.jpg)
 
