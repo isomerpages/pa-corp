@@ -58,6 +58,6 @@ sections:
       description: Find to which CDC you belong to
       button: Find your CDC.
       url: /permalink/
-      alt: /permalink/
+      alt: https://gowhere.gov.sg/cdc
       image: /images/SG Light up.png
 ---
