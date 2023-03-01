@@ -54,9 +54,9 @@ sections:
       subtitle: More details on your CC
       alt: /info/CC-Details
   - infopic:
-      subtitle: DISTRICT INFORMATION
-      description: Find your district's information.
-      button: Find here
+      subtitle: CDC Details
+      description: Find to which CDC you belong to
+      button: Find your CDC.
       url: /permalink/
       alt: /permalink/
       image: /images/SG Light up.png
