@@ -54,10 +54,10 @@ sections:
       subtitle: More details on your CC
       alt: /info/CC-Details
   - infopic:
-      subtitle: CDC Details
       description: Find to which CDC you belong to
       button: Find your CDC.
       url: /permalink/
       alt: https://gowhere.gov.sg/cdc
       image: /images/SG Light up.png
+      title: CDC Details
 ---
