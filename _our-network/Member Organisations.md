@@ -37,6 +37,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Society of Chinese Artists](https://soca.org.sg/)
 * [Sriwana](http://www.sriwana.com/)
 * [Tamils Representative Council](http://www.trc.org.sg/)
+* [The Eurasian Association, Singapore](https://www.eurasians.sg/)
 
 #### Hobby Clubs
 
@@ -118,10 +119,6 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore National Co-operative Federation Ltd](https://www.sncf.coop/)
 * [Singapore Professional Centre](http://www.spc.org.sg/)
 * Pets Enterprises & Traders Association, Singapore (PETAS)
-
-#### Self-help Group
-
-* [The Eurasian Association, Singapore](https://www.eurasians.sg/)
 
 #### Professional Bodies 
 
