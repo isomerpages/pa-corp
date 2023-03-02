@@ -3,7 +3,7 @@ title: Member Organisations
 permalink: /our-network/Member-Organisations/
 description: ""
 ---
-The People’s Association (PA) has 85 Corporate Members that represent various sectors of Singapore society, including academic guilds, cultural and educational organisations, hobby clubs, self-help groups, service organisations, sports and martial arts associations, students’ unions, uniformed organisations, unions, youth organisations and professional bodies.
+The People’s Association (PA) has 85 Corporate Members that represent various sectors of Singapore society, including academic guilds, cultural and educational organisations, hobby clubs, service organisations, sports and martial arts associations, students’ unions, uniformed organisations, unions, youth organisations and professional bodies.
 
 Sharing the common objective of community bonding, PA and its Corporate Members have leveraged each other’s expertise, strengths, and outreach efforts to create joint programmes to better serve the community.
 
