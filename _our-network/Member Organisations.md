@@ -37,11 +37,11 @@ Here’s a list of our Corporate Members, by different categories:
 * [Society of Chinese Artists](https://soca.org.sg/)
 * [Sriwana](http://www.sriwana.com/)
 * [Tamils Representative Council](http://www.trc.org.sg/)
-* [The Photographic Society of Singapore](http://www.pss1950.org/)
 
 #### Hobby Clubs
 
-* [Radio Modellers Singapore](https://www.rms.org.sg/)
+* [The Photographic Society of Singapore](http://www.pss1950.org/)
+*  [Radio Modellers Singapore](https://www.rms.org.sg/)
 * [Singapore Numismatic Association](https://www.facebook.com/sgsnasg/)
 * Singapore Philatelic Society
 * [Singapore Stamp Club](https://www.facebook.com/singaporestampclub)
