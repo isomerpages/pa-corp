@@ -33,6 +33,7 @@ Gentarasa was initiated in 2002 to foster greater awareness and appreciation of 
 Gentarasa, meaning “Chimes of Expression”, showcases the many performing talents from the Malay community. This not only raises public awareness and appreciation for the Malay Culture but also provides a stage for the performing groups to nurture their potential.
 
 #### Chingay
+![](/images/Our%20Programmes/Chingay%202023%20Finale%20Wide.jpg)
 The annual street procession brings diverse groups of people together, and showcases the rich multi-cultural diversity of our society, through a parade of exciting performances and colourful floats. Visit the [Chingay Website](https://www.chingay.gov.sg/) for more information.
 
  
