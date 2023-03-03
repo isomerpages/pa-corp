@@ -5,7 +5,7 @@ description: ""
 ---
 <img style="width:350px" src="/images/Our%20Programmes/commarts-logo.png"><br>
 
-Established by PA with the support of the Ministry of Culture, Community and Youth, the PAssionArts brand was developed to provide a collective identity to community arts in Singapore. It aims to make arts & culture more accessible to the people by bringing it right to the heart of every constituency in Singapore. The vision is to bring arts & culture to reach “Everyone, Everywhere, Everyday”.
+PAssionArts, established by the People’s Association (PA) in 2012 and supported by the Ministry of Culture, Community and Youth, is a community arts movement to promote arts to the community and to use arts to bond people. It aims to make arts and culture accessible to the people by bringing it right to the heart of every constituency in Singapore. Through arts, we aim to bring people together, promote bonding and build a sense of belonging to the community and nation. Adopting the participatory art approach, we actively involve residents, art champions and artists to build a strong resident-centric and volunteer-driven community arts movement.
 
 The key PAssionArts programmes include:
 * <a href="#Community_Arts">Community Arts and Culture Clubs</a>
@@ -50,7 +50,7 @@ Get in touch with your local Community Arts and Culture Club (CACC) at the [Com
 ### PAssionArts Community Art Gallery
 
 <img style="width:600px" src="/images/Our%20Programmes/commarts-gallery.jpg"><br>
-The Community Art Gallery is a PAssionArts programme by PA Community Arts & Culture Clubs. This programme invites residents and community artists to display and share their art works at community places so more residents could appreciate art at their doorstep. Community Art Galleries can be found right in our neighbourhoods - at HDB void decks, coffee shops and marketplaces - where it is accessible to everyone, everyday.
+The Community Art Gallery is a PAssionArts programme by the Community Arts & Culture Clubs (CACC). This programme invites residents and community artists to display and share their art works at community spaces so more residents could appreciate art at their doorstep. Community Art Galleries can be found right in our neighbourhoods - at HDB void decks, coffee shops and marketplaces - where it is accessible to everyone, everyday.
 
 <a id="Passion_Hotspot"></a>
 ### PAssionArts Hotspot
