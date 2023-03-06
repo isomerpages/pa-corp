@@ -4,9 +4,11 @@ permalink: /our-programmes/PAssion-Wave/PAssionWaVe-JurongLakeGardens/
 description: ""
 ---
 <img style="height:300px;width:400px"  align="left" src="/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Jurong%20Lake%20Gardens.jpg"><br><br><br><br><br><br><br><br><br>
+
 PAssion Wave @ Jurong Lake Gardens, the first waterfront facility in the West provides residents in the West easy access to a myriad of fun and unique waterfront sports and lifestyle programmes for everyone, ranging from families to youths and working professionals. These range from paddle-boating and kayaking to arts, food and beverage and health & wellness programmes.
 
-Please visit our [Facebook Page](https://www.facebook.com/pa.passionwave) for more information.
+
+
 
 **Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)**
 
@@ -17,9 +19,9 @@ Please visit our [Facebook Page](https://www.facebook.com/pa.passionwave) for 
 100 Yuan Ching Road S618662  
 Phone: 69704262  
 Email: [PA\_WVJURONGLAKE@pa.gov.sg](mailto:PA_WVJURONGLAKE@pa.gov.sg)  
-Website: [https://www.facebook.com/pa.passionwave](https://www.facebook.com/pa.passionwave)
 
-[I want to register for a course](https://www.onepa.gov.sg/)
+For more information, please click here
+Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 ### Map
 
