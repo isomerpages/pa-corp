@@ -9,10 +9,8 @@ PAssion Wave @ Bedok Reservoir is situated in a picturesque and serene catchment
 
 
 
-**Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)
-**<br>
-**All outlets are closed on Mondays and Public Holidays.
-**
+**Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)**<br>
+**All outlets are closed on Mondays and Public Holidays.**
 
 #### Contact Information
 
