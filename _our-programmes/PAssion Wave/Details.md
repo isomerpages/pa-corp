@@ -56,10 +56,9 @@ For more information on our six outlets, please visit the link below.
  </tr>
  <tr>
   <td width=250 style='width:187.7pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
-  <p align=center style='text-align:center'><a
-  href="/our-programmes/PAssion-Wave/PAssionWaVe-BedokReservoir/">PAssion Wave @ Bedok Reservoir </a></p>
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
+  <p align=center style='text-align:center'>
+		<a  href="/our-programmes/PAssion-Wave/PAssionWaVe-BedokReservoir/">PAssion Wave @ Bedok Reservoir </a></p>
   </td>
   <td width=250 style='width:187.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
