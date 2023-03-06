@@ -6,10 +6,8 @@ description: ""
 <img style="height:300px;width:400px"  align="left" src="/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Pasir%20Ris.jpg"><br><br><br><br><br><br><br><br>
 
 PAssion Wave @ Pasir Ris, located at the popular Pasir Ris Beach Park, was officially opened in 1987. The outlet offers dinghy sailing, kayaking and abseiling and sports climbing.
+The relatively calm waters between Pasir Ris and Pulau Ubin are ideal for beginners to pick up kayaking, Laser and Laser Pico sailing. 
 
-The relatively calm waters between Pasir Ris and Pulau Ubin are ideal for beginners to pick up kayaking, Laser and Laser Pico sailing. 
-
-Please visit our [Facebook Page](https://www.facebook.com/pa.passionwave) for more information.
 
 ****Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)****
 
@@ -21,9 +19,10 @@ Please visit our [Facebook Page](https://www.facebook.com/pa.passionwave) for 
 Phone: 65824796  
 Fax: 65815781  
 Email: [PA\_WVPASIRRIS@pa.gov.sg](mailto:PA_WVPASIRRIS@pa.gov.sg)  
-Website: [https://www.facebook.com/pa.passionwave](https://www.facebook.com/pa.passionwave)
 
-[I want to register for a course](https://www.onepa.gov.sg/)
+For more information, please click here
+Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
+
 
 ### Map
 
