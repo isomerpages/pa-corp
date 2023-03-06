@@ -20,7 +20,7 @@ PAssion Wave @ Jurong Lake Gardens, the first waterfront facility in the West pr
 Phone: 69704262  
 Email: [PA\_WVJURONGLAKE@pa.gov.sg](mailto:PA_WVJURONGLAKE@pa.gov.sg)  
 
-For more information, please click here
+For more information, please click [here](https://linktr.ee/pwjlg)<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 ### Map
