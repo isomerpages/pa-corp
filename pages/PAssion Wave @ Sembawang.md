@@ -19,7 +19,7 @@ PAssion Wave @ Sembawang caters to residents in the Northwest region. Opened in 
 Phone: 6755 0225  
 Fax: 6755 0263  
 Email: [PA\_WVSEMBAWANG@pa.gov.sg](mailto:PA_WVSEMBAWANG@pa.gov.sg)  
-For more information, please click here
+For more information, please click [here](https://linktr.ee/pwpr)<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 
