@@ -102,5 +102,7 @@ For more information on our six outlets, please visit the link below.
 </table>
 
 
+Follow us on [Facebook](https://www.facebook.com/Passionwave) or [Instagram](https://www.instagram.com/Passionwave) to keep up to date with our latest news!
+
 
 [PAssion Wave Rate Card 2022](/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf)
