@@ -4,20 +4,49 @@ permalink: /our-programmes/PAssion-Wave/Details/
 description: ""
 third_nav_title: PAssion Wave
 ---
-<img style="width:600px" src="/images/Programmes/PW Updated.jpg">
+<img style="width:600px" src="/images/Our%20Programmes/PW%20Updated.jpg">
+
+PAssion Wave (PW) was first coined in 2015 as PA’s Specialist Community Club (SCC). PW is an integral part of the PA that ** delivers safe and affordable experiences by the water** . PW create opportunities for the community, especially amongst the youth, working professionals and young families, with interest in outdoor and lifestyle activities to **learn, play, bond and care for the nature and community**. 
+
+Creatively using water sports and lifestyle activities as the engagement platforms, the three strategic focuses of PW are:
+
 
 People’s Association PAssion Wave (PW), formerly known as Water-Venture was first coined in 2015 as PA’s specialist community club offering a broad range of waterfront lifestyle programmes to the community. PW is an integral part of PA that bonds people and bridges the communities through water sports and waterfront lifestyle pursuits. Together with its partners and trainers, PW provides safe, affordable and exciting courses, programmes and activities to the community.
 
 PW has the passionate belief that an exciting and healthy lifestyle should be accessible to everyone in the community regardless of age, race or gender.
 
-PW offers sports equipment for rental. Valid certification is required for certain sports like windsurfing, stand up paddling, and sport climbing. For certification courses or programmes, you can contact any of our PW outlets for more information.
+Sustainability & Inclusivity
+•	Giving back to the community through cause-based volunteerism to encourage greater participation and sense of ownership.
 
-Our rental hours are from 9am to 6pm on Wednesday to Sunday. All outlets are closed on Mondays and Public Holidays. With effect from 19 June 2020, all sports equipment rental offered at the six PAssion Wave outlets have to be pre-booked by users online, subject to availability. 
+Water sports & Lifestyle programmes
+•	Creating shared experiences by the water through innovative and inclusive programmes.
+ 
+Informal Groups/ Networks
+•	Connect interest and cause-based groups & networks through common interests and causes to create impactful outcomes for the community.
 
-Please visit our [Facebook page](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpa.passionwave) or follow us on [Instagram](https://www.instagram.com/accounts/login/?next=/pa.passionwave/) for more information.
+PW offers sports equipment for rental with a valid certification required for certain sports like windsurfing, stand up paddling, and sport climbing. To avoid disappointment, it is encouraged to pre-book the sports equipments before heading down for the rental.
 
-For course registration, please log on to the [onePA portal](https://www.onepa.gov.sg/).
+For more information on our six outlets, please visit the link below.
 
-Please [email](mailto: passionwave@pa.gov.sg) us for more enquiries. 
+<TABLE>
+	<TR>PASSION WAVE OUTLETS</TR>
+	<TD><P>Operating Hours: Tuesdays to Sundays, 9am to 6pm
+Rental Hours: Wednesdays to Sundays, 9am to 6pm
+Closed on Mondays and Public Holidays</TD>
+
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
 
 [PAssion Wave Rate Card 2022](/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf)
