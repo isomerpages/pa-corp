@@ -21,7 +21,7 @@ Phone: 97101697
 Fax: 62944393  
 Email: [PA\_WVBEDOKRESERVOIR@pa.gov.sg](mailto:PA_WVBEDOKRESERVOIR@pa.gov.sg)  
 
-For more information, please click here
+For more information, please click [here](https://linktr.ee/pwbr)<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 
