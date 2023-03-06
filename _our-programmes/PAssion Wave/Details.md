@@ -6,7 +6,7 @@ third_nav_title: PAssion Wave
 ---
 <img style="width:600px" src="/images/Our%20Programmes/PW%20Updated.jpg">
 
-PAssion Wave (PW) was first coined in 2015 as PA’s Specialist Community Club (SCC). PW is an integral part of the PA that ** delivers safe and affordable experiences by the water** . PW create opportunities for the community, especially amongst the youth, working professionals and young families, with interest in outdoor and lifestyle activities to **learn, play, bond and care for the nature and community**. 
+PAssion Wave (PW) was first coined in 2015 as PA’s Specialist Community Club (SCC). PW is an integral part of the PA that **delivers safe and affordable experiences by the water** . PW create opportunities for the community, especially amongst the youth, working professionals and young families, with interest in outdoor and lifestyle activities to **learn, play, bond and care for the nature and community**. 
 
 Creatively using water sports and lifestyle activities as the engagement platforms, the three strategic focuses of PW are:
 
