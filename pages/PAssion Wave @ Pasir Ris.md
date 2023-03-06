@@ -20,7 +20,7 @@ Phone: 65824796
 Fax: 65815781  
 Email: [PA\_WVPASIRRIS@pa.gov.sg](mailto:PA_WVPASIRRIS@pa.gov.sg)  
 
-For more information, please click [here](https://linktr.ee/pwpr)
+For more information, please click [here](https://linktr.ee/pwpr)<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 
