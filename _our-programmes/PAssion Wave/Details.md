@@ -28,24 +28,98 @@ PW offers sports equipment for rental with a valid certification required for ce
 
 For more information on our six outlets, please visit the link below.
 
-<TABLE>
-	<TR>PASSION WAVE OUTLETS</TR>
-	<TD><P>Operating Hours: Tuesdays to Sundays, 9am to 6pm
-Rental Hours: Wednesdays to Sundays, 9am to 6pm
-Closed on Mondays and Public Holidays</TD>
 
-
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+<table>
+ <tr>
+  <td width=501 colspan=2 style='width:375.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.0cm'>
+  <p align=center style='text-align:center'><b>PASSION WAVE
+  OUTLETS</b></p>
+  <p align=center style='text-align:center'><span
+  style='font-size:9.0pt'>Operating Hours: Tuesdays to Sundays, 9am to 6pm</span></p>
+  <p align=center style='text-align:center'><span
+  style='font-size:9.0pt'>Rental Hours: Wednesdays to Sundays, 9am to 6pm</span></p>
+  <p  align=center style='text-align:center'><span
+  style='font-size:9.0pt'>Closed on Mondays and Public Holidays</span></p>
+  </td>
+ </tr>
+ <tr >
+  <td width=250 style='width:187.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
+  <p  align=center style='text-align:center'><b>Reservoir
+  Outlets</b></p>
+  </td>
+  <td width=250 style='width:187.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
+  <p align=center style='text-align:center'><b>Sea Outlets</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:17.0pt'>
+  <td width=250 style='width:187.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
+  <p align=center style='text-align:center'><a
+  href="https://linktr.ee/pwbr"><span class=SpellE><span lang=EN-US
+  style='mso-ansi-language:EN-US'>PAssion</span></span><span lang=EN-US
+  style='mso-ansi-language:EN-US'> Wave @ Bedok Reservoir </span></a></p>
+  </td>
+  <td width=250 style='width:187.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
+  <p  align=center style='text-align:center'><a
+  href="https://linktr.ee/pweastcoast"><span class=SpellE><span lang=EN-US
+  style='mso-ansi-language:EN-US'>PAssion</span></span><span lang=EN-US
+  style='mso-ansi-language:EN-US'> Wave @ East Coast</span></a></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:17.0pt'>
+  <td width=250 style='width:187.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><a
+  href="https://linktr.ee/pwjlg"><span class=SpellE><span lang=EN-US
+  style='mso-ansi-language:EN-US'>PAssion</span></span><span lang=EN-US
+  style='mso-ansi-language:EN-US'> Wave @ Jurong Lake Gardens</span></a></p>
+  </td>
+  <td width=250 style='width:187.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
+  <p  align=center style='text-align:center'><a
+  href="https://linktr.ee/pwpr"><span class=SpellE><span lang=EN-US
+  style='mso-ansi-language:EN-US'>PAssion</span></span><span lang=EN-US
+  style='mso-ansi-language:EN-US'> Wave @ </span></a><a
+  href="https://linktr.ee/pwpr"><span class=SpellE><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Pasir</span></span></a><a
+  href="https://linktr.ee/pwpr"><span style='mso-ansi-language:EN-US'> </span></a><a
+  href="https://linktr.ee/pwpr"><span class=SpellE><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Ris</span></span></a></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:17.0pt'>
+  <td width=250 style='width:187.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><a
+  href="https://linktr.ee/pwmb"><span class=SpellE><span lang=EN-US
+  style='mso-ansi-language:EN-US'>PAssion</span></span><span lang=EN-US
+  style='mso-ansi-language:EN-US'> Wave @ Marina Bay</span></a></p>
+  </td>
+  <td width=250 style='width:187.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><a
+  href="https://linktr.ee/pwsembawang"><span class=SpellE><span lang=EN-US
+  style='mso-ansi-language:EN-US'>PAssion</span></span><span lang=EN-US
+  style='mso-ansi-language:EN-US'> Wave @ Sembawang</span></a></p>
+  </td>
+ </tr>
+</table>
 
 
 
