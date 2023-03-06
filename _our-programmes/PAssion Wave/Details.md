@@ -100,7 +100,7 @@ For more information on our six outlets, please visit the link below.
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
   <p class=MsoNormal align=center style='text-align:center'><a
-  href="https://linktr.ee/pwmb"><span class=SpellE><span lang=EN-US
+  href="/our-programmes/PAssion-Wave/PAssioWaVe-MarinaBay/"><span class=SpellE><span lang=EN-US
   style='mso-ansi-language:EN-US'>PAssion</span></span><span lang=EN-US
   style='mso-ansi-language:EN-US'> Wave @ Marina Bay</span></a></p>
   </td>
