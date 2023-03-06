@@ -25,7 +25,7 @@ Email: [PA\_WVEASTCOAST@pa.gov.sg](mailto:PA_WVEASTCOAST@pa.gov.sg)
 
 [I want to register for a course](https://www.onepa.gov.sg/)
 
-For more information, please click here
+For more information, please click [here](https://linktr.ee/pweastcoast)<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 
