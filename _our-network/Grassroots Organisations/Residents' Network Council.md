@@ -12,3 +12,5 @@ The function of the RN Council is to:
 * Spearhead innovative programmes and refreshing initiatives to raise awareness of RCNC/RNs at the national level; 
 * Forge connection across constituencies to promote a learning and best practice sharing culture; share solutions on issues that are common across different RNs and provide networking to help all RNs level up; and 
 * Facilitate collaborations between RCNC/RNs and community partners to achieve better social mixing among residents.
+
+Reach out to us via the RN Council's Facebook [page](https://www.facebook.com/RNCouncil/).
