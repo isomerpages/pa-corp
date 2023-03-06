@@ -31,14 +31,14 @@ For more information on our six outlets, please visit the link below.
 
 <table>
  <tr>
-  <td width=501 colspan=2 style='width:375.4pt;border:solid windowtext 1.0pt;
+					<td width=501 colspan=2 style='width:375.4pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.0cm'>
   <p align=center style='text-align:center'><b>PASSION WAVE
   OUTLETS</b></p>
   <p align=center >Operating Hours: Tuesdays to Sundays, 9am to 6pm</p>
   <p align=center>Rental Hours: Wednesdays to Sundays, 9am to 6pm</p>
   <p  align=center>Closed on Mondays and Public Holidays</p>
-  </td>
+		</td>
  </tr>
  <tr>
   <td width=250 style='width:187.7pt;border:solid windowtext 1.0pt;border-top:
@@ -54,12 +54,12 @@ For more information on our six outlets, please visit the link below.
   <p align=center style='text-align:center'><b>Sea Outlets</b></p>
   </td>
  </tr>
- <tr >
+ <tr>
   <td width=250 style='width:187.7pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
   <p align=center style='text-align:center'><a
-  href="/our-programmes/PAssion-Wave/PAssionWaVe-BedokReservoir/"><span class=SpellE>PAssion Wave @ Bedok Reservoir </a></p>
+  href="/our-programmes/PAssion-Wave/PAssionWaVe-BedokReservoir/">PAssion Wave @ Bedok Reservoir </a></p>
   </td>
   <td width=250 style='width:187.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -89,7 +89,7 @@ For more information on our six outlets, please visit the link below.
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
   <p class=MsoNormal align=center style='text-align:center'><a
-  href="/our-programmes/PAssion-Wave/PAssioWaVe-MarinaBay/"><span class=SpellE>PAssion Wave @ Marina Bay</a></p>
+  href="/our-programmes/PAssion-Wave/PAssioWaVe-MarinaBay/">PAssion Wave @ Marina Bay</a></p>
   </td>
   <td width=250 style='width:187.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
