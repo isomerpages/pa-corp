@@ -90,14 +90,9 @@ For more information on our six outlets, please visit the link below.
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
   <p  align=center style='text-align:center'><a
-  href="https://linktr.ee/pwpr"><span class=SpellE><span lang=EN-US
+  href="/our-programmes/PAssion-Wave/PAssionWaVe-PasirRis/"><span class=SpellE><span lang=EN-US
   style='mso-ansi-language:EN-US'>PAssion</span></span><span lang=EN-US
-  style='mso-ansi-language:EN-US'> Wave @ </span></a><a
-  href="https://linktr.ee/pwpr"><span class=SpellE><span lang=EN-US
-  style='mso-ansi-language:EN-US'>Pasir</span></span></a><a
-  href="https://linktr.ee/pwpr"><span style='mso-ansi-language:EN-US'> </span></a><a
-  href="https://linktr.ee/pwpr"><span class=SpellE><span lang=EN-US
-  style='mso-ansi-language:EN-US'>Ris</span></span></a></p>
+  style='mso-ansi-language:EN-US'> Wave @ Pasir Ris </span></a>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:17.0pt'>
