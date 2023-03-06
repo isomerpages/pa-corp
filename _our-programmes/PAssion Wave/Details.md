@@ -15,13 +15,13 @@ People’s Association PAssion Wave (PW), formerly known as Water-Venture was fi
 
 PW has the passionate belief that an exciting and healthy lifestyle should be accessible to everyone in the community regardless of age, race or gender.
 
-Sustainability & Inclusivity
-•	Giving back to the community through cause-based volunteerism to encourage greater participation and sense of ownership.
+**Sustainability & Inclusivity**<br>
+	•	Giving back to the community through cause-based volunteerism to encourage greater participation and sense of ownership.
 
-Water sports & Lifestyle programmes
+**Water sports & Lifestyle programmes**<br>
 •	Creating shared experiences by the water through innovative and inclusive programmes.
  
-Informal Groups/ Networks
+**Informal Groups/ Networks**<br>
 •	Connect interest and cause-based groups & networks through common interests and causes to create impactful outcomes for the community.
 
 PW offers sports equipment for rental with a valid certification required for certain sports like windsurfing, stand up paddling, and sport climbing. To avoid disappointment, it is encouraged to pre-book the sports equipments before heading down for the rental.
@@ -35,12 +35,9 @@ For more information on our six outlets, please visit the link below.
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.0cm'>
   <p align=center style='text-align:center'><b>PASSION WAVE
   OUTLETS</b></p>
-  <p align=center style='text-align:center'><span
-  style='font-size:9.0pt'>Operating Hours: Tuesdays to Sundays, 9am to 6pm</span></p>
-  <p align=center style='text-align:center'><span
-  style='font-size:9.0pt'>Rental Hours: Wednesdays to Sundays, 9am to 6pm</span></p>
-  <p  align=center style='text-align:center'><span
-  style='font-size:9.0pt'>Closed on Mondays and Public Holidays</span></p>
+  <p align=center >Operating Hours: Tuesdays to Sundays, 9am to 6pm</p>
+  <p align=center>Rental Hours: Wednesdays to Sundays, 9am to 6pm</p>
+  <p  align=center>Closed on Mondays and Public Holidays</p>
   </td>
  </tr>
  <tr >
