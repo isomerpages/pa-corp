@@ -7,8 +7,7 @@ description: ""
 
 PAssion Wave @ Bedok Reservoir is situated in a picturesque and serene catchment area in the eastern part of Singapore, which is easily accessible from Bedok Reservoir Road. The proximity of the outlet to nearby schools and Bedok housing estate makes it an excellent ground for recreational water sports training and activity.
 
-An ideal water sports centre, this PW outlet offers orientation course
-Please visit our [Facebook Page](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpa.passionwave) for more information.
+
 
 **Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)
 **<br>
