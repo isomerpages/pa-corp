@@ -31,13 +31,12 @@ For more information on our six outlets, please visit the link below.
 
 <table>
  <tr>
-					<td width=501 colspan=2 style='width:375.4pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:2.0cm'>
+					<td width=501 colspan=2 style='width:375.4pt;border:solid windowtext 1.0pt; '>
   <p align=center style='text-align:center'><b>PASSION WAVE
   OUTLETS</b></p>
-  <p align=center >Operating Hours: Tuesdays to Sundays, 9am to 6pm</p>
-  <p align=center>Rental Hours: Wednesdays to Sundays, 9am to 6pm</p>
-  <p  align=center>Closed on Mondays and Public Holidays</p>
+  <p align=center>Operating Hours: Tuesdays to Sundays, 9am to 6pm<br>
+Rental Hours: Wednesdays to Sundays, 9am to 6pm<br>
+		Closed on Mondays and Public Holidays</p>
 		</td>
  </tr>
  <tr>
