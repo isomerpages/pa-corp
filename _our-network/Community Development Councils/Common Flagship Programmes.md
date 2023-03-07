@@ -12,13 +12,10 @@ Below are examples of such collaborations:
 
 <img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Development%20Councils/CDCVS.png">
 
-Finance Minister Mr Lawrence Wong announced at Budget 2022 that the Community Development Councils (CDCs) will be giving three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.
+Every Singaporean household will receive a total of $300 CDC Vouchers on 3 January 2023.  This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods & Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022.  Singaporean households can use the vouchers to purchase goods and services from participating hawkers and heartland merchants as well as participating supermarkets.
+On 3 January 2023, every Singaporean household can claim $300 in CDC Vouchers. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2023 to claim and spend their CDC Vouchers 2023.
 
-
-In May 2022, the CDCs will distribute $100 worth of CDC Vouchers 2022 to each Singaporean Household to help in daily expenses as part of the Household Support Package. Singaporean households can use the vouchers to purchase goods and services from participating hawkers and heartland merchants.
-
-Learn how you can claim your CDC Vouchers 2022 at [vouchers.cdc.gov.sg.](https://vouchers.cdc.gov.sg/)
-
+Learn how you can claim your CDC Vouchers 2023.
 
 #### Kong Meng San – CDC COVID-19 Relief Fund 
 
