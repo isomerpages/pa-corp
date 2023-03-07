@@ -9,12 +9,6 @@ PAssion Wave @ East Coast set up in 1987, is nestled at the corner of East Coast
 
 
 
-
-****Rental Hours: 09:00 - 18:00 (Wednesday to Sunday)****
-
-****All outlets are closed on Mondays and Public Holidays.****
-
-
 ### Contact Information
 
 1390 East Coast Parkway S468961  
@@ -23,7 +17,7 @@ Fax: 64427054
 Email: [PA\_WVEASTCOAST@pa.gov.sg](mailto:PA_WVEASTCOAST@pa.gov.sg)  
 
 
-[I want to register for a course](https://www.onepa.gov.sg/)
+
 
 For more information, please click [here](https://linktr.ee/pweastcoast)<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
