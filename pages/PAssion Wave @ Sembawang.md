@@ -8,9 +8,6 @@ description: ""
 PAssion Wave @ Sembawang caters to residents in the Northwest region. Opened in 2008, it occupies a stretch of a beach close to Sembawang Park in the northern part of Singapore. The outlet is the perfect getaway from the concrete jungle, where one can enjoy kayaking and soak in the beauty of diverse flora and fauna along with numerous bird species that have made the area their home.
 
 
-****Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)****
-
-****All outlets are closed on Mondays and all Public Holidays.****
 
 #### Contact Information
 
@@ -19,6 +16,7 @@ PAssion Wave @ Sembawang caters to residents in the Northwest region. Opened in 
 Phone: 6755 0225  
 Fax: 6755 0263  
 Email: [PA\_WVSEMBAWANG@pa.gov.sg](mailto:PA_WVSEMBAWANG@pa.gov.sg)  
+
 For more information, please click [here](https://linktr.ee/pwpr)<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
