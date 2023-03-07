@@ -7,10 +7,9 @@ description: ""
 
 PAssion Wave @ Bedok Reservoir is situated in a picturesque and serene catchment area in the eastern part of Singapore, which is easily accessible from Bedok Reservoir Road. The proximity of the outlet to nearby schools and Bedok housing estate makes it an excellent ground for recreational water sports training and activity.
 
+An ideal water sports centre, this PW outlet offers orientation courses and rentals for dragon boats and kayaks. The surrounding park is also equipped with a jogging track, children’s playground, fitness stations and open fields for group activities. So, indulge in some leisure kayaking activity with your family or friends on a sunny afternoon, or take part in dragon boating activities at the PAssion Wave @ Bedok Reservoir.
 
 
-**Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)**<br>
-**All outlets are closed on Mondays and Public Holidays.**
 
 #### Contact Information
 
@@ -23,7 +22,6 @@ For more information, please click [here](https://linktr.ee/pwbr)<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 
-[I want to register for a course](https://www.onepa.gov.sg/)
 
 ### Map
 
