@@ -98,5 +98,5 @@ Rental Hours: Wednesdays to Sundays, 9am to 6pm<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 
-[Passion Wave Programmes & Rental Rate Card  ](/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf)
-(Accurate as of 27 March 2023)  
+[Passion Wave Programmes & Rental Rate Card  ](/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf)<br>
+(Accurate as of 27 March 2023)
