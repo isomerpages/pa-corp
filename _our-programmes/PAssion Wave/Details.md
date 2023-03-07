@@ -11,10 +11,6 @@ PAssion Wave (PW) was first coined in 2015 as PA’s Specialist Community Club (
 Creatively using water sports and lifestyle activities as the engagement platforms, the three strategic focuses of PW are:
 
 
-People’s Association PAssion Wave (PW), formerly known as Water-Venture was first coined in 2015 as PA’s specialist community club offering a broad range of waterfront lifestyle programmes to the community. PW is an integral part of PA that bonds people and bridges the communities through water sports and waterfront lifestyle pursuits. Together with its partners and trainers, PW provides safe, affordable and exciting courses, programmes and activities to the community.
-
-PW has the passionate belief that an exciting and healthy lifestyle should be accessible to everyone in the community regardless of age, race or gender.
-
 **Sustainability & Inclusivity**<br>
 	•	Giving back to the community through cause-based volunteerism to encourage greater participation and sense of ownership.
 
