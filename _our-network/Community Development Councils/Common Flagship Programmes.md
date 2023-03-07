@@ -8,7 +8,7 @@ The five Community Development Councils (CDCs) come together to run common flags
 
 Below are examples of such collaborations:
 
-#### CDC Vouchers Scheme 2022
+#### CDC Vouchers Scheme 2023
 
 
 <img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Development%20Councils/Cover%20Banner-voucher.png">
