@@ -9,9 +9,6 @@ PAssion Wave @ Pasir Ris, located at the popular Pasir Ris Beach Park, was offic
 The relatively calm waters between Pasir Ris and Pulau Ubin are ideal for beginners to pick up kayaking, Laser and Laser Pico sailing. 
 
 
-****Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)****
-
-****All outlets are closed on Mondays and all Public Holidays.****
 
 ### Contact Information
 
