@@ -9,10 +9,6 @@ The outlet is ideal for beginners to pick up kayaking, dragon boating and pedal 
 
 
 
-**Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)**
-
-**All outlets are closed on Mondays and all Public Holidays.**
-
 #### Contact Information
 
 11 Rhu Cross S437440  
@@ -20,7 +16,7 @@ Phone: 62966683
 Fax: 62944393  
 Email: [PA\_WVMARINABAY@pa.gov.sg](mailto:PA_WVMARINABAY@pa.gov.sg)  
 
-For more information, please click [here](https://linktr.ee/pwmb)
+For more information, please click [here]<br>(https://linktr.ee/pwmb)
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave)Instagram to keep up to date with our latest news!
 
 
