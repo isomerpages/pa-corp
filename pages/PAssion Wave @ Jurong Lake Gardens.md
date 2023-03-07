@@ -9,12 +9,7 @@ PAssion Wave @ Jurong Lake Gardens, the first waterfront facility in the West pr
 
 
 
-
-**Rental Hours: 09:00 - 18:00 (Wednesday - Sunday)**
-
-**All outlets are closed on Mondays and all Public Holidays.**
-
-### Contact Information
+## Contact Information
 
 100 Yuan Ching Road S618662  
 Phone: 69704262  
