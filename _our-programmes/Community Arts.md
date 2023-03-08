@@ -55,7 +55,7 @@ The Community Art Gallery is a PAssionArts programme by the Community Arts & Cul
 <a id="Passion_Hotspot"></a>
 ### PAssionArts Hotspot
 <img style="width:600px"  src="/images/Our%20Programmes/commarts-hotspots.jpg"><br>
-A PAssionArts programme where residents can showcase their talents right in the heart of their neighbourhood. This programme invite residents and community artistes to step out and showcase their talents in community spaces like hawker centres/food courts, town centres, parks and playgrounds with residents, for residents. It also provides a good opportunity for the community to appreciate and make friends through arts. Happening monthly, it provides spaces in our neighbourhood filled with exciting showcases for everyone to enjoy with their families, friends and neighbours.
+A PAssionArts programme where residents can showcase their talents right in the heart of their neighbourhood. This programme invite residents and community artistes to step out and showcase their talents in community spaces like hawker centres/food courts, town centres, parks and playgrounds with residents, for residents. It also provides a good opportunity for the community to appreciate and make friends through arts. It provides spaces in our neighbourhood filled with exciting showcases for everyone to enjoy with their families, friends and neighbours.
 
 
 <a id="Passion_Inspi"></a>
