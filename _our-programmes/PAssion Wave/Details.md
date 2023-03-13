@@ -82,7 +82,7 @@ Rental Hours: Wednesdays to Sundays, 9am to 6pm<br>
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt'>
   <p class=MsoNormal align=center style='text-align:center'><a
-  href="/our-programmes/PAssion-Wave/PAssioWaVe-MarinaBay/">PAssion Wave @ Marina Bay</a></p>
+  href="/our-programmes/PAssion-Wave/PAssionWaVe-MarinaBay/">PAssion Wave @ Marina Bay</a></p>
   </td>
   <td width=250 style='width:187.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
