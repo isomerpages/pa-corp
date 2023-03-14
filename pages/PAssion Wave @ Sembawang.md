@@ -17,7 +17,7 @@ Phone: 6755 0225
 Fax: 6755 0263  
 Email: [PA\_WVSEMBAWANG@pa.gov.sg](mailto:PA_WVSEMBAWANG@pa.gov.sg)  
 
-For more information, please click [here](https://linktr.ee/pwpr)<br>
+For more information, please click [here](https://linktr.ee/pwsembawang)<br>
 Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 
