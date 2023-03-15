@@ -44,19 +44,18 @@ sections:
       image: /images/PA Course (smaller).jpg
       alt: PA courses
   - infopic:
-      title: Locate CC
+      title: Find My CC/RC
       description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
         nearest CC to attend courses, book CC facilities, or join an Interest
         Group.
-      button: Locate
+      button: Search
       url: /info/CC-Details
       image: /images/Photo - Locate a CC.jpg
-      subtitle: More details on your CC
-      alt: /info/CC-Details
+      alt: https://www.onepa.gov.sg/cc
   - infopic:
-      description: Find to which CDC you belong to
-      button: Find your CDC.
+      description: Check which CDC you belong to
+      button: Search
       url: https://gowhere.gov.sg/cdc
       image: /images/SG Light up.png
-      title: CDC Details
+      title: Find My CDC
 ---
