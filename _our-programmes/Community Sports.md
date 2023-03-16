@@ -9,7 +9,7 @@ Over the years, the CSN has curated flagship programmes like the evergreen PAssi
 
 The CSNs at the grassroots level organises an array of activities such as brisk walks, mass swims, sports carnivals, bowling, badminton, football and sepak takraw, and in recent years also included disc golf, kin-ball and floorball.
 
-Visit our [Facebook Page](https://www.facebook.com/PACommunitySportsNetwork) for more information! Alternatively, you could email us at [PA_Community_Sports@pa.gov.sg](mailto: PA_Community_Sports@pa.gov.sg)!
+Visit our [Facebook](https://www.facebook.com/PACommunitySportsNetwork) for more information! Alternatively, you may email us at [PA_Community_Sports@pa.gov.sg](mailto: PA_Community_Sports@pa.gov.sg)!
 
  
 ### PAssion Community Football
