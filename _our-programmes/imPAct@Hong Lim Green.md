@@ -24,7 +24,7 @@ For more information on the fitness membership, please call us at 6786 0016.
 
 
 
-Register to be our volunteer [here](https://go.gov.sg/impact-dogooders?) or drop us an email at [imPActHLG@pa.gov.sg](mailto: imPActHLG@pa.gov.sg) to explore collaborations!
+Register to be our  [volunteer](https://go.gov.sg/impact-dogooders?) or drop us an [email]( imPActHLG@pa.gov.sg) to explore collaborations!
 
  
 
