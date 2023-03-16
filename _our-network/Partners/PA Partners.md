@@ -38,6 +38,8 @@ Platforms such as dialogue and networking sessions are available for partners to
 
 We recognise strategic partners who have worked closely with PA. The PA Community Spirit Award Scheme is given to exemplary partners who have assisted in building social capital and contributed to the community.
 
+<img style="width:200px" align="center" src="/images/Our%20Network/Partners/Partners.svg">
+
 
 #### Be a Friend of PA, Be Our WeCare PALs
 
