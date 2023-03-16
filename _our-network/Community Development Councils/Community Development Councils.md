@@ -34,4 +34,4 @@ For more information, visit [ www.cdc.gov.sg](https://www.cdc.gov.sg/)
 
 If you wish to join the CDCs as a volunteer, please sign up [here](https://form.gov.sg/62b428e70c90650012b77985).
 
-For more information, please visit our [website](www.cdc.gov.sg) or locate your [CDC](https://stg-tmp.gowhere.gov.sg/cdc). 
+For more information, please visit our [website](www.cdc.gov.sg) or locate your [CDC](https://stg-tmp.gowhere.gov.sg/cdc).
