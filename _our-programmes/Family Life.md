@@ -20,4 +20,4 @@ The Family Fun.Family Time programme is a series of customised family-centric ac
 
 The Let's Learn. Let's Play Together! Holiday programme is a series of thematic parent-child activities, specially curated to get families to foster stronger ties and connections during the holiday season.
 
-Follow us on the [PA Family Life Champion Facebook Page](https://www.facebook.com/flc.pa.1) for more family programme updates, or email us at [PA_FamilyLife@pa.gov.sg](mailto: PA_FamilyLife@pa.gov.sg) for more details.
+Visit our [Facebook](https://www.facebook.com/flc.pa.1) for more information on Family programmes. Alternatively please [email us](PA_FamilyLife@pa.gov.sg) for more details.
