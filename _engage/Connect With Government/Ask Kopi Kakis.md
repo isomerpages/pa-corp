@@ -34,11 +34,9 @@ Residents can click on the links below to download the e-booklets and share with
 
 
 
-|<a href="/files/Engage/pa-career-malay-(final).pdf"><img style="height:200px;width:250px"  align="left" src="/images/Engage/pa-career-malay.png"><br><br><br><br><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults. | <a href="/files/Engage/pa-career-malay-(final).pdf"><img style="height:200px;width:250px"  align="center" src="/images/Engage/pa-family-malay.png"><br><br></a>Policies relating to setting up a home and family and initiatives to help with the cost of living. | <a href="files/Engage/pa-senior-malay-(final).pdf"><img style="height:200px;width:250px"  align="right" src="/images/Engage/pa-senior-malay.png"><br><br><br><br><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing. |
+|<a href="/files/Engage/Getting%20ahead%20in%20my%20career%20MAL%20Sep22.pdf"><img style="height:200px;width:250px"  align="left" src="/images/Engage/pa-career-malay.png"><br><br><br><br><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults. | <a href="/files/Engage/Caring%20for%20my%20family%20MAL%20Sep22.pdf"><img style="height:200px;width:250px"  align="center" src="/images/Engage/pa-family-malay.png"><br><br></a>Policies relating to setting up a home and family and initiatives to help with the cost of living. | <a href="/files/Engage/Caring%20for%20our%20seniors%20MAL%20Sep22.pdf"><img style="height:200px;width:250px"  align="right" src="/images/Engage/pa-senior-malay.png"><br><br><br><br><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing. |
 | -------- | -------- | -------- |
 |  |  |
-
-
 
 
 
