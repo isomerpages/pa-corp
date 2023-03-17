@@ -10,6 +10,6 @@ Surrounded by the vast greenery of Kent Ridge Park and linked to Singapore’s S
 
 Contact us today so that we can assist to make your learning experience an enjoyable and memorable one!
 
-For more information on our training facilities, please refer to the Rental Enquiry Form below and email back to us: 
+For more information on our training facilities, please refer to the Rental Enquiry Form below. 
 
 [Rental Enquiry Form](/files/Our%20Network/NACLI/Campus%20Facilities/NACLI%20Rental%20Enquiry%20Form%20(2022).pdf) (Accurate as at 17 March 2023)
