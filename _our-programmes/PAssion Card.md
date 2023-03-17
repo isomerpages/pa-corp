@@ -6,7 +6,7 @@ description: ""
 The PAssion Card is a membership card of the People's Association (PA).
 
 
-<img style="width:600px" align="center" src="/images/Programmes/PAssion%20Card%20(1).png">
+<img style="width:600px" align="center" src="/images/Our%20Programmes/Corporate-Black-Cardface-(with-logos).jpg">
 
 In November 2009, the PAssion EZ-Link Card was launched. Besides offering our members exclusive privileges for our exciting range of courses, activities and programmes, the PAssion Card also offers unique promotions via our tie-ups with our lifestyle merchants and partners.
 
