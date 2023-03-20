@@ -19,7 +19,7 @@ The series of video clips below showcases our key facilities, the different visi
 * [For Foodies](https://www.youtube.com/watch?v=KdB_PpJtIMY&feature=youtu.be)
 
 
-Check out our interesting videos such as milestone celebrations like OTH’s First Anniversary, Thank You.
+Check out our interesting videos such as milestone celebrations like OTH’s First Anniversary, Thank You and Learning Journey Marketing Video!
 
 * [Our Tampines Hub's 1st Anniversary](https://www.youtube.com/watch?v=qSk1oOo8feU&feature=youtu.be)
 * [Our Tampines Hub's Thank You](https://www.youtube.com/watch?v=b-qqMzPvMMk&feature=youtu.be)
