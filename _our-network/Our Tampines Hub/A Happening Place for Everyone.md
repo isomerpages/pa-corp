@@ -24,5 +24,4 @@ Check out our interesting videos such as milestone celebrations like OTH’s Fir
 
 * [Our Tampines Hub's 1st Anniversary](https://www.youtube.com/watch?v=qSk1oOo8feU&feature=youtu.be)
 * [Our Tampines Hub's Thank You](https://www.youtube.com/watch?v=b-qqMzPvMMk&feature=youtu.be)
-* [Countdown to 2019 at Our Tampines Hub](https://www.youtube.com/watch?v=ni6iqKHS-rE&feature=youtu.be)
 * [Learning Journey Marketing Video]()
