@@ -8,7 +8,7 @@ The PAssion Card is a membership card of the People's Association (PA).
 
 <img style="width:600px" align="center" src="/images/Our%20Programmes/Corporate-Black-Cardface-(with-logos).jpg">
 
-In November 2009, the PAssion EZ-Link Card was launched. Besides offering our members exclusive privileges for our exciting range of courses, activities and programmes, the PAssion Card also offers unique promotions via our tie-ups with our lifestyle merchants and partners.
+In November 2009, the PAssion EZ-Link Card was launched. Besides offering our members exclusive privileges for our exciting range of courses, activities and programmes, the [PAssion Card](www.onepa.gov.sg/passion-card) also offers unique promotions via our tie-ups with our lifestyle merchants and partners.
 
 In January 2014, the PAssion POSB Debit Card – the must-have card for everyone in Singapore – was introduced jointly by PA and POSB. The all-in-one PAssion POSB Debit Card allows you to enjoy greater savings, rewards and privileges at over 2,500 places islandwide. What’s more, it also works as an ATM, NETS, Debit MasterCard® and EZ-Link card to give you all the convenience you need.
 
@@ -25,8 +25,6 @@ PAssion Members can do good in the community simply by scanning the PAssion CARE
 Don’t have a PAssion Card? Sign up for your PAssion e-Membership via MyPAssion app today. The new PAssion e-Membership is available for all aged 15 and above with a valid Singpass and lets you enjoy the same PAssion privileges as a PAssion Cardholder! To sign up, you just have to download MyPAssion app (https://www.onepa.gov.sg/passion-card/connect-with-us/mypassion-app) and sign in with your Singpass. What’s more, PAssion e-Membership is free! Existing PAssion Card Members with expiring cards will also have their membership auto-converted into a PAssion e-Membership 30 days before expiry. Access your e-Membership via MyPAssion app, and continue to enjoy PAssion perks and privileges.
 
 As a PAssion Member, there’s always something to look forward to.
-
-For more information on the PAssion Card, log on to [www.onepa.gov.sg/passion-card](https://www.onepa.gov.sg/passion-card).
 
 For more information on the PAssion POSB Debit Card, log on to [www.posb.com.sg/passion](http://www.posb.com.sg/passion).
 
