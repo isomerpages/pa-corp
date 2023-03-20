@@ -27,6 +27,4 @@ Don’t have a PAssion Card? Sign up for your PAssion e-Membership via MyPAssion
 As a PAssion Member, there’s always something to look forward to.
 
 
-For more information on the PAssion CARES initiative, visit [www.onepa.gov.sg/passion-card/what-is-passion-cares](https://www.onepa.gov.sg/passion-card/what-is-passion-cares).
-
 Stay connected with us via [Facebook](http://www.facebook.com/PAssionCard), [Instagram](http://www.instagram.com/PAssionCard) and [Telegram](https://t.me/SGPAssionDeals)!
