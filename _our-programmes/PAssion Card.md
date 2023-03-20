@@ -12,7 +12,7 @@ In November 2009, the PAssion EZ-Link Card was launched. Besides offering our me
 
 In January 2014, the [PAssion POSB Debit Card](http://www.posb.com.sg/passion) – the must-have card for everyone in Singapore – was introduced jointly by PA and POSB. The all-in-one PAssion POSB Debit Card allows you to enjoy greater savings, rewards and privileges at over 2,500 places islandwide. What’s more, it also works as an ATM, NETS, Debit MasterCard® and EZ-Link card to give you all the convenience you need.
 
-The PAssion Silver Concession Card, launched in December 2016, is one of 70 initiatives under the Action Plan for Successful Ageing and spearheaded by the Ministry of Health, Ministry of Transport and PA with support from the Land Transport Authority.
+The [PAssion Silver Concession Card](https://www.onepa.gov.sg/passion-card/passion-card-membership/silver-concession-card), launched in December 2016, is one of 70 initiatives under the Action Plan for Successful Ageing and spearheaded by the Ministry of Health, Ministry of Transport and PA with support from the Land Transport Authority.
 
 The Card merges the existing purple Senior Citizen Concession Card and PAssion Card programme, and will serve as a common identifier for the community and businesses to honour our seniors. With the PAssion Silver Concession Card, seniors will be able to enjoy concessionary fares on public transport, in addition to a suite of merchant benefits and privileges. By leveraging on PA’s existing PAssion Card programme, its community network and partners, the programme also enables seniors to continue to stay active, be engaged with the community and live well.
 
@@ -26,8 +26,6 @@ Don’t have a PAssion Card? Sign up for your PAssion e-Membership via MyPAssion
 
 As a PAssion Member, there’s always something to look forward to.
 
-
-For more information on the PAssion Silver Concession Card, log on to [www.onepa.gov.sg/passion-card/passion-card-membership/silver-concession-card](https://www.onepa.gov.sg/passion-card/passion-card-membership/silver-concession-card).
 
 For more information on the PAssion CARES initiative, visit [www.onepa.gov.sg/passion-card/what-is-passion-cares](https://www.onepa.gov.sg/passion-card/what-is-passion-cares).
 
