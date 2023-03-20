@@ -18,7 +18,7 @@ imPAct@Hong Lim Green offers an array of flexible membership schemes for public 
 
 ^Resumption of Day Pass will be piloted in phases from March 2022 onwards, subject to SMM guidelines. imPAct@Hong Lim Green reserves the right to suspend the Day Pass at any time.
 
-To view the full terms and conditions for the fitness membership, please click [here](/files/Our%20Programmes/ImPAct@Hong%20Lim%20Green/ihlg-fitness-membership-tc-and-indemnity-form_hardcopy_v2.pdf)
+
 
 For more information on the fitness membership, please call us at 6786 0016.
 
