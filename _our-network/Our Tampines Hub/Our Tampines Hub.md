@@ -14,7 +14,7 @@ Led by People’s Association, OTH represents a new model of a community-focused
 
 Residents can **enjoy a range of facilities** such as sports facilities, a regional library, community club programmes and facilities, arts programmes and facilities, hawker centre and retail shops.
 
-This **integration of facilities in OTH and of other stakeholders** \- namely National Library Board (NLB), Ministry of Health (MOH), Workforce Singapore (WSG), North East Community Development Council (NE CDC), Ministry of Social and Family Services (MSF), Housing Development Board (HDB), National Heritage Board (NHB), National Arts Council (NAC), National Environment Agency (NEA), HomeTeamNS (HTNS) and SportSG (SSG) - **is an effort to better serve Tampines residents and people who live in eastern Singapore, so as to meet the rising expectations of Singaporeans and further intensify land utilisation**.
+This **integration of facilities in OTH and of other stakeholders** \- namely National Library Board (NLB), Ministry of Health (MOH), Workforce Singapore (WSG), North East Community Development Council (NE CDC), Ministry of Social and Family Services (MSF), Housing Development Board (HDB), National Heritage Board (NHB), National Arts Council (NAC), National Environment Agency (NEA) and SportSG (SSG) - **is an effort to better serve Tampines residents and people who live in eastern Singapore, so as to meet the rising expectations of Singaporeans and further intensify land utilisation**.
 
 OTH currently serves more than 250,000 residents and approximately 80,000 households.
 
@@ -34,4 +34,5 @@ The **integration of the Community Gallery with the Regional Library at OTH** 
 
 Conceptualised with inputs from 15,000 Tampines residents, **Our Tampines Hub is designed with residents, for residents**. It is the future of Tampines that offers greater convenience, a full spectrum of activities, facilities and services to cater to residents and visitors of all ages and lifestyle preferences, ensuring it serves all members within our community.
 
-**Download the [e-copy of our Hub Guide](https://go.gov.sg/othhubguide2020), featuring details on all the facilities and services OTH has to offer now**
+**Download the [e-copy of our Hub Guide](https://go.gov.sg/othhubguide2020)
+(Accurate as of 27 March 2023 ), featuring details on all the facilities and services OTH has to offer now**
