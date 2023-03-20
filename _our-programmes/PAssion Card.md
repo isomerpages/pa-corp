@@ -26,7 +26,6 @@ Don’t have a PAssion Card? Sign up for your PAssion e-Membership via MyPAssion
 
 As a PAssion Member, there’s always something to look forward to.
 
-For more information on the PAssion POSB Debit Card, log on to [www.posb.com.sg/passion](http://www.posb.com.sg/passion).
 
 For more information on the PAssion Silver Concession Card, log on to [www.onepa.gov.sg/passion-card/passion-card-membership/silver-concession-card](https://www.onepa.gov.sg/passion-card/passion-card-membership/silver-concession-card).
 
