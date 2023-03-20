@@ -34,7 +34,7 @@ Gentarasa, meaning “Chimes of Expression”, showcases the many performing tal
 
 #### Chingay
 ![](/images/Our%20Programmes/Chingay%202023%20Finale%20Wide.jpg)
-The annual street procession brings diverse groups of people together, and showcases the rich multi-cultural diversity of our society, through a parade of exciting performances and colourful floats. Visit the [Chingay Website](https://www.chingay.gov.sg/) for more information.
+The annual street procession brings diverse groups of people together and showcases the rich multi-cultural diversity of our society, through a parade of exciting performances and colourful floats. Visit the [Chingay](https://www.chingay.gov.sg/) for more information.
 
  
 
