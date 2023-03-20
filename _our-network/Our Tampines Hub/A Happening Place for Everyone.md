@@ -4,7 +4,6 @@ permalink: /our-network/our-tampines-hub/a-happening-place-for-everyone/
 description: ""
 third_nav_title: Our Tampines Hub
 ---
-
 Our Tampines Hub (OTH) boasts more than 30 sports, community, arts and lifestyle facilities. As our tagline suggests, there is truly something for everyone!
 
 The series of video clips below showcases our key facilities, the different visitor demographics that we serve, and how we use OTH as a communal infrastructure which features multiple platforms to build and bridge different members of our community, while engendering a sense of ownership amongst visitors and building a foundation that will nurture more meaningful and lasting relationships.
@@ -15,7 +14,6 @@ The series of video clips below showcases our key facilities, the different visi
 * [PAssion Card Benefits](https://www.youtube.com/watch?v=_QW_YvxjrH4)
 * [For Teens](https://www.youtube.com/watch?v=TPGQYsmJdns&feature=youtu.be)
 * [Seniors Day Out](https://www.youtube.com/watch?v=h4NgsH4j69w&feature=youtu.be)
-* [Public Service Centre](https://www.youtube.com/watch?v=BiWVuBV3C0U&feature=youtu.be)
 * [Family Fun](https://www.youtube.com/watch?v=c-VNllkPDBI&feature=youtu.be)
 * [Green Heroes](https://www.youtube.com/watch?v=eBSkwVEPQb8&feature=youtu.be)
 * [For Techies](https://www.youtube.com/watch?v=Iu5M8KTVA1A)
