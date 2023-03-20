@@ -11,7 +11,6 @@ The series of video clips below showcases our key facilities, the different visi
 
 * [Welcome Tour](https://www.youtube.com/watch?v=oG3hz9sCOXk)
 * [After School Activities](https://www.youtube.com/watch?v=CiP5t-UiCIQ&feature=youtu.be)
-* [PAssion Card Benefits](https://www.youtube.com/watch?v=_QW_YvxjrH4)
 * [For Teens](https://www.youtube.com/watch?v=TPGQYsmJdns&feature=youtu.be)
 * [Seniors Day Out](https://www.youtube.com/watch?v=h4NgsH4j69w&feature=youtu.be)
 * [Family Fun](https://www.youtube.com/watch?v=c-VNllkPDBI&feature=youtu.be)
@@ -24,4 +23,4 @@ Check out our interesting videos such as milestone celebrations like OTH’s Fir
 
 * [Our Tampines Hub's 1st Anniversary](https://www.youtube.com/watch?v=qSk1oOo8feU&feature=youtu.be)
 * [Our Tampines Hub's Thank You](https://www.youtube.com/watch?v=b-qqMzPvMMk&feature=youtu.be)
-* [Learning Journey Marketing Video]()
+* [OTH Learning Journey Marketing Video]()
