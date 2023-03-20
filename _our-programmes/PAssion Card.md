@@ -18,7 +18,7 @@ The Card merges the existing purple Senior Citizen Concession Card and PAssion C
 
 PAssion Members also get to enjoy exclusive privileges on eCapitaVoucher and deals on the CapitaStar App. To enjoy this privilege, download the CapitaStar App and activate your CapitaStar privileges.
 
-From 27 October 2022, PAssion Members can also link their PAssion Card to [yuu Rewards Club]([https://yuu.sg](https://yuu.sg/) and earn yuu Points with ease at 7-Eleven, Cold Storage, CS Fresh, Giant and Guardian outlets. By using the yuu App, you can earn yuu Points for every $1 spent at even more brands. For more information on yuu, please visit [https://yuu.sg.](https://yuu.sg)
+From 27 October 2022, PAssion Members can also link their PAssion Card to [yuu Rewards Club](https://yuu.sg/) and earn yuu Points with ease at 7-Eleven, Cold Storage, CS Fresh, Giant and Guardian outlets. By using the yuu App, you can earn yuu Points for every $1 spent at even more brands. For more information on yuu, please visit [https://yuu.sg.](https://yuu.sg)
 
 PAssion Members can do good in the community simply by scanning the [PAssion CARES](https://www.onepa.gov.sg/passion-card/what-is-passion-cares) QR code or tapping their PAssion Cards at PAssion CARES terminals at selected community events. With each successful participation, 10 yuu Points will be contributed to community projects, while another 10 yuu Points will be credited to your PAssion Card in appreciation of your support towards PAssion CARES. This initiative is fully supported by our partners, POSB and yuu Rewards Club. The yuu Points raised will go towards various community projects benefitting the underprivileged in the community.
 
