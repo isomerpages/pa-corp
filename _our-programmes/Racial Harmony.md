@@ -48,6 +48,4 @@ OnePeople.sg’s HarmonyWorks! Conference is one of our signature youth-driven i
 src="/images/Our%20Programmes/OPSG%202.jpg"><br><img style="width:600px"  align="centre"
 src="/images/Our%20Programmes/OPSG%203.jpg">
 
-Established in 1997 as Central Singapore Joint Social Service Centre, OnePeople.sg (OPSG) was repositioned and launched by Prime Minister Lee Hsien Loong in 2007 to champion racial harmony initiatives in Singapore. Since inception, OPSG has played an instrumental role promoting harmony through a range of programmes including community dialogues, learning journeys, training workshops, and resource development. OPSG also works closely with various religious organisations, community partners, government agencies and individuals to strengthen racial harmony and social cohesion in Singapore.
-
-Visit [OnePeople.sg’s website](https://www.onepeople.sg/) for more information.
+Established in 1997 as Central Singapore Joint Social Service Centre, [OnePeople.sg (OPSG)](https://www.onepeople.sg/) was repositioned and launched by Prime Minister Lee Hsien Loong in 2007 to champion racial harmony initiatives in Singapore. Since inception, OPSG has played an instrumental role promoting harmony through a range of programmes including community dialogues, learning journeys, training workshops, and resource development. OPSG also works closely with various religious organisations, community partners, government agencies and individuals to strengthen racial harmony and social cohesion in Singapore.
