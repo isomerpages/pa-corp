@@ -52,10 +52,4 @@ sections:
       url: /info/CC-Details
       image: /images/Photo - Locate a CC.jpg
       alt: https://www.onepa.gov.sg/cc
-  - infopic:
-      description: Check which CDC you belong to
-      button: Search
-      url: https://gowhere.gov.sg/cdc
-      image: /images/SG Light up.png
-      title: Find My CDC
 ---
