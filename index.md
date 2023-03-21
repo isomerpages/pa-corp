@@ -49,7 +49,7 @@ sections:
         nearest CC to attend courses, book CC facilities, or join an Interest
         Group.
       button: Search
-      url: /info/CC-Details
+      url: https://www.onepa.gov.sg/cc
       image: /images/Photo - Locate a CC.jpg
       alt: https://www.onepa.gov.sg/cc
 ---
