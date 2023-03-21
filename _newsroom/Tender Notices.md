@@ -8,7 +8,6 @@ All current tender notices released by PA’s grassroots organisations can be fo
 For tender notices pertaining to available spaces for rent at Community Clubs/Centres and Water Venture outlets, please click [here](/our-network/Community-Clubs/Rentals).
 
 Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed online using [this](https://gems.pa.gov.sg/account/vendors) link. Access the GEMS 2 webpage to learn more.
-
 <br>
 
 [Bukit Panjang Zone 8 RC Trade Fair 2022 from 12 Oct to 23 Oct 2022 (12 days)](/tender-details/Bukit-Panjang-Zone-8-C-Trade-Far)
