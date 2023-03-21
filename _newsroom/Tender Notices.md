@@ -11,4 +11,4 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 <br>
 
 Please check the below listing(s) for the latest tender notices:
-- No current tender notices available. 
+- No current tender notices available.
