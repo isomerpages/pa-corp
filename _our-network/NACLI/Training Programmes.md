@@ -24,8 +24,8 @@ Enjoy bite-sized learning at your fingertips when you come onboard NACLI's socia
 
 Stay updated on: <br>
 
-<a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fnaclisg"><img style="width:48px"  align="left" src="/images/Facebook Button Logo.png"></a>
+<a href="https://www.facebook.com/naclisg"><img style="width:48px"  align="left" src="/images/Facebook Button Logo.png"></a>
 
 <img style="width:10px"  align="left" src="/images/Blank Space.png">
 
-<a href="https://www.instagram.com/accounts/login/?next=/naclisg/"> <img style="width:48px"  align="left" src="/images/Instagram Logo.png"></a>
+<a href="https://www.instagram.com/naclisg/"> <img style="width:48px"  align="left" src="/images/Instagram Logo.png"></a>
