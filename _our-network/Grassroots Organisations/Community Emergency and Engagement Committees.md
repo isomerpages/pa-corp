@@ -1,6 +1,6 @@
 ---
 title: Community Emergency and Engagement Committees
-permalink: /our-network/Grassroots-Organisations/Community-Emergency-and-Engagement-Committees
+permalink: /our-network/Grassroots-Organisations/Community-Emergency-and-Engagement-Committees/
 description: ""
 third_nav_title: Grassroots Organisations
 ---
@@ -34,8 +34,8 @@ First formed in 2004 as part of the Residents’ Committees and Neighbourhood Co
 
 #### To sign up as a CERT member:
 
-Please call 6340 5350 or email to 
-[PA_Cert@pa.gov.sg.](PA_Cert@pa.gov.sg.)
+Please call 6340 5350 or drop us an 
+[email](PA_Cert@pa.gov.sg).
 
 You can also fax or mail your application to
 Emergency Preparedness Division
