@@ -6,7 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-### CDC Vouchers Scheme - Residents' Appeal
+### Appointment of Grassroots Advisers after the Writ of Election is issued
+
 **Response to parliamentary question on how appeals for CDC Vouchers Scheme are processed and verified.**
 
 ![](/images/NewsRoom/Parliament%20House.jpg)
