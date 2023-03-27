@@ -11,4 +11,4 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 <br>
 
 Please check the below listing(s) for the latest tender notices:
-- No current tender notices available.
+[Tender for Bukit Panjang Zone 8 RC Trade Fair](/tender-details/bukit-panjang-zone-8-rc-trade-fair-27may-10jun2023/)
