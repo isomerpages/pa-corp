@@ -1,0 +1,29 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - PA's Programmes.md
+      - Active Ageing.md
+      - CC Courses/.keep
+      - CC Courses/Courses.md
+      - CC Courses/Be a Training Provider.md
+      - CC Courses/School Holidays Series.md
+      - CC Courses/Industry Guru Series.md
+      - CC Courses/SkillsFuture@PA.md
+      - CC Courses/PA SHIOK Series.md
+      - CC Courses/Online PA Booking.md
+      - CC Courses/PWRx.md
+      - Community Arts.md
+      - Community Dialogue.md
+      - Community Integration.md
+      - Community Sports.md
+      - Emergency Preparedness.md
+      - Family Life.md
+      - imPAct@Hong Lim Green.md
+      - PAssion Card.md
+      - PAssion Wave/.keep
+      - PAssion Wave/Details.md
+      - PAssion Wave/Locate PW.md
+      - Racial Harmony.md
+      - Women's Programmes.md
+      - Youth.md

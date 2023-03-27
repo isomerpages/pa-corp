@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About PA.md
+      - Our History.md
+      - Board of Management.md
+      - Annual Reports.md
+      - PA Act and Other Constitutions.md
+      - 60th Anniversary.md
+      - Contact Us.md

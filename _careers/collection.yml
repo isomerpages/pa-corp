@@ -1,0 +1,11 @@
+collections:
+  careers:
+    output: true
+    order:
+      - What we Offer.md
+      - PA Careers.md
+      - PA Scholarship/PA Scholarship.md
+      - PA Scholarship/.keep
+      - PA Scholarship/Our Scholars.md
+      - PA Student Internship.md
+      - Why Join.md

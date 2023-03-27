@@ -1,0 +1,60 @@
+collections:
+  our-network:
+    output: true
+    order:
+      - PA's Network.md
+      - Community Clubs/.keep
+      - Community Clubs/CC Information.md
+      - Community Clubs/Legal Advice Service.md
+      - Community Clubs/Rentals.md
+      - Partners/.keep
+      - Partners/PA Partners.md
+      - Partners/WeCare PALs.md
+      - Partners/Project We Care.md
+      - Community Development Councils/.keep
+      - Community Development Councils/Community Development Councils.md
+      - Community Development Councils/Office of the Mayors.md
+      - Community Development Councils/Common Flagship Programmes.md
+      - Member Organisations.md
+      - Grassroots Organisations/.keep
+      - Grassroots Organisations/Grassroots Organisations.md
+      - Grassroots Organisations/Active Ageing Council.md
+      - Grassroots Organisations/Community Club Management Committees.md
+      - Grassroots Organisations/Community Sports Clubs.md
+      - Grassroots Organisations/Community Sports Club Council.md
+      - Grassroots Organisations/Community Emergency and Engagement Committees.md
+      - Grassroots Organisations/Citizens' Consultative Committees.md
+      - Grassroots Organisations/Malay Activity Executive Committees Council.md
+      - Grassroots Organisations/Narpani Pearavai.md
+      - Grassroots Organisations/Neighbourhood Committees.md
+      - Grassroots Organisations/People's Association Youth Movement.md
+      - Grassroots Organisations/Residents' Committees.md
+      - Grassroots Organisations/Residents' Network.md
+      - Grassroots Organisations/Residents' Network Council.md
+      - Grassroots Organisations/Women's Integration Network Council.md
+      - NACLI/.keep
+      - NACLI/National Community Leadership Institute.md
+      - NACLI/Learn with NACLI.md
+      - NACLI/Training Programmes.md
+      - NACLI/Campus Facilities.md
+      - NACLI/Locate Us.md
+      - Heartbeat@Bedok/.keep
+      - Heartbeat@Bedok/Heartbeat@Bedok.md
+      - Heartbeat@Bedok/Hub Info.md
+      - Heartbeat@Bedok/Contact Us.md
+      - One Punggol/.keep
+      - One Punggol/One Punggol.md
+      - One Punggol/Hub Info.md
+      - One Punggol/Contact Us.md
+      - Our Tampines Hub/.keep
+      - Our Tampines Hub/Our Tampines Hub.md
+      - Our Tampines Hub/Hub Info.md
+      - Our Tampines Hub/A Happening Place for Everyone.md
+      - Our Tampines Hub/Contact Us.md
+      - Our Tampines Hub/Festive Mall Directory.md
+      - Wisma Geylang Serai/.keep
+      - Wisma Geylang Serai/About Us.md
+      - Wisma Geylang Serai/Services @ WGS.md
+      - Wisma Geylang Serai/Facilities @ WGS.md
+      - Wisma Geylang Serai/Shops @ WGS.md
+      - Wisma Geylang Serai/Contact Us.md

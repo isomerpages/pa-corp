@@ -1,0 +1,5 @@
+collections:
+  tender-details:
+    output: true
+    order:
+      - Tender for Kampong Glam Mid Autumn Festival Trade Fair 2023.md

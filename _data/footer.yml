@@ -1,10 +1,9 @@
-contact_us: /contact-us/
+contact_us: /about-us/contact-us/
 show_reach: true
-feedback: 
-faq: /faq/
+feedback: "https://form.gov.sg/62e8e68d9b241b001207dbdf  "
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: https://www.facebook.com/peoplesassociation
+  twitter: https://twitter.com/PAFrenz
+  youtube: https://www.youtube.com/user/PAFrenz
+  instagram: https://www.instagram.com/peoplesassociation
+  tiktok: https://www.tiktok.com/@peoplesassociation

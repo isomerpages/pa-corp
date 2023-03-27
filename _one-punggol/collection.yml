@@ -1,0 +1,6 @@
+collections:
+  one-punggol:
+    output: true
+    order:
+      - Programmes/Sustainability.md
+      - Programmes/.keep

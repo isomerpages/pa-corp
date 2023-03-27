@@ -1,0 +1,7 @@
+collections:
+  info:
+    output: true
+    order:
+      - RC  Details.md
+      - NC Details.md
+      - Details.md
