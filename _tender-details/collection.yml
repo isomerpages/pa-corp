@@ -2,4 +2,5 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Toa Payoh Central Zone 6 Residents’ Network Trade Fair.md
       - Tender for Bukit Panjang Zone 8 RC Trade Fair.md
