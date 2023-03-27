@@ -10,5 +10,6 @@ For tender notices pertaining to available spaces for rent at Community Clubs/Ce
 Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed online using [this](https://gems.pa.gov.sg/account/vendors) link. Access the GEMS 2 webpage to learn more.
 <br>
 
-Please check the below listing(s) for the latest tender notices:
-[Tender for Bukit Panjang Zone 8 RC Trade Fair](/tender-details/bukit-panjang-zone-8-rc-trade-fair-27may-10jun2023/)
+Please check the below listing(s) for the latest tender notices: <br>
+[Tender for Bukit Panjang Zone 8 RC Trade Fair](/tender-details/bukit-panjang-zone-8-rc-trade-fair-27may-10jun2023/) <br>
+[Tender for Toa Payoh Central Zone 6 RN Trade Fair](/tender-details/toapayohcentralz6rctradefair/) <br>[Tender for Managing and Operating the Car Park at The Frontier Community Place](/tender-details/tenderforfrontiercarpark)
