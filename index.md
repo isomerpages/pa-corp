@@ -44,7 +44,7 @@ sections:
       image: /images/PA Course (smaller).jpg
       alt: PA courses
   - infopic:
-      title: Find My CC/RC
+      title: Find My CC
       description: PA manages 108 Community Clubs (CCs) across Singapore. Visit your
         nearest CC to attend courses, book CC facilities, or join an Interest
         Group.
