@@ -6,6 +6,7 @@ layout: post
 description: ""
 ---
 ### Claim and spend rate for CDC Vouchers Scheme 2022
+
 **Response to a parliamentary question on claim and spend rate for CDC Vouchers Scheme 2022 and if studies on the utilisation been done to design targeted measures to support businesses and segments of Singaporeans.**
 
 ![](/images/NewsRoom/Parliament%20House.jpg)
