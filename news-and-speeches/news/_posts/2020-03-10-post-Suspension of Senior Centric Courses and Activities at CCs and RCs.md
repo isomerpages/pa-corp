@@ -12,6 +12,7 @@ image: ""
 
 The respective CCs and RCs will inform all affected participants directly on the suspension. Participants who have queries on the status of their courses or interest group activities may contact their respective CCs and RCs. 
  
+![](/images/NewsRoom/Suspension%20of%20Senior%20Centric%20Courses.png)
 
 **Description**: 
 
