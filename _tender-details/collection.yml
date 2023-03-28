@@ -2,6 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Punggol West CCMC Trade Fair.md
       - Tender for Woodgrove CCC Trade Fair.md
       - Tender for Managing and Operating Car Park at The Frontier Community
         Place.md
