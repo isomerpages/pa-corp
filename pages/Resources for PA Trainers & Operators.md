@@ -27,7 +27,7 @@ Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg]
 
 **Safe Management Measures**
 
-[Updated as at 27 August 2022]
+[Updated as at 14 February 2023]
 
 Please download the resources via the links below:
 
