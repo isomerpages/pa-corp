@@ -1,6 +1,6 @@
 ---
 title: Closure of Community Clubs and Residents’ Committee Centers
-permalink: /Resource/news/Closure-of-Community-Clubs-and-Residents-Committee-Centers
+permalink: /Resource/news/Closure-of-Community-Clubs-and-Residents-Committee-Centers/
 date: 2022-07-13
 layout: post
 description: ""
@@ -11,9 +11,7 @@ description: ""
 
 People’s Association (PA) will temporarily close all its Community Clubs/Centres (CCs) and Residents’ Committee (RC) Centres, from 7 April 2020 to 4 May 2020.  
 
-News Title Media: 
-
- 
+![](/images/NewsRoom/Closure%20of%20CCs%20except%20Essential%20Services.jpeg)
 
 **Description**: 
 
@@ -25,5 +23,4 @@ While CCs and RCs will be closed, PA will continue to provide the following serv
  
 PA urges Singaporeans to stay at home, except for essential services. 
 
-* Singpass reset is available at selected CCs. Please use visit https://www.singpass.gov.sg/singpass/common/counter to find the location nearest to you. 
-
+* Singpass reset is available at selected CCs. Please use visit https://www.singpass.gov.sg/singpass/common/counter to find the location nearest to you.
