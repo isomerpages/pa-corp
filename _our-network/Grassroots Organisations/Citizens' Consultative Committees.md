@@ -8,7 +8,7 @@ The Citizens' Consultative Committees (CCCs) is a vital bridge between the peopl
 
 ####  Programmes
 
-The CCCs organise various programmes to support [PA's mission](/about-us/About-Us)
+The CCCs organise various programmes to support [PA's mission](/about-us/about-pa)
 
 #### Outreach Programmes
 

@@ -6,16 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### Third Mask Collection Exercise Starting 26 May 2020
 
 
 **Summary**: 
 
 Residents will be able to collect an improved version of reusable masks as part of the third mask collection exercise. Residents with a valid identification card can collect one reusable mask each. 
-
-News Title Media: 
-
  
 
 **Description**: 

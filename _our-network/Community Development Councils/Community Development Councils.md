@@ -30,5 +30,5 @@ At the constituency level, each CDC works closely with the Grassroots Organisati
 
 
 
-For more information, please visit our [website](https://www.cdc.gov.sg/) or locate your [CDC](https://www.gowhere.gov.sg/cdc). <br>
+For more information, please visit our [website](https://www.cdc.gov.sg/) or locate your [District / CDC](https://www.gowhere.gov.sg/cdc). <br>
 If you wish to join the CDCs as a volunteer, please sign up [here](https://form.gov.sg/62b428e70c90650012b77985).

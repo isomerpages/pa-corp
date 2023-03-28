@@ -6,12 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### Statement by the People’s Association on Audit Observations in  the Report of the Auditor-General for Financial Year 2020/2021 
 
 **Summary**: 
 
 The Auditor-General’s Office (AGO) audited two development projects under PA, namely, Our Tampines Hub (OTH) and Heartbeat@Bedok (HBB).  
+
 
 **Description**: 
 
@@ -99,4 +99,4 @@ Incorporating Two Critical Tender Requirements Explicitly into Tenancy Agreement
 
  
 
-15    PA has noted AGO’s findings on the above two large-scale development projects and has implemented remedial steps. PA is also in the process of undertaking a broader review, as set out above, with the view to enhancing its governance systems and oversight for contract management of development projects. 
+15    PA has noted AGO’s findings on the above two large-scale development projects and has implemented remedial steps. PA is also in the process of undertaking a broader review, as set out above, with the view to enhancing its governance systems and oversight for contract management of development projects.

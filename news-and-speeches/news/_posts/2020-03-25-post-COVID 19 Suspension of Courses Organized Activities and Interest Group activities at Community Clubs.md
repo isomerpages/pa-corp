@@ -1,11 +1,13 @@
 ---
 title: COVID 19 Suspension of Courses Organized Activities and Interest Group
   activities at Community Clubs
-permalink: /Resource/news/COVID-19-Suspension-of-Courses-Organized-Activities-and-Interest-Group-activities
-date: 2022-07-13
+permalink: /resource/news/covid-19-suspension-of-courses-organized-activities-and-interest-group-activities/
+date: 2020-03-25
 layout: post
 description: ""
+image: ""
 ---
+
 #### COVID-19: Suspension of Courses, Organised Activities and Interest Group activities at Community Clubs/Centres, Residents' Committee Centres and other PA Facilities 
 
 **Summary**: 
