@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### Chingay Parade 2023 Welcomes Audiences Back to a Live Showcase at the F1 Pit Building Next February
+
 **A stellar programme line-up with show elements, special effects, and audience interactions to dazzle over 28,000 in-person spectators**
 
 ![](/images/NewsRoom/Chingay%202023.png)
@@ -43,6 +44,6 @@ image: ""
 
 **Chingay 2023 Parade Ticketing Arrangements** 
 
-![Chingay 2023 Ticketing](https://www.pa.gov.sg/images/default-source/module/news/tickets.png?sfvrsn=38621b8d_0 "Chingay 2023 Ticketing")
+![](/images/NewsRoom/Chingay%20Ticketing.png)
 
 12        For more and the latest information on Chingay 2023 Parade, visit [https://www.chingay.gov.sg](https://www.chingay.gov.sg/), Chingay Facebook [@ChingayParadeSG](https://www.facebook.com/chingayparadesg) and Instagram [@chingayparadesg](https://www.instagram.com/chingayparadesg/).
