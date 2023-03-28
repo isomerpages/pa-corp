@@ -8,6 +8,7 @@ description: ""
 image: ""
 ---
 ### Ministry of National Development (MND) Grassroots Organisation Scheme for Grassroots Leaders
+
 **Response to parliamentary question on the number of PA grassroots leaders who obtained a flat under the MND Grassroots Organisation Scheme.**
 
 ![](/images/NewsRoom/Parliament%20House.jpg)
