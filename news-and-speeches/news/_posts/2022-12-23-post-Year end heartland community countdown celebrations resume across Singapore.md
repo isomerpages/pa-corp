@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### Year end heartland community countdown celebrations resume across Singapore
+
 **More than 70,000 residents come together to bond and have fun with families, friends, and neighbours as they welcome the new year**
 
 ![](/images/NewsRoom/2797f5e7-4b14-44f4-b3e7-c4137fe5f1e3.jpg)
