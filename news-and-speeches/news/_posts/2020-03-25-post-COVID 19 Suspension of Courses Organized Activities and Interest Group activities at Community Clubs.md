@@ -14,6 +14,7 @@ image: ""
 
 The Ministry of Health announced tighter safe distancing measures on 24 March 2020, to minimise the further spread of COVID-19. With effect from 27 March 2020, PA will suspend all courses, organised activities and interest group activities at Community Clubs/Centres (CC), Residents’ Committee (RC) Centres and other PA facilities, till 30 April 2020. Bookings made at all PA facilities for sports and games and private events such as weddings or birthdays must be deferred or cancelled, regardless of the number of participants. 
 
+![](/images/NewsRoom/COVID%2019%20Suspension%20of%20Courses.jpg)
 
 **Description**: 
 
