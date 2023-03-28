@@ -19,7 +19,7 @@ Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg]
 4. [Annex 2(b) - The '5 DOs'](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(04)%20Annex%202(b)%20-%20The%20'5%20DOs'.pdf)
 5. [Annex 3 - Classroom Management Standards for Playgroups and Young Children ](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(05)%20Annex%203%20-%20Classroom%20Management%20Standards%20for%20Playgroups.pdf)
 6. [Annex 4 - Health Hygiene and Safety Standards for Playgroups and Young Children ](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(06)%20Annex%204%20-%20Health%20Hygiene%20and%20Safety%20Standards%20for%20Playgroups%20and%20Young%20Children.pdf)
-7. 
+7.[Annex 4(a) - PA Pre-Employment Medical Report From (1 May 2019) ](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(06a)%20PA%20Pre-Employment%20Medical%20Report%20Form%20(1%20May%202019).pdf)
 8. [Annex 5 - Fire Safety Standards for Playgroups and Young Children](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(07)%20Annex%205%20-%20Fire%20Safety%20Standards%20for%20Playgroups%20and%20Young%20Children.pdf)
 9. [Infographics of PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(updated%206%20Jan%202023).pdf)
 10. [FAQs for revised PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/Frequently%20Asked%20Questions%20for%20PA%20TrainersOperators%20-%20PSG%20(27%20Dec%202022).pdf)
