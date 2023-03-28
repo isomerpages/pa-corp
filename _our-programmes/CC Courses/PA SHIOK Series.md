@@ -11,9 +11,9 @@ The Series offers a diverse choice of courses and programmes, from health and we
 <img style="width:600px" align="centre" src="/images/Programmes/CC%20Courses/SHIOK%20Series%20web%20banner%20png.png">
 
 ### 'SHIOK 555 Campaign'
-The ‘SHIOK 555 Campaign’ allows residents to take part in five selected courses held at five different locations for just $5 per class, which will be happening across different CCs at various points throughout the year. 
+The ‘SHIOK 555 Campaign’ allows residents to take part in five selected courses held at five different locations for just $5 per class, which will be happening across different CCs at various points throughout the year. 
 
-From October to December 2021, the ‘SHIOK 555 Campaign’ will be available at Sembawang GRC, featuring the following courses:
+From May to July 2022, the ‘SHIOK 555 Campaign’ will be feature the following courses:
 
 <img style="width:600px" align="centre" src="/images/Programmes/CC%20Courses/SHIOK%20555%20campaign%20May%20to%20July%202022.png">
 Terms & Conditions apply:
