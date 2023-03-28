@@ -8,8 +8,12 @@ image: ""
 ---
 ### Statement on Use of Ms Sarah Bagharib's Wedding Photo for Hari Raya Decorations at Tiong Bahru Orchid Estate.
 
-**We would like to provide an update on the matter of the inappropriate use of Ms Sarah Bagharib's wedding photo for Hari Raya decorations at Tiong Bahru Orchid estate.**
+**Summary:**
 
+We would like to provide an update on the matter of the inappropriate use of Ms Sarah Bagharib's wedding photo for Hari Raya decorations at Tiong Bahru Orchid estate.**
+
+
+**Description:**
 
 We would like to provide an update on the matter of the inappropriate use of Ms Sarah Bagharib's wedding photo for Hari Raya decorations at Tiong Bahru Orchid estate. 
 
