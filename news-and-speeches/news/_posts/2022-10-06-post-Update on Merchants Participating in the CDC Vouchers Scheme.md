@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### Update on Merchants Participating in the CDC Vouchers Scheme
+
 **Response to parliamentary question on criteria and number of merchants participating in the Community Development Council Vouchers Scheme**
 
 ![](/images/NewsRoom/Parliament%20House.jpg)
