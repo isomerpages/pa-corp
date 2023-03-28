@@ -18,4 +18,4 @@ image: ""
 
             The GROs have worked closely with the authorities to ensure that safety and security measures are in place for the countdown celebrations in the heartlands. In addition, staff and volunteers will be onsite to monitor and manage the crowd and ensure that the activities are carried out in a safe manner.
 
-            More information on the community countdown celebrations can be found in the [**Annex**](https://www.pa.gov.sg/docs/default-source/default-document-library/list-of-year-end-heartland-community-countdown-celebrations.pdf). Members of the public can also approach the respective community clubs and residents’ committees for more information on the events.
+            More information on the community countdown celebrations can be found in the [**Annex**](/files/NewsRoom/List%20of%20Year%20End%20Heartland%20Community%20Countdown%20Celebrations.pdf). Members of the public can also approach the respective community clubs and residents’ committees for more information on the events.
