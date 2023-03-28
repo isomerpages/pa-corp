@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 ### NDP 2022 Heartland Celebrations – Engaging Singaporeans and Their Families
+
 **Singaporeans can look forward to a series of celebrations at 12 heartland locations over the weekend leading up to National Day and on National Day itself this year.**
 
 ![](/images/NewsRoom/NDP%20Heartlands.jpg)
