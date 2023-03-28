@@ -12,4 +12,5 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 
 Please check the below listing(s) for the latest tender notices: <br>
 [Tender for Bukit Panjang Zone 8 RC Trade Fair](/tender-details/bukit-panjang-zone-8-rc-trade-fair-27may-10jun2023/) <br>
-[Tender for Toa Payoh Central Zone 6 RN Trade Fair](/tender-details/toapayohcentralz6rctradefair/) <br>[Tender for Managing and Operating the Car Park at The Frontier Community Place](/tender-details/tenderforfrontiercarpark)
+[Tender for Toa Payoh Central Zone 6 RN Trade Fair](/tender-details/toapayohcentralz6rctradefair/) <br>[Tender for Managing and Operating the Car Park at The Frontier Community Place](/tender-details/tenderforfrontiercarpark) <br>
+[Tender for Woodgrove CCC Trade Fair](/tender-details/woodgroveccctradefair)
