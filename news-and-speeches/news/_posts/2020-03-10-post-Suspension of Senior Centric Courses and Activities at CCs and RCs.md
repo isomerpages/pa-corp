@@ -6,15 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### Suspension of Senior-Centric Courses and Activities at CCs and RCs 
 
 **Summary**: 
 
 The respective CCs and RCs will inform all affected participants directly on the suspension. Participants who have queries on the status of their courses or interest group activities may contact their respective CCs and RCs. 
-
-News Title Media: 
-
  
 
 **Description**: 
@@ -25,4 +21,4 @@ The PA will therefore suspend relevant courses, organised activities and interes
 
 In addition to our current measures of temperature taking and health and travel advisories, PA will progressively implement further measures for all our activities.  We will reduce the number of participants per activity to ensure sufficent space between participants, adjust the rigour of activities to minimise contact and exertion, and shorten the duration of our organised activities to minimise exposure. 
 
-For all our centres, we will also increase the frequency of sanitising equipment between uses and implement measures relevant to the different activities. We will also step up reminders for participants to exercise social responsibility and to stay at home when unwell as well as to practise good personal hygiene by washing hands frequently. 
+For all our centres, we will also increase the frequency of sanitising equipment between uses and implement measures relevant to the different activities. We will also step up reminders for participants to exercise social responsibility and to stay at home when unwell as well as to practise good personal hygiene by washing hands frequently.
