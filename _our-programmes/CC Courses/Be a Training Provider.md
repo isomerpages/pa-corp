@@ -24,25 +24,14 @@ If yes to all of above, you are welcome to apply to be a PA Training Provider!
 
 #### New Application:
 
-Thank you for your interest to be a PA Training Provider!  Our application is now open till **15 March 2023**.  Please click on the link below if you wish to apply as a PA Trainer 
+Thank you for your interest to be a PA Training Provider!  The submission of New Trainer/Operator application form has closed on **15 March 2023**.  Our next application period will be in September 2023.  Please send in your application when the application window is opened.  
 
 For any enquiry, please email to [PA_Talent_Times@pa.gov.sg](mailto: PA_Talent_Times@pa.gov.sg).
 
 
-#### New Application:
-
-New Application for Trainer
-
-* To apply, please click [link](https://form.gov.sg/5d774ecac36c6500121c3468) 
- 
-New Application for Operator
-
-* To apply, please click [link](https://form.gov.sg/5df748c39cf14f0019128ca1)
-
-
 New Course Proposal for existing Trainer/Operator
 
-This form is only applicable for existing Trainer and Operator.  We will not process submission of this form from potential applicants who are not our Trainers and Operators yet. 
+This online form is only applicable for existing Trainer and Operator.  We will not process submission of this form from potential applicants who are not our Trainers and Operators yet. 
 
 * To apply , please click [here](http://www.go.gov.sg/courseproposal).
  
