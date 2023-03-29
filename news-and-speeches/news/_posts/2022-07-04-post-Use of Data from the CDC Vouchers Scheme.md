@@ -1,10 +1,12 @@
 ---
 title: Use of Data from the CDC Vouchers Scheme
 permalink: /resource/news/use-of-data-from-the-cdc-vouchers-scheme/
-date: 2022-07-08
+date: 2022-07-04
 layout: post
 description: ""
+image: ""
 ---
+
 ### Response to Parliamentary Question on Use of Data from the CDC Vouchers Scheme
 
 **Response to a parliamentary question in using data insights to further support lower-income households and how it can support social agency partners.**

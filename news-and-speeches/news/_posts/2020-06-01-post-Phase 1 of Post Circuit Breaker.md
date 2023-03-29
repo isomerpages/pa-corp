@@ -1,11 +1,12 @@
 ---
 title: Phase 1 of Post Circuit Breaker
 permalink: /resource/news/phase-1-of-post-circuit-breaker/
-date: 2020-01-01
+date: 2020-06-01
 layout: post
 description: ""
 image: ""
 ---
+
 
 ### Phase 1 of Post-Circuit Breaker 
 
