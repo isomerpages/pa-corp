@@ -1,6 +1,6 @@
 ---
 title: Residents' Committees
-permalink: /our-network/Grassroots-Organisations/Residents-Committees/
+permalink: /our-network/grassroots-organisations/residents-committees/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

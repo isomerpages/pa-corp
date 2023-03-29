@@ -1,6 +1,6 @@
 ---
 title: Joo Chiat Community Club
-permalink: /cc-details/Joo-Chiat-Community-Club
+permalink: /cc-details/joo-chiat-community-club/
 description: ""
 ---
 Come and discover the uniqueness of our CC for yourself! You might be surprised at what you will find!

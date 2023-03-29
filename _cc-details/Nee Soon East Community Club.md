@@ -1,6 +1,6 @@
 ---
 title: Nee Soon East Community Club
-permalink: /cc-details/Nee-Soon-East-Community-Club
+permalink: /cc-details/nee-soon-east-community-club/
 description: ""
 ---
 ### Nee Soon East Community Club

@@ -1,6 +1,6 @@
 ---
 title: Speech By Prime Minister Lee Hsien Loong At Mayor's Swearing In Ceremony
-permalink: /Resource/speeches/Speech-By-Prime-Minister-Lee-Hsien-Loong-At-Mayors-SwearingIn-Ceremony
+permalink: /resource/speeches/speech-by-prime-minister-lee-hsien-loong-at-mayors-swearingin-ceremony/
 date: 2014-06-20
 layout: post
 description: ""

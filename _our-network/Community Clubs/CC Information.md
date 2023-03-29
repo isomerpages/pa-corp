@@ -1,6 +1,6 @@
 ---
 title: CC Information
-permalink: /our-network/Community-Clubs/CC-Information/
+permalink: /our-network/community-clubs/cc-information/
 description: ""
 third_nav_title: Community Clubs
 ---
@@ -12,8 +12,8 @@ Community Clubs (CCs) are common spaces for people of all races to come together
 
 Click [here](https://www.onepa.gov.sg/cc) to search for a CC near you.
 
-For information on the Legal Advice Service provided at the CCs, click [here](/our-network/Community-Clubs/Legal-Advice-Service).
+For information on the Legal Advice Service provided at the CCs, click [here](/our-network/community-clubs/legal-advice-service).
 
-For information on the Rental Facilities that are available at the CCs, click [here](/our-network/Community-Clubs/Rentals).
+For information on the Rental Facilities that are available at the CCs, click [here](/our-network/community-clubs/rentals).
 
 Click [here](https://www.onepa.gov.sg/rc) to search for your nearest RC or NC.

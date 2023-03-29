@@ -1,6 +1,6 @@
 ---
 title: PAssion Wave @ Pasir Ris
-permalink: /our-programmes/PAssion-Wave/PAssionWaVe-PasirRis/
+permalink: /our-programmes/passion-wave/passionwave-pasirris/
 description: ""
 ---
 <img style="height:300px;width:400px"  align="left" src="/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Pasir%20Ris.jpg"><br><br><br><br><br><br><br><br>

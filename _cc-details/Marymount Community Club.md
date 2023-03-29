@@ -1,6 +1,6 @@
 ---
 title: Marymount Community Club
-permalink: /cc-details/Marymount-Community-Club
+permalink: /cc-details/marymount-community-club/
 description: ""
 ---
 ### Marymount Community Club

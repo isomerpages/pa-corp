@@ -1,6 +1,6 @@
 ---
 title: Yuhua Community Club
-permalink: /cc-details/Yuhua-Community-Club
+permalink: /cc-details/yuhua-community-club/
 description: ""
 ---
 ### Yuhua Community Club

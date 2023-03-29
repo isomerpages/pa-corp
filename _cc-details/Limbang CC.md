@@ -1,5 +1,5 @@
 ---
 title: Limbang CC
-permalink: /cc-details/Limbang-CC
+permalink: /cc-details/limbang-cc/
 description: ""
 ---

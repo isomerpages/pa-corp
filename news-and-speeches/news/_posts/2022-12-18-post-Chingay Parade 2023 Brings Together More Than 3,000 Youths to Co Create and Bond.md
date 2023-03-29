@@ -1,20 +1,19 @@
 ---
 title: Chingay Parade 2023 Brings Together More Than 3,000 Youths to Co Create
   and Bond
-permalink: /Resource/news/permalink/
+permalink: /resource/news/permalink/
 date: 2022-12-18
 layout: post
 description: ""
 image: ""
 ---
 ### Chingay Parade 2023 Brings Together More Than 3,000 Youths to Co-Create and Bond While Keeping The People’s Parade Young and Relevant 
+
 **A platform for youth to showcase their talents, engage with local communities and shape the parade’s future**
 
 ![](/images/NewsRoom/Chingay%20MR2.png)
 
-
-
-           Get ready for a multi-sensory and fun experience at Chingay Parade 2023, happening on **3 and 4 February 2023** at F1 Pit Building. Returning as a physical parade after two years of hybrid and digital editions, Chingay 2023 will again deliver a spectacular display of imagination and creativity infused with youthful elements. 
+           Get ready for a multi-sensory and fun experience at Chingay Parade 2023, happening on 3 and 4 February 2023 at F1 Pit Building. Returning as a physical parade after two years of hybrid and digital editions, Chingay 2023 will again deliver a spectacular display of imagination and creativity infused with youthful elements. 
 
 2.         Chingay 2023 will see more than 3,000 young people involved in the performances and  activities. Co-created with youths, the community art spaces - where art pieces speak of creative energies and dreams - will add to the festive atmosphere of the parade.  
 

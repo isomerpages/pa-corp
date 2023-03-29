@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /our-network/Wisma-Geylang-Serai/about-us/
+permalink: /our-network/wisma-geylang-serai/about-us/
 description: ""
 third_nav_title: Wisma Geylang Serai
 ---

@@ -1,6 +1,6 @@
 ---
 title: Anchorvale Community Club
-permalink: /cc-details/Anchorvale-Community-Club
+permalink: /cc-details/anchorvale-community-club/
 description: ""
 ---
 #### Anchorvale Community Club	

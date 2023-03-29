@@ -1,6 +1,6 @@
 ---
 title: Community Club Management Committees
-permalink: /our-network/Grassroots-Organisations/Community-Club-Management-Committees/
+permalink: /our-network/grassroots-organisations/community-club-management-committees/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

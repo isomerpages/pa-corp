@@ -1,6 +1,6 @@
 ---
 title: Nanyang Community Club
-permalink: /cc-details/Nanyang-Community-Club
+permalink: /cc-details/nanyang-community-club/
 description: ""
 ---
 ### Nanyang Community Club

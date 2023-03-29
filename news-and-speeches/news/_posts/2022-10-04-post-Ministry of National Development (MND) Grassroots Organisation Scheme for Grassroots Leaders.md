@@ -1,13 +1,14 @@
 ---
 title: Ministry of National Development (MND) Grassroots Organisation Scheme for
   Grassroots Leaders
-permalink: /Resource/news/MND-GRO-scheme-for-grassroots-leaders/
+permalink: /resource/news/mnd-gro-scheme-for-grassroots-leaders/
 date: 2022-10-04
 layout: post
 description: ""
 image: ""
 ---
 ### Ministry of National Development (MND) Grassroots Organisation Scheme for Grassroots Leaders
+
 **Response to parliamentary question on the number of PA grassroots leaders who obtained a flat under the MND Grassroots Organisation Scheme.**
 
 ![](/images/NewsRoom/Parliament%20House.jpg)

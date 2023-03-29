@@ -1,12 +1,13 @@
 ---
 title: Update on Merchants Participating in the CDC Vouchers Scheme
-permalink: /Resource/news/merchants-participating-in-cdc-vouchers-scheme/
+permalink: /resource/news/merchants-participating-in-cdc-vouchers-scheme/
 date: 2022-10-06
 layout: post
 description: ""
 image: ""
 ---
 ### Update on Merchants Participating in the CDC Vouchers Scheme
+
 **Response to parliamentary question on criteria and number of merchants participating in the Community Development Council Vouchers Scheme**
 
 ![](/images/NewsRoom/Parliament%20House.jpg)

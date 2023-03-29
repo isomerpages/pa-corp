@@ -1,6 +1,6 @@
 ---
 title: Geylang West Community Club
-permalink: /cc-details/Geylang-West-Community-Club
+permalink: /cc-details/geylang-west-community-club/
 description: ""
 ---
 Geylang West CC is a 10-minute walk from Kallang MRT Station.

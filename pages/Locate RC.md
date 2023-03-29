@@ -1,5 +1,5 @@
 ---
 title: Locate RC
-permalink: /Locate-RC
+permalink: /locate-rc/
 description: ""
 ---

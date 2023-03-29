@@ -1,6 +1,6 @@
 ---
 title: Statement by the People’s Association on Audit Observations
-permalink: /Resource/news/Statement-by-the-Peoples-Association-on-Audit-Observations/
+permalink: /resource/news/statement-by-the-peoples-association-on-audit-observations/
 date: 2021-07-22
 layout: post
 description: ""

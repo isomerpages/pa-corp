@@ -1,6 +1,6 @@
 ---
 title: Community Arts
-permalink: /our-programmes/Community-Arts/
+permalink: /our-programmes/community-arts/
 description: ""
 ---
 <img style="width:350px" src="/images/Our%20Programmes/commarts-logo.png"><br>

@@ -1,7 +1,7 @@
 ---
 title: Speech by Minister Lim Swee Say, Deputy Chairman of PA at the PA Awards &
   PA Community Spirit Awards
-permalink: /Resource/speeches/Speech-by-Mr-Lim-Swee-Say-Deputy-Chairman-of-the-PA/
+permalink: /resource/speeches/speech-by-mr-lim-swee-say-deputy-chairman-of-the-pa/
 date: 2015-08-19
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Clementi Community Centre
-permalink: /cc-details/Clementi-Community-Centre/
+permalink: /cc-details/clementi-community-centre/
 description: ""
 ---
 Clementi CC is located within 10 minutes walking distance from Clementi MRT Station and Bus Interchange. Clementi CC is host to a SingPost POP Station to better serve the needs of our residents.

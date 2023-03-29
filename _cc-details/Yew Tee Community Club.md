@@ -1,6 +1,6 @@
 ---
 title: Yew Tee Community Club
-permalink: /cc-details/Yew-Tee-Community-Club
+permalink: /cc-details/yew-tee-community-club/
 description: ""
 ---
 ### Yew Tee Community Club

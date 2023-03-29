@@ -1,6 +1,6 @@
 ---
 title: 60th Anniversary
-permalink: /about-us/60th-Anniversary/
+permalink: /about-us/60th-anniversary/
 description: ""
 ---
 #### **60 Years of Community Building**

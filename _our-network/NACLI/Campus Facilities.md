@@ -1,6 +1,6 @@
 ---
 title: Campus Facilities
-permalink: /our-network/National-Community-Leadership-Institute/Campus-Facilities/
+permalink: /our-network/national-community-leadership-institute/campus-facilities/
 description: ""
 third_nav_title: NACLI
 ---

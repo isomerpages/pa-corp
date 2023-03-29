@@ -1,6 +1,6 @@
 ---
 title: PAssion Wave @ East Coast
-permalink: /our-programmes/PAssion-Wave/PAssionWaVe-EastCoast/
+permalink: /our-programmes/passion-wave/passionwave-eastcoast/
 description: ""
 ---
 <img style="height:300px;width:400px"  align="left" src="/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20East%20Coast.jpg"><br><br><br><br><br><br><br><br>

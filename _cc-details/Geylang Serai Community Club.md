@@ -1,6 +1,6 @@
 ---
 title: Geylang Serai Community Club
-permalink: /cc-details/Geylang-Serai-Community-Club
+permalink: /cc-details/geylang-serai-community-club/
 description: ""
 ---
 Current Operating Hours

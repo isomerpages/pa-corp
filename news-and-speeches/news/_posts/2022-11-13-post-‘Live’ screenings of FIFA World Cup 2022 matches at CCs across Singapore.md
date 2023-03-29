@@ -1,12 +1,14 @@
 ---
 title: ‘Live’ screenings of FIFA World Cup 2022 matches at CCs across Singapore
-permalink: /Resource/news/world-cup-live-screenings-at-CCs/
-date: 2022-11-15
+permalink: /resource/news/world-cup-live-screenings-at-ccs/
+date: 2022-11-13
 layout: post
 description: ""
 image: ""
 ---
+
 ### ‘Live’ screenings of FIFA World Cup 2022 matches at CCs across Singapore
+
 **Watch the action unfold and cheer for your favourite World Cup teams at the 59 CCs screening ‘live’ World Cup matches!**
 
 ![](/images/NewsRoom/WC_Launchpost_Static_Highres_FINAL.png)

@@ -1,6 +1,6 @@
 ---
 title: Kim Seng Community Centre
-permalink: /cc-details/Kim-Seng-Community-Centre
+permalink: /cc-details/kim-seng-community-centre/
 description: ""
 ---
 ### Kim Seng Community Centre

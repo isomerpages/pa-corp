@@ -1,12 +1,13 @@
 ---
 title: Year end heartland community countdown celebrations resume across Singapore
-permalink: /Resource/news/year-end-heartland-celebrations-resume-across-singapore/
+permalink: /resource/news/year-end-heartland-celebrations-resume-across-singapore/
 date: 2022-12-23
 layout: post
 description: ""
 image: ""
 ---
 ### Year end heartland community countdown celebrations resume across Singapore
+
 **More than 70,000 residents come together to bond and have fun with families, friends, and neighbours as they welcome the new year**
 
 ![](/images/NewsRoom/2797f5e7-4b14-44f4-b3e7-c4137fe5f1e3.jpg)
@@ -17,4 +18,4 @@ image: ""
 
             The GROs have worked closely with the authorities to ensure that safety and security measures are in place for the countdown celebrations in the heartlands. In addition, staff and volunteers will be onsite to monitor and manage the crowd and ensure that the activities are carried out in a safe manner.
 
-            More information on the community countdown celebrations can be found in the [**Annex**](https://www.pa.gov.sg/docs/default-source/default-document-library/list-of-year-end-heartland-community-countdown-celebrations.pdf). Members of the public can also approach the respective community clubs and residents’ committees for more information on the events.
+            More information on the community countdown celebrations can be found in the [**Annex**](/files/NewsRoom/List%20of%20Year%20End%20Heartland%20Community%20Countdown%20Celebrations.pdf). Members of the public can also approach the respective community clubs and residents’ committees for more information on the events.

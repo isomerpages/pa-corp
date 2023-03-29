@@ -1,6 +1,6 @@
 ---
 title: Taman Jurong Community Club
-permalink: /cc-details/Taman-Jurong-Community-Club
+permalink: /cc-details/taman-jurong-community-club/
 description: ""
 ---
 ### Taman Jurong Community Club

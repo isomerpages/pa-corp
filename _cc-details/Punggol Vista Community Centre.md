@@ -1,6 +1,6 @@
 ---
 title: Punggol Vista Community Centre
-permalink: /cc-details/Punggol-VistaCommunity-Centre
+permalink: /cc-details/punggol-vistacommunity-centre/
 description: ""
 ---
 ### Punggol Vista Community Centre

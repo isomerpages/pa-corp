@@ -1,6 +1,6 @@
 ---
 title: The Serangoon Community Club
-permalink: /cc-details/The-Serangoon-Community-Club
+permalink: /cc-details/the-serangoon-community-club/
 description: ""
 ---
 ### The Serangoon Community Club

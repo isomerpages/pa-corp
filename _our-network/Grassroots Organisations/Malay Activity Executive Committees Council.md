@@ -1,6 +1,6 @@
 ---
 title: Malay Activity Executive Committees Council
-permalink: /our-network/Grassroots-Organisations/Malay-Activity-Executive-Committees-Council
+permalink: /our-network/grassroots-organisations/malay-activity-executive-committees-council/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

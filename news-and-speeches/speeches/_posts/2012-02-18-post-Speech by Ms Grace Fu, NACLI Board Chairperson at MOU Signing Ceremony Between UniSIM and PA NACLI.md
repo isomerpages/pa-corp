@@ -1,7 +1,7 @@
 ---
 title: Speech by Ms Grace Fu, NACLI Board Chairperson at MOU Signing Ceremony
   Between UniSIM and PA NACLI
-permalink: /Resource/speeches/Speech-by-Ms-Grace-Fu-Hai-Yien-Senior-Minister-of-State/
+permalink: /resource/speeches/speech-by-ms-grace-fu-hai-yien-senior-minister-of-state/
 date: 2012-02-18
 layout: post
 description: ""

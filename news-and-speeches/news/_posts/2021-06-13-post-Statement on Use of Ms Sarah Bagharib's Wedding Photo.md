@@ -1,6 +1,6 @@
 ---
 title: Statement on Use of Ms Sarah Bagharib's Wedding Photo
-permalink: /Resource/news/Statement-on-Use-of-Ms-Sarah-Bagharib-Wedding-Photo/
+permalink: /resource/news/statement-on-use-of-ms-sarah-bagharib-wedding-photo/
 date: 2021-06-13
 layout: post
 description: ""

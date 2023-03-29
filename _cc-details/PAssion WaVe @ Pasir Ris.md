@@ -1,5 +1,5 @@
 ---
 title: PAssion WaVe @ Pasir Ris
-permalink: /cc-details/PAssionWaVe-PasirRis
+permalink: /cc-details/passionwave-pasirris/
 description: ""
 ---

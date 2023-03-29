@@ -1,6 +1,6 @@
 ---
 title: Year End Countdown Community Programmes Go Virtual For The First Time
-permalink: /Resource/news/Year-End-Countdown-Community-Programmes-Go-Virtual-For-The-First-Time/
+permalink: /resource/news/year-end-countdown-community-programmes-go-virtual-for-the-first-time/
 date: 2020-12-24
 layout: post
 description: ""

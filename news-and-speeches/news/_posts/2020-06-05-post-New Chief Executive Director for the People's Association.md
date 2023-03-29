@@ -1,15 +1,18 @@
 ---
 title: New Chief Executive Director for the People's Association
-permalink: /Resource/news/New-Chief-Executive-Director-for-the-Peoples-Association
-date: 2022-07-13
+permalink: /resource/news/new-chief-executive-director-for-the-peoples-association/
+date: 2020-06-05
 layout: post
 description: ""
+image: ""
 ---
-### New Chief Executive Director for the People's Association 
+
+### Appointment of new Chief Executive Director for the People’s Association
 
 **Summary**: 
 
 Mr Lim Hock Yu, currently Deputy Chief Executive of the People’s Association (PA), will be appointed its Chief Executive Director (CED) on 15 June 2020.  He takes over from Mr Desmond Tan Kok Ming, who will be leaving the Singapore Public Service on the same day.   
+
 
 **Description**: 
 
@@ -21,4 +24,4 @@ Mr Tan was appointed CED, PA on 16 January 2017. During his tenure, Mr Tan led a
 **Mr Lim Hock Yu 林福有**<br>
 Since joining the PA on 1 April 2016, Mr Lim has made significant contributions in strategic planning, operational capabilities development, as well as training and education of staff and grassroots leaders. He strengthened the operational effectiveness of PA HQ and its ground units by institutionalising stronger links and work processes between government, grassroots organisations and the people. He was also responsible for transforming the learning and instructional systems at the National Community Leadership Institute (NACLI), PA’s training arm. In addition, Mr Lim led a project team on stakeholder consultation to lay the foundational works for Community 2025 action plans.  
  
-Mr Lim retired as a Brigadier General from the SAF before joining PA as its Deputy Chief Executive. In his distinguished military career, Mr Lim has held various key appointments, including Commander 9th Singapore Division/Chief Infantry Officer, Commander of Army Training and Doctrine Command, and Chief of Staff (General Staff). He was awarded the Public Administration Medal (Bronze) – Military for overcoming SARS in 2003 and the Public Administration Medal (Silver) (Military) in 2009.  
+Mr Lim retired as a Brigadier General from the SAF before joining PA as its Deputy Chief Executive. In his distinguished military career, Mr Lim has held various key appointments, including Commander 9th Singapore Division/Chief Infantry Officer, Commander of Army Training and Doctrine Command, and Chief of Staff (General Staff). He was awarded the Public Administration Medal (Bronze) – Military for overcoming SARS in 2003 and the Public Administration Medal (Silver) (Military) in 2009.

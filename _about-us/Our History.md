@@ -1,6 +1,6 @@
 ---
 title: Our History
-permalink: /about-us/Our-History/
+permalink: /about-us/our-history/
 description: ""
 ---
 On 1 July 1960, the PA was formed to help foster racial harmony and social cohesion to form the basis for nation building. Twenty-eight CCs were set up as meeting grounds for various ethnic, language and religious groups. Community leaders served in the newly-formed Community Centre Management Committees.

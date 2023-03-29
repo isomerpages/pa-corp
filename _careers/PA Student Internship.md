@@ -1,6 +1,6 @@
 ---
 title: PA Student Internship
-permalink: /careers/PA-Student-Internship/
+permalink: /careers/pa-student-internship/
 description: ""
 ---
 #### PA Structured Student Internship Programme

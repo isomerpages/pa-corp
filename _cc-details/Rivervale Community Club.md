@@ -1,6 +1,6 @@
 ---
 title: Rivervale Community Club
-permalink: /cc-details/Rivervale-Community-Club
+permalink: /cc-details/rivervale-community-club/
 description: ""
 ---
 ### Rivervale Community Club

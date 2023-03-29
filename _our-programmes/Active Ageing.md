@@ -1,6 +1,6 @@
 ---
 title: Active Ageing
-permalink: /our-programmes/Active-Ageing/
+permalink: /our-programmes/active-ageing/
 description: ""
 ---
 #### Senior Citizens' Executive Committees

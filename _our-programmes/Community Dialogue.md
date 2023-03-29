@@ -1,6 +1,6 @@
 ---
 title: Community Dialogue
-permalink: /our-programmes/Community-Dialogue/
+permalink: /our-programmes/community-dialogue/
 description: ""
 ---
 The PA and its grassroots organisations regularly organise forums and seminars that give residents the opportunity to find out more about government policies and initiatives, to have their concerns addressed and to offer feedback to help refine policies and initiatives.   

@@ -1,6 +1,6 @@
 ---
 title: Our Scholars
-permalink: /careers/PA-Scholarship/Our-Scholars/
+permalink: /careers/pa-scholarship/our-scholars/
 description: ""
 third_nav_title: PA Scholarship
 ---

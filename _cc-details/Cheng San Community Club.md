@@ -1,6 +1,6 @@
 ---
 title: Cheng San Community Club
-permalink: /cc-details/Cheng-San-Community-Club/
+permalink: /cc-details/cheng-san-community-club/
 description: ""
 ---
 Cheng San CC has the distinction of being the first CC to be situated by a park, being connected to the Ang Mo Kio Town Garden East. Its location allows the CC to conduct more outdoor activities and provides easy access for park users as well as residents walking towards the MRT station.

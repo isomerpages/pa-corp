@@ -1,6 +1,6 @@
 ---
 title: Third Mask Collection Exercise Starting 26 May 2020
-permalink: /Resource/news/Third-Mask-Collection-Exercise-Starting-26-May-2020/
+permalink: /resource/news/third-mask-collection-exercise-starting-26-may-2020/
 date: 2020-05-21
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Queenstown Community Centre
-permalink: /cc-details/Queenstown-Community-Centre
+permalink: /cc-details/queenstown-community-centre/
 description: ""
 ---
 ### Queenstown Community Centre

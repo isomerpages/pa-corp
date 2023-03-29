@@ -1,6 +1,6 @@
 ---
 title: Bukit Timah Community Club
-permalink: /cc-details/Bukit-Timah-Community-Club/
+permalink: /cc-details/bukit-timah-community-club/
 description: ""
 ---
 Come and discover the uniqueness of our CC for yourself! You might be surprised at what you will find!

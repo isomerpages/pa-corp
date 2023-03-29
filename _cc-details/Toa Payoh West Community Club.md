@@ -1,6 +1,6 @@
 ---
 title: Toa Payoh West Community Club
-permalink: /cc-details/Toa-Payoh-West-Community-Club
+permalink: /cc-details/toa-payoh-west-community-club/
 description: ""
 ---
 ### Toa Payoh West Community Club

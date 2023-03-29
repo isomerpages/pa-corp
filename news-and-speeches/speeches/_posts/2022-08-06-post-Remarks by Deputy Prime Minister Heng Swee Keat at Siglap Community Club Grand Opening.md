@@ -1,7 +1,7 @@
 ---
 title: Remarks by Deputy Prime Minister Heng Swee Keat at Siglap Community Club
   Grand Opening
-permalink: /Resource/speeches/Remarks-by-Deputy-Prime-Minister-Heng-Swee-Keat
+permalink: /resource/speeches/remarks-by-deputy-prime-minister-heng-swee-keat/
 date: 2022-08-06
 layout: post
 description: ""

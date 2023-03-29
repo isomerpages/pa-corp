@@ -1,6 +1,6 @@
 ---
 title: Training Programmes
-permalink: /our-network/National-Community-Leadership-Institute/Training-Programmes/
+permalink: /our-network/national-community-leadership-institute/training-programmes/
 description: ""
 third_nav_title: NACLI
 ---

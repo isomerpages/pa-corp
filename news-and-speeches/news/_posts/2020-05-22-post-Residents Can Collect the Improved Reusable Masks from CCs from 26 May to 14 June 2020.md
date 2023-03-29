@@ -1,7 +1,7 @@
 ---
 title: Residents Can Collect the Improved Reusable Masks from CCs from 26 May to
   14 June 2020
-permalink: /Resource/news/Residents-Can-Collect-the-Improved-Reusable-Masks-from-CCs-from-26May-to-14June2020/
+permalink: /resource/news/residents-can-collect-the-improved-reusable-masks-from-ccs-from-26may-to-14june2020/
 date: 2020-05-22
 layout: post
 description: ""

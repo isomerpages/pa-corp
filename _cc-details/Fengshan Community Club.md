@@ -1,6 +1,6 @@
 ---
 title: Fengshan Community Club
-permalink: /cc-details/Fengshan-Community-Club/
+permalink: /cc-details/fengshan-community-club/
 description: ""
 ---
 Located in the heart of the neighbourhood, Fengshan CC offers a wide range of facilities to the public, such as activity group rooms, art & craft room, badminton court, basketball court, conference room, dance studio, multi-purpose hall, multi-purpose room and a theatrette.

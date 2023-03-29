@@ -1,6 +1,6 @@
 ---
 title: Fuchun Community Club
-permalink: /cc-details/Fuchun-Community-Club/
+permalink: /cc-details/fuchun-community-club/
 description: ""
 ---
 Within walking distance of Marsiling MRT station, the Fuchun CC captures the imagination of visitors with its elegant garden, pavilion and pond situated right in the centre of the CC. At the CC, you can learn to make delicious cookies, cakes and pies for your family. You can also learn the basics of hair cutting, magic tricks and balloon twisting.

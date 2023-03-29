@@ -1,6 +1,6 @@
 ---
 title: Speeches
-permalink: /newsroom/Speeches
+permalink: /newsroom/speeches/
 description: ""
 ---
 

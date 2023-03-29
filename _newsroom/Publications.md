@@ -1,11 +1,11 @@
 ---
 title: Publications
-permalink: /newsroom/Publications/
+permalink: /newsroom/publications/
 description: ""
 ---
 * <a href="#Ask_Kopi_Kakis">Ask Kopi Kakis (AKK) Booklets</a>
 * <a href="#Tech_Connect_Brochures">Tech Connect Brochures</a>
-* [Annual Reports](/about-us/Annual-Reports)
+* [Annual Reports](/about-us/annual-reports)
 * <a href="#Citizen_Con_Comm">Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015</a>
  
 <a id="Ask_Kopi_Kakis"></a>
@@ -13,7 +13,7 @@ description: ""
 
 The Ask Kopi Kakis booklets contain information on important government schemes and initiatives that benefit Singaporeans at various stages of their lives. Key policies ranging from housing grants, healthcare subsidies, GST vouchers, childcare subsidies to transport concessions have been consolidated into these booklets, which are available at any of the Ask Kopi Kakis policy kiosks conveniently located at 109 Community Clubs/Centres island-wide.
 
-Visit your nearest CC to get a copy, or click [here](/engage/Connect-With-Government/Ask-Kopi-Kakis) to download your copy.
+Visit your nearest CC to get a copy, or click [here](/engage/connect-with-government/ask-kopi-kakis) to download your copy.
 
 <a id="Tech_Connect_Brochures"></a>
 #### Tech Connect Brochures 

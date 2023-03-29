@@ -1,6 +1,6 @@
 ---
 title: Common Flagship Programmes
-permalink: /our-network/Community-Development-Councils/Common-Flagship-Programmes/
+permalink: /our-network/community-development-councils/common-flagship-programmes/
 description: ""
 third_nav_title: Community Development Councils
 ---

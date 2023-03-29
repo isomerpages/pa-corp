@@ -1,6 +1,6 @@
 ---
 title: Merdeka Generation Programmes
-permalink: /our-programmes/merdeka-generation-programmes
+permalink: /our-programmes/merdeka-generation-programmes/
 description: ""
 ---
 

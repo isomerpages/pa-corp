@@ -1,6 +1,6 @@
 ---
 title: Emergency Preparedness
-permalink: /our-programmes/Emergency-Preparedness/
+permalink: /our-programmes/emergency-preparedness/
 description: ""
 ---
 The People's Association (PA) Community Emergency and Engagement Committees (C2E) seeks to strengthen the understanding and ties between people of different race and religions, impart Emergency Prepardness (EP) skills and knowledge with an aim to build a safer and more resilient community.

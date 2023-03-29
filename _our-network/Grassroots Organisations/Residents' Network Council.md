@@ -1,6 +1,6 @@
 ---
 title: Residents' Network Council
-permalink: /our-network/Grassroots-Organisations/Residents-Network-Council/
+permalink: /our-network/grassroots-organisations/residents-network-council/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

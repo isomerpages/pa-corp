@@ -1,5 +1,5 @@
 ---
 title: NC Details
-permalink: /info/NC-Details
+permalink: /info/nc-details/
 description: ""
 ---

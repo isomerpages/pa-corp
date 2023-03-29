@@ -1,7 +1,7 @@
 ---
 title: Response to Parliamentary Questions On Audit Observations at People's
   Association
-permalink: /Resource/news/Response-to-Parliamentary-Questions-On-Audit-Observations-at-Peoples-Association/
+permalink: /resource/news/response-to-parliamentary-questions-on-audit-observations-at-peoples-association/
 date: 2021-09-14
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Pasir Ris East Community Club
-permalink: /cc-details/PasirRisEast-Community-Club
+permalink: /cc-details/pasirriseast-community-club/
 description: ""
 ---
 ### Pasir Ris East Community Club

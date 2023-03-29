@@ -1,6 +1,6 @@
 ---
 title: Locate Us
-permalink: /our-network/National-Community-Leadership-Institute/Locate-Us/
+permalink: /our-network/national-community-leadership-institute/locate-us/
 description: ""
 third_nav_title: NACLI
 ---

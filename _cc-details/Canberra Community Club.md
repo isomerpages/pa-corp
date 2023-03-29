@@ -1,6 +1,6 @@
 ---
 title: Canberra Community Club
-permalink: /cc-details/Canberra-Community-Club/
+permalink: /cc-details/canberra-community-club/
 description: ""
 ---
 The CC features a roof top garden which overlooks the Canberra estate. It can be rented for special occasions or functions. The CC also has a grand hall worthy for banquets as well as a hardcourt which can be used for social functions as well as skating and other sports events.

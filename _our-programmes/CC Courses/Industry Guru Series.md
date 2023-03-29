@@ -1,6 +1,6 @@
 ---
 title: Industry Guru Series
-permalink: /our-programmes/CC-Courses/Industry-Guru-Series/
+permalink: /our-programmes/cc-courses/industry-guru-series/
 description: ""
 third_nav_title: CC Courses
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ask Kopi Kakis
-permalink: /engage/Connect-With-Government/Ask-Kopi-Kakis/
+permalink: /engage/connect-with-government/ask-kopi-kakis/
 description: ""
 third_nav_title: Connect With Government
 ---

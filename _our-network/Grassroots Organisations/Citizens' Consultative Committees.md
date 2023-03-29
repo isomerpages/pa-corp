@@ -1,6 +1,6 @@
 ---
 title: Citizens' Consultative Committees
-permalink: /our-network/Grassroots-Organisations/Citizens-Consultative-Committees/
+permalink: /our-network/grassroots-organisations/citizens-consultative-committees/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

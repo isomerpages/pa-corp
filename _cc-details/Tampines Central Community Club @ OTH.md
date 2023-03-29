@@ -1,6 +1,6 @@
 ---
 title: Tampines Central Community Club @ OTH
-permalink: /cc-details/Tampines-Central-Community-Club-OTH
+permalink: /cc-details/tampines-central-community-club-oth/
 description: ""
 ---
 ### Tampines Central Community Club @ Our Tampines Hub

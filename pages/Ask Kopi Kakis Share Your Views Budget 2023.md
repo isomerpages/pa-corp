@@ -1,6 +1,6 @@
 ---
 title: Ask Kopi Kakis Share Your Views Budget 2023
-permalink: /engage/Connect-With-Government/akksyv/
+permalink: /engage/connect-with-government/akksyv/
 description: ""
 ---
 

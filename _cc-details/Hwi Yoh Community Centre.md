@@ -1,6 +1,6 @@
 ---
 title: Hwi Yoh Community Centre
-permalink: /cc-details/Hwi-Yoh-Community-Centre
+permalink: /cc-details/hwi-yoh-community-centre/
 description: ""
 ---
 Hwi Yoh CC offers a variety of courses suitable for different age groups such as Aikido, Badminton, Ballet, Folk Dance, Line Dance, Piano, Taekwondo, Zumba, and Fun with Chinese through Creative Movement.  

@@ -1,6 +1,6 @@
 ---
 title: Usher in 2022 with Family and Neighbours with PA's Virtual Programmes
-permalink: /Resource/news/Usher-in-2022-with-Family-and-Neighbours-with-PA-Virtual-Programmes/
+permalink: /resource/news/usher-in-2022-with-family-and-neighbours-with-pa-virtual-programmes/
 date: 2022-12-27
 layout: post
 description: ""

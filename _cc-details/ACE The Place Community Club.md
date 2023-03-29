@@ -1,6 +1,6 @@
 ---
 title: ACE The Place Community Club
-permalink: /cc-details/ACE-The-Place-Community-Club
+permalink: /cc-details/ace-the-place-community-club/
 description: ""
 ---
 ### ACE The Place Community Club

@@ -1,6 +1,6 @@
 ---
 title: Jurong Spring Community Club
-permalink: /cc-details/Jurong-Spring-Community-Club
+permalink: /cc-details/jurong-spring-community-club/
 description: ""
 ---
 Golf enthusiasts can join our Golf Kaki Club, while members of our Movie Club get to enjoy monthly movie screenings at our theatrette.

@@ -1,5 +1,5 @@
 ---
 title: NACLI
-permalink: /cc-details/NACLI
+permalink: /cc-details/nacli/
 description: ""
 ---

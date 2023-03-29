@@ -1,6 +1,6 @@
 ---
 title: About PA
-permalink: /about-us/About-PA/
+permalink: /about-us/about-pa/
 description: ""
 ---
 ### About Us

@@ -1,6 +1,6 @@
 ---
 title: Aljunied Community Centre
-permalink: /cc-details/Aljunied-Community-Centre
+permalink: /cc-details/aljunied-community-centre/
 description: ""
 ---
 #### Aljunied Community Centre

@@ -1,6 +1,6 @@
 ---
 title: Woodlands Galaxy Community Club
-permalink: /cc-details/Woodlands-Galaxy-Community-Club
+permalink: /cc-details/woodlands-galaxy-community-club/
 description: ""
 ---
 #### Woodlands Galaxy Community Club

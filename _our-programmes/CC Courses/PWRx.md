@@ -1,6 +1,6 @@
 ---
 title: PWRx
-permalink: /our-programmes/CC-Courses/PWRx/
+permalink: /our-programmes/cc-courses/pwrx/
 description: ""
 third_nav_title: CC Courses
 ---

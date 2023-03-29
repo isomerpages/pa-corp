@@ -1,6 +1,6 @@
 ---
 title: Hong Kah North Community Club
-permalink: /cc-details/Hong-Kah-North-Community-Club
+permalink: /cc-details/hong-kah-north-community-club/
 description: ""
 ---
 Hong Kah North CC – which is a 5 minutes walk from Bukit Gombak MRT station - is a hub of activity, offering residents a palette of socio-cultural, educational, self-developmental and sporting options.

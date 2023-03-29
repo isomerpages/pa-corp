@@ -1,6 +1,6 @@
 ---
 title: Tampines East Community Club
-permalink: /cc-details/Tampines-East-Community-Club
+permalink: /cc-details/tampines-east-community-club/
 description: ""
 ---
 ### Tampines East Community Club

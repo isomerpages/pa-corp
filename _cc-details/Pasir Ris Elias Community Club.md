@@ -1,6 +1,6 @@
 ---
 title: Pasir Ris Elias Community Club
-permalink: /cc-details/PasirRis-Elias-Community-Club
+permalink: /cc-details/pasirris-elias-community-club/
 description: ""
 ---
 ### Pasir Ris Elias Community Club

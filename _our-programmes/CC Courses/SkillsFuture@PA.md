@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture@PA
-permalink: /our-programmes/CC-Courses/SkillsFuture
+permalink: /our-programmes/cc-courses/skillsfuture/
 description: ""
 third_nav_title: CC Courses
 ---

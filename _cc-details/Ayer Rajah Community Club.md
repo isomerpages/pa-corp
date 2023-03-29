@@ -1,6 +1,6 @@
 ---
 title: Ayer Rajah Community Club
-permalink: /cc-details/Ayer-Rajah-Community-Club/
+permalink: /cc-details/ayer-rajah-community-club/
 description: ""
 ---
 At first glance, Ayer Rajah CC looks like a very normal CC. Hidden away on the rooftop of the three-storey building, however, is a beautiful garden, where you can enjoy the evening breeze surrounded by greenery. The bonsais found in the garden are taken care of by an interest group which meets every Friday. Also within the CC are two ponds where koi fishes are reared.

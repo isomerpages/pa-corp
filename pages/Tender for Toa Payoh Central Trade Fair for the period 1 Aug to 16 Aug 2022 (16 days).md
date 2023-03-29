@@ -1,7 +1,7 @@
 ---
 title: Tender for Toa Payoh Central Trade Fair for the period 1 Aug to 16 Aug
   2022 (16 days)
-permalink: /tender-details/Tender-for-Toa-Payoh-Central-Trade-Fair
+permalink: /tender-details/tender-for-toa-payoh-central-trade-fair/
 description: ""
 ---
 

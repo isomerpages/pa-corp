@@ -1,6 +1,6 @@
 ---
 title: Paya Lebar Kovan Community Club
-permalink: /cc-details/PayaLebar-Kovan-Community-Club
+permalink: /cc-details/payalebar-kovan-community-club/
 description: ""
 ---
 ### Paya Lebar Kovan Community Club

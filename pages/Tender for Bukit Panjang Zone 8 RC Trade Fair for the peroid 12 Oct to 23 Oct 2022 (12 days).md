@@ -1,7 +1,7 @@
 ---
 title: Tender for Bukit Panjang Zone 8 RC Trade Fair for the peroid 12 Oct to 23
   Oct 2022 (12 days)
-permalink: /tender-details/Bukit-Panjang-Zone-8-C-Trade-Far
+permalink: /tender-details/bukit-panjang-zone-8-c-trade-far/
 description: ""
 ---
 

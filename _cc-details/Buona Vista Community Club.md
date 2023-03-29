@@ -1,6 +1,6 @@
 ---
 title: Buona Vista Community Club
-permalink: /cc-details/Buona-Vista-Community-Club/
+permalink: /cc-details/buona-vista-community-club/
 description: ""
 ---
 Come and discover the uniqueness of our CC for yourself! You might be surprised at what you will find!

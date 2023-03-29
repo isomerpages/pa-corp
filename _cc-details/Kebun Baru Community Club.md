@@ -1,6 +1,6 @@
 ---
 title: Kebun Baru Community Club
-permalink: /cc-details/Kebun-Baru-Community-Club
+permalink: /cc-details/kebun-baru-community-club/
 description: ""
 ---
 ### Kebun Baru Community Club

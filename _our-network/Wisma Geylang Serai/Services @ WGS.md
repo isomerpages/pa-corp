@@ -1,6 +1,6 @@
 ---
 title: Services @ WGS
-permalink: /our-network/Wisma-Geylang-Serai/Services-WGS/
+permalink: /our-network/wisma-geylang-serai/services-wgs/
 description: ""
 third_nav_title: Wisma Geylang Serai
 ---

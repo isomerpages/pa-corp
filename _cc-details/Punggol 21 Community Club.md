@@ -1,6 +1,6 @@
 ---
 title: Punggol 21 Community Club
-permalink: /cc-details/Punggol-21-CommunityClub
+permalink: /cc-details/punggol-21-communityclub/
 description: ""
 ---
 ### Punggol 21 Community Club

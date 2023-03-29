@@ -1,6 +1,6 @@
 ---
 title: Residents' Network
-permalink: /our-network/Grassroots-Organisations/Residents-Network/
+permalink: /our-network/grassroots-organisations/residents-network/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

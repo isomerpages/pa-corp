@@ -1,6 +1,6 @@
 ---
 title: Kampong Chai Chee Community Club at Heartbeat@Bedok
-permalink: /cc-details/KampongChaiChee-Community-Club-at-HeartbeatBedok
+permalink: /cc-details/kampongchaichee-community-club-at-heartbeatbedok/
 description: ""
 ---
 ### Kampong Chai Chee Community Club at Heartbeat@Bedok

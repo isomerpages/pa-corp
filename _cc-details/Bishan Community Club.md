@@ -1,6 +1,6 @@
 ---
 title: Bishan Community Club
-permalink: /cc-details/Bishan-Community-Club/
+permalink: /cc-details/bishan-community-club/
 description: ""
 ---
 Bishan CC is conveniently situated in the midst of Bishan, opposite the Bishan bus interchange, MRT station and Junction 8 Shopping Centre. There is a Dome Café within the CC where you can relax after your game or class or if you just want to chill out with your friends.

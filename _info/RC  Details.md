@@ -1,5 +1,5 @@
 ---
 title: RC  Details
-permalink: /info/RC-Details
+permalink: /info/rc-details/
 description: ""
 ---
