@@ -1,5 +1,5 @@
 ---
 title: Punggol Community Club
-permalink: /cc-details/Punggol-Community-Club
+permalink: /cc-details/punggol-community-club/
 description: ""
 ---

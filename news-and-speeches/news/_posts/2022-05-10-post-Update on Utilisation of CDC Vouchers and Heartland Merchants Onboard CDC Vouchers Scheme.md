@@ -1,7 +1,7 @@
 ---
 title: Update on Utilisation of CDC Vouchers and Heartland Merchants Onboard CDC
   Vouchers Scheme
-permalink: /Resource/news/Update-on-Utilisation-of-CDC-VouchersandHeartland-Merchants/
+permalink: /resource/news/update-on-utilisation-of-cdc-vouchersandheartland-merchants/
 date: 2022-05-10
 layout: post
 description: ""

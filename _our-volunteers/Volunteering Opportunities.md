@@ -1,6 +1,6 @@
 ---
 title: Volunteering Opportunities
-permalink: /our-volunteers/Volunteering-Opportunities/
+permalink: /our-volunteers/volunteering-opportunities/
 description: ""
 ---
 Whether you are 15 or 50, you can play a part in giving back to the community.
@@ -13,7 +13,7 @@ Whether you are 15 or 50, you can play a part in giving back to the community.
 * Help address local issues and render social assistance to needy Singaporeans
 * Help instill a sense of social responsibility among Singaporeans
 
-Find out more about our [Grassroots Organisations](/our-network/Grassroots-Organisations/Grassroots-Organisations/).
+Find out more about our [Grassroots Organisations](/our-network/grassroots-organisations/grassroots-organisations/).
 
 #### Volunteering with the Community Development Councils
 
@@ -27,7 +27,7 @@ Find out more about our [Grassroots Organisations](/our-network/Grassroots-Organ
                    * Help explain government initiatives<br>
 								
 								
-Find out more about our [Community Development Councils](/our-network/Community-Development-Councils/Community-Development-Councils).
+Find out more about our [Community Development Councils](/our-network/community-development-councils/community-development-councils).
 
 #### Have a question to ask?
 

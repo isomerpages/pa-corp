@@ -1,6 +1,6 @@
 ---
 title: PA Partners
-permalink: /our-network/Partners/PA-Partners/
+permalink: /our-network/partners/pa-partners/
 description: ""
 third_nav_title: Partners
 ---
@@ -43,6 +43,6 @@ We recognise strategic partners who have worked closely with PA. The PA Communit
 
 #### Be a Friend of PA, Be Our WeCare PALs
 
-WeCare PALs are our friends of PA, an overarching term used for all our PA partners. Check out the [WeCare PALs](/our-network/Partners/WeCare-PALs) page to find out more info on how your organisation can partner with us!
+WeCare PALs are our friends of PA, an overarching term used for all our PA partners. Check out the [WeCare PALs](/our-network/partners/wecare-pals) page to find out more info on how your organisation can partner with us!
 
 If you are a corporate organisation keen on corporate giving and volunteerism, join [Project We Care](/our-network/partners/project-we-care) and let us co-create meaningful programmes together!

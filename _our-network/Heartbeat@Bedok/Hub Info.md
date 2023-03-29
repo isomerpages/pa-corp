@@ -1,6 +1,6 @@
 ---
 title: Hub Info
-permalink: /our-network/HeartbeatatBedok/Hub-Info/
+permalink: /our-network/heartbeatatbedok/hub-info/
 description: ""
 third_nav_title: Heartbeat@Bedok
 ---

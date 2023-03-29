@@ -1,6 +1,6 @@
 ---
 title: PA's Network
-permalink: /our-network/Our-Network/
+permalink: /our-network/our-network/
 description: ""
 ---
 <img style="width:600px"  align="center" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg">

@@ -1,6 +1,6 @@
 ---
 title: Resources for PA Trainers & Operators
-permalink: /our-programmes/CC-Courses/pa-trainers-and-operators-resources/
+permalink: /our-programmes/cc-courses/pa-trainers-and-operators-resources/
 description: ""
 ---
 **Resources for PA Trainers and PA Operators**

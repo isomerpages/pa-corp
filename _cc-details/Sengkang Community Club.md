@@ -1,6 +1,6 @@
 ---
 title: Sengkang Community Club
-permalink: /cc-details/Sengkang-Community-Club
+permalink: /cc-details/sengkang-community-club/
 description: ""
 ---
 ### Sengkang Community Club

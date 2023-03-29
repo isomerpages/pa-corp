@@ -1,7 +1,7 @@
 ---
 title: Response to Parliamentary Questions on the CDC Vouchers and Outreach to
   Households
-permalink: /Resource/news/Response-to-Parliamentary-Questions-on-the-CDC-Vouchers-and-Outreach-to-Households/
+permalink: /resource/news/response-to-parliamentary-questions-on-the-cdc-vouchers-and-outreach-to-households/
 date: 2022-01-11
 layout: post
 description: ""

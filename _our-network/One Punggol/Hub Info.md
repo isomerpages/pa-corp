@@ -1,6 +1,6 @@
 ---
 title: Hub Info
-permalink: /our-network/One-Punggol/hub-info/
+permalink: /our-network/one-punggol/hub-info/
 description: ""
 third_nav_title: One Punggol
 ---

@@ -1,6 +1,6 @@
 ---
 title: Share Your Views Virtually Ahead of Budget 2021
-permalink: /Resource/news/Share-Your-Views-Virtually-Ahead-of-Budget-2021/
+permalink: /resource/news/share-your-views-virtually-ahead-of-budget-2021/
 date: 2020-12-02
 layout: post
 description: ""

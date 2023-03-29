@@ -1,6 +1,6 @@
 ---
 title: Marine Parade Community Club
-permalink: /cc-details/MarineParade-Community-Club
+permalink: /cc-details/marineparade-community-club/
 description: ""
 ---
 ### Marine Parade Community Club

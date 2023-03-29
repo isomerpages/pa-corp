@@ -1,6 +1,6 @@
 ---
 title: Be a Training Provider
-permalink: /ur-programmes/CC-Courses/Be-a-Training-Provider/
+permalink: /ur-programmes/cc-courses/be-a-training-provider/
 description: ""
 third_nav_title: CC Courses
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bukit Batok Community Club
-permalink: /cc-details/Bukit-Batok-Community-Club/
+permalink: /cc-details/bukit-batok-community-club/
 description: ""
 ---
 Bukit Batok CC is located within walking distance from Bukit Batok MRT station and Bukit Batok bus interchange.

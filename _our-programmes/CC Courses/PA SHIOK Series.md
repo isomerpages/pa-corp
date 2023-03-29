@@ -1,6 +1,6 @@
 ---
 title: PA SHIOK Series
-permalink: /our-programmes/CC-Courses/PA-SHIOK-Series/
+permalink: /our-programmes/cc-courses/pa-shiok-series/
 description: ""
 third_nav_title: CC Courses
 ---

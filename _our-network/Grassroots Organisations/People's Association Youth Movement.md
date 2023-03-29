@@ -1,6 +1,6 @@
 ---
 title: People's Association Youth Movement
-permalink: /our-network/Grassroots-Organisations/Peoples-Association-Youth-Movement/
+permalink: /our-network/grassroots-organisations/peoples-association-youth-movement/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

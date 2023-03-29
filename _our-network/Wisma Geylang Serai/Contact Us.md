@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /our-network/Wisma-Geylang-Serai/Contact-Us/
+permalink: /our-network/wisma-geylang-serai/contact-us/
 description: ""
 third_nav_title: Wisma Geylang Serai
 ---

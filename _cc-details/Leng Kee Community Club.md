@@ -1,6 +1,6 @@
 ---
 title: Leng Kee Community Club
-permalink: /cc-details/Leng-Kee-Community-Club
+permalink: /cc-details/leng-kee-community-club/
 description: ""
 ---
 ### Leng Kee Community Club

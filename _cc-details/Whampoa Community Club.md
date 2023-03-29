@@ -1,6 +1,6 @@
 ---
 title: Whampoa Community Club
-permalink: /cc-details/Whampoa-Community-Club
+permalink: /cc-details/whampoa-community-club/
 description: ""
 ---
 ### Whampoa Community Club

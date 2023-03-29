@@ -1,6 +1,6 @@
 ---
 title: Capability Development
-permalink: /our-volunteers-1/Capability-Development
+permalink: /our-volunteers-1/capability-development/
 description: ""
 ---
 ### Our Volunteers
@@ -19,7 +19,7 @@ Through volunteering, you will also forge strong friendships with your neighbour
 
 [Read More](/files/Speech.pdf)
 
-With more than 1,800[Grassroots Organisation](/our-network/Our-Network)  within the PA network, there will definitely be a role that will suit your interest and strengths.
+With more than 1,800[Grassroots Organisation](/our-network/our-network)  within the PA network, there will definitely be a role that will suit your interest and strengths.
 
 [Apply online](https://www.grassrootsconnect.pa.gov.sg/VolunteerRegistration.aspx) now to become a PA volunteer.
 

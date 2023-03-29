@@ -1,6 +1,6 @@
 ---
 title: Telok Blangah Community Club
-permalink: /cc-details/Telok-Blangah-Community-Club
+permalink: /cc-details/telok-blangah-community-club/
 description: ""
 ---
 ### Telok Blangah Community Club

@@ -1,7 +1,7 @@
 ---
 title: Strengthening processes, governance and oversight systems after internal
   checks and external review
-permalink: /Resource/news/Strengthening-its-processes-governance-and-oversight-systems/
+permalink: /resource/news/strengthening-its-processes-governance-and-oversight-systems/
 date: 2022-07-04
 layout: post
 description: ""

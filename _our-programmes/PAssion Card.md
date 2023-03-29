@@ -1,6 +1,6 @@
 ---
 title: PAssion Card
-permalink: /our-programmes/Passion-Card/
+permalink: /our-programmes/passion-card/
 description: ""
 ---
 The PAssion Card is a membership card of the People's Association (PA).

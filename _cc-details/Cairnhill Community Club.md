@@ -1,6 +1,6 @@
 ---
 title: Cairnhill Community Club
-permalink: /cc-details/Cairnhill-Community-Club/
+permalink: /cc-details/cairnhill-community-club/
 description: ""
 ---
 Cairnhill Community Club (CC) is back with a refreshing modern look! Nestled in the heart of town with a convenient 5-minute walk from Newton MRT Station, there are now improved facilities and more common spaces for residents living in the area.

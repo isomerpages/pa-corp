@@ -1,6 +1,6 @@
 ---
 title: Tech Connect Brochures
-permalink: /engage/Connect-With-Government/Tech-Connect-Brochures
+permalink: /engage/connect-with-government/tech-connect-brochures/
 description: ""
 ---
 

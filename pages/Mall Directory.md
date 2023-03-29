@@ -1,6 +1,6 @@
 ---
 title: Mall Directory
-permalink: /our-network/One-Punggol/mall-directory/
+permalink: /our-network/one-punggol/mall-directory/
 description: ""
 ---
 

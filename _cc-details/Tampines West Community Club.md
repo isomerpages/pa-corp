@@ -1,6 +1,6 @@
 ---
 title: Tampines West Community Club
-permalink: /cc-details/Tampines-West-Community-Club
+permalink: /cc-details/tampines-west-community-club/
 description: ""
 ---
 ### Tampines West Community Club

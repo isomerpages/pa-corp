@@ -1,6 +1,6 @@
 ---
 title: Siglap South Community Centre
-permalink: /cc-details/Siglap-South-Community-Centre
+permalink: /cc-details/siglap-south-community-centre/
 description: ""
 ---
 ### Siglap South Community Centre

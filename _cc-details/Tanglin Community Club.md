@@ -1,6 +1,6 @@
 ---
 title: Tanglin Community Club
-permalink: /cc-details/Tanglin-Community-Club
+permalink: /cc-details/tanglin-community-club/
 description: ""
 ---
 ### Tanglin Community Club

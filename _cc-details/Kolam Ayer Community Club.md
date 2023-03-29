@@ -1,6 +1,6 @@
 ---
 title: Kolam Ayer Community Club
-permalink: /cc-details/Kolam-Ayer-Community-Club
+permalink: /cc-details/kolam-ayer-community-club/
 description: ""
 ---
 ### Kolam Ayer Community Club

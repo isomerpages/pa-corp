@@ -1,6 +1,6 @@
 ---
 title: Capability Development
-permalink: /our-volunteers/Capability-Development/
+permalink: /our-volunteers/capability-development/
 description: ""
 ---
 #### National Community Leadership Institute
@@ -13,6 +13,6 @@ To support your continued learning journey as a grassroots leader/PA volunteer, 
 
 For more information on our grassroots training, visit the following links: 
 <br> 
-[Scheduled Courses](/our-network/National-Community-Leadership-Institute/Learn-With-NACLI/)
+[Scheduled Courses](/our-network/national-community-leadership-institute/learn-with-nacli/)
 <br> 
-[Other Key Training Programmes](/our-network/National-Community-Leadership-Institute/Training-Programmes/)
+[Other Key Training Programmes](/our-network/national-community-leadership-institute/training-programmes/)

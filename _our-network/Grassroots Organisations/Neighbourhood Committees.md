@@ -1,6 +1,6 @@
 ---
 title: Neighbourhood Committees
-permalink: /our-network/Grassroots-Organisations/Neighbourhood-Committees/
+permalink: /our-network/grassroots-organisations/neighbourhood-committees/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

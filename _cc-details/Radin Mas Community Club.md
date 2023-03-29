@@ -1,6 +1,6 @@
 ---
 title: Radin Mas Community Club
-permalink: /cc-details/RadinMas-Community-Club
+permalink: /cc-details/radinmas-community-club/
 description: ""
 ---
 ### Radin Mas Community Club

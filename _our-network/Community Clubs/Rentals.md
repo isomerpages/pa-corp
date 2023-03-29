@@ -1,6 +1,6 @@
 ---
 title: Rentals
-permalink: /our-network/Community-Clubs/Rentals/
+permalink: /our-network/community-clubs/rentals/
 description: ""
 third_nav_title: Community Clubs
 ---

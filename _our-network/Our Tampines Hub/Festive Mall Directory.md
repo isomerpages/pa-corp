@@ -1,6 +1,6 @@
 ---
 title: Festive Mall Directory
-permalink: /our-network/Our-Tampines-Hub/Festive-Mall-Directory/
+permalink: /our-network/our-tampines-hub/festive-mall-directory/
 description: ""
 third_nav_title: Our Tampines Hub
 ---

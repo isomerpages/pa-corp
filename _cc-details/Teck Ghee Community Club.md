@@ -1,6 +1,6 @@
 ---
 title: Teck Ghee Community Club
-permalink: /cc-details/Teck-Ghee-Community-Club
+permalink: /cc-details/teck-ghee-community-club/
 description: ""
 ---
 #### Teck Ghee Community Club

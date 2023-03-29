@@ -1,6 +1,6 @@
 ---
 title: Use of Data from the CDC Vouchers Scheme
-permalink: /Resource/news/Use-of-Data-from-the-CDC-Vouchers-Scheme/
+permalink: /resource/news/use-of-data-from-the-cdc-vouchers-scheme/
 date: 2022-07-08
 layout: post
 description: ""

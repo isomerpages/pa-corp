@@ -1,6 +1,6 @@
 ---
 title: Active Ageing Council
-permalink: /our-network/Grassroots-Organisations/Active-Ageing-Council
+permalink: /our-network/grassroots-organisations/active-ageing-council/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

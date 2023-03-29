@@ -1,6 +1,6 @@
 ---
 title: What's Happening
-permalink: /our-network/One-Punggol/whats-happening/
+permalink: /our-network/one-punggol/whats-happening/
 description: ""
 ---
 

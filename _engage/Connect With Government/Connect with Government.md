@@ -1,6 +1,6 @@
 ---
 title: Connect with Government
-permalink: /engage/Connect-With-Government/Connect-with-Government/
+permalink: /engage/connect-with-government/connect-with-government/
 description: ""
 third_nav_title: Connect With Government
 ---
@@ -14,4 +14,4 @@ Serving as a bridge between the Government and the people, our grassroots also b
 
 Through some of our CCs, PA also provides some basic government services to make it more convenient to residents.
 
-Our network of grassroots organisations and volunteers work tirelessly to connect Government and the people. If you have the passion and drive to contribute to the community and help your fellow residents, click [here](/our-volunteers/Volunteering-Opportunities) to join us as a grassroots volunteer today.
+Our network of grassroots organisations and volunteers work tirelessly to connect Government and the people. If you have the passion and drive to contribute to the community and help your fellow residents, click [here](/our-volunteers/volunteering-opportunities) to join us as a grassroots volunteer today.

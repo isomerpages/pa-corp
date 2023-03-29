@@ -1,6 +1,6 @@
 ---
 title: Hougang Community Club
-permalink: /cc-details/Hougang-Community-Club
+permalink: /cc-details/hougang-community-club/
 description: ""
 ---
 Current Operating Hours

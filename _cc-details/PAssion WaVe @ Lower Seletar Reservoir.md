@@ -1,5 +1,5 @@
 ---
 title: PAssion WaVe @ Lower Seletar Reservoir
-permalink: /cc-details/PAssionWaVe-Lower-Seletar-Reservoir
+permalink: /cc-details/passionwave-lower-seletar-reservoir/
 description: ""
 ---

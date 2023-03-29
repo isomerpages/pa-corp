@@ -1,6 +1,6 @@
 ---
 title: Ang Mo Kio Community Centre
-permalink: /cc-details/Ang-Mo-Kio-Community-Centre
+permalink: /cc-details/ang-mo-kio-community-centre/
 description: ""
 ---
 #### Ang Mo Kio Community Centre	

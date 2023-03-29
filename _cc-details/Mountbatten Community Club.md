@@ -1,6 +1,6 @@
 ---
 title: Mountbatten Community Club
-permalink: /cc-details/Mountbatten-Community-Club
+permalink: /cc-details/mountbatten-community-club/
 description: ""
 ---
 ### Mountbatten Community Club

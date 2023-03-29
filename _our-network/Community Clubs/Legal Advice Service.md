@@ -1,6 +1,6 @@
 ---
 title: Legal Advice Service
-permalink: /our-network/Community-Clubs/Legal-Advice-Service/
+permalink: /our-network/community-clubs/legal-advice-service/
 description: ""
 third_nav_title: Community Clubs
 ---

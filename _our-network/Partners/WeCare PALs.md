@@ -1,6 +1,6 @@
 ---
 title: WeCare PALs
-permalink: /our-network/Partners/WeCare-PALs/
+permalink: /our-network/partners/wecare-pals/
 description: ""
 third_nav_title: Partners
 ---

@@ -1,6 +1,6 @@
 ---
 title: Facilities @ WGS
-permalink: /our-network/Wisma-Geylang-Serai/Facilities/
+permalink: /our-network/wisma-geylang-serai/facilities/
 description: ""
 third_nav_title: Wisma Geylang Serai
 ---

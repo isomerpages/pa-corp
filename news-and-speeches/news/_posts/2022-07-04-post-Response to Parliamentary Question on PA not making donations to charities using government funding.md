@@ -1,7 +1,7 @@
 ---
 title: Response to Parliamentary Question on PA not making donations to
   charities using government funding
-permalink: /Resource/news/Response-to-Parliamentary-Question-on-Peoples-Association/
+permalink: /resource/news/response-to-parliamentary-question-on-peoples-association/
 date: 2022-07-04
 layout: post
 description: ""

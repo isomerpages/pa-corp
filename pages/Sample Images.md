@@ -1,6 +1,6 @@
 ---
 title: Sample Images
-permalink: /Sample-Images
+permalink: /sample-images/
 description: ""
 ---
 <img style="height:100px;width:100px"  align="left" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg">

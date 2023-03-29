@@ -1,6 +1,6 @@
 ---
 title: Gek Poh Ville Community Club
-permalink: /cc-details/Gek-Poh-Ville-Community-Club
+permalink: /cc-details/gek-poh-ville-community-club/
 description: ""
 ---
 Gek Poh Ville CC is located opposite the Gek Poh Shopping Centre and three bus stops away from Boon Lay Interchange. With the range of activities, courses and facilities on offer, you’ll be spoilt for choice.

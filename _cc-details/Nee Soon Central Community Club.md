@@ -1,6 +1,6 @@
 ---
 title: Nee Soon Central Community Club
-permalink: /cc-details/NeeSoon-Central-Community-Club
+permalink: /cc-details/neesoon-central-community-club/
 description: ""
 ---
 ### Nee Soon Central Community Club

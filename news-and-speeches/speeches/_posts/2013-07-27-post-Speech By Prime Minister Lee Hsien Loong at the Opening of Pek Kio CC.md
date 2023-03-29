@@ -1,6 +1,6 @@
 ---
 title: Speech By Prime Minister Lee Hsien Loong at the Opening of Pek Kio CC
-permalink: /Resource/speeches/Speech-By-Prime-Minister-Lee-Hsien-Loong-At-The-Opening-of-Pek-Kio-CC/
+permalink: /resource/speeches/speech-by-prime-minister-lee-hsien-loong-at-the-opening-of-pek-kio-cc/
 date: 2013-07-27
 layout: post
 description: ""

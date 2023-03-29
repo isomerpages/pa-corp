@@ -1,6 +1,6 @@
 ---
 title: Heartbeat@Bedok
-permalink: /our-network/Heartbeat-Bedok/HeartbeatatBedok/
+permalink: /our-network/heartbeat-bedok/heartbeatatbedok/
 description: ""
 third_nav_title: Heartbeat@Bedok
 ---

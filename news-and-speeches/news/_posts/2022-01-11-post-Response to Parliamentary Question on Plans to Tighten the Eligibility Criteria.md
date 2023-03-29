@@ -1,6 +1,6 @@
 ---
 title: Response to Parliamentary Question on Plans to Tighten the Eligibility Criteria
-permalink: /Resource/news/Response-to-Parliamentary-Question-on-Plans-to-Tighten-the-Eligibility-Criteria-of-PA/
+permalink: /resource/news/response-to-parliamentary-question-on-plans-to-tighten-the-eligibility-criteria-of-pa/
 date: 2022-01-11
 layout: post
 description: ""

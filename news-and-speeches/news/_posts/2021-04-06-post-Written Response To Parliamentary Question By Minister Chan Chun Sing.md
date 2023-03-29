@@ -1,6 +1,6 @@
 ---
 title: Written Response To Parliamentary Question By Minister Chan Chun Sing
-permalink: /Resource/news/Written-Response-To-Parliamentary-Question-By-Minister-Chan-Chun-Sing/
+permalink: /resource/news/written-response-to-parliamentary-question-by-minister-chan-chun-sing/
 date: 2021-04-06
 layout: post
 description: ""

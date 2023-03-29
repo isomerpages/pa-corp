@@ -1,6 +1,6 @@
 ---
 title: Jalan Besar Community Club
-permalink: /cc-details/Jalan-Besar-Community-Club
+permalink: /cc-details/jalan-besar-community-club/
 description: ""
 ---
 Just five-minutes away from Lavender MRT station, the Jalan Besar CC houses a multi-purpose hall on the second level as well as a karaoke theatrette. The Jalan Besar CC also manages the King George’s Avenue Senior Activity Centre.

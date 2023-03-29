@@ -1,6 +1,6 @@
 ---
 title: Chong Pang Community Club
-permalink: /cc-details/Chong-Pang-Community-Club/
+permalink: /cc-details/chong-pang-community-club/
 description: ""
 ---
 Chong Pang CC is located at the heart of the bustling Chong Pang City. Besides having a basketball and volleyball courts within its compound, the CC also manages the Mega Game Hard Court which is located near Sun Plaza in Sembawang.

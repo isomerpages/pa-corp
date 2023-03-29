@@ -1,6 +1,6 @@
 ---
 title: Zhenghua Community Club
-permalink: /cc-details/Zhenghua-Community-Club
+permalink: /cc-details/zhenghua-community-club/
 description: ""
 ---
 ### Zhenghua Community Club

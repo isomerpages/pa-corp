@@ -1,6 +1,6 @@
 ---
 title: Racial Harmony
-permalink: /our-programmes/Racial-Harmony/
+permalink: /our-programmes/racial-harmony/
 description: ""
 ---
 The programmes organised by the PA are open to everyone. They are common spaces for people of different races, languages, religions and socio-economic backgrounds to interact and get to know one another better.

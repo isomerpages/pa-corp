@@ -1,6 +1,6 @@
 ---
 title: Sembawang Community Club
-permalink: /cc-details/Sembawang-Community-Club
+permalink: /cc-details/sembawang-community-club/
 description: ""
 ---
 ### Sembawang Community Club

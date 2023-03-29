@@ -1,6 +1,6 @@
 ---
 title: Bedok Community Centre
-permalink: /cc-details/Bedok-Community-Centre/
+permalink: /cc-details/bedok-community-centre/
 description: ""
 ---
 Located just minutes away from Bedok MRT station and bus interchange, and opposite the Bedok Swimming Complex, the CC provides a place of fun and games for sports enthusiasts. The CC offers a wide range of sports facilities from gateball courts to sheltered basketball and badminton courts.

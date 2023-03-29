@@ -1,6 +1,6 @@
 ---
 title: Why Join
-permalink: /careers/Why-Join/
+permalink: /careers/why-join/
 description: ""
 ---
 #### Tan Jun Yi <br>

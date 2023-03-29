@@ -1,6 +1,6 @@
 ---
 title: Annual Reports
-permalink: /about-us/Annual-Reports/
+permalink: /about-us/annual-reports/
 description: ""
 ---
 #####  Annual Report 21/22

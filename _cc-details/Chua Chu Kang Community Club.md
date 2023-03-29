@@ -1,6 +1,6 @@
 ---
 title: Chua Chu Kang Community Club
-permalink: /cc-details/Chua-Chu-Kang-Community-Club/
+permalink: /cc-details/chua-chu-kang-community-club/
 description: ""
 ---
 Chua Chu Kang CC has a range of sporting, cultural, educational and recreational activities for mass participation in promotion of racial harmony and social cohesion. The CC also has a group of enthusiastic Senior Citizens who regularly organises mass birthday parties and various festive celebrations.

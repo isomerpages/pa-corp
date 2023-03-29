@@ -1,6 +1,6 @@
 ---
 title: Community Emergency and Engagement Committees
-permalink: /our-network/Grassroots-Organisations/Community-Emergency-and-Engagement-Committees/
+permalink: /our-network/grassroots-organisations/community-emergency-and-engagement-committees/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

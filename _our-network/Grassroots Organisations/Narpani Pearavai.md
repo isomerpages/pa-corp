@@ -1,6 +1,6 @@
 ---
 title: Narpani Pearavai
-permalink: /our-network/Grassroots-Organisations/Narpani-Pearavai/
+permalink: /our-network/grassroots-organisations/narpani-pearavai/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

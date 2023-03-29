@@ -1,6 +1,6 @@
 ---
 title: Hub Info
-permalink: /our-network/Our-Tampines-Hub/Hub-Info/
+permalink: /our-network/our-tampines-hub/hub-info/
 description: ""
 third_nav_title: Our Tampines Hub
 ---

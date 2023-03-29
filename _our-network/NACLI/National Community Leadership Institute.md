@@ -1,6 +1,6 @@
 ---
 title: National Community Leadership Institute
-permalink: /our-network/National-Community-Leadership-Institute/NACLI/
+permalink: /our-network/national-community-leadership-institute/nacli/
 description: NACLI is the community leadership development arm of the People's Association.
 third_nav_title: NACLI
 image: /images/Our Network/NACLI/nacli_logo (red_brown).png

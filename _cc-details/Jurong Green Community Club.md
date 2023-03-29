@@ -1,6 +1,6 @@
 ---
 title: Jurong Green Community Club
-permalink: /cc-details/Jurong-Green-Community-Club
+permalink: /cc-details/jurong-green-community-club/
 description: ""
 ---
 Jurong Green Community Club is a hub for art and music lovers. The Mus’Art Wind Orchestra (MWO), formed in 1998 under the wing of the CC regularly brings its music into the heartlands during festive periods, in addition to its various concert hall performances. The MWO, which has more than 60 members, has won several awards at the World Music Contest (WMC); including a Gold award (in the 1st division) at the 16th WMC (2009) in Kerkrade, the Netherlands, a Gold award (2nd division) at the 15th WMC (2005) and a 2nd prize (in the 3rd division) at the 14th WMC.

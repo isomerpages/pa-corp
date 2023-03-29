@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /our-network/Heartbeat-Bedok/Contact-Us/
+permalink: /our-network/heartbeat-bedok/contact-us/
 description: ""
 third_nav_title: Heartbeat@Bedok
 ---

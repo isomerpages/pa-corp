@@ -1,6 +1,6 @@
 ---
 title: Woodgrove Community Centre
-permalink: /cc-details/Woodgrove-Community-Centre
+permalink: /cc-details/woodgrove-community-centre/
 description: ""
 ---
 ### Woodgrove Community Centre

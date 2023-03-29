@@ -1,6 +1,6 @@
 ---
 title: Community Sports Club Council
-permalink: /our-network/Grassroots-Organisations/Community-Sports-Club-Council/
+permalink: /our-network/grassroots-organisations/community-sports-club-council/
 description: ""
 third_nav_title: Grassroots Organisations
 ---

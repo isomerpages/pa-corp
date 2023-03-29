@@ -1,6 +1,6 @@
 ---
 title: Family Life
-permalink: /our-programmes/Family-Life/
+permalink: /our-programmes/family-life/
 description: ""
 ---
 ### Family Life

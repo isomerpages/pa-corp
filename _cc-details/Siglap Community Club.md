@@ -1,6 +1,6 @@
 ---
 title: Siglap Community Club
-permalink: /cc-details/Siglap-Community-Club
+permalink: /cc-details/siglap-community-club/
 description: ""
 ---
 ### Siglap Community Club

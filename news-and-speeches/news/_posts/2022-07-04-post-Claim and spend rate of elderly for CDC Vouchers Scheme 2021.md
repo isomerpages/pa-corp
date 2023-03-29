@@ -1,6 +1,6 @@
 ---
 title: Claim and spend rate of elderly for CDC Vouchers Scheme 2021
-permalink: /Resource/news/Claim-and-spend-rate-of-elderly-for-CDC-Vouchers-Scheme-2021/
+permalink: /resource/news/claim-and-spend-rate-of-elderly-for-cdc-vouchers-scheme-2021/
 date: 2022-07-04
 layout: post
 description: ""

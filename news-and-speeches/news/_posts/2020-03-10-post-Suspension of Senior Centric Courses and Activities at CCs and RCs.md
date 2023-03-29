@@ -1,6 +1,6 @@
 ---
 title: Suspension of Senior Centric Courses and Activities at CCs and RCs
-permalink: /Resource/news/Suspension-of-Senior-Centric-Courses-and-Activities-at-CCs-and-RCs/
+permalink: /resource/news/suspension-of-senior-centric-courses-and-activities-at-ccs-and-rcs/
 date: 2020-03-10
 layout: post
 description: ""

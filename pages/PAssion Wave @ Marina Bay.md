@@ -1,6 +1,6 @@
 ---
 title: PAssion Wave @ Marina Bay
-permalink: /our-programmes/PAssion-Wave/PAssionWaVe-MarinaBay/
+permalink: /our-programmes/passion-wave/passionwave-marinabay/
 description: ""
 ---
 

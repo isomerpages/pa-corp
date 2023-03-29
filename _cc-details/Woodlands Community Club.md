@@ -1,6 +1,6 @@
 ---
 title: Woodlands Community Club
-permalink: /cc-details/Woodlands-Community-Club
+permalink: /cc-details/woodlands-community-club/
 description: ""
 ---
 ### Woodlands Community Club

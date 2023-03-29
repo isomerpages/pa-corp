@@ -1,6 +1,6 @@
 ---
 title: Changi Simei Community Club
-permalink: /cc-details/Changi-Simei-Community-Club/
+permalink: /cc-details/changi-simei-community-club/
 description: ""
 ---
 Come and discover the uniqueness of our CC for yourself! You might be surprised at what you will find!

@@ -1,6 +1,6 @@
 ---
 title: Pek Kio Community Centre
-permalink: /cc-details/Pek-Kio-Community-Centre
+permalink: /cc-details/pek-kio-community-centre/
 description: ""
 ---
 #### Pek Kio Community Centre

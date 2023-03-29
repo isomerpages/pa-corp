@@ -1,6 +1,6 @@
 ---
 title: Learn with NACLI
-permalink: /our-network/National-Community-Leadership-Institute/Learn-With-NACLI/
+permalink: /our-network/national-community-leadership-institute/learn-with-nacli/
 description: ""
 third_nav_title: NACLI
 ---

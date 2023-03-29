@@ -1,6 +1,6 @@
 ---
 title: School Holidays Series
-permalink: /our-programmes/CC-Courses/School-Holidays-Series/
+permalink: /our-programmes/cc-courses/school-holidays-series/
 description: ""
 third_nav_title: CC Courses
 ---

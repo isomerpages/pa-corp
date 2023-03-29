@@ -1,6 +1,6 @@
 ---
 title: Kallang Community Club
-permalink: /cc-details/Kallang-Community-Club
+permalink: /cc-details/kallang-community-club/
 description: ""
 ---
 Kallang CC is conveniently located near Boon Keng MRT station. Designed as an ‘open-concept’ CC to make residents feel more welcome, Kallang CC has the distinction of being the only CC to collaborate with ArkHub to attract youth through Chinese pop music.

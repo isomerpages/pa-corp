@@ -1,6 +1,6 @@
 ---
 title: Tender for Bishan Trade Fair for the period 15 Oct to 30 Oct 2022 (16 days)
-permalink: /tender-details/Tender-for-Bishan-Trade-Fair
+permalink: /tender-details/tender-for-bishan-trade-fair/
 description: ""
 ---
 

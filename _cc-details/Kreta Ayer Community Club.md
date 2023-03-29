@@ -1,6 +1,6 @@
 ---
 title: Kreta Ayer Community Club
-permalink: /cc-details/Kreta-Ayer-Community-Club
+permalink: /cc-details/kreta-ayer-community-club/
 description: ""
 ---
 ### Kreta Ayer Community Club

@@ -1,6 +1,6 @@
 ---
 title: Project We Care
-permalink: /our-network/Partners/Project-We-Care/
+permalink: /our-network/partners/project-we-care/
 description: ""
 third_nav_title: Partners
 ---

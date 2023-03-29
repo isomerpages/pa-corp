@@ -1,5 +1,5 @@
 ---
 title: Locate NC
-permalink: /Locate-NC
+permalink: /locate-nc/
 description: ""
 ---

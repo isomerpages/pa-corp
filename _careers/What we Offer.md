@@ -1,6 +1,6 @@
 ---
 title: What we Offer
-permalink: /careers/Careers/
+permalink: /careers/careers/
 description: ""
 ---
 #### Grow With Us
@@ -21,4 +21,4 @@ Working with us, you will have many opportunities to build your career in differ
 
 PA is committed to attracting, motivating and retaining talented individuals. We have a competitive salary structure that includes annual wage supplements, salary increments, performance bonuses, and PA allowances, if applicable. We advocate work-life harmony, and aim to provide a healthy working environment. Our officers enjoy birthday off and wellness leave for wedding, parenthood, child’s first day of school, child’s graduation and eldercare. For our efforts in promoting work-life and workplace health, we received the Singapore H.E.A.L.T.H (Helping Employees Achieve Life-Time Health) Award - Platinum Award presented by the Health Promotion Board.
 
-Find out more about PA [Career Opportunities](/careers/PA-Careers).
+Find out more about PA [Career Opportunities](/careers/pa-careers).

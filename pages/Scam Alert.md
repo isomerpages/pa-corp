@@ -1,6 +1,6 @@
 ---
 title: Scam Alert
-permalink: /Scam-Alert/
+permalink: /scam-alert/
 description: ""
 ---
 Beware of potential scam letters, calls, messages (e.g. over SMS, WhatsApp, or Telegram), social media pages, websites and mobile applications  impersonating People’s Association or staff. If unsure, do not provide your personal or financial info (e.g. passwords, SingPass details).  

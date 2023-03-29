@@ -1,6 +1,6 @@
 ---
 title: Online PA Booking
-permalink: /our-programmes/CC-Courses/Online-PA-Booking/
+permalink: /our-programmes/cc-courses/online-pa-booking/
 description: ""
 third_nav_title: CC Courses
 ---

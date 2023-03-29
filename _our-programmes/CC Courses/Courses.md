@@ -1,6 +1,6 @@
 ---
 title: Courses
-permalink: /our-programmes/CC-Courses/Courses/
+permalink: /our-programmes/cc-courses/courses/
 description: ""
 third_nav_title: CC Courses
 ---

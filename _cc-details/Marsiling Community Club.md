@@ -1,6 +1,6 @@
 ---
 title: Marsiling Community Club
-permalink: /cc-details/Marsiling-Community-Club
+permalink: /cc-details/marsiling-community-club/
 description: ""
 ---
 ### Marsiling Community Club

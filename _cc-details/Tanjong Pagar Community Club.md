@@ -1,6 +1,6 @@
 ---
 title: Tanjong Pagar Community Club
-permalink: /cc-details/Tanjong-Pagar-Community-Club
+permalink: /cc-details/tanjong-pagar-community-club/
 description: ""
 ---
 ### Tanjong Pagar Community Club

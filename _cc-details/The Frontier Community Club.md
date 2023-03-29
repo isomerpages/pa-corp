@@ -1,6 +1,6 @@
 ---
 title: The Frontier Community Club
-permalink: /cc-details/The-Frontier-Community-Club
+permalink: /cc-details/the-frontier-community-club/
 description: ""
 ---
 ### The Frontier Community Club

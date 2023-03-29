@@ -1,6 +1,6 @@
 ---
 title: Bukit Panjang Community Club
-permalink: /cc-details/Bukit-Panjang-Community-Club/
+permalink: /cc-details/bukit-panjang-community-club/
 description: ""
 ---
 Bukit Panjang CC is conveniently located near Pending LRT station.

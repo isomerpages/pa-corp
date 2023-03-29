@@ -1,6 +1,6 @@
 ---
 title: Ci Yuan Community Centre
-permalink: /cc-details/Ci-Yuan-Community-Centre/
+permalink: /cc-details/ci-yuan-community-centre/
 description: ""
 ---
 Come and discover the uniqueness of our CC for yourself! You might be surprised at what you will find!

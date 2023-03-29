@@ -1,6 +1,6 @@
 ---
 title: Boon Lay Community Club
-permalink: /cc-details/Boon-Lay-Community-Club/
+permalink: /cc-details/boon-lay-community-club/
 description: ""
 ---
 One of the oldest CCs in Singapore, Boon Lay CC celebrates its 30th anniversary in 2009. Specialist clubs such as the Chinese Orchestra Group, Photographic Club and Chinese Chess Club have been active for well over 20 years and underline the rich history of this CC.

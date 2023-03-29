@@ -1,7 +1,7 @@
 ---
 title: Speech by Mr Chan Chun Sing, Deputy Chairman of PA at NWCDC Volunteers’
   Appreciation
-permalink: /Resource/speeches/Speech-by-Mr-Chan-Chun-Sing-Minister-for-Trade-and-Industry/
+permalink: /resource/speeches/speech-by-mr-chan-chun-sing-minister-for-trade-and-industry/
 date: 2021-03-19
 layout: post
 description: ""

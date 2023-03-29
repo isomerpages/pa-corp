@@ -1,6 +1,6 @@
 ---
 title: PA Scholarship
-permalink: /careers/PA-Scholarship/PA-Scholarship/
+permalink: /careers/pa-scholarship/pa-scholarship/
 description: ""
 third_nav_title: PA Scholarship
 ---

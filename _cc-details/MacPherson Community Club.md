@@ -1,6 +1,6 @@
 ---
 title: MacPherson Community Club
-permalink: /cc-details/MacPherson-Community-Club
+permalink: /cc-details/macpherson-community-club/
 description: ""
 ---
 ### MacPherson Community Club
