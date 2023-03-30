@@ -4,6 +4,7 @@ permalink: /our-network/nacli/privacy-statement-for-strong-red-dot-app/
 description: ""
 ---
 
+
 1. The Strong Red Dot application belongs to the National Community Leadership Institute under the People’s Association. It is an e-learning application.
 2. It is a Government Agency digital service. We adopt the same principles relating to your privacy as other Government of Singapore digital services.
 3. To access this app, you are required to sign-in via the Singpass digital identity system to verify your identity as a staff or a volunteer with People’s Association. We neither collect nor use any other personal data such as NRIC or addresses within the application.

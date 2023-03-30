@@ -4,6 +4,8 @@ permalink: /engage/connect-with-government/ask-kopi-kakis/
 description: ""
 third_nav_title: Connect With Government
 ---
+
+
 To communicate government policies to the public in a simple and accessible way, PA introduced the Ask Kopi Kakis (AKK) initiative.
 
 Residents can learn more about key government policies and schemes that they can benefit from by accessing a set of three easy-to-read AKK policy e-booklets in four languages. They contain bite-sized details on a wide range of topics ranging from healthcare subsidies and housing grants, to transport and education schemes that are of interest to residents at various stages of their lives.
