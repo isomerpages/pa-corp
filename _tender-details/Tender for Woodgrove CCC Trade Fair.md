@@ -5,6 +5,8 @@ description: ""
 ---
 Tender for Woodgrove CCC Trade Fair
 =======================================
+<font color="#ff0000">Corrigendum -
+Refer to Annex A - para 3 of the Trade Fair tender document on the additional requirement to segregate the placement of halal food stalls and non-halal food stalls. </font>
 
 **Trade Fair Duration: 1 Jun to 30 Jun 2023 (30 days) <br>
 Venue: Open Field beside Causeway Point  
@@ -21,4 +23,4 @@ For enquiries, please contact Mr Shaun Chua at Tel: 6365 6911 or email to Shaun_
 
 
 **Publication Date : 29 Mar 2023** <br>
-**Closing Date & Time : 12 Apr 2023, 06:00 PM**
+**Closing Date &amp; Time : 12 Apr 2023, 06:00 PM**
