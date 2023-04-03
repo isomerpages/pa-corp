@@ -16,7 +16,7 @@ NCs’ functions are to:
 
 Have a say in your estate. Join your NCs as a [volunteer](https://pa-corp-staging.netlify.app/engage/be-our-volunteer).
 
-Click [here](https://www.onepa.gov.sg/rc ) to search for your nearest NC.
+Click [here](https://www.onepa.gov.sg/rc) to search for your nearest NC.
 
 #### One Connect
 
