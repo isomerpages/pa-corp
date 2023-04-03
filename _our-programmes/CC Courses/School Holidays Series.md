@@ -4,7 +4,7 @@ permalink: /our-programmes/cc-courses/school-holidays-series/
 description: ""
 third_nav_title: CC Courses
 ---
-<img style="width:600px" align= "centre" src="/images/Programmes/CC%20Courses/School%20Holidays%20Series%20MayJun%202022%20Cover%20(1).png">
+<img style="width:600px" align="centre" src="/images/Programmes/CC%20Courses/School%20Holidays%20Series%20MayJun%202022%20Cover%20(1).png">
 
 One learns better while having fun!
 
@@ -18,4 +18,4 @@ Click [here](/files/Our%20Programmes/CC%20Courses/SHS%20E-brochure_May%20June%20
 
 For more information on School Holidays Series, visit the [PA Courses](https://www.facebook.com/pacourses) Facebook page or School Holidays Series [KDandFriends](https://www.facebook.com/kdandfriends) Facebook page.
 
-To sign up for courses and programmes, visit [www.onePA.gov.sg](https://www.onepa.gov.sg/). Search ‘SHS’ to find a variety of specially curated courses designed for your little one and you.
+Sign up for [specially curated courses](https://www.onepa.gov.sg/courses/search?course=SHS&amp;days=*&amp;time=all&amp;sort=rel) designed for your little one and you at OnePA.
