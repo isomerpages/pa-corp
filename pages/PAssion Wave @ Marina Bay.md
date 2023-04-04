@@ -3,9 +3,8 @@ title: PAssion Wave @ Marina Bay
 permalink: /our-programmes/passion-wave/passionwave-marinabay/
 description: ""
 ---
-
-<img style="height:300px;width:400px"  align="left" src="/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Marina%20Bay.jpg"><br><br><br><br><br><br><br><br><br>
-PAssion Wave @ Marina Bay is a BCA Green Mark Platinum & Universal Design award eco-friendly building with green features and is strategically located along the Marina Reservoir, the centre boosts an iconic view of a world-class skyline.
+<img style="height:300px;width:400px" align="left" src="/images/Programmes/PAssion%20Wave/PAssion%20Wave%20@%20Marina%20Bay.jpg"><br><br><br><br><br><br><br><br><br>
+PAssion Wave @ Marina Bay is a BCA Green Mark Platinum &amp; Universal Design award eco-friendly building with green features and is strategically located along the Marina Reservoir, the centre boosts an iconic view of a world-class skyline.
 The outlet is ideal for beginners to pick up kayaking, dragon boating and pedal boating.
 
 
@@ -15,11 +14,11 @@ The outlet is ideal for beginners to pick up kayaking, dragon boating and pedal 
 11 Rhu Cross S437440  
 Phone: 62966683  
 Fax: 62944393  
-Email: [PA\_WVMARINABAY@pa.gov.sg](mailto:PA_WVMARINABAY@pa.gov.sg)  
+Email:&nbsp;[PA\_WVMARINABAY@pa.gov.sg](mailto:PA_WVMARINABAY@pa.gov.sg)  
 
 For more information, please click 
 [here](https://linktr.ee/pwmb)<br>
-Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave)Instagram to keep up to date with our latest news!
+Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](https://www.Instagram.com/pa.passionwave) to keep up to date with our latest news!
 
 
 #### Map
