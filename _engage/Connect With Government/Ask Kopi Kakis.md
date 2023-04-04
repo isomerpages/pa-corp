@@ -22,10 +22,9 @@ Residents can click on the links below to download the e-booklets and share with
 (Booklets updated as at 30 Sep 2022)
 
 
-|<a href="/files/Engage/Getting%20ahead%20in%20my%20career%20CHN%20Sep22.pdf"><img style="height:200px;width:250px" align="left" src="/images/Engage/Pa-career-chinese.png"><br><br><br><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults. | <a href="/files/Engage/Caring%20for%20my%20family%20CHN%20Sep22.pdf"><img style="height:200px;width:250px" align="center" src="/images/Engage/pa-family-chinese.png"><br></a>Policies relating to setting up a home and family and initiatives to help with the cost of living. | <a href="/files/Engage/Caring%20for%20our%20seniors%20CHN%20Sep22.pdf"><img style="height:200px;width:250px" align="right" src="/images/Engage/pa-senior-chinese.png"><br><br><br><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing.|
+|<a href="/files/Engage/getting%20ahead%20in%20my%20career%20chn%20mar%2023.pdf"><img style="height:200px;width:250px" align="left" src="/images/Engage/AKK%20Icons/career%20chn.png"><br><br><br><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults. | <a href="/files/Engage/Caring%20for%20my%20family%20CHN%20Sep22.pdf"><img style="height:200px;width:250px" align="center" src="/images/Engage/AKK%20Icons/family%20chn.png"><br></a>Policies relating to setting up a home and family and initiatives to help with the cost of living. | <a href="/files/Engage/caring%20for%20our%20seniors%20chn%20mar%2023.pdf"><img style="height:200px;width:250px" align="right" src="/images/Engage/AKK%20Icons/senior%20chn.png"><br><br><br><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing.|
 | -------- | -------- | -------- |
 |   |  | |
-
 
 
 **Malay Version**<br>
