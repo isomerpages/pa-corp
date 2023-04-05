@@ -15,15 +15,13 @@ With People’s Association as the lead agency, OTH serves 12 stakeholders and o
 
 Commercial tenants are one of the channels through which the People’s Association reach out to residents across all ages, races and places of residence. We invite interested commercial operators to lease commercial spaces in Our Tampines Hub (OTH) to conduct businesses to add vibrancy and provide additional avenues for people to bond together.
 
-For leasing enquiries, please write to [our_tampines_hub@pa.gov.sg](mailto:our_tampines_hub@pa.gov.sg)
-
-
+For leasing enquiries, please check our [available listings (as of 31 Mar 23)](/files/Our%20Network/Our%20Tampines%20Hub/oth%20available%20listings%20for%2031%20march%202023.pdf) or write in to [our_tampines_hub@pa.gov.sg](mailto:our_tampines_hub@pa.gov.sg)
 
 Check out our tenant mix in this video!
 
      
 
-<iframe src="https://player.vimeo.com/video/752413939?h=f68e34ee79&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="960" height="540" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Retail @ OTH"></iframe>
+<iframe src="https://player.vimeo.com/video/752413939?h=f68e34ee79&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="960" height="540" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="Retail @ OTH"></iframe>
 
 
 
@@ -62,7 +60,7 @@ OTH champions Eco-sustainability and no effort is spared in optimising resources
 
 Having achieved BCA’s Green Market (Platinum) certification, OTH boasts a closed loop system of environment solutions and features i.e. solar panels, water catchment, storage and filtration equipment, irrigation features, green walls, natural ventilation, Electric Car Park and charging stations, Ethylene Tetra Fluoro Ethylene roofs and a comprehensive food waste management system supported by an Eco-Digester Centre that converts food waste into 3 by-products, namely non-potable water, liquid plant nutrients and organic fertiliser that is used by the Hub and shared with the community.
 
-<img style="width:600px"  align="center" src="/images/Our%20Network/OTH/OTH Eco 2.png">
+<img style="width:600px" align="center" src="/images/Our%20Network/OTH/OTH Eco 2.png">
 																					 
 ### Smart Nation Technology and Initiatives
 
@@ -70,15 +68,15 @@ OTH is proud to support Smart Nation initiatives in an effort to serve communiti
 
 Taking advantage of innovation and productivity, hub visitors can now enjoy greater convenience and better accessibility.
 
-<img style="width:400px"  align="center" src="/images/Our%20Network/OTH/Images%202022.png">
+<img style="width:400px" align="center" src="/images/Our%20Network/OTH/Images%202022.png">
 
 ### Tampines Kindness Movement
 
-The Tampines Kindness Movement (TKM) is **an offshoot of the Singapore Kindness Movement** and focuses on building a community culture that practices graciousness toward neighbour and environment. OTH is the crucible for the TKM and supports this by promoting ground-up initiatives of Tampines residents with its Ambassadors i.e. volunteers, across different facets of its operations.
+The Tampines Kindness Movement (TKM) is **an offshoot of the Singapore Kindness Movement**&nbsp;and focuses on building a community culture that practices graciousness toward neighbour and environment. OTH is the crucible for the TKM and supports this by promoting ground-up initiatives of Tampines residents with its Ambassadors i.e. volunteers, across different facets of its operations.
 
-The objective is to engender in all visitors a sense of responsibility toward building this culture because everyone plays a part in contributing toward the creation of a **kinder and more gracious culture toward each other and the environment.**
+The objective is to engender in all visitors a sense of responsibility toward building this culture because everyone plays a part in contributing toward the creation of a&nbsp;**kinder and more gracious culture toward each other and the environment.**
 
 <img style="width:600px" align="center" src="/images/Our%20Network/OTH/tkm_beely.jpg"><br>
-<img style="width:600px" align ="center" src="/images/Our%20Network/OTH/Tampinies-Kindness-Movenent.jpg">
+<img style="width:600px" align="center" src="/images/Our%20Network/OTH/Tampinies-Kindness-Movenent.jpg">
 
-<img style="width:600px"  align="center" src="/images/Our%20Network/OTH/Logos.png">
+<img style="width:600px" align="center" src="/images/Our%20Network/OTH/Logos.png">
