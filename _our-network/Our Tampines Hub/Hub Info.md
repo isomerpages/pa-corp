@@ -15,7 +15,7 @@ With People’s Association as the lead agency, OTH serves 12 stakeholders and o
 
 Commercial tenants are one of the channels through which the People’s Association reach out to residents across all ages, races and places of residence. We invite interested commercial operators to lease commercial spaces in Our Tampines Hub (OTH) to conduct businesses to add vibrancy and provide additional avenues for people to bond together.
 
-For open tenders for available spaces at Our Tampines Hub (OTH), please visit [GeBIZ](https://www.gebiz.gov.sg/). Under Opportunities, tick box Agency and search for 'People's Association'. For clarifications, please [email us](mailto:our_tampines_hub@pa.gov.sg).
+For Open tenders of available spaces at Our Tampines Hub (OTH), please visit&nbsp;[GeBIZ](https://www.gebiz.gov.sg/). Under Opportunities, tick box Agency and search for 'People's Association'. For clarifications, please [email us](mailto:our_tampines_hub@pa.gov.sg).
 
 Check out our tenant mix in this video!
 
