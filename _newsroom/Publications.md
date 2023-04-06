@@ -20,12 +20,12 @@ Visit your nearest CC to get a copy, or click [here](/engage/connect-with-govern
 
 To help our seniors be Smart Nation ready, MCI and PA have launched the “Tech Connect” initiative in eight CCs to provide one-on-one tech assistance to our residents who need help with digital devices and services.  PA’s Tech Connect Kakis will also share with you mobile apps and websites that can make your daily living easier. Click on the links below to download a copy of the brochure.
 
-<img style="width:600px"  align="center" src="/images/NewsRoom/Publications/Cover1.jpg"><br>
+<img style="width:600px" align="center" src="/images/NewsRoom/Publications/Cover1.jpg"><br>
 
 <a id="Citizen_Con_Comm"></a>
 ##### Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015
-<img style="width:600px"  align="center" src="/images/NewsRoom/Publications/Cover2.jpg">
+<img style="width:600px" align="center" src="/images/NewsRoom/Publications/Cover2.jpg">
 
-Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015” chronicles the Citizens’ Consultative Committee (CCC)’s development over the last 50 years and how they are the backbone, stitching together the social fabric of Singapore. The CCCs have achieved much during the last 50 years but more commendable is the way the CCCs continue to stay in touch with Singaporeans’ aspirations during decades of rapid nationbuilding. This book showcases their good work and pays tribute to the grassroots leaders and volunteers as we celebrate 50 years of nationhood.
+Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015” chronicles the Citizens’ Consultative Committee (CCC)’s development over the last 50 years and how they are the backbone, stitching together the social fabric of Singapore. The CCCs have achieved much during the last 50 years but more commendable is the way the CCCs continue to stay in touch with Singaporeans’ aspirations during decades of rapid nation building. This book showcases their good work and pays tribute to the grassroots leaders and volunteers as we celebrate 50 years of nationhood.
 
 To read the book, click [here](https://en.calameo.com/read/0045413478a6be90340a5)

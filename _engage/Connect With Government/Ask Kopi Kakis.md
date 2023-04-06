@@ -8,7 +8,7 @@ To communicate government policies to the public in a simple and accessible way,
 
 Residents can learn more about key government policies and schemes that they can benefit from by accessing a set of three easy-to-read AKK policy e-booklets in four languages. They contain bite-sized details on a wide range of topics ranging from healthcare subsidies and housing grants, to transport and education schemes that are of interest to residents at various stages of their lives.
 
-Residents can click on the links below to download the e-booklets and share with their family members and friends.<br>
+Residents can click on the links below to download the e-booklets and share with their family members and friends. Do look out for updated versions later in the year!<br>
 
 **English Version**<br>
 (Booklets updated as at 30 Sep 2022)
