@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### Community Study Areas in Over 270 CCs and RCs 
 
 **Summary**: 
@@ -24,6 +23,6 @@ Each CC and RC centre features a study corner offering an air-conditioned enviro
 
 With temperature checks and safe distancing measures in place, a study corner is a safe, comfortable and quietest place for you to power through those study sessions. 
 
-For the full list of community study areas and their opening hours, click [here](). For details of each study area, please contact the respective CCs, RCs and RNs. 
+For the full list of community study areas and their opening hours, click [here](/files/NewsRoom/CCRCRN%20Study%20corner%202022%20-%20as%20at%2020%20Oct.pdf). For details of each study area, please contact the respective CCs, RCs and RNs. 
 
 Visit your nearest CC to see for yourself, and best of luck on your exams.

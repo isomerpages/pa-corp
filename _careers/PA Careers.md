@@ -26,7 +26,7 @@ Requirements:
 
 
 (Only shortlisted candidates will be notified)
-Successful candidates will be given a 3-year contract.
+Successful candidates will be given a 3-year contract. 
 
 
 #### Constituency Management Executives
