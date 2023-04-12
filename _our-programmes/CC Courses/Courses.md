@@ -49,4 +49,4 @@ Work up a sweat with our trendy ‘Sports and Fitness’ courses. Conquer air, w
 <br>
 Follow PA Courses social media for more updates (FB: www.go.gov.sg/PACoursesFB  IG: www.go.gov.sg/PACoursesIG  YT: www.go.gov.sg/PACoursesYT)
 
-To sign up for courses, visit onePA at www.onepa.gov.sg 
+To sign up for courses, visit onePA at www.onepa.gov.sg
