@@ -14,8 +14,8 @@ What are you waiting for? Start your adventures this school holiday with K.D. be
 
 ### Brochures
 
-Click [here](/files/Our%20Programmes/CC%20Courses/SHS%20E-brochure_May%20June%202022.pdf) to download the School Holidays Series (May - June 2022) Catalogue in English.
+Keep a look out on this space in May 2023 for the next run of courses, and do follow [KDandFriends](https://www.facebook.com/kdandfriends) for more updates!
 
-For more information on School Holidays Series, visit the [PA Courses](https://www.facebook.com/pacourses) Facebook page or School Holidays Series [KDandFriends](https://www.facebook.com/kdandfriends) Facebook page.
+For more information on School Holidays Series, visit the [PA Courses](https://www.facebook.com/pacourses) Facebook page.
 
 Sign up for [specially curated courses](https://www.onepa.gov.sg/courses/search?course=SHS&amp;days=*&amp;time=all&amp;sort=rel) designed for your little one and you at OnePA.
