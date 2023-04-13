@@ -16,6 +16,4 @@ What are you waiting for? Start your adventures this school holiday with K.D. be
 
 Keep a look out on this space in May 2023 for the next run of courses, and do follow [KDandFriends](https://www.facebook.com/kdandfriends) for more updates!
 
-For more information on School Holidays Series, visit the [PA Courses](https://www.facebook.com/pacourses) Facebook page.
-
 Sign up for [specially curated courses](https://www.onepa.gov.sg/courses/search?course=SHS&amp;days=*&amp;time=all&amp;sort=rel) designed for your little one and you at OnePA.
