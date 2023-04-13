@@ -47,6 +47,9 @@ Explore your interests with our variety of ‘Lifestyle and Leisure’ courses. 
 Work up a sweat with our trendy ‘Sports and Fitness’ courses. Conquer air, water, and land while staying up to date with the latest in sports! Keep your body and mind&nbsp;fit and fabulous through the ‘Sports and Fitness’ courses at our CCs now.
 
 <br>
-Follow PA Courses social media for more updates (FB: www.go.gov.sg/PACoursesFB  IG: www.go.gov.sg/PACoursesIG  YT: www.go.gov.sg/PACoursesYT)
+Follow PA Courses social media for more updates:<br>
+[Facebook](https://www.facebook.com/pacourses)<br>
+[Instagram](https://www.instagram.com/pa.courses)<br>
+[Youtube](https://www.youtube.com/channel/UCEW_9QdnGjn_8_xi8yh7PXA)
 
 To sign up for courses, visit onePA at www.onepa.gov.sg
