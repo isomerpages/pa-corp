@@ -21,4 +21,4 @@ For enquiries, please contact Samir Basrawi at Tel: 6684 1827 or email to Samir_
 
 
 **Publication Date : 29 Mar 2023** <br>
-**Closing Date & Time : 12 Apr 2023, 06:00 PM**
+**Closing Date &amp; Time : 12 Apr 2023, 06:00 PM**

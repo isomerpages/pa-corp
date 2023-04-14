@@ -3,7 +3,6 @@ title: Tender for Punggol West CCMC Trade Fair
 permalink: /tender-details/punggolwestccmctradefair/
 description: ""
 ---
-
 Tender for Punggol West CCMC Trade Fair
 =======================================
 
@@ -22,4 +21,4 @@ For enquiries, please contact Chng Hui Yee at Tel: 6444 1128 or email to CHNG_Hu
 
 
 **Publication Date : 29 Mar 2023** <br>
-**Closing Date & Time : 12 Apr 2023, 06:00 PM**
+**Closing Date &amp; Time : 12 Apr 2023, 06:00 PM**
