@@ -19,5 +19,5 @@ Calling Committe : Jurong Spring Zone C Residents' Committee (RC)**
 
 For enquiries, please contact Daniel Yeo at Tel: 6562 4066 or email to Daniel_Yeo@pa.gov.sg.
 
-**Publication Date : 13 Apr 2023** <br>
-**Closing Date &amp; Time : 26 Apr 2023, 06:00 PM**
+**Publication Date : 14 Apr 2023** <br>
+**Closing Date &amp; Time : 27 Apr 2023, 06:00 PM**
