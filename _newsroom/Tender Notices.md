@@ -11,6 +11,7 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 <br>
 
 Please check the below listing(s) for the latest tender notices: <br>
-[Tender for Jurong Spring Zone 'C' Trade Fair](/tender-details/jurongspringzonecrc)<br>
 [Tender for Managing and Operating the Car Park at The Frontier Community Place](/tender-details/tenderforfrontiercarpark) <br>
 [Tender for Woodgrove CCC Trade Fair](/tender-details/woodgroveccctradefair/) <br> [Tender for Punggol West CCMC Trade Fair](/tender-details/punggolwestccmctradefair/) <br>[Tender for Nee Soon Link CCC Trade Fair](/tender-details/neesoonlinkccctradefair/)
+[Tender for Jurong Spring Zone 'C' Trade Fair](/tender-details/jurongspringzonecrc)<br>
+[Tender for Keat Hong CCC Trade Fair](/tender-details/keathongccctradefair/)
