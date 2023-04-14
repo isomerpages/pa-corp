@@ -2,6 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Jurong Spring Zone C RC Trade Fair.md
       - Tender for Nee Soon Link CCC Trade Fair.md
       - Tender for Punggol West CCMC Trade Fair.md
       - Tender for Woodgrove CCC Trade Fair.md
