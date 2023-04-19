@@ -25,6 +25,7 @@ Discover the gems of your neighbourhood with the guidebook!
 * [Pasir Ris - Punggol GRC and Punggol West SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_pasir%20ris-punggol%20grc_20220912.pdf)
 * [Sembawang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sembawang%20compressed.pdf)
 * [Sengkang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sengkang%20(1).pdf)
+* [Tampines GRC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_tampines_20220815.pdf)
 * [Tanjong Pagar GRC and Radin Mas SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_tanjong%20pagar_20220912%20compressed.pdf)
 *  [West Coast GRC and Pioneer SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_west%20coast.pdf)
 *  
