@@ -22,8 +22,12 @@ Discover the gems of your neighbourhood with the guidebook!
 * [Marine Parade GRC, MacPherson and Mountbatten SMCs](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Marine%20Parade_compressed.pdf)
 * [Marsiling - Yew Tee GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_MarsilingYewTee%20compressed.pdf)
 * [Nee Soon GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_NeeSoon%20(1).pdf)
+* [Pasir Ris - Punggol GRC and Punggol West SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_pasir%20ris-punggol%20grc_20220912.pdf)
 * [Sembawang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sembawang%20compressed.pdf)
 * [Sengkang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sengkang%20(1).pdf)
+* [Tanjong Pagar GRC and Radin Mas SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_tanjong%20pagar_20220912%20compressed.pdf)
+*  [West Coast GRC and Pioneer SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_west%20coast.pdf)
+*  
 
 ### Integration and Naturalisation Champions
 
