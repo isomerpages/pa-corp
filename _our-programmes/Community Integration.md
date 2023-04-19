@@ -15,6 +15,8 @@ Discover the gems of your neighbourhood with the guidebook!
 
 * [Aljunied GRC and Hougang SMC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Aljunied-Hougang%20(1).pdf)
 * [Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Ang%20Mo%20Kio%20(1).pdf)
+* [Bishan - Toa Payoh GRC and Marymount SMC](/files/Our%20Programmes/Community%20Integration/welcome%20booklet_bishan-toa%20payoh-compressed.pdf)
+* [Chua Chu Kang GRC and Hong Kah North SMC](/files/Our%20Programmes/Community%20Integration/welcome%20booklet_chuachukang_compressed.pdf)
 * [East Coast GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_East%20Coast%20(1).pdf)
 * [Holland-Bukit Timah GRC and Bukit Panjang SMC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_HollandBT1623_compressed.pdf)
 * [Jalan Besar GRC and Potong Pasir SMC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Jalan%20Besar1654-compressed.pdf)
@@ -28,7 +30,7 @@ Discover the gems of your neighbourhood with the guidebook!
 * [Tampines GRC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_tampines_20220815.pdf)
 * [Tanjong Pagar GRC and Radin Mas SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_tanjong%20pagar_20220912%20compressed.pdf)
 *  [West Coast GRC and Pioneer SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_west%20coast.pdf)
-*  
+
 
 ### Integration and Naturalisation Champions
 
