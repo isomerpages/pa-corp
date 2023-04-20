@@ -8,7 +8,7 @@ Tender for Nee Soon Link CCC Trade Fair
 
 **Trade Fair Duration: 26 May to 25 Jun 2023 (31 days) <br>
 Venue: Land Parcel in front of Blk 412/413 Yishun Ring Road<br>
-Calling Committe : Nee Soon Link Citizens' Consultative Committee (CCC)**
+Calling Committee: Nee Soon Link Citizens' Consultative Committee (CCC)**
 
 * * *
 
