@@ -10,7 +10,7 @@ Refer to Annex A - para 3 of the Trade Fair tender document on the additional re
 
 **Trade Fair Duration: 1 Jun to 30 Jun 2023 (30 days) <br>
 Venue: Open Field beside Causeway Point  
-Calling Committe : Woodgrove Citizens’ Consultative Committee (CCC)**
+Calling Committee: Woodgrove Citizens’ Consultative Committee (CCC)**
 
 * * *
 
