@@ -12,4 +12,5 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 
 Please check the below listing(s) for the latest tender notices: <br>
 [Tender for Jurong Spring Zone 'C' Trade Fair](/tender-details/jurongspringzonecrc)<br>
-[Tender for Keat Hong CCC Trade Fair](/tender-details/keathongccctradefair/)<br>[Tender for Braddell Heights CCC Trade Fair]( /tender-details/braddellheightsccctradefair)
+[Tender for Keat Hong CCC Trade Fair](/tender-details/keathongccctradefair/)<br>[Tender for Braddell Heights CCC Trade Fair]( /tender-details/braddellheightsccctradefair)<br>
+[Tender for Bukit Batok East CCC Trade Fair](/tender-details/bbeccctradefair)
