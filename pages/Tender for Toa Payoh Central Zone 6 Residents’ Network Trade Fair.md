@@ -8,7 +8,7 @@ Tender for Toa Payoh Central Zone 6 RN Trade Fair
 
 **Trade Fair Duration: 25 May to 11 June 2023 (18 days) <br>
 Venue: Open Space in front of Toa Payoh Courts 
-<br>Calling Committe : Toa Payoh Central Zone 6 Residents’ Network (RN)**
+<br>Calling Committee: Toa Payoh Central Zone 6 Residents’ Network (RN)**
 
 * * *
 
