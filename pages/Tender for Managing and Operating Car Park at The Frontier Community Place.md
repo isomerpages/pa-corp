@@ -24,4 +24,4 @@ For enquiries, please email to tan_shao_koon@pa.gov.sg and Subashiri.RPandian@cw
 
 
 **Publication Date : 27 Mar 2023** <br>
-**Closing Date & Time : 13 Apr 2023, 06:00 PM**
+**Closing Date &amp; Time : 13 Apr 2023, 06:00 PM**
