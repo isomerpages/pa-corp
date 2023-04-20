@@ -8,7 +8,7 @@ Tender for Punggol West CCMC Trade Fair
 
 **Trade Fair Duration: 30 May to 30 Jun 2023 (32 days) <br>
 Venue: Open Field Beside Punggol MRT Station Exit D <br>
-Calling Committe : Punggol West Community Club Management Committee (CCMC)**
+Calling Committee: Punggol West Community Club Management Committee (CCMC)**
 
 * * *
 
