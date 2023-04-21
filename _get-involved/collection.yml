@@ -1,9 +1,0 @@
-collections:
-  get-involved:
-    output: true
-    order:
-      - 60th Anniversary.md
-      - Visit onePA for Courses.md
-      - Join Our Community.md
-      - Be Our Volunteer.md
-      - Connect with Government.md
