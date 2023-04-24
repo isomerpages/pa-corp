@@ -8,7 +8,7 @@ Tender for Bukit Panjang Zone 8 RC Trade Fair
 
 **Trade Fair Duration: 27 May 2023 to 10 June 2023 (15 days)  
 Venue: Blk 413 Saujana Road, Hard Court 
-<br>Calling Committe : Bukit Panjang Zone 8 Residents’ Committee (RC)**
+<br>Calling Committee: Bukit Panjang Zone 8 Residents’ Committee (RC)**
 
 * * *
 

@@ -7,7 +7,7 @@ Tender for Braddell Heights CCC Trade Fair
 =======================================
 **Trade Fair Duration: 24 Jun to 21 Jul 2023 (28 days) <br>
 Venue: Grass Patch nearer to Blk 241 &amp; 246 Serangoon Ave 3 and Blk 253 (facing Blk 255 &amp; 237), 254 and 263 Serangoon Central Drive<br>
-Calling Committe : Braddell Heights Citizens’ Consultative Committee (CCC)**
+Calling Committee: Braddell Heights Citizens’ Consultative Committee (CCC)**
 * * *
 ### Details
 (1) For request of soft copy tender documents, please email to Dragon_Tan@pa.gov.sg.

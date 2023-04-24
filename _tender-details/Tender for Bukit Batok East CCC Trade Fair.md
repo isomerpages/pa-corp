@@ -10,7 +10,7 @@ Venue: <br>
 (i) Open space along Bukit Batok East (BBE)  Ave 4 from Blk 272 to Blk 280<br>
 (ii) Open space in between the 2 coffeeshop at Blk 273 and Blk 279 BBE Ave 4<br>
 (iii) Open space in front of void deck of Blk 272 and Blk 280 BBE Ave 4<br>
-Calling Committe : Bukit Batok East Citizens’ Consultative Committee (CCC)**
+Calling Committee: Bukit Batok East Citizens’ Consultative Committee (CCC)**
 * * *
 ### Details
 (1) For request of soft copy tender documents, please email to chow_yeow_kum@pa.gov.sg.

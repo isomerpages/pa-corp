@@ -11,7 +11,7 @@ Date: 30 Mar 2023 <br>
 Time: 2.00pm <br>
 Venue: The Frontier Community Club <br>
 Only tenderers who have attended the mandatory Pre-tender briefing will be considered in the tender evaluation. 
-<br>Calling Committe : The Frontier Community Place FMC**
+<br>Calling Committee: The Frontier Community Place FMC**
 
 * * *
 

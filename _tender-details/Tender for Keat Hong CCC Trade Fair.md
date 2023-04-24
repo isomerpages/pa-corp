@@ -7,7 +7,7 @@ Tender for Keat Hong CCC Trade Fair
 =======================================
 **Trade Fair Duration: 22 May to 15 Jun 2023 (25 days) <br>
 Venue:  Keat Hong Square, open space hardcourt in front of Blk 355 Choa Chu Kang Loop<br>
-Calling Committe : Keat Hong Citizens’ Consultative Committee (CCC)**
+Calling Committee Keat Hong Citizens’ Consultative Committee (CCC)**
 * * *
 ### Details
 (1) For request of soft copy tender documents, please email to Claire_LIM@pa.gov.sg.
