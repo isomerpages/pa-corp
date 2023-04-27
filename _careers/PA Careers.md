@@ -7,7 +7,7 @@ The People's Association's mission is to build and to bridge communities in achi
 
 How Do I Apply?
 
-If you have what it takes, we want to hear from you! Please submit your online application [here](https://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&brand=people%27s+association&job-sector). Information can also be found at the [Singapore Public Service Job Portal.](https://www.careers.gov.sg/)
+If you have what it takes, we want to hear from you! Please submit your online application [here](https://go.gov.sg/pa-careers). Information can also be found at the [Singapore Public Service Job Portal.](https://www.careers.gov.sg/)
 
 * Constituency Managers
 * Constituency Management Executives
