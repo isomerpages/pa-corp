@@ -11,7 +11,8 @@ The key PAssionArts programmes include:
 * <a href="#Community_Arts">Community Arts and Culture Clubs</a>
 * <a href="#Passion_Arts">PAssionArts Festival</a>
 * <a href="#PassionArts_volunteer">PAssionArts Volunteer Corps</a>
-*  <a href="#Passion_Community">PAssionArts Community Art Gallery</a>
+*  <a href="#Passion_Community">
+*  PAssionArts Community Art Gallery</a>
 * <a href="#Passion_Hotspot">PAssionArts Hotspot</a>
 * <a href="#Passion_Inspi">PAssionArts Inspiration Series</a>
 
@@ -19,7 +20,8 @@ For more information, check out our [Facebook page](http://www.facebook.com/PAss
 
 <a id="Community_Arts"></a>
 ### Community Arts and Culture Clubs
-<img style="width:600px" src="/images/Our%20Programmes/commarts-cacc.jpg">
+
+<img style="width:600px" src="/images/Our%20Programmes/commsart-cacc2.jpg">
 
 The Community Arts &amp; Culture Clubs (CACCs) comprise like-minded volunteers with a passion in promoting community arts.&nbsp; The CACC’s main objective is to leverage on arts and culture to reach out and engage residents of all ages, races and estates and bringing arts and culture accessible to the community.&nbsp; The many interesting programmes offered will contribute in making each constituency and neighbourhood a vibrant arts and culture scene with its own unique art identity.
 
