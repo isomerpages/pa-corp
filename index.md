@@ -15,15 +15,15 @@ sections:
       key_highlights:
         - title: Join as a Volunteer
           description: Read More
-          url: /engage/Be-Our-Volunteer
+          url: /engage/be-our-volunteer/
         - title: Connect with Government
           description: Read More
-          url: /engage/Connect-With-Government/Connect-with-Government
+          url: engage/connect-with-government/connect-with-government/
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
       button: Read more
-      url: /engage/Join-Your-Community
+      url: /engage/join-your-community/
   - resources:
       title: News & Speeches
       button: Read More
