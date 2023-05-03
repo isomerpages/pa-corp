@@ -30,7 +30,7 @@ sections:
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
-      url: /Resource/news/Residents-Can-Now-Download-the-MyPAssion-Mobile-App-on-Their-Phones
+      url: /resource/news/residents-can-now-download-the-mypassion-mobile-app-on-their-phones/
       alt: Image alt text
       image: /images/Passion Mobile.png
       title: MyPassion Mobile App
