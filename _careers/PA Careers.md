@@ -37,4 +37,4 @@ You will support Community Club (CC) operations; serve CC customers by actively 
 
 You will assist Residents' Committees (RCs) to widen their outreach and deepen engagement with residents. You will assist RCs to promote and market RC activities, courses and events, form and develop Interest Groups, and attract new customers. You will assist in the operations of RC centres, RC accounts and provide administrative support for RCs.
 
-(Only shortlisted candidates will be notified)![](/images/Careers/fa_pa%20poster%20-%20general_poster%202.jpg)
+(Only shortlisted candidates will be notified)!
