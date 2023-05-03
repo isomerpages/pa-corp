@@ -15,22 +15,22 @@ sections:
       key_highlights:
         - title: Join as a Volunteer
           description: Read More
-          url: /engage/Be-Our-Volunteer
+          url: /engage/be-our-volunteer/
         - title: Connect with Government
           description: Read More
-          url: /engage/Connect-With-Government/Connect-with-Government
+          url: engage/connect-with-government/connect-with-government/
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
       button: Read more
-      url: /engage/Join-Your-Community
+      url: /engage/join-your-community/
   - resources:
       title: News & Speeches
       button: Read More
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: READ MORE
-      url: /Resource/news/Residents-Can-Now-Download-the-MyPAssion-Mobile-App-on-Their-Phones
+      url: /resource/news/residents-can-now-download-the-mypassion-mobile-app-on-their-phones/
       alt: Image alt text
       image: /images/Passion Mobile.png
       title: MyPassion Mobile App

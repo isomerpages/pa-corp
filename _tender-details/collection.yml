@@ -2,8 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Punggol 21 CC Lift Maintenance.md
       - Toa Payoh East CCC Trade Fair.md
       - Tender for Bukit Batok East CCC Trade Fair.md
       - Braddell Heights CCC Trade Fair.md
-      - Tender for Keat Hong CCC Trade Fair.md
-      - Tender for Jurong Spring Zone C RC Trade Fair.md
