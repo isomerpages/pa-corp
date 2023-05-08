@@ -1,6 +1,6 @@
 ---
 title: Affordability of Stall Rentals at Trade Fairs and Bazaars
-permalink: /news-and-speeches/news/permalink/
+permalink: /news-and-speeches/news/affordability-of-stall-rentals-at-trade-fairs-and-bazaars/
 date: 2023-04-21
 layout: post
 description: ""
