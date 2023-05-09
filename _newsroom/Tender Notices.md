@@ -12,5 +12,3 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 Please check the below listing(s) for the latest tender notices: <br>
 [Tender for Punggol 21 CC Lift Maintenance](/tender-details/punggol21liftmain) <br>
 [Tender for Toa Payoh East CCC Trade Fair](/tender-details/toapayoheastccctradefair) <br>
-[Tender for Braddell Heights CCC Trade Fair]( /tender-details/braddellheightsccctradefair)<br>
-[Tender for Bukit Batok East CCC Trade Fair](/tender-details/bbeccctradefair)
