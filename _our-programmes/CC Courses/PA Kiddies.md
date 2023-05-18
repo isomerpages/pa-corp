@@ -1,6 +1,6 @@
 ---
-title: School Holidays Series
-permalink: /our-programmes/cc-courses/school-holidays-series/
+title: PA Kiddies
+permalink: /our-programmes/cc-courses/pa-kiddies/
 description: ""
 third_nav_title: CC Courses
 ---
