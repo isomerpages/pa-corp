@@ -12,7 +12,7 @@ Calling Committee: Woodlands Citizens’ Consultative Committee (CCC)**
 ### Details
 (1) For request of soft copy tender documents, please email to Haja_Shariff_Abdul_Karis@pa.gov.sg.
 
-(2) For request of hard copy tender documents, please collect at Toa Payoh East Community Club reception counter located at 160 Lorong 6 Toa Payoh, S’pore 319380 during operating hours from 10.00am to 6.00pm daily, except Public Holidays.
+(2) For request of hard copy tender documents, please collect at Woodlands Zone 1 Residents' Network reception counter located at Blk 832 Woodlands Street 83 #01-65, S’pore 730832 during operating hours from 10.00am to 6.00pm daily, except Public Holidays.
 
 <br>
 For enquiries, please contact Haja Shariff at Tel: 6368 9938 or email to Haja_Shariff_Abdul_Karis@pa.gov.sg.
