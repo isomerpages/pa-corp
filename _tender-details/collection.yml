@@ -2,5 +2,5 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Woodlands CCC Trade Fair.md
       - Tender for Punggol 21 CC Lift Maintenance.md
-      - Toa Payoh East CCC Trade Fair.md
