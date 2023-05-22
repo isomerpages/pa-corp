@@ -10,7 +10,7 @@ Come onboard NACLI’s learning journey today!  Download the latest copy of our 
 
 ##### Current Issue (Apr - Jun 2023)
 
-[<img src="/images/Our%20Network/NACLI/naclicourses-issue7-apr-jun-2023%20(Cover).png">](/files/Our%20Network/NACLI/Learn%20With%20NACLI/naclicourses-issue7-apr-jun-2023-v2.pdf)
+[<img src="/images/Our%20Network/NACLI/naclicourses-issue7-apr-jun-2023%20(Cover).png">](https://go.gov.sg/naclicourses-issue7-apr-jun-2023)
 
 ##### Past Issues
 
