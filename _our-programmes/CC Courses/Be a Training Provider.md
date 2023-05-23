@@ -1,6 +1,6 @@
 ---
 title: Be a Training Provider
-permalink: /ur-programmes/cc-courses/be-a-training-provider/
+permalink: /our-programmes/cc-courses/be-a-training-provider/
 description: ""
 third_nav_title: CC Courses
 ---
@@ -16,7 +16,7 @@ Do you have the passion to impart your skills and knowledge to the community?
 
 Do you have the interest to bring people together by partnering Grassroots Organisations to offer courses to residents at PA premises (e.g. CCs, RCs, Specialist CCs)?
 
-Are you an experienced trainer or own a training business entity in the area of  'Music, Dance & Drama', 'Personal & Career Skills', and/or 'Arts, Crafts & Hobbies'?
+Are you an experienced trainer or own a training business entity in the area of  'Music, Dance &amp; Drama', 'Personal &amp; Career Skills', and/or 'Arts, Crafts &amp; Hobbies'?
 
 If yes to all of above, you are welcome to apply to be a PA Training Provider!  
 
@@ -24,7 +24,7 @@ If yes to all of above, you are welcome to apply to be a PA Training Provider!
 
 #### New Application:
 
-Thank you for your interest to be a PA Training Provider!  The submission of New Trainer/Operator application form has closed on **15 March 2023**.  Our next application period will be in September 2023.  Please send in your application when the application window is opened.  
+Thank you for your interest to be a PA Training Provider!  The submission of New Trainer/Operator application form has closed on&nbsp;**15 March 2023**.&nbsp; Our next application period will be in September 2023.&nbsp; Please send in your application when the application window is opened.  
 
 For any enquiry, please email to [PA_Talent_Times@pa.gov.sg](mailto: PA_Talent_Times@pa.gov.sg).
 
