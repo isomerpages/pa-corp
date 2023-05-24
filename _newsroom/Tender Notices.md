@@ -11,5 +11,6 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 <br>
 
 Please check the below listing(s) for the latest tender notices: <br>
+[Tender for Chinatown Mid-Autumn Fair](/tender-details/cfcmaf2023)<br>
 [Tender for Woodlands CCC Trade Fair](/tender-details/woodlandsccc8jul2023) <br>
 [Tender for Punggol 21 CC Lift Maintenance](/tender-details/punggol21liftmain) <br>

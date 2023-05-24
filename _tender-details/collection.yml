@@ -2,5 +2,6 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Chinatown Mid Autumn Fair.md
       - Tender for Woodlands CCC Trade Fair.md
       - Tender for Punggol 21 CC Lift Maintenance.md
