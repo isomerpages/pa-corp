@@ -1,5 +1,5 @@
 ---
-title: Tender for Chinatown Mid Autumn Fair
+title: Tender for Chinatown Mid Autumn Festival Fair
 permalink: /tender-details/cfcmaf2023/
 description: ""
 ---
