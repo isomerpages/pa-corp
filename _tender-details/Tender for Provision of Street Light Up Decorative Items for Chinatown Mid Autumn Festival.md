@@ -4,7 +4,7 @@ title: Tender for Provision of Street Light Up Decorative Items for Chinatown
 permalink: /tender-details/cfcmaf2023lightup/
 description: ""
 ---
-Chinatown Mid-Autumn 2023 Street Light Up Decorative Items (Including Manufacturing and Management)
+Street Light Up Decorative Items (Including Manufacturing and Management) for Chinatown Mid-Autumn 2023 
 =======================================
 **A mandatory Pre-tender briefing will be held on: <br>
 Date: 6 June 2023 <br>
