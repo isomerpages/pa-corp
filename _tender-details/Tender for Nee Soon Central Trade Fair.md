@@ -5,6 +5,8 @@ description: ""
 ---
 Tender for Nee Soon Central Trade Fair
 =======================================
+Trade Fair Duration: 19 Aug to Sep 2023 (16 days) <br>
+Venue: Hardcourt in front of Blk 749 Yishun St 72 next to Yishun MRT station and Sheltered Linkway leading towa <br>
 A mandatory Pre-tender briefing will be held on: <br>
 Date: 7 June 2023 <br>
 Time: 4.00pm <br>
