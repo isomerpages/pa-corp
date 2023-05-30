@@ -2,6 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Bishan East Sin Ming Trade Fair.md
       - Tender for Nee Soon Central Trade Fair.md
       - Tender for Provision of Street Light Up Decorative Items for Chinatown
         Mid Autumn Festival.md
