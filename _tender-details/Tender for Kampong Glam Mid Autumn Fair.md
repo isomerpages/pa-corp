@@ -8,7 +8,7 @@ Tender for Kampong Glam Mid-Autumn Fair
 **Tenderers may submit their tender offers for both fairs: <br>**
 **(a) Mid-Autumn Festival Fair <br>**
  &nbsp;&nbsp;**Fair Duration: 15 Sep to 29 Sep 2023 (15 days);  <br>**
-**(b) Trade Fair <br>**
+**(b) Kampong Glam CCC Trade Fair <br>**
  &nbsp;&nbsp;**Fair Duration: 30 Sep to 22 Oct 2023 (23 days)
 <br>Fair Venue: Albert Pedestrian Mall bounded by Waterloo Street and Albert Street<br>**
 
