@@ -7,7 +7,7 @@ Tender for Woodlands CCC Trade Fair
 =======================================
 **Trade Fair Duration: 8 Jul to 28 Jul 2023 (21 days) <br>
 Venue: Along Woodlands Avenue 7 (from Woodlands Drive 71 till Woodlands Avenue 4) and Along Woodlands Drive 71<br>
-Calling Committee: Woodlands Citizens’ Consultative Committee (CCC)**
+
 * * *
 ### Details
 (1) For request of soft copy tender documents, please email to Haja_Shariff_Abdul_Karis@pa.gov.sg.
@@ -17,5 +17,6 @@ Calling Committee: Woodlands Citizens’ Consultative Committee (CCC)**
 <br>
 For enquiries, please contact Haja Shariff at Tel: 6368 9938 or email to Haja_Shariff_Abdul_Karis@pa.gov.sg.
 
+**Calling Committee: Bishan East-Sin Ming Citizens’ Consultative Committee (CCC)**<br>
 **Publication Date : 19 May 2023** <br>
 **Closing Date &amp; Time : 2 Jun 2023, 06:00 PM**
