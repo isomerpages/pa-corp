@@ -14,12 +14,12 @@ Tender for Kampong Glam Mid-Autumn Fair
 
 * * *
 ### Details
-(1) For request of soft copy tender documents, please email to Haja_Shariff_Abdul_Karis@pa.gov.sg.
+(1) For request of soft copy tender documents, please email to Shermin_Tow@pa.gov.sg and PA_KampongGlamCC@pa.gov.sg.
 
-(2) For request of hard copy tender documents, please collect at Woodlands Zone 1 Residents' Network reception counter located at Blk 832 Woodlands Street 83 #01-65, S’pore 730832 during operating hours from 10.00am to 6.00pm daily, except Public Holidays.
+(2) For request of hard copy tender documents, please collect at Kampong Glam reception counter located at Blk 832 Woodlands Street 83 #01-65, S’pore 730832 during operating hours from 10.00am to 6.00pm daily, except Public Holidays.
 
 <br>
-For enquiries, please contact Haja Shariff at Tel: 6368 9938 or email to Haja_Shariff_Abdul_Karis@pa.gov.sg.
+For enquiries, please contact Haja Shariff at Tel: 6368 9938 or email to Shermin_Tow@pa.gov.sg and PA_KampongGlamCC@pa.gov.sg.
 
 **Calling Committee: Kampong Glam Citizens’ Consultative Committee (CCC)**
 **Publication Date : 1 Jun 2023** <br>
