@@ -5,8 +5,8 @@ description: ""
 ---
 Tender for Woodlands CCC Trade Fair
 =======================================
-Trade Fair Duration: 8 Jul to 28 Jul 2023 (21 days) <br>
-Venue: Along Woodlands Avenue 7 (from Woodlands Drive 71 till Woodlands Avenue 4) and Along Woodlands Drive 71
+**Trade Fair Duration: 8 Jul to 28 Jul 2023 (21 days) <br>
+Venue: Along Woodlands Avenue 7 (from Woodlands Drive 71 till Woodlands Avenue 4) and Along Woodlands Drive 71**
 
 * * *
 ### Details
