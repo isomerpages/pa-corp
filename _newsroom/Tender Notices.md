@@ -13,4 +13,4 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 Please check the below listing(s) for the latest tender notices: <br>
 [Tender for Provision of Street Light Up Decorative Items for Chinatown Mid-Autumn Festival](/tender-details/cfcmaf2023lightup) <br>
 [Tender for Chinatown Mid-Autumn Festival Fair](/tender-details/cfcmaf2023)<br>
-[Tender for Woodlands CCC Trade Fair](/tender-details/woodlandsccc8jul2023) <br>
+[Tender for Woodlands Trade Fair](/tender-details/woodlandsccc8jul2023) <br>
