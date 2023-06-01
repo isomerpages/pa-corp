@@ -3,7 +3,7 @@ title: Tender for Bishan East Sin Ming CCC Trade Fair
 permalink: /tender-details/besmtradefair/
 description: ""
 ---
-Tender for Bishan East - Sin Ming CCCTrade Fair
+Tender for Bishan East - Sin Ming CCC Trade Fair
 =======================================
 **Trade Fair Duration: 11 Aug to 26 Aug 2023 (16 days) <br>
 Venue:  Open space beside Bishan Bus Interchange** 
