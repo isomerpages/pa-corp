@@ -2,6 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Canberra CCC Trade Fair.md
       - Tender for Kampong Glam Mid Autumn Fair.md
       - Tender for Bishan East Sin Ming CCC Trade Fair.md
       - Tender for Nee Soon Central CCC Trade Fair.md

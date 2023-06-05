@@ -11,9 +11,10 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 <br>
 
 Please check the below listing(s) for the latest tender notices: <br>
+[Tender for Canberra CCC Trade Fair](/tender-details/cccctf)<br>
 [Tender for Nee Soon Central CCC Trade Fair](/tender-details/nscccctradefair/)<br>
 [Tender for Bishan East Sin Ming CCC Trade Fair](/tender-details/besmtradefair/)<br>
 [Tender for Kampong Glam Mid Autumn Fair](/tender-details/kgmaffair/)<br>
 [Tender for Provision of Street Light Up Decorative Items for Chinatown Mid-Autumn Festival](/tender-details/cfcmaf2023lightup) <br>
 [Tender for Chinatown Mid-Autumn Festival Fair](/tender-details/cfcmaf2023)<br>
-[Tender for Woodlands Trade Fair](/tender-details/woodlandsccc8jul2023) <br>
+ 
