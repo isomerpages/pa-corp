@@ -2,6 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Provision of Security Services at Rivervale Community Club.md
       - Tender for Canberra CCC Trade Fair.md
       - Tender for Kampong Glam Mid Autumn Fair.md
       - Tender for Bishan East Sin Ming CCC Trade Fair.md
