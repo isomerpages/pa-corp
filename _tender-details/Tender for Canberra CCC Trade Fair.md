@@ -11,7 +11,7 @@ Venue: Open space in front of Blk 319, 320 and 341 Sembawang Close**
 **A mandatory Pre-Tender Briefing will be held on: <br>
 Date: 9 Jun 2023 <br>
 Time: 3.00pm to 4.00pm <br>
-Venue: Canberra Community Club,** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&amp;bnbs;Theatrette (Level 1) <br>
+Venue: Canberra Community Club,** <br> &nbsp; &nbsp; **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theatrette (Level 1**) <br>
 
 Only tenderers who have attended the mandatory Pre-tender briefing will be considered in the tender evaluation.
 
