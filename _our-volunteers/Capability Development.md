@@ -5,7 +5,7 @@ description: ""
 ---
 #### National Community Leadership Institute
 
-Leadership development is crucial to the continued excellence and growth of community organisations. As the training arm of the People’s Association (PA), the [National Community Leadership Institute (NACLI)](/our-network/National-Community-Leadership-Institute/NACLI/) offers a wide range of community leadership development programmes in various modalities to equip grassroots leaders and PA staff with practical and applied skills to carry out their work in the community effectively. 
+Leadership development is crucial to the continued excellence and growth of community organisations. As the training arm of the People’s Association (PA), the [National Community Leadership Institute (NACLI)](/our-network/national-community-leadership-institute/nacli/) offers a wide range of community leadership development programmes in various modalities to equip grassroots leaders and PA staff with practical and applied skills to carry out their work in the community effectively. 
 
 ####  Learn with NACLI
 
