@@ -5,8 +5,8 @@ description: ""
 ---
 Tender for Jalan Kayu Zone 3 RC Trade Fair
 =======================================
-**Trade Fair Duration: 8 Jul to 28 Jul 2023 (21 days) <br>
-Venue: 71**
+**Trade Fair Duration: 11 Sep to 22 Sep 2023 (12 days) <br>
+Venue: Void Decks and Main Pavements in front of Blk 542A, Blk 542B, Blk 529 and Blk 530 of Serangoon North Ave 3 and Serangoon North Ave 4**
 
 * * *
 ### Details
