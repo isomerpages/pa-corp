@@ -20,7 +20,7 @@ description: ""
 	</tr>
 <tr>
 		<td><a href="/our-programmes/racial-harmony">Racial Harmony</a><br>Enjoy programmes that <br>enhance understanding,<br> respect, mutual support&nbsp;and <br>interaction among residents<br> of different backgrounds.<br></td> 
-		<td><div style="position:relative;left:34px"><a href="/our-programmes/Family-life">Family Life</a><br>Participate in our family programmes <br>to strengthen family bonds and <br>build a strong&nbsp;community.<br></div></td>
+		<td><div style="position:relative;left:34px"><a href="/our-programmes/family-life/">Family Life</a><br>Participate in our family programmes <br>to strengthen family bonds and <br>build a strong&nbsp;community.<br></div></td>
 		<td><a href="/our-programmes/Community-Sports"> Community  Sports</a><br>Enjoy the thrills and spills of our exciting sports events<br> that not only bring people<br>&nbsp;together but also build character.<br>
 	</td></tr>
 <tr>
