@@ -29,7 +29,7 @@ description: ""
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-womensprogrammes_edited.jpg"></td>
 	</tr>
 <tr>
-		<td><a href="/our-programmes/Community-integration">Community Integration</a><br>New to Singapore? Get<br> yourself integrated with your<br> new environment with our<br> various&nbsp;community<br> programmes<br></td>
+		<td><a href="/our-programmes/community-integration/">Community Integration</a><br>New to Singapore? Get<br> yourself integrated with your<br> new environment with our<br> various&nbsp;community<br> programmes<br></td>
 		<td><div style="position:relative;left:34px;"><a href="/our-programmes/cc-courses/courses/">CC Courses</a><br>Hone your skills or acquire new ones.<br> From cooking to dance and sports,<br>&nbsp;there  is a course  for everyone.<br></div></td>
 		<td><a href="/our-programmes/womens-programmes"> Women's Programmes</a><br>Learn how PA encourages women to lead active lives<br> and contribute to  <br>the&nbsp;community.<br>
 			</td></tr>
