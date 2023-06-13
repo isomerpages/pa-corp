@@ -40,7 +40,7 @@ description: ""
 	</tr>
 	<tr>
 		<td><a href="/our-programmes/passion-wave/details/">Passion Wave</a><br>PA PAssion WaVe's outlets <br>offer a range of land and <br>water sports programmes<br> such as&nbsp;abseiling and power boating<br></td>
-		<td><div style="position:relative;left:34px;"><a href="our-programmes/emergency-preparedness/">Emergency Preparedness</a><br>PA's Emergency Preparedness<br> Groups and Community Emergency Response&nbsp;Teams shows you how to<br> react during emergencies.<br></div></td>
+		<td><div style="position:relative;left:34px;"><a href="/our-programmes/emergency-preparedness/">Emergency Preparedness</a><br>PA's Emergency Preparedness<br> Groups and Community Emergency Response&nbsp;Teams shows you how to<br> react during emergencies.<br></div></td>
 		<td><a href="/our-programmes/passion-card"> Passion Card</a><br>The PAssion Card offers exclusive privileges to its  members for PA's       exciting <br> range of courses and       activities.<br>
 			</td></tr>
 	<tr>
