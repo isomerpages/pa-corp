@@ -2,6 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Jalan Kayu Zone 3 RC Trade Fair.md
       - Tender for Bedok Reservoir Punggol Trade Fair.md
       - Tender for Provision of Security Services at Rivervale Community Club.md
       - Tender for Canberra CCC Trade Fair.md
@@ -11,4 +12,3 @@ collections:
       - Tender for Provision of Street Light Up Decorative Items for Chinatown
         Mid Autumn Festival.md
       - Tender for Chinatown Mid Autumn Festival Fair.md
-      - Tender for Woodlands Trade Fair.md
