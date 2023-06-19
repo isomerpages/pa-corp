@@ -2,8 +2,8 @@ collections:
   sparks-volunteer-programs:
     output: true
     order:
-      - Health & Wellness/.keep
       - Arts & Heritage/.keep
       - Caring for our community/.keep
       - Going Green Together/.keep
+      - Health & Wellness/.keep
       - Nurturing Our Children/.keep
