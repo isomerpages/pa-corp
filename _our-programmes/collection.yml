@@ -2,10 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - SPARKS@Bukit Canberra/.keep
-      - SPARKS@Bukit Canberra/About us.md
-      - SPARKS@Bukit Canberra/Volunteering opportunities.md
-      - SPARKS@Bukit Canberra/Contact us.md
       - PA's Programmes.md
       - Active Ageing.md
       - CC Courses/.keep
@@ -30,3 +26,7 @@ collections:
       - Racial Harmony.md
       - Women's Programmes.md
       - Youth.md
+      - SPARKS@Bukit Canberra/.keep
+      - SPARKS@Bukit Canberra/About us.md
+      - SPARKS@Bukit Canberra/Volunteering opportunities.md
+      - SPARKS@Bukit Canberra/Contact us.md
