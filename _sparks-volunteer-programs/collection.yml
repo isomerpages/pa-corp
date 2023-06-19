@@ -2,4 +2,5 @@ collections:
   sparks-volunteer-programs:
     output: true
     order:
+      - Caring for our community/.keep
       - Arts & Heritage/.keep
