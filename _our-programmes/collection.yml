@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - SPARKS@Bukit Canberra/Contact us.md
       - SPARKS@Bukit Canberra/Volunteering opportunities.md
       - SPARKS@Bukit Canberra/About Us.md
       - SPARKS@Bukit Canberra/.keep
