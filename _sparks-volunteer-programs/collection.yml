@@ -1,4 +1,5 @@
 collections:
   sparks-volunteer-programs:
     output: true
-    order: []
+    order:
+      - Arts & Heritage/.keep
