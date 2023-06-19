@@ -2,9 +2,9 @@ collections:
   sparks-volunteer-programs:
     output: true
     order:
-      - Smart Nation/.keep
       - Arts & Heritage/.keep
       - Caring for our community/.keep
       - Going Green Together/.keep
       - Health & Wellness/.keep
       - Nurturing Our Children/.keep
+      - Smart Nation/.keep
