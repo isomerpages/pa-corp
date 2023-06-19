@@ -14,5 +14,6 @@ All of us have 168 hours per week. Through the 2: 168 movement, we invite you to
 Let’s ignite the kampung spirit by a simple gesture of setting aside 2 hours for a good cause.
 
 ![SPARKS@Bukit Canberra Community Lounge](/images/Our%20Programmes/sparks@bukit%20canberra%20community%20lounge.jpg)
+
 <b>Community Lounge</b><br>
 We are located at Bukit Canberra level 1 with a community lounge that offers a relaxing and cosy space for studying, discussions and networking for youths and PMETs. SPARKS@Bukit Canberra is opened daily from 10am to 6pm, except public holidays.
