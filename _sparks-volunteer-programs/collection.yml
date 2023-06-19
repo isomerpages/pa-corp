@@ -2,6 +2,7 @@ collections:
   sparks-volunteer-programs:
     output: true
     order:
+      - Arts & Heritage/Sewing Interest Group.md
       - Arts & Heritage/.keep
       - Caring for our community/.keep
       - Going Green Together/.keep
