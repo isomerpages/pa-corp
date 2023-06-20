@@ -1,0 +1,22 @@
+collections:
+  sparks-volunteer-programs:
+    output: true
+    order:
+      - Arts & Heritage/Sewing Interest Group.md
+      - Arts & Heritage/.keep
+      - Caring for our community/.keep
+      - Caring for our community/Sowers’ Event Ambassador.md
+      - Caring for our community/Senior Befriending Programme.md
+      - Caring for our community/Befriending for vulnerable seniors.md
+      - Caring for our community/Programme Curator.md
+      - Caring for our community/Kitchen volunteer.md
+      - Going Green Together/Gardens Give Back.md
+      - Going Green Together/.keep
+      - Health & Wellness/Exercise Facilitator.md
+      - Health & Wellness/.keep
+      - Nurturing Our Children/.keep
+      - Nurturing Our Children/Homework Café.md
+      - Nurturing Our Children/Tuition for the Deaf.md
+      - Nurturing Our Children/It’s Storytime.md
+      - Smart Nation/Silver Infocom Wellness Ambassador.md
+      - Smart Nation/.keep
