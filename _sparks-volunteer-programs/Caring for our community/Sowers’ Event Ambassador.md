@@ -4,7 +4,8 @@ permalink: /our-programmes/sparks-bukit-canberra/sowers-event-ambassador/
 description: ""
 third_nav_title: Caring for our community
 ---
-**Sewing Interest Group**
+#### Sowers' Event Ambassodor
+
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
@@ -78,8 +79,6 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						18
 					</td>
 				</tr>
-		
-	
 		<tr>
 					<td width="20%">
 						Skills required
