@@ -12,7 +12,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>
+<li>
 
 &nbsp; <div style="position: relative; display: block; height: 100%;&nbsp; overflow: hidden; text-decoration: none;">
 
