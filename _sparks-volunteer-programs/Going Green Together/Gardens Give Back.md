@@ -4,7 +4,6 @@ permalink: /our-programmes/sparks-bukit-canberra/gardens-give-back/
 description: ""
 third_nav_title: Going Green Together
 ---
-
 #### Gardens Give Back
 
 <table width="100%" border="0">
@@ -98,7 +97,7 @@ We are looking for volunteers to set up more gardening plots around the estates.
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back.jpg">
+					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
