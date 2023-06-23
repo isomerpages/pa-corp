@@ -4,7 +4,8 @@ permalink: /our-programmes/sparks-bukit-canberra/befriending-for-vulnerable-seni
 description: ""
 third_nav_title: Caring for our community
 ---
-#### Sowers' Event Ambassodor
+
+#### Befriending for vulnerable seniors
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -21,7 +22,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td>
-						Sewing Interest Group 
+						Befriending for vulnerable seniors 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -31,7 +32,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td>
-						Sembawang Family Service Centre (SFSC)
+						   TOUCH Active Ageing Centre (Wellington)
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +43,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday and Thursday, from 2pm to 4pm 
+						      Willing to commit at least twice a month and for at least a period of 6 months
 					</td>
 				</tr>
 				<tr>
@@ -53,8 +54,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-					Sewing Interest Group @ SFSC
-Blk 326 Sembawang Crescent, #01-52, Singapore 750326
+					   Blk 513 Wellington Circle #01-34, Singapore 750513
 					</td>
 				</tr>
 				<tr>
