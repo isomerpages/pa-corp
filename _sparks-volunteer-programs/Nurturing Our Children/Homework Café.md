@@ -4,7 +4,6 @@ permalink: /our-programmes/sparks-bukit-canberra/homework-cafe/
 description: ""
 third_nav_title: Nurturing Our Children
 ---
-
 #### Homework Cafe
 
 <table width="100%" border="0">
@@ -98,7 +97,7 @@ third_nav_title: Nurturing Our Children
 					<td width="5%">
 						:
 					</td>
-					<td>
+					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
