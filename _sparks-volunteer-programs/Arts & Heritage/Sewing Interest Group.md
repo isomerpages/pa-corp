@@ -106,6 +106,6 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 			<br>
 			<br>
 			<br>
-<div align="left"><a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
-	Back to Volunteer Programme Listing</a></div>
 	</td></tr></tbody></table>
+<a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
+	Back to Volunteer Programme Listing</a>
