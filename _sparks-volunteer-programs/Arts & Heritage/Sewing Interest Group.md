@@ -100,6 +100,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td>
+							<img style="width=200px;height=auto;
 			</td>
 				</tr>
 </tbody></table>
@@ -113,6 +114,6 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 
 
 
-<a href="/volunteer-programmes/programmes">
+<a href=" src="/images/Garden%20Gives%20back.png">
 	Back to Volunteer Programme Listing
-	</a></td></tr></tbody></table>
+	</td></tr></tbody></table></td></tr></tbody></table>
