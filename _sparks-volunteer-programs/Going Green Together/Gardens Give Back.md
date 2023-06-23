@@ -4,7 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/gardens-give-back/
 description: ""
 third_nav_title: Going Green Together
 ---
-#### Sowers' Event Ambassodor
+#### Gardens Give Back
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -21,7 +21,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td>
-						Sewing Interest Group 
+						Gardens Give Back 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -31,7 +31,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td>
-						Sembawang Family Service Centre (SFSC)
+						Sembawang GRC
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday and Thursday, from 2pm to 4pm 
+						  Willing to commit at least twice a month and for at least a period of 6 months
 					</td>
 				</tr>
 				<tr>
@@ -53,8 +53,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-					Sewing Interest Group @ SFSC
-Blk 326 Sembawang Crescent, #01-52, Singapore 750326
+					  Community Garden and roof top garden at Sembawang GRC
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +64,8 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners. 
+						Gardens around the estates beautify the environment and allow residents with common interest to have a platform to share gardening skills and bonding with each other. Through gardening, we also help the needy families around the estates by pledging our harvest back to the community and improving the well-being of the residents as the vegetables harvested are all organic and healthy.
+We are looking for volunteers to set up more gardening plots around the estates. We will also be working with schools and stakeholders for the setting up of community gardens. 
 					</td>
 				</tr>
 				<tr>
@@ -76,7 +76,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						18
+						15
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +87,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td>
-						Training will be provided by in-house trainer.
+						NIL
 			</td>
 				</tr>
 		<tr>
