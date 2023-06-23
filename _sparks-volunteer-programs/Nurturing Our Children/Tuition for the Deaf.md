@@ -4,7 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/tuition-for-the-deaf/
 description: ""
 third_nav_title: Nurturing Our Children
 ---
-#### Sowers' Event Ambassodor
+#### Tuition for the Deaf
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -21,7 +21,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td>
-						Sewing Interest Group 
+						Tuition for the Deaf 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -31,7 +31,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td>
-						Sembawang Family Service Centre (SFSC)
+						  Sembawang West Zone E Residents’ Network (RN) / NTU Welfare Service Club
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday and Thursday, from 2pm to 4pm 
+						  Every Saturday, 10am to 1pm (10am to 11.30am or 11.30am to 1pm)
 					</td>
 				</tr>
 				<tr>
@@ -53,8 +53,8 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-					Sewing Interest Group @ SFSC
-Blk 326 Sembawang Crescent, #01-52, Singapore 750326
+					  Sembawang West Zone E RN<br><br>
+Blk 718 Woodlands Avenue 6 #01-648 Singapore 730718
 					</td>
 				</tr>
 				<tr>
