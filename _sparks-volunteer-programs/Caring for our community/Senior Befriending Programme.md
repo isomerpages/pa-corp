@@ -9,7 +9,7 @@ third_nav_title: Caring for our community
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/Garden%20Gives%20back.png">
+			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/befriending.jpg">
 		</td>
 		<td width="60%">
 			<table width="100%" border="0">
@@ -31,7 +31,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td>
-						Sembawang Family Service Centre (SFSC)
+						   SPARKS@Bukit Canberra &amp; Sembawang GRC
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday and Thursday, from 2pm to 4pm 
+						   Every Wednesday, from 7.30pm to 9.30pm 
 					</td>
 				</tr>
 				<tr>
