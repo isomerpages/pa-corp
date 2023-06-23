@@ -4,7 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/exercise-facilitator/
 description: ""
 third_nav_title: Health & Wellness
 ---
-#### Sowers' Event Ambassodor
+#### Exercise Facilitator
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -21,7 +21,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td>
-						Sewing Interest Group 
+						Exercise Facilitator 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -31,7 +31,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td>
-						Sembawang Family Service Centre (SFSC)
+						TOUCH Active Ageing Centre (Wellington)
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday and Thursday, from 2pm to 4pm 
+						   Every Monday: 9am-10am; Wednesday: 2pm-3pm; Friday: 9am-10am
 					</td>
 				</tr>
 				<tr>
@@ -53,8 +53,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-					Sewing Interest Group @ SFSC
-Blk 326 Sembawang Crescent, #01-52, Singapore 750326
+					   Blk 513 Wellington Circle #01-34, Singapore 750513
 					</td>
 				</tr>
 				<tr>
