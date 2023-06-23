@@ -6,7 +6,6 @@ third_nav_title: Caring for our community
 ---
 #### Programme Curator
 
-
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
@@ -107,8 +106,6 @@ b) Community Living Skills - basic skills such as ability to take care of onesel
 			</td>
 				</tr>
 </tbody></table>
-
-
 <br>
 			<br>
 			<br>
