@@ -13,23 +13,26 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 
 <table>
 	<tbody><tr>
-		<td><a href="/our-programmes/sparks-bukit-canberra/sewing-interest-group/">	<img style="height:150px;width:200px" src="/images/*.jpg"></a></td></tr></tbody></table>
+		<td><a href="/our-programmes/sparks-bukit-canberra/sewing-interest-group/">	<img src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group.png"> style="height:150px;width:200px"&gt;</a></td></tr></tbody></table>
 		
  
 
 #### Caring for Our Community
 
+
+
+![](/images/SPARKS@Bukit%20Canberra/befriending.jpg)
 <table>
 	<tbody><tr>
 		<td><a href="/our-programmes/sparks-bukit-canberra/sowers-event-ambassador/">
 				<img style="height:150px;width:200px" src="/images/*.jpg"></a></td>
 		<td>
-			<a href="/our-programmes/sparks-bukit-canberra/senior-befriending-programme/">
+			<a href="/our-progr'ammes/sparks-bukit-canberra/senior-befriending-programme/">
 				<img style="height:150px;width:200px" src="/images/*.jpg"></a></td><td>
 			<a href="/our-programmes/sparks-bukit-canberra/befriending-for-vulnerable-seniors/">
-				<img style="height:150px;width:200px" src="/images/*.jpg"></a></td></tr><tr><td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors.png"></a></td></tr><tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/programme-curator/">
-				<img style="height:150px;width:200px" src="/images/*.jpg"></a></td><td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/programme%20curator.jpg"></a></td><td>
 			<a href="/our-programmes/sparks-bukit-canberra/kitchen-volunteer/">
 				<img style="height:150px;width:200px" src="/images/*.jpg"></a></td></tr></tbody></table>
 
