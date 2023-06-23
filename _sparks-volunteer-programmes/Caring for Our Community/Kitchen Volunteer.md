@@ -87,7 +87,7 @@ We are looking for someone that enjoys cooking desserts or light refreshments fo
 						:
 					</td>
 					<td>
-						  Experienced in cooking for a group of 30-40pax
+						  Experienced in cooking for a group of 30-40 pax
 			</td>
 				</tr>
 		<tr>
