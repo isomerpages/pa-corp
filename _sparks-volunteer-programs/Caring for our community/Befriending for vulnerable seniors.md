@@ -4,7 +4,6 @@ permalink: /our-programmes/sparks-bukit-canberra/befriending-for-vulnerable-seni
 description: ""
 third_nav_title: Caring for our community
 ---
-
 #### Befriending for vulnerable seniors
 
 <table width="100%" border="0">
@@ -65,7 +64,9 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners. 
+						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be to help others. For seniors with low or no social support, TAA will partner with volunteers to visit these seniors regularly.
+
+We are looking for volunteers to befriend seniors and their caregivers by providing social support through regular visits, phone calls and engagement.&nbsp;
 					</td>
 				</tr>
 				<tr>
@@ -76,7 +77,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-						18
+						21
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +88,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td>
-						Training will be provided by in-house trainer.
+						   Able to speak Mandarin or Malay or dialect . Training will be provided.
 			</td>
 				</tr>
 		<tr>
