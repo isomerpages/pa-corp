@@ -102,8 +102,6 @@ Briefing will be conducted before the session.
 			</td>
 				</tr>
 </tbody></table>
-
-
 <br>
 			<br>
 			<br>
