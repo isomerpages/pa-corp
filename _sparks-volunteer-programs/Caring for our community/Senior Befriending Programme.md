@@ -100,11 +100,14 @@ Briefing will be conducted before the session.
 					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/senior%20befriending%20programme%20qr.png">
 			</td>
 				</tr>
-</tbody></table>
+	</tbody></table>
+
+
 <br>
 			<br>
 			<br>
 			<br>
-				</td></tr></tbody></table>
-	<a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
+			
+</td></tr></tbody></table>
+<a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
 	Back to Volunteer Programme Listing</a>
