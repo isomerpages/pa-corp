@@ -98,7 +98,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td>
-							<img style="width=100px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png">
+							<img style="width=80px;height=80px;" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
