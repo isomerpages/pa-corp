@@ -21,7 +21,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						Befriending for vulnerable seniors 
+						Befriending for Vulnerable Seniors 
 					</td>
 				</tr>
 					<tr><td width="20%">
