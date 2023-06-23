@@ -9,7 +9,7 @@ third_nav_title: Caring for our community
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/Garden%20Gives%20back.png">
+			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors.png">
 		</td>
 		<td width="60%">
 			<table width="100%" border="0">
