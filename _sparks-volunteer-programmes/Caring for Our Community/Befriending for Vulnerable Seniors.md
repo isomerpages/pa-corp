@@ -64,7 +64,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be to help others. For seniors with low or no social support, TAA will partner with volunteers to visit these seniors regularly.<br><br>
+						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can help others. For seniors with low or no social support, TAA will partner with volunteers to visit these seniors regularly.<br><br>
 We are looking for volunteers to befriend seniors and their caregivers by providing social support through regular visits, phone calls and engagement.&nbsp;
 					</td>
 				</tr>
