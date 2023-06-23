@@ -65,9 +65,9 @@ Blk 718 Woodlands Avenue 6 #01-648 Singapore 730718
 						:
 					</td>
 					<td width="75%">
-						 This programme aims to provide extra tuition for deaf students and improve literacy and cultivate reading habits among young deaf children aged 7-16 years old.<br><br>
+						 This programme aims to provide extra tuition for deaf students and improve literacy and cultivate reading habits among deaf students aged 7-16.<br><br>
 						
-We are looking for volunteers who are able to use sign language to teach and conduct activities for deaf students aged 7-16 years old every Saturday morning. 
+We are looking for volunteers who are able to use sign language to teach and conduct activities for deaf students (aged 7-16) every Saturday morning. 
 					</td>
 				</tr>
 				<tr>
