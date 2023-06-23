@@ -11,8 +11,10 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
         
 ### Arts &amp; Heritage
 
-<table>
-	<tbody><tr>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sewing Interest Group<table>
+	<tbody>
+		<tr></tr>
+		<tr>
 		<td><a href="/our-programmes/sparks-bukit-canberra/sewing-interest-group/">	<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group.png"></a></td></tr></tbody></table>
 		
  
