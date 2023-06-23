@@ -98,7 +98,7 @@ We are looking for volunteers to befriend seniors and their caregivers by provid
 					<td width="5%">
 						:
 					</td>
-					<td>
+					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
