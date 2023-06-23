@@ -4,7 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/its-storytime/
 description: ""
 third_nav_title: Nurturing Our Children
 ---
-#### Sowers' Event Ambassodor
+#### It's Storytime
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -21,7 +21,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td>
-						Sewing Interest Group 
+						It's Storytime 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -31,7 +31,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td>
-						Sembawang Family Service Centre (SFSC)
+						M3@Woodlands (A collaborative effort between MUIS, MENDAKI and MESRA)
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday and Thursday, from 2pm to 4pm 
+						 Weekends (Fortnightly), 1 hour per session, 10am to 11am 
 					</td>
 				</tr>
 				<tr>
@@ -53,8 +53,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-					Sewing Interest Group @ SFSC
-Blk 326 Sembawang Crescent, #01-52, Singapore 750326
+					   Virtual / Physical (Sembawang Town / Woodlands Town)
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +64,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners. 
+						This programme aims to improve literacy and cultivate reading habits among young children. Volunteers are needed to read and conduct activities for children.  
 					</td>
 				</tr>
 				<tr>
@@ -76,7 +75,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						18
+						15
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +86,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td>
-						Training will be provided by in-house trainer.
+						 Able to read English / Malay storybooks. Able to do art &amp; craft activities.
 			</td>
 				</tr>
 		<tr>
