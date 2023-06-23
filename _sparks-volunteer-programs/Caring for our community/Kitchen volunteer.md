@@ -4,12 +4,13 @@ permalink: /our-programmes/sparks-bukit-canberra/kitchen-volunteer/
 description: ""
 third_nav_title: Caring for our community
 ---
+
 #### Kitchen Volunteer
 
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/Garden%20Gives%20back.png">
+			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer.jpg">
 		</td>
 		<td width="60%">
 			<table width="100%" border="0">
@@ -98,7 +99,7 @@ We are looking for someone that enjoys cooking desserts or light refreshments fo
 					<td width="5%">
 						:
 					</td>
-					<td>
+					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer.jpg">
 			</td>
 				</tr>
 </tbody></table>
