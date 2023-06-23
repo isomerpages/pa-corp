@@ -4,7 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/senior-befriending-programme/
 description: ""
 third_nav_title: Caring for our community
 ---
-#### Sowers' Event Ambassodor
+#### Senior Befriending Programme
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -21,7 +21,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td>
-						Sewing Interest Group 
+						Senior Befriending Programme 
 					</td>
 				</tr>
 					<tr><td width="20%">
