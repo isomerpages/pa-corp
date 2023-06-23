@@ -104,10 +104,13 @@ b) Community Living Skills - basic skills such as ability to take care of onesel
 			</td>
 				</tr>
 </tbody></table>
+
+
 <br>
 			<br>
 			<br>
 			<br>
-	</td></tr></tbody></table>
-	<a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
+			
+</td></tr></tbody></table>
+<a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
 	Back to Volunteer Programme Listing</a>
