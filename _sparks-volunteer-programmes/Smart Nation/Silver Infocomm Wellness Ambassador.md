@@ -42,7 +42,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						   Every third Thursday of the month, 10:00am to 11.30am
+						   Every third Thursday of the month, 10am to 11.30am
 					</td>
 				</tr>
 				<tr>
