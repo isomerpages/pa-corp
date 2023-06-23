@@ -4,29 +4,26 @@ permalink: /our-programmes/sparks-bukit-canberra/volunteering-opportunities/
 description: ""
 third_nav_title: SPARKS@BukitCanberra
 ---
-<b>Volunteering Opportunities</b><br>
+#### **Volunteering Opportunities**
+
 SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six main pillars - Arts &amp; Heritage, Nurturing Our Children, Caring for our community, Health &amp; Wellness, Smart Nation and Going Green Together.  To-date, we have local projects reaching out to more than 1,000 beneficiaries.
 
         
 ### Arts &amp; Heritage
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
-
 <li>
-
  <div style="position: relative; display: block; height: 100%;&nbsp; overflow: hidden; text-decoration: none;">
  <a href="/our-programmes/sparks-bukit-canberra/sewing-interest-group/" style="text-decoration:none;">
  <img style="height:250px;width:228px;" src="/images/Community%20Tuition%20Programme%201.png">
  <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-
  </a>
  </div>
-
 	</li>
-
 </ul>
-### Caring for Our Community
 
+#### Caring for Our Community
+# 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
 &nbsp; <li>
