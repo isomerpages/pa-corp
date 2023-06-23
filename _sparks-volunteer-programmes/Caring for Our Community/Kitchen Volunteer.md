@@ -65,7 +65,7 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td width="75%">
 						     TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be equipped to help others.<br><br>
-We are looking for someone that enjoys cooking desserts or light refreshments for big groups to assist us. 
+We are looking for someone that enjoys cooking desserts or light refreshments for big groups. 
 					</td>
 				</tr>
 				<tr>
