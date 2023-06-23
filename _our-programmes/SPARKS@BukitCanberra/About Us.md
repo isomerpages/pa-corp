@@ -4,9 +4,6 @@ permalink: /our-programmes/sparks-bukit-canberra/about-us/
 description: ""
 third_nav_title: SPARKS@BukitCanberra
 ---
-![](/images/SPARKS@Bukit%20Canberra/aboutus1.jpg)
-
-
 <b>**About SPARKS@Bukit Canberra**</b>
 <br>
 SPARKS@Bukit Canberra serves as a one-stop volunteer centre house at the Bukit Canberra Integrated Hub  , that promotes community bonding through meaningful cause-based outreach projects.    Residents and schools can either join existing projects or co-create localised projects with our youth leaders.<br><br>
