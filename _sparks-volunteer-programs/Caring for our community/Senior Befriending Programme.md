@@ -53,8 +53,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-					Sewing Interest Group @ SFSC
-Blk 326 Sembawang Crescent, #01-52, Singapore 750326
+					Sembawang Town &amp; Woodlands Town
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +64,9 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners. 
+						   With the increase in dementia and depression amongst seniors, our volunteers are reaching out to seniors in Sembawang GRC and engaging them to community events. This creates opportunities for seniors to make friends within the community and reduce social isolation and hence, reduce the risk of depression and dementia.
+
+Briefing will be conducted before the session. 
 					</td>
 				</tr>
 				<tr>
@@ -76,7 +77,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						18
+						15
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +88,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td>
-						Training will be provided by in-house trainer.
+						NA
 			</td>
 				</tr>
 		<tr>
