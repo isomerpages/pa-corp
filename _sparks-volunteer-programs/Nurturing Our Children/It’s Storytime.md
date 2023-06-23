@@ -9,7 +9,7 @@ third_nav_title: Nurturing Our Children
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/Garden%20Gives%20back.png">
+			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/its%20storytime.png">
 		</td>
 		<td width="60%">
 			<table width="100%" border="0">
@@ -96,7 +96,7 @@ third_nav_title: Nurturing Our Children
 					<td width="5%">
 						:
 					</td>
-					<td>
+					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/its%20storytime%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
