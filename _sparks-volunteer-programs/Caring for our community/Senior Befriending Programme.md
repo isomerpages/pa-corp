@@ -4,7 +4,6 @@ permalink: /our-programmes/sparks-bukit-canberra/senior-befriending-programme/
 description: ""
 third_nav_title: Caring for our community
 ---
-![](/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors%20qr.png)
 #### Senior Befriending Programme
 
 <table width="100%" border="0">
