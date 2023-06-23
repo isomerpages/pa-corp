@@ -4,14 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/about-us/
 description: ""
 third_nav_title: SPARKS@BukitCanberra
 ---
-![SPARKS@Bukit Canberra About Us](/images/Our%20Programmes/sparks@bukit%20canberra%20about%20us.png)
-
-
-
-| | | |
-| -------- | -------- | -------- |
-| <img src="/images/Our%20Programmes/sparks@bukit%20canberra%20about%20us.png">    | Text     | Text     |
-
+![](/images/SPARKS@Bukit%20Canberra/aboutus1.jpg)
 
 
 <b>**About SPARKS@Bukit Canberra**</b>
