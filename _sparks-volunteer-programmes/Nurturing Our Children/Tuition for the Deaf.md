@@ -99,11 +99,11 @@ We are looking for volunteers who are able to use sign language to teach and con
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20qr.png">
+					<td>
+					<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
-
 
 <br>
 			<br>
