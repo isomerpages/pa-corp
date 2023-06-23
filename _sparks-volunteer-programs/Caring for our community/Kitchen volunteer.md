@@ -4,7 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/kitchen-volunteer/
 description: ""
 third_nav_title: Caring for our community
 ---
-#### Sowers' Event Ambassodor
+#### Kitchen Volunteer
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -21,7 +21,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td>
-						Sewing Interest Group 
+						Kitchen Volunteer 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -31,7 +31,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td>
-						Sembawang Family Service Centre (SFSC)
+						 TOUCH Active Ageing Centre (Wellington)
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday and Thursday, from 2pm to 4pm 
+						   Every Thursday, from 10am to 12pm 
 					</td>
 				</tr>
 				<tr>
@@ -53,8 +53,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-					Sewing Interest Group @ SFSC
-Blk 326 Sembawang Crescent, #01-52, Singapore 750326
+					   Blk 513 Wellington Circle #01-34, Singapore 750513
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +64,9 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners. 
+						     TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be equipped to help others.
+
+We are looking for someone that enjoys cooking desserts or light refreshments for big groups to assist us. 
 					</td>
 				</tr>
 				<tr>
