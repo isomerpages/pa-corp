@@ -4,7 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/programme-curator/
 description: ""
 third_nav_title: Caring for our community
 ---
-#### Sowers' Event Ambassodor
+#### Programme Curator
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -21,7 +21,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td>
-						Sewing Interest Group 
+						Programme Curator 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -31,7 +31,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td>
-						Sembawang Family Service Centre (SFSC)
+						   Thye Hua Kwan Home (THK) for Disabled @ Sembawang
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday and Thursday, from 2pm to 4pm 
+						      To be confirmed 
 					</td>
 				</tr>
 				<tr>
@@ -53,8 +53,9 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-					Sewing Interest Group @ SFSC
-Blk 326 Sembawang Crescent, #01-52, Singapore 750326
+					   Thye Hua Kwan Home (THK) for Disabled @ Sembawang
+						
+7 Sembawang Walk, Singapore 756977
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +66,13 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners. 
+						   THK Home for Disabled@Sembawang was established in April 2018 to provide long term residential care for adults aged between 17 and 55 years old diagnosed with intellectual disabilities (ID) and/or Autism Spectrum Disorder (ASD), or other comorbidities.
+
+We are looking for group volunteers to co-curate programmes for THK Home residents in these 2 areas:
+
+a) Activities of Daily Living - routine activities such as eating, dressing, etc
+
+b) Community Living Skills - basic skills such as ability to take care of oneself in terms of living, diet, etc.s. 
 					</td>
 				</tr>
 				<tr>
@@ -76,7 +83,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						18
+						16
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +94,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td>
-						Training will be provided by in-house trainer.
+						  Passion for working with adults, project planning
 			</td>
 				</tr>
 		<tr>
