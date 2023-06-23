@@ -102,9 +102,6 @@ We are looking for volunteers to befriend seniors and their caregivers by provid
 				</tr>
 </tbody></table>
 <br>
-			<br>
-			<br>
-			<br>
 	</td></tr></tbody></table>
 	<a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
 	Back to Volunteer Programme Listing</a>
