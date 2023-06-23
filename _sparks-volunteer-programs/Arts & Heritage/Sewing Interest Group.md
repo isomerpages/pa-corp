@@ -6,7 +6,6 @@ third_nav_title: Arts & Heritage
 ---
 **Sewing Interest Group**
 
-
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
@@ -99,7 +98,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td>
-							<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/gSewing%20Interest%20Group QR.png">
+							<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
