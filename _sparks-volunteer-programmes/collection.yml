@@ -1,5 +1,5 @@
 collections:
-  sparks-volunteer-programs:
+  sparks-volunteer-programmes:
     output: true
     order:
       - Arts & Heritage/Sewing Interest Group.md
