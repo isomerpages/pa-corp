@@ -40,7 +40,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 <table><tbody><tr>
 <td>
 			<a href="/our-programmes/sparks-bukit-canberra/gardens-give-back/">
-				<img style="height:150px;width:200px" src="/images/*.jpg"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back.jpg"></a></td>
 	</tr></tbody></table>
 
 
