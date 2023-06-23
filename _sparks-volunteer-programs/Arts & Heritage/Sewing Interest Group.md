@@ -78,9 +78,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 					<td width="75%">
 						18
 					</td>
-				</tr>
-		
-	
+					</tr>	
 		<tr>
 					<td width="20%">
 						Skills required
