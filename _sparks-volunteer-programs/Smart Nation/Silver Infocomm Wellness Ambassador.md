@@ -4,15 +4,16 @@ permalink: /our-programmes/sparks-bukit-canberra/silver-infocomm-wellness-ambass
 description: ""
 third_nav_title: Smart Nation
 ---
+![](/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador.jpg)
 #### Silver Infocomm Wellness Ambassador
 
-<table width="100%" border="0">
+<table border="0" width="100%">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/Garden%20Gives%20back.png">
+			<img src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador.jpg" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
-			<table width="100%" border="0">
+			<table border="0" width="100%">
 				<tbody><tr>
 					<td width="20%">
 						Programme Title
@@ -97,9 +98,8 @@ third_nav_title: Smart Nation
 					<td width="5%">
 						:
 					</td>
-					<td>
-			</td>
-				</tr>
+					<td><img src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador.jpg">
+				</td></tr>
 </tbody></table>
 
 
