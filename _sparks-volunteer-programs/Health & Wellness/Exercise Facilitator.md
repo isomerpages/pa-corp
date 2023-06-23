@@ -64,7 +64,9 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners. 
+						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be equipped as a resource to help others.
+
+We are looking for someone that enjoys exercise and is able to join in and motivate the seniors during the session.
 					</td>
 				</tr>
 				<tr>
@@ -75,7 +77,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						18
+						21
 					</td>
 				</tr>
 		<tr>
@@ -86,7 +88,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td>
-						Training will be provided by in-house trainer.
+						  Active, enjoys interacting with seniors, able to assist in the set up of the event.
 			</td>
 				</tr>
 		<tr>
