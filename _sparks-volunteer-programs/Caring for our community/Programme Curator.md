@@ -4,7 +4,6 @@ permalink: /our-programmes/sparks-bukit-canberra/programme-curator/
 description: ""
 third_nav_title: Caring for our community
 ---
-
 #### Programme Curator
 
 <table width="100%" border="0">
@@ -105,7 +104,7 @@ b) Community Living Skills - basic skills such as ability to take care of onesel
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/programme%20curator.jpg">
+					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/programme%20curators%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
