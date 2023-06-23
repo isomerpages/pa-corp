@@ -23,7 +23,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 </ul>
 
 #### Caring for Our Community
-# 
+
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
 &nbsp; <li>
@@ -194,6 +194,36 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 &nbsp; </div>
 
 </li>
+	<li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div style="position: relative; display: block; height: 100%;&nbsp; overflow: hidden; text-decoration: none;">
+
+&nbsp;&nbsp;&nbsp; <a href="/volunteer-programmes/health-and-wellness/exercise-facilitator/" style="text-decoration:none;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img style="height:250px;width:228px;" src="/images/Exercise%20Facilitator%20Words.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
+
+&nbsp;&nbsp;&nbsp; </a>
+
+&nbsp; </div>
+
+</li>
+	<li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div style="position: relative; display: block; height: 100%;&nbsp; overflow: hidden; text-decoration: none;">
+
+&nbsp;&nbsp;&nbsp; <a href="/volunteer-programmes/health-and-wellness/exercise-facilitator/" style="text-decoration:none;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img style="height:250px;width:228px;" src="/images/Exercise%20Facilitator%20Words.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
+
+&nbsp;&nbsp;&nbsp; </a>
+
+&nbsp; </div>
+
+</li>
 
 <li>
 
@@ -208,8 +238,9 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 </li>
 
 </ul>
-## Smart Nation
-# 
+
+### Smart Nation
+
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
 <li>
