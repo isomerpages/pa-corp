@@ -9,7 +9,7 @@ third_nav_title: Arts & Heritage
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/Garden%20Gives%20back.png">
+			<img style="width=200px;height=auto;" src="/images/Sewing%20Interest%20Group.png">
 		</td>
 		<td width="60%">
 			<table width="100%" border="0">
@@ -114,6 +114,6 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 
 
 
-<a href=" src="/images/Garden%20Gives%20back.png">
+<a href=" src="/images/Sewing%20Interest%20Group QR.png">
 	Back to Volunteer Programme Listing
 	</td></tr></tbody></table></td></tr></tbody></table>
