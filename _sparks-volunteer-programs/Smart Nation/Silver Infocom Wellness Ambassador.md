@@ -4,7 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/silver-infocom-wellness-ambassa
 description: ""
 third_nav_title: Smart Nation
 ---
-#### Sowers' Event Ambassodor
+#### Silver Infocomm Wellness Ambassador
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -21,7 +21,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td>
-						Sewing Interest Group 
+						Silver Infocomm Wellness Ambassador 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -31,7 +31,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td>
-						Sembawang Family Service Centre (SFSC)
+						Infocomm Media Development Authority (IMDA)
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday and Thursday, from 2pm to 4pm 
+						   Every third Thursday of the month, 10:00am to 11.30am
 					</td>
 				</tr>
 				<tr>
@@ -53,8 +53,8 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-					Sewing Interest Group @ SFSC
-Blk 326 Sembawang Crescent, #01-52, Singapore 750326
+					  SPARKS@Bukit Canberra<br><br>
+21 Canberra Link #01-63 S(756973)
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +65,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners. 
+						We are looking for volunteers to be Silver Infocomm Wellness Ambassadors to teach digital skills to residents that are 40 years and above.  
 					</td>
 				</tr>
 				<tr>
@@ -76,7 +76,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td width="75%">
-						18
+						15
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +87,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td>
-						Training will be provided by in-house trainer.
+						 Basic IT skills required
 			</td>
 				</tr>
 		<tr>
