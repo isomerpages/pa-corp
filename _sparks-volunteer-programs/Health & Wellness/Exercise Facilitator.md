@@ -4,7 +4,6 @@ permalink: /our-programmes/sparks-bukit-canberra/exercise-facilitator/
 description: ""
 third_nav_title: Health & Wellness
 ---
-![](/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20qr.png)
 #### Exercise Facilitator
 
 <table width="100%" border="0">
