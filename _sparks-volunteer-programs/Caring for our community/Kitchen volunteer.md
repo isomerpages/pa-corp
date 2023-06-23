@@ -77,7 +77,7 @@ We are looking for someone that enjoys cooking desserts or light refreshments fo
 						:
 					</td>
 					<td width="75%">
-						18
+						21
 					</td>
 				</tr>
 		<tr>
@@ -88,7 +88,7 @@ We are looking for someone that enjoys cooking desserts or light refreshments fo
 						:
 					</td>
 					<td>
-						Training will be provided by in-house trainer.
+						  Experienced in cooking for a group of 30-40pax
 			</td>
 				</tr>
 		<tr>
