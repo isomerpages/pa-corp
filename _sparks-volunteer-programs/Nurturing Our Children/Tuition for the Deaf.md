@@ -4,6 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/tuition-for-the-deaf/
 description: ""
 third_nav_title: Nurturing Our Children
 ---
+
 #### Tuition for the Deaf
 
 <table width="100%" border="0">
@@ -65,7 +66,9 @@ Blk 718 Woodlands Avenue 6 #01-648 Singapore 730718
 						:
 					</td>
 					<td width="75%">
-						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners. 
+						 This programme aims to provide extra tuition for deaf students and improve literacy and cultivate reading habits among young deaf children aged 7-16 years old.<br><br>
+						
+We are looking for volunteers who are able to use sign language to teach and conduct activities for deaf students aged 7-16 years old every Saturday morning. 
 					</td>
 				</tr>
 				<tr>
@@ -76,7 +79,7 @@ Blk 718 Woodlands Avenue 6 #01-648 Singapore 730718
 						:
 					</td>
 					<td width="75%">
-						18
+						15
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +90,7 @@ Blk 718 Woodlands Avenue 6 #01-648 Singapore 730718
 						:
 					</td>
 					<td>
-						Training will be provided by in-house trainer.
+						  Singapore Sign Language Certification (SgSL) is required
 			</td>
 				</tr>
 		<tr>
