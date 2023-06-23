@@ -71,7 +71,7 @@ third_nav_title: Caring for our community
 We are looking for group volunteers to co-curate programmes for THK Home residents in these 2 areas:<br><br>
 
 a) Activities of Daily Living - routine activities such as eating, dressing, etc<br><br>
-b) Community Living Skills - basic skills such as ability to take care of oneself in terms of living, diet, etc.s. 
+b) Community Living Skills - basic skills such as ability to take care of oneself in terms of living, diet, etc. 
 					</td>
 				</tr>
 				<tr>
