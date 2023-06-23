@@ -96,7 +96,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 					<td width="5%">
 						:
 					</td>
-					<td><img width="200px;height=auto;&quot;" src="/images/SPARKS@Bukit%20Canberra/sower%20event%20ambassadors%20qr.png style=">
+					<td><img style="width=200px;height=auto;" src="images/SPARKS@Bukit%20Canberra/sower%20event%20ambassadors%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
