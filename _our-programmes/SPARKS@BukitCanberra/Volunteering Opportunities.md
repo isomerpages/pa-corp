@@ -16,7 +16,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 
 &nbsp; <div style="position: relative; display: block; height: 100%;&nbsp; overflow: hidden; text-decoration: none;">
 
-&nbsp;&nbsp;&nbsp; <a href="/volunteer-programmes/homework-cafe/" style="text-decoration:none;">
+&nbsp;&nbsp;&nbsp; <a href="/our-programmes/sparks-bukit-canberra/sewing-interest-group/" style="text-decoration:none;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img style="height:250px;width:228px;" src="/images/Community%20Tuition%20Programme%201.png">
 
