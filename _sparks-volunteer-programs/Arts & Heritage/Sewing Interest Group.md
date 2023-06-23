@@ -99,7 +99,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 						:
 					</td>
 					<td>
-							<img style="width=200px;height=auto;
+							<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/gSewing%20Interest%20Group QR.png">
 			</td>
 				</tr>
 </tbody></table>
@@ -107,6 +107,6 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 			<br>
 			<br>
 			<br>
-<a href=" src="/images/SPARKS@Bukit%20Canberra/gSewing%20Interest%20Group QR.png">
-	Back to Volunteer Programme Listing
-	</td></tr></tbody></table></td></tr></tbody></table>
+<a href="">
+					Back to Volunteer Programme Listing</a>
+	</td></tr></tbody></table>
