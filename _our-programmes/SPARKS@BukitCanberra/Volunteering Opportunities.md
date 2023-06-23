@@ -72,5 +72,5 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 
 <table><tbody>
 <tr><td>
-			<a href="/our-programmes/sparks-bukit-canberra/silver-infocom-wellness-ambassador/">
+			<a href="/our-programmes/sparks-bukit-canberra/silver-infocomm-wellness-ambassador/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador.jpg"></a></td></tr></tbody></table>
