@@ -64,8 +64,7 @@ third_nav_title: Caring for our community
 						:
 					</td>
 					<td width="75%">
-						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be to help others. For seniors with low or no social support, TAA will partner with volunteers to visit these seniors regularly.
-
+						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be to help others. For seniors with low or no social support, TAA will partner with volunteers to visit these seniors regularly.<br><br>
 We are looking for volunteers to befriend seniors and their caregivers by providing social support through regular visits, phone calls and engagement.&nbsp;
 					</td>
 				</tr>
@@ -102,16 +101,10 @@ We are looking for volunteers to befriend seniors and their caregivers by provid
 			</td>
 				</tr>
 </tbody></table>
-
-
 <br>
 			<br>
 			<br>
 			<br>
-			
-
-
-
-<a href="/volunteer-programmes/programmes">
-	Back to Volunteer Programme Listing
-	</a></td></tr></tbody></table>
+	</td></tr></tbody></table>
+	<a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
+	Back to Volunteer Programme Listing</a>
