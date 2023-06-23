@@ -37,7 +37,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 			<a href="/our-programmes/sparks-bukit-canberra/programme-curator/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/programme%20curator.jpg"></a></td><td>
 			<a href="/our-programmes/sparks-bukit-canberra/kitchen-volunteer/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer.jpg"></a></td></tr></tbody></table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for vulnerable seniors
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer.jpg"></a></td></tr></tbody></table>
 
 
 ### Going Green Together
