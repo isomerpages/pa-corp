@@ -64,9 +64,9 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be equipped as a resource to help others.
+						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of age, ability or physical status - can be equipped as a resource to help others.
 
-We are looking for someone that enjoys exercise and is able to join in and motivate the seniors during the session.
+We are looking for someone who enjoys exercising and is able to join in and motivate the seniors during the session.
 					</td>
 				</tr>
 				<tr>
@@ -88,7 +88,7 @@ We are looking for someone that enjoys exercise and is able to join in and motiv
 						:
 					</td>
 					<td>
-						  Active, enjoys interacting with seniors, able to assist in the set up of the event.
+						  Active, enjoys interacting with seniors, able to assist in setting up the event.
 			</td>
 				</tr>
 		<tr>
