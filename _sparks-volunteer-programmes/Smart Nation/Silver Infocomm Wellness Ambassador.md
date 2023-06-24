@@ -54,7 +54,7 @@ third_nav_title: Smart Nation
 					</td>
 					<td width="75%">
 					  SPARKS@Bukit Canberra<br><br>
-21 Canberra Link #01-63 S(756973)
+21 Canberra Link #01-63 Singapore 756973
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +65,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						We are looking for volunteers to be Silver Infocomm Wellness Ambassadors to teach digital skills to residents that are 40 years and above.  
+						We are looking for volunteers to be Silver Infocomm Wellness Ambassadors to teach digital skills to residents who are 40 years and above.  
 					</td>
 				</tr>
 				<tr>
