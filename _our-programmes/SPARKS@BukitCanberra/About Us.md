@@ -6,7 +6,7 @@ third_nav_title: SPARKS@BukitCanberra
 ---
 <b>**About SPARKS@Bukit Canberra**</b>
 <br>
-SPARKS@Bukit Canberra, which is housed at the Bukit Canberra Integrated Hub serves as a one-stop volunteer centre.  It promotes community bonding through meaningful cause-based outreach projects.    Residents and schools can either join existing projects or co-create localised projects with our youth leaders.<br><br>
+SPARKS@Bukit Canberra, which is housed at the Bukit Canberra Integrated Hub, serves as a one-stop volunteer centre.  It promotes community bonding through meaningful cause-based outreach projects.    Residents and schools can either join existing projects or co-create localised projects with our youth leaders.<br><br>
 SPARKS@Bukit Canberra also works with corporate organisations to customise corporate social responsibility (CSR) projects to reach out to the needy and vulnerable groups in Sembawang GRC.  It also collaborates with corporate partners to organise industry talks and dialogues for PMETs, providing a platform for residents to network with one another and with industry gurus.
 
 <b>Our Belief</b><br>
