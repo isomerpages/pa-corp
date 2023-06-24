@@ -4,6 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/sowers-event-ambassador/
 description: ""
 third_nav_title: Caring for Our Community
 ---
+![](/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png)
 #### Sowers' Event Ambassadors
 
 <table width="100%" border="0">
@@ -97,7 +98,7 @@ We are looking for ambassadors (Event-based volunteers) to help manage physical 
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sower%20event%20ambassadors%20qr.png">
+					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
