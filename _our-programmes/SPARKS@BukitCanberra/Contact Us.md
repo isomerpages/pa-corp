@@ -11,7 +11,7 @@ third_nav_title: SPARKS@BukitCanberra
 Address: 21 Canberra Link #01-63, Singapore 756973
 
 <b>Operating Hours</b><br>
-10am to 6pm daily except Public Holiday&nbsp;&nbsp;
+10am to 6pm daily except Public Holidays&nbsp;&nbsp;
 
 <b>Feedback</b><br>
-We want to hear from you! For feedback, please email to&nbsp;[sparks@pa.gov.sg](mailto:sparks@pa.gov.sg) &nbsp;
+We want to hear from you!  Please email your feedback to&nbsp;[sparks@pa.gov.sg](mailto:sparks@pa.gov.sg) &nbsp;
