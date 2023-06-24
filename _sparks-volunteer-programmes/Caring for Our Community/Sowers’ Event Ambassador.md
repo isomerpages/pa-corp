@@ -66,7 +66,7 @@ Blk 326 Sembawang Crescent, #01-52, Singapore 750326
 					</td>
 					<td width="75%">
 						The aim of this initiative is to provide women from lower-income families the opportunity to supplement their household income through sewing assignments. We work towards helping beneficiaries learn sewing skills and capacity-build. Beneficiaries will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners.<br><br>  
-We are looking for volunteers to share their knowledge and skills with other volunteers/beneficiaries, and take on sewing projects, with the proceeds going to support low-income families.
+We are looking for ambassadors (Event-based volunteers) to help manage physical pop-up booths to sell Sowers items created by beneficiaries.
 					</td>
 				</tr>
 				<tr>
@@ -97,7 +97,7 @@ We are looking for volunteers to share their knowledge and skills with other vol
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="images/SPARKS@Bukit%20Canberra/sower%20event%20ambassadors%20qr.png">
+					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sower%20event%20ambassadors%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
