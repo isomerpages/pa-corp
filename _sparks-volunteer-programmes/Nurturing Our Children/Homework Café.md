@@ -65,7 +65,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						   We are looking for compassionate volunteers to join our tutoring programme for primary students who are facing difficulty in their homework on weekly basis. 
+						   We are looking for compassionate volunteers to join our tutoring programme, on a weekly basis, for primary students who are facing difficulty in their homework. 
 					</td>
 				</tr>
 				<tr>
@@ -87,7 +87,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td>
-						 Familiar with current MOE syllabus for Primary levels English, Maths &amp; Science
+						 Familiar with current MOE syllabus for Primary levels in English, Maths &amp; Science
 			</td>
 				</tr>
 		<tr>
