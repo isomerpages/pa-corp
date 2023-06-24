@@ -4,7 +4,6 @@ permalink: /our-programmes/sparks-bukit-canberra/sowers-event-ambassador/
 description: ""
 third_nav_title: Caring for Our Community
 ---
-![](/images/SPARKS@Bukit%20Canberra/sowers%20event%20ambassador.png)
 #### Sowers' Event Ambassadors
 
 <table width="100%" border="0">
