@@ -16,4 +16,4 @@ Let’s ignite the kampung spirit by a simple gesture of setting aside 2 hours f
 ![SPARKS@Bukit Canberra Community Lounge](/images/Our%20Programmes/sparks@bukit%20canberra%20community%20lounge.jpg)
 
 <b>Community Lounge</b><br>
-Located at Bukit Canberra level 1, SPARKS@Bukit Canberra has a community lounge which offers a relaxing and cosy space for youths and PMETs to study, discuss or network. It is open daily from 10am to 6pm, except public holidays.
+Located at Bukit Canberra level 1, SPARKS@Bukit Canberra has a community lounge which offers a relaxing and cosy space for youths and PMETs to study, discuss or network.  It is open daily from 10am to 6pm, except public holidays.
