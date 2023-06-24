@@ -4,6 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/volunteering-opportunities/
 description: ""
 third_nav_title: SPARKS@BukitCanberra
 ---
+
 #### **Volunteering Opportunities**
 
 SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six main pillars - Arts &amp; Heritage, Nurturing Our Children, Caring for Our Community, Health &amp; Wellness, Smart Nation and Going Green Together.  To-date, we have local projects reaching out to more than 1,000 beneficiaries.
@@ -28,7 +29,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 		</tbody><tbody><tr></tr>
 			<tr></tr><tr>
 		<td><a href="/our-programmes/sparks-bukit-canberra/sowers-event-ambassador/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group.png"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sowers%20event%20ambassador.png"></a></td>
 		<td>
 			<a href="/our-programmes/sparks-bukit-canberra/senior-befriending-programme/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/befriending.jpg"></a></td><td>
