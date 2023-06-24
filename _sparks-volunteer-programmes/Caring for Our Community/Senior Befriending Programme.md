@@ -64,7 +64,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						   With the increase in dementia and depression amongst seniors, our volunteers are reaching out to seniors in Sembawang GRC and engaging them to community events. This creates opportunities for seniors to make friends within the community and reduce social isolation and hence, reduce the risk of depression and dementia.<br><br>
+						   With the increase in dementia and depression amongst seniors, our volunteers are reaching out to seniors in Sembawang GRC and getting them to engage in community events. This creates opportunities for seniors to make friends within the community and reduce social isolation and hence, reduce the risk of depression and dementia.<br><br>
 Briefing will be conducted before the session. 
 					</td>
 				</tr>

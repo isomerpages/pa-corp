@@ -15,7 +15,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 	<tbody>
 		<tr></tr>
 		<tr>
-		<td><a href="/our-programmes/sparks-bukit-canberra/sewing-interest-group/"><img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group.png"></a></td>
+		<td><a href="/our-programmes/sparks-bukit-canberra/sewing-interest-group/"><img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20words.png"></a></td>
 		</tr></tbody></table>
 		
  
@@ -28,16 +28,16 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 		</tbody><tbody><tr></tr>
 			<tr></tr><tr>
 		<td><a href="/our-programmes/sparks-bukit-canberra/sowers-event-ambassador/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group.png"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sowers%20event%20ambassadors%20words.png"></a></td>
 		<td>
 			<a href="/our-programmes/sparks-bukit-canberra/senior-befriending-programme/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/befriending.jpg"></a></td><td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/senior%20befriending%20programme%20words.jpg"></a></td><td>
 			<a href="/our-programmes/sparks-bukit-canberra/befriending-for-vulnerable-seniors/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors.png"></a></td></tr><tr><td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors%20words.png"></a></td></tr><tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/programme-curator/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/programme%20curator.jpg"></a></td><td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/programme%20curator%20words.jpg"></a></td><td>
 			<a href="/our-programmes/sparks-bukit-canberra/kitchen-volunteer/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer.jpg"></a></td></tr></tbody></table>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer%20words.jpg"></a></td></tr></tbody></table>
 
 
 ### Going Green Together
@@ -45,7 +45,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 <table><tbody><tr>
 <td>
 			<a href="/our-programmes/sparks-bukit-canberra/gardens-give-back/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back.jpg"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back%20words.jpg"></a></td>
 	</tr></tbody></table>
 
 
@@ -55,22 +55,22 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 <table><tbody>
 <tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/exercise-facilitator/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator.png"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20words.png"></a></td>
 
 </tr></tbody></table>
 
-### Nurturing our children
+### Nurturing Our Children
 
 <table><tbody>
 <tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/homework-cafe/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe.png"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20words.png"></a></td>
 				<td>
 			<a href="/our-programmes/sparks-bukit-canberra/tuition-for-the-deaf/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf.jpg"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20words.jpg"></a></td>
 				<td>
 			<a href="/our-programmes/sparks-bukit-canberra/its-storytime/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/its%20storytime.png"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/its%20storytime%20words.png"></a></td>
 </tr></tbody></table>
 
 ### Smart Nation
@@ -78,4 +78,4 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 <table><tbody>
 <tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/silver-infocomm-wellness-ambassador/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador.jpg"></a></td></tr></tbody></table>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador%20words.jpg"></a></td></tr></tbody></table>
