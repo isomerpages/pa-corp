@@ -12,4 +12,3 @@ Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed 
 
 Please check the below listing(s) for the latest tender notices: <br>[Tender for Jalan Kayu Zone 3 RC Trade Fair](/tender-details/jkz3rc/)<br>[Tender for Provision of Security Services for Rivervale Community Club](/tender-details/rivervaleccsecurityservices/)<br>
 [Tender for Bedok Reservoir-Punggol CCC Trade Fair](/tender-details/brtradefair/)<br>
-
