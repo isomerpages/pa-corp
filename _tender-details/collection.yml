@@ -2,5 +2,4 @@ collections:
   tender-details:
     output: true
     order:
-      - Tender for Bedok Reservoir Punggol Trade Fair.md
       - Tender for Provision of Security Services at Rivervale Community Club.md
