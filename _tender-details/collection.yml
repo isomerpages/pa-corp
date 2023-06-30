@@ -2,4 +2,5 @@ collections:
   tender-details:
     output: true
     order:
+      - Kampong Glam CCC Trade Fair.md
       - Tender for Provision of Security Services at Rivervale Community Club.md
