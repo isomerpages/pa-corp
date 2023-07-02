@@ -4,8 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/sembawang-heritage-ambassadors/
 description: ""
 third_nav_title: Arts & Heritage
 ---
-
-![](/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20qr.png)**Sembawang Heritage Ambassadors**
+**Sembawang Heritage Ambassadors**
 
 <table width="100%" border="0">
 	<tbody><tr>
