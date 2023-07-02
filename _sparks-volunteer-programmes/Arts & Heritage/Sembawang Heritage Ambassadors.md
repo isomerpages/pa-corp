@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Arts & Heritage
 ---
 
-**Sembawang Heritage Ambassadors**
+![](/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20qr.png)**Sembawang Heritage Ambassadors**
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -100,7 +100,7 @@ We hope to recruit volunteers who can help to assist to organize regular heritag
 						:
 					</td>
 					<td>
-							<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png">
+							<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
