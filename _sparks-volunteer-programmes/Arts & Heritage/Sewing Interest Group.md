@@ -4,7 +4,8 @@ permalink: /our-programmes/sparks-bukit-canberra/sewing-interest-group/
 description: ""
 third_nav_title: Arts & Heritage
 ---
-**Sewing Interest Group**
+
+![](/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group.png)**Sewing Interest Group**
 
 <table width="100%" border="0">
 	<tbody><tr>
