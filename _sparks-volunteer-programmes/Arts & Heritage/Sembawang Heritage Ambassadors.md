@@ -53,7 +53,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td width="75%">
-					   Meeting Point: SPARKS@Bukit Canberra750326
+					   Meeting Point: SPARKS@Bukit Canberra 
 					</td>
 				</tr>
 				<tr>
