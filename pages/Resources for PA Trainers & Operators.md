@@ -23,7 +23,7 @@ Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg]
 8. [Annex 5 - Fire Safety Standards for Playgroups and Young Children](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(07)%20Annex%205%20-%20Fire%20Safety%20Standards%20for%20Playgroups%20and%20Young%20Children.pdf)
 9. [Infographics of PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(updated%206%20Jan%202023).pdf)
 10. [FAQs for revised PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/Frequently%20Asked%20Questions%20for%20PA%20TrainersOperators%20-%20PSG%20(27%20Dec%202022).pdf)
-11. [Video for revised PSG](https://go.gov.sg/pahandbook
+11. [Video for revised PSG](https://go.gov.sg/pahandbook)
 
 
 
