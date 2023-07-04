@@ -25,6 +25,17 @@ Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg]
 10. [FAQs for revised PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/Frequently%20Asked%20Questions%20for%20PA%20TrainersOperators%20-%20PSG%20(27%20Dec%202022).pdf)
 11. [Video for revised PSG](https://go.gov.sg/pahandbook)
 
+
+
+**Quality Management Audit Checklist**
+
+**Please download the resources via the links below: **
+
+1. [PA Playgroup Classroom Audit Checklist (June 2023) ](/files/pa%20playgroup%20classroom%20audit%20checklist%20(june%202023).pdf)
+2. [PA Playgroup Health Hygiene Audit Checklist (June 2023) ](/files/pa%20playgroup%20health%20%20hygiene%20audit%20checklist%20(jun%202023).pdf)
+
+
+
 **Safe Management Measures**
 
 [Updated as at 14 February 2023]

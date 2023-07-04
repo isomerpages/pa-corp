@@ -1,15 +1,15 @@
 ---
-title: Tuition for the Deaf
-permalink: /our-programmes/sparks-bukit-canberra/tuition-for-the-deaf/
+title: Sembawang Heritage Ambassadors
+permalink: /our-programmes/sparks-bukit-canberra/sembawang-heritage-ambassadors/
 description: ""
-third_nav_title: Nurturing Our Children
+third_nav_title: Arts & Heritage
 ---
-#### Tuition for the Deaf
+**Sembawang Heritage Ambassadors**
 
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf.jpg">
+			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors.png">
 		</td>
 		<td width="60%">
 			<table width="100%" border="0">
@@ -21,7 +21,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td>
-						Tuition for the Deaf 
+						Sembawang Heritage Ambassadors 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -31,7 +31,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td>
-						  Sembawang West Zone E Residents’ Network (RN) / NTU Welfare Service Club
+						   Sembawang GRC Grassroots Organisations
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						  Every Saturday, 10am to 1pm (10am to 11.30am or 11.30am to 1pm)
+						      2 hours per session (Date and Timing to be confirmed)
 					</td>
 				</tr>
 				<tr>
@@ -53,8 +53,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-					  Sembawang West Zone E RN<br><br>
-Blk 718 Woodlands Avenue 6 #01-648 Singapore 730718
+					   Meeting Point: SPARKS@Bukit Canberra 
 					</td>
 				</tr>
 				<tr>
@@ -65,8 +64,9 @@ Blk 718 Woodlands Avenue 6 #01-648 Singapore 730718
 						:
 					</td>
 					<td width="75%">
-						 This programme aims to provide extra tuition for deaf students; and improve literacy and cultivate reading habits among deaf students aged 7-16.<br><br>						
-We are looking for volunteers who are able to use sign language to teach and conduct activities for deaf students (aged 7-16) every Saturday morning. 
+						The Sembawang Heritage Trail is part of the National Heritage Board’s ongoing efforts to document and present the history and social memories of places in Singapore.
+<br><br>
+We hope to recruit volunteers who can help to organize heritage tours to create awareness of the Sembawang Heritage Trail to the residents, schools and community partners. Trainings will be conducted.
 					</td>
 				</tr>
 				<tr>
@@ -79,7 +79,7 @@ We are looking for volunteers who are able to use sign language to teach and con
 					<td width="75%">
 						15
 					</td>
-				</tr>
+					</tr>	
 		<tr>
 					<td width="20%">
 						Skills required
@@ -88,7 +88,7 @@ We are looking for volunteers who are able to use sign language to teach and con
 						:
 					</td>
 					<td>
-						  Singapore Sign Language Certification (SgSL) is required
+						   Able to interact with others. Physically fit as volunteers will need to lead the tour on foot for 2 hours continuously.
 			</td>
 				</tr>
 		<tr>
@@ -98,16 +98,15 @@ We are looking for volunteers who are able to use sign language to teach and con
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20qr.png">
+					<td>
+							<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20qr.png">
 			</td>
 				</tr>
 </tbody></table>
-
 <br>
 			<br>
 			<br>
 			<br>
-			
-</td></tr></tbody></table>
+	</td></tr></tbody></table>
 <a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
 	Back to Volunteer Programme Listing</a>

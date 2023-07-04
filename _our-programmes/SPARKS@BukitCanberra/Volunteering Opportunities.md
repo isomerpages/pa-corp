@@ -8,7 +8,7 @@ third_nav_title: SPARKS@BukitCanberra
 
 SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six main pillars - Arts &amp; Heritage, Nurturing Our Children, Caring for Our Community, Health &amp; Wellness, Smart Nation and Going Green Together.  To-date, we have local projects reaching out to more than 1,000 beneficiaries.
 
-        
+    
 ### Arts &amp; Heritage
 
 <table>
@@ -16,6 +16,8 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 		<tr></tr>
 		<tr>
 		<td><a href="/our-programmes/sparks-bukit-canberra/sewing-interest-group/"><img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20words.png"></a></td>
+			<td><a href="/our-programmes/sparks-bukit-canberra/sembawang-heritage-ambassadors/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20words.png"></a></td>
 		</tr></tbody></table>
 		
  
