@@ -32,7 +32,4 @@ First formed in 2004 as part of the Residents’ Committees and Neighbourhood Co
 * Community Mediation Workshop
 * Community Vigilance Workshop
 
-#### To sign up as a CERT member, please contact us via [Registration Form](http://go.gov.sg/dzdaq0)
-
-
-
+#### To sign up as a CERT member, please sign up via the [Registration Form](http://go.gov.sg/dzdaq0)
