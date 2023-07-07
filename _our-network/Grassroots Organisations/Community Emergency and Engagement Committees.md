@@ -32,13 +32,4 @@ First formed in 2004 as part of the Residents’ Committees and Neighbourhood Co
 * Community Mediation Workshop
 * Community Vigilance Workshop
 
-#### To sign up as a CERT member:
-
-Please call 6340 5350 or drop us an 
-[email](PA_Cert@pa.gov.sg).
-
-You can also fax or mail your application to
-Emergency Preparedness Division
-9 King George’s Ave
-Singapore 208581
-Fax: 6440 2791
+#### To volunteer as a CERT member, please sign up via the [Registration Form](http://go.gov.sg/dzdaq0)
