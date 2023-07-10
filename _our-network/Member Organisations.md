@@ -72,7 +72,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Taekwondo Federation](https://www.stf.sg/)
 * [Singapore Tennis Association](http://www.singtennis.org.sg/)
 * [Singapore Weiqi Association](http://weiqi.org.sg/)
-* [Singapore Wushu Dragon & Lion Dance Federation](http://www.wuzong.com)
+* [Singapore Wushu Dragon & Lion Dance Federation](www.wuzong.com)
 * [Singapore Xiangqi General Association](http://www.xiangqi.sg)
 * [Sports Boules Singapore](https://www.sportsboules.org.sg/)
 * [Volleyball Association of Singapore](https://www.vas.org.sg/)
