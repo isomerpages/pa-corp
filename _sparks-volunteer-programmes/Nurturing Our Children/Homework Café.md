@@ -6,11 +6,10 @@ third_nav_title: Nurturing Our Children
 ---
 #### Homework Cafe
 
+<img style="width=350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe.png">
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe.png">
-		</td>
+						
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
