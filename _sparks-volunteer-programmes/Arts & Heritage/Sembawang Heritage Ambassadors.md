@@ -6,11 +6,11 @@ third_nav_title: Arts & Heritage
 ---
 **Sembawang Heritage Ambassadors**
 
+<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors.png">
+
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors.png">
-		</td>
+		<td width="40%"></td>
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
