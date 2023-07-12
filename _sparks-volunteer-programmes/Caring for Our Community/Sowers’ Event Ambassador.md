@@ -8,8 +8,7 @@ third_nav_title: Caring for Our Community
 
 <img style="width=350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/sowers%20event%20ambassador.png">
 <table width="100%" border="0">
-	<tbody><tr>
-							
+	<tbody><tr>							
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
