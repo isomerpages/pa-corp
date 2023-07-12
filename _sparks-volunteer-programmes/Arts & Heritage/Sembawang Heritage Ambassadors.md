@@ -10,7 +10,6 @@ third_nav_title: Arts & Heritage
 
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%"></td>
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
