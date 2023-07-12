@@ -9,8 +9,7 @@ third_nav_title: Caring for Our Community
 <img style="width=350x;height:250px;" src="/images/SPARKS@Bukit%20Canberra/befriending.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
-				
-		<td width="60%">
+				<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
 					<td width="20%">
