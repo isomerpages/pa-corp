@@ -51,8 +51,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-					   SPARKS@Bukit Canberra
-21 Canberra Link S(756973)
+					   SPARKS@Bukit Canberra, 21 Canberra Link S(756973)
 					</td>
 				</tr>
 				<tr>
