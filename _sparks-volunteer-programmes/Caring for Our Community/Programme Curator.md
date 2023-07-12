@@ -99,7 +99,7 @@ b) Community Living Skills - basic skills such as ability to take care of onesel
 						:
 					</td>
 					<td><a href="https://form.gov.sg/633569d38bd2fa0012fbd06d">
-						<img style="width=200px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/programme%20curators%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/programme%20curators%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
