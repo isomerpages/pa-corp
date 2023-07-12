@@ -4,13 +4,12 @@ permalink: /our-programmes/sparks-bukit-canberra/befriending-for-vulnerable-seni
 description: ""
 third_nav_title: Caring for Our Community
 ---
-#### Befriending for Vulnerable Seniors
+#### Befriending for vulnerable seniors
 
+<img style="width=350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors.png">
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors.png">
-		</td>
+					
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
@@ -21,7 +20,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						Befriending for Vulnerable Seniors 
+						Befriending for vulnerable seniors 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -97,7 +96,9 @@ We are looking for volunteers to befriend seniors and their caregivers by provid
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors%20qr.png">
+					<td><a href="https://form.gov.sg/64ae2f13f6ce6e0011c758db">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>
