@@ -6,11 +6,10 @@ third_nav_title: Caring for Our Community
 ---
 #### Senior Befriending Programme
 
+<img style="width=350x;height:250px;" src="/images/SPARKS@Bukit%20Canberra/befriending.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/befriending.jpg">
-		</td>
+				
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
@@ -97,7 +96,9 @@ Briefing will be conducted before the session.
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/senior%20befriending%20programme%20qr.png">
+					<td><a href="https://form.gov.sg/62a07d8855ac2a001407392b">
+						<img style="width=200px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/senior%20befriending%20programme%20qr.png"></a><br>
+					For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 	</tbody></table>
