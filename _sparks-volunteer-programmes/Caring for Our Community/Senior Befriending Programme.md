@@ -96,7 +96,7 @@ Briefing will be conducted before the session.
 						:
 					</td>
 					<td><a href="https://form.gov.sg/62a07d8855ac2a001407392b">
-						<img style="width=200px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/senior%20befriending%20programme%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/senior%20befriending%20programme%20qr.png"></a><br>
 					For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
