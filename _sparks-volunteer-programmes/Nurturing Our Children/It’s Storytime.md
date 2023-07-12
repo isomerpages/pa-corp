@@ -51,7 +51,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-					   Virtual / Physical (Sembawang Town / Woodlands Town)
+					      SPARKS@Bukit Canberra, 21 Canberra Link S(756973)
 					</td>
 				</tr>
 				<tr>
