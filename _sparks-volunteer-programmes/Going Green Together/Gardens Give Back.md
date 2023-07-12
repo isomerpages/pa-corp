@@ -8,8 +8,7 @@ third_nav_title: Going Green Together
 
 <img style="width=350px;height:250;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back.jpg">
 <table width="100%" border="0">
-	<tbody><tr>
-							
+	<tbody><tr>							
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
