@@ -6,11 +6,10 @@ third_nav_title: Caring for Our Community
 ---
 #### Sowers' Event Ambassadors
 
+<img style="width=350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/sowers%20event%20ambassador.png">
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sowers%20event%20ambassador.png">
-		</td>
+							
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
@@ -97,7 +96,9 @@ We are looking for ambassadors (Event-based volunteers) to help manage physical 
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png">
+					<td><a href="https://form.gov.sg/62a6ce1529946c00123bcee0">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>
