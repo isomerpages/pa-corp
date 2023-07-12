@@ -96,8 +96,8 @@ We are looking for volunteers to share their knowledge and skills with other vol
 						:
 					</td>
 					<td>
-							<a href=""><img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png"></a><br>
-						For****
+							<a href="https://form.gov.sg/62a6ce1529946c00123bcee0"><img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>
