@@ -6,11 +6,10 @@ third_nav_title: Going Green Together
 ---
 #### Gardens Give Back
 
+<img style="width=350px;height:250;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back.jpg">
-		</td>
+							
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
@@ -97,7 +96,9 @@ We are looking for volunteers to set up more gardening plots around the estates.
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back%20qr.png">
+					<td><a href="https://form.gov.sg/62a079f8a303bc0012b828ed">
+						<img style="width=60px;height=60;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back%20qr.png"></a><br>
+						        For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>
