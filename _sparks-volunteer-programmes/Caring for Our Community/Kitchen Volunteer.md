@@ -6,11 +6,10 @@ third_nav_title: Caring for Our Community
 ---
 #### Kitchen Volunteer
 
+<img style="width=350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer.jpg">
-		</td>
+			
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
@@ -97,7 +96,9 @@ We are looking for someone who enjoys cooking desserts or light refreshments for
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer%20qr.png">
+					<td><a href="https://form.gov.sg/64ae473d67c1790011f3c87b"> 
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer%20qr.png"></a><br>
+						        For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>
