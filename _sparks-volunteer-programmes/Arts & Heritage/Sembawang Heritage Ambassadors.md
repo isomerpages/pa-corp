@@ -99,7 +99,7 @@ We hope to recruit volunteers who can help to organize heritage tours to create 
 						:
 					</td>
 					<td>
-							<a href="https://go.gov.sg/my0va3"><img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20qr.png"></a>
+					<a href="https://form.gov.sg/62a0680da303bc0012b6c48f"><img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20qr.png"></a>
 			</td>
 				</tr>
 </tbody></table>
