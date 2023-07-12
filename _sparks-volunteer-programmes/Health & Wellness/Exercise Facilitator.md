@@ -6,11 +6,10 @@ third_nav_title: Health & Wellness
 ---
 #### Exercise Facilitator
 
+<img style="width=350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator.png">
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator.png">
-		</td>
+		
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
@@ -97,7 +96,9 @@ We are looking for someone who enjoys exercising and is able to join in and moti
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20qr.png">
+					<td><a href="https://form.gov.sg/62a6eee55154a800146d3554">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>
