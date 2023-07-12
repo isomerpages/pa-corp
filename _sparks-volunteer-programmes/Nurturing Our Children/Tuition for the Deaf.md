@@ -97,8 +97,9 @@ We are looking for volunteers who are able to use sign language to teach and con
 						:
 					</td>
 					<td><a href="https://form.gov.sg/636394cb9df5c500118bd9b1">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20qr.png">
-			</a></td>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20qr.png"></a><br>
+						        For mobile user, please click on the QR code to register.
+			</td>
 				</tr>
 </tbody></table>
 
