@@ -96,8 +96,9 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td><a href="https://form.gov.sg/62a00e1b05105e0012c9c59d">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20qr.png">
-			</a></td>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20qr.png"></a><br>
+						
+			</td>
 				</tr>
 </tbody></table>
 
