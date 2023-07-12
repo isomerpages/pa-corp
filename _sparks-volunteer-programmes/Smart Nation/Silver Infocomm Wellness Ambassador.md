@@ -8,8 +8,7 @@ third_nav_title: Smart Nation
 
 <img style="width=350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador.jpg">
 <table border="0" width="100%">
-	<tbody><tr>
-						
+	<tbody><tr>						
 		<td width="60%">
 			<table border="0" width="100%">
 				<tbody><tr>
