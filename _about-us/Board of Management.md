@@ -3,4 +3,4 @@ title: Board of Management
 permalink: /about-us/board-of-management/
 description: ""
 ---
-Please click [here](/files/About%20Us/Board%20of%20Mgmt/PA%20Board%20of%20Management%20List%20for%20Intranet%20and%20Website%20(updated%203%20Jan%202023).pdf) for more information on PA Board of Management.
+Please click [here](/files/About%20Us/Board%20of%20Mgmt/pa%20board%20of%20management%20list%20for%20intranet%20and%20website%20(updated%2012%20july%202023).pdf) for more information on PA Board of Management.
