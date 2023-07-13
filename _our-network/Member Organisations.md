@@ -128,4 +128,3 @@ Here’s a list of our Corporate Members, by different categories:
 
 [Back to top]()
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d63820.260275184286!2d103.8131075!3d1.3157987!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssg!4v1689227272933!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
