@@ -6,7 +6,7 @@ third_nav_title: Health & Wellness
 ---
 #### Exercise Facilitator
 
-<img style="width=350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator.png">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator.png">
 <table width="100%" border="0">
 	<tbody><tr>
 			 <td width="60%">
