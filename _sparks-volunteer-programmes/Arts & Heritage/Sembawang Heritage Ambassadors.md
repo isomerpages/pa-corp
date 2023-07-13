@@ -6,11 +6,10 @@ third_nav_title: Arts & Heritage
 ---
 **Sembawang Heritage Ambassadors**
 
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors.png">
+
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors.png">
-		</td>
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
@@ -99,7 +98,9 @@ We hope to recruit volunteers who can help to organize heritage tours to create 
 						:
 					</td>
 					<td>
-							<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20qr.png">
+						<a href="https://form.gov.sg/62a0680da303bc0012b6c48f"><img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20qr.png">
+			</a><br>
+			For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>

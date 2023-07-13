@@ -6,11 +6,9 @@ third_nav_title: Smart Nation
 ---
 #### Silver Infocomm Wellness Ambassador
 
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador.jpg">
 <table border="0" width="100%">
-	<tbody><tr>
-		<td width="40%">
-			<img src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador.jpg" style="width=200px;height=auto;">
-		</td>
+	<tbody><tr>						
 		<td width="60%">
 			<table border="0" width="100%">
 				<tbody><tr>
@@ -97,7 +95,9 @@ third_nav_title: Smart Nation
 					<td width="5%">
 						:
 					</td>
-					<td><img src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador%20qr.png">
+					<td><a href="https://form.gov.sg/64ae6ec323e5470011bfdc1c">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador%20qr.png"></a><br>
+						        For mobile user, please click on the QR code to register.
 				</td></tr>
 </tbody></table>
 

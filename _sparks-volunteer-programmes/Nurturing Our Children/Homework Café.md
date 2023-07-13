@@ -6,11 +6,9 @@ third_nav_title: Nurturing Our Children
 ---
 #### Homework Cafe
 
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe.png">
 <table width="100%" border="0">
-	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe.png">
-		</td>
+	<tbody><tr>						
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
@@ -53,8 +51,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-					   SPARKS@Bukit Canberra
-21 Canberra Link S(756973)
+					   SPARKS@Bukit Canberra, 21 Canberra Link S(756973)
 					</td>
 				</tr>
 				<tr>
@@ -97,7 +94,9 @@ third_nav_title: Nurturing Our Children
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20qr.png">
+					<td><a href="https://form.gov.sg/62a00e1b05105e0012c9c59d">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>

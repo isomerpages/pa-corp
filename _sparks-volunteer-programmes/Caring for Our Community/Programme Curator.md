@@ -6,12 +6,10 @@ third_nav_title: Caring for Our Community
 ---
 #### Programme Curator
 
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/programme%20curator.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/programme%20curator.jpg">
-		</td>
-		<td width="60%">
+				<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
 					<td width="20%">
@@ -100,7 +98,9 @@ b) Community Living Skills - basic skills such as ability to take care of onesel
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/programme%20curators%20qr.png">
+					<td><a href="https://form.gov.sg/633569d38bd2fa0012fbd06d">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/programme%20curators%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>

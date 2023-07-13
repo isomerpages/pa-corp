@@ -6,12 +6,10 @@ third_nav_title: Nurturing Our Children
 ---
 #### Tuition for the Deaf
 
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
-		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf.jpg">
-		</td>
-		<td width="60%">
+							<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
 					<td width="20%">
@@ -98,7 +96,9 @@ We are looking for volunteers who are able to use sign language to teach and con
 					<td width="5%">
 						:
 					</td>
-					<td><img style="width=200px;height=auto;" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20qr.png">
+					<td><a href="https://form.gov.sg/636394cb9df5c500118bd9b1">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20qr.png"></a><br>
+						        For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>
