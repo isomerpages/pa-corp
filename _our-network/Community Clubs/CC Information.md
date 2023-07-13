@@ -17,5 +17,3 @@ For information on the Legal Advice Service provided at the CCs, click [here](/o
 For information on the Rental Facilities that are available at the CCs, click [here](/our-network/community-clubs/rentals).
 
 Click [here](https://www.onepa.gov.sg/rc) to search for your nearest RC or NC.
-
-<iframe height="480" width="640" src="https://www.google.com/maps/d/u/1/embed?mid=1Mgnp3R1e7rYXGY2Vn1efD-AWXlfZa8o&amp;ehbc=2E312F"></iframe>
