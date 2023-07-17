@@ -17,7 +17,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Polytechnic Graduates' Guild](https://www.spgg.org.sg/)
 
 
-#### Cultural & Educational Organisations
+#### Cultural &amp; Educational Organisations
 
 * [Central Council of Malay Cultural Organisations](https://majlispusatsg.org/)
 * [Chinese Calligraphy Society of Singapore](https://www.ccss.org.sg/)
@@ -48,7 +48,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Stamp Club](https://www.facebook.com/singaporestampclub)
 * [Singapore Youth Flying Club](http://www.syfc.sg/)
 
-#### Sports & Martial Arts Associations
+#### Sports &amp; Martial Arts Associations
 
 * [Basketball Association of Singapore](https://bas.org.sg/)
 * [Football Association of Singapore](http://www.fas.org.sg/)
@@ -72,7 +72,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Taekwondo Federation](https://www.stf.sg/)
 * [Singapore Tennis Association](http://www.singtennis.org.sg/)
 * [Singapore Weiqi Association](http://weiqi.org.sg/)
-* [Singapore Wushu Dragon & Lion Dance Federation](https://wuzong.com/)
+* [Singapore Wushu Dragon &amp; Lion Dance Federation](https://wuzong.com/)
 * [Singapore Xiangqi General Association](http://www.xiangqi.sg)
 * [Sports Boules Singapore](https://www.sportsboules.org.sg/)
 * [Volleyball Association of Singapore](https://www.vas.org.sg/)
@@ -118,7 +118,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Council of Women's Organisations](https://www.scwo.org.sg/)
 * [Singapore National Co-operative Federation Ltd](https://www.sncf.coop/)
 * [Singapore Professional Centre](http://www.spc.org.sg/)
-* Pets Enterprises & Traders Association, Singapore (PETAS)
+* Pets Enterprises &amp; Traders Association, Singapore (PETAS)
 
 #### Professional Bodies 
 
@@ -127,3 +127,4 @@ Here’s a list of our Corporate Members, by different categories:
 
 
 [Back to top]()
+
