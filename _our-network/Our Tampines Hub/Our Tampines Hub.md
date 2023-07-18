@@ -34,5 +34,5 @@ The&nbsp;**integration of the Community Gallery with the Regional Library at OTH
 
 Conceptualised with inputs from 15,000 Tampines residents,&nbsp;**Our Tampines Hub is designed with residents, for residents**. It is the future of Tampines that offers greater convenience, a full spectrum of activities, facilities and services to cater to residents and visitors of all ages and lifestyle preferences, ensuring it serves all members within our community.
 
-**Download the&nbsp;[e-copy of our Hub Guide](https://go.gov.sg/othhubguide2023)
+**Download the&nbsp;[e-copy of our Hub Guide](https://go.gov.sg/otheguide2023)
 ( Accurate as of 18 July 2023 ), featuring details on all the facilities and services OTH has to offer now**
