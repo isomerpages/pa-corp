@@ -22,6 +22,7 @@ Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg]
 
 7. [Annex 4(a) - PA Pre-Employment Medical Report Form (1 May 2019) ](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(06a)%20PA%20Pre-Employment%20Medical%20Report%20Form%20(1%20May%202019).pdf)
 8. [Annex 4(b) - Template for Reporting of Infectious Disease Outbreak to PA](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(06b)%20annex%204(b)%20-%20template%20for%20reporting%20of%20infectious%20disease%20outbreak%20to%20pa.pdf)
+
 9. [Annex 5 - Fire Safety Standards for Playgroups and Young Children  ](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(07)%20Annex%205%20-%20Fire%20Safety%20Standards%20for%20Playgroups%20and%20Young%20Children.pdf)
 
 
