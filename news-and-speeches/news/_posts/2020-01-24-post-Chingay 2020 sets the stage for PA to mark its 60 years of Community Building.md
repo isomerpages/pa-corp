@@ -10,7 +10,7 @@ image: ""
 
 **Summary**: 
 
-Themed ‘Colours of Harmony’, the parade returns to the F1 Pit Building on 31 Jan and 1 Feb 2020. Grab your tickets online today. 
+Themed ‘Colours of Harmony’, the parade returns to the F1 Pit Building on 31 Jan and 1 Feb 2020. Grab your tickets online today.
 
 ![](/images/NewsRoom/Chingay%202020.png)
 
