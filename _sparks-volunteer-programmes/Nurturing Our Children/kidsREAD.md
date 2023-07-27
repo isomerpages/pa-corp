@@ -96,8 +96,8 @@ Volunteers will be required to attend a 3 hours training by NLB at thei premise 
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/62a00e1b05105e0012c9c59d">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20qr.png"></a><br>
+					<td><a href="https://form.gov.sg/64b4f903a218a40012f13c60">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/kidsreadbc%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
