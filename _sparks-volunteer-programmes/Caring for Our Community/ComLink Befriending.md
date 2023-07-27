@@ -29,7 +29,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						   SPARKS@Bukit Canberra &amp; Sembawang GRC
+						Social Service Office@ Woodlands and Sembawang
 					</td>
 				</tr>
 				<tr>
@@ -40,7 +40,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday, from 7.30pm to 9.30pm 
+					4 befriending sessions a year (Timing is flexible) 
 					</td>
 				</tr>
 				<tr>
