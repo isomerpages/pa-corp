@@ -10,4 +10,4 @@ For tender notices pertaining to available spaces for rent at Community Clubs/Ce
 Open Tenders published via the Grassroots Emart System 2 (GEMS 2) can be viewed online using [this](https://gems.pa.gov.sg/account/vendors) link. Access the GEMS 2 webpage to learn more.
 <br>
 
-Please check the below listing(s) for the latest tender notices: <br> [Tender for Marsiling CCC Trade Fair ](/tender-details/mccctf)<br> [Tender for Woodlands CCC Trade Fair](/tender-details/woodlandsccctradefair)<br>[Tender for Kampong Glam CCC Trade Fair](/tender-details/kgccctf)<br>
+Please check the below listing(s) for the latest tender notices: <br> [Tender for Punggol West CCC Trade Fair](/tender-details/pwccctf)
