@@ -74,7 +74,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 			<a href="/our-programmes/sparks-bukit-canberra/its-storytime/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/its%20storytime%20words.png"></a></td>
 				 <td>
-			<a href="/our-programmes/sparks-bukit-canberra/kidsread/">
+			<a href="/our-programmes/sparks-bukit-canberra/kidsREAD/">
 				<img style="height:150px;width:200px" src="//images/SPARKS@Bukit%20Canberra/kidsread%20words.png"></a></td>
 </tr></tbody></table>
 
