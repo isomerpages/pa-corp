@@ -62,9 +62,8 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						   kidsREAD is a nationwide reading programme by National Library Board (NLB) to promote the love of reading among young Singaporeans aged 4 to 8 years old. 
-Volunteers will read and conduct activities for children attending the kidsREAD programme.
-Volunteers will be required to attend a 3 hours training by NLB at thei premise at Victoria Street.  
+						           This programme hopes to provide our students taking their PSLE with a supportive and nurturing environment as they prepare for their major exam.&nbsp;<br><br>
+As a volunteer, you will assist with subject-specific coaching for the students in English, Maths and Science to strengthen their understanding and knowledge.&nbsp; Volunteers will also assist to promote mental well-being through engaging the students with activities and board games.  
 					</td>
 				</tr>
 				<tr>
@@ -75,7 +74,7 @@ Volunteers will be required to attend a 3 hours training by NLB at thei premise 
 						:
 					</td>
 					<td width="75%">
-						15
+						18
 					</td>
 				</tr>
 		<tr>
@@ -86,7 +85,9 @@ Volunteers will be required to attend a 3 hours training by NLB at thei premise 
 						:
 					</td>
 					<td>
-						        Able to read English storybooks. Able to do art &amp; craft activities.
+						(1) Familiar with current MOE syllables in English, Maths &amp; Science <br>
+(2) Able to commit for 2 months <br>
+(3) Have passion to work with students
 			</td>
 				</tr>
 		<tr>
