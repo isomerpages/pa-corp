@@ -65,8 +65,8 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 
 <table>
 	<tbody><tr></tr>
-		</tbody><tbody><tr></tr><tr><td>
-	</td></tr><tr></tr><tr><td>
+		</tbody><tbody><tr></tr>
+	<tr></tr><tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/homework-cafe/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20words.png"></a></td>
 				<td>
