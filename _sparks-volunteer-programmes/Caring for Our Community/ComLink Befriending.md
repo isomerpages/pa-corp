@@ -62,14 +62,11 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						      Community Link (ComLink) is a community initiative to support families with young children living in rental flats. Join us as a ComLink befriender and help foster a caring and inclusive society for all! <br>
-
-As a ComLink befriender, you will get to:
-						
+						      Community Link (ComLink) is a community initiative to support families with young children living in rental flats. Join us as a ComLink befriender and help foster a caring and inclusive society for all! <br><br>
+					As a ComLink befriender, you will get to:<br><br>
 (1) BUILD meaningful relationships with families in need and be a listening ear they can trust.<br><br>
-					CARE for families through quarterly check-ins (home visits or phone calls) to ensure families well-being and understand their needs
-SUPPORT families and journey with them towards achieving their goals and aspirations.<br><br>
-Briefing will be conducted before the session. 
+(2) CARE for families through quarterly check-ins (home visits or phone calls) to ensure families well-being and understand their needs
+					SUPPORT families and journey with them towards achieving their goals and aspirations.<br><br>
 					</td>
 				</tr>
 				<tr>
@@ -80,7 +77,7 @@ Briefing will be conducted before the session.
 						:
 					</td>
 					<td width="75%">
-						15
+						18
 					</td>
 				</tr>
 		<tr>
@@ -91,7 +88,8 @@ Briefing will be conducted before the session.
 						:
 					</td>
 					<td>
-						NA
+						 (1) Proficient in English and at least one other Mother Tongue (preferably Malay, Mandarin or Tamil)<br><br>
+						(2) Have a keen passion for serving and uplifting the lives of individuals/families in need. <br>
 			</td>
 				</tr>
 		<tr>
