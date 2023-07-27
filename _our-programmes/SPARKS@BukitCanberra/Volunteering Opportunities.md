@@ -63,8 +63,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 
 ### Nurturing Our Children
 
-<a href="/our-programmes/sparks-bukit-canberra/kidsREAD/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/psle%20coaching%20programme%20words.png"></a><table>
+<table>
 	<tbody><tr></tr>
 		</tbody><tbody><tr></tr><tr><td>
 	</td></tr><tr></tr><tr><td>
