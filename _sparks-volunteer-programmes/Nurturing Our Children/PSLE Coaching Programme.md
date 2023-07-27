@@ -6,7 +6,7 @@ third_nav_title: Nurturing Our Children
 ---
 #### PSLE Coaching Programme
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/kidsread.png">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/psle%20coaching%20programme.png">
 <table width="100%" border="0">
 	<tbody><tr>						
 		<td width="60%">
@@ -40,7 +40,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						    Every third Saturday of the month, 1 hour per session, 3.30pm to 4.30pm
+						    Weekly Saturday starting from 12 August 2023 to 30 September 2023, 2.30pm to 5.30pm 
 					</td>
 				</tr>
 				<tr>
