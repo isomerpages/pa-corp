@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Nurturing Our Children
 ---
 #### PSLE Coaching Programme
-![](/images/SPARKS@Bukit%20Canberra/psle%20coaching%20programme%20qr.png)
+
 <img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/psle%20coaching%20programme.png">
 <table width="100%" border="0">
 	<tbody><tr>						
