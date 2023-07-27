@@ -51,7 +51,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-					Sembawang Town &amp; Woodlands Town
+					      Woodlands / Sembawang area
 					</td>
 				</tr>
 				<tr>
@@ -62,7 +62,13 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						   With the increase in dementia and depression amongst seniors, our volunteers are reaching out to seniors in Sembawang GRC and getting them to engage in community events. This creates opportunities for seniors to make friends within the community and reduce social isolation and hence, reduce the risk of depression and dementia.<br><br>
+						      Community Link (ComLink) is a community initiative to support families with young children living in rental flats. Join us as a ComLink befriender and help foster a caring and inclusive society for all! <br>
+
+As a ComLink befriender, you will get to:
+						
+(1) BUILD meaningful relationships with families in need and be a listening ear they can trust.<br><br>
+					CARE for families through quarterly check-ins (home visits or phone calls) to ensure families well-being and understand their needs
+SUPPORT families and journey with them towards achieving their goals and aspirations.<br><br>
 Briefing will be conducted before the session. 
 					</td>
 				</tr>
