@@ -19,4 +19,3 @@ Venue: Open Field beside Block 678 Perumal Road**
 
 <br>
 For enquiries, please contact Mong Kheng at Tel: 6298 6110 or email to Goh_Mong_Kheng@pa.gov.sg.
-

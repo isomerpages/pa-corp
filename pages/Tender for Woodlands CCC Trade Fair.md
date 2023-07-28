@@ -19,4 +19,3 @@ Fair Venue: Along Woodlands Avenue 7 (from Woodlands Drive 71 till Woodlands Ave
 
 <br>
 For enquiries, please contact Haja Shariff at Tel: 6368 9938 or email to Haja_Shariff_Abdul_Karis@pa.gov.sg.
-

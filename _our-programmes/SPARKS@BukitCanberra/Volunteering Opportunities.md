@@ -39,7 +39,10 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 			<a href="/our-programmes/sparks-bukit-canberra/programme-curator/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/programme%20curator%20words.jpg"></a></td><td>
 			<a href="/our-programmes/sparks-bukit-canberra/kitchen-volunteer/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer%20words.jpg"></a></td></tr></tbody></table>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer%20words.jpg"></a></td><td>
+	<a href="/our-programmes/sparks-volunteer-programmes/comlink-befriending/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/comlink%20befriending%20words.jpg"></a></td>
+	</tr></tbody></table>
 
 
 ### Going Green Together
@@ -63,8 +66,10 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 
 ### Nurturing Our Children
 
-<table><tbody>
-<tr><td>
+<table>
+	<tbody><tr></tr>
+		</tbody><tbody><tr></tr>
+	<tr></tr><tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/homework-cafe/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20words.png"></a></td>
 				<td>
@@ -72,7 +77,13 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20words.jpg"></a></td>
 				<td>
 			<a href="/our-programmes/sparks-bukit-canberra/its-storytime/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/its%20storytime%20words.png"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/its%20storytime%20words.png"></a></td></tr><tr>
+			<td>
+				<a href="/our-programmes/sparks-bukit-canberra/kidsread/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kidsread%20words.png"></a></td>
+			<td>
+				<a href="/our-programmes/sparks-bukit-canberra/psle-coaching-programme/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/psle%20coaching%20programme%20words.png"></a></td>
 </tr></tbody></table>
 
 ### Smart Nation
