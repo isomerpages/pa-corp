@@ -21,7 +21,7 @@ As a leading youth organisation, the People's Association Youth Movement (PAYM) 
 Involving over 90 Youth Networks based at the Community Clubs/Centres (CCs), PAYM’s various programs and activities create a common space for youth to bond and contribute to their local communities regardless of race, religion and educational backgrounds. Over at PAYM, we proactively create opportunities for our youth to unleash their potentials and fulfil their aspirations.
 
 <a id="Paym_Ser_LC"></a>
-##### PAYM Service-Learning Champion
+##### PAYM&nbsp;Service-Learning Champion
 
 <img style="width:600px" align="center" src="/images/Programmes/Youth/SLC1.jpg">
 
@@ -59,7 +59,7 @@ To build a civic-conscious youth community, the PAYM also provides platforms for
 <a id="Forum_Dialogue_Series"></a>
 ##### Forum and Dialogue Series
 
-<img style="width:600px" align="center" src="/images/Programmes/Youth/Dialogue%201.jpg"><br>
+
 <img style="width:600px" align="center" src="/images/Programmes/Youth/Dialogue.jpg"><br>
 <img style="width:600px" align="center" src="/images/Programmes/Youth/Dialogue%203.jpg">
 
