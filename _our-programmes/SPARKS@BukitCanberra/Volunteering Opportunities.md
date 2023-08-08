@@ -62,8 +62,8 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 			<a href="/our-programmes/sparks-bukit-canberra/exercise-facilitator/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20words.png"></a></td>
 	<td>
-			<a href="/our-programmes/sparks-bukit-canberra/exercise-facilitator/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20words.png"></a></td>
+			<a href="/our-programmes/sparks-bukit-canberra/mood-memory-screeners/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/mood-memory%20screeners%20words.jpg"></a></td>
 		<td>
 			<a href="/our-programmes/sparks-bukit-canberra/exercise-facilitator/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20words.png"></a></td>
