@@ -97,7 +97,7 @@ As part of our outreach and awareness efforts, we regularly provide free Mood-Me
 						:
 					</td>
 					<td><a href="https://form.gov.sg/62a6eee55154a800146d3554">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/mood%20memory%20screeners%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
