@@ -75,7 +75,7 @@ As part of our outreach and awareness efforts, we regularly provide free Mood-Me
 						:
 					</td>
 					<td width="75%">
-						21
+						18
 					</td>
 				</tr>
 		<tr>
@@ -86,7 +86,7 @@ As part of our outreach and awareness efforts, we regularly provide free Mood-Me
 						:
 					</td>
 					<td>
-						  Active, enjoys interacting with seniors, able to assist in setting up the event.
+						       Literacy, Active Listening, able to use online forms.
 			</td>
 				</tr>
 		<tr>
