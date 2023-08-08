@@ -6,7 +6,7 @@ third_nav_title: Health & Wellness
 ---
 #### Mood Memory Screeners
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator.png">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/mood%20memory%20screeners.jpeg">
 <table width="100%" border="0">
 	<tbody><tr>
 			 <td width="60%">
@@ -19,7 +19,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td>
-						Exercise Facilitator 
+						Mood Memory Screeners 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -29,7 +29,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td>
-						TOUCH Active Ageing Centre (Wellington)
+						AWWA CREST
 					</td>
 				</tr>
 				<tr>
@@ -40,7 +40,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						   Every Monday: 9am-10am; Wednesday: 2pm-3pm; Friday: 9am-10am
+						   To be confirmed (Ad-hoc)
 					</td>
 				</tr>
 				<tr>
@@ -51,7 +51,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-					   Blk 513 Wellington Circle #01-34, Singapore 750513
+					   Within Canberra, Sembawang Central, Sembawang West, Woodlands, Yio Chu Kang divisions only
 					</td>
 				</tr>
 				<tr>
@@ -62,8 +62,9 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of age, ability or physical status - can be equipped as a resource to help others.<br><br>
-We are looking for someone who enjoys exercising and is able to join in and motivate the seniors during the session.
+						There are estimated to be close to 10,000 persons at risk of dementia in Woodlands and Sembawang by 2030. Dementia and depression have also been found to be closely linked.<br><br>  
+AWWA CREST serves persons with dementia, persons with mental health conditions and their caregivers within Sembawang, Woodlands and Yio Chu Kang. <br><br> 
+As part of our outreach and awareness efforts, we regularly provide free Mood-Memory screening to the communities in the areas stated above.<br><br> We are looking for volunteers to be Mood Memory Screeners to join our mission in building a dementia-, mental health- , and caregiver-friendly Sembawang, Woodlands and Yio Chu Kang!<br><br>						Screening involves using two standardised questionnaires screening for Memory and Mood respectively. Free training is provided.<br><br>
 					</td>
 				</tr>
 				<tr>
