@@ -18,7 +18,7 @@ sections:
           url: /engage/be-our-volunteer/
         - title: Connect with Government
           description: Read More
-          url: //engage/connect-with-government/connecting-people-and-government/
+          url: /engage/connect-with-government/connecting-people-and-government/
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
