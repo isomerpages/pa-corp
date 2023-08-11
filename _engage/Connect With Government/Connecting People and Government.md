@@ -4,14 +4,32 @@ permalink: /engage/connect-with-government/connecting-people-and-government/
 description: ""
 third_nav_title: Connect With Government
 ---
-As familiar faces in the community, many residents turn to PA staff and our grassroots leaders and volunteers to share their feedback and find out more information about government schemes. 
+![](/images/Engage/connecting%20people%20and%20government%202.gif)
 
-Through regular dialogue sessions, community events and house visits, our residents, including those who are not mobile, can share their feedback and views on the Government’s policies, including their concerns on topics ranging from housing and education to healthcare. Our grassroots listen closely to the matters raised by the community and reflect residents’ feedback and aspirations to the Government on community and national issues, including through public consultations and dialogue sessions, as well as forum letters.  
+PA staff and grassroots leaders are familiar faces in the community, and residents often approach them to share feedback and learn about government schemes.
 
-When major new government policies that directly affect the lives of many Singaporeans are introduced, our grassroots help residents better understand the key basic points of these policies and how they can benefit from them. The [Ask Kopi Kakis (AKK)](/engage/connect-with-government/ask-kopi-kakis/) initiative was implemented by PA in all its CCs, to make government policies simple, relevant and accessible to all.
+**Engaging residents to solicit feedback**
 
-Serving as a bridge between the Government and the people, our grassroots also bring together government agencies and residents to help find community-led solutions for local problems. For example, efforts from the Grassroots Organisation to ease the congestion issue in the Tiong Bahru neighbourhood. To read the full article, please click [here](https://www.todayonline.com/singapore/grassroots-effort-aims-ease-traffic-woes-tiong-bahru).  
+Residents can provide feedback on government policies through regular dialogue sessions, community events, and house visits. Our grassroots listen closely to the community's concerns and share their feedback with the government through public consultations, dialogue sessions, and forum letters.
 
-Through some of our CCs, PA also provides some basic government services to make it more convenient to residents.
+Examples of initiatives include Ask Kopi Kakis #shareyourviews which engages citizens widely for their views and suggestions on issues that matter to them. The [Forward Singapore](https://www.forwardsingapore.gov.sg) exercise is another initiative where PA and grassroots leaders organised consultations to gather feedback and suggestions from Singaporeans on topics related to building a new social compact for Singapore.
 
-Our network of grassroots organisations and volunteers work tirelessly to connect Government and the people. If you have the passion and drive to contribute to the community and help your fellow residents, click [here](/our-volunteers/volunteering-opportunities) to join us as a grassroots volunteer today.
+<img style="width:250px" align="left" src="/images/Engage/share%20your%20views.png"><br>
+<br>
+<br>
+![](/images/Engage/image%20akk.jpg)
+
+![](/images/Engage/sengkang%202.jpg)
+
+![](/images/Engage/marine%20parade.PNG)
+
+<br>
+
+**Relaying information to residents**
+
+The grassroots also help residents understand new government policies that affect their lives and disseminate information on government policies through Ask Kopi Kakis (AKK)-branded content. These materials complement content from government agencies and convey information on policies or salient topics in a simple and relatable way. Besides informing residents what benefits they receive from government initiatives, our grassroots also play a key role to communicate challenging policies and seek citizens’ support for these difficult yet necessary policies for the long-term good of Singapore e.g. communicating the rationale for increase in the Goods and Services Tax (GST).  
+
+<img style="width:250px" align="left" src="/images/Engage/financial%20assistance%20scheme.jpg">
+<img style="width:250px" align="left" src="/images/Engage/higher%20bursuries.jpg">
+<img style="width:250px" align="left" src="/images/Engage/public%20transport%20voucher.jpg">
+
