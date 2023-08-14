@@ -6,8 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Beware of potential scam letters, calls, messages, social media
   pages, websites and mobile applications impersonating PA/staff. If unsure, do
-  not provide your personal or financial info.<br />Click <a href="/scam-alert"
-  >here</a> for more details.
+  not provide your personal or financial info.<br>Click <a
+  href="/scam-alert">here</a> for more details.
 sections:
   - hero:
       background: /images/join-your-community.jpg
@@ -18,7 +18,7 @@ sections:
           url: /engage/be-our-volunteer/
         - title: Connect with Government
           description: Read More
-          url: engage/connect-with-government/connect-with-government/
+          url: /engage/connect-with-government/connecting-people-and-government/
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
