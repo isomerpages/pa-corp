@@ -27,8 +27,4 @@ Examples of initiatives include Ask Kopi Kakis #shareyourviews which engages cit
 
 The grassroots also help residents understand new government policies that affect their lives and disseminate information on government policies through Ask Kopi Kakis (AKK)-branded content. These materials complement content from government agencies and convey information on policies or salient topics in a simple and relatable way. Besides informing residents what benefits they receive from government initiatives, our grassroots also play a key role to communicate challenging policies and seek citizens’ support for these difficult yet necessary policies for the long-term good of Singapore e.g. communicating the rationale for increase in the Goods and Services Tax (GST).  
 
-<img style="width:250px" align="left" src="/images/Engage/financial%20assistance%20scheme.jpg"> <br>
-
-<img style="width:250px" align="left" src="/images/Engage/higher%20bursuries.jpg"> <br>
-
-<img style="width:250px" align="left" src="/images/Engage/public%20transport%20voucher.jpg"> <br>
+<img style="width:500px" align="centre" src="/images/Engage/akk%20collage.png"> <br>
