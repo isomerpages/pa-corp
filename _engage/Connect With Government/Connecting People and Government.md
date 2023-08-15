@@ -14,7 +14,7 @@ Residents can provide feedback on government policies through regular dialogue s
 
 Examples of initiatives include Ask Kopi Kakis #shareyourviews which engages citizens widely for their views and suggestions on issues that matter to them. The [Forward Singapore](https://www.forwardsingapore.gov.sg) exercise is another initiative where PA and grassroots leaders organised consultations to gather feedback and suggestions from Singaporeans on topics related to building a new social compact for Singapore.
 
-<img style="width:250px" align="left" src="/images/Engage/share%20your%20views.png"><br>
+<img style="width:300px" align="left" src="/images/Engage/akk%20syv%20logo.png"><br>
 <br>
 <br>
 ![](/images/Engage/image%20akk.jpg)
@@ -29,7 +29,7 @@ Examples of initiatives include Ask Kopi Kakis #shareyourviews which engages cit
 
 The grassroots also help residents understand new government policies that affect their lives and disseminate information on government policies through Ask Kopi Kakis (AKK)-branded content. These materials complement content from government agencies and convey information on policies or salient topics in a simple and relatable way. Besides informing residents what benefits they receive from government initiatives, our grassroots also play a key role to communicate challenging policies and seek citizens’ support for these difficult yet necessary policies for the long-term good of Singapore e.g. communicating the rationale for increase in the Goods and Services Tax (GST).  
 
-<img style="width:250px" align="left" src="/images/Engage/financial%20assistance%20scheme.jpg">
+<img style="width:250px" align="left" src="/images/Engage/financial%20assistance%20scheme.jpg">![](/images/Engage/akk%20syv%20logo.png)
 <img style="width:250px" align="left" src="/images/Engage/higher%20bursuries.jpg">
 <img style="width:250px" align="left" src="/images/Engage/public%20transport%20voucher.jpg">
 <br>
