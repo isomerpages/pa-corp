@@ -12,4 +12,4 @@ image: ""
 
 ![](/images/NewsRoom/Parliament%20House.jpg)
 
-The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website [here](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2023/Aug/Peoples-%20Association-will-continue-to-identify-ways-to-improve-structures-systems-processes)
+The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website [here](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2023/Aug/Peoples-%20Association-will-continue-to-identify-ways-to-improve-structures-systems-processes).
