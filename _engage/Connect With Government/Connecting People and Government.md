@@ -16,7 +16,6 @@ Examples of initiatives include Ask Kopi Kakis #shareyourviews which engages cit
 
 <img style="width:600px" align="left" src="/images/Engage/akk%20syv%20logo.png"><br>
 <br>
-<br>
 <img style="width:600px" align="centre" src="/images/Engage/image%20akk.jpg">
 <br>
 <img style="width:600px" align="centre" src="/images/Engage/sengkang%202.jpg">
