@@ -7,3 +7,4 @@ layout: post
 description: ""
 image: ""
 ---
+### People’s Association will continue to identify ways to improve structures, systems, and process
