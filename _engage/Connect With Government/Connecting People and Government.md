@@ -14,7 +14,7 @@ Residents can provide feedback on government policies through regular dialogue s
 
 Examples of initiatives include Ask Kopi Kakis #shareyourviews which engages citizens widely for their views and suggestions on issues that matter to them. The [Forward Singapore](https://www.forwardsingapore.gov.sg) exercise is another initiative where PA and grassroots leaders organised consultations to gather feedback and suggestions from Singaporeans on topics related to building a new social compact for Singapore.
 
-<img style="width:600px" align="left" src="/images/Engage/akk%20syv%20logo.png"><br>
+<img style="width:600px" align="centre" src="/images/Engage/akk%20syv%20logo.png"><br>
 <br>
 <img style="width:600px" align="centre" src="/images/Engage/image%20akk.jpg">
 <br>
