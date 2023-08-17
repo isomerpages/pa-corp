@@ -4,7 +4,7 @@ permalink: /engage/connect-with-government/connecting-people-and-government/
 description: ""
 third_nav_title: Connect With Government
 ---
-![](/images/Engage/connecting%20people%20and%20government%202.gif)
+![](/images/Engage/connecting%20people%20and%20government%20v2.gif)
 
 PA staff and grassroots leaders are familiar faces in the community, and residents often approach them to share feedback and learn about government schemes.
 
