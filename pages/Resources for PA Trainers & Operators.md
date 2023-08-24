@@ -37,6 +37,7 @@ This online form is only applicable for existing Trainer and Operator.  We will 
 9. [Infographics of PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(updated%206%20Jan%202023).pdf)
 10. [FAQs for revised PSG (As of 1 Jan 2023)](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/Frequently%20Asked%20Questions%20for%20PA%20TrainersOperators%20-%20PSG%20(27%20Dec%202022).pdf)
 11. [Video for revised PSG](https://go.gov.sg/pahandbook)
+12. [Video on signing the e-Letter of Appointment ](https://go.gov.sg/esign)
 
 
 
