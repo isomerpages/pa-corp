@@ -19,7 +19,7 @@ This online form is only applicable for existing Trainer and Operator.  We will 
 
 **Professional Standards and Guidelines for PA Trainers**
 
-**Please download the resources via the links be below:**
+**Please download the resources via the links  below:**
 
 1. [Professional Standards and Guidelines for PA Trainers (Effective 1 January 2023)](/files/(01)%20Professional%20Standards%20and%20Guidelines%20for%20PA%20Trainers%20(Effective%201%20Jan%202023).pdf)
 2. [Annex 2 - Classes for Children](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(02)%20Annex%202%20-%20Classes%20for%20Children.pdf)
@@ -49,6 +49,15 @@ Please download the resources via the links below:
 2. [PA Playgroup Health & Hygiene Audit Checklist (June 2023)](/files/pa%20playgroup%20health%20&%20hygiene%20audit%20checklist%20(jun%202023).pdf)
 
 
+
+
+**E-bites**
+
+Please download the e-bites via the below links:
+
+2023
+
+[E-bites (September 2023)](/files/Our%20Programmes/CC%20Courses/E%20Bites/pa_e-bites_20230901.pdf)
 
 **Safe Management Measures**
 
