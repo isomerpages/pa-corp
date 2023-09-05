@@ -53,6 +53,10 @@ Please download the resources via the links below:
 
 **E-bites**
 
+Please download the e-bites via the below links:
+
+2023
+
 
 **Safe Management Measures**
 
