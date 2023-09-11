@@ -5,7 +5,7 @@ description: ""
 ---
 #### Senior Citizens' Executive Committees
 
-<img style="width:600px"  align="centre" src="/images/Our%20Programmes/activeageing-scec.jpg" >
+<img style="width:600px" align="centre" src="/images/Our%20Programmes/activeageing-scec.jpg">
 
 People’s Association (PA) Senior Citizens’ Executive Committees (SCECs) is the largest seniors’ network in Singapore. The SCECs organise a wide variety of activities to empower seniors to stay active, healthy and socially connected in the community. From gardening, singing, dancing, cooking, arts and crafts to fitness exercises, there is something for everyone. Under the network, there are also many interest groups formed by the seniors for the seniors where seniors can meet like-minded peers and pursue their interests together. Members in interest groups form deep bonds when they meet regularly. Seniors also achieve a deep sense of fulfilment when they are able to impart their experience and knowledge to others. For more information on SCEC programmes, please visit your nearest [Community Club (CC)](https://www.onepa.gov.sg/cc)
 
@@ -20,3 +20,5 @@ Jointly offered by the People’s Association and Health Promotion Board, the Li
 *    **Live Assured**: To encourage seniors to go for regular health screening and follow-up<br>
 *    **Live Happy**: To educate seniors on the importance of mental and social well-being and encourage active participation to stay socially connected<br>
 *    **Live Prepared**: To equip seniors with essential knowledge and skills to stay independent and fulfilled post-retirement
+
+Learn more about our programmes at the [Live Well, Age Well page](https://www.healthhub.sg/programmes/160/AAP).
