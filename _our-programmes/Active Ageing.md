@@ -21,4 +21,4 @@ Jointly offered by the People’s Association and Health Promotion Board, the Li
 *    **Live Happy**: To educate seniors on the importance of mental and social well-being and encourage active participation to stay socially connected<br>
 *    **Live Prepared**: To equip seniors with essential knowledge and skills to stay independent and fulfilled post-retirement
 
-Learn more about our programmes at [LiveWellAgeWell.gov.sg](https://www.healthhub.sg/programmes/160/AAP).
+Learn more about our programmes at the [Live Well, Age Well page](https://www.healthhub.sg/programmes/160/AAP).
