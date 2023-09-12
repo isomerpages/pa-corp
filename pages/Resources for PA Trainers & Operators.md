@@ -57,7 +57,7 @@ Please download the e-bites via the below links:
 
 2023
 
-[E-bites (September 2023)](/files/Our%20Programmes/CC%20Courses/E%20Bites/pa_e-bites_20230901.pdf)
+
 
 **Safe Management Measures**
 
