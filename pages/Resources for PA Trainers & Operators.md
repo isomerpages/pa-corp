@@ -57,7 +57,7 @@ Please download the e-bites via the below links:
 
 2023
 
-
+[https://file.go.gov.sg/e-bites.png](https://file.go.gov.sg/e-bites.png)
 
 **Safe Management Measures**
 
