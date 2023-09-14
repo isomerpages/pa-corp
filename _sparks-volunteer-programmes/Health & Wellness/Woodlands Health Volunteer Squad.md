@@ -74,7 +74,7 @@ We are looking for someone who enjoys exercising and is able to join in and moti
 *   These include visitor registration kiosks and patient service stations for queue management, appointment bookings and payments<br>
 <br>						
 Orientation and training will be provided.<br><br>
-						For more information, visit <a href="https://www.wh.com.sg">Woodlands Health Volunteer</a><br>
+						For more information, visit <a href="https://www.wh.com.sg/volunteer">Woodlands Health Volunteer</a><br>
 For enquiries, email <a href="mailto:volunteer@wh.com.sg">volunteer@wh.com.sg
 					</a></td>
 				</tr>
