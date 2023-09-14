@@ -4,7 +4,7 @@ permalink: /our-programmes/sparks-bukit-canberra/woodlands-health-volunteer-squa
 description: ""
 third_nav_title: Health & Wellness
 ---
-#### Exercise Facilitator
+#### Woodlands Health Volunteer Squad
 
 <img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator.png">
 <table width="100%" border="0">
@@ -19,7 +19,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td>
-						Exercise Facilitator 
+						Woodlands Health Volunteer Squad 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -29,7 +29,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td>
-						TOUCH Active Ageing Centre (Wellington)
+						Woodlands Health (WH)
 					</td>
 				</tr>
 				<tr>
