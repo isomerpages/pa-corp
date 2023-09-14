@@ -62,8 +62,20 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of age, ability or physical status - can be equipped as a resource to help others.<br><br>
-We are looking for someone who enjoys exercising and is able to join in and motivate the seniors during the session.
+						       Woodlands Health (WH) – Singapore’s newest hospital – is opening in December 2023! WH is a fully integrated acute and community hospital. We offer a range of acute, sub-acute, rehabilitative and transitional care services, working closely with partners to deliver seamless care for our North-Western community. <br><br>
+This December we’re looking for volunteers to help make a positive impact to build a compassionate and empowered community with us. Here are the roles available: physical status - can be equipped as a resource to help others.<br><br>
+We are looking for someone who enjoys exercising and is able to join in and motivate the seniors during the session.<br><br>
+						    
+1.  Navigation Buddy
+
+*   Be the warm and friendly face that welcomes patients and visitors
+*   Introduce the services and facilities at the new hospital
+*   Assist patients and visitors from the drop-off and meeting points to other areas of the hospital
+
+2.  Digital Master
+
+*   Assist patients and visitors in using digital platforms
+*   These include visitor registration kiosks and patient service stations for queue management, appointment bookings and payments
 					</td>
 				</tr>
 				<tr>
