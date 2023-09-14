@@ -6,7 +6,7 @@ third_nav_title: Health & Wellness
 ---
 #### Woodlands Health Volunteer Squad
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/woodlands%20health%20volunteer%20squad.png">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/woodlands%20health%20volunteer%20squad.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
 			 <td width="60%">
@@ -109,7 +109,7 @@ For enquiries, email [volunteer@wh.com.sg](mailto:volunteer@wh.com.sg)
 						:
 					</td>
 					<td><a href="https://form.gov.sg/63ef17e9b29854001171e160">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/woodlands%20health%20volunteer%20squad%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/woodlands%20health%20volunteer%20squad%20qr.jpg"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
