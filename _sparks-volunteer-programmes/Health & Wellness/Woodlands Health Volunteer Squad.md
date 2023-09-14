@@ -114,8 +114,6 @@ For enquiries, email [volunteer@wh.com.sg](mailto:volunteer@wh.com.sg)
 			</td>
 				</tr>
 </tbody></table>
-
-
 <br>
 			<br>
 			<br>
