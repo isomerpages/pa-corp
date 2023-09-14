@@ -72,8 +72,8 @@ We are looking for someone who enjoys exercising and is able to join in and moti
 2.  Digital Master<br><br>
 *   Assist patients and visitors in using digital platforms<br><br>
 *   These include visitor registration kiosks and patient service stations for queue management, appointment bookings and payments<br>
-						
-Orientation and training will be provided.<br>
+<br>						
+Orientation and training will be provided.<br><br>
 For more information, visit https://www.wh.com.sg/volunteer<br>
 For enquiries, email [volunteer@wh.com.sg](mailto:volunteer@wh.com.sg)
 					</td>
