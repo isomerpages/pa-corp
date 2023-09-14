@@ -75,7 +75,7 @@ We are looking for someone who enjoys exercising and is able to join in and moti
 *   These include visitor registration kiosks and patient service stations for queue management, appointment bookings and payments<br>
 						
 Orientation and training will be provided.<br>
-For more information, visit <a href="http://www.wh.com.sg/volunteer">
+For more information, visit <a href="https://www.wh.com.sg/volunteer"><br>
 For enquiries, email [volunteer@wh.com.sg](mailto:volunteer@wh.com.sg)
 					</a></td>
 				</tr>
