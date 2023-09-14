@@ -108,7 +108,7 @@ For enquiries, email [volunteer@wh.com.sg](mailto:volunteer@wh.com.sg)
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/62a6eee55154a800146d3554">
+					<td><a href="[WH Volunteer Expression of Interest | FormSG](https://form.gov.sg/63ef17e9b29854001171e160)https://form.gov.sg/62a6eee55154a800146d3554">
 						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
