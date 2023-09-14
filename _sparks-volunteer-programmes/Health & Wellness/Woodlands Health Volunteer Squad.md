@@ -98,7 +98,7 @@ For enquiries, email [volunteer@wh.com.sg](mailto:volunteer@wh.com.sg)
 						:
 					</td>
 					<td>
-						  Active, enjoys interacting with seniors, able to assist in setting up the event.
+						  Able to speak Mandarin, Malay, Tamil, or Dialect is a plus.
 			</td>
 				</tr>
 		<tr>
