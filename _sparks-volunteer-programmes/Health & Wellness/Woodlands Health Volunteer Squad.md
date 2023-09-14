@@ -51,7 +51,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-					   Blk 513 Wellington Circle #01-34, Singapore 750513
+					   Woodlands Health
 					</td>
 				</tr>
 				<tr>
