@@ -6,7 +6,7 @@ third_nav_title: Health & Wellness
 ---
 #### Woodlands Health Volunteer Squad
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator.png">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/woodlands%20health%20volunteer%20squad.png">
 <table width="100%" border="0">
 	<tbody><tr>
 			 <td width="60%">
