@@ -109,7 +109,7 @@ For enquiries, email [volunteer@wh.com.sg](mailto:volunteer@wh.com.sg)
 						:
 					</td>
 					<td><a href="https://form.gov.sg/63ef17e9b29854001171e160">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/woodlands%20health%20volunteer%20squad%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
