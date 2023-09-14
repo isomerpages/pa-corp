@@ -74,10 +74,8 @@ We are looking for someone who enjoys exercising and is able to join in and moti
 *   Assist patients and visitors in using digital platforms
 *   These include visitor registration kiosks and patient service stations for queue management, appointment bookings and payments<br>
 						
-Orientation and training will be provided.
-
-For more information, visit [www.wh.com.sg/volunteer](https://imsva91-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=http%3a%2f%2fwww.wh.com.sg%2fvolunteer&amp;umid=D4E719CA-04BD-5D06-8401-43D439A6F5FD&amp;auth=6e3fe59570831a389716849e93b5d483c90c3fe4-0a371faa45ec2f84fb27d5833004fd2630c6cc5f)
-
+Orientation and training will be provided.<br>
+For more information, visit [www.wh.com.sg/volunteer](https://imsva91-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=http%3a%2f%2fwww.wh.com.sg%2fvolunteer&amp;umid=D4E719CA-04BD-5D06-8401-43D439A6F5FD&amp;auth=6e3fe59570831a389716849e93b5d483c90c3fe4-0a371faa45ec2f84fb27d5833004fd2630c6cc5f)<br>
 For enquiries, email [volunteer@wh.com.sg](mailto:volunteer@wh.com.sg)
 					</td>
 				</tr>
