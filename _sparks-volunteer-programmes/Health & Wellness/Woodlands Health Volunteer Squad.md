@@ -40,7 +40,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						   Every Monday: 9am-10am; Wednesday: 2pm-3pm; Friday: 9am-10am
+         At least once a month
 					</td>
 				</tr>
 				<tr>
