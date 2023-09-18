@@ -1,7 +1,7 @@
 ---
 title: Ask Kopi Kakis Share Your Views Budget 2023
 permalink: /engage/connect-with-government/akksyv/
-description: ""
+description: Ask Kopi Kakis Share Your Views Budget 2023
 ---
 ![Pre-Budget Survey 2023](/images/Engage/Website%20photo%20AKKSYV%20v4.png)
 
