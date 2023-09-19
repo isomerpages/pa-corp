@@ -53,7 +53,7 @@ Please download the resources via the links below:
 
 **E-bites**
 
-Please download the e-bites via the below links:
+Please download the e-bites via the below link:
 
 2023
 
