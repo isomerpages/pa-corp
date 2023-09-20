@@ -55,9 +55,9 @@ Please download the resources via the links below:
 
 Please download the e-bites via the below link:
 
-2023
+[September 2023  ](https://file.go.gov.sg/e-bites.png)
 
-[https://file.go.gov.sg/e-bites.png](https://file.go.gov.sg/e-bites.png)
+
 
 **Safe Management Measures**
 
