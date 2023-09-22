@@ -2,4 +2,5 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Management of Carparking Facilities at Bedok CC.md
       - Tender for Punggol West CCC Trade Fair.md
