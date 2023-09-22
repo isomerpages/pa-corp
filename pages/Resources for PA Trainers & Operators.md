@@ -14,7 +14,7 @@ Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg]
 
 This online form is only applicable for existing Trainer and Operator.  We will not process submission of this form from potential applicants who are not our Trainers and Operators yet. 
 
-* To apply , please click [here](http://www.go.gov.sg/courseproposal).
+* To apply, please click [here](http://www.go.gov.sg/courseproposal).
 
 
 **Professional Standards and Guidelines for PA Trainers**
@@ -53,11 +53,11 @@ Please download the resources via the links below:
 
 **E-bites**
 
-Please download the e-bites via the below links:
+Please download the e-bites via the below link:
 
-2023
+[September 2023  ](https://file.go.gov.sg/e-bites.png)
 
-[https://file.go.gov.sg/e-bites.png](https://file.go.gov.sg/e-bites.png)
+
 
 **Safe Management Measures**
 
