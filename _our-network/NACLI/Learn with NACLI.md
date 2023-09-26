@@ -10,7 +10,7 @@ Come onboard NACLI’s learning journey today!  Download the latest copy of our 
 
 ##### Current Issue (Jul - Dec 2023)
 
-[<img src="/images/Our%20Network/NACLI/nacli%20courses%20-%20jul-dec%202023.PNG">](/files/Our%20Network/NACLI/Learn%20With%20NACLI/naclicourses-issue8-jul-dec-2023.pdf)
+[<img src="/images/Our%20Network/NACLI/oct%202023%20-%20mar%202024.PNG">](/files/Our%20Network/NACLI/Learn%20With%20NACLI/naclicourses-issue8-jul-dec-2023.pdf)
 
 ##### Past Issues
 
