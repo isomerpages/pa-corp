@@ -22,7 +22,7 @@ Are you interested in bringing your community together through shared interests 
 If you answered yes to all of the above, you are welcome to join us as a PA Training Provider!
 
  
- #### General Guidelines to Note before Submitting an Application
+# General Guidelines to Note before Submitting an Application
  
 1.       \*Interested applicants must refer to [Course Subject Listing](https://go.gov.sg/coursesubjectlisting-sept2023) to see if the course you intend to teach is listed under the “Accepted” listing before applying. As some courses have an adequate supply of training providers, we will not be accepting applications for courses under the “Not Accepted” listing until further notice. We will continue to monitor the demand for these courses, and will accept applications at the next opening window should more training providers be required by then.
 
