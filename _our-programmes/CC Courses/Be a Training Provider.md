@@ -26,7 +26,7 @@ If you answered yes to all of the above, you are welcome to join us as a PA Trai
  
 1.       \*Interested applicants must refer to [Course Subject Listing](https://go.gov.sg/coursesubjectlisting-sept2023) to see if the course you intend to teach is listed under the “Accepted” listing before applying. As some courses have an adequate supply of training providers, we will not be accepting applications for courses under the “Not Accepted” listing until further notice. We will continue to monitor the demand for these courses, and will accept applications at the next opening window should more training providers be required by then.
 
-2.       You may refer to https://www.onepa.gov.sg/courses to identify the correct category for the course that you are interested to conduct.
+2.       You may refer to [onePA](https://www.onepa.gov.sg/) to identify the correct category for the course that you are interested to conduct.
 
 3.       Individual Trainers and Private Operators must register with the People’s Association (PA) before conducting courses at Community Centres /Clubs (CCs), Residents’ Committee Centres (RCs), Residents’ Network (RNs), and Specialist CCs (SCCs). 
 
@@ -52,7 +52,7 @@ b.       Qualifications
 
             ii.            Applicants who wish to teach Sports and Fitness subjects must possess valid Standard First Aid and Hands-On CPR and AED certificates with at least a 1-year validity at the point of application.
 
-             iii.            Applicants who wish to teach Fitness subjects such as Yoga and Zumba must be a registered member (full membership, not provisional) of SportSG’s National Registry of Exercise Professionals (NREP). For more details on NREP, please refer to [www.activesgcircle.gov.sg/nrep](http://www.activesgcircle.gov.sg/nrep).
+             iii.            Applicants who wish to teach Fitness subjects such as Yoga must be a registered member (full membership, not provisional) of SportSG’s National Registry of Exercise Professionals (NREP). For more details on NREP, please refer to [www.activesgcircle.gov.sg/nrep](http://www.activesgcircle.gov.sg/nrep).
 
            iv.            Applicants who wish to teach Culinary subjects must possess a valid Food & Hygiene certificate.
 
