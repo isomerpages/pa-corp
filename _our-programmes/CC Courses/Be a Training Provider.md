@@ -52,7 +52,7 @@ b.       Qualifications
 
             ii.            Applicants who wish to teach Sports and Fitness subjects must possess valid Standard First Aid and Hands-On CPR and AED certificates with at least a 1-year validity at the point of application.
 
-             iii.            Applicants who wish to teach Fitness subjects such as Yoga and Zumba must be a registered member (full membership, not provisional) of SportSG’s National Registry of Exercise Professionals (NREP). For more details on NREP, please refer to [www.activesgcircle.gov.sg/nrep](http://www.activesgcircle.gov.sg/nrep).
+             iii.            Applicants who wish to teach Fitness subjects such as Yoga must be a registered member (full membership, not provisional) of SportSG’s National Registry of Exercise Professionals (NREP). For more details on NREP, please refer to [www.activesgcircle.gov.sg/nrep](http://www.activesgcircle.gov.sg/nrep).
 
            iv.            Applicants who wish to teach Culinary subjects must possess a valid Food & Hygiene certificate.
 
