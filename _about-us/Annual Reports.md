@@ -6,7 +6,7 @@ description: ""
 #####  Annual Report 22/23
 
 
-<img style="width:300px" align="left" src="/images/About%20Us/Annual%20Reports/PA%20AR%202122.png">
+<img style="width:300px" align="left" src="/images/About%20Us/Annual%20Reports/20231002%20pa%20ar%20thumbnail%201131%20x%201684%20(v2).png">
 
 <br><br><br>
 <br><br><br><br><br><br><br><br><br>
