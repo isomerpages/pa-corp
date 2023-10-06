@@ -32,10 +32,10 @@ Payment Hours: 09:00 - 21:30
 
 #### Contact Information
 
-6 Ang Mo Kio Street 53 S569205  
+Blk 435 Ang Mo Kio Ave 10 #01-1393, Singapore 560435<br>
 Phone: 64588222  
 Fax: 64581287  
-Email: [PA\_CHENGSANCC@pa.gov.sg](mailto:PA_CHENGSANCC@pa.gov.sg)  
+Email:&nbsp;[PA\_CHENGSANCC@pa.gov.sg](mailto:PA_CHENGSANCC@pa.gov.sg)  
 
 [I want to register for a course](https://www.onepa.gov.sg/)
 
@@ -56,4 +56,4 @@ Email: [PA\_CHENGSANCC@pa.gov.sg](mailto:PA_CHENGSANCC@pa.gov.sg)
 
 #### Map
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.674350385779!2d103.84713961399757!3d1.3720778618876779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16e66d988c3d%3A0x1c52df010e1a6acd!2sCheng%20San%20Community%20Club!5e0!3m2!1sen!2ssg!4v1662009865821!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.674350385779!2d103.84713961399757!3d1.3720778618876779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16e66d988c3d%3A0x1c52df010e1a6acd!2sCheng%20San%20Community%20Club!5e0!3m2!1sen!2ssg!4v1662009865821!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
