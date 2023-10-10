@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SPARKS@BukitCanberra
 ---
 #### **Volunteering Opportunities**
-![](/images/SPARKS@Bukit%20Canberra/befriending%20with%20seniors%20mft%20words.png)
+
 SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six main pillars - Arts &amp; Heritage, Nurturing Our Children, Caring for Our Community, Health &amp; Wellness, Smart Nation and Going Green Together.  To-date, we have local projects reaching out to more than 1,000 beneficiaries.
 
     
