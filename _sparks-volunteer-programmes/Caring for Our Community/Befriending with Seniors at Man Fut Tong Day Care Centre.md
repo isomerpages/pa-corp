@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Caring for Our Community
 ---
 #### Befriending with Seniors at Man Fut Tong Day Care Centre
-![](/images/SPARKS@Bukit%20Canberra/befriending%20with%20seniors%20mft%20qr.png)
+
 <img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/befriending%20with%20seniors%20mft.png">
 <table width="100%" border="0">
 	<tbody><tr>
