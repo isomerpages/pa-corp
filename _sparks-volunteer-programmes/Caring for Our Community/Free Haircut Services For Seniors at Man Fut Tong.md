@@ -63,7 +63,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						      Man Fut Tong Nursing Home, is a home for the elderly and aged sick.<br>
+						      Man Fut Tong Nursing Home, is a home for the elderly and aged sick. <br>We are looking for certified hairdresser/barber to cut hair for the seniors<br>
 						</td>
 				</tr>
 				<tr>
