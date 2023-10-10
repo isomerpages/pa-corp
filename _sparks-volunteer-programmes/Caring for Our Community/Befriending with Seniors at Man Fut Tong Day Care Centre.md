@@ -88,9 +88,11 @@ We are looking for volunteers who can mingle with the seniors, doing handicraft 
 						:
 					</td>
 					<td>
-						 (1) Proficient in English and at least one other Mother Tongue (preferably Malay, Mandarin or Tamil)<br><br>
-						(2) Have a keen passion for serving and uplifting the lives of seniors in need<br><br>
-						(3) Certified in hairdresser/barber skills <br>
+						 (1) Proficient in English and at least one other Mother Tongue (preferably Malay, Mandarin or Tamil)<br>
+						(2) Have a keen passion for serving and uplifting the lives of seniors in need<br>
+						(3) Physically fit <br>
+						(4) Patience and understanding<br>
+						(5) Willing to undergo training provided by the centre<br>
 						</td>
 				</tr>
 		<tr>
@@ -100,7 +102,7 @@ We are looking for volunteers who can mingle with the seniors, doing handicraft 
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/6512a3568387e000121cdd8b">
+					<td><a href="https://form.gov.sg/6512a760bf26ea00112dbd4b">
 						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/free%20hair%20cut%20mft%20qr.png"></a><br>
 					For mobile user, please click on the QR code to register.
 			</td>
