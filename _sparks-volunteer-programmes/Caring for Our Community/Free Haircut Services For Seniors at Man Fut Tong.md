@@ -52,7 +52,7 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td width="75%">
 					            Man Fut Tong Nursing Home <br>
-20 Woodlands Street 82 Singapore 73
+20 Woodlands Street 82, Singapore 738507
 					</td>
 				</tr>
 				<tr>
