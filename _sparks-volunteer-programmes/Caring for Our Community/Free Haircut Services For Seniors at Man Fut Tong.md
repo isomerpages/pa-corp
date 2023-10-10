@@ -98,7 +98,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td><a href="https://form.gov.sg/64c092392a144f001102a94f">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/comlink%20befriending%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/free%20hair%20cut%20mft%20qr.png"></a><br>
 					For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
