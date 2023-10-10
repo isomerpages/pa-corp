@@ -19,7 +19,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						Befriending with Seniors with Seniors at Man Fut Tong
+						Befriending with Seniors at Man Fut Tong Day Care Centre
 					</td>
 				</tr>
 					<tr><td width="20%">
