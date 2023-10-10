@@ -6,7 +6,7 @@ third_nav_title: Caring for Our Community
 ---
 #### Free Haircut Services For Seniors at Man Fut Tong
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/comlink%20befriending.jpg">
+<img style="width:350px;height:250px;" src="images/SPARKS@Bukit%20Canberra/free%20haircut%20services%20for%20seniors.png">
 <table width="100%" border="0">
 	<tbody><tr>
 				<td width="60%">
