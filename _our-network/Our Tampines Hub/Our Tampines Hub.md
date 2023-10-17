@@ -33,6 +33,3 @@ OTH provides a&nbsp;**common secular space**&nbsp;for residents and visitors of 
 The&nbsp;**integration of the Community Gallery with the Regional Library at OTH**&nbsp;has enabled NHB to reach out to new audiences in the heartlands and raise awareness of arts, culture and heritage amongst the surrounding community; strengthen the sense of pride and belonging to the spaces they live in; engender greater ownership of our heritage amongst Singaporeans; thereby&nbsp;**fostering a greater sense of nationhood and identity in our people**. This is a joint effort with NHB, NLB and Tampines Grassroots Organisations (GROs).
 
 Conceptualised with inputs from 15,000 Tampines residents,&nbsp;**Our Tampines Hub is designed with residents, for residents**. It is the future of Tampines that offers greater convenience, a full spectrum of activities, facilities and services to cater to residents and visitors of all ages and lifestyle preferences, ensuring it serves all members within our community.
-
-**Download the&nbsp;[e-copy of our Hub Guide](https://go.gov.sg/otheguide2023)
-( Accurate as of 18 July 2023 ), featuring details on all the facilities and services OTH has to offer now**
