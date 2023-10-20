@@ -2,4 +2,5 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Container Building project in Taman Jurong.md
       - Tender for Licence to manage Carparking Facilities at Bedok CC.md
