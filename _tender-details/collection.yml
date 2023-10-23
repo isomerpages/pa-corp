@@ -2,4 +2,5 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Chinatown Festival Decoration.md
       - Tender for Taman Jurong Container Building Project.md
