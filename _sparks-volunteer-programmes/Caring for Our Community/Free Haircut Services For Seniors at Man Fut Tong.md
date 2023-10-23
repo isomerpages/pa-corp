@@ -63,7 +63,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						      Man Fut Tong Nursing Home, is a home for the elderly and aged sick. <br>We are looking for certified hairdresser/barber to cut hair for the seniors<br>
+						      Man Fut Tong Nursing Home, is a home for the elderly and aged sick. <br>We are looking for certified hairdressers/barbers to give haircuts for the nursing home seniors<br>
 						</td>
 				</tr>
 				<tr>
@@ -87,7 +87,7 @@ third_nav_title: Caring for Our Community
 					<td>
 						 (1) Proficient in English and at least one other Mother Tongue (preferably Malay, Mandarin or Tamil)<br><br>
 						(2) Have a keen passion for serving and uplifting the lives of seniors in need<br><br>
-						(3) Certified in hairdresser/barber skills <br>
+						(3) Certified in hairdressing/barbering skills <br>
 						</td>
 				</tr>
 		<tr>
