@@ -16,9 +16,8 @@ Tender for Chinatown Chinese New Year 2024 Fairs
 **(c) Stall S1 &amp; S2 along Smith Street <br>**
 &nbsp;&nbsp;&nbsp;&nbsp;**Fair Duration: 19 January to 9 February 2024 (22 days)<br>**
 
-**(d) Festive Fair at Temple Street (area in front of Sri Mariamman Temple and 68A Temple Street)<br>**
+**(d) Festive Fair at Temple Street, in front of Sri Mariamman Temple &amp; 68A Temple Street<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;**Fair Duration: 19 January to 9 February 2024 (22 days)<br>**
-
 
 * * *
 ### Details
