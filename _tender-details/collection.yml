@@ -2,6 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Chinatown Chinese New Year 2024 Fairs.md
       - Tender for Street Light Up Decorative Items for Chinatown Chinese New
         Year 2024.md
       - Tender for Taman Jurong Container Building Project.md
