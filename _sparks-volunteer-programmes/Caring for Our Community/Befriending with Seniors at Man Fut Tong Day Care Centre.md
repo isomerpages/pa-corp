@@ -92,7 +92,7 @@ and engage them through activities such as handicraft work, board games, and chi
 						 (1) Proficient in English and at least one other Mother Tongue (preferably Malay, Mandarin or Tamil)<br>
 						(2) Have a keen passion for serving and uplifting the lives of seniors in need<br>
 						(3) Physically fit <br>
-						(4) Patience and understanding<br>
+						(4) Patient and understanding<br>
 						(5) Willing to undergo training provided by the centre<br>
 						</td>
 				</tr>
