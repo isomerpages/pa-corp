@@ -66,7 +66,8 @@ Minimum 2hrs (per session), 1pm to 3pm<br>
 					</td>
 					<td width="75%">
 						      Man Fut Tong Nursing Home, is a home for the elderly and aged sick.<br><br>     
-We are looking for volunteers who can mingle with the seniors, doing handicraft together, play board games together, talk and listen to them.<br><br>Learn the proper ways, how to feed patients that cannot eat on their own.
+We are looking for volunteers who can mingle with the seniors   
+and engage them through activities such as handicraft work, board games, and chit-chat.<br><br> Volunteers will also learn the proper way to assist patients who have difficulties eating on their own with their meals.
 						</td>
 				</tr>
 				<tr>
