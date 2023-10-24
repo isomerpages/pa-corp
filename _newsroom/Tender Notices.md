@@ -13,4 +13,5 @@ Open Procurement and Grassroots Trade Fair Tenders published via the Grassroots 
 Please check the below listing(s) for the latest tender notices: <br> [Tender for Taman Jurong Container Building Project ](/tender-details/tmcbp) <br>
 [Tender for Street Light Up Decorative Items for Chinatown Chinese New Year 2024](/tender-details/cfccny2024deco) <br>
 [Tender for Chinatown Chinese New Year 2024 Fairs](/tender-details/cfccnyfestive2024/)<br>
-[Tender for Provision of Refuse Collection and Cleaning Works for Chinatown Chinese New Year 2024 ](/tender-details/cfccnyrefuse2024)
+[Tender for Provision of Refuse Collection and Cleaning Works for Chinatown Chinese New Year 2024 ](/tender-details/cfccnyrefuse2024) <br>
+[Tender for Provision of Auxiliary Police Services for Chinatown Chinese New Year Celebrations 2024](/tender-details/cfccny2024police)
