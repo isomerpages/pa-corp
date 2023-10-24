@@ -30,4 +30,4 @@ For enquiries, please contact Celeste or Xiaohui at Tel: 6272 3878 or email to C
 
 **Calling Committee: Chinatown Festival Committee**<br>
 **Publication Date : 24 October 2023** <br>
-**Closing Date &amp; Time : 9 November 2023, 06:00 PM**
+**Closing Date &amp; Time : 10 November 2023, 06:00 PM**
