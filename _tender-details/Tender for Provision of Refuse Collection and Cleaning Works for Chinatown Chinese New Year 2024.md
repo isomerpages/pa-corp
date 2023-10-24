@@ -7,7 +7,7 @@ description: ""
 Tender for Provision of Refuse Collection and Cleaning Works for Chinatown Chinese New Year 2024 
 ==============================================================
 
-Interested tenderers are invited to tender for the provision of refuse collection and cleaning works for Chinatown Chinese New Year Celebrations 2024.
+Interested tenderers are invited to tender for the Provision of Refuse Collection and Cleaning Works for Chinatown Chinese New Year Celebrations 2024.
 
 **Calling Committee: Chinatown Festival Committee**
 
