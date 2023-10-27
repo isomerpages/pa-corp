@@ -15,6 +15,6 @@ third_nav_title: CC Courses
 
 Thank you for your interest to be a PA Training Provider! 
 
-The submission of New Trainer/Operator application form has closed on **27 October  2023**.  More inforamtion on the next application window will be available on this page in  January 2024.  We look foroward to your application.
+The submission of New Trainer/Operator application form has closed on **27 October  2023**.  More information on the next application window will be available on this page in January 2024.  We look forward to your application.
 
 For any enquiry, please email to [PA\_Talent\_Times@pa.gov.sg](mailto:PA_Talent_Times@pa.gov.sg).
