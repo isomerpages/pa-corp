@@ -5,31 +5,30 @@ description: ""
 ---
 <img style="width:350px" src="/images/Our%20Programmes/commarts-logo.png"><br>
 
-PAssionArts, established by the People’s Association (PA) in 2012 and supported by the Ministry of Culture, Community and Youth, is a community arts movement to promote arts to the community and to use arts to bond people. It aims to make arts and culture accessible to the people by bringing it right to the heart of every constituency in Singapore. Through arts, we aim to bring people together, promote bonding and build a sense of belonging to the community and nation. Adopting the participatory art approach, we actively involve residents, art champions and artists to build a strong resident-centric and volunteer-driven community arts movement.
+PAssionArts, established by the People’s Association (PA) in 2012 and supported by the Ministry of Culture, Community and Youth, is a community arts movement to bring arts and culture to the community and to use arts to engage and bond people together. It aims to make arts and culture accessible to the people by bringing it right to the heart of neighbourhoods in Singapore. Adopting the participatory art approach, we actively involve residents, art champions and artists to build a volunteer-driven, resident-centric and socially-connected community arts movement championing arts for everyone in Singapore.
 
 The key PAssionArts programmes include:
 * <a href="#Community_Arts">Community Arts and Culture Clubs</a>
 * <a href="#Passion_Arts">PAssionArts Festival</a>
 * <a href="#PassionArts_volunteer">PAssionArts Volunteer Corps</a>
-*  <a href="#Passion_Community">
-*  PAssionArts Community Art Gallery</a>
+*  <a href="#Passion_Community">PAssionArts Community Art Gallery</a>
 * <a href="#Passion_Hotspot">PAssionArts Hotspot</a>
 * <a href="#Passion_Inspi">PAssionArts Inspiration Series</a>
 
-For more information, check out our [Facebook page](http://www.facebook.com/PAssionArtsSG).
+Connect with us on our [Facebook](https://www.facebook.com/PAssionArtsSG), [Instagram](https://www.instagram.com/passionartssg) and [TikTok](https://www.tiktok.com/@PAssionArtsSG/). You may also contact us at pa_acd@pa.gov.sg.
 
 <a id="Community_Arts"></a>
 ### Community Arts and Culture Clubs
 
 <img style="width:600px" src="/images/Our%20Programmes/commsart-cacc2.jpg">
 
-The Community Arts &amp; Culture Clubs (CACCs) comprise like-minded volunteers with a passion in promoting community arts.&nbsp; The CACC’s main objective is to leverage on arts and culture to reach out and engage residents of all ages, races and estates and bringing arts and culture accessible to the community.&nbsp; The many interesting programmes offered will contribute in making each constituency and neighbourhood a vibrant arts and culture scene with its own unique art identity.
+The Community Arts &amp; Culture Clubs (CACCs) comprise like-minded volunteers with a passion in promoting community arts.&nbsp; The CACC’s main objective is to formulate, champion and implement arts and culture programmes to reach out and engage residents of all ages, races and estates and bringing arts and culture accessible to the community.&nbsp; The many interesting programmes offered will bring arts experiences to residents, cultivate a sense of belonging in the community while creating vibrancy and unique art identity in the heartlands.
 
 <a id="Passion_Arts"></a>
 ### PAssionArts Festival
 
 <img style="width:600px" src="/images/Our%20Programmes/commmart-paf.jpeg"><br>
-PAssionArts Festival (PAF) is an annual community arts festival organised by the Community Arts &amp; Culture Clubs (CACC). &nbsp;Since its inception in 2012 as a flagship programme, PAF has fostered a sense of togetherness and belonging to the community through the arts, providing people from all walks of life an access to quality art programmes and a platform for community collaboration and engagement.&nbsp; Engaging performances, arts activities and visual art exhibitions/installations are curated and organised to showcase the community’s creativity and local talents.
+PAssionArts Festival (PAF) is an annual community arts festival organised by the Community Arts &amp; Culture Clubs (CACC). &nbsp;Since its inception in 2012 as a flagship programme, PAF has fostered a sense of togetherness and belonging in the community through the arts, providing people access to quality art programmes and a platform for community collaboration and engagement.&nbsp; Quality performances, hands-on arts activities and visual art exhibitions/installations are curated and organised to showcase the community’s creativity and local talents.
 
 As part of the festival highlight, the National-Level Art Initiative provides opportunities for residents to co-create artistic representations of their neighbourhood to add vibrancy to their HeARTland. Partnering community artists, the CACCs and their residents come together to unleash their creativity, make new friends/fond memories and create art for their neighbourhood!
 
@@ -46,7 +45,9 @@ Want to make a difference through Arts and Culture? Join us as a volunteer today
 *   If you love to share the joy of performance with others
 *   If you love art and want to contribute behind the scenes at PAssionArts activities
 
-Get in touch with your local&nbsp;Community Arts and Culture Club (CACC) at the [Community Club](https://www.onepa.gov.sg/cc) closest to you or email us at&nbsp;[PA_ACD@pa.gov.sg](mailto:PA_ACD@pa.gov.sg).
+Get in touch with your local&nbsp;Community Arts and Culture Club (CACC) at the [Community Club](https://www.onepa.gov.sg/cc) closest to you or complete this form for us to match you to the CACC nearest to you for volunteering opportunities: [https://go.gov.sg/passionartsvol](https://go.gov.sg/passionartsvol).
+
+# Past PAssionArts Initiatives
 
 <a id="Passion_Community"></a>
 ### PAssionArts Community Art Gallery
