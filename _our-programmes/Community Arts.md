@@ -20,7 +20,9 @@ Connect with us on our [Facebook](https://www.facebook.com/PAssionArtsSG), [Inst
 <a id="Community_Arts"></a>
 ### Community Arts and Culture Clubs
 
-<img style="width:600px" src="/images/Our%20Programmes/commsart-cacc2.jpg">
+
+
+<img style="width:600px" src="/images/Our%20Programmes/commarts-cacc2.jpg">
 
 The Community Arts &amp; Culture Clubs (CACCs) comprise like-minded volunteers with a passion in promoting community arts.&nbsp; The CACC’s main objective is to formulate, champion and implement arts and culture programmes to reach out and engage residents of all ages, races and estates and bringing arts and culture accessible to the community.&nbsp; The many interesting programmes offered will bring arts experiences to residents, cultivate a sense of belonging in the community while creating vibrancy and unique art identity in the heartlands.
 
