@@ -5,7 +5,7 @@ description: ""
 ---
 <img style="width:350px" src="/images/Our%20Programmes/commarts-logo.png"><br>
 
-PAssionArts, established by the People’s Association (PA) in 2012 and supported by the Ministry of Culture, Community and Youth, is a community art movement to bring arts and culture to the community; and to use arts to engage and bond people together. It aims to make arts and culture accessible to the people by bringing it right to the heart of neighbourhoods in Singapore. Adopting the participatory art approach, we actively involve residents, art champions and artists to build a volunteer-driven, resident-centric and socially-connected community arts movement championing arts for everyone in Singapore.
+PAssionArts, established by the People’s Association (PA) in 2012 and supported by the Ministry of Culture, Community and Youth, is a community art movement to bring arts and culture to the community; create a common space that allows diverse groups to come together to appreciate, experience arts and culture, as well as foster sense of belonging and create shared memories. Adopting the participatory art approach, we actively involve residents, art champions and artists to build a volunteer-driven, resident-centric and socially-connected community arts movement championing arts for everyone in Singapore.
 
 The key PAssionArts programmes include:
 * <a href="#Community_Arts">Community Arts and Culture Clubs</a>
