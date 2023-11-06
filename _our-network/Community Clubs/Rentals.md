@@ -3,6 +3,7 @@ title: Rentals
 permalink: /our-network/community-clubs/rentals/
 description: ""
 third_nav_title: Community Clubs
+variant: markdown
 ---
 PA offers a wide range of facilities and services to cater to your different needs – be it for personal use, for the community or for your company. We offer common spaces for like-minded people to connect and build new friendships through a variety of activities, from recreational to educational. You are even welcomed to rent traditional costumes or book our performing groups for your events.
 
@@ -20,4 +21,4 @@ Book your CC courses and facilities at the [onePA website](https://www.onepa.gov
 
 Commercial tenants are one of the channels through which the People’s Association reaches out to residents across all ages, races and places of residence. We invite interested commercial operators to lease our commercial spaces to conduct businesses to add vibrancy and provide additional avenues for people to bond together.
 
-View the list of available CC spaces for lease[here ](/files/list%20of%20availability_pa_30%20oct%202023.pdf)
+View the list of available CC spaces for lease[here](/files/Our%20Network/Community%20Clubs/list%20of%20availability_pa_6%20nov%202023.pdf)
