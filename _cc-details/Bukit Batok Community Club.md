@@ -40,9 +40,8 @@ Payment Hours: 09:00 - 21:30
 #### Contact Information
 Block 119 Bukit Batok West Avenue 6, #01-256, Singapore 650119
 Phone: 65646317
-Fax: 65668557
-Email: PA_BUKITBATOKCC@pa.gov.sg
-I want to register for a course
+<br>Fax: 65668557
+<br>Email: PA_BUKITBATOKCC@pa.gov.sg
 
 #### Facilities
 Dance Studio
