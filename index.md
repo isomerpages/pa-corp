@@ -27,10 +27,10 @@ sections:
       variant: center
   - resources:
       title: News & Speeches
-      button: Read More
+      button: More News
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
-      button: READ MORE
+      button: download the app
       url: /resource/news/residents-can-now-download-the-mypassion-mobile-app-on-their-phones/
       alt: Image alt text
       image: /images/Passion Mobile.png
