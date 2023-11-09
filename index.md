@@ -22,7 +22,7 @@ sections:
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
-      button: join us
+      button: find out more
       url: /engage/join-your-community/
       variant: center
   - resources:
