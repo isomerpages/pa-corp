@@ -6,8 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Beware of potential scam letters, calls, messages, social media
   pages, websites and mobile applications impersonating PA/staff. If unsure, do
-  not provide your personal or financial info.<br>Click <a
-  href="/scam-alert">here</a> for more details.
+  not provide your personal or financial info.<br>Find out <a
+  href="/scam-alert">more details</a> on scams.
 sections:
   - hero:
       background: /images/join-your-community.jpg
