@@ -53,7 +53,7 @@ third_nav_title: Arts & Heritage
 					</td>
 					<td width="75%">
 					  SPARKS@Bukit Canberra<br><br>
-21 Canberra Link #01-63 Singapore 756973
+21 Canberra Link #01-63, Singapore 756973
 					</td>
 				</tr>
 				<tr>
