@@ -40,8 +40,12 @@ third_nav_title: Smart Nation
 					<td width="5%">
 						:
 					</td>
-					<td width="75%">
-						   Every third Thursday of the month, 10am to 11.30am
+					<td width="75%">						   
+					1) A minimum of 2 hours per week for teaching sessions and related activities.
+						Every third Thursday of the month, 10am to 11.30am<br><br>
+					2) Attendance at quarterly volunteer meetings and training sessions<br><br>
+					3) A commitment to at least one semester or six months of volunteer service<br><br>
+					4) Willingness to participate in community events, such as showcase exhibitions and project presentations
 					</td>
 				</tr>
 				<tr>
