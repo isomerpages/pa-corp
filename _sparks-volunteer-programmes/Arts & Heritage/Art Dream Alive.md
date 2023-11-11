@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Arts & Heritage
 ---
 #### Art-Dream Alive
-![](/images/SPARKS@Bukit%20Canberra/Art_Dream_Alive_QR.png)
+
 <img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/Art_Dream_Alive.png">
 <table border="0" width="100%">
 	<tbody><tr>						
