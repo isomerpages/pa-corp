@@ -2,10 +2,10 @@ collections:
   sparks-volunteer-programmes:
     output: true
     order:
-      - Arts & Heritage/Art Dream Alive.md
+      - Arts & Heritage/.keep
       - Arts & Heritage/Sembawang Heritage Ambassadors.md
       - Arts & Heritage/Sewing Interest Group.md
-      - Arts & Heritage/.keep
+      - Arts & Heritage/Art Dream Alive.md
       - Caring for Our Community/.keep
       - Caring for Our Community/ComLink Befriending.md
       - Caring for Our Community/Sowers’ Event Ambassador.md
