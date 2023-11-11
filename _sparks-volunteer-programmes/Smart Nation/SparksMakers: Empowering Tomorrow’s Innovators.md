@@ -104,7 +104,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td><a href="https://form.gov.sg/654c646660a2b300126b7c59">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sparks%20makers%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/Sparks_Makers_QR.png"></a><br>
 						        For mobile user, please click on the QR code to register.
 				</td></tr>
 </tbody></table>
