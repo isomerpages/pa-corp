@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Arts & Heritage
 ---
 #### Art-Dream Alive
-
+![](/images/SPARKS@Bukit%20Canberra/Art_Dream_Alive_QR.png)
 <img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/Art_Dream_Alive.png">
 <table border="0" width="100%">
 	<tbody><tr>						
@@ -99,7 +99,7 @@ This programme aims to improve senior arts creativity to explore and share their
 						:
 					</td>
 					<td><a href="https://form.gov.sg/65487160a24e0d00126e2a8d">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/art%20dream%20alive%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/Art_Dream_Alive_QR.png"></a><br>
 						        For mobile user, please click on the QR code to register.
 				</td></tr>
 </tbody></table>
