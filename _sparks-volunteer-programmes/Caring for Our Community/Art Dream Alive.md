@@ -20,7 +20,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						SparksMakers: Empowering Tomorrow's Innovators 
+						Art-Dream Alive 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -41,12 +41,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">						   
-					1) A minimum of 2 hours per week for teaching sessions and related activities.
-						Every third Thursday of the month, 10am to 11.30am<br><br>
-					2) Attendance at quarterly volunteer meetings and training sessions<br><br>
-					3) A commitment to at least one semester or six months of volunteer service<br><br>
-					4) Willingness to participate in community events, such as showcase exhibitions and project presentations
-					</td>
+					       Every first Thursday of the month, 2 hours per session, 10am to 12noon
+											</td>
 				</tr>
 				<tr>
 					<td width="20%">
@@ -68,7 +64,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						        "SparksMakers" is an initiative aimed at bridging the digital divide and inspiring the next generation of innovators. It seeks to provide free and accessible coding, robotics, and 3D printing education to students of all backgrounds. By tapping into the expertise and passion of volunteers, the program strives to offer a hands-on learning experience that equips students with the skills and knowledge required to excel in an increasingly technology-driven world.  
+This programme aims to improve senior arts creativity to explore and share their dreams through creative fine art using different mediums. Volunteers are needed guide the seniors on different medium of topics each month  
 					</td>
 				</tr>
 				<tr>
@@ -79,7 +75,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						18
+						13
 					</td>
 				</tr>
 		<tr>
@@ -90,11 +86,10 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						       1) STEM Interest: Volunteers should have interest in at least one of the program's focus areas, including coding (in various programming languages), robotics (programming and building), and 3D printing (design and operation).<br><br>
-						       2) Passion for advocating for Technology: A genuine passion for educating and inspiring students in the STEM fields is essential. Enthusiasm and the ability to ignite curiosity in young minds are highly valued.<br><br>
-									3) Teamwork and Collaboration: Volunteers should be willing to collaborate with other instructors, mentors, and the program's leadership team to ensure a cohesive learning environment.<br><br>
-									4) Adaptability: The field of technology is ever-evolving, and volunteers should be open to learning and staying updated on the latest trends and tools in their respective domains.
-			</td>
+						      1) Passion for arts<br><br>
+						      2) Comfortable to work with seniors.<br><br>
+									3) Proficient in English and at least one other Mother Tongue (preferably Malay, Mandarin or Tamil).<br><br>
+									</td>
 				</tr>
 		<tr>
 					<td width="20%">
