@@ -7,7 +7,7 @@ third_nav_title: Arts & Heritage
 ---
 #### Art-Dream Alive
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/art%20dream%20alive.jpg">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/art%20dream%20alive.png">
 <table border="0" width="100%">
 	<tbody><tr>						
 		<td width="60%">
