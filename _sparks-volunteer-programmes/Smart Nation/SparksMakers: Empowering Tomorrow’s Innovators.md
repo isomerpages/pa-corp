@@ -88,7 +88,8 @@ third_nav_title: Smart Nation
 					<td>
 						       1) STEM Interest: Volunteers should have interest in at least one of the program's focus areas, including coding (in various programming languages), robotics (programming and building), and 3D printing (design and operation).<br><br>
 						       2) Passion for advocating for Technology: A genuine passion for educating and inspiring students in the STEM fields is essential. Enthusiasm and the ability to ignite curiosity in young minds are highly valued.<br><br>
-						
+									3) Teamwork and Collaboration: Volunteers should be willing to collaborate with other instructors, mentors, and the program's leadership team to ensure a cohesive learning environment.<br><br>
+									4) Adaptability: The field of technology is ever-evolving, and volunteers should be open to learning and staying updated on the latest trends and tools in their respective domains.
 			</td>
 				</tr>
 		<tr>
