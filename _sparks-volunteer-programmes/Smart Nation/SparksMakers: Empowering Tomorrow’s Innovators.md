@@ -64,7 +64,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						We are looking for volunteers to be Silver Infocomm Wellness Ambassadors to teach digital skills to residents who are 40 years and above.  
+						        "SparksMakers" is an initiative aimed at bridging the digital divide and inspiring the next generation of innovators. It seeks to provide free and accessible coding, robotics, and 3D printing education to students of all backgrounds. By tapping into the expertise and passion of volunteers, the program strives to offer a hands-on learning experience that equips students with the skills and knowledge required to excel in an increasingly technology-driven world.  
 					</td>
 				</tr>
 				<tr>
@@ -75,7 +75,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						15
+						18
 					</td>
 				</tr>
 		<tr>
@@ -86,7 +86,9 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td>
-						 Basic IT skills required
+						       1) STEM Interest: Volunteers should have interest in at least one of the program's focus areas, including coding (in various programming languages), robotics (programming and building), and 3D printing (design and operation).<br><br>
+						       2) Passion for advocating for Technology: A genuine passion for educating and inspiring students in the STEM fields is essential. Enthusiasm and the ability to ignite curiosity in young minds are highly valued.<br><br>
+						
 			</td>
 				</tr>
 		<tr>
