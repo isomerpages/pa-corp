@@ -7,7 +7,7 @@ third_nav_title: Smart Nation
 ---
 #### SparksMakers: Empowering Tomorrow's Innovators
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/sparksmakers_empowering_tomorrows_innovators.png">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/SparksMakers_Empowering_Tomorrows_Innovators.png">
 <table border="0" width="100%">
 	<tbody><tr>						
 		<td width="60%">
