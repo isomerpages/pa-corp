@@ -7,7 +7,7 @@ third_nav_title: Smart Nation
 ---
 #### SparksMakers: Empowering Tomorrow's Innovators
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/sparksmakers%20empowering%20tomorrows%20innvators.jpg">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/sparksmakers%20empowering%20tomorrows%20innvators.png">
 <table border="0" width="100%">
 	<tbody><tr>						
 		<td width="60%">
@@ -103,8 +103,8 @@ third_nav_title: Smart Nation
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/64ae6ec323e5470011bfdc1c">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/smarts%20makers%20qr.png"></a><br>
+					<td><a href="https://form.gov.sg/654c646660a2b300126b7c59">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sparks%20makers%20qr.png"></a><br>
 						        For mobile user, please click on the QR code to register.
 				</td></tr>
 </tbody></table>
