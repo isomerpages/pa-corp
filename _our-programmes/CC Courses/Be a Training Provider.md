@@ -18,4 +18,5 @@ Thank you for your interest to be a PA Training Provider! 
 
 The submission of New Trainer/Operator application form has closed on **27 October  2023**.  More information on the next application window will be available on this page once ready. 
 
+
 For any enquiry, please email to [PA\_Talent\_Times@pa.gov.sg](mailto:PA_Talent_Times@pa.gov.sg).
