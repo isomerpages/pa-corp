@@ -64,7 +64,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td width="75%">
-This programme aims to improve senior arts creativity to explore and share their dreams through creative fine art using different mediums. Volunteers are needed guide the seniors on different medium of topics each month  
+This programme aims to improve senior arts creativity to explore and share their dreams through creative fine art using different mediums. Volunteers are needed to guide the seniors on different medium of topics each month  
 					</td>
 				</tr>
 				<tr>
