@@ -3,6 +3,7 @@ title: PSLE Coaching Programme
 permalink: /our-programmes/sparks-bukit-canberra/psle-coaching-programme/
 description: ""
 third_nav_title: Nurturing Our Children
+variant: markdown
 ---
 #### PSLE Coaching Programme
 
@@ -40,7 +41,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						    Weekly Saturday starting from 12 August 2023 to 30 September 2023, 2.30pm to 5.30pm 
+						    Weekly Saturday starting from July 2024, 2.30pm to 5.30pm 
 					</td>
 				</tr>
 				<tr>
