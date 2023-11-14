@@ -3,6 +3,7 @@ title: Volunteering Opportunities
 permalink: /our-programmes/sparks-bukit-canberra/volunteering-opportunities/
 description: ""
 third_nav_title: SPARKS@BukitCanberra
+variant: markdown
 ---
 #### **Volunteering Opportunities**
 
@@ -16,9 +17,10 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 		<tr></tr>
 		<tr>
 		<td><a href="/our-programmes/sparks-bukit-canberra/sewing-interest-group/"><img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sewing%20interest%20group%20words.png"></a></td>
-			<td><a href="/our-programmes/sparks-bukit-canberra/sembawang-heritage-ambassadors/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20words.png"></a></td>
-		</tr></tbody></table>
+			<td><a href="/our-programmes/sparks-bukit-canberra/sembawang-heritage-ambassadors/"><img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sembawang%20heritage%20ambassadors%20words.png"></a></td>
+			<td><a href="/our-programmes/sparks-bukit-canberra/art-dream-alive/"><img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/art%20dream%20alive%20words.png"></a></td>
+			<td><a href="/our-programmes/sparks-bukit-canberra/art-dream-alive/">
+		</a></td></tr></tbody></table>
 		
  
 
@@ -105,4 +107,8 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 <table><tbody>
 <tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/silver-infocomm-wellness-ambassador/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador%20words.jpg"></a></td></tr></tbody></table>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador%20words.jpg"></a></td>
+	<td>
+	<a href="/our-programmes/sparks-bukit-canberra/sparksmakers/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sparksmakers%20empowering%20tomorrows%20innovators%20words.png"></a></td>
+	</tr></tbody></table>

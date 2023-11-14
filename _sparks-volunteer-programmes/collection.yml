@@ -2,9 +2,10 @@ collections:
   sparks-volunteer-programmes:
     output: true
     order:
+      - Arts & Heritage/.keep
       - Arts & Heritage/Sembawang Heritage Ambassadors.md
       - Arts & Heritage/Sewing Interest Group.md
-      - Arts & Heritage/.keep
+      - Arts & Heritage/Art Dream Alive.md
       - Caring for Our Community/.keep
       - Caring for Our Community/ComLink Befriending.md
       - Caring for Our Community/Sowers’ Event Ambassador.md
@@ -29,5 +30,6 @@ collections:
       - Nurturing Our Children/Homework Café.md
       - Nurturing Our Children/Tuition for the Deaf.md
       - Nurturing Our Children/It’s Storytime.md
+      - "Smart Nation/SparksMakers: Empowering Tomorrow’s Innovators.md"
       - Smart Nation/Silver Infocomm Wellness Ambassador.md
       - Smart Nation/.keep

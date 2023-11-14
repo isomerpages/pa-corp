@@ -2,6 +2,7 @@
 title: Bukit Batok Community Club
 permalink: /cc-details/bukit-batok-community-club/
 description: ""
+variant: markdown
 ---
 Bukit Batok CC is located within walking distance from Bukit Batok MRT station and Bukit Batok bus interchange.
 
@@ -37,19 +38,18 @@ Operating Hours: 09:00 - 22:00
 Payment Hours: 09:00 - 21:30
 
 #### Contact Information
- 21 Bukit Batok Central S659959
+Block 119 Bukit Batok West Avenue 6, #01-256, Singapore 650119
 Phone: 65646317
-Fax: 65668557
-Email: PA_BUKITBATOKCC@pa.gov.sg
-I want to register for a course
+<br>Fax: 65668557
+<br>Email: PA_BUKITBATOKCC@pa.gov.sg
 
 #### Facilities
 Dance Studio
-Multi Purpose Hall
-Conference Room
-Badminton Court
-Multi Purpose Room
-I want to book a facility
+<br>Multi Purpose Hall
+<br>Conference Room
+<br>Badminton Court
+<br>Multi Purpose Room
+
 
 #### Map
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7109154730906!2d103.74533931399765!3d1.3499706619529541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da103ebaaaaaab%3A0xec28d6598c38fc75!2sBukit%20Batok%20Community%20Club!5e0!3m2!1sen!2ssg!4v1661940407810!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7109154730906!2d103.74533931399765!3d1.3499706619529541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da103ebaaaaaab%3A0xec28d6598c38fc75!2sBukit%20Batok%20Community%20Club!5e0!3m2!1sen!2ssg!4v1661940407810!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
