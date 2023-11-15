@@ -68,7 +68,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						        "SparksMakers" is an initiative aimed at bridging the digital divide and inspiring the next generation of innovators. It seeks to provide free and accessible coding, robotics, and 3D printing education to students of all backgrounds. By tapping into the expertise and passion of volunteers, the program strives to offer a hands-on learning experience that equips students with the skills and knowledge required to excel in an increasingly technology-driven world.  
+						        "SparksMakers" is an initiative aimed at bridging the digital divide and inspiring the next generation of innovators. It seeks to provide accessible coding, robotics, and 3D printing education to students of all backgrounds. By tapping into the expertise and passion of volunteers, the program strives to offer a hands-on learning experience that equips students with the skills and knowledge required to excel in an increasingly technology-driven world.  
 					</td>
 				</tr>
 				<tr>
