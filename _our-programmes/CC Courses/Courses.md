@@ -7,7 +7,7 @@ variant: markdown
 ---
 Life is a journey of constant learning and improvement. The PA offers you endless opportunities to pick up new skills, have fun, while making new friends. From cultivating your taste for fine cuisine, to offering you personal grooming and beauty tips; from the development of your information technology skills to classes in martial arts, dance, and sporting activities; we have something for everyone!
 
-### Series of Courses
+## Series of Courses
 The main categories of courses offered at our CCs/RCs are:
 
 *   Education and Enrichment
