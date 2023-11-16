@@ -7,7 +7,7 @@ description: Make your voices heard on issues close to the youth such as mental
 third_nav_title: FutureYOUth
 ---
 #### **About FutureYOUth** 
-
+![](/images/01___FutureYOUth_Banner.jpg)
 FutureYOUth is a nation-wide movement campaign by the People’s Association Youth Movement (PAYM) to engage a wide spectrum of youth to understand sentiments, aspirations and views on issues that matter to them.
 
 The three themes are:
