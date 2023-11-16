@@ -6,7 +6,7 @@ description: Find out more on upcoming FutureYOUth events and roadshows to join
   the conversation!
 third_nav_title: FutureYOUth
 ---
-![](/images/FutureYOUth_Motifs_Marketplace_V1.png)
+![](/images/PAYM_YouthMarketplace_01.png)
 Looking to make a positive impact in your community? Or maybe you’ve been trying to connect with other like-minded youths and advocates who share your passions and interests? If that’s the case, [sign up now for the FutureYOUth Marketplace](https://go.gov.sg/futureyouthmarketplace) happening on **25 November 2023** at **T-Junction @ SMU!**
 
 Discover new volunteering and collaboration opportunities. Whether you're passionate about mental health or sustainability and the environment or looking to foster a stronger understanding of different cultures in your neighbourhood, we have opportunities for you to make a real difference in the community!
