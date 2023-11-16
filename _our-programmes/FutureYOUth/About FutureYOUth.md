@@ -26,4 +26,4 @@ At PAYM, we believe that the future belongs to the youth, and we want to empower
 Follow us on our socials for updates:
    
 
-<a><img alt="“descriptive"></a>
+<a></a>
