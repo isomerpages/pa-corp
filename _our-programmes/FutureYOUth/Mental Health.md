@@ -17,7 +17,7 @@ Hear from our volunteers and partners at [Silver Ribbon (Singapore)](https://www
 #### **Kickstarting Conversations on Mental Health**
    
 <div style="text-align:;">
-	  <a href="https://www.instagram.com/p/Cyid1zIvGgb/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;height:300px;display:inline-block" alt="" src="/images/MH_03.jpg"></a>   
+	  <a href="https://www.instagram.com/p/Cyid1zIvGgb/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;height:300px;display:inline-block" align="center" alt="" src="/images/MH_03.jpg"></a>   
   
 <a></a></div>
 You probably know someone who may be suffering in silence. The stigma surrounding mental health issues have made these out to be negative, socially discrediting behaviour. These stereotypes and perceptions only isolate and alienate those who may need help. Rethinking and reframing our approach to mental health can help to spark the change in perception towards these highly prevalent issues.
