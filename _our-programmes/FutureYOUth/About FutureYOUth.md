@@ -7,7 +7,8 @@ description: Make your voices heard on issues close to the youth such as mental
 third_nav_title: FutureYOUth
 ---
 #### **About FutureYOUth** 
-![](/images/01___FutureYOUth_Banner.jpg)
+
+<img style="width:600px" align="center" src="/images/01___FutureYOUth_Banner.jpg"><br>
 FutureYOUth is a nation-wide movement campaign by the People’s Association Youth Movement (PAYM) to engage a wide spectrum of youth to understand sentiments, aspirations and views on issues that matter to them.
 
 The three themes are:
@@ -19,8 +20,7 @@ PAYM pledges to gather 100,000 youth voices from all walks of life through vario
 
 At PAYM, we believe that the future belongs to the youth, and we want to empower you to be the change-makers of tomorrow. Your voice matters! Join us in the FutureYOUth campaign and be a part of the movement to create a brighter future for Singapore and Singaporeans. The Future starts with YOU!
 
-![](/images/FutureYOUth_Motifs_Generic_V3.png)
-
+<img style="width:600px" align="center" src="/images/FutureYOUth_Motifs_Generic_V3.png"><br>
 **[Share your views and be part of the movement!](https://go.gov.sg/futureyouthpaym)**
 
 Follow us on our socials for updates:
