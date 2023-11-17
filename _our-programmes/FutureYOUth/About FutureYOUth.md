@@ -24,6 +24,8 @@ At PAYM, we believe that the future belongs to the youth, and we want to empower
 **[Share your views and be part of the movement!](https://go.gov.sg/futureyouthpaym)**
 
 Follow us on our socials for updates:
-   
+<div style="text-align:;">
+  <a href="https://www.facebook.com/PAYMyouths/"><img style="width:45px;height:45px;display:inline-block" alt="" src="/images/FB.jpg"></a>   
 
-<a></a>
+	
+<a></a></div>
