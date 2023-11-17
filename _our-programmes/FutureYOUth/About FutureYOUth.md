@@ -25,7 +25,10 @@ At PAYM, we believe that the future belongs to the youth, and we want to empower
 
 Follow us on our socials for updates:
 <div style="text-align:;">
-  <a href="https://www.facebook.com/PAYMyouths/"><img style="width:45px;height:45px;display:inline-block" alt="" src="/images/FB.jpg"></a>   
+	  <a href="https://www.instagram.com/paym.youths/"><img style="width:45px;height:45px;display:inline-block" alt="" src="/images/IG.jpg"></a>   
+  <a href="https://www.facebook.com/PAYMyouths/"><img style="width:45px;height:45px;display:inline-block" alt="" src="/images/FB.jpg"></a>
+	<a href="https://t.me/PAYMYouthNetwork"><img style="width:45px;height:45px;display:inline-block" alt="" src="/images/Telegram.jpg"></a>   
+  <a href="https://www.youtube.com/@peoplesassociationyouthmov1856"><img style="width:45px;height:45px;display:inline-block" alt="" src="/images/YouTubeIcon.png"></a>
 
 	
 <a></a></div>
