@@ -30,7 +30,7 @@ You probably know someone who may be suffering in silence. The stigma surroundin
 30 percent is a sizeable portion of Singapore’s youth. For context, in a class of 20 students, you would have about seven students suffering in silence. By taking time to check in on the people around you, be it at work or school, you could ensure they get the necessary help and support.
 
 <div style="text-align:;">
-	  <a href="https://www.instagram.com/reel/Cx-azgvJn3Z/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;height:300px;display:inline-block" alt="" src="/images/MH_01.jpg"></a>   
+	  <a href="https://www.instagram.com/reel/Cx-azgvJn3Z/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;height:300px;display:inline-block" alt="" src="/images/MH_01.JPG"></a>   
   
 <a></a></div>
 
