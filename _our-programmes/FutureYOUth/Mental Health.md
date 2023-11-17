@@ -16,15 +16,23 @@ Hear from our volunteers and partners at [Silver Ribbon (Singapore)](https://www
 
 #### **Kickstarting Conversations on Mental Health**
    
-![](/images/MH_03.jpg)
-
+<div style="text-align:;">
+	  <a href="https://www.instagram.com/p/Cyid1zIvGgb/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;height:300px;display:inline-block" alt="" src="/images/MH_03.jpg"></a>   
+  
+<a></a></div>
 You probably know someone who may be suffering in silence. The stigma surrounding mental health issues have made these out to be negative, socially discrediting behaviour. These stereotypes and perceptions only isolate and alienate those who may need help. Rethinking and reframing our approach to mental health can help to spark the change in perception towards these highly prevalent issues.
 
- ![](/images/MH_02.jpg)         
+<div style="text-align:;">
+	  <a href="https://www.instagram.com/p/CyQcR5ItRWX/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;height:300px;display:inline-block" alt="" src="/images/MH_02.jpg"></a>   
+  
+<a></a></div>        
 
 30 percent is a sizeable portion of Singapore’s youth. For context, in a class of 20 students, you would have about seven students suffering in silence. By taking time to check in on the people around you, be it at work or school, you could ensure they get the necessary help and support.
 
-![](/images/MH_01.JPG)
+<div style="text-align:;">
+	  <a href="https://www.instagram.com/reel/Cx-azgvJn3Z/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;height:300px;display:inline-block" alt="" src="/images/MH_01.jpg"></a>   
+  
+<a></a></div>
 
 Mental health is an important component of our overall well-being, yet it is rarely brought up in social settings. As society is still learning more about mental health and how to cope with the many conditions and issues, simply asking yourself and the people around you how they are feeling could help spark conversations on this topic!
 
