@@ -8,7 +8,7 @@ variant: markdown
 #### About the Community Development Councils
 
 
-<img style="width:600px" align="right" src="/images/Our%20Network/Community%20Development%20Councils/CDC%20Voucher%202023.jpg"><br>
+<img style="width:600px" align="center" src="/images/Our%20Network/Community%20Development%20Councils/CDC%20Voucher%202023.jpg"><br>
 The Community Development Councils (CDCs) were established in 1997 to build a cohesive, compassionate and self-reliant community.  The CDCs strengthen social infrastructure, build social capital and resilience, and promote the culture of giving back through:
 
 (a) Aggregating of Needs and Resources;<br>
