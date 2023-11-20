@@ -1,12 +1,13 @@
 ---
 title: Courses
 permalink: /our-programmes/cc-courses/courses/
-description: ""
+description: Explore PA courses ranging from lifestyle and leisure to health and wellness.
 third_nav_title: CC Courses
+variant: markdown
 ---
 Life is a journey of constant learning and improvement. The PA offers you endless opportunities to pick up new skills, have fun, while making new friends. From cultivating your taste for fine cuisine, to offering you personal grooming and beauty tips; from the development of your information technology skills to classes in martial arts, dance, and sporting activities; we have something for everyone!
 
-### Series of Courses
+## Series of Courses
 The main categories of courses offered at our CCs/RCs are:
 
 *   Education and Enrichment
@@ -49,7 +50,7 @@ Work up a sweat with our trendy ‘Sports and Fitness’ courses. Conquer air, w
 <br>
 Follow PA Courses social media for more updates:<br>
 
-[Facebook](www.facebook.com/pacourses)<br>
+[Facebook](https://www.facebook.com/pacourses)<br>
 [Instagram](https://www.instagram.com/pa.courses)<br>
 [Youtube](https://www.youtube.com/channel/UCEW_9QdnGjn_8_xi8yh7PXA)
 

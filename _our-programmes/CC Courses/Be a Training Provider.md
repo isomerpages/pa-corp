@@ -1,7 +1,7 @@
 ---
 title: Be a Training Provider
 permalink: /our-programmes/cc-courses/be-a-training-provider/
-description: ""
+description: Find out how to be a PA training provider
 third_nav_title: CC Courses
 variant: markdown
 ---
