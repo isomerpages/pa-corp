@@ -8,7 +8,7 @@ third_nav_title: FutureYOUth
 ---
 #### **About FutureYOUth** 
 
-<img style="width:600px" align="center" src="/images/FutureYOUth Campaign Banner.jpg"><br>
+<img style="width:600px" align="center" src="/images/FutureYOUth_Campaign_Banner.jpg"><br>
 FutureYOUth is a nation-wide movement campaign by the People’s Association Youth Movement (PAYM) to engage a wide spectrum of youth to understand sentiments, aspirations and views on issues that matter to them.
 
 The three themes are:
