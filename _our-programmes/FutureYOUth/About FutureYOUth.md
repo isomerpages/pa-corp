@@ -14,7 +14,7 @@ FutureYOUth is a nation-wide movement campaign by the People’s Association You
 The three themes are:
 * Mental Health (relationship with self)
 * Racial and Religious Harmony (relationship with others)
-* Sustainability &amp; Environment (relationship with the environment)
+* Environment &amp; Sustainability (relationship with the environment)
 
 PAYM pledges to gather 100,000 youth voices from all walks of life through various platforms and channels. The voices of the youth will be distilled to capture youth aspirations and seed ground-up projects with like-minded partners to benefit the community.
 
