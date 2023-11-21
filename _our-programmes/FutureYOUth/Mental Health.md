@@ -36,7 +36,8 @@ You probably know someone who may be suffering in silence. The stigma surroundin
 
 Mental health is an important component of our overall well-being, yet it is rarely brought up in social settings. As society is still learning more about mental health and how to cope with the many conditions and issues, simply asking yourself and the people around you how they are feeling could help spark conversations on this topic!
 
-![Mental Health Advocates](/images/IMG_4181.JPG)
+
+<img style="width:600px" align="center" src="/images/IMG_4181.JPG">
 
 Mental health is important and has an impact on everyone. Each and every one of us has a role to play in clearing stigma surrounding mental health conditions. The first step towards this is to show kindness.
 
