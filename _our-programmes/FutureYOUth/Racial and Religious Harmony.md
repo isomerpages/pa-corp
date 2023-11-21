@@ -36,7 +36,7 @@ Racial and religious harmony can mean different things to each of us. In our mul
 
 Guilty of the above? Most of us may have expressed a similar thought at some point. Unknowingly, we too may have contributed to casual racism. We hope to dispel stereotypes and move towards embracing our diversity through honest sharing conversations.&nbsp;
 
-<div style="text-align:;">
+<div style="text-align:center;">
 	  <a href="https://www.instagram.com/p/CwsBRh_MlL2/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" src="/images/RH_01.jpg"></a>   
   
 <a></a></div>
