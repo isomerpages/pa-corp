@@ -36,6 +36,8 @@ You probably know someone who may be suffering in silence. The stigma surroundin
 
 Mental health is an important component of our overall well-being, yet it is rarely brought up in social settings. As society is still learning more about mental health and how to cope with the many conditions and issues, simply asking yourself and the people around you how they are feeling could help spark conversations on this topic!
 
+[Let us know your thoughts](https://share.oppi.live/01H6ZK5NB1JMZTA3Q15N8DDFWC) on mental health so we can build a more supportive community together!
+
 
 <img style="width:600px" align="center" src="/images/IMG_4181.JPG">
 
@@ -43,4 +45,3 @@ Mental health is important and has an impact on everyone. Each and every one of 
 
 Hear from our volunteers and partners from [Silver Ribbon (Singapore)](https://www.silverribbonsingapore.com/) about their passion for educating the community on mental health issues and looking out for the mental wellbeing of those around you.
 
-[Let us know your thoughts](https://share.oppi.live/01H6ZK5NB1JMZTA3Q15N8DDFWC) on mental health so we can build a more supportive community together!
