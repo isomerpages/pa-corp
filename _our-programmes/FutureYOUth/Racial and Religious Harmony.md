@@ -8,15 +8,21 @@ third_nav_title: FutureYOUth
 ---
 #### **Youth-in-Action on Racial and Religious Harmony**
  
+<div style="text-align:center;">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/v3hlvcsEHVY?si=-hiKR7dr7XhmqFwD" height="315" width="560"></iframe>
+<a></a></div>
 
 Racial and religious harmony can be as simple as friends of different ethnicities and beliefs coming together and celebrating our unique, individual cultures and faiths through different festivals.
 
+<div style="text-align:center;">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ALlpBAhwh3E?si=JdjwppehFtxWRHs3" height="315" width="560"></iframe>
+<a></a></div>
 
 National Day is one such occasion where we come together from different races and backgrounds as one nation. Third Sergeant Lau Kar Wai from the National Cadet Corps shares his thoughts on what racial and religious harmony means to him!
 
+<div style="text-align:center;">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QTHAuYAlajU?si=b9T95hc0Jrvvm7v5" height="315" width="560"></iframe>
+<a></a></div>
 
 Microaggression has no place in our society. It is entirely in our hands to take the first steps to build a Singapore where everyone feels valued without any prejudice. Let’s check out what Liz, a youth cosplayer in Singapore, has to say.
 
