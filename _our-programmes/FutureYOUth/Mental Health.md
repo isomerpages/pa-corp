@@ -8,7 +8,9 @@ third_nav_title: FutureYOUth
 ---
 #### **Youth-in-Action on Mental Health**
  
+<div style="text-align:center;">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-Q7Wiwa1B7g?si=uhUJs-cdRhxgkSMG" height="315" width="560"></iframe>
+<a></a></div>
 
 Hear from our volunteers and partners at [Silver Ribbon (Singapore)](https://www.silverribbonsingapore.com/) about their passion for educating the community on mental health issues and looking out for the mental wellbeing of those around you.
 
@@ -44,4 +46,3 @@ Mental health is an important component of our overall well-being, yet it is rar
 Mental health is important and has an impact on everyone. Each and every one of us has a role to play in clearing stigma surrounding mental health conditions. The first step towards this is to show kindness.
 
 Hear from our volunteers and partners from [Silver Ribbon (Singapore)](https://www.silverribbonsingapore.com/) about their passion for educating the community on mental health issues and looking out for the mental wellbeing of those around you.
-
