@@ -15,6 +15,8 @@ Discover new volunteering and collaboration opportunities. Whether you're passio
 <img style="width:600px" align="center" src="/images/FutureYOUth_Motifs_Roadshow_V3.png">
 Our FutureYOUth Roadshow is hitting the streets! We want to get your take on topics that resonate with you. Our team of dedicated youths are ready to engage with you, so share your stories, and make a difference!
 
+Join us at the FutureYOUth Roadshow on 25 Nov 2023, from 10am to 2pm at [Bishan CC](https://www.facebook.com/bishanyn/)!
+
 Keep a look out here for the schedule of upcoming roadshows.
 
 <img style="width:600px" align="center" src="/images/FutureYOUth_Motifs_Conversations_V2.png">
