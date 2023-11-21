@@ -22,4 +22,4 @@ Meet Ezbon Sio, the eco-champion from [Sembawang West Youth Network](https://www
 
 Join us in hearing about his amazing sustainability work efforts, including the Kayak &amp; Klean and Mangrove Discovery Series initiatives. Let's work together to enhance our community's appreciation of Singapore's natural spaces and support sustainability efforts. Together, we can make a positive impact on our planet!
 
-<img style="width:600px" align="center" src="/images/IMG_4182.jpg">
+<img style="width:600px" align="center" src="/images/IMG_4182.JPG">
