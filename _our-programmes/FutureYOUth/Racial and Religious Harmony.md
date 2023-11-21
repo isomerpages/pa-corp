@@ -22,14 +22,14 @@ Microaggression has no place in our society. It is entirely in our hands to take
 
 #### **Kickstarting Conversations on Racial and Religious Harmony**
    
-<div style="text-align:;">
+<div style="text-align:center;">
 	  <a href="https://www.instagram.com/p/CxvC4uKrEYc/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" src="/images/RH_03.jpg"></a>   
   
 <a></a></div>
 
 Racial and religious harmony can mean different things to each of us. In our multi-racial and multi-religious society,&nbsp; there are many ingredients that have to come together to make this unique recipe work.&nbsp;
 
-<div style="text-align:;">
+<div style="text-align:center;">
 	  <a href="https://www.instagram.com/p/CxQEZTKLalf/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" src="/images/RH_02.jpg"></a>   
   
 <a></a></div>
