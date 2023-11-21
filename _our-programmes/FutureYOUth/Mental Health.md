@@ -15,7 +15,14 @@ Hear from our volunteers and partners at [Silver Ribbon (Singapore)](https://www
        
 
 #### **Kickstarting Conversations on Mental Health**
-   
+
+<div style="text-align:;">
+	  <a href="https://www.instagram.com/p/CyQcR5ItRWX/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" src="/images/IMG_4181.jpg"></a>
+	
+<a></a></div>        
+
+30 percent is a sizeable portion of Singapore’s youth. For context, in a class of 20 students, you would have about seven students suffering in silence. By taking time to check in on the people around you, be it at work or school, you could ensure they get the necessary help and support.
+
 <div style="text-align:;">
 	  <a href="https://www.instagram.com/p/Cyid1zIvGgb/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" align="center" src="/images/MH_03.jpg"></a>   
   	
