@@ -5,4 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: FutureYOUth
 ---
-**Keep a look out for FutureYOUth content on Environment & Sustainability in the coming months!**
+### **Youth-in-Action on Racial and Religious Harmony**
