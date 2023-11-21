@@ -18,6 +18,11 @@ Hear from our volunteers and partners at [Silver Ribbon (Singapore)](https://www
 
 #### **Kickstarting Conversations on Mental Health**
 
+<img style="width:600px" align="center" src="/images/IMG_4181.JPG">
+
+Mental health is important and has an impact on everyone. Each and every one of us has a role to play in clearing stigma surrounding mental health conditions. The first step towards this is to show kindness.
+
+Hear from our volunteers and partners from [Silver Ribbon (Singapore)](https://www.silverribbonsingapore.com/) about their passion for educating the community on mental health issues and looking out for the mental wellbeing of those around you.
 <div style="text-align:center;">
 	  <a href="https://www.instagram.com/p/Cyid1zIvGgb/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" align="center" src="/images/MH_03.jpg"></a>   
   	
@@ -41,8 +46,3 @@ Mental health is an important component of our overall well-being, yet it is rar
 [Let us know your thoughts](https://share.oppi.live/01H6ZK5NB1JMZTA3Q15N8DDFWC) on mental health so we can build a more supportive community together!
 
 
-<img style="width:600px" align="center" src="/images/IMG_4181.JPG">
-
-Mental health is important and has an impact on everyone. Each and every one of us has a role to play in clearing stigma surrounding mental health conditions. The first step towards this is to show kindness.
-
-Hear from our volunteers and partners from [Silver Ribbon (Singapore)](https://www.silverribbonsingapore.com/) about their passion for educating the community on mental health issues and looking out for the mental wellbeing of those around you.
