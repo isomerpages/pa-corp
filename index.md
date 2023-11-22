@@ -13,7 +13,7 @@ sections:
       background: /images/join-your-community.jpg
       title: Join Your Community
       key_highlights:
-        - title: " Join as a Volunteer"
+        - title: Join as a Volunteer
           description: ""
           url: /engage/be-our-volunteer/
         - title: Connect with Government
@@ -28,6 +28,17 @@ sections:
   - resources:
       title: News & Speeches
       button: More News
+  - infopic:
+      title: FutureYOUth
+      subtitle: MAKE A DIFFERENCE
+      id: infopic
+      description: Your voice matters - share your thoughts on Mental Health, Racial
+        and Religious Harmony and Sustainability & Environment. Find your cause
+        and make a difference!
+      button: Find out about FutureYOUth's latest happenings
+      url: https://www.pa.gov.sg/our-programmes/futureyouth/upcoming-happenings/
+      image: /images/FutureYOUth_Banner.jpg
+      alt: Image alt text
   - infopic:
       description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
       button: download the app
