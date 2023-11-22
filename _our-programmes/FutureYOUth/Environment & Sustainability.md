@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: FutureYOUth
 ---
-### **Youth-in-Action on Environment &amp; Sustainability**
+### **Youth-in-Action on Sustainability &amp; Environment**
 
 
 <img style="width:600px" align="center" src="/images/IMG_4177.jpg">
