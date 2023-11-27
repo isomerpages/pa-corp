@@ -2,6 +2,7 @@
 title: Resources for PA Trainers & Operators
 permalink: /our-programmes/cc-courses/pa-trainers-and-operators-resources/
 description: ""
+variant: markdown
 ---
 **Resources for PA Trainers and PA Operators**
 
@@ -55,6 +56,10 @@ Please download the resources via the links below:
 
 Please download the e-bites via the below link:
 
+[March 2023](https://go.gov.sg/ebites-march2023)
+
+[June 2023](https://go.gov.sg/ebies-june2023)
+
 [September 2023  ](https://file.go.gov.sg/e-bites.png)
 
 
@@ -67,23 +72,3 @@ Please download the resources via the links below:
 
 **Safe Management Measures**
 
-[Updated as at 14 February 2023]
-
-Please download the resources via the links below:
-
-[Annex A-60th Advisory on COVID19 for PA Courses & IGs (14 Feb 2023)](/files/Safe%20Management%20Measures/Annex%20A-60th%20Advisory%20on%20COVID19%20for%20PA%20Courses&IGs%20(14%20Feb%202023).pdf)
- 
-
-Other useful references:
-
-1. [Ministry of Heath](https://www.moh.gov.sg/)
-2. [Sport Singapore](https://www.sportsingapore.gov.sg/COVID19/Safe-Management-Measures)
-3. [National Arts Council](https://www.nac.gov.sg/support/covid-19/safe-management-measures-smms) (For music, dance, drama and visual arts courses/activities.)
-4. [Ministry of Education](https://www.moe.gov.sg/faqs-covid-19-infection) (For children tuition/enrichment courses.)
-5. [NParks](https://www.nparks.gov.sg/noticeboard) (For outdoor sports & dance)
-6. [Infocomm & Media Development Agency](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Advisories-on-COVID-19-Situation) (For digital production)
-7. Others: [Sector Specific Requirements (gobusiness.gov.sg)](https://www.gobusiness.gov.sg/safemanagement/sector/) (For enrichment)
-8. COVID-19 (Temporary Measures) Act 2020 ([Control Orders](https://sso.agc.gov.sg/Act/COVID19TMA2020))
-9. [Infectious Diseases Act](https://sso.agc.gov.sg/Act/IDA1976)
-10. [Revised Healthcare Protocol Changes](https://www.covid.gov.sg/)
-11. [Ministry of Manpower](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures) (Workforce Vaccination Measures)
