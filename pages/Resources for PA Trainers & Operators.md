@@ -88,4 +88,4 @@ Please download the resources via the link below:
 Please download the resources via the link below:
 
 [Details of NICA](https://www.ntuc.org.sg/nica/)
-evelopment/skills-framework-for-arts)
+
