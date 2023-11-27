@@ -8,7 +8,7 @@ variant: markdown
 
 All PA Trainers/ Operators are to comply with the **Professional Standards & Guidelines** (PSG) and work closely with the organising Community Clubs/Centres (CCs), Specialist Community Clubs (SCCs), RCs/RNs when organising classes/activities for residents. Should PSG is found to be in non-compliance, PA reserves the right to suspend the class.
 
-Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg](mailto:PA_Talent_Times@pa.gov.sg) if you require further clarification on PSG or SMSs.
+Please email [](http://PA_Talent_Times@pa.gov.sg/)[PA\_Talent\_Times@pa.gov.sg](mailto:PA_Talent_Times@pa.gov.sg) if you require further clarification on PSG.
 
 
 **New Course Proposal for existing Trainer/Operator**
