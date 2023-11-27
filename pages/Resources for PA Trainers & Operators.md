@@ -51,10 +51,9 @@ Please download the resources via the links below:
 
 
 
-
 **E-bites**
 
-Please download the e-bites via the below link:
+Please download the e-bites via the links below:
 
 [March 2023](https://go.gov.sg/ebites-march2023)
 
@@ -65,10 +64,14 @@ Please download the e-bites via the below link:
 
 **PA Haze Response Plan for PA Trainers**
 
-Please download the resources via the links below:
+Please download the resources via the link below:
 
 [Haze response plan (as at 11 Oct 2023) ](/files/Our%20Programmes/CC%20Courses/Haze/pa%20haze%20response%20plan%20for%20pa%20trainers%20(as%20at%2011%20oct%202023).pdf)
 
 
-**Safe Management Measures**
+**National Registry of Exercise Professionals (NREP)**
+
+Please download the resources via the link below:
+
+
 
