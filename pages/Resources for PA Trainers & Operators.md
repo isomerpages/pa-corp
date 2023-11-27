@@ -73,5 +73,12 @@ Please download the resources via the link below:
 
 Please download the resources via the link below:
 
+[Details for NREP ](https://www.activesgcircle.gov.sg/nrep/exercise-professionals)
 
+
+**Skills Framework for Arts**
+
+Please download the resources via the link below:
+
+[Details for Skills Framework for Arts](https://www.nac.gov.sg/support/capability-development/skills-framework-for-arts)
 
