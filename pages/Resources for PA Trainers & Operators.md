@@ -80,7 +80,7 @@ Please download the resources via the link below:
 
 Please download the resources via the link below:
 
-[Details of Skills Framework for Arts](https://www.nac.gov.sg/support/capability-
+[Details of Skills Framework for Arts](https://www.nac.gov.sg/support/capability-development/skills-framework-for-arts)
 
 
 **National Instructors & Coaches Associations (NICA)**
