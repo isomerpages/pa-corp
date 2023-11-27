@@ -20,7 +20,7 @@ This online form is only applicable for existing Trainer and Operator.  We will 
 
 **Professional Standards and Guidelines for PA Trainers**
 
-**Please download the resources via the links  below:**
+Please download the resources via the links  below:
 
 1. [Professional Standards and Guidelines for PA Trainers (Effective 1 January 2023)](/files/(01)%20Professional%20Standards%20and%20Guidelines%20for%20PA%20Trainers%20(Effective%201%20Jan%202023).pdf)
 2. [Annex 2 - Classes for Children](/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(02)%20Annex%202%20-%20Classes%20for%20Children.pdf)
