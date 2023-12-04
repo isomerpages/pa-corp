@@ -30,7 +30,7 @@ Hear from our volunteers and partners at [Silver Ribbon (Singapore)](https://www
 
 Self-defence tips against cyberbullying by digital expert and bullying survivor Harvey Morton.
 
-If you find them useful, pass it on to a friend.
+If you find these tips useful, share it with your friends. <br>
 
  <div style="text-align:center;">
  <a href="https://www.instagram.com/reel/Czi5N8jCFyn/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" align="center" src="/images/IMG_5123.PNG"></a>   
@@ -61,6 +61,7 @@ Hear from our volunteers and partners from [Silver Ribbon (Singapore)](https://w
 	  <a href="https://www.instagram.com/p/Cyid1zIvGgb/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" align="center" src="/images/MH_03.jpg"></a>   
   	
 <a></a></div>
+	
 You probably know someone who may be suffering in silence. The stigma surrounding mental health issues have made these out to be negative, socially discrediting behaviour. These stereotypes and perceptions only isolate and alienate those who may need help. Rethinking and reframing our approach to mental health can help to spark the change in perception towards these highly prevalent issues.
 
 <div style="text-align:center;">
