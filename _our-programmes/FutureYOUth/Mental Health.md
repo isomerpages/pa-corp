@@ -23,7 +23,16 @@ Hear from our volunteers and partners at [Silver Ribbon (Singapore)](https://www
        
 
 #### **Kickstarting Conversations on Mental Health**
+ 
+ <a href="https://www.instagram.com/p/Cyid1zIvGgb/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" align="center" src="/images/IMG_5120.png"></a>   
+  	
+<a></a>
+Mental health problems left unchecked can lead to serious consequences.
 
+What do you think are some barriers preventing mental health patients from seeking help? What else can we do to support people with mental health issues? 
+
+<div style="text-align:center;">
+	
 <img style="width:600px" align="center" src="/images/IMG_4181.JPG">
 
 Mental health is important and has an impact on everyone. Each and every one of us has a role to play in clearing stigma surrounding mental health conditions. The first step towards this is to show kindness.
@@ -49,4 +58,4 @@ You probably know someone who may be suffering in silence. The stigma surroundin
 
 Mental health is an important component of our overall well-being, yet it is rarely brought up in social settings. As society is still learning more about mental health and how to cope with the many conditions and issues, simply asking yourself and the people around you how they are feeling could help spark conversations on this topic!
 
-[Let us know your thoughts](https://share.oppi.live/01H6ZK5NB1JMZTA3Q15N8DDFWC) on mental health so we can build a more supportive community together!
+[Let us know your thoughts](https://share.oppi.live/01H6ZK5NB1JMZTA3Q15N8DDFWC) on mental health so we can build a more supportive community together!</div>
