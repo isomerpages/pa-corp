@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: FutureYOUth
 ---
+#### **FutureYOUth News**
 <img style="width:500px" align="center" src="/images/FutureYOUth_Launch.jpg">
 
 #### **Media Release**
