@@ -24,6 +24,35 @@ Hear from our volunteers and partners at [Silver Ribbon (Singapore)](https://www
 
 #### **Kickstarting Conversations on Mental Health**
 
+ <div style="text-align:center;">
+ <a href="https://www.instagram.com/p/Cz8w0LFSPzT/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" align="center" src="/images/IMG_5122.PNG"></a>   
+<a></a></div>
+
+Self-defence tips against cyberbullying by digital expert and bullying survivor Harvey Morton.
+
+If you find these tips useful, share it with your friends. <br>
+
+ <div style="text-align:center;">
+ <a href="https://www.instagram.com/reel/Czi5N8jCFyn/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" align="center" src="/images/IMG_5123.PNG"></a>   
+<a></a></div>
+
+1 in 2 Singaporeans think mental health is all about mental illness, but it’s not quite what it is.
+
+Unlike mental illness, which is clinically diagnosed, mental health is a spectrum. Our ability to cope, manage stress, and personal lifestyle habits affect how we move along this spectrum over time and at any given moment.
+
+If this is the first time you’re learning about this, share it with your loved ones.
+
+ <div style="text-align:center;">
+ <a href="https://www.instagram.com/p/Cy0faHuNGIj/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" align="center" src="/images/IMG_5120.PNG"></a>   
+<a></a></div>
+
+Mental health problems left unchecked can lead to serious consequences.
+
+What do you think are some barriers preventing mental health patients from seeking help? What else can we do to support people with mental health issues? 
+<br>
+
+<div style="text-align:center;">
+	
 <img style="width:600px" align="center" src="/images/IMG_4181.JPG">
 
 Mental health is important and has an impact on everyone. Each and every one of us has a role to play in clearing stigma surrounding mental health conditions. The first step towards this is to show kindness.
@@ -33,6 +62,7 @@ Hear from our volunteers and partners from [Silver Ribbon (Singapore)](https://w
 	  <a href="https://www.instagram.com/p/Cyid1zIvGgb/?igshid=MzRlODBiNWFlZA=="><img style="width:300px;display:inline-block" alt="" align="center" src="/images/MH_03.jpg"></a>   
   	
 <a></a></div>
+	
 You probably know someone who may be suffering in silence. The stigma surrounding mental health issues have made these out to be negative, socially discrediting behaviour. These stereotypes and perceptions only isolate and alienate those who may need help. Rethinking and reframing our approach to mental health can help to spark the change in perception towards these highly prevalent issues.
 
 <div style="text-align:center;">
@@ -49,4 +79,4 @@ You probably know someone who may be suffering in silence. The stigma surroundin
 
 Mental health is an important component of our overall well-being, yet it is rarely brought up in social settings. As society is still learning more about mental health and how to cope with the many conditions and issues, simply asking yourself and the people around you how they are feeling could help spark conversations on this topic!
 
-[Let us know your thoughts](https://share.oppi.live/01H6ZK5NB1JMZTA3Q15N8DDFWC) on mental health so we can build a more supportive community together!
+[Let us know your thoughts](https://share.oppi.live/01H6ZK5NB1JMZTA3Q15N8DDFWC) on mental health so we can build a more supportive community together!</div>
