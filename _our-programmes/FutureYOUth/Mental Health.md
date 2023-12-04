@@ -49,6 +49,7 @@ If this is the first time you’re learning about this, share it with your loved
 Mental health problems left unchecked can lead to serious consequences.
 
 What do you think are some barriers preventing mental health patients from seeking help? What else can we do to support people with mental health issues? 
+<br>
 
 <div style="text-align:center;">
 	
