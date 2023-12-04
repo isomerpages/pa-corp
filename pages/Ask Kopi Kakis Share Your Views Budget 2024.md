@@ -15,4 +15,4 @@ via various channels and 'Ask Kopi Kakis' sessions in your local communities.
 Click to view details of virtual* and physical* Ask Kopi Kakis #ShareYourViews engagement
 platforms.
 
-*Details will be progressively updated once confirmed.
+*Details will be progressively updated once confirmed.*
