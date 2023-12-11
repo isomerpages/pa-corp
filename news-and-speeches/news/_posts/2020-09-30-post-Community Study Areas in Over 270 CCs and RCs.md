@@ -5,6 +5,7 @@ date: 2020-09-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### Community Study Areas in Over 270 CCs and RCs 
 
@@ -15,7 +16,7 @@ Studying hard for the upcoming exams? You might just find the perfect study corn
 
 **Description**: 
 
-*Update (as of 21 Oct 2022): Please note that the listing of study corners available has been updated in the link below.*
+*Update (as of 6 Oct 2023): Please note that the listing of study corners available has been updated in the link below.*
 
 Studying hard for the upcoming exams? You might just find the perfect study corner to get the most of your cram sessions in one of our over 270 Community Clubs/Centres (CCs) and Residents’ Committee (RC) Centres. 
 

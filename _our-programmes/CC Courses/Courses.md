@@ -54,4 +54,4 @@ Follow PA Courses social media for more updates:<br>
 [Instagram](https://www.instagram.com/pa.courses)<br>
 [Youtube](https://www.youtube.com/channel/UCEW_9QdnGjn_8_xi8yh7PXA)
 
-To sign up for courses, do visit [OnePA](www.onepa.gov.sg)
+To sign up for courses, do visit [OnePA](https://www.onepa.gov.sg)
