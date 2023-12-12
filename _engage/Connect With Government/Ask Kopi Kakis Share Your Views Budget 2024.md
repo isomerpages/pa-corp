@@ -2,7 +2,9 @@
 title: Ask Kopi Kakis Share Your Views Budget 2024
 permalink: /engage/connect-with-government/akksyv/
 description: Ask Kopi Kakis Share Your Views Budget 2024
-variant: tiptap
+variant: markdown
+image: /images/Engage/Website photo AKKSYV v4.png
+third_nav_title: Connect With Government
 ---
 ### **Share Your Views Ahead of Budget 2024**
 
