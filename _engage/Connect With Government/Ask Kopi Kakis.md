@@ -3,6 +3,7 @@ title: Ask Kopi Kakis
 permalink: /engage/connect-with-government/ask-kopi-kakis/
 description: ""
 third_nav_title: Connect With Government
+variant: markdown
 ---
 To communicate government policies to the public in a simple and accessible way, PA introduced the Ask Kopi Kakis (AKK) initiative.
 
@@ -12,8 +13,8 @@ Residents can click on the links below to download the e-booklets and share with
 
 **English Version**<br>
 (Booklets updated as at 30 Sep 2022)
-		
-|<a href="/files/Engage/getting%20ahead%20in%20my%20career%20eng%20mar%2023.pdf"><img style="height:250;" align="left" src="/images/Engage/AKK%20Icons/career%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults.| <a href="/files/Engage/caring%20for%20my%20family%20eng.pdf"><img style="height:250;" align="right" src="/images/Engage/AKK%20Icons/family%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing | <a href="/files/Engage/caring%20for%20our%20seniors%20eng.pdf"><img style="height:250;" align="right" src="/images/Engage/AKK%20Icons/senior%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing |
+
+|<a href="/files/Engage/PA23_Career_A4_Eng_30pp_r5.pdf"><img style="height:250;" align="left" src="/images/Engage/AKK%20Icons/career%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults.| <a href="/files/Engage/caring%20for%20my%20family%20eng.pdf"><img style="height:250;" align="right" src="/images/Engage/AKK%20Icons/family%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing | <a href="/files/Engage/caring%20for%20our%20seniors%20eng.pdf"><img style="height:250;" align="right" src="/images/Engage/AKK%20Icons/senior%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing |
 | -------- | -------- | -------- |
 |      |      |      |
 
