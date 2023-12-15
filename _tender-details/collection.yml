@@ -2,4 +2,5 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Addition and Alteration Works for Sengkang Community Club.md
       - Tender for Taman Jurong Container Building Project.md
