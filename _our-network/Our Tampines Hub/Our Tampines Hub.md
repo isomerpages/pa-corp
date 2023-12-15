@@ -3,6 +3,7 @@ title: Our Tampines Hub
 permalink: /our-network/our-tampines-hub/our-tampines-hub/
 description: ""
 third_nav_title: Our Tampines Hub
+variant: markdown
 ---
 <img style="width:600px" align="center" src="/images/Our%20Network/OTH/NYE%20Fireworks%20at%20Town%20Square.jpg">
 
@@ -12,9 +13,9 @@ Led by People’s Association, OTH represents a new model of a community-focused
 
 <img style="width:600px" align="center" src="/images/Our%20Network/OTH/kids_at_swimming_pool.jpg">
 
-Residents can&nbsp;**enjoy a range of facilities**&nbsp;such as sports facilities, a regional library, community club programmes and facilities, arts programmes and facilities, hawker centre and retail shops.
-
 This&nbsp;**integration of facilities in OTH and of other stakeholders**&nbsp;\- namely National Library Board (NLB), Ministry of Health (MOH), Workforce Singapore (WSG), North East Community Development Council (NE CDC), Ministry of Social and Family Services (MSF), Housing Development Board (HDB), National Heritage Board (NHB), National Arts Council (NAC), National Environment Agency (NEA) and SportSG (SSG) -&nbsp;**is an effort to better serve Tampines residents and people who live in eastern Singapore, so as to meet the rising expectations of Singaporeans and further intensify land utilisation**.
+
+Residents can enjoy a range of amenities such as [sports facilities](https://members.myactivesg.com/bookfacility), [regional library](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/tampines-regional-library), hawker centre, retail shops and the community club. 
 
 OTH currently serves more than 250,000 residents and approximately 80,000 households.
 
