@@ -16,4 +16,4 @@ via various channels and 'Ask Kopi Kakis' sessions in your local communities.
 
 [Share your views](https://go.gov.sg/akksyv24) with us now!
 
-Details of virtual and physical Ask Kopi Kakis #ShareYourViews engagement platforms will be progressively updated.
+Details of [virtual](/files/Engage/List_of_Community_Centres_FB_Tiktok_IG_for_AKKSYV.pdf) and [physical](/files/Engage/List_of_Community_Events_for_AKKSYV.pdf) Ask Kopi Kakis #ShareYourViews engagement platforms will be progressively updated.
