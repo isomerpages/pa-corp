@@ -2,6 +2,4 @@ collections:
   tender-details:
     output: true
     order:
-      - Tender for Provision of Auxiliary Police Services for Chinatown Chinese
-        New Year Celebrations 2024.md
       - Tender for Taman Jurong Container Building Project.md
