@@ -2,13 +2,4 @@ collections:
   tender-details:
     output: true
     order:
-      - Tender for Provision of Event Management Services for Chinatown Chinese
-        New Year 2024.md
-      - Tender for Provision of Auxiliary Police Services for Chinatown Chinese
-        New Year Celebrations 2024.md
-      - Tender for Provision of Refuse Collection and Cleaning Works for
-        Chinatown Chinese New Year 2024.md
-      - Tender for Chinatown Chinese New Year 2024 Fairs.md
-      - Tender for Street Light Up Decorative Items for Chinatown Chinese New
-        Year 2024.md
-      - Tender for Taman Jurong Container Building Project.md
+      - Tender for Addition and Alteration Works for Sengkang Community Club.md

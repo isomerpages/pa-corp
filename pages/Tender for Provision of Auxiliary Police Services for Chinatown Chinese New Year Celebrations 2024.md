@@ -1,13 +1,13 @@
 ---
-title: Tender for Provision of Event Management Services for Chinatown Chinese
-  New Year 2024
-permalink: /tender-details/cfcems2024/
+title: Tender for Provision of Auxiliary Police Services for Chinatown Chinese
+  New Year Celebrations 2024
+permalink: /tender-details/cfccny2024police/
 description: ""
 ---
-Tender for Provision of Event Management Services for Chinatown Chinese New Year 2024
+Tender for Provision of Auxiliary Police Services for Chinatown Chinese New Year Celebrations 2024
 ==============================================================
 
-Interested tenderers are invited to tender for the Provision of Event Management Services for Chinatown Chinese New Year 2024.
+Interested tenderers are invited to tender for the Provision of Auxiliary Police Services for Chinatown Chinese New Year Celebrations 2024.
 
 **Calling Committee: Chinatown Festival Committee**
 
@@ -21,5 +21,5 @@ Interested tenderers are invited to tender for the Provision of Event Management
 
 For enquiries, please contact Celeste Sim or Chng Pei Joo at 6272 3878  or email at Celeste_Sim@pa.gov.sg / Chng_Pei_Joo@pa.gov.sg.
 
-**Publication Date : 1 November 2023** <br>
-**Closing Date &amp; Time : 16 November 2023, 06:00 PM**
+**Publication Date : 24 October 2023** <br>
+**Closing Date &amp; Time : 10 November 2023, 06:00 PM**
