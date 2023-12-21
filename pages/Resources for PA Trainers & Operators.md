@@ -62,11 +62,6 @@ Please download the e-bites via the links below:
 [September 2023  ](https://file.go.gov.sg/e-bites.png)
 
 
-**PA Haze Response Plan for PA Trainers**
-
-Please download the resources via the link below:
-
-[Haze response plan (as at 11 Oct 2023) ](/files/Our%20Programmes/CC%20Courses/Haze/pa%20haze%20response%20plan%20for%20pa%20trainers%20(as%20at%2011%20oct%202023).pdf)
 
 
 **National Registry of Exercise Professionals (NREP)**
