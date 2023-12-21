@@ -61,6 +61,8 @@ Please download the e-bites via the links below:
 
 [September 2023  ](https://file.go.gov.sg/e-bites.png)
 
+[December 2023](https://go.gov.sg/ebites-december2023)
+
 
 
 
