@@ -12,4 +12,4 @@ Open Procurement and Grassroots Trade Fair Tenders published via the Grassroots 
 <br>
 
 Please check the below listing(s) for the latest tender notices: <br> [Tender for Addition and Alteration Works for Sengkang Community Club](https://www.pa.gov.sg/tender-details/aaskcc/)
-<br>  [Tender for Remaining Street Stalls for Chinatown Chinese New Year Festive Fair 2024](https://www.pa.gov.sg/tender-details/permalink/)(https://www.pa.gov.sg/tender-details/permalink/)
+<br>  [Tender for Remaining Street Stalls for Chinatown Chinese New Year Festive Fair 2024](https://www.pa.gov.sg/tender-details/permalink/)
