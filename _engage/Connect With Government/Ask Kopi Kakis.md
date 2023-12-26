@@ -12,9 +12,9 @@ Residents can learn more about key government policies and schemes that they can
 Residents can click on the links below to download the e-booklets and share with their family members and friends. Do look out for updated versions later in the year!<br>
 
 **English Version**<br>
-(Booklets updated as at 30 Sep 2022)
+(Booklets updated as at 31 July 2023)
 
-|<a href="/files/Engage/PA23_Career_A4_Eng_30pp_r5.pdf"><img style="height:250;" align="left" src="/images/Engage/AKK%20Icons/career%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults.| <a href="/files/Engage/caring%20for%20my%20family%20eng.pdf"><img style="height:250;" align="right" src="/images/Engage/AKK%20Icons/family%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing | <a href="/files/Engage/caring%20for%20our%20seniors%20eng.pdf"><img style="height:250;" align="right" src="/images/Engage/AKK%20Icons/senior%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing |
+|<a href="/files/Engage/PA23_Career_A4_Eng_30pp_r5.pdf"><img style="height:250;" align="left" src="/images/Engage/AKK%20Icons/career%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to starting your career, life-long learning and support schemes for working adults.| <a href="/files/Engage/PA23_Family_A4_39pp_Eng_R5.pdf"><img style="height:250;" align="right" src="/images/Engage/AKK%20Icons/family%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing | <a href="/files/Engage/PA23_Senior_A4_36pp_Eng_r5.pdf"><img style="height:250;" align="right" src="/images/Engage/AKK%20Icons/senior%20eng.png"><br><br><br><br><br><br><br></a>Policies relating to retirement schemes, healthcare and initiatives for active-ageing |
 | -------- | -------- | -------- |
 |      |      |      |
 
