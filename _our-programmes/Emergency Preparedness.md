@@ -24,7 +24,6 @@ The Community Life-saving Programme is a collaboration between PA and MHA which 
 ### Join our Community Emergency Response Team
 A wide range of EP activities and programmes are organised at the constituencies all year round. Through the C2Es and CERT, PA and its GROs work with other government agencies to prepare, train and support the community to deal with emergencies which include the threat of terrorism. Members of the community are encouraged to join the CERT to pick up essential EP skills to help one another during peacetime and emergencies, and promote social cohesion.
 
-### Community Emergency Response Team
 CERT is an organised group of volunteers equipped with specialised training to respond to emergencies and assist the community in the recovery process. The main role of the CERT is to strengthen the emergency response capabilities of the local community. All CERT members would be trained in CPR+AED and active CERT members would undergo the certified SFA course, Psychological First Aid Training and other EP related courses to enable them to carry out duties in times of activation. During peacetime, CERT members will be deployed for national level events such as PA Chingay Celebrations, National Day Parade and F1 to perform simple first aid and crowd control duties.
 
 Scan the QR code or click the link below to register to be a CERT member.
@@ -33,4 +32,6 @@ Scan the QR code or click the link below to register to be a CERT member.
 
 [<center>http://go.gov.sg/dzdaq0</center>](http://go.gov.sg/dzdaq0)
 
-Residents can visit the nearest Community Clubs/Centres to sign up or learn more about the eligibility requirements for our EP Programmes. For any enquiries, please email to [PA_CERT@pa.gov.sg](PA_CERT@pa.gov.sg)
+Residents can visit the nearest Community Clubs/Centres to sign up or learn more about the eligibility requirements for our EP Programmes. For any enquiries, please email to [PA_CERT@pa.gov.sg](mailto:PA_CERT@pa.gov.sg).
+
+Visit and follow us on  [Our Emergency Prepared Community Facebook page](https://www.facebook.com/OurEPCommunity) to receive the latest updates on our EP programmes or read up more on the [PACE Newsletter](https://go.gov.sg/pacenewsletter).
