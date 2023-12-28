@@ -34,4 +34,4 @@ Scan the QR code or click the link below to register to be a CERT member.
 
 Residents can visit the nearest Community Clubs/Centres to sign up or learn more about the eligibility requirements for our EP Programmes. For any enquiries, please email to [PA_CERT@pa.gov.sg](mailto:PA_CERT@pa.gov.sg).
 
-Visit and follow us on  [Our Emergency Prepared Community Facebook page](https://www.facebook.com/OurEPCommunity) to receive the latest updates on our EP programmes or read up more on the [PACE Newsletter](https://go.gov.sg/pacenewsletter).
+Visit and follow us on  [Our Emergency Prepared Community Facebook](https://www.facebook.com/OurEPCommunity) to receive the latest updates on our EP programmes or read up more on the [PACE Newsletter](https://go.gov.sg/pacenewsletter).
