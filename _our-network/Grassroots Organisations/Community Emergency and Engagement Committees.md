@@ -14,7 +14,7 @@ During times of emergency, C2Es coordinate community resources and grassroots’
 #### Community Emergency Response Team
 
 
-CERT stands for Community Emergency Response Team. CERT is an organised group of volunteers specially trained to respond to an emergency and assist the community in the recovery process. CERT strengthens the emergency response capabilities of the local community. Its members are able to render basic first aid, evacuation and crowd control before as well as after the emergency authorities arrive
+Community Emergency Response Team (CERT) is an organised group of volunteers specially trained to respond to an emergency and assist the community in the recovery process. CERT strengthens the emergency response capabilities of the local community. Its members are able to render basic first aid, evacuation and crowd control before as well as after the emergency authorities arrive
 
 First formed in 2004 as part of the Residents’ Committees and Neighbourhood Committees to support the EP Group and CDEC, CERT members are made up of grassroots leaders and residents who stay in the vicinity.
 
