@@ -71,7 +71,9 @@ Please download the e-bites via the links below:
 Please download the resources via the link below:
 
 [Details of NREP ](https://www.activesgcircle.gov.sg/nrep/exercise-professionals)
+   
 
+NREP Registration Clinics, [sign up here](https://form.gov.sg/65965a0e0a230600125ec1db)
 
 **Skills Framework for Arts**
 
