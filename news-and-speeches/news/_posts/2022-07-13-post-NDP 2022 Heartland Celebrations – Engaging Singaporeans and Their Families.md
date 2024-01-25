@@ -1,10 +1,11 @@
 ---
 title: NDP 2022 Heartland Celebrations – Engaging Singaporeans and Their Families
-permalink: /resource/news/permalink/
+permalink: /resource/news/ndp-2022-heartland-celebrations/
 date: 2022-07-13
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ### NDP 2022 Heartland Celebrations – Engaging Singaporeans and Their Families
 

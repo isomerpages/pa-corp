@@ -1,10 +1,11 @@
 ---
 title: Validity of CDC Vouchers Scheme
-permalink: /news-and-speeches/news/permalink/
+permalink: /news-and-speeches/news/validity-of-cdc-vouchers-scheme-oct-22/
 date: 2022-10-25
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ### Validity of CDC Vouchers Scheme
 

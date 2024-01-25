@@ -1,10 +1,11 @@
 ---
 title: People's Association works with partners to raise funds for residents in need
-permalink: /news-and-speeches/news/permalink/
+permalink: /news-and-speeches/news/peoples-association-works-with-partners-to-raise-funds-for-residents-in-need/
 date: 2022-09-15
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ### People's Association works with partners to raise funds for residents in need
 

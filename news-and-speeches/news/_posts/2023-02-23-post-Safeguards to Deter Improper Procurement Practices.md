@@ -1,10 +1,11 @@
 ---
 title: Safeguards to Deter Improper Procurement Practices
-permalink: /news-and-speeches/news/permalink/
+permalink: /news-and-speeches/news/safeguards-to-deter-improper-procurement-practices/
 date: 2023-02-23
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ### Safeguards to Deter Improper Procurement Practices
 **Response to parliamentary question on safeguards to deter improper procurement practices for engagement and payment of vendors for grassroots services**

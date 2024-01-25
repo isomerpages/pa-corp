@@ -1,10 +1,11 @@
 ---
 title: Appeal Cases For CDC Vouchers
-permalink: /news-and-speeches/news/permalink/
+permalink: /news-and-speeches/news/appeal-cases-for-cdc-vouchers/
 date: 2022-10-25
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ### Appeal Cases For CDC Vouchers
 

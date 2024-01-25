@@ -1,11 +1,12 @@
 ---
 title: Chingay Parade 2023 Welcomes Audiences Back to a Live Showcase at the F1
   Pit Building Next February
-permalink: /resource/news/permalink/
+permalink: /resource/news/chingay-2023-welcomes-audiences-back-to-live-showcase/
 date: 2022-11-24
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ### Chingay Parade 2023 Welcomes Audiences Back to a Live Showcase at the F1 Pit Building Next February
 

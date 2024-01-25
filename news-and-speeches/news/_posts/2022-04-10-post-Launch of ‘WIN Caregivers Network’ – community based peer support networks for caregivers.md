@@ -1,11 +1,12 @@
 ---
 title: Launch of ‘WIN Caregivers Network’ – community based peer support
   networks for caregivers
-permalink: /news-and-speeches/news/permalink/
+permalink: /news-and-speeches/news/launch-of-win-caregivers-network/
 date: 2022-04-10
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ### Launch of ‘WIN Caregivers Network’ – community based peer support networks for caregivers
 

@@ -1,11 +1,12 @@
 ---
 title: Chingay Parade 2023 Brings Together More Than 3,000 Youths to Co Create
   and Bond
-permalink: /resource/news/permalink/
+permalink: /resource/news/chingay-2023-brings-together-more-than-3000-youths/
 date: 2022-12-18
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ### Chingay Parade 2023 Brings Together More Than 3,000 Youths to Co-Create and Bond While Keeping The People’s Parade Young and Relevant 
 

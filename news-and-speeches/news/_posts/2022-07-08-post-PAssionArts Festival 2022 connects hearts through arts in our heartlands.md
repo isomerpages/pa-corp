@@ -1,10 +1,11 @@
 ---
-title: PAssionArts Festival 2022 connects hears through arts in our heartlands
-permalink: /news-and-speeches/news/permalink/
+title: PAssionArts Festival 2022 connects hearts through arts in our heartlands
+permalink: /news-and-speeches/news/passionarts-festival-2022-connects-hearts-through-arts/
 date: 2022-07-08
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ### PAssionArts Festival 2022 connects hears through arts in our heartlands
 
