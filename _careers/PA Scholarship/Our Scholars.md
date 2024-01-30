@@ -42,7 +42,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;everyone in the community to make a positive difference. It was the 
 &nbsp;&nbsp;&nbsp;opportunity to give back to my community and Singapore."
 <br><br>
-[Click here to read more.]
+&nbsp;&nbsp;&nbsp;[Click here to read more.]
 
 <br><br><br><br>
 This article was adapted from the BrightSparks publication with the permission of CareerBuilder Singapore. The contents cannot be reproduced, modified or further circulated without the prior written consent of CareerBuilder Singapore. For more articles, visit
