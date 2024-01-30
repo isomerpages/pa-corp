@@ -12,16 +12,13 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;PA Undergraduate Scholar (2023)<br>
 &nbsp;&nbsp;&nbsp;Bachelor of Social Science in Political Science (Hons), NUS
 <br><br>
-&nbsp;&nbsp;&nbsp;“In an increasingly polarised world, I want to contribute to the larger 
-&nbsp;&nbsp;&nbsp;movement of “Forward Singapore”, by bridging existing gaps 
-&nbsp;&nbsp;&nbsp;between individuals to create a more cohesive and united country. I 
-&nbsp;&nbsp;&nbsp;hope to build communities where people's relationships with their 
+&nbsp;&nbsp;&nbsp;“I hope to build communities where people's relationships with their 
 &nbsp;&nbsp;&nbsp;neighbours extend beyond mere geographical acquaintances, 
 &nbsp;&nbsp;&nbsp;evolving into an extended social support network for one another.”
 <br><br>
 &nbsp;&nbsp;&nbsp;[Click here to read more.]
 
-
+<br><br>
 #### Adelei Tock Kai Lun
 <img style="width:200px" align="left" src="/images/Photo___Adelei__Portrait_.jpg">
 &nbsp;&nbsp;&nbsp;PA Undergraduate Scholar (2023)<br>
