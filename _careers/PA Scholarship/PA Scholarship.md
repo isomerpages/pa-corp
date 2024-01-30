@@ -3,30 +3,36 @@ title: PA Scholarship
 permalink: /careers/pa-scholarship/pa-scholarship/
 description: ""
 third_nav_title: PA Scholarship
+variant: markdown
 ---
-If you are looking for a meaningful career where you can find an area that you are passionate about, be it youth, active ageing, sports, arts and culture, social development or community leadership, the PA Scholarship is for you.
+If you seek a purposeful career in fields like youth, active ageing, sports, arts and culture, social development or community leadership, the PA Scholarship is for you.
 
-As a PA scholar, you will have a rich experience of community organising and leadership through involvement in community projects, regular engagement with grassroots volunteers and PA leaders, job placements in various strategic units, and participation in overseas attachments and programmes. You can look forward to a fulfilling and challenging career with many opportunities to develop your potential to the fullest. 
+As a PA scholar, you will gain valuable experience in community organisation and leadership through:
+* Participation in community projects;
+* Regular engagement with grassroots volunteers and PA leaders;
+* Strategic job placements; and 
+* Overseas attachments and programmes. 
 
-### Types of Scholarship
+Anticipate a rewarding and challenging career with numerous opportunities to reach your full potential. 
 
-We offer local and overseas undergraduate scholarships to outstanding students with a heart and who are keen to grow the community with us.
+#### Scholarship Offerings
 
-Upon completion of their studies, scholars will work with PA for a period of four years for local scholarship, five years for overseas scholarship (non-English speaking countries) and six years for overseas scholarship (English speaking countries).
+We provide local and overseas undergraduate scholarships to outstanding students who are passionate about community growth and development.
 
-### Eligibility Criteria
+Undergraduates who have completed at least one semester of studies and not in their final year of undergraduate degree may also apply for the mid-term scholarship.
+
+#### Eligibility Criteria
 
 If you:
 
 * Are a Singapore Citizen 
-* Have excellent academic results: 'A’ level, polytechnic diploma, undergraduate results, and/or other equivalent qualifications (e.g. International Baccalaureate)
+* Have excellent academic results: 'A’ levels, polytechnic diploma, undergraduate results, and/or other equivalent qualifications (e.g. International Baccalaureate)
 * Possess leadership qualities displayed through active participation in Co-Curricular Activities (CCA) and/or community/volunteer service, especially in leadership positions
 * Love to work with people
 
-
 We welcome you to apply for the PA Scholarship.
 
-### Fields of Study
+#### Fields of Study
 
 Most disciplines, except Medicine, Dentistry, Architecture and Law.
 
@@ -45,15 +51,16 @@ The undergraduate scholarships are applicable to courses at renowned overseas un
 * Medical/Health insurance (where required by the university)
 
 
-###  Application of the Scholarship
+####  Application of the Scholarship
 
-Application for the PA Scholarship will open in December of each year and close two weeks after the release of ‘A’ level results.
+| Timeline | Process |
+| --------- | -------- |
+| December to March | Submit your application with supporting documents through the BrightSparks microsite [here](https://brightsparks.com.sg/profile/PA/index.php). <br><br> (*Refer to the site for application deadline.)  |
+| March to April | Shortlisted applicants would undergo 3 stages of selection: <br> 1. Psychometric Assessments; <br> 2. Panel Interview; and <br> 3. Final Interview with Senior Management.  |
 
-Mid-term undergraduates who have completed at least one semester of undergraduate studies with exemplary results and not be in the final year of undergraduate study may apply for the mid-term scholarship during the same period.
+Refer to the FAQ on our PA Scholarship [here](/files/Careers/FAQs%20on%20PA%20Scholarship(internet).pdf).
 
-Come create a great home and caring community with us.
+**Join us in making a difference and creating a great home and caring community!**
 
-If you are interested to apply for the PA Scholarship, click <a href="https://brightsparks.com.sg/profile/PA/scholarship.php?&schid=7489" target="_blank">here</a> and complete an online application form.
+**Information above is accurate as at January 2024.*
 
-
-[Find out more](/files/Careers/FAQs%20on%20PA%20Scholarship(internet).pdf) about the PA Scholarship.
