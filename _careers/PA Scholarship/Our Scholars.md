@@ -5,6 +5,8 @@ description: ""
 third_nav_title: PA Scholarship
 variant: markdown
 ---
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpeoplesassociation%2Fvideos%2F665418971410091%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe><br>
+
 #### Lisa Lim Yu Qi
 <img style="width:200px" align="left" src="/images/Photo___Lisa__Portrait_.jpeg">
 &nbsp;&nbsp;&nbsp;PA Undergraduate Scholar (2023)<br>
