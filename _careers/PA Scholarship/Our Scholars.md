@@ -17,8 +17,10 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;evolving into an extended social support network for one another.”
 <br><br>
 &nbsp;&nbsp;&nbsp;[Click here to read more.]
+<br>
+<br>
+<br>
 
-<br><br>
 #### Adelei Tock Kai Lun
 <img style="width:200px" align="left" src="/images/Photo___Adelei__Portrait_.jpg">
 &nbsp;&nbsp;&nbsp;PA Undergraduate Scholar (2023)<br>
