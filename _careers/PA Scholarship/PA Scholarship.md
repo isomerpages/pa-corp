@@ -62,5 +62,5 @@ Refer to the FAQ on our PA Scholarship [here](/files/Careers/FAQs%20on%20PA%20Sc
 
 **Join us in making a difference and creating a great home and caring community!**
 
-**Information above is accurate as at January 2024.*
+<br>**Information above is accurate as at January 2024.*<br>
 
