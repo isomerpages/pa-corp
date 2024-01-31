@@ -10,8 +10,7 @@ variant: tiptap
 </div>
 <p>
 <br>Meet our scholars</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lisa Lim" src="/images/Photo___Lisa_Lim__Portrait_.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lisa Lim Yu Qi</div><div class="isomer-card-description">PA Undergraduate Scholar (2023)
-Bachelor of Social Science in Political Science (Honours), NUS</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lisa Lim" src="/images/Photo___Lisa_Lim__Portrait_.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lisa Lim Yu Qi</div><div class="isomer-card-description">PA Undergraduate Scholar (2023) Bachelor of Social Science in Political Science (Honours), NUS</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -24,8 +23,7 @@ Bachelor of Social Science in Political Science (Honours), NUS</div><div class="
 NTU</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Adelei Tock" src="/images/Photo___Adelei_Tock__Portrait_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Adelei Tock Kai Lun</div><div class="isomer-card-description">PA Undergraduate Scholar (2023)
-Bachelor of Social Science in Politics, Law and Economics, SMU</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Adelei Tock" src="/images/Photo___Adelei_Tock__Portrait_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Adelei Tock Kai Lun</div><div class="isomer-card-description">PA Undergraduate Scholar (2023) Bachelor of Social Science in Politics, Law and Economics, SMU</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
