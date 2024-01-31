@@ -34,7 +34,31 @@ social support network for one another.”</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Adelei__Portrait_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>PA Undergraduate Scholar (2023) Bachelor of Social Science in Politics,
+Law and Economics, SMU</p>
+<p></p>
+<p>"In these trying times, I believe that it is crucial for citizens to workhand
+in hand with the government,based on shared interests to progress and prosper.
+As such, I hope to strengthen both&nbsp;people-to-people and people-to-government
+bonds by promoting greater harmony and increasing collaboration."</p>
+<p></p>
+<p>[Click here to read more.]</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;&nbsp;</p>
 <p></p>
 <table>
 <tbody>
@@ -76,14 +100,9 @@ social support network for one another.”</p>
 <br>&nbsp;&nbsp;&nbsp;Bachelor of Social Science in Politics, Law and Economics,
 SMU
 <br>
-<br>&nbsp;&nbsp;&nbsp;"In these trying times, I believe that it is crucial
-for citizens to work &nbsp;&nbsp;&nbsp;hand in hand with the government,
-based on shared interests to &nbsp;&nbsp;&nbsp;progress and prosper. As
-such, I hope to strengthen both
-<br>&nbsp;&nbsp;&nbsp;people-to-people and people-to-government bonds by promoting
-&nbsp;&nbsp;&nbsp;greater harmony and increasing collaboration."
-<br>
-<br>&nbsp;&nbsp;&nbsp;[Click here to read more.]</p>
+<br>&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
 <h4>Haimuel Matthias Wong-Asri</h4>
 <div class="isomer-image-wrapper">
 <img style="width:200px" height="auto" width="100%" src="/images/Photo___Matthias__Portrait_.jpeg">
