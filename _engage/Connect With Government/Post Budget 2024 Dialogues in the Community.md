@@ -10,10 +10,11 @@ third_nav_title: Connect With Government
 
 ![Pre-Budget Survey 2023](/images/Engage/Website%20photo%20AKKSYV%20v4.png)
 
-Calling all Singaporeans! Share your views in the lead up to Budget 2024. From 4 December 2023 to
-26 January 2024, we will be launching a series of engagements to seek your views and suggestions
-via various channels and 'Ask Kopi Kakis' sessions in your local communities.
+  
+Singapore’s FY2024 Budget Statement will be delivered by the Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, on Friday, 16 February 2024 in Parliament.
 
-[Share your views](https://go.gov.sg/akksyv24) with us now!
+Together with MOF and various agencies, People’s Association (PA) has been engaging the public in the lead-up to Budget 2024. Building on these conversations, PA and its grassroots organisations will be organising post-Budget dialogues to engage residents on Budget 2024 measures. 
 
-Click to view details of [virtual](/files/Engage/List_of_Community_Centres_FB_Tiktok_IG_for_AKKSYV.pdf) and [physical](/files/Engage/List_of_Community_Events_for_AKKSYV.pdf) Ask Kopi Kakis #ShareYourViews engagement platforms.
+Residents who are interested can [register their interest](https://go.gov.sg/postbudget24) to attend post-Budget 2024 dialogues.
+
+The sign-ups will be available until 12pm on Friday, 1 March 2024.
