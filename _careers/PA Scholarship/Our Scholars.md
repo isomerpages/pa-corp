@@ -34,8 +34,37 @@ social support network for one another.”</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;&nbsp;
-<br>
+<p>&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Lisa__Portrait_.jpeg">
+</div>
+<p></p>
+<p>PA Undergrad Scholar</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Adelei__Portrait_.jpg">
+</div>
+<p></p>
+<p>PA Undergrad Scholar</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Matthias__Portrait_.jpeg">
+</div>
+<p></p>
+<p>PA Undergrad Scholar</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>
 <br>
 <br>
 </p>
