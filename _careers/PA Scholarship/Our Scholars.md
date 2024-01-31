@@ -18,10 +18,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Lisa__Portrait_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Lisa_Lim__Portrait_.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>PA Undergraduate Scholar (Bachelor of Social Science in Political Science (Hons), NUS</strong>
 </p>
 <p></p>
@@ -34,7 +35,7 @@ social support network for one another.”</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<h4>&nbsp;Adelei Tock Kai Lun</h4>
 <table>
 <tbody>
 <tr>
@@ -44,6 +45,21 @@ social support network for one another.”</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Adelei__Portrait_.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p>PA Undergraduate Scholar (2023) Bachelor of Social Science in Politics,
+Law and Economics, SMU</p>
+<p></p>
+<p>"In these trying times, I believe that it is crucial for citizens to workhand
+in hand with the government,based on shared interests to progress and prosper.
+As such, I hope to strengthen both&nbsp;people-to-people and people-to-government
+bonds by promoting greater harmony and increasing collaboration."</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
 <p>PA Undergraduate Scholar (2023) Bachelor of Social Science in Politics,
 Law and Economics, SMU</p>
@@ -68,11 +84,14 @@ bonds by promoting greater harmony and increasing collaboration."</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Lisa__Portrait_.jpeg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Lisa_Lim__Portrait_.jpeg">
+</div>
 <p>PA Undergrad Scholar</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Adelei__Portrait_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___Adelei_Tock__Portrait_.jpg">
 </div>
 <p></p>
 <p>PA Undergrad Scholar</p>
@@ -87,41 +106,10 @@ bonds by promoting greater harmony and increasing collaboration."</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>
-<br>
-<br>
-</p>
-<h4>Adelei Tock Kai Lun</h4>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/Photo___Adelei__Portrait_.jpg">
-</div>
-<p>&nbsp;&nbsp;&nbsp;PA Undergraduate Scholar (2023)
-<br>&nbsp;&nbsp;&nbsp;Bachelor of Social Science in Politics, Law and Economics,
-SMU
-<br>
-<br>&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
-<h4>Haimuel Matthias Wong-Asri</h4>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/Photo___Matthias__Portrait_.jpeg">
-</div>
-<p>&nbsp;&nbsp;&nbsp;PA Undergraduate Scholar (2023)
-<br>&nbsp;&nbsp;&nbsp;Bachelor of Social Science in Economics, NTU
-<br>
-<br>&nbsp;&nbsp;&nbsp;"I learnt that there is greater depth to PA’s work,
-in empowering &nbsp;&nbsp;&nbsp;everyone in the community to make a positive
-difference. It was the &nbsp;&nbsp;&nbsp;opportunity to give back to my
-community and Singapore."
-<br>
-<br>&nbsp;&nbsp;&nbsp;[Click here to read more.]</p>
-<p>
-<br>
-<br>
-<br>
-<br>This article was adapted from the BrightSparks publication with the permission
+<p>&nbsp;&nbsp;</p>
+<p>This article was adapted from the BrightSparks publication with the permission
 of CareerBuilder Singapore. The contents cannot be reproduced, modified
 or further circulated without the prior written consent of CareerBuilder
 Singapore. For more articles, visit <a href="https://www.brightsparks.com.sg/magazine" rel="noopener noreferrer nofollow" target="\_blank">www.brightsparks.com.sg/magazine</a>
 </p>
+<p></p>
