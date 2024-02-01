@@ -8,8 +8,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpeoplesassociation%2Fvideos%2F665418971410091%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 </div>
-<p>
-<br>Meet our scholars</p>
+<h4><strong>Meet our Scholars</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lisa Lim" src="/images/Photo___Lisa_Lim__Portrait_.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lisa Lim Yu Qi</div><div class="isomer-card-description">PA Undergraduate Scholar (2023) Bachelor of Social Science in Political Science (Honours), NUS</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
@@ -50,7 +49,6 @@ NTU</div>
 </div>
 </a>
 </div>
-<h4></h4>
 <p>&nbsp;&nbsp;</p>
 <table>
 <tbody>
