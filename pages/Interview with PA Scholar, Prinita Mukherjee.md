@@ -5,13 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Careers/Photo___Prinita.jpg">
-</div>
-<p><strong>Prinita Mukherjee</strong> 
-<br>Constituency Manager, Zhenghua Community Club (CC)
-<br>Year Awarded: 2018
-<br>Undergraduate: Bachelor of Arts in Anthropology, Cornell University</p>
 <hr>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How has the PA Scholarship supported you in your academic journey?</strong>
 </p>
@@ -63,3 +56,4 @@ PA has allowed me to work on many cause-based projects that have driven
 impact and made a meaningful difference. When I took on a more communications-focused
 role, PA also allowed me to attend courses to learn important tools and
 add to my skillsets.</p>
+<p></p>
