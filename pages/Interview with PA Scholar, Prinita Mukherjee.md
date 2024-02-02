@@ -8,13 +8,14 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Careers/Photo___Prinita.jpg">
 </div>
-<p><strong>Prinita Mukherjee</strong>
+<p><strong>Prinita Mukherjee</strong> 
 <br>Constituency Manager, Zhenghua Community Club (CC)
 <br>Year Awarded: 2018
 <br>Undergraduate: Bachelor of Arts in Anthropology, Cornell University</p>
 <hr>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How has the PA Scholarship supported you in your academic journey?</strong>
-<br>The PA Scholarship has provided me with the unique opportunity to pursue
+</p>
+<p>The PA Scholarship has provided me with the unique opportunity to pursue
 my academic and personal development goals, opening doors to a liberal
 arts education in the US at the Cornell University and a Master degree
 in the United Kingdom at the University of Cambridge.</p>
@@ -25,7 +26,7 @@ helped me grow into the person I was meant to be and gain a more global
 perspective. Whenever I faced any challenges along the way, I knew I could
 always reach out to PA for their advice.</p>
 <p></p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the culture like at PA?</strong>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the culture like at PA?</strong> 
 <br>The culture at PA is inclusive, collaborative, and passionate, with the
 idea of community truly woven into our work. Everyone is very sincere in
 their support, and I am grateful that I can always count on my colleagues
@@ -34,7 +35,7 @@ someone needs it. It is all about working together to bring about a positive
 change, building strong relationships, and bringing people together to
 foster harmony and shared moments.</p>
 <p></p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Share with us some stories of your experience in PA so far.</strong> 
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Share with us some stories of your experience in PA so far.</strong>
 </p>
 <p>I believe that finding meaning is important in one’s professional life,
 and I am fortunate to have encountered many meaningful moments during my
