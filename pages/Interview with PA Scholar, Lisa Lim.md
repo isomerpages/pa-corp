@@ -4,17 +4,12 @@ permalink: /careers/pa-scholarship/scholars-interview-lisa-lim/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Careers/Photo___Lisa_Lim__Portrait_S_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Introduction to Lisa Lim" src="/images/Careers/Scholars_Interview_Photo___Lisa_Lim_Webpage.png">
 </div>
-<p><strong>Lisa Lim Yu Qi</strong>
-<br>PA Undergraduate Scholar (2023)
-<br>Bachelor of Social Science in Political Science, NUS</p>
 <hr>
-<p><strong>1.&nbsp; &nbsp; &nbsp; What motivated you to apply for the PA Scholarship?</strong>
-</p>
-<p>As someone who aspires to find a meaningful career, I was inspired to
+<p><strong>1.&nbsp;What motivated you to apply for the PA Scholarship?</strong>
+<br>As someone who aspires to find a meaningful career, I was inspired to
 apply for the PA Scholarship and partake in PA’s efforts in serving the
 community.</p>
 <p>Social support from family, community and the government are vital for
@@ -29,9 +24,9 @@ organises, such as overseeing grassroots committees and organising events.
 From the larger community to individual residents, I believe that the social
 support PA provides is vital, motivating me to pursue a career in this
 organisation.</p>
-<p><strong>2.&nbsp; &nbsp; &nbsp; How has the Scholarship supported you in your academic journey?</strong>
-</p>
-<p>Knowing that I have a career in the PA after I graduate has lifted the
+<p></p>
+<p><strong>2.&nbsp;How has the scholarship supported you in your academic journey</strong>
+<br>Knowing that I have a career in the PA after I graduate has lifted the
 stress of needing to find a suitable job for myself. This certainty has
 allowed me to study with a clear purpose, as I consistently connect relevant
 class content with the skills required for my future job.</p>
@@ -39,10 +34,10 @@ class content with the skills required for my future job.</p>
 financial burden of university while studying. The scholarship has allowed
 me to focus on my studies without needing to seek alternative sources of
 income to support myself. This grants me the ability to fully immerse myself
-in my university’s academic culture and lessons.&nbsp;</p>
-<p><strong>3.&nbsp; &nbsp; &nbsp; What are some valuable experiences you’ve gained as an undergraduate student in university?</strong>
-</p>
-<p>An invaluable experience I have had in university is living independently
+in my university’s academic culture and lessons.</p>
+<p></p>
+<p><strong>3.&nbsp;What are some valuable experiences you’ve gained as an undergraduate student in university?</strong>
+<br>An invaluable experience I have had in university is living independently
 and experiencing the immense freedom that a university environment offers.
 Balancing my academic, social, and personal pursuits has honed my time
 management and organisational skills, while the independence I enjoy has
@@ -51,9 +46,9 @@ fostered a sense of responsibility and self-reliance.</p>
 in various event organisation roles in NUS, in both my faculty and residential
 college. This has provided me with important work experience and prepared
 me better for the roles that I would need to take on at PA.</p>
-<p><strong>4.&nbsp; &nbsp; &nbsp; What kind of impact do you hope to have in your future career with PA?</strong>
-</p>
-<p>I hope that I can play a role in creating vibrant and cohesive communities
+<p></p>
+<p><strong>4.&nbsp;What kind of impact do you hope to have in your future career with PA?</strong>
+<br>I hope that I can play a role in creating vibrant and cohesive communities
 in Singapore.</p>
 <p>In an increasingly polarised world, I want to contribute to the larger
 movement of “Forward Singapore”, by bridging existing gaps between individuals
