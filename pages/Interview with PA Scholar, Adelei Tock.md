@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Introduction on Adelei Tock" src="/images/Careers/Scholars_Interview_Photo___Adelei_Tock_Webpage.png">
 </div>
 <hr>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What motivated you to apply for the PA Scholarship?</strong>
+<p><strong>1.&nbsp;What motivated you to apply for the PA Scholarship?</strong> 
 <br>I was driven by a strong desire to serve the community and make a difference
 in the public sector.
 <br>My time as an intern at North West Community Development Council (CDC)
@@ -23,7 +23,7 @@ in the world constantly evolve, and I hope to utilise my skills and experiences,
 along with a fresh perspective from my recent education to bring new ideas
 that will benefit the community.&nbsp;</p>
 <p></p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How has the Scholarship supported you in your academic journey?</strong>
+<p><strong>2.&nbsp;How has the scholarship supported you in your academic journey?</strong> 
 <br>The scholarship serves a driving force and motivation for me to engage
 in a wide range of academic and co-curricular activities in university,
 with the aim of making a greater contribution to the community after completing
@@ -38,7 +38,7 @@ my motivation to volunteer with a sense of purpose to residents and the
 community, and to interact with people from different countries as an ambassador
 in the Asian Youth Leaders Organisation.&nbsp;</p>
 <p></p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are some valuable experiences you’ve gained as an undergraduate student in university?</strong>
+<p><strong>3.&nbsp;What are some valuable experiences you’ve gained as an undergraduate student in university?</strong> 
 <br>In SMU, I have learnt to become more outspoken and to respond better to
 social situations. In a university that promotes collaborative learning,
 teamwork and leadership, I have been exposed to many circumstances that
@@ -53,7 +53,7 @@ As someone who is committed to give my best in all that I do, self-discipline
 and proactiveness in seeking help are essential to succeed in doing the
 above.&nbsp;</p>
 <p></p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What kind of impact do you hope to have in your future career with PA?</strong>
+<p><strong>4.&nbsp;What kind of impact do you hope to have in your future career with PA?</strong> 
 <br>In these trying times, I believe that it is crucial for citizens to work
 hand in hand with the government, based on shared interests to progress
 and prosper. As such, I hope to strengthen both people-to-people and people-to-government
