@@ -4,6 +4,14 @@ permalink: /careers/pa-scholarship/scholars-interview-lisa-lim/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Careers/Photo___Lisa_Lim__Portrait_S_.jpg">
+</div>
+<p><strong>Lisa Lim Yu Qi</strong>
+<br>PA Undergraduate Scholar (2023)
+<br>Bachelor of Social Science in Political Science, NUS</p>
+<hr>
 <p><strong>1.&nbsp; &nbsp; &nbsp; What motivated you to apply for the PA Scholarship?</strong>
 </p>
 <p>As someone who aspires to find a meaningful career, I was inspired to
