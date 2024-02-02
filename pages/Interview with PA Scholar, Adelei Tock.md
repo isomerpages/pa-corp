@@ -4,10 +4,6 @@ permalink: /careers/pa-scholarship/scholars-interview-adelei-tock/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Introduction of Adelei" src="/images/Careers/Scholars_Interview_Photo___Adelei_Tock_Webpage2.png">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Introduction on Adelei Tock" src="/images/Careers/Scholars_Interview_Photo___Adelei_Tock_Webpage.png">
 </div>
