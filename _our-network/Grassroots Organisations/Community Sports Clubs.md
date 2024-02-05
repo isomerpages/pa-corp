@@ -3,6 +3,7 @@ title: Community Sports Clubs
 permalink: /our-network/grassroots-organisations/community-sports-clubs/
 description: ""
 third_nav_title: Grassroots Organisations
+variant: markdown
 ---
 The People’s Association (PA) works through Community Sports Clubs (CSCs) to foster community bonding through a wide array of sports activities for residents to participate and interact with one another.
 
@@ -12,8 +13,8 @@ For more information on our CSCs events and activities, please click  [here](/ou
 
 #### CSC Volunteers
 Want to make a difference as a volunteer through sports? Join us today!
-Get in touch with your local CSC at the Community Club closest to you or email us at [PA_Community_Sports@pa.gov.sg.](PA_Community_Sports@pa.gov.sg.)
+Get in touch with your local CSC at the Community Club closest to you or email us at [PA_Community_Sports@pa.gov.sg](PA_Community_Sports@pa.gov.sg).
 
 #### Corporate Partners
 
-Interested in extending the outreach of your products and services through our extensive community network island-wide? Drop us an email at [ PA_Community_Sports@pa.gov.sg ](PA_Community_Sports@pa.gov.sg) and together, we can explore on a successful collaboration.
+Interested in extending the outreach of your products and services through our extensive community network island-wide? Drop us an email at [ PA_Community_Sports@pa.gov.sg](PA_Community_Sports@pa.gov.sg) and together, we can explore on a successful collaboration.
