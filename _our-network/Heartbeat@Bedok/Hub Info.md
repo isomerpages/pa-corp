@@ -92,4 +92,4 @@ In line with the East Coast Digital Blueprint, Heartbeat@Bedok is proud to suppo
 
    In its facilities management, Heartbeat@Bedok has also implemented many smart and innovative initiatives such as the smart scrubbers, bins and toilet automation system to enhanced manpower deployment efficiency and better customer experience.
 
- <img style="height:250px;width:350px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_14.jpg"> <img style="height:250px;width:350px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_15.jpg">
+ <img style="height:250px;width:350px" align="left" src="/images/Our%20Network/HeartBeat%20Bedok/HeartbeatBedok_14.jpg"> <img style="height:250px;width:350px" align="right" src="/images/Our%20Network/HeartBeat%20Bedok/HeartbeatBedok_15.jpg">
