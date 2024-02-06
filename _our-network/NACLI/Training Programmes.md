@@ -19,6 +19,7 @@ For more information about our grassroots training programmes, please click on t
 Training Administration Section<br>
 6672 5250<br>
 [nacli@pa.gov.sg](mailto:nacli@pa.gov.sg)
+
 #### Learn on the Go!
 
 Enjoy bite-sized learning at your fingertips when you come onboard NACLI's social media platforms! Stay updated on NACLI courses and gather useful tips on community engagement - **just in time, just enough, and just for you**!
