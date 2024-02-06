@@ -17,4 +17,4 @@ Get in touch with your local CSC at the Community Club closest to you or email u
 
 #### Corporate Partners
 
-Interested in extending the outreach of your products and services through our extensive community network island-wide? Drop us an email at [ PA_Community_Sports@pa.gov.sg](PA_Community_Sports@pa.gov.sg) and together, we can explore on a successful collaboration.
+Interested in extending the outreach of your products and services through our extensive community network island-wide? Drop us an email at [ PA_Community_Sports@pa.gov.sg](mailto:PA_Community_Sports@pa.gov.sg) and together, we can explore on a successful collaboration.
