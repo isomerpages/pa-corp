@@ -22,7 +22,7 @@ Officially opened in 2018, the 7-storey Heartbeat@Bedok was envisioned as a key 
 
 <img style="height:250px;width:350px" align="left" src="/images/Our%20Network/HeartBeat%20Bedok/HeartbeatBedok_2.jpg"><img style="height:250px;width:350px" align="right" src="/images/Our%20Network/HeartBeat%20Bedok/HeartbeatBedok_3.jpg">   
 <br><br><br><br><br><br><br><br>
-<img style="height:250px;width:350px" align="left" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_4.jpg"><img style="height:250px;width:350px" align="right" src="/images/Our%20Network/Heartbeat%20Bedok/HeartbeatBedok_18.jpg"><br><br><br><br><br><br>
+<img style="height:250px;width:350px" align="left" src="/images/Our%20Network/HeartBeat%20Bedok/HeartbeatBedok_4.jpg"><img style="height:250px;width:350px" align="right" src="/images/Our%20Network/HeartBeat%20Bedok/HeartbeatBedok_18.jpg"><br><br><br><br><br><br>
 
 #### Bringing Sports and Wellness Integrated Programmes to Encourage Active Living
 
