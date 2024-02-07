@@ -103,4 +103,4 @@ Community YOUthCare Festival, an island-wide community service initiative, was m
 
 To learn more about the PAYM’s programmes and activities or to find out how to join us:
 
-Email us at [PA_PAYM@pa.gov.sg](PA_PAYM@pa.gov.sg), or contact us via our [PAYM Facebook Page](https://www.facebook.com/PAYMyouths/)
+Email us at [PA_PAYM@pa.gov.sg](mailto:PA_PAYM@pa.gov.sg), or contact us via our [PAYM Facebook Page](https://www.facebook.com/PAYMyouths/)
