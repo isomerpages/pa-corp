@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4>Community Clubs</h4>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" alt="community club" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg">
+<img style="width:600px" height="auto" width="100%" alt="people's association community club" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg">
 </div>
 <p>Community Clubs (CCs) are common spaces for people of all races to come
 together, build friendships and promote social bonding. CCs also connect
