@@ -41,7 +41,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td width="75%">						   
-					       Every first Thursday of the month, 2 hours per session, 10am to 12noon
+					       Every first Friday of the month, 2 hours per session, 10am to 12noon
 											</td>
 				</tr>
 				<tr>
