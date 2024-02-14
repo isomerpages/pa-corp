@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" alt="community club facade" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg">
+<img style="width:600px" height="auto" width="100%" alt="Facade of MacPherson Community Club" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg">
 </div>
 <p>PA and its network of grassroots organisations (GROs) promote national
 unity by bringing people together, bridging communities, fostering new
