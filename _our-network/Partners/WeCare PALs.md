@@ -35,8 +35,8 @@ stories on the meaningful programmes our WeCare PALs have done with us!</p>
 more information on partnership with PA.</p>
 </li>
 <li>
-<p>Connect with us at [PA_Partnership@pa.gov.sg ](mailto: PA_Partnership@pa.gov.sg
-) if your organisation is keen to do good for the community with PA!</p>
+<p>Connect with us at <a href="mailto: PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a> if
+your organisation is keen to do good for the community with PA!</p>
 </li>
 </ul>
 <p></p>
