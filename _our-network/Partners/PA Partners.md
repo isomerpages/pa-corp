@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4>Partners</h4>
 <div class="isomer-image-wrapper">
-<img style="width:700px" height="auto" width="100%" alt="people's association community partners and events" src="/images/Our%20Network/Partners/banner%20for%20PA%20website%20partners.png">
+<img style="width:700px" height="auto" width="100%" alt="Collage of People's Association's Community Events and Partners" src="/images/Our%20Network/Partners/banner%20for%20PA%20website%20partners.png">
 </div>
 <p>
 <br>
@@ -21,7 +21,7 @@ The contributions by partners will certainly go a long way to impact lives
 and build a great and caring home for all.</p>
 <h4>Why Partner PA?</h4>
 <div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/Our%20Network/Partners/icon1.jpg">
+<img style="width:200px" height="auto" width="100%" alt="Network of Partners" src="/images/Our%20Network/Partners/icon1.jpg">
 </div>
 <p>
 <br>
@@ -34,7 +34,7 @@ cash and/or in-kind. Together with PA's extensive network which includes
 our GROs and other PA units, we can co-create meaningful initiatives through
 concerted efforts.</p>
 <div class="isomer-image-wrapper">
-<img style="width:250px" height="auto" width="100%" src="/images/Our%20Network/Partners/Network_of_Partners.jpg">
+<img style="width:250px" height="auto" width="100%" alt="Effect of Networks" src="/images/Our%20Network/Partners/Network_of_Partners.jpg">
 </div>
 <p>
 <br>
@@ -44,7 +44,7 @@ concerted efforts.</p>
 of the community's needs to better enhance targeted outreach programmes
 and partner initiatives.</p>
 <div class="isomer-image-wrapper">
-<img style="width:250px" height="auto" width="100%" src="/images/Our%20Network/Partners/Community%20Insights.png">
+<img style="width:250px" height="auto" width="100%" alt="People Figures Putting a Puzzle Together" src="/images/Our%20Network/Partners/Community%20Insights.png">
 </div>
 <p>
 <br>
@@ -55,7 +55,7 @@ to share creative ideas and best practices. These mutual learning opportunities
 help improve existing collaborative programmes and inspire new partnership
 possibilities.</p>
 <div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/Our%20Network/Partners/Ideas_Practices.jpg">
+<img style="width:200px" height="auto" width="100%" alt="Human Figures Sharing Ideas" src="/images/Our%20Network/Partners/Ideas_Practices.jpg">
 </div>
 <p>
 <br>
@@ -65,7 +65,7 @@ possibilities.</p>
 Community Spirit Award Scheme is given to exemplary partners who have assisted
 in building social capital and contributed to the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/Our%20Network/Partners/Partners.svg">
+<img style="width:200px" height="auto" width="100%" alt="Hand Holding a Trophy" src="/images/Our%20Network/Partners/Partners.svg">
 </div>
 <h4>Be a Friend of PA, Be Our WeCare PALs</h4>
 <p>WeCare PALs are our friends of PA, an overarching term used for all our

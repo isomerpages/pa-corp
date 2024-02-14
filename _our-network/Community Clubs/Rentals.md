@@ -9,16 +9,16 @@ PA offers a wide range of facilities and services to cater to your different nee
 
 #### Community Club Facilities
 
-<img style="width:200px" align="center" src="/images/Our%20Network/Community%20Club/onepalogo.jpg">
+<img style="width:200px" align="center" alt="onePA Logo" src="/images/Our%20Network/Community%20Club/onepalogo.jpg">
 
 Community Clubs (CCs) are meeting grounds for all residents, offering a venue for activities within the community. Our CCs bring people together through a variety of programmes, from youth to active-ageing; and from classroom-based courses to sporting and fitness activities, bazaar sales and parties. CCs also offer a wide-range of facilities, from basic ones like basketball and badminton courts to more modern ones like dance studios and gymnasiums.
 
 Book your CC courses and facilities at the [onePA website](https://www.onepa.gov.sg/)
 
 #### Commercial Spaces for Lease
-<img style="width:250px" align="center" src="/images/PA%20Logo%202015%20(PNG).png">
+<img style="width:250px" align="center" alt="People's Association Logo" src="/images/PA%20Logo%202015%20(PNG).png">
 		 
 
 Commercial tenants are one of the channels through which the People’s Association reaches out to residents across all ages, races and places of residence. We invite interested commercial operators to lease our commercial spaces to conduct businesses to add vibrancy and provide additional avenues for people to bond together.
 
-View the list of available CC spaces for lease [here](/files/Our%20Network/Community%20Clubs/List_of_Availability_PA_05_Feb_2024_.pdf)
+View the list of available CC spaces for lease [here][](/files/List_of_Availability_PA_24_Feb_2024.pdf)[(/files/List_of_Availability_PA_24_Feb_2024.pdf)]
