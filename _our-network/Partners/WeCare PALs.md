@@ -6,7 +6,7 @@ third_nav_title: Partners
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/Our%20Network/Partners/Facebook%20Banner%20(Final)%2027%20April.jpg">
+<img style="width:600px" height="auto" width="100%" alt="Collage of People's Association's Community Events and Partners" src="/images/Our%20Network/Partners/Facebook%20Banner%20(Final)%2027%20April.jpg">
 </div>
 <p>
 <br>
@@ -18,7 +18,7 @@ play a meaningful role in helping the underprivileged, disadvantaged and/or
 special needs citizens to deepen the connections with the community.</p>
 <h3>How can you partner with us?</h3>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" alt="partnering and volunteering with people's association" src="/images/Our%20Network/Partners/We%20care%20PALS.png">
+<img style="width:600px" height="auto" width="100%" alt="Infographic on Partnering and Volunteering with People's Association" src="/images/Our%20Network/Partners/We%20care%20PALS.png">
 </div>
 <p>
 <br>
