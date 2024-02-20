@@ -2,6 +2,7 @@
 title: PA's Programmes
 permalink: /our-programmes/programmes/
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody><tr>
