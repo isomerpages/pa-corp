@@ -38,4 +38,10 @@ volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel
 <p></p>
 <h3>Trending Sports</h3>
 <p></p>
+<p>In recent times, there has been a surge in the popularity of these sports:</p>
 <p></p>
+<p></p>
+<p>If you are interested in picking up a new sport, please reach out to us
+at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>,
+and we will connect you with the Community Sports Networks (CSNs) that
+host interest groups for these sports.</p>
