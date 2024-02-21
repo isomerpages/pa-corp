@@ -39,6 +39,19 @@ volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel
 <h3>Trending Sports</h3>
 <p></p>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Dragonboat</p>
+</li>
+<li>
+<p>Floorball</p>
+</li>
+<li>
+<p>Bowling</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p>If you are interested in picking up a new sport, please reach out to us
