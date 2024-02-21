@@ -49,7 +49,7 @@ host interest groups for these sports.</p>
 <h3>Sports Interest Groups (SIGs)</h3>
 <p>The CSNs organises an array of regular activities such as badminton, basketball,
 brisk walking, football, sepak takraw, table tennis, and in recent years
-also included disc golf and kin-ball.</p>
+also included disc golf, tchoukball and kin-ball.</p>
 <p>(Insert photos)</p>
 <p></p>
 <p>If you are keen to join Sports Interest Groups, head over to our OnePA
