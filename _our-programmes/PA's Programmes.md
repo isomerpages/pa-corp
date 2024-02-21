@@ -60,7 +60,7 @@ years.
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-communitysports.jpg">
+<img style="height:200px;width:300px" height="auto" width="100%" alt="community sports events for the family" src="/images/Programmes/main-communitysports.jpg">
 </div>
 </td>
 </tr>
