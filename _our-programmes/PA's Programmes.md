@@ -19,7 +19,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-communitydialogue_edited.jpg">
+<img style="height:200px;width:300px" height="auto" width="100%" alt="community dialogues between the government and residents" src="/images/Programmes/main-communitydialogue_edited.jpg">
 </div>
 </td>
 </tr>
