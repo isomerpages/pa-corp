@@ -51,7 +51,9 @@ volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel
 </li>
 </ol>
 <p></p>
-<p></p>
+<p>If you are interested in these trending sports and would like to get more
+information on the game play, etc, please visit the respective National
+Sports Association(NSA) official website for , and .</p>
 <p></p>
 <p></p>
 <p>Interested to pick up the new sport? Please reach out to us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>,
