@@ -98,6 +98,29 @@ August. Choose from these sports to represent your local community: <strong>bask
 <h4>Upcoming Cluster Sports Competitions</h4>
 <h4>The 5 Sports to look out for</h4>
 <h4>Other Trending Sports</h4>
+<p>In recent times, there has been a surge in the popularity of these sports:</p>
+<p>[insert 3 photos]</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Bowling</p>
+</li>
+<li>
+<p>Dragon Boat</p>
+</li>
+<li>
+<p>Floorball</p>
+</li>
+</ol>
+<p></p>
+<p>If you are interested in these trending sports and would like to get more
+information on the game play, etc, please visit the respective National
+Sports Association (NSA) official website for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
+<a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
+<p></p>
+<p></p>
+<p>Interested to pick up the new sport? Please reach out to us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>,
+and we will connect you with the Community Sports Networks (CSNs) that
+host interest groups for these sports.</p>
 <h4>Register Your Interest Here</h4>
 <p>Wish to take part in the Cluster Sports Competition? Register your interest
 <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">here.</a>
