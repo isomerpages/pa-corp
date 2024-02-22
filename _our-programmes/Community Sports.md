@@ -9,13 +9,16 @@ to foster community bonding through a wide array of sports activities for
 residents to participate and interact with one another.</p>
 <p>Over the years, the CSN has curated flagship programmes like the evergreen
 PAssion Community Football.</p>
+<p>We have also identified trending sports in the community.</p>
 <p>The CSNs at the grassroots level organises an array of activities such
 as brisk walks, mass swims, sports carnivals, bowling, badminton, football
 and sepak takraw, and in recent years also included disc golf, kin-ball
 and floorball.</p>
-<p>Visit our <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
-<a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more information! Alternatively, you may email us at
-[PA_Community_Sports@pa.gov.sg](mailto: PA_Community_Sports@pa.gov.sg)!</p>
+<p>Navigate our page through these wayfinder!</p>
+<p></p>
+<p>For more information and happenings, visit our <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>. Alternatively, you may email us at [PA_Community_Sports@pa.gov.sg](mailto:
+PA_Community_Sports@pa.gov.sg)!</p>
 <h3>PAssion Community Football</h3>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20sports/commsports-passionfootball.jpg">
