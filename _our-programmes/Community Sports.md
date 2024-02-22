@@ -92,8 +92,8 @@ also included disc golf, tchoukball and kin-ball.</p>
 <p>If you are keen to join Sports Interest Groups, head over to our OnePA
 website <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<h3>Community Championship</h3>
-<p>Let the Community Championship begin! Be Part of the TEAM!</p>
+<h2>Let the Community Championship begin!</h2>
+<p>Be Part of the TEAM!</p>
 <p>Your community is gearing up for sports competitions in the neighbouhood!
 Whether you are an avid player or a weekend warrior, we want you to represent
 your local sports teams and play your way to the Pesta Sukan in July and
