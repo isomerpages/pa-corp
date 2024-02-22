@@ -88,14 +88,14 @@ Whether you are an avid player or a weekend warrior, we want you to represent
 your local sports teams and play your way to the Pesta Sukan in July and
 August. Choose from these sports to represent your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
 <p>Put your game face on and find out how you can PLAY a part.</p>
-<p>About GRC Sports Competitions</p>
-<p>Upcoming GRC Sports Competitions</p>
+<p>About Cluster Sports Competitions</p>
+<p>Upcoming Cluster Sports Competitions</p>
 <p>The 5 Sports to look out for</p>
 <p>Other Trending Sports</p>
 <p>Register Your Interest Here</p>
 <p></p>
 <h4>About Cluster Sports Competitions</h4>
-<h4>Upcoming GRC Sports Competitions</h4>
+<h4>Upcoming Cluster Sports Competitions</h4>
 <h4>The 5 Sports to look out for</h4>
 <h4>Other Trending Sports</h4>
 <h4>Register Your Interest Here</h4>
