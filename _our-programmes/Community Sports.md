@@ -2,8 +2,10 @@
 title: Community Sports
 permalink: /our-programmes/community-sports/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<h3>Community Sports Network</h3>
+<p></p>
 <p>The People’s Association works through Community Sports Networks (CSNs)
 to foster community bonding through a wide array of sports activities for
 residents to participate and interact with one another.</p>
