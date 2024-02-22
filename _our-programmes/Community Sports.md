@@ -17,8 +17,7 @@ as brisk walks, mass swims, sports carnivals, bowling, badminton, football
 and sepak takraw, and in recent years also included disc golf, kin-ball
 and floorball.</p>
 <p>Navigate our page through this list!</p>
-<p>* <a href="#pacf" rel="noopener noreferrer nofollow" target="_blank">PAssion Community Football</a>
-</p>
+<p>* <a href="#pacf" rel="noopener noreferrer nofollow" target="_blank">PAssion Community Football</a></p>
 <p>* <a href="#trending" rel="noopener noreferrer nofollow" target="_blank">Trending Sports</a>
 </p>
 <p>* <a href="#sig" rel="noopener noreferrer nofollow" target="_blank">Sports Interest Groups</a>
@@ -88,17 +87,25 @@ Whether you are an avid player or a weekend warrior, we want you to represent
 your local sports teams and play your way to the Pesta Sukan in July and
 August. Choose from these sports to represent your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
 <p>Put your game face on and find out how you can PLAY a part.</p>
-<p>About Cluster Sports Competitions</p>
-<p>Upcoming Cluster Sports Competitions</p>
-<p>The 5 Sports to look out for</p>
-<p>Other Trending Sports</p>
-<p>Register Your Interest Here</p>
+
+
+<p>* <a href="#about">About Cluster Sports Competitions</a></p>
+<p>* <a href="#upcoming">Upcoming Cluster Sports Competitions</a></p>
+<p>* <a href="#look">The 5 Sports to look out for</a></p>
+<p>* <a href="#other">Other Trending Sports</a></p>
+<p>* <a href="#register">Register Your Interest Here</a></p>
+
+
 <p></p>
-<h4>About Cluster Sports Competitions</h4>
-<h4>Upcoming Cluster Sports Competitions</h4>
+<a id="about"></a>
+<h3>About Cluster Sports Competitions</h3>
+<a id="upcoming"></a>
+<h3>Upcoming Cluster Sports Competitions</h3>
 <p>[Insert competition calendar]</p>
-<h4>The 5 Sports to look out for</h4>
-<h4>Other Trending Sports</h4>
+<a id="look"></a>
+<h3>The 5 Sports to look out for</h3>
+<a id="other"></a>
+<h3>Other Trending Sports</h3>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
 <p>[insert 3 photos]</p>
 <ol data-tight="true" class="tight">
@@ -122,7 +129,8 @@ Sports Association (NSA) official website for <a href="https://singaporebowling.
 <p>Interested to pick up the new sport? Please reach out to us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>,
 and we will connect you with the Community Sports Networks (CSNs) that
 host interest groups for these sports.</p>
-<h4>Register Your Interest Here</h4>
+<a id="register"></a>
+<h3>Register Your Interest Here</h3>
 <p>Wish to take part in the Cluster Sports Competition? Register your interest
 <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
