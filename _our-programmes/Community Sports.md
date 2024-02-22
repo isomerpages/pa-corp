@@ -74,3 +74,24 @@ also included disc golf, tchoukball and kin-ball.</p>
 <p></p>
 <p>If you are keen to join Sports Interest Groups, head over to our OnePA
 website <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<h3>Community Championship</h3>
+<p>Let the Community Championship begin! Be Part of the TEAM!</p>
+<p>&nbsp;</p>
+<p>Your community is gearing up for sports competitions in the neighbouhood!</p>
+<p>Whether you are an avid player or a weekend warrior, we want you to represent
+your local sports teams and play your way to the Pesta Sukan in July and
+August.</p>
+<p>&nbsp;</p>
+<p>Choose from these sports to represent your local community:</p>
+<p>Basketball, badminton, football, pickleball or table tennis</p>
+<p>&nbsp;</p>
+<p>Put your game face on and find out how you can PLAY a part.</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>About GRC Sports Competitions</p>
+<p>Upcoming GRC Sports Competitions</p>
+<p>The 5 Sports to look out for</p>
+<p>Other Trending Sports</p>
+<p>Sign Up Here</p>
+<p></p>
