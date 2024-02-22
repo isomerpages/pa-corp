@@ -2,7 +2,7 @@
 title: Community Sports
 permalink: /our-programmes/community-sports/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Community Sports Network</h3>
 <p></p>
@@ -17,13 +17,15 @@ as brisk walks, mass swims, sports carnivals, bowling, badminton, football
 and sepak takraw, and in recent years also included disc golf, kin-ball
 and floorball.</p>
 <p>Navigate our page through this list!</p>
-* <a href="#pacf">PAssion Community Football</a>
-<p>* <a href="#trending">Trending Sports</a></p>
-<p>* <a href="#sig">Sports Interest Groups</a></p>
+<p>* <a href="#pacf" rel="noopener noreferrer nofollow" target="_blank">PAssion Community Football</a>
+</p>
+<p>* <a href="#trending" rel="noopener noreferrer nofollow" target="_blank">Trending Sports</a>
+</p>
+<p>* <a href="#sig" rel="noopener noreferrer nofollow" target="_blank">Sports Interest Groups</a>
+</p>
 <p></p>
 <p>For more information and happenings, visit our <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>. Alternatively, you may email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Community_Sports@pa.gov.sg</a>!</p>
-<a id="pacf"></a>
 <h3>PAssion Community Football</h3>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20sports/commsports-passionfootball.jpg">
@@ -44,7 +46,6 @@ First-Aid and more.</p>
 volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
-<a id="trending"></a>
 <h3>Trending Sports</h3>
 <p></p>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
@@ -71,7 +72,6 @@ Sports Association (NSA) official website for <a href="https://singaporebowling.
 and we will connect you with the Community Sports Networks (CSNs) that
 host interest groups for these sports.</p>
 <p></p>
-<a id="sig"></a>
 <h3>Sports Interest Groups (SIGs)</h3>
 <p>The CSNs organises an array of regular activities such as badminton, basketball,
 brisk walking, football, sepak takraw, table tennis, and in recent years
@@ -99,5 +99,5 @@ August.</p>
 <p>Upcoming GRC Sports Competitions</p>
 <p>The 5 Sports to look out for</p>
 <p>Other Trending Sports</p>
-<p>Sign Up Here</p>
+<p>Register Your Interest Here</p>
 <p></p>
