@@ -41,13 +41,13 @@ volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
 <ol data-tight="true" class="tight">
 <li>
+<p>Bowling</p>
+</li>
+<li>
 <p>Dragonboat</p>
 </li>
 <li>
 <p>Floorball</p>
-</li>
-<li>
-<p>Bowling</p>
 </li>
 </ol>
 <p></p>
