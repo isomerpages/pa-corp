@@ -1,0 +1,35 @@
+collections:
+  sparks-volunteer-programmes:
+    output: true
+    order:
+      - Arts & Heritage/.keep
+      - Arts & Heritage/Sembawang Heritage Ambassadors.md
+      - Arts & Heritage/Sewing Interest Group.md
+      - Arts & Heritage/Art Dream Alive.md
+      - Caring for Our Community/.keep
+      - Caring for Our Community/ComLink Befriending.md
+      - Caring for Our Community/Sowers’ Event Ambassador.md
+      - Caring for Our Community/Senior Befriending Programme.md
+      - Caring for Our Community/Befriending for Vulnerable Seniors.md
+      - Caring for Our Community/Programme Curator.md
+      - Caring for Our Community/Kitchen Volunteer.md
+      - Caring for Our Community/Free Haircut Services For Seniors at Man Fut
+        Tong.md
+      - Caring for Our Community/Befriending with Seniors at Man Fut Tong Day
+        Care Centre.md
+      - Going Green Together/Gardens Give Back.md
+      - Going Green Together/.keep
+      - Health & Wellness/Woodlands Health Volunteer Squad.md
+      - Health & Wellness/Mental Wellness Trainers.md
+      - Health & Wellness/Mood Memory Screeners.md
+      - Health & Wellness/Exercise Facilitator.md
+      - Health & Wellness/.keep
+      - Nurturing Our Children/PSLE Coaching Programme.md
+      - Nurturing Our Children/kidsREAD.md
+      - Nurturing Our Children/.keep
+      - Nurturing Our Children/Homework Café.md
+      - Nurturing Our Children/Tuition for the Deaf.md
+      - Nurturing Our Children/It’s Storytime.md
+      - "Smart Nation/SparksMakers: Empowering Tomorrow’s Innovators.md"
+      - Smart Nation/Silver Infocomm Wellness Ambassador.md
+      - Smart Nation/.keep

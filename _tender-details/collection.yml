@@ -1,0 +1,5 @@
+collections:
+  tender-details:
+    output: true
+    order:
+      - Tender for Addition and Alteration Works for Sengkang Community Club.md
