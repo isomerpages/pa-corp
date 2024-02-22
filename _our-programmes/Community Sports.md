@@ -134,7 +134,9 @@ Cluster and at Pesta Sukan are:</p>
 <p>Men’s Open</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball.jpg">
+</div>
 <h4>2. Badminton</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -143,13 +145,14 @@ Cluster and at Pesta Sukan are:</p>
 <li>
 <p>Men’s Doubles Open​</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Mixed Doubles Masters (40 years old and above)</p>
 </li>
 </ul>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.jpg">
+</div>
 <h4>3. 5v5 Football</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -160,6 +163,9 @@ Cluster and at Pesta Sukan are:</p>
 </li>
 </ul>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football.jpg">
+</div>
 <h4>4. Pickleball</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -179,6 +185,9 @@ Cluster and at Pesta Sukan are:</p>
 </li>
 </ul>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pickleball2.jpg">
+</div>
 <h4>5. Table Tennis</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -189,6 +198,9 @@ Cluster and at Pesta Sukan are:</p>
 </li>
 <li>
 <p>Mixed Doubles Masters (40 years old and above)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table_Tennis.jpg">
+</div>
 </li>
 </ul>
 <h3>Other Trending Sports</h3>
