@@ -39,6 +39,7 @@ volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel
 <h3>Trending Sports</h3>
 <p></p>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
+<p>[insert 3 photos]</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bowling</p>
