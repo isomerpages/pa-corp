@@ -96,6 +96,7 @@ August. Choose from these sports to represent your local community: <strong>bask
 <p></p>
 <h4>About Cluster Sports Competitions</h4>
 <h4>Upcoming Cluster Sports Competitions</h4>
+<p>[Insert competition calendar]</p>
 <h4>The 5 Sports to look out for</h4>
 <h4>Other Trending Sports</h4>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
