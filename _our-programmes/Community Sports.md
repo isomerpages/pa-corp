@@ -94,9 +94,11 @@ August. Choose from these sports to represent your local community: <strong>bask
 <p>Other Trending Sports</p>
 <p>Register Your Interest Here</p>
 <p></p>
-<h4>About GRC Sports Competitions</h4>
+<h4>About Cluster Sports Competitions</h4>
 <h4>Upcoming GRC Sports Competitions</h4>
 <h4>The 5 Sports to look out for</h4>
 <h4>Other Trending Sports</h4>
 <h4>Register Your Interest Here</h4>
-<p></p>
+<p>Wish to take part in the Cluster Sports Competition? Register your interest
+<a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
