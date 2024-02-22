@@ -66,7 +66,7 @@ host interest groups for these sports.</p>
 <p>The CSNs organises an array of regular activities such as badminton, basketball,
 brisk walking, football, sepak takraw, table tennis, and in recent years
 also included disc golf, tchoukball and kin-ball.</p>
-<p>(Insert photos)</p>
+<p>(Insert SIG photos)</p>
 <p></p>
 <p>If you are keen to join Sports Interest Groups, head over to our OnePA
 website <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
