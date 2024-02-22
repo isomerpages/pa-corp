@@ -111,12 +111,89 @@ August. Choose from these sports to represent your local community: <strong>bask
 </p>
 <p></p>
 <h3>About Cluster Sports Competitions</h3>
+<p>We believe that playing sports together creates shared experience and
+memories with family, friends and neighbours.&nbsp; When people play together,
+win or lose together, it builds a sense of belonging to the community.&nbsp;</p>
+<p>That is why the People’s Association Community Sports Network (CSN) is
+coming together to organise sports competitions to engage a wide spectrum
+of residents. &nbsp;These sports are popular ones and require little or
+no equipment to get started.</p>
+<p>&nbsp;You can look forward to joining a local CSN team in your community,
+or form a team of your own, and compete at the GRC Cluster level.&nbsp;
+The top teams will be selected to represent the GRC Cluster at the SportSG
+Pesta Sukan in July and August, where you will get a chance to compete
+with winning teams from other GRC Cluster.&nbsp;</p>
 <h3>Upcoming Cluster Sports Competitions</h3>
 <p>[Insert competition calendar]</p>
 <h3>The 5 Sports to look out for</h3>
+<p>The&nbsp; 5 sports that will be played and the format of play at the GRC
+Cluster and at Pesta Sukan are:</p>
+<h4>1. 3v3 Basketball</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Men’s Open</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h4>2. Badminton</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mixed Doubles Open​</p>
+</li>
+<li>
+<p>Men’s Doubles Open​</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mixed Doubles Masters (40 years old and above)</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h4>3. 5v5 Football</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Men’s Open</p>
+</li>
+<li>
+<p>Men’s Masters (40 years old and above)</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h4>4. Pickleball</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Men’s Singles​</p>
+</li>
+<li>
+<p>Women’s Singles​</p>
+</li>
+<li>
+<p>Men’s Doubles​</p>
+</li>
+<li>
+<p>Women’s Doubles​</p>
+</li>
+<li>
+<p>Mixed Doubles</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h4>5. Table Tennis</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mixed Doubles Open​</p>
+</li>
+<li>
+<p>Men’s Doubles Open​</p>
+</li>
+<li>
+<p>Mixed Doubles Masters (40 years old and above)</p>
+</li>
+</ul>
 <h3>Other Trending Sports</h3>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
-<p>[insert 3 photos]</p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bowling</p>
