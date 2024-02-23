@@ -2,7 +2,7 @@
 title: Community Sports
 permalink: /our-programmes/community-sports/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Community Sports Network</h3>
 <p></p>
@@ -17,16 +17,16 @@ as brisk walks, mass swims, sports carnivals, bowling, badminton, football
 and sepak takraw, and in recent years also included disc golf, kin-ball
 and floorball.</p>
 <p>Navigate our page through this list!</p>
-<p>* <a href="#pacf">PAssion Community Football</a></p>
-<p>* <a href="#trendingsports">Trending Sports</a>
+<p>* <a href="#pacf" rel="noopener noreferrer nofollow" target="_blank">PAssion Community Football</a>
 </p>
-<p>* <a href="#sportsig">Sports Interest Groups</a>
+<p>* <a href="#trendingsports" rel="noopener noreferrer nofollow" target="_blank">Trending Sports</a>
+</p>
+<p>* <a href="#sportsig" rel="noopener noreferrer nofollow" target="_blank">Sports Interest Groups</a>
 </p>
 <p></p>
 <p>For more information and happenings, visit our <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>. Alternatively, you may email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Community_Sports@pa.gov.sg</a>!</p>
-
-<a id="pacf"></a>
+<p></p>
 <h3>PAssion Community Football</h3>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20sports/commsports-passionfootball.jpg">
@@ -47,7 +47,6 @@ First-Aid and more.</p>
 volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
-<a id="trendingsports"></a>
 <h3>Trending Sports</h3>
 <p></p>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
@@ -85,12 +84,13 @@ Sports Association (NSA) official website for <a href="https://singaporebowling.
 and we will connect you with the Community Sports Networks (CSNs) that
 host interest groups for these sports.</p>
 <p></p>
-<a id="sportsig"></a>
 <h3>Sports Interest Groups (SIGs)</h3>
 <p>The CSNs organises an array of regular activities such as badminton, basketball,
 brisk walking, football, sepak takraw, table tennis, and in recent years
 also included disc golf, tchoukball and kin-ball.</p>
+<div class="isomer-image-wrapper">
 <img style="width: 600px" height="auto" width="100%" alt="" src="/images/SIGs__2_.jpg">
+</div>
 <p></p>
 <p>If you are keen to join Sports Interest Groups, head over to our OnePA
 website <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -206,7 +206,10 @@ Cluster and at Pesta Sukan are:</p>
 </div>
 </li>
 </ul>
-<p>Need more information or resources? Look for the National Sports Associations (NSAs) here: [badminton](https://singaporebadminton.org.sg/), [basketball](https://bas.org.sg/), [football](https://www.fas.org.sg/), [pickleball](https://www.singaporepickleball.com.sg/), and [table tennis](https://www.stta.org.sg/).</p>
+<p>Need more information or resources? Look for the National Sports Associations
+(NSAs) here: <a href="https://singaporebadminton.org.sg/" rel="noopener noreferrer nofollow" target="_blank">badminton</a>,
+<a href="https://bas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">basketball</a>, <a href="https://www.fas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">football</a>,
+<a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
 <h3>Other Trending Sports</h3>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
 <p></p>
