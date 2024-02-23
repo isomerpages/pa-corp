@@ -90,7 +90,7 @@ host interest groups for these sports.</p>
 <p>The CSNs organises an array of regular activities such as badminton, basketball,
 brisk walking, football, sepak takraw, table tennis, and in recent years
 also included disc golf, tchoukball and kin-ball.</p>
-<p>(Insert SIG photos)</p>
+<img style="width: 600px" height="auto" width="100%" alt="" src="/images/SIGs__2_.jpg">
 <p></p>
 <p>If you are keen to join Sports Interest Groups, head over to our OnePA
 website <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -138,7 +138,7 @@ Cluster and at Pesta Sukan are:</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 600px" height="auto" width="100%" alt="" src="/images/Basketball.jpg">
+<img style="width: 600px" height="auto" width="100%" alt="" src="/images/Basketball__2_.jpg">
 </div>
 <h4>2. Badminton</h4>
 <ul data-tight="true" class="tight">
