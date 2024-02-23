@@ -63,7 +63,7 @@ volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel
 <p>Dragon Boat</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 200px" height="auto" width="100%" alt="" src="/images/Dragon_Boat.jpg">
+<img style="width: 600px" height="auto" width="100%" alt="" src="/images/Dragon_Boat.jpg">
 </div>
 </li>
 <li>
