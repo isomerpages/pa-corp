@@ -18,9 +18,9 @@ and sepak takraw, and in recent years also included disc golf, kin-ball
 and floorball.</p>
 <p>Navigate our page through this list!</p>
 <p>* <a href="#pacf">PAssion Community Football</a></p>
-<p>* <a href="#trending" rel="noopener noreferrer nofollow" target="_blank">Trending Sports</a>
+<p>* <a href="#trendingsports">Trending Sports</a>
 </p>
-<p>* <a href="#sig" rel="noopener noreferrer nofollow" target="_blank">Sports Interest Groups</a>
+<p>* <a href="#sportsig">Sports Interest Groups</a>
 </p>
 <p></p>
 <p>For more information and happenings, visit our <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
@@ -47,6 +47,7 @@ First-Aid and more.</p>
 volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
+<a id="trendingsports"></a>
 <h3>Trending Sports</h3>
 <p></p>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
@@ -84,6 +85,7 @@ Sports Association (NSA) official website for <a href="https://singaporebowling.
 and we will connect you with the Community Sports Networks (CSNs) that
 host interest groups for these sports.</p>
 <p></p>
+<a id="sportsig"></a>
 <h3>Sports Interest Groups (SIGs)</h3>
 <p>The CSNs organises an array of regular activities such as badminton, basketball,
 brisk walking, football, sepak takraw, table tennis, and in recent years
