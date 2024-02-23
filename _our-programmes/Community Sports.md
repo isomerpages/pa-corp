@@ -56,7 +56,7 @@ volunteer? Please fill up the interest form <a href="https://go.gov.sg/pacf" rel
 <p>Bowling</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 600px" height="auto" width="100%" alt="bowling events" src="/images/Bowling.jpg">
+<img style="width: 600px" height="auto" width="100%" alt="bowling events" src="/images/Bowling__2_.jpg">
 </div>
 </li>
 <li>
