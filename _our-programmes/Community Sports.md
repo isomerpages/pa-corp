@@ -206,6 +206,7 @@ Cluster and at Pesta Sukan are:</p>
 </div>
 </li>
 </ul>
+<p>Need more information or resources? Look for the National Sports Associations (NSAs) here: [badminton](https://singaporebadminton.org.sg/), [basketball](https://bas.org.sg/), [football](https://www.fas.org.sg/), [pickleball](https://www.singaporepickleball.com.sg/), and [table tennis](https://www.stta.org.sg/).</p>
 <h3>Other Trending Sports</h3>
 <p>In recent times, there has been a surge in the popularity of these sports:</p>
 <p></p>
