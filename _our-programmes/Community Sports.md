@@ -124,7 +124,7 @@ Pesta Sukan in July and August, where you will get a chance to compete
 with winning teams from other Cluster.&nbsp;</p>
 <a id="upcoming"></a>
 <h3>Upcoming Cluster Sports Competitions</h3>
-<p>[Insert competition calendar]</p>
+<p>To be updated.</p>
 <a id="look"></a>
 <h3>The 5 Sports to look out for</h3>
 <p>The&nbsp; 5 sports that will be played and the format of play at the GRC
@@ -238,4 +238,4 @@ host interest groups for these sports.</p>
 <p>Wish to take part in the Cluster Sports Competition? Register your interest
 <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<p>Find the Group Representation Constituency (GRC)/Cluster you belong to [here](https://www.parliament.gov.sg/mps/find-mps-in-my-constituency).</p>
+<p>Find the Group Representation Constituency (GRC)/Cluster you belong to <a href="https://www.parliament.gov.sg/mps/find-mps-in-my-constituency" rel="noopener noreferrer nofollow" target="_blank">here. </a></p>
