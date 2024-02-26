@@ -238,4 +238,4 @@ host interest groups for these sports.</p>
 <p>Wish to take part in the Cluster Sports Competition? Register your interest
 <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<p>Find the Group Representation Constituency (GRC) you belong to [here](https://www.parliament.gov.sg/mps/find-mps-in-my-constituency).</p>
+<p>Find the Group Representation Constituency (GRC)/Cluster you belong to [here](https://www.parliament.gov.sg/mps/find-mps-in-my-constituency).</p>
