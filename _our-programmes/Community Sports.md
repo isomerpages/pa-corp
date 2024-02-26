@@ -96,12 +96,9 @@ also included disc golf, tchoukball and kin-ball.</p>
 website <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h2>Let the Community Championship begin!</h2>
-<p>Be Part of the TEAM!</p>
-<p>Your community is gearing up for sports competitions in the neighbouhood!
-Whether you are an avid player or a weekend warrior, we want you to represent
-your local sports teams and play your way to the Pesta Sukan in July and
-August. Choose from these sports to represent your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
-<p>Put your game face on and find out how you can PLAY a part.</p>
+<p>Join the Squad!</p>
+<p>Your hood is revving up for some epic sports showdowns! Whether you're a die-hard player or a weekend warrior, we want you to rep your local sports crews and battle your way to the Pesta Sukan in July and August. Take your pick from these sports to rep your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
+<p>Strap on your game face and discover how you can get in on the action.</p>
 <p>* <a href="#about">About Cluster Sports Competitions</a></p>
 <p>* <a href="#upcoming">Upcoming Cluster Sports Competitions</a></p>
 <p>* <a href="#look">The 5 Sports to look out for</a></p>
