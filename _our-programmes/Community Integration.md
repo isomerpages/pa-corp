@@ -2,6 +2,7 @@
 title: Community Integration
 permalink: /our-programmes/community-integration/
 description: ""
+variant: markdown
 ---
 PA through its Grassroots Organisations (GROs) and Integration and Naturalisation Champions (INCs), help new citizens and Permanent Residents (PRs) settle in the community, providing platforms for them to interact with and bond with the local residents. Through their participation in various integration-centric programmes and GRO programmes/activities, the new immigrants can make friends and develop mutual understanding with their neighbours and other residents in the community. 
 
@@ -26,7 +27,7 @@ Discover the gems of your neighbourhood with the guidebook!
 * [Nee Soon GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_NeeSoon%20(1).pdf)
 * [Pasir Ris - Punggol GRC and Punggol West SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_pasir%20ris-punggol%20grc_20220912.pdf)
 * [Sembawang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sembawang%20compressed.pdf)
-* [Sengkang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome%20Booklet_Sengkang%20(1).pdf)
+* [Sengkang GRC](/files/Our%20Programmes/Community%20Integration/PA_GRC_Welcome_Booklet_Sengkang_20240223.pdf)
 * [Tampines GRC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_tampines_20220815.pdf)
 * [Tanjong Pagar GRC and Radin Mas SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_tanjong%20pagar_20220912%20compressed.pdf)
 *  [West Coast GRC and Pioneer SMC](/files/Our%20Programmes/Community%20Integration/pa_grc_welcome%20booklet_west%20coast.pdf)
