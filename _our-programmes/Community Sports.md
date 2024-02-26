@@ -118,10 +118,10 @@ coming together to organise sports competitions to engage a wide spectrum
 of residents. &nbsp;These sports are popular ones and require little or
 no equipment to get started.</p>
 <p>&nbsp;You can look forward to joining a local CSN team in your community,
-or form a team of your own, and compete at the GRC Cluster level.&nbsp;
-The top teams will be selected to represent the GRC Cluster at the SportSG
+or form a team of your own, and compete at the Cluster level.&nbsp;
+The top teams will be selected to represent the Cluster at the SportSG
 Pesta Sukan in July and August, where you will get a chance to compete
-with winning teams from other GRC Cluster.&nbsp;</p>
+with winning teams from other Cluster.&nbsp;</p>
 <a id="upcoming"></a>
 <h3>Upcoming Cluster Sports Competitions</h3>
 <p>[Insert competition calendar]</p>
