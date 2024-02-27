@@ -26,8 +26,7 @@ The top crews will rep the Cluster at the SportSG Pesta Sukan in July and August
 <p>To be updated.</p>
 <a id="look"></a>
 <h3>The 5 Sports to look out for</h3>
-<p>The 5 sports that will be played and the format of play at the GRC
-Cluster and at Pesta Sukan are:</p>
+<p>5 sports will be played at the upcoming competitions and the categories open for participation at the Cluster-level and at Pesta Sukan are:</p>
 <h4>1. 3v3 Basketball</h4>
 <ul data-tight="true" class="tight">
 <li>
