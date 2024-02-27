@@ -96,12 +96,9 @@ also included disc golf, tchoukball and kin-ball.</p>
 website <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h2>Let the Community Championship begin!</h2>
-<p>Be Part of the TEAM!</p>
-<p>Your community is gearing up for sports competitions in the neighbouhood!
-Whether you are an avid player or a weekend warrior, we want you to represent
-your local sports teams and play your way to the Pesta Sukan in July and
-August. Choose from these sports to represent your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
-<p>Put your game face on and find out how you can PLAY a part.</p>
+<p>Join the Squad!</p>
+<p>Your hood is revving up for some epic sports showdowns! Whether you're a die-hard player or a weekend warrior, we want you to rep your local sports crews and battle your way to the Pesta Sukan in July and August. Take your pick from these sports to rep your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
+<p>Strap on your game face and discover how you can get in on the action.</p>
 <p>* <a href="#about">About Cluster Sports Competitions</a></p>
 <p>* <a href="#upcoming">Upcoming Cluster Sports Competitions</a></p>
 <p>* <a href="#look">The 5 Sports to look out for</a></p>
@@ -110,21 +107,13 @@ August. Choose from these sports to represent your local community: <strong>bask
 <p></p>
 <a id="about"></a>
 <h3>About Cluster Sports Competitions</h3>
-<p>We believe that playing sports together creates shared experience and
-memories with family, friends and neighbours.&nbsp; When people play together,
-win or lose together, it builds a sense of belonging to the community.&nbsp;</p>
-<p>That is why the People’s Association Community Sports Network (CSN) is
-coming together to organise sports competitions to engage a wide spectrum
-of residents. &nbsp;These sports are popular ones and require little or
-no equipment to get started.</p>
-<p>&nbsp;You can look forward to joining a local CSN team in your community,
-or form a team of your own, and compete at the Cluster level.&nbsp;
-The top teams will be selected to represent the Cluster at the SportSG
-Pesta Sukan in July and August, where you will get a chance to compete
-with winning teams from other Cluster.&nbsp;</p>
+<p>We're all about having a blast and making memories with your fam, buddies, and folks in the hood through sports.&nbsp; Whether it's a win or a loss, playing together knits us closer as a community.&nbsp;</p>
+<p>That's why the People’s Association Community Sports Network (CSN) is getting the ball rolling with sports showdowns that cater to everyone. &nbsp;These sports are super popular and don't need much gear to dive in.</p>
+<p>&nbsp;Get stoked to join a local CSN crew in your area, or put together your own squad, and go head-to-head at the Cluster level.&nbsp;
+The top crews will rep the Cluster at the SportSG Pesta Sukan in July and August, where you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <a id="upcoming"></a>
 <h3>Upcoming Cluster Sports Competitions</h3>
-<p>[Insert competition calendar]</p>
+<p>To be updated.</p>
 <a id="look"></a>
 <h3>The 5 Sports to look out for</h3>
 <p>The&nbsp; 5 sports that will be played and the format of play at the GRC
@@ -238,4 +227,3 @@ host interest groups for these sports.</p>
 <p>Wish to take part in the Cluster Sports Competition? Register your interest
 <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<p>Find the Group Representation Constituency (GRC)/Cluster you belong to [here](https://www.parliament.gov.sg/mps/find-mps-in-my-constituency).</p>
