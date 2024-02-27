@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Community Championships/Community Sports.md
       - Community Championships/.keep
       - PA's Programmes.md
       - Active Ageing.md
