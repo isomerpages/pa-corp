@@ -2,8 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Community Sports.md
-      - Community Championships/.keep
       - PA's Programmes.md
       - Active Ageing.md
       - CC Courses/.keep
@@ -17,6 +15,8 @@ collections:
       - Community Arts.md
       - Community Dialogue.md
       - Community Integration.md
+      - Community Championships/.keep
+      - Community Sports.md
       - Emergency Preparedness.md
       - Family Life.md
       - imPAct@Hong Lim Green.md
