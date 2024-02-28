@@ -19,7 +19,7 @@ third_nav_title: Community Sports
 <h3>About Cluster Sports Competitions</h3>
 <p>We're all about having a blast and making memories with your fam, buddies, and folks in the hood through sports. Whether it's a win or a loss, playing together knits us closer as a community.&nbsp;</p>
 <p>That's why the People’s Association Community Sports Network (CSN) is getting the ball rolling with sports showdowns that cater to everyone. These sports are super popular and don't need much gear to dive in.</p>
-<p>&nbsp;Get stoked to join a local CSN crew in your area, or put together your own squad, and go head-to-head at the Cluster level.&nbsp;
+<p>Get stoked to join a local CSN crew in your area, or put together your own squad, and go head-to-head at the Cluster level.&nbsp;
 The top crews will rep the Cluster at the SportSG Pesta Sukan in July and August, where you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <a id="upcoming"></a>
 <h3>Upcoming Cluster Sports Competitions</h3>
@@ -83,7 +83,7 @@ The top crews will rep the Cluster at the SportSG Pesta Sukan in July and August
 <p>Mixed Doubles</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 600px" height="auto" width="100%" alt="" src="/images/Pickleball2.jpg">
 </div>
