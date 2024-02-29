@@ -138,4 +138,4 @@ host interest groups for these sports near you.</p>
 <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your interest with us!
 </p>
 
-If you are not sure which Cluster you belong to, please approach your nearest Community Club to find out more!
+If you are not sure which Cluster you belong to, please approach your nearest Community Club for the details!
