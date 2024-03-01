@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Follow the People's Association on Social Media</h3>
 <p>Follow us on <a href="https://www.facebook.com/peoplesassociation" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>,
 <a href="https://www.instagram.com/peoplesassociation/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>, <a href="https://www.tiktok.com/@peoplesassociation" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>,
-<a href="https://www.linkedin.com/company/peoplesassociation" rel="noopener noreferrer nofollow" target="_blank">Linkedin</a>or our <a href="whatsapp.com/channel/0029Va7A5KkCXC3Bf6RIdS01" rel="noopener noreferrer nofollow" target="_blank">WhatsApp Channel</a>!</p>
+<a href="https://www.linkedin.com/company/peoplesassociation" rel="noopener noreferrer nofollow" target="_blank">Linkedin</a>or our <a href="https://whatsapp.com/channel/0029Va7A5KkCXC3Bf6RIdS01" rel="noopener noreferrer nofollow" target="_blank">WhatsApp Channel</a>!</p>
 <h3>Getting to People's Association Headquarters</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/pa-hq-building%20(1).png">
