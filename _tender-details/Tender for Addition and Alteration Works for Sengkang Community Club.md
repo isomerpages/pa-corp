@@ -34,9 +34,7 @@ Community Club reception counter located at 2 Sengkang Square, #01-01 Singapore
 545025 during operating hours from 10.00am to 6.00pm daily, except Public
 Holidays.</p>
 <p>&nbsp;For enquiries, please contact Augustine Low at Tel: 6312 5400 or
-email to <a href="mailto:augustine_low@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Augustine_low@pa.gov.sg</a>
-<a rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
+email to <a href="mailto:augustine_low@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Augustine_low@pa.gov.sg</a>.</p>
 <p></p>
 <p></p>
 <p><strong>Publication Date: 18 December 2023</strong>
