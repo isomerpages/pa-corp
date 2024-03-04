@@ -48,7 +48,7 @@ Want to make a difference through Arts and Culture? Join us as a volunteer today
 *   If you love to share the joy of performance with others
 *   If you love art and want to contribute behind the scenes at PAssionArts activities
 
-Get in touch with your local&nbsp;Community Arts and Culture Club (CACC) at the [Community Club](https://www.onepa.gov.sg/cc) closest to you or complete this form for us to match you to the CACC nearest to you for volunteering opportunities: [https://go.gov.sg/passionartsvol](https://go.gov.sg/passionartsvol).
+Get in touch with your local&nbsp;Community Arts and Culture Club (CACC) at the [Community Club](https://www.onepa.gov.sg/cc) closest to you or complete this form for us to match you to the CACC nearest to you for [volunteering opportunities](https://go.gov.sg/passionartsvol).
 
 # Past PAssionArts Initiatives
 
