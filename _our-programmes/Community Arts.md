@@ -2,6 +2,7 @@
 title: Community Arts
 permalink: /our-programmes/community-arts/
 description: ""
+variant: markdown
 ---
 <img style="width:350px" src="/images/Our%20Programmes/commarts-logo.png"><br>
 
@@ -15,7 +16,7 @@ The key PAssionArts programmes include:
 * <a href="#Passion_Hotspot">PAssionArts Hotspot</a>
 * <a href="#Passion_Inspi">PAssionArts Inspiration Series</a>
 
-Connect with us on our [Facebook](https://www.facebook.com/PAssionArtsSG), [Instagram](https://www.instagram.com/passionartssg) and [TikTok](https://www.tiktok.com/@PAssionArtsSG/). You may also contact us at pa_acd@pa.gov.sg.
+Connect with us on our [Facebook](https://www.facebook.com/PAssionArtsSG), [Instagram](https://www.instagram.com/passionartssg) and [TikTok](https://www.tiktok.com/@PAssionArtsSG/). You can also [email us](mailto:pa_acd@pa.gov.sg)email us for more details.
 
 <a id="Community_Arts"></a>
 ### Community Arts and Culture Clubs
