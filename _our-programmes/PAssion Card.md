@@ -2,15 +2,16 @@
 title: PAssion Card
 permalink: /our-programmes/passion-card/
 description: ""
+variant: markdown
 ---
 The PAssion Card is a membership card of the People's Association (PA).
 
 
 <img style="width:600px" align="center" src="/images/Our%20Programmes/Corporate-Black-Cardface-(with-logos).jpg">
 
-In November 2009, the PAssion EZ-Link Card was launched. Besides offering our members exclusive privileges for our exciting range of courses, activities and programmes, the [PAssion Card](www.onepa.gov.sg/passion-card) also offers unique promotions via our tie-ups with our lifestyle merchants and partners.
+In November 2009, the PAssion EZ-Link Card was launched. Besides offering our members exclusive privileges for our exciting range of courses, activities and programmes, the [PAssion Card](https://www.onepa.gov.sg/passion-card) also offers unique promotions via our tie-ups with our lifestyle merchants and partners.
 
-In January 2014, the [PAssion POSB Debit Card](http://www.posb.com.sg/passion) – the must-have card for everyone in Singapore – was introduced jointly by PA and POSB. The all-in-one PAssion POSB Debit Card allows you to enjoy greater savings, rewards and privileges at over 2,500 places islandwide. What’s more, it also works as an ATM, NETS, Debit MasterCard® and EZ-Link card to give you all the convenience you need.
+In January 2014, the [PAssion POSB Debit Card](https://www.posb.com.sg/passion) – the must-have card for everyone in Singapore – was introduced jointly by PA and POSB. The all-in-one PAssion POSB Debit Card allows you to enjoy greater savings, rewards and privileges at over 2,500 places islandwide. What’s more, it also works as an ATM, NETS, Debit MasterCard® and EZ-Link card to give you all the convenience you need.
 
 The [PAssion Silver Concession Card](https://www.onepa.gov.sg/passion-card/passion-card-membership/silver-concession-card), launched in December 2016, is one of 70 initiatives under the Action Plan for Successful Ageing and spearheaded by the Ministry of Health, Ministry of Transport and PA with support from the Land Transport Authority.
 
