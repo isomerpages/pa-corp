@@ -15,9 +15,9 @@ description: ""
 <hr>
 <h3>Details</h3>
 <p>(1) For request of soft copy tender documents, please email to <a href="mailto:Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a> and
-<a href="Celeste_Sim@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Celeste_Sim@pa.gov.sg</a>.</p>
+<a href="mailto:Celeste_Sim@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Celeste_Sim@pa.go</a><a href="Celeste_Sim@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v.sg</a>.</p>
 <p>(2) For more information, please contact Lee Xiaohui or Celeste Sim at
-6272 3878&nbsp;or email at <a href="Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a> / <a href="Celeste_Sim@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Celeste_Sim@pa.gov.sg</a>.</p>
+6272 3878&nbsp;or email at <a href="mailto:Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a> / <a href="mailto:Celeste_Sim@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Celeste_Sim@pa.gov.sg</a>.</p>
 <p></p>
 <p><strong>Publication Date: 22 December 2023</strong>
 </p>
