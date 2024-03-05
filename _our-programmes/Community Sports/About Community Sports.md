@@ -1,5 +1,5 @@
 ---
-title: Community Sports
+title: About Community Sports
 permalink: /our-programmes/community-sports/
 description: Community sports programmes for all by People's Association
 variant: markdown

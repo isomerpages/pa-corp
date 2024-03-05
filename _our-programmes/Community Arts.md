@@ -2,6 +2,7 @@
 title: Community Arts
 permalink: /our-programmes/community-arts/
 description: ""
+variant: markdown
 ---
 <img style="width:350px" src="/images/Our%20Programmes/commarts-logo.png"><br>
 
@@ -15,7 +16,7 @@ The key PAssionArts programmes include:
 * <a href="#Passion_Hotspot">PAssionArts Hotspot</a>
 * <a href="#Passion_Inspi">PAssionArts Inspiration Series</a>
 
-Connect with us on our [Facebook](https://www.facebook.com/PAssionArtsSG), [Instagram](https://www.instagram.com/passionartssg) and [TikTok](https://www.tiktok.com/@PAssionArtsSG/). You may also contact us at pa_acd@pa.gov.sg.
+Connect with us on our [Facebook](https://www.facebook.com/PAssionArtsSG), [Instagram](https://www.instagram.com/passionartssg) and [TikTok](https://www.tiktok.com/@PAssionArtsSG/). You can also [email us](mailto:pa_acd@pa.gov.sg) for more details.
 
 <a id="Community_Arts"></a>
 ### Community Arts and Culture Clubs
@@ -34,7 +35,7 @@ PAssionArts Festival (PAF) is an annual community arts festival organised by the
 
 As part of the festival highlight, the National-Level Art Initiative provides opportunities for residents to co-create artistic representations of their neighbourhood to add vibrancy to their HeARTland. Partnering community artists, the CACCs and their residents come together to unleash their creativity, make new friends/fond memories and create art for their neighbourhood!
 
-For more information and full event listings, visit us at&nbsp;**[PAssionArts Facebook page](https://www.facebook.com/PAssionArtsSG)**&nbsp;today!
+For more information and full event listings, visit us at&nbsp;**[PAssionArts Facebook page](https://www.facebook.com/PAssionArtsSG)** today!
 
 <a id="PassionArts_volunteer"></a>
 ### PAssionArts Volunteer Corps
@@ -47,7 +48,7 @@ Want to make a difference through Arts and Culture? Join us as a volunteer today
 *   If you love to share the joy of performance with others
 *   If you love art and want to contribute behind the scenes at PAssionArts activities
 
-Get in touch with your local&nbsp;Community Arts and Culture Club (CACC) at the [Community Club](https://www.onepa.gov.sg/cc) closest to you or complete this form for us to match you to the CACC nearest to you for volunteering opportunities: [https://go.gov.sg/passionartsvol](https://go.gov.sg/passionartsvol).
+Get in touch with your local Community Arts and Culture Club (CACC) at the [Community Club](https://www.onepa.gov.sg/cc) closest to you or complete this form for us to match you to the CACC nearest to you for [volunteering opportunities](https://go.gov.sg/passionartsvol).
 
 # Past PAssionArts Initiatives
 
