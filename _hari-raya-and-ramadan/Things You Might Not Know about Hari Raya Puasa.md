@@ -25,18 +25,47 @@ is not a celebration of a new year!</p>
 exist for certain groups:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>The elderly, sick, and travelers:</strong> These individuals are
-excused from fasting, though travelers are expected to make up the missed
-days later.</p>
+<p>The elderly, sick, and travelers are excused from fasting, though travelers
+are expected to make up the missed days later.</p>
 </li>
 <li>
-<p><strong>Pregnant, menstruating, and breastfeeding women:</strong> These
-groups are also exempt from fasting due to their specific conditions.</p>
+<p>Pregnant, menstruating, and breastfeeding women are also exempt from fasting
+due to their specific conditions.</p>
 </li>
 <li>
-<p><strong>Children:</strong> Fasting is not mandatory for children until
-they reach puberty.</p>
+<p>Children are not required to fast until they reach puberty.</p>
 </li>
 </ul>
+<h4>What is the difference between Hari Raya Puasa and Hari Raya Haji?</h4>
+<p>Though both celebrated with joy, Hari Raya Puasa and Hari Raya Haji mark
+different occasions.</p>
+<p>Hari Raya Puasa celebrates the end of the fasting month of Ramadan while
+Hari Raya Haji commemorates the completion of the Hajj pilgrimage and honours
+Prophet Ibrahim's sacrifice, often referred to as the "day of sacrifice."</p>
+<p>During this festival, Muslims traditionally slaughter livestock and share
+it with the less fortunate.</p>
+<h4>What are some greetings you can use during Ramadan and Hari Raya Puasa?</h4>
+<p>During Ramadan, you may use these greetings:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Selamat Berpuasa (Happy Fasting)</p>
+</li>
+<li>
+<p>Salam Ramadan (Blessed Ramadan)</p>
+</li>
+<li>
+<p>Selamat Menyambut Bulan Ramadan (Have a good fasting month)</p>
+</li>
+</ul>
+<p>And these are the greetings you can use during Hari Raya Puasa:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Selamat Hari Raya (Happy Hari Raya)</p>
+</li>
+<li>
+<p>Salam Lebaran (similar to Selamat Hari Raya)</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p></p>
