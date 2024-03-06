@@ -11,9 +11,9 @@ daylight hours, focusing on spiritual growth and acts of charity. This
 period of self-discipline and empathy concludes with the celebration of
 Hari Raya Puasa.</p>
 <h3>Ramadan and Hari Raya Puasa in Singapore</h3>
-<p>Islamic Religious Council of Singapore (Muis), Ramadan commences on 12
-March 2024, and its conclusion will mark the arrival of Hari Raya Aidilfitri,
-also known as Hari Raya Puasa, on 10 April 2024.</p>
+<p>According to the Islamic Religious Council of Singapore (Muis), Ramadan
+commences on 12 March 2024, and its conclusion will mark the arrival of
+Hari Raya Aidilfitri, also known as Hari Raya Puasa, on 10 April 2024.</p>
 <p>Hari Raya Puasa is a festive occasion, celebrated with festive decorations,
 new clothes, and gatherings with family and friends.</p>
 <h3>5 things you might not know about Hari Raya Puasa and Ramadan</h3>
@@ -45,8 +45,8 @@ Prophet Ibrahim's sacrifice, often referred to as the "day of sacrifice."</p>
 <p>During this festival, Muslims traditionally slaughter livestock and share
 it with the less fortunate.</p>
 <h4>Sealed envelopes with money are handed out during Hari Raya Puasa</h4>
-<p>Known as duit raya or "Raya money", these are traditional handed out in
-green envelopes to children and elders during Hari Raya Puasa.</p>
+<p>Known as duit raya or "Raya money", these are traditionally handed out
+in envelopes to children and elders during Hari Raya Puasa.</p>
 <h4>What are some greetings you can use during Ramadan and Hari Raya Puasa?</h4>
 <p>During Ramadan, you may use these greetings:</p>
 <ul data-tight="true" class="tight">
