@@ -2,4 +2,5 @@ collections:
   hari-raya-and-ramadan:
     output: true
     order:
+      - Ramadan and Hari Raya Events.md
       - Things You Might Not Know about Hari Raya Puasa.md
