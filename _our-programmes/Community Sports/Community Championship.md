@@ -108,8 +108,8 @@ The top crews will rep the Cluster at the SportSG Pesta Sukan in July and August
 <a href="https://bas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">basketball</a>, <a href="https://www.fas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">football</a>,
 <a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
 <a id="other"></a>
-<h3>Other Trending Sports</h3>
-<p>Recently, there has been a surge in the popularity of these sports:</p>
+<h3>Other Sports</h3>
+<p>In recent times, there has been a significant surge in the participation and interest in these sports:</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
@@ -138,4 +138,4 @@ host interest groups for these sports near you.</p>
 <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your interest with us!
 </p>
 
-If you are not sure which Cluster you belong to, please approach your nearest Community Club for the details!
+If you are not sure which Cluster you belong to, please approach your nearest Community Club for details!
