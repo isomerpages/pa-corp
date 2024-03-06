@@ -61,7 +61,6 @@ It is the future of Tampines that offers greater convenience, a full spectrum
 of activities, facilities and services to cater to residents and visitors
 of all ages and lifestyle preferences, ensuring it serves all members within
 our community.</p>
-<p>Download the [e-copy of our Hub Guide] <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oth-hubguide</a>
-</p>
-<p>( Accurate as of 1 January 2024 ), featuring details on all the facilities
-and services OTH has to offer now.</p>
+<p>Download the <a href="https://go.gov.sg/oth-hubguide" rel="noopener noreferrer nofollow" target="_blank">e-copy of our Hub Guide </a>(accurate
+as of 1 January 2024), featuring details on all the facilities and services
+OTH has to offer now.</p>
