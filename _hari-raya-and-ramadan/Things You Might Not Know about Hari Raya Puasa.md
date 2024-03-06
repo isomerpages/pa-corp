@@ -10,3 +10,8 @@ worldwide. They abstain from food, drink, and other indulgences during
 daylight hours, focusing on spiritual growth and acts of charity. This
 period of self-discipline and empathy concludes with the celebration of
 Hari Raya Puasa.</p>
+<h3>Ramadan and Hari Raya Puasa in Singapore</h3>
+<p>Islamic Religious Council of Singapore (Muis), Ramadan commences on 12
+March 2024, and its conclusion will mark the arrival of Hari Raya Aidilfitri,
+also known as Hari Raya Puasa, on 10 April 2024.</p>
+<p></p>
