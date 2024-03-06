@@ -14,4 +14,12 @@ Hari Raya Puasa.</p>
 <p>Islamic Religious Council of Singapore (Muis), Ramadan commences on 12
 March 2024, and its conclusion will mark the arrival of Hari Raya Aidilfitri,
 also known as Hari Raya Puasa, on 10 April 2024.</p>
+<p>Hari Raya Puasa is a festive occasion, celebrated with festive decorations,
+new clothes, and gatherings with family and friends.</p>
+<h3>5 things you might not know about Hari Raya Puasa and Ramadan</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 <p></p>
