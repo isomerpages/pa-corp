@@ -70,6 +70,7 @@ green envelopes to children and elders during Hari Raya Puasa.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<p>Now that you have all this knowledge of Ramadan and Hari Raya, it is time
+to head down to a Ramadan or Hari Raya event in your neighbourhood.</p>
 <p></p>
 <p></p>
