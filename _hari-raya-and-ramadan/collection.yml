@@ -1,4 +1,5 @@
 collections:
   hari-raya-and-ramadan:
     output: true
-    order: []
+    order:
+      - Things You Might Not Know about Hari Raya Puasa.md
