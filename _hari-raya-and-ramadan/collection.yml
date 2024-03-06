@@ -1,5 +1,4 @@
 collections:
   hari-raya-and-ramadan:
     output: true
-    order:
-      - Hari Raya and Ramandan with PA/.keep
+    order: []
