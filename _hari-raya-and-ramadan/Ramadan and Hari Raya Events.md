@@ -58,5 +58,5 @@ these events in your neighbourhood, brought to you by the People's Association.<
 <p>This list will be updated periodically, so bookmark the page and check
 in for the latest events in your area!</p>
 <p>In the meantime, check out this list of 5 things you might not know about
-Hari Raya Puasa and Ramadan.</p>
+<a href="https://www.pa.gov.sg/hari-raya-and-ramadan/hari-raya-fun-facts/" rel="noopener noreferrer nofollow" target="_blank">Hari Raya Puasa and Ramadan</a>.</p>
 <p>(Updated as of 6th March 2024)</p>
