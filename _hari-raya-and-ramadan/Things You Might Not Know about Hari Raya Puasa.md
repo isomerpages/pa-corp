@@ -4,6 +4,10 @@ permalink: /hari-raya-and-ramadan/hari-raya-fun-facts/
 variant: tiptap
 description: 5 things you might not know about Hari Raya Puasa and Ramadan
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="malay muslim motifs and lanterns with text what is ramadan" src="/images/What_is_Ramadan.jpg">
+</div>
 <h3>What is Ramadan?</h3>
 <p>Ramadan is a holy month of fasting, prayer, and reflection for Muslims
 worldwide. They abstain from food, drink, and other indulgences during
@@ -47,6 +51,10 @@ it with the less fortunate.</p>
 <h4>Sealed envelopes with money are handed out during Hari Raya Puasa</h4>
 <p>Known as duit raya or "Raya money", these are traditionally handed out
 in envelopes to children and elders during Hari Raya Puasa.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="raya duit for hari raya" src="/images/green_packet.jpg">
+</div>
 <h4>What are some greetings you can use during Ramadan and Hari Raya Puasa?</h4>
 <p>During Ramadan, you may use these greetings:</p>
 <ul data-tight="true" class="tight">
