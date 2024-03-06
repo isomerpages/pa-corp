@@ -17,7 +17,26 @@ also known as Hari Raya Puasa, on 10 April 2024.</p>
 <p>Hari Raya Puasa is a festive occasion, celebrated with festive decorations,
 new clothes, and gatherings with family and friends.</p>
 <h3>5 things you might not know about Hari Raya Puasa and Ramadan</h3>
-<p>It's not the Muslim new year
-<br>Hari Raya Puasa marks the end of a month of fasting during Ramadan and
+<h4>It's not the Muslim new year</h4>
+<p>Hari Raya Puasa marks the end of a month of fasting during Ramadan and
 is not a celebration of a new year!</p>
+<h4>Not all Muslims are required to fast during Ramadan</h4>
+<p>While fasting during Ramadan is obligatory for most healthy adults, exemptions
+exist for certain groups:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>The elderly, sick, and travelers:</strong> These individuals are
+excused from fasting, though travelers are expected to make up the missed
+days later.</p>
+</li>
+<li>
+<p><strong>Pregnant, menstruating, and breastfeeding women:</strong> These
+groups are also exempt from fasting due to their specific conditions.</p>
+</li>
+<li>
+<p><strong>Children:</strong> Fasting is not mandatory for children until
+they reach puberty.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
