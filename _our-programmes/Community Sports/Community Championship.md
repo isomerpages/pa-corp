@@ -13,7 +13,7 @@ third_nav_title: Community Sports
 <p>* <a href="#about">About Cluster Sports Competitions</a></p>
 <p>* <a href="#upcoming">Upcoming Cluster Sports Competitions</a></p>
 <p>* <a href="#look">The 5 Sports to look out for</a></p>
-<p>* <a href="#other">Other Trending Sports</a></p>
+<p>* <a href="#other">Other Sports</a></p>
 <p>* <a href="#register">Registration</a></p>
 <p></p>
 <a id="about"></a>
