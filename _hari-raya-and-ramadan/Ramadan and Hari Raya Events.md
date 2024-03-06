@@ -57,4 +57,6 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </table>
 <p>This list will be updated periodically, so bookmark the page and check
 in for the latest events in your area!</p>
+<p>In the meantime, check out this list of 5 things you might not know about
+Hari Raya Puasa and Ramadan.</p>
 <p>(Updated as of 6th March 2024)</p>
