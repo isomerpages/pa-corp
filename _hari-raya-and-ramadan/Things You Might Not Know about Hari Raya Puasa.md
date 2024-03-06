@@ -71,6 +71,6 @@ green envelopes to children and elders during Hari Raya Puasa.</p>
 </ul>
 <p></p>
 <p>Now that you have all this knowledge of Ramadan and Hari Raya, it is time
-to head down to a Ramadan or Hari Raya event in your neighbourhood.</p>
+to head down to a <a href="https://www.pa.gov.sg/hari-raya-and-ramadan/pa-events/" rel="noopener noreferrer nofollow" target="_blank">Ramadan and Hari Raya event in your neighbourhood</a>.</p>
 <p></p>
 <p></p>
