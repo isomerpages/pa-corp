@@ -44,6 +44,9 @@ Hari Raya Haji commemorates the completion of the Hajj pilgrimage and honours
 Prophet Ibrahim's sacrifice, often referred to as the "day of sacrifice."</p>
 <p>During this festival, Muslims traditionally slaughter livestock and share
 it with the less fortunate.</p>
+<h4>Sealed envelopes with money are handed out during Hari Raya Puasa</h4>
+<p>Known as duit raya or "Raya money", these are traditional handed out in
+green envelopes to children and elders during Hari Raya Puasa.</p>
 <h4>What are some greetings you can use during Ramadan and Hari Raya Puasa?</h4>
 <p>During Ramadan, you may use these greetings:</p>
 <ul data-tight="true" class="tight">
@@ -66,6 +69,7 @@ it with the less fortunate.</p>
 <p>Salam Lebaran (similar to Selamat Hari Raya)</p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
