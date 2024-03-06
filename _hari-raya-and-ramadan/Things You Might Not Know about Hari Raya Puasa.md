@@ -6,7 +6,7 @@ description: 5 things you might not know about Hari Raya Puasa and Ramadan
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="malay muslim motifs and lanterns with text what is ramadan" src="/images/What_is_Ramadan.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="malay muslim motifs and lanterns with text what is ramadan" src="/images/What_is_Ramadan.jpg">
 </div>
 <h3>What is Ramadan?</h3>
 <p>Ramadan is a holy month of fasting, prayer, and reflection for Muslims
@@ -53,7 +53,7 @@ it with the less fortunate.</p>
 in envelopes to children and elders during Hari Raya Puasa.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="raya duit for hari raya" src="/images/green_packet.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="raya duit for hari raya" src="/images/green_packet.jpg">
 </div>
 <h4>What are some greetings you can use during Ramadan and Hari Raya Puasa?</h4>
 <p>During Ramadan, you may use these greetings:</p>
