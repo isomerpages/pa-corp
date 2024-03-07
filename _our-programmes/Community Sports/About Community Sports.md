@@ -12,14 +12,13 @@ to foster community bonding through a wide array of sports activities for
 residents to participate and interact with one another.</p>
 <p>Over the years, the CSN has curated flagship programmes like the evergreen
 PAssion Community Football.</p>
-<p>We have also identified trending sports in the community.</p>
 <p>The CSNs at the grassroots level organises an array of activities such
 as brisk walks, mass swims, sports carnivals, bowling, badminton, football
 and sepak takraw, and in recent years also included disc golf, kin-ball
 and floorball.</p>
 <p>Navigate our page through this list!</p>
 <p>* <a href="#pacf">PAssion Community Football</a></p>
-<p>* <a href="#trending">Trending Sports</a></p>
+<p>* <a href="#trending">Other Sports</a></p>
 <p>* <a href="#sig">Sports Interest Groups</a></p>
 <p></p>
 <p>For more information and happenings, visit our <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
@@ -47,9 +46,9 @@ volunteer? Please fill up the  <a href="https://go.gov.sg/pacf" rel="noopener no
 <p></p>
 <p></p>
 <a id="trending"></a>
-<h3>Trending Sports</h3>
+<h3>Other Sports</h3>
 <p></p>
-<p>In recent times, there has been a surge in the popularity of these sports:</p>
+<p>In recent times, there has been a significant surge in the participation and interest in these sports:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bowling</p>

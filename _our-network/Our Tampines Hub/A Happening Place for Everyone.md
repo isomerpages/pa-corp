@@ -3,6 +3,7 @@ title: A Happening Place for Everyone
 permalink: /our-network/our-tampines-hub/a-happening-place-for-everyone/
 description: ""
 third_nav_title: Our Tampines Hub
+variant: markdown
 ---
 Our Tampines Hub (OTH) boasts more than 30 sports, community, arts and lifestyle facilities. As our tagline suggests, there is truly something for everyone!
 
@@ -23,4 +24,4 @@ Check out our interesting videos such as milestone celebrations like OTH’s Fir
 
 * [Our Tampines Hub's 1st Anniversary](https://www.youtube.com/watch?v=qSk1oOo8feU&feature=youtu.be)
 * [Our Tampines Hub's Thank You](https://www.youtube.com/watch?v=b-qqMzPvMMk&feature=youtu.be)
-* [OTH Learning Journey Marketing Video]()
+* [OTH Learning Journey]()
