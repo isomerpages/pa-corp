@@ -16,7 +16,7 @@ will be shared upon registration.</p>
 <p>Only tenderers who have attended the mandatory Pre-tender briefing will
 be considered in the tender evaluation.</p>
 <p>&lt;br&gt;Calling Committee: The Frontier Community Place FMC**</p>
-<p><em> </em> *</p>
+<p>*</p>
 <p>### Details</p>
 <p>(1) For request of soft copy tender documents, please email to <a href="mailto:tan_shao_koon@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shao_koon@pa.gov.sg</a> and
 <a href="mailto:Subashiri.RPandian@cwservices.com" rel="noopener noreferrer nofollow" target="_blank">Subashiri.RPandian@cwservices.com</a>
@@ -42,11 +42,11 @@ to Sunday, except Public Holidays).</p>
 </p>
 <p><strong>Venue: The Frontier Community Club &lt;br&gt;</strong>
 </p>
-<p><strong>Only tenderers who have attended the mandatory Pre-tender briefing will be considered in the tender evaluation. </strong>
+<p><strong>Only tenderers who have attended the mandatory Pre-tender briefing will be considered in the tender evaluation.</strong>
 </p>
 <p><strong>&lt;br&gt;Calling Committee: The Frontier Community Place FMC**</strong>
 </p>
-<p><strong><em> </em> *</strong>
+<p><strong>*</strong>
 </p>
 <p><strong>### Details</strong>
 </p>
