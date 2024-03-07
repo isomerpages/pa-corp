@@ -20,13 +20,13 @@ commences on 12 March 2024, and its conclusion will mark the arrival of
 Hari Raya Aidilfitri, also known as Hari Raya Puasa, on 10 April 2024.</p>
 <p>Hari Raya Puasa is a festive occasion, celebrated with festive decorations,
 new clothes, and gatherings with family and friends.</p>
-<h3>5 things you might not know about Hari Raya Puasa and Ramadan</h3>
+<h3>5 things you might not know about Ramadan and Hari Raya Puasa</h3>
 <h4>It's not the Muslim new year</h4>
 <p>Hari Raya Puasa marks the end of a month of fasting during Ramadan and
 is not a celebration of a new year!</p>
 <h4>Not all Muslims are required to fast during Ramadan</h4>
-<p>While fasting during Ramadan is obligatory for most healthy adults, exemptions
-exist for certain groups:</p>
+<p>While fasting during Ramadan is obligatory for most healthy adult Muslims,
+exemptions exist for certain groups:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The elderly, sick, and travelers are excused from fasting, though travelers
