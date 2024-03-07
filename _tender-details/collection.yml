@@ -2,4 +2,5 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for 5 Days 4 Nights Overseas Outing.md
       - Tender for Addition and Alteration Works for Sengkang Community Club.md
