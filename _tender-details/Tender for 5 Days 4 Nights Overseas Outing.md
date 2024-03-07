@@ -18,7 +18,7 @@ description: ""
 </p>
 </li>
 </ul>
-<p><strong>Tenderers should register their interest for the mandatory Pre-tender briefing via email at <a href="mailto:celine_chow@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">celine_chow@pa.gov.sg</a>/ <a href="mailto:ler_mei_qi@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ler_mei_qi@pa.gov.sg</a> by 11 March 2024, 6.00pm. Details of the meeting link for the Zoom briefing will be shared upon registration.</strong>
+<p><strong>Tenderers should register their interest for the mandatory Pre-tender briefing via email at <a href="mailto:celine_chow@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">celine_chow@pa.gov.sg </a>/ <a href="mailto:ler_mei_qi@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ler_mei_qi@pa.gov.sg</a> by 11 March 2024, 6.00pm. Details of the meeting link for the Zoom briefing will be shared upon registration.</strong>
 </p>
 <p><strong><em>Only tenderers who have attended the mandatory Pre-tender briefing will be considered in the tender evaluation.</em></strong>
 </p>
@@ -29,12 +29,11 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>For request of the soft copy tender documents, please email to </strong>
-<a rel="noopener noreferrer nofollow" target="_blank">celine_chow@pa.gov.sg</a>/ <a rel="noopener noreferrer nofollow" target="_blank">ler_mei_qi@pa.gov.sg</a>.</p>
+<p><strong>For request of the soft copy tender documents, please email to <a rel="noopener noreferrer nofollow" target="_blank">celine_chow@pa.gov.sg </a>/ <a rel="noopener noreferrer nofollow" target="_blank">ler_mei_qi@pa.gov.sg</a>.</strong>
+</p>
 </li>
 <li>
-<p><strong>For enquiries, please email to </strong><a rel="noopener noreferrer nofollow" target="_blank">celine_chow@pa.gov.sg</a> /
-<a rel="noopener noreferrer nofollow" target="_blank">ler_mei_qi@pa.gov.sg</a><strong> or contact Celine/ Mei Qi at 6765 5002.</strong>
+<p><strong>For enquiries, please email to <a rel="noopener noreferrer nofollow" target="_blank">celine_chow@pa.gov.sg</a> / <a rel="noopener noreferrer nofollow" target="_blank">ler_mei_qi@pa.gov.sg</a> or contact Celine/ Mei Qi at 6765 5002.</strong>
 </p>
 </li>
 </ul>
