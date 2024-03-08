@@ -148,6 +148,35 @@ these events in your neighbourhood, brought to you by the People's Association.<
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>15 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/pasirriscentralco/posts/pfbid0w9SKvapE8zhgKTd44F9Vtq59chYzyVCkarPfAk5gQHFJ6fNVQKH3Mm9kcCm8entzl" rel="noopener noreferrer nofollow" target="_blank">Pasir Ris Central Ramadan Break Fast 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vidacity Hall (Former Loyang Primary School)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sunday "Break-Fast" Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>182 Boon Lay Ave Pavilion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>23 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,6 +185,21 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </td>
 <td rowspan="1" colspan="1">
 <p>Blk 222 Sumang Lane L1 Open Space</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/ChuaChuKangOurHome/posts/pfbid0PLzFjj6YuRB4xRaG91BP7egYtU6Ren8nuU4rUWkgyWRqaMcfw93XSuCpT5fANkBdl" rel="noopener noreferrer nofollow" target="_blank">Buka Puasa at CCK</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 217 CCK Central</p>
 </td>
 </tr>
 </tbody>
