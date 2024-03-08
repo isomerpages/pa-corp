@@ -6,7 +6,6 @@ description: Ramadan and Hari Raya Events with the People's Association in 2024
 ---
 <p>Join your community to observe Ramadan and celebrate Hari Raya Puasa with
 these events in your neighbourhood, brought to you by the People's Association.</p>
-<p></p>
 <table>
 <tbody>
 <tr>
