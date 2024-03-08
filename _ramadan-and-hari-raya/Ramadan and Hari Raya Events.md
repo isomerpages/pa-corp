@@ -160,13 +160,14 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17 March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sunday "Break-Fast" Club</p>
+<p><a href="https://www.facebook.com/blmg183/posts/pfbid0xAX6azVCYgsrvH4KXA1i6t22Usg9r9uqSFQKfmJfcbn7TQxvv6pAkTm7rKHxRGsil" rel="noopener noreferrer nofollow" target="_blank">Sunday "Break-Fast" Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>182 Boon Lay Ave Pavilion</p>
@@ -174,7 +175,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23 March</p>
@@ -189,7 +190,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23 March</p>
