@@ -28,6 +28,21 @@ these events in your neighbourhood, brought to you by the People's Association.<
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/melayu.braddellheights/posts/pfbid02zvQHYUX6FRNAQWKjKThWLLRyJFdqTNpa2dafTMwJKiTyD7EZNqrAh7DCVoKonSaVl" rel="noopener noreferrer nofollow" target="_blank">Setulus Ikhlas - Habuan Ramadan 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 242 Serangoon Avenue 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>8 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +55,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 March - 10 April</p>
@@ -54,7 +69,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10 March - 8 April</p>
