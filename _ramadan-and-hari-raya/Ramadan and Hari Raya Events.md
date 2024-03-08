@@ -28,6 +28,21 @@ these events in your neighbourhood, brought to you by the People's Association.<
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2 - 3, 10 - 11 February</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/Chengsancommunity/posts/pfbid02JhM687kqL5igeytXozCZyFcWNRCqZ3zzQwh4iVQ2pkecE3kCp8rgVpzbwr9NfhCul" rel="noopener noreferrer nofollow" target="_blank">Raya Drive Collection</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng San Oak RN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,13 +55,13 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 March</p>
+<p>6 March - 4 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/sembcentral/posts/pfbid02bic8gEZTnjaqGFoHaAcCiSLLmjmuf1xWHvt1oKEEz9ekjnxjsKj4EJGjeQZUxM1Vl" rel="noopener noreferrer nofollow" target="_blank">Bazaar Raya Utara</a>
+<p><a href="https://www.facebook.com/sembcentral/posts/pfbid02bic8gEZTnjaqGFoHaAcCiSLLmjmuf1xWHvt1oKEEz9ekjnxjsKj4EJGjeQZUxM1Vl" rel="noopener noreferrer nofollow" target="_blank">Bazaar Raya Utara @ Sembawang Town</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +70,22 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 March - 4 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/wdlmaec/posts/pfbid0MzFHJNHwi7SNJmr6jCTppWFtEb5WejBqJV28nRDyriQ37JQvwmTFvtyZQeHGJXs5l" rel="noopener noreferrer nofollow" target="_blank">Bazar Raya Utara @ Woodlands</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Opposite Admiralty MRT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 March</p>
@@ -70,7 +100,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 March - 10 April</p>
@@ -85,7 +115,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10 March - 8 April</p>
