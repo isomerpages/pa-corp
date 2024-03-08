@@ -136,7 +136,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 <p>Every weekend between 16 March - 7 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/Chengsancommunity/posts/pfbid02JhM687kqL5igeytXozCZyFcWNRCqZ3zzQwh4iVQ2pkecE3kCp8rgVpzbwr9NfhCul" rel="noopener noreferrer nofollow" target="_blank">Porridge distribution (Open to all races)</a>
+<p><a href="https://www.facebook.com/melayu.braddellheights/posts/pfbid0VFUEn4JgRz9vQKLwVJm9uyz6rYByNSE61V83svsKHgJwc5wh8EG6W2MtZGJUoeibl" rel="noopener noreferrer nofollow" target="_blank">Porridge distribution (Open to all races)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
