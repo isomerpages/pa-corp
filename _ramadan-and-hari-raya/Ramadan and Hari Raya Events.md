@@ -132,5 +132,4 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p>In the meantime, check out this list of <a href="https://www.pa.gov.sg/hari-raya-and-ramadan/hari-raya-fun-facts/" rel="noopener noreferrer nofollow" target="_blank">5 things you might not know about Ramadan and Hari Raya</a>.</p>
 <p>(Updated as of 7th March 2024)</p>
