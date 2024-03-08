@@ -61,7 +61,8 @@ these events in your neighbourhood, brought to you by the People's Association.<
 <p>8 March - 10 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bazaar Raya Geylang Serai</p>
+<p><a href="https://www.facebook.com/WismaGeylangSerai/posts/pfbid02zzmerai5P8KF8tzCN163rkVvmDMCvNNnA1yFf4WTMsGYosExFujHQEZxCQy1rZLXl" rel="noopener noreferrer nofollow" target="_blank">Bazaar Raya Geylang Serai</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Around the vicinity of Wisma Geylang Serai</p>
