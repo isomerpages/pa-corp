@@ -43,6 +43,21 @@ these events in your neighbourhood, brought to you by the People's Association.<
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>6 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/sembcentral/posts/pfbid02bic8gEZTnjaqGFoHaAcCiSLLmjmuf1xWHvt1oKEEz9ekjnxjsKj4EJGjeQZUxM1Vl" rel="noopener noreferrer nofollow" target="_blank">Bazaar Raya Utara</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Besde Sembawang MRT Station</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>8 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +70,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 March - 10 April</p>
@@ -70,7 +85,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10 March - 8 April</p>
