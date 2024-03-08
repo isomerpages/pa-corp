@@ -125,7 +125,37 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open Field beside Causeway Point2</p>
+<p>Open Field beside Causeway Point</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every weekend between 16 March - 7 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/Chengsancommunity/posts/pfbid02JhM687kqL5igeytXozCZyFcWNRCqZ3zzQwh4iVQ2pkecE3kCp8rgVpzbwr9NfhCul" rel="noopener noreferrer nofollow" target="_blank">Porridge distribution (Open to all races)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 242 Serangoon Avenue 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/punggolwestmaec/posts/pfbid02YAkAeyFByMpu3ua7bErTj6pf5LR8tgWjFxHkcTgWPWoZuXWiykdUCjD9bwWbkdQel" rel="noopener noreferrer nofollow" target="_blank">Unity in Diversity Buka Puasa Event</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 222 Sumang Lane L1 Open Space</p>
 </td>
 </tr>
 </tbody>
