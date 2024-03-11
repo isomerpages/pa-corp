@@ -3,6 +3,7 @@ title: Ramadan and Hari Raya Events
 permalink: /hari-raya-and-ramadan/pa-events/
 variant: tiptap
 description: Ramadan and Hari Raya Events with the People's Association in 2024
+image: /images/ramadan_site_events.jpg
 ---
 <p>Join your community to observe Ramadan and celebrate Hari Raya Puasa with
 these events in your neighbourhood, brought to you by the People's Association.</p>
@@ -132,6 +133,62 @@ these events in your neighbourhood, brought to you by the People's Association.<
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>12 - 14 March and every weekend until 7 April (4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Porridge distribution by Chong Pang MAEC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 137 Yishun Ring Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 - 14 March and every weekend until 7 April (4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Porridge distribution by Nee Soon East MAEC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 293 Yishun St 22 Senior’s Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 - 14 March and every weekend until 7 April (4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Porridge distribution by Nee Soon Central CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NorthPoint City Bus Interchange</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 - 14 March and every weekend until 7 April (4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Porridge distribution by Nee Soon Link MAEC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 461 Yishun Avenue 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Every weekend between 16 March - 7 April</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,7 +201,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 March</p>
@@ -159,7 +216,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17 March</p>
@@ -174,7 +231,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23 March</p>
@@ -189,7 +246,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23 March</p>
@@ -206,4 +263,4 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p>(Updated as of 7th March 2024)</p>
+<p>(Updated as of 11th March 2024)</p>
