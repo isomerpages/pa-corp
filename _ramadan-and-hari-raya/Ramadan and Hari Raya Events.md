@@ -222,6 +222,42 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>15 - 16 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Porridge Distribution at Woodgrove</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Link Hall @ Blk 310 Woodlands St 31</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Briyani Distribution at Woodgrove</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Link Hall @ 503A Woodlands Dr 14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Briyani Distribution at Woodgrove</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woodgrove CC, MPR 1 &amp; 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>16 - 17 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,6 +294,30 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>17 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Porridge Distribution at Woodgrove</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 521 Woodlands Dr 50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 &amp; 23 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Porridge Distribution at Woodgrove</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 895B Woodlands Dr 50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,6 +326,30 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </td>
 <td rowspan="1" colspan="1">
 <p>Blk 563 Choa Chu Kang Street 52, Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 - 23 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Porridge Distribution at Woodgrove</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Link Hall @ Blk 310 Woodlands St 31</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Briyani Distribution at Woodgrove</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 894B Woodlands Dr 50</p>
 </td>
 </tr>
 <tr>
@@ -344,4 +428,4 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p>(Updated as of 11th March 2024)</p>
+<p>(Updated as of 12th March 2024)</p>
