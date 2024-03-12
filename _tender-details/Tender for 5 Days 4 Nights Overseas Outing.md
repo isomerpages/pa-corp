@@ -29,7 +29,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>For request of the soft copy tender documents, please email to <a href="mailto:celine_chow@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">celine_chow@pa.gov.sg</a><a rel="noopener noreferrer nofollow" target="_blank"> </a>/ <a href="mailto:ler_mei_qi@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ler_mei_qi@pa.gov.sg</a>.</strong>
+<p><strong>For request of the soft copy tender documents, please email to <a href="mailto:celine_chow@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">celine_chow@pa.gov.sg </a>/ <a href="mailto:ler_mei_qi@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ler_mei_qi@pa.gov.sg</a>.</strong>
 </p>
 </li>
 <li>
