@@ -110,7 +110,7 @@ The top crews will rep the Cluster at the SportSG Pesta Sukan in July and August
 <a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
 <a id="other"></a>
 <h3>Other Sports</h3>
-<p>In recent times, there has been a significant surge in the participation and interest in these sports:</p>
+<p>Playing in a team for these sport below? Don't wait, sign up now! </p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
