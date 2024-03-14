@@ -32,7 +32,7 @@ sections:
       title: Ramadan and Hari Raya
       id: infopic
       description: Learn more about Ramadan and Hari Raya Puasa and find out what
-        events are in your area.
+        events are happening in your community!
       button: Learn More
       url: https://www.pa.gov.sg/ramadan-and-hari-raya/ramadan-hari-raya-facts/
       image: /images/What_is_Ramadan.png
