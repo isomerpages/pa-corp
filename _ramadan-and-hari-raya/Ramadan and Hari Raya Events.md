@@ -5,7 +5,7 @@ variant: tiptap
 description: Ramadan and Hari Raya Events with the People's Association in 2024
 image: /images/ramadan_site_events.jpg
 ---
-<p>Join your community to observe Ramadan and celebrate Hari Raya Puasa with
+<p>Join your community to <a href="https://www.pa.gov.sg/ramadan-and-hari-raya/ramadan-hari-raya-facts/" rel="noopener noreferrer nofollow" target="_blank">observe Ramadan and celebrate Hari Raya Puasa</a> with
 these events in your neighbourhood, brought to you by the People's Association.</p>
 <table>
 <tbody>
@@ -182,6 +182,18 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </td>
 <td rowspan="1" colspan="1">
 <p>Blk 537 Choa Chu Kang St 51</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 March - 4 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/OurTampinesHub/posts/pfbid0zjp8MvKvLziehuHfF6ynWR12foBSwZbw3vrwP6aBCf4e78v7op2NZAufu7yJm7Upl" rel="noopener noreferrer nofollow" target="_blank">Ramadan Special: OTH Porridge Distribution with Darul Ghufran Mosque</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Tampines Hub - Festive Walk West</p>
 </td>
 </tr>
 <tr>
@@ -476,4 +488,4 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p>(Updated as of 12th March 2024)</p>
+<p>(Updated as of 14th March 2024)</p>
