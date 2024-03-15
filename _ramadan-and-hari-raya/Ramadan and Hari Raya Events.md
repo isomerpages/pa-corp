@@ -282,6 +282,18 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>16 March - 7 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/tampineswest/posts/pfbid0FzxntzzY3wbSZthpTwTYKj5M8qUd9RwVaxzLpvvq42Hjty5naBrvTqJW4zQ5VU1zl" rel="noopener noreferrer nofollow" target="_blank">Porridge and Meal Distribution at Tampines West</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Do check out the listing for the various locations and dates!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>17 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -398,6 +410,18 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </td>
 <td rowspan="1" colspan="1">
 <p>Yew Tee CC Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/story.php?story_fbid=827379746101617&amp;id=100064887961562&amp;mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank">Buka Puasa at Tampines West CC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines West CC, Basketball Court (Level 1)</p>
 </td>
 </tr>
 <tr>
