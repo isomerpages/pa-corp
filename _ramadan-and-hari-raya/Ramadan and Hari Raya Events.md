@@ -106,6 +106,18 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>11 March - 7 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/story.php?story_fbid=432859515936379&amp;id=100076370019086&amp;mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank">Ramadan Food Bazaar @ Tampines Changkat</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Void Deck of Blk 301 Tampines Street 32</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12 - 14 March and every weekend until 7 April (4pm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,10 +294,22 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 March - 7 Apr</p>
+<p>16 March - 7 April</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.facebook.com/tampineswest/posts/pfbid0FzxntzzY3wbSZthpTwTYKj5M8qUd9RwVaxzLpvvq42Hjty5naBrvTqJW4zQ5VU1zl" rel="noopener noreferrer nofollow" target="_blank">Porridge and Meal Distribution at Tampines West</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Do check out the listing for the various locations and dates!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 March - 7 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/story.php?story_fbid=426176589938005&amp;id=100076370019086&amp;mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank">Ramadan Porridge Distribution at Tampines Changkat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -350,6 +374,18 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </td>
 <td rowspan="1" colspan="1">
 <p>Blk 563 Choa Chu Kang Street 52, Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 - 23 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/share/p/krcavmHFe7tv5pgX/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank">Baju Kurung Distribution at Tampines Changkat</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MPH in front of Blk 279 Tampines St 22</p>
 </td>
 </tr>
 <tr>
