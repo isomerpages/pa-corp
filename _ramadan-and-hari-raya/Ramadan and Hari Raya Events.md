@@ -22,30 +22,6 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 - 3, 10 - 11 February</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/Chengsancommunity/posts/pfbid02JhM687kqL5igeytXozCZyFcWNRCqZ3zzQwh4iVQ2pkecE3kCp8rgVpzbwr9NfhCul" rel="noopener noreferrer nofollow" target="_blank">Raya Drive Collection</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheng San Oak RN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/melayu.braddellheights/posts/pfbid02zvQHYUX6FRNAQWKjKThWLLRyJFdqTNpa2dafTMwJKiTyD7EZNqrAh7DCVoKonSaVl" rel="noopener noreferrer nofollow" target="_blank">Setulus Ikhlas - Habuan Ramadan 2024</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 242 Serangoon Avenue 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6 March - 4 April</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,18 +42,6 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </td>
 <td rowspan="1" colspan="1">
 <p>Opposite Admiralty MRT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/WismaGeylangSerai/posts/pfbid0CUdFtDr6qWAWY9aVeKVgZEm3Gbih9Ajd9d1ppVtpuidhioZfsTWsBjcYpxPGJLXbl" rel="noopener noreferrer nofollow" target="_blank">Geylang Serai Hari Raya Light-Up 2024 and Opening Ceremony</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wisma Geylang Serai</p>
 </td>
 </tr>
 <tr>
@@ -222,78 +186,6 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 - 15 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Porridge Distribution at Limbang</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 561 Choa Chu Kang North 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/pasirriscentralco/posts/pfbid0w9SKvapE8zhgKTd44F9Vtq59chYzyVCkarPfAk5gQHFJ6fNVQKH3Mm9kcCm8entzl" rel="noopener noreferrer nofollow" target="_blank">Pasir Ris Central Ramadan Break Fast 2024</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vidacity Hall (Former Loyang Primary School)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 - 16 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Porridge Distribution at Woodgrove</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Link Hall @ Blk 310 Woodlands St 31</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Briyani Distribution at Woodgrove</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Link Hall @ 503A Woodlands Dr 14</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Briyani Distribution at Woodgrove</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Woodgrove CC, MPR 1 &amp; 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 - 17 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Porridge Distribution at Limbang</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 787 Choa Chu Kang North 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>16 March - 7 April</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,42 +210,6 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/blmg183/posts/pfbid0xAX6azVCYgsrvH4KXA1i6t22Usg9r9uqSFQKfmJfcbn7TQxvv6pAkTm7rKHxRGsil" rel="noopener noreferrer nofollow" target="_blank">Sunday "Break-Fast" Club</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>182 Boon Lay Ave Pavilion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Break of Fast @ Marsiling</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Marsiling Mega Sports Park</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Porridge Distribution at Woodgrove</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 521 Woodlands Dr 50</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>17 &amp; 23 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,18 +218,6 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </td>
 <td rowspan="1" colspan="1">
 <p>Blk 895B Woodlands Dr 50</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/M3atMarsilingYewTee/posts/pfbid02yc4p8zA8WxhTJbiBchZTvKHmPpyZ4d371EnzPUuJo8wQrbmYinkhuFxHsdmifc8xl" rel="noopener noreferrer nofollow" target="_blank">Buka Puasa @ 563</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 563 Choa Chu Kang Street 52, Multi-Purpose Hall</p>
 </td>
 </tr>
 <tr>
