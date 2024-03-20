@@ -31,8 +31,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 		</tbody><tbody><tr></tr>
 			<tr></tr><tr>
 		<td><a href="/our-programmes/sparks-bukit-canberra/sowers-event-ambassador/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sowers%20event%20ambassadors%20words.png"></a></td>
-		<td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sowers%20event%20ambassadors%20words.png"></a></td><td>
 			<a href="/our-programmes/sparks-bukit-canberra/senior-befriending-programme/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/senior%20befriending%20programme%20words.jpg"></a></td><td>
 			<a href="/our-programmes/sparks-bukit-canberra/befriending-for-vulnerable-seniors/">
@@ -42,11 +41,8 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 			<a href="/our-programmes/sparks-bukit-canberra/kitchen-volunteer/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer%20words.jpg"></a></td><td>
 	<a href="/our-programmes/sparks-volunteer-programmes/comlink-befriending/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/comlink%20befriending%20words.jpg"></a></td>
-	</tr><tr><td>
-	<a href="/our-programmes/sparks-volunteer-programmes/free-haircut-services-for-seniors-at-man-fut-tong/">
-	<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/free%20haircut%20services%20for%20seniors%20words.png"></a></td><td>
-	<a href="/our-programmes/sparks-volunteer-programmes/befriending-with-seniors-at-man-fut-tong/">	
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/comlink%20befriending%20words.jpg"></a></td></tr><tr><td>
+		<a href="/our-programmes/sparks-volunteer-programmes/befriending-with-seniors-at-man-fut-tong/">	
 	<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/befriending%20with%20seniors%20mft%20words.png"></a></td></tr></tbody></table>
 
 
