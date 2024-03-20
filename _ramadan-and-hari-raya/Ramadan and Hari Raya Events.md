@@ -392,4 +392,4 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p>(Updated as of 14th March 2024)</p>
+<p>(Updated as of 20th March 2024)</p>
