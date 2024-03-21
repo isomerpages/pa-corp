@@ -79,9 +79,7 @@ Sports Association (NSA) official website for <a href="https://singaporebowling.
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
 <p></p>
 <p></p>
-<p>Interested to pick up a new sport? Please reach out to us via this form or email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>,
-and we will connect you with the Community Sports Networks (CSNs) that
-host interest groups for these sports.</p>
+<p>Interested to pick up a new sport? [Register](https://go.gov.sg/eoicommunitychamps) or email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>.</p>
 <p></p>
 <a id="sig"></a>
 <h3>Sports Interest Groups (SIGs)</h3>
