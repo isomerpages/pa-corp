@@ -130,13 +130,11 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
 <p></p>
 <p></p>
-<p>Interested to pick up the new sport? Please reach out to us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>,
-and we will connect you with the Community Sports Networks (CSNs) that
-host interest groups for these sports near you.</p>
+<p>Interested to pick up the new sport? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> or email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>.</p>
 <a id="register"></a>
 <h3>Registration</h3>
 <p>Keen to take part in the Cluster Sports Competitions?
-<a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your interest with us!
+<a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your interest with us by Sunday, 7 April 2024!
 </p>
 
 If you are not sure which Cluster you belong to, please approach your nearest Community Club for details!
