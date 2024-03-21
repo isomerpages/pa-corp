@@ -9,7 +9,7 @@ variant: tiptap
 of our Training Schedule here! Click on the image below to download a copy
 to your devices.</p>
 <h4>Training Schedule</h4>
-<h5>Current Issue (Jan - Jun 2024)</h5>
+<h5>Current Issue (Apr - Sep 2024)</h5>
 <table>
 <tbody>
 <tr></tr>
