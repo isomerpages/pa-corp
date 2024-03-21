@@ -26,17 +26,18 @@ a die-hard player or a weekend warrior, we want you to rep your local sports
 crews and battle your way to the Pesta Sukan in July and August. Take your
 pick from these sports to rep your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
 <p>Strap on your game face and discover how you can get in on the action.</p>
-<p>* <a href="#about" rel="noopener noreferrer nofollow" target="_blank">About Cluster Sports Competitions</a>
+<p>* <a href="#about">About Cluster Sports Competitions</a>
 </p>
-<p>* <a href="#upcoming" rel="noopener noreferrer nofollow" target="_blank">Upcoming Cluster Sports Competitions</a>
+<p>* <a href="#upcoming">Upcoming Cluster Sports Competitions</a>
 </p>
-<p>* <a href="#look" rel="noopener noreferrer nofollow" target="_blank">The 5 Sports to look out for</a>
+<p>* <a href="#look">The 5 Sports to look out for</a>
 </p>
-<p>* <a href="#other" rel="noopener noreferrer nofollow" target="_blank">Other Sports</a>
+<p>* <a href="#other">Other Sports</a>
 </p>
-<p>* <a href="#register" rel="noopener noreferrer nofollow" target="_blank">Registration</a>
+<p>* <a href="#register">Registration</a>
 </p>
 <p></p>
+<a id="#about"></a>
 <h3>About Cluster Sports Competitions</h3>
 <p>We're all about having a blast and making memories with your fam, buddies,
 and folks in the hood through sports. Whether it's a win or a loss, playing
