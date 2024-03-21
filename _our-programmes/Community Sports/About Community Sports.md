@@ -48,7 +48,7 @@ volunteer? Please fill up the  <a href="https://go.gov.sg/pacf" rel="noopener no
 <a id="trending"></a>
 <h3>Other Sports</h3>
 <p></p>
-<p>In recent times, there has been a significant surge in the participation and interest in these sports:</p>
+<p>Playing in a team for these sport below? Don't wait, sign up now!</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bowling</p>
