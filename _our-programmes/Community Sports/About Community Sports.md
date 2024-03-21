@@ -73,13 +73,13 @@ volunteer? Please fill up the  <a href="https://go.gov.sg/pacf" rel="noopener no
 </li>
 </ol>
 <p></p>
-<p>If you are interested in these trending sports and would like to get more
+<p>If you are interested in these sports and would like to get more
 information on the game play, etc, please visit the respective National
 Sports Association (NSA) official website for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
 <p></p>
 <p></p>
-<p>Interested to pick up a new sport? Please reach out to us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>,
+<p>Interested to pick up a new sport? Please reach out to us via this form or email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>,
 and we will connect you with the Community Sports Networks (CSNs) that
 host interest groups for these sports.</p>
 <p></p>
