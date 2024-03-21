@@ -37,7 +37,7 @@ pick from these sports to rep your local community: <strong>basketball, badminto
 <p>* <a href="#register">Registration</a>
 </p>
 <p></p>
-<a id="#about"></a>
+<a id="about"></a>
 <h3>About Cluster Sports Competitions</h3>
 <p>We're all about having a blast and making memories with your fam, buddies,
 and folks in the hood through sports. Whether it's a win or a loss, playing
