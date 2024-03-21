@@ -49,8 +49,10 @@ These sports are super popular and don't need much gear to dive in.</p>
 own squad, and go head-to-head at the Cluster level.&nbsp; The top crews
 will rep the Cluster at the SportSG Pesta Sukan in July and August, where
 you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
+<a id="upcoming"></a>
 <h3>Upcoming Cluster Sports Competitions</h3>
 <p>To be updated.</p>
+<a id="look"></a>
 <h3>The 5 Sports to look out for</h3>
 <p>5 sports will be played at the upcoming competitions and the categories
 open for participation at the Cluster-level and at Pesta Sukan are:</p>
@@ -132,6 +134,7 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 (NSAs) here: <a href="https://singaporebadminton.org.sg/" rel="noopener noreferrer nofollow" target="_blank">badminton</a>,
 <a href="https://bas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">basketball</a>, <a href="https://www.fas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">football</a>,
 <a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
+<a id="other"></a>
 <h3>Other Sports</h3>
 <p>Playing in a team for these sport below? Don't wait, sign up now!</p>
 <p></p>
@@ -156,6 +159,7 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 <p>Interested to pick up the new sport? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> or email us at
 <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u>
 </a>.</p>
+<a id="register"></a>
 <h3>Registration</h3>
 <p>Keen to take part in the Cluster Sports Competitions? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your
 interest with us by Sunday, 7 April 2024!</p>
