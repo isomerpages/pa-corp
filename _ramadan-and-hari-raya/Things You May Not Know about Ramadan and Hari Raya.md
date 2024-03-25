@@ -13,7 +13,7 @@ period of self-discipline and empathy concludes with the celebration of
 Hari Raya Puasa.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="woman distributing porridge to man" src="/images/porridge_distribution.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ramadan bazaar lights" src="/images/IMG_7164.jpg">
 </div>
 <h2>Ramadan and Hari Raya Puasa in Singapore</h2>
 <p>According to the Islamic Religious Council of Singapore (Muis), Ramadan
