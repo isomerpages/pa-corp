@@ -26,9 +26,9 @@ a die-hard player or a weekend warrior, we want you to rep your local sports
 crews and battle your way to the Pesta Sukan in July and August. Take your
 pick from these sports to rep your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
 <p>Strap on your game face and discover how you can get in on the action.</p>
-<p>* <a href="#about">About Cluster Sports Competitions</a>
+<p>* <a href="#about">About Community Championship</a>
 </p>
-<p>* <a href="#upcoming">Upcoming Cluster Sports Competitions</a>
+<p>* <a href="#upcoming">Upcoming Competitions</a>
 </p>
 <p>* <a href="#look">The 5 Sports to look out for</a>
 </p>
@@ -38,7 +38,7 @@ pick from these sports to rep your local community: <strong>basketball, badminto
 </p>
 <p></p>
 <a id="about"></a>
-<h3>About Cluster Sports Competitions</h3>
+<h3>About Community Championship</h3>
 <p>We're all about having a blast and making memories with your fam, buddies,
 and folks in the hood through sports. Whether it's a win or a loss, playing
 together knits us closer as a community.&nbsp;</p>
@@ -50,7 +50,7 @@ own squad, and go head-to-head at the Cluster level.&nbsp; The top crews
 will rep the Cluster at the SportSG Pesta Sukan in July and August, where
 you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <a id="upcoming"></a>
-<h3>Upcoming Cluster Sports Competitions</h3>
+<h3>Upcoming Competitions</h3>
 <p>To be updated.</p>
 <a id="look"></a>
 <h3>The 5 Sports to look out for</h3>
@@ -161,7 +161,7 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 </a>.</p>
 <a id="register"></a>
 <h3>Registration</h3>
-<p>Keen to take part in the Cluster Sports Competitions? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your
+<p>Keen to take part in Community Championship? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your
 interest with us by Sunday, 7 April 2024!</p>
 <p>If you are not sure which Cluster you belong to, please approach your
 nearest Community Club for details!</p>
