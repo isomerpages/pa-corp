@@ -400,7 +400,17 @@ these events in your neighbourhood, brought to you by the People's Association.<
 <p>Blk 985A Buangkok Crescent #01-08</p>
 <p></p>
 <p>Blk 976 Hougang St 91 #01-252</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/p/C4hhwhmyWx-/?igsh=MWowcGdrbno4MXV3Zg%3D%3D&amp;img_index=3" rel="noopener noreferrer nofollow" target="_blank">Ramadan Porridge Distribution at Jalan Kayu</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Hwi Yoh Community Centre</p>
 </td>
 </tr>
