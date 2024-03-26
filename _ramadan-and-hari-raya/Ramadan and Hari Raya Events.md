@@ -186,6 +186,42 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>16 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/p/C4hhwhmyWx-/?igsh=MWowcGdrbno4MXV3Zg%3D%3D&amp;img_index=3" rel="noopener noreferrer nofollow" target="_blank">Ramadan Porridge Distribution at Jalan Kayu</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 981D Buangkok Crescent #01-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16, 23 &amp; 30 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/p/C4hhwhmyWx-/?igsh=MWowcGdrbno4MXV3Zg%3D%3D&amp;img_index=4" rel="noopener noreferrer nofollow" target="_blank">Ramadan Porridge Distribution at Fernvale CC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fernvale CC Multi-Purpose Room 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16, 23 &amp; 30 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/p/C4hhwhmyWx-/?igsh=MWowcGdrbno4MXV3Zg%3D%3D&amp;img_index=5" rel="noopener noreferrer nofollow" target="_blank">Porridge Distribution at Teck Ghee CC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teck Ghee CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>16 March - 7 April</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,6 +242,18 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </td>
 <td rowspan="1" colspan="1">
 <p>Do check out the listing for the various locations and dates!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/p/C4hhwhmyWx-/?igsh=MWowcGdrbno4MXV3Zg%3D%3D&amp;img_index=2" rel="noopener noreferrer nofollow" target="_blank">Ramadan Porridge Distribution at Ci Yuan CC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ci Yuan CC Atrium</p>
 </td>
 </tr>
 <tr>
@@ -342,6 +390,32 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>30 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/p/C4hhwhmyWx-/?igsh=MWowcGdrbno4MXV3Zg%3D%3D&amp;img_index=3" rel="noopener noreferrer nofollow" target="_blank">Ramadan Porridge Distribution at Jalan Kayu</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 985A Buangkok Crescent #01-08</p>
+<p></p>
+<p>Blk 976 Hougang St 91 #01-252</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/p/C4hhwhmyWx-/?igsh=MWowcGdrbno4MXV3Zg%3D%3D&amp;img_index=3" rel="noopener noreferrer nofollow" target="_blank">Ramadan Porridge Distribution at Jalan Kayu</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwi Yoh Community Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>31 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,4 +466,4 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p>(Updated as of 20th March 2024)</p>
+<p>(Updated as of 26th March 2024)</p>
