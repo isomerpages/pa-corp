@@ -1,11 +1,15 @@
 ---
 title: Community Championship
 permalink: /our-programmes/community-sports/community-championship/
-variant: markdown
+variant: tiptap
 description: community championships and competitions for various sports by
   People's Assocation
 third_nav_title: Community Sports
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_Championship_Masthead_02.png">
+</div>
 <h2>Let the Community Championship begin!</h2>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/reel/C4NPVzbynCh/?utm\_source=ig\_embed&amp;utm\_campaign=loading" class="instagram-media">
@@ -26,18 +30,17 @@ a die-hard player or a weekend warrior, we want you to rep your local sports
 crews and battle your way to the Pesta Sukan in July and August. Take your
 pick from these sports to rep your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
 <p>Strap on your game face and discover how you can get in on the action.</p>
-<p>* <a href="#about">About Community Championship</a>
+<p>* <a href="#about" rel="noopener noreferrer nofollow" target="_blank">About Community Championship</a>
 </p>
-<p>* <a href="#upcoming">Upcoming Competitions</a>
+<p>* <a href="#upcoming" rel="noopener noreferrer nofollow" target="_blank">Upcoming Competitions</a>
 </p>
-<p>* <a href="#look">The 5 Sports to look out for</a>
+<p>* <a href="#look" rel="noopener noreferrer nofollow" target="_blank">The 5 Sports to look out for</a>
 </p>
-<p>* <a href="#other">Other Sports</a>
+<p>* <a href="#other" rel="noopener noreferrer nofollow" target="_blank">Other Sports</a>
 </p>
-<p>* <a href="#register">Registration</a>
+<p>* <a href="#register" rel="noopener noreferrer nofollow" target="_blank">Registration</a>
 </p>
 <p></p>
-<a id="about"></a>
 <h3>About Community Championship</h3>
 <p>We're all about having a blast and making memories with your fam, buddies,
 and folks in the hood through sports. Whether it's a win or a loss, playing
@@ -49,10 +52,8 @@ These sports are super popular and don't need much gear to dive in.</p>
 own squad, and go head-to-head at the Cluster level.&nbsp; The top crews
 will rep the Cluster at the SportSG Pesta Sukan in July and August, where
 you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
-<a id="upcoming"></a>
 <h3>Upcoming Competitions</h3>
 <p>To be updated.</p>
-<a id="look"></a>
 <h3>The 5 Sports to look out for</h3>
 <p>5 sports will be played at the upcoming competitions and the categories
 open for participation at the Cluster-level and at Pesta Sukan are:</p>
@@ -134,7 +135,6 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 (NSAs) here: <a href="https://singaporebadminton.org.sg/" rel="noopener noreferrer nofollow" target="_blank">badminton</a>,
 <a href="https://bas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">basketball</a>, <a href="https://www.fas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">football</a>,
 <a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
-<a id="other"></a>
 <h3>Other Sports</h3>
 <p>Playing in a team for these sport below? Don't wait, sign up now!</p>
 <p></p>
@@ -157,13 +157,15 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 <p></p>
 <p></p>
 <p>Interested to pick up the new sport? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> or email us at
-<a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u>
+<a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> 
 </a>.</p>
-<a id="register"></a>
 <h3>Registration</h3>
-<p>Keen to take part in Community Championship? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your
-interest with us by Sunday, 7 April 2024!</p>
+<p>Keen to take part in Community Championship? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your interest with
+us by Sunday, 7 April 2024!</p>
+<p>Check out the <a href="/files/Our Programmes/Community Sports/COMMUNITY_CHAMPIONSHIP_2024___General_Rules___Regulations1.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
+more information!</p>
 <p>If you are not sure which Cluster you belong to, please approach your
 nearest Community Club for details!</p>
+<p></p>
 <p></p>
 <p></p>
