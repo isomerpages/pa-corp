@@ -162,7 +162,7 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 <h3>Registration</h3>
 <p>Keen to take part in Community Championship? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your interest with
 us by Sunday, 7 April 2024!</p>
-<p>Check out the <a href="/files/Our Programmes/Community Sports/COMMUNITY_CHAMPIONSHIP_2024___General_Rules___Regulations1.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
+<p>Check out the <a href="/files/Community_Championship_2024___General_Rules___Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
 more information!</p>
 <p>If you are not sure which Cluster you belong to, please approach your
 nearest Community Club for details!</p>
