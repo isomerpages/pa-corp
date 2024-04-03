@@ -18,7 +18,7 @@ new opportunities and make things happen.</p>
 community partners and residents. Together, we re-imagine our common future,
 co-create opportunities and build a strong and united community for many
 more decades to come.</p>
-<p>Check out the PA journey thus far!</p>
+<p>Read more about the <a href="/files/About Us/PA60Book_3_5MB_.pdf" rel="noopener noreferrer nofollow" target="_blank">PA journey</a> thus far!</p>
 <h4><strong>Community Values</strong></h4>
 <p>Singapore is a multi-cultural nation and we stay united because we share
 common values that hold us together, and give us our confidence and commitment
