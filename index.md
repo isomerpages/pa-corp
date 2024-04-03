@@ -38,6 +38,17 @@ sections:
       image: /images/What_is_Ramadan.png
       alt: ramadan and hari raya banner
   - infopic:
+      title: Community Championship
+      subtitle: BE YOUR NEIGHBOURHOOD CHAMPION
+      id: infopic
+      description: Get your team ready for the nationwide community sports challenge
+        from April to August 2024. Top teams will represent their Cluster at the
+        Pesta Sukan!
+      button: JOIN THE CHAMPIONSHIP
+      url: /our-programmes/community-sports/community-championship/
+      image: /images/community_championship_thumbnail.png
+      alt: community championship
+  - infopic:
       title: FutureYOUth
       subtitle: MAKE A DIFFERENCE
       id: infopic
