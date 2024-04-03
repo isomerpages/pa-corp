@@ -21,7 +21,7 @@ more decades to come.</p>
 <p>Read more about the <a href="/files/About Us/PA60Book_3_5MB_.pdf" rel="noopener noreferrer nofollow" target="_blank">PA journey</a> thus far!</p>
 <h4><strong>Community Values</strong></h4>
 <p>Singapore is a multi-cultural nation and we stay united because we share
-common values that hold us together, and give us our confidence and commitment
+common values that hold us together and give us our confidence and commitment
 to the future of our Home.</p>
 <h5>Care and Courage</h5>
 <p>We show and demonstrate care. We believe that it is important to do what
