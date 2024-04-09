@@ -16,4 +16,4 @@ Through volunteering, you will also forge strong friendships with your neighbour
 
 With more than 2,000 [Grassroots Organisations](/our-network/grassroots-organisations/grassroots-organisations) within the PA network, there will definitely be a role that will suit your interest and strengths.
 
-<center><a href="https://form.gov.sg/65fbdabba79454b49dcf8643" style="font-size:18px; width:50%; height:40px; background-color:#e21822; color:white" class="bp-button"><b>Apply now to be a PA Volunteer!</b> </a></center>
+<center><a href="https://www.grassrootsconnect.pa.gov.sg/VolunteerRegistration.aspx" style="font-size:18px; width:50%; height:40px; background-color:#e21822; color:white" class="bp-button"><b>Apply now to be a PA Volunteer!</b> </a></center>
