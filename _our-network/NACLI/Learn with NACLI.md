@@ -14,7 +14,7 @@ to your devices.</p>
 <tbody>
 <tr></tr>
 </tbody>
-</table><a class="isomer-image-wrapper" href="https://go.gov.sg/naclicourses-issue11-apr-sep-2024-pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/NACLI/Apr_Sep_2024.png"></a>
+</table><a class="isomer-image-wrapper" href="https://go.gov.sg/naclicourses-issue11-apr-sep-2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/NACLI/Apr_Sep_2024.png"></a>
 <table>
 <tbody>
 <tr>
