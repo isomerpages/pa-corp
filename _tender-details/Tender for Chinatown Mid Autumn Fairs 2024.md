@@ -7,12 +7,12 @@ description: ""
 <h3><strong>Tender for Chinatown Mid-Autumn Fairs 2024</strong></h3>
 <p></p>
 <hr>
-<p><strong>Tenderers may submit their tender offers for any of the fairs below: </strong>
+<p><strong>Tenderers may submit their tender offers for any of the fairs below:</strong>
 </p>
-<h4><strong>(a) Festive Fair at open space in front of People's Park Complex </strong></h4>
+<h4><strong>(a) Festive Fair at open space in front of People's Park Complex</strong></h4>
 <p><strong>Fair Duration: 19 August to 17 September 2024 (30 days)</strong>
 </p>
-<h4><strong>(b) Festive Fair at Smith Street </strong></h4>
+<h4><strong>(b) Festive Fair at Smith Street</strong></h4>
 <p><strong>Fair Duration: 30 August to 17 September 2024 (19 days)</strong>
 </p>
 <p></p>
@@ -25,7 +25,7 @@ description: ""
 <a href="mailto:Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>.</p>
 <hr>
 <p></p>
-<p><strong>Calling Committee: Chinatown Festival Committee</strong> 
+<p><strong>Calling Committee: Chinatown Festival Committee</strong>
 </p>
 <p><strong>Publication Date : 15 April 2024</strong>
 </p>
