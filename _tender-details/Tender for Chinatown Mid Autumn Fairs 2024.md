@@ -17,7 +17,7 @@ description: ""
 <p></p>
 <hr>
 <h4><strong><u>Corrigendum on the update of person in-charge under Detail section</u></strong></h4>
-<h4>Details </h4>
+<h4>Details</h4>
 <p>(1) To request for a soft copy of tender documents, please email to
 <a rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a>, <a href="mailto:Celeste_Sim@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Celeste_Sim@pa.gov.sg </a>and <a href="mailto:Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>.</p>
 <p>(2) For more information, please contact Celeste or Xiaohui at Tel: 6272
