@@ -2,6 +2,7 @@
 title: Volunteering Opportunities
 permalink: /our-volunteers/volunteering-opportunities/
 description: ""
+variant: markdown
 ---
 Whether you are 15 or 50, you can play a part in giving back to the community.
 
@@ -33,4 +34,4 @@ Find out more about our [Community Development Councils](/our-network/community-
 
 We address your questions [here](/files/Our%20Volunteers/finalfaq.pdf)
 
-<center><a href="https://www.grassrootsconnect.pa.gov.sg/VolunteerRegistration.aspx" style="font-size:18px; width:50%; height:40px; background-color:#e21822; color:white" class="bp-button"><b>Apply Now to be a PA Volunteer!</b> </a></center>
+<center><a href="https://grl.pa.gov.sg" style="font-size:18px; width:50%; height:40px; background-color:#e21822; color:white" class="bp-button"><b>Apply Now to be a PA Volunteer!</b> </a></center>
