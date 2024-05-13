@@ -21,4 +21,4 @@ Book your CC courses and facilities at the [onePA website](https://www.onepa.gov
 
 Commercial tenants are one of the channels through which the People’s Association reaches out to residents across all ages, races and places of residence. We invite interested commercial operators to lease our commercial spaces to conduct businesses to add vibrancy and provide additional avenues for people to bond together.
 
-View the list of available CC spaces for lease ) [here](/files/Our%20Network/Community%20Clubs/List_of_Availability_PA_6_May_2024.pdf)
+View the list of available CC spaces for lease ) [here](/files/Our%20Network/Community%20Clubs/List_of_Availability_PA_13_May_2024.pdf)
