@@ -114,16 +114,33 @@ CC!</p>
 </p>
 <p><em>HOPE Technik Pte Ltd</em>
 </p>
+<p></p>
+<p></p>
+<p><u>Community Action Network (CAN) School Holiday Programmes @ Kolam-Ayer</u>
+</p>
+<p>Children from Kolam-Ayer embarked on an unforgettable experience learning
+the basics of content creation with a simulated live streaming session
+at Shopee’s studio! &nbsp;Organised by <strong>Sea Group</strong>, this
+is part of the CAN initiative where like-minded partners gathered to co-ideate
+and co-implement a series of school holiday programmes for children from
+lower-income families to unlock their potential and explore their dreams
+confidently.</p>
+<p>&nbsp;<em>“What started off as a discovery session for the children, turned out to be an immensely rewarding experience for our Sea Group staff volunteers too! &nbsp;We were deeply inspired by the boundless curiosity and enthusiasm of the young minds!”</em>
+</p>
+<p><strong><em>Ms Sherlyn Teo</em></strong>
+</p>
+<p><em>Shopee Live SG Marketing Team</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="Quote From People's Association CSR Partner" src="/images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png">
 </div>
 <p>
 <br>
 </p>
-<p>
-<br><strong>Do Good with Us</strong>
-</p>
-<p>We welcome companies to come onboard Project We Care as a member (at no
-fees) and do good with us. For enquiries, please write to&nbsp;<strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;To
-join us or find out more, please fill up&nbsp;<strong><a href="https://go.gov.sg/connectwithprojectwecare" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</strong>
+<h3><br><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong></h3>
+<p>Join Project We Care network to co-create and co-deliver impactful programmes
+to make a difference today!</p>
+<p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;To
+join us, please fill up&nbsp;<strong><a href="https://go.gov.sg/connectwithprojectwecare" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</strong>
 </p>
