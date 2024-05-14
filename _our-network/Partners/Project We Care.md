@@ -8,9 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:200px" height="auto" width="100%" alt="Project We Care Logo" src="/images/Project%20We%20Care/pwc%20logo.jpg">
 </div>
-<p>
-<br>
-</p>
 <p>Established in 2012, Project We Care (PWC) is a <strong>corporate social responsibility initiative</strong> led
 by Business Leaders from the private sector and the People’s Association.
 &nbsp;We provide a platform for corporate organisations who want to make
@@ -192,13 +189,31 @@ confidently.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" alt="Quote From People's Association CSR Partner" src="/images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png">
-</div>
-<p>
-<br>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>“I strongly believe investing in the community through doing good, reaps dividends not just for society, but for businesses too.&nbsp; Project We Care can support your company in your Corporate Social Responsibility journey.&nbsp; I warmly welcome all corporate organisations to partner with PA to build an inclusive and compassionate society!</em>
 </p>
-<h3><br><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong></h3>
+<p><strong><em>Ms. Wee Wei Ling, PBM</em></strong>
+</p>
+<p><em>Chairperson of Project We Care</em>
+</p>
+<p><em>Executive Director, Sustainability Partnerships, Lifestyle &amp; Asset</em>
+</p>
+<p><em>Pan Pacific Hotel Group</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong>
+</p>
 <p>Join Project We Care network to co-create and co-deliver impactful programmes
 to make a difference today!</p>
 <p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;To
