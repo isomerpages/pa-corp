@@ -94,7 +94,22 @@ options during the shopping trip.</p>
 <p><em>Managing Director, ADEKA (Singapore) Pte Ltd</em>
 </p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><u>Bike Refresh @ Henderson-Dawson</u></h4>
 <p>The holiday season got a whole lot brighter for the underprivileged residents
