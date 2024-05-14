@@ -20,6 +20,9 @@ benefitting <strong>more than 900,000 beneficiaries</strong>!</p>
 <p>From befriending beneficiaries to upskilling the communities, corporate
 partners can play a pivotal role in creating a more inclusive and compassionate
 society by…</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students playing games with seniors at nursing home" src="/images/Project We Care/Time.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -28,24 +31,15 @@ society by…</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Time.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Treasures.png">
-</div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
