@@ -160,8 +160,8 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> 
 </a>.</p>
 <h3>Registration</h3>
-<p>Keen to take part in Community Championship? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> your interest with
-us by Sunday, 7 April 2024!</p>
+<p>Keen to take part in Community Championship? Sign up at <a href="https://www.onepa.gov.sg/events" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
+approach your nearest Community Club!</p>
 <p>Check out the <a href="/files/Community_Championship_2024___General_Rules___Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
 more information!</p>
 <p>If you are not sure which Cluster you belong to, please approach your
