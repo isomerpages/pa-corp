@@ -194,6 +194,6 @@ confidently.</p>
 <h3><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong></h3>
 <p>Join Project We Care network to co-create and co-deliver impactful programmes
 to make a difference today!</p>
-<p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;To
-join us, please fill up&nbsp;<strong><a href="https://go.gov.sg/connectwithprojectwecare" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</strong>
+<p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;
+To join us, please fill up&nbsp;<strong><a href="https://go.gov.sg/connectwithprojectwecare" rel="noopener noreferrer nofollow" target="_blank">this form</a>. </strong>
 </p>
