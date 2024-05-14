@@ -82,8 +82,7 @@ communities.</p>
 <h4><u>Jalan With Your Buddy @ Hong Kah North</u></h4>
 <p>More than 100 residents from lower-income families enjoyed a grocery shopping
 trip with an interactive learning workshop about healthier living during
-the Jalan with Your Buddy initiative!
-<br>Thanks to our partners such as <strong>Gupta International Pte Ltd</strong> who
+the Jalan with Your Buddy initiative! Thanks to our partners such as <strong>Gupta International Pte Ltd</strong> who
 sponsored the grocery shopping trip, and <strong>ADEKA (Singapore)</strong> for
 their staff volunteers who were buddies of our beneficiaries, guiding them
 through the workshop on healthy eating tips and choosing healthier food
@@ -97,8 +96,7 @@ options during the shopping trip.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><u>Bike Refresh @ Henderson-Dawson</u>
-</p>
+<h4><u>Bike Refresh @ Henderson-Dawson</u></h4>
 <p>The holiday season got a whole lot brighter for the underprivileged residents
 in Henderson-Dawson, thanks to a heartwarming partnership with <strong>HOPE Technik Pte Ltd</strong>.
 &nbsp;22 unused bicycles needed some repair work and HOPE Technik, a home-grown
@@ -116,8 +114,7 @@ CC!</p>
 </p>
 <p></p>
 <p></p>
-<p><u>Community Action Network (CAN) School Holiday Programmes @ Kolam-Ayer</u>
-</p>
+<h4><u>Community Action Network (CAN) School Holiday Programmes @ Kolam-Ayer</u></h4>
 <p>Children from Kolam-Ayer embarked on an unforgettable experience learning
 the basics of content creation with a simulated live streaming session
 at Shopee’s studio! &nbsp;Organised by <strong>Sea Group</strong>, this
