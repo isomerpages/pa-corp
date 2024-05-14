@@ -30,15 +30,15 @@ a die-hard player or a weekend warrior, we want you to rep your local sports
 crews and battle your way to the Pesta Sukan in July and August. Take your
 pick from these sports to rep your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
 <p>Strap on your game face and discover how you can get in on the action.</p>
-<p>* <a href="#about" rel="noopener noreferrer nofollow" target="_blank">About Community Championship</a>
+<p>* <a href="#about" rel="noopener noreferrer nofollow">About Community Championship</a>
 </p>
-<p>* <a href="#upcoming" rel="noopener noreferrer nofollow" target="_blank">Upcoming Competitions</a>
+<p>* <a href="#upcoming" rel="noopener noreferrer nofollow">Upcoming Competitions</a>
 </p>
-<p>* <a href="#look" rel="noopener noreferrer nofollow" target="_blank">The 5 Sports to look out for</a>
+<p>* <a href="#look" rel="noopener noreferrer nofollow">The 5 Sports to look out for</a>
 </p>
-<p>* <a href="#other" rel="noopener noreferrer nofollow" target="_blank">Other Sports</a>
+<p>* <a href="#other" rel="noopener noreferrer nofollow">Other Sports</a>
 </p>
-<p>* <a href="#register" rel="noopener noreferrer nofollow" target="_blank">Registration</a>
+<p>* <a href="#register" rel="noopener noreferrer nofollow">Registration</a>
 </p>
 <p></p>
 <h3 id="about">About Community Championship</h3>
