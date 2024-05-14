@@ -83,37 +83,46 @@ communities.</p>
 <p>More than 100 residents from lower-income families enjoyed a grocery shopping
 trip with an interactive learning workshop about healthier living during
 the Jalan with Your Buddy initiative!
-<br>
+<br>Thanks to our partners such as <strong>Gupta International Pte Ltd</strong> who
+sponsored the grocery shopping trip, and <strong>ADEKA (Singapore)</strong> for
+their staff volunteers who were buddies of our beneficiaries, guiding them
+through the workshop on healthy eating tips and choosing healthier food
+options during the shopping trip.</p>
+<p>&nbsp;<em>“We are thankful to be part of this initiative organised by PA and get to connect with the beneficiaries. &nbsp;By engaging in this meaningful volunteer work, we not only contribute to our community, but also uphold ADEKA’s values and foster a compassionate and cohesive culture.”</em>
 </p>
-<p><strong>Why choose Project We Care as your preferred Corporate Social Responsibility (CSR) partner?</strong>
+<p><strong><em>Mr Hirota Kiyonobu,</em></strong>
 </p>
-<p>With our community lenses and wide network, Project We Care serves as
-your one-stop facilitator in&nbsp;<strong>identifying needs, matching resources and engaging your employees meaningfully</strong>,
-to achieve your sustainability and corporate social responsibility objectives.</p>
-<p><strong>To date,&nbsp;more than 380 companies</strong>&nbsp;have partnered
-the Project We Care Network to give back to underprivileged groups in their
-journey towards making a positive difference on the community. Share with
-us your values, objectives and let us discuss how we can co-curate your
-CSR engagements to benefit the community together.</p>
+<p><em>Managing Director, ADEKA (Singapore) Pte Ltd</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p><u>Bike Refresh @ Henderson-Dawson</u>
+</p>
+<p>The holiday season got a whole lot brighter for the underprivileged residents
+in Henderson-Dawson, thanks to a heartwarming partnership with <strong>HOPE Technik Pte Ltd</strong>.
+&nbsp;22 unused bicycles needed some repair work and HOPE Technik, a home-grown
+precision engineering company, offered their expertise and resources to
+give these bicycles a new lease of life. &nbsp;These rejuvenated bicycles
+were then presented to the beneficiaries during a year-end party at Henderson-Dawson
+CC!</p>
+<p><em>“Hope Technik has CSR initiatives aimed at giving back to the community, and refurbishing bikes for those in need is a tangible way to achieve this. &nbsp;Witnessing the outcomes of our efforts warm the hearts of our staff when they see the positive impact the refurbished bikes have on the beneficiaries. &nbsp;We are thankful to work with Project We Care, giving Hope Technik this opportunity to give back to the community while fostering stronger connections among our staff.”</em>
+</p>
+<p><strong><em>Ms Eunice Ser</em></strong>
+</p>
+<p><em>Senior People &amp; Culture Executive</em>
+</p>
+<p><em>HOPE Technik Pte Ltd</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="Quote From People's Association CSR Partner" src="/images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" alt="Quote From People's Association CSR Partner" src="/images/Project%20We%20Care/girish%20-%20edited%20(28%20Jan%202022).png">
-</div>
 <p>
-<br>
+<br><strong>Do Good with Us</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" alt="Quote From People's Association CSR Partner" src="/images/Project%20We%20Care/taufiq%20-%20edited%20(28%20Jan%202022).png">
-</div>
-<p>
-<br>
-</p>
-<h3><strong>Do Good with Us</strong></h3>
 <p>We welcome companies to come onboard Project We Care as a member (at no
 fees) and do good with us. For enquiries, please write to&nbsp;<strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;To
 join us or find out more, please fill up&nbsp;<strong><a href="https://go.gov.sg/connectwithprojectwecare" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</strong>
