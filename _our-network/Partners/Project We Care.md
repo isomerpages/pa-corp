@@ -20,9 +20,6 @@ benefitting <strong>more than 900,000 beneficiaries</strong>!</p>
 <p>From befriending beneficiaries to upskilling the communities, corporate
 partners can play a pivotal role in creating a more inclusive and compassionate
 society by…</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students playing games with seniors at nursing home" src="/images/Project We Care/Time.png">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,7 +29,27 @@ society by…</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>olunteering Your Time</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student playing games with seniors at nursing home" src="/images/Project We Care/Time.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Partner imparting culinary skills to youths" src="/images/Project We Care/Talent.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Partner donated groceries for families in need" src="/images/Project We Care/Treasures.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Volunteering Your Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,9 +126,7 @@ CC!</p>
 </p>
 <p><strong><em>Ms Eunice Ser</em></strong>
 </p>
-<p><em>Senior People &amp; Culture Executive</em>
-</p>
-<p><em>HOPE Technik Pte Ltd</em>
+<p><em>Senior People &amp; Culture Executive, HOPE Technik Pte Ltd</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -173,34 +188,10 @@ confidently.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project We Care/Ms_Wee_quote.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Project We Care/Ms_Wee_quote.png">
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>“I strongly believe investing in the community through doing good, reaps dividends not just for society, but for businesses too.&nbsp; Project We Care can support your company in your Corporate Social Responsibility journey.&nbsp; I warmly welcome all corporate organisations to partner with PA to build an inclusive and compassionate society!</em>
-</p>
-<p><strong><em>Ms. Wee Wei Ling, PBM</em></strong>
-</p>
-<p><em>Chairperson of Project We Care</em>
-</p>
-<p><em>Executive Director, Sustainability Partnerships, Lifestyle &amp; Asset</em>
-</p>
-<p><em>Pan Pacific Hotel Group</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong>
-</p>
+<h3><br><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong></h3>
 <p>Join Project We Care network to co-create and co-deliver impactful programmes
 to make a difference today!</p>
 <p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;To
