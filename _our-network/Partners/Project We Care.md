@@ -37,13 +37,13 @@ society by…</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partner imparting culinary skills to youths" src="/images/Project We Care/Talent.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Partner imparting culinary skills to youths" src="/images/Project We Care/Talent.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partner donated groceries for families in need" src="/images/Project We Care/Treasures.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Partner donated groceries for families in need" src="/images/Project We Care/Treasures.png">
 </div>
 </td>
 </tr>
@@ -195,5 +195,5 @@ confidently.</p>
 <p>Join Project We Care network to co-create and co-deliver impactful programmes
 to make a difference today!</p>
 <p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;
-To join us, please fill up&nbsp;<strong><a href="https://go.gov.sg/connectwithprojectwecare" rel="noopener noreferrer nofollow" target="_blank">this form</a>. </strong>
+To join us, please fill up&nbsp;<strong><a href="https://go.gov.sg/connectwithprojectwecare" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</strong>
 </p>
