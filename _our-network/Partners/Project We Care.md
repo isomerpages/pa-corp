@@ -103,9 +103,15 @@ options during the shopping trip.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jalan with Your Buddy at Hong Kah North" src="/images/Project We Care/JWYB_1.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Adeka staff volunteer guiding beneficiary to choose healthier grocery option" src="/images/Project We Care/JWYB_2.png">
+</div>
 </th>
 </tr>
 </tbody>
@@ -127,7 +133,28 @@ CC!</p>
 </p>
 <p><em>HOPE Technik Pte Ltd</em>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="HOPE Technik Staff volunteers working to refurbish a children bike" src="/images/Project We Care/Bike_Refresh_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A child from Henderson-Dawson receiving the refurbished bike" src="/images/Project We Care/Bike_Refresh_2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><u>Community Action Network (CAN) School Holiday Programmes @ Kolam-Ayer</u></h4>
 <p>Children from Kolam-Ayer embarked on an unforgettable experience learning
@@ -143,7 +170,28 @@ confidently.</p>
 </p>
 <p><em>Shopee Live SG Marketing Team</em>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Children at Shopee office" src="/images/Project We Care/Shopee_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A student 'promoting' his product during the simulated live session" src="/images/Project We Care/Shopee_2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="Quote From People's Association CSR Partner" src="/images/Project%20We%20Care/Ms%20Wee%20-%20edited%2031%20Jan%202022.png">
 </div>
