@@ -55,7 +55,7 @@ you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <h3>Upcoming Competitions</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc1_small.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc1new_small.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
