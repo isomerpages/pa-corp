@@ -2,5 +2,6 @@
 title: Board of Management
 permalink: /about-us/board-of-management/
 description: ""
+variant: markdown
 ---
-Please click [here](/files/About%20Us/Board%20of%20Mgmt/pa%20board%20of%20management%20list%20for%20intranet%20and%20website%20(updated%2012%20july%202023).pdf) for more information on PA Board of Management.
+View the list of members on the [People's Association Board of Management](/files/About%20Us/Board%20of%20Mgmt/PA_Board_of_Management_List__updated_14_May_2024_.pdf)
