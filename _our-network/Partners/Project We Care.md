@@ -67,9 +67,7 @@ through the workshop on healthy eating tips and choosing healthier food
 options during the shopping trip.</p>
 <p>&nbsp;<em>“We are thankful to be part of this initiative organised by PA and get to connect with the beneficiaries. &nbsp;By engaging in this meaningful volunteer work, we not only contribute to our community, but also uphold ADEKA’s values and foster a compassionate and cohesive culture.”</em>
 </p>
-<p><strong><em>Mr Hirota Kiyonobu,</em></strong>
-</p>
-<p><em>Managing Director, ADEKA (Singapore) Pte Ltd</em>
+<p><strong><em>Mr Hirota Kiyonobu, </em></strong><em>Managing Director, ADEKA (Singapore) Pte Ltd</em>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -105,9 +103,7 @@ were then presented to the beneficiaries during a year-end party at Henderson-Da
 CC!</p>
 <p><em>“Hope Technik has CSR initiatives aimed at giving back to the community, and refurbishing bikes for those in need is a tangible way to achieve this. &nbsp;Witnessing the outcomes of our efforts warm the hearts of our staff when they see the positive impact the refurbished bikes have on the beneficiaries. &nbsp;We are thankful to work with Project We Care, giving Hope Technik this opportunity to give back to the community while fostering stronger connections among our staff.”</em>
 </p>
-<p><strong><em>Ms Eunice Ser</em></strong>
-</p>
-<p><em>Senior People &amp; Culture Executive, HOPE Technik Pte Ltd</em>
+<p><strong><em>Ms Eunice Ser, </em></strong><em>Senior People &amp; Culture Executive, HOPE Technik Pte Ltd</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -142,9 +138,7 @@ lower-income families to unlock their potential and explore their dreams
 confidently.</p>
 <p>&nbsp;<em>“What started off as a discovery session for the children, turned out to be an immensely rewarding experience for our Sea Group staff volunteers too! &nbsp;We were deeply inspired by the boundless curiosity and enthusiasm of the young minds!”</em>
 </p>
-<p><strong><em>Ms Sherlyn Teo</em></strong>
-</p>
-<p><em>Shopee Live SG Marketing Team</em>
+<p><strong><em>Ms Sherlyn Teo, </em></strong><em>Shopee Live SG Marketing Team</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
