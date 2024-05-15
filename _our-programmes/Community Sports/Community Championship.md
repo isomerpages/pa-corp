@@ -168,9 +168,8 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
 <p></p>
 <p></p>
-<p>Interested to pick up the new sport? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> or email us at
-<a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> 
-</a>.</p>
+<p>Interested to pick up the new sport? <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Register</a> or
+email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> </a>.</p>
 <h3>Registration</h3>
 <p>Keen to take part in Community Championship? Sign up at <a href="https://www.onepa.gov.sg/events" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
 approach your nearest Community Club!</p>
