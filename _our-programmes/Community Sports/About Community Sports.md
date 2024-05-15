@@ -2,7 +2,7 @@
 title: About Community Sports
 permalink: /our-programmes/community-sports/
 description: Community sports programmes for all by People's Association
-variant: markdown
+variant: tiptap
 third_nav_title: Community Sports
 ---
 <h3>Community Sports Network</h3>
@@ -17,14 +17,16 @@ as brisk walks, mass swims, sports carnivals, bowling, badminton, football
 and sepak takraw, and in recent years also included disc golf, kin-ball
 and floorball.</p>
 <p>Navigate our page through this list!</p>
-<p>* <a href="#pacf">PAssion Community Football</a></p>
-<p>* <a href="#trending">Other Sports</a></p>
-<p>* <a href="#sig">Sports Interest Groups</a></p>
+<p>* <a href="#pacf" rel="noopener noreferrer nofollow" target="_blank">PAssion Community Football</a>
+</p>
+<p>* <a href="#trending" rel="noopener noreferrer nofollow" target="_blank">Other Sports</a>
+</p>
+<p>* <a href="#sig" rel="noopener noreferrer nofollow" target="_blank">Sports Interest Groups</a>
+</p>
 <p></p>
 <p>For more information and happenings, visit our <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>. Alternatively, you may email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Community_Sports@pa.gov.sg</a>!</p>
 <p></p>
-<a id="pacf"></a>
 <h3>PAssion Community Football</h3>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20sports/commsports-passionfootball.jpg">
@@ -42,10 +44,9 @@ an integral part of the programme. Regular training courses are organised
 to equip the volunteers with the skills on Grassroots Football Coaching,
 First-Aid and more.</p>
 <p>Interested to sign up your child for the programme or sign up as a parent
-volunteer? Please fill up the  <a href="https://go.gov.sg/pacf" rel="noopener noreferrer nofollow" target="_blank">interest form</a>!</p>
+volunteer? Please fill up the <a href="https://go.gov.sg/pacf" rel="noopener noreferrer nofollow" target="_blank">interest form</a>!</p>
 <p></p>
 <p></p>
-<a id="trending"></a>
 <h3>Other Sports</h3>
 <p></p>
 <p>Playing in a team for these sport below? Don't wait, sign up now!</p>
@@ -73,15 +74,15 @@ volunteer? Please fill up the  <a href="https://go.gov.sg/pacf" rel="noopener no
 </li>
 </ol>
 <p></p>
-<p>If you are interested in these sports and would like to get more
-information on the game play, etc, please visit the respective National
-Sports Association (NSA) official website for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
+<p>If you are interested in these sports and would like to get more information
+on the game play, etc, please visit the respective National Sports Association
+(NSA) official website for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
 <p></p>
 <p></p>
-<p>Interested to pick up a new sport? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> or email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>.</p>
+<p>Interested to pick up a new sport? <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Register</a> or
+email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>.</p>
 <p></p>
-<a id="sig"></a>
 <h3>Sports Interest Groups (SIGs)</h3>
 <p>The CSNs organises an array of regular activities such as badminton, basketball,
 brisk walking, football, sepak takraw, table tennis, and in recent years
@@ -90,5 +91,6 @@ also included disc golf, tchoukball and kin-ball.</p>
 <img style="width: 600px" height="auto" width="100%" alt="" src="/images/SIGs__2_.jpg">
 </div>
 <p></p>
-<p>You can join our <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Sports Interest Groups</a> over at our OnePA website!</p>
+<p>You can join our <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Sports Interest Groups</a> over
+at our OnePA website!</p>
 <p></p>
