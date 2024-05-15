@@ -29,17 +29,18 @@ third_nav_title: Community Sports
 a die-hard player or a weekend warrior, we want you to rep your local sports
 crews and battle your way to the Pesta Sukan in July and August. Take your
 pick from these sports to rep your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
-<p>Strap on your game face and discover how you can get in on the action.</p>
+        
+
 <p>* <a href="#about" rel="noopener noreferrer nofollow">About Community Championship</a>
 </p>
 <p>* <a href="#upcoming" rel="noopener noreferrer nofollow">Upcoming Competitions</a>
 </p>
-<p>* <a href="#look" rel="noopener noreferrer nofollow">The 5 Sports to look out for</a>
+<p>* <a href="#look" rel="noopaener noreferrer nofollow">The 5 Sports to look out for</a>
 </p>
 <p>* <a href="#other" rel="noopener noreferrer nofollow">Other Sports</a>
 </p>
-<p>* <a href="#register" rel="noopener noreferrer nofollow">Registration</a>
-</p>
+<p>* <a href="#register" rel="noopener noreferrer nofollow">Registration</a></p>
+
 <p></p>
 <h3 id="about">About Community Championship</h3>
 <p>We're all about having a blast and making memories with your fam, buddies,
@@ -55,15 +56,16 @@ you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <h3 id="upcoming">Upcoming Competitions</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc1_small.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc1new_small.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc2_small.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table_Tennis.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc3.png">
 </div>
 <h3 id="look">The 5 Sports to look out for</h3>
 <p>5 sports will be played at the upcoming competitions and the categories
@@ -167,11 +169,10 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
 <p></p>
 <p></p>
-<p>Interested to pick up the new sport? <a href="https://go.gov.sg/eoicommunitychamps" rel="noopener noreferrer nofollow" target="_blank">Register</a> or email us at
-<a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> 
-</a>.</p>
+<p>Interested to pick up the new sport? <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Register</a> or
+email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> </a>.</p>
 <h3 id="register">Registration</h3>
-<p>Keen to take part in Community Championship? Sign up at <a href="https://www.onepa.gov.sg/events" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
+<p>Keen to take part in Community Championship? Sign up at <a href="[onePA | Event Search](https://www.onepa.gov.sg/events/search?events=community%20championship&amp;aoi=&amp;sort=rel)" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
 approach your nearest Community Club!</p>
 <p>Check out the <a href="/files/Community_Championship_2024___General_Rules___Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
 more information!</p>
