@@ -20,61 +20,42 @@ benefitting <strong>more than 900,000 beneficiaries</strong>!</p>
 <p>From befriending beneficiaries to upskilling the communities, corporate
 partners can play a pivotal role in creating a more inclusive and compassionate
 society by…</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student playing games with seniors at nursing home" src="/images/Project We Care/Time.png">
+<img style="width: 100%" height="auto" width="100%" alt="Students playing games with seniors at nursing home" src="/images/Project We Care/Time_1.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Volunteering Your Time</div>
+<div class="isomer-card-description">Contribute your time on causes you care about</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Partner imparting culinary skills to youths" src="/images/Project We Care/Talent.png">
+<img style="width: 100%" height="auto" width="100%" alt="Partner imparting culinary skills to youths" src="/images/Project We Care/Talent_1.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sharing Your Talent</div>
+<div class="isomer-card-description">Leverage on your industry expertise to co-create programmes and empower
+communities</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Partner donated groceries for families in need" src="/images/Project We Care/Treasures.png">
+<img style="width: 100%" height="auto" width="100%" alt="Partner donating groceries to families in need" src="/images/Project We Care/Treasures_1.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Volunteering Your Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sharing Your Talent</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Donating Your Treasures</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Contribute your time on causes you care about.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leverage on your industry expertise to co-create programmes and empower
-communities.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provide in-kind sponsorships or cash donations to support community initiatives.</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Donating Your Treasures</div>
+<div class="isomer-card-description">Provide in-kind sponsorships or cash donations to support community initiatives</div>
+</div>
+</div>
+</div>
 <h3><strong>Hear from our Corporate Partners</strong></h3>
 <h4><u>Jalan With Your Buddy @ Hong Kah North</u></h4>
 <p>More than 100 residents from lower-income families enjoyed a grocery shopping
@@ -183,6 +164,7 @@ confidently.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A student 'promoting' his product during the simulated live session" src="/images/Project We Care/Shopee_2.png">
 </div>
+<p></p>
 </th>
 </tr>
 </tbody>
