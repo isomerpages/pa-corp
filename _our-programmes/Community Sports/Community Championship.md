@@ -20,18 +20,13 @@ third_nav_title: Community Sports
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPACommunitySportsNetwork%2Fvideos%2F1096813594773255%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
-</div>
 <p>Join the Squad!</p>
 <p>Your hood is revving up for some epic sports showdowns! Whether you're
 a die-hard player or a weekend warrior, we want you to rep your local sports
-crews and battle your way to the Pesta Sukan in July and August. Take your
-pick from these sports to rep your local community: <strong>basketball, badminton, football, pickleball or table tennis</strong>.</p>
+crews and battle your way to the Pesta Sukan in July and August.
         
 
-<p>* <a href="#about" rel="noopener noreferrer nofollow">About Community Championship</a>
+</p><p>* <a href="#about" rel="noopener noreferrer nofollow">About Community Championship</a>
 </p>
 <p>* <a href="#upcoming" rel="noopener noreferrer nofollow">Upcoming Competitions</a>
 </p>
@@ -40,7 +35,10 @@ pick from these sports to rep your local community: <strong>basketball, badminto
 <p>* <a href="#other" rel="noopener noreferrer nofollow">Other Sports</a>
 </p>
 <p>* <a href="#register" rel="noopener noreferrer nofollow">Registration</a></p>
-
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPACommunitySportsNetwork%2Fvideos%2F1096813594773255%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+</div>
+<p></p>
 <p></p>
 <h3 id="about">About Community Championship</h3>
 <p>We're all about having a blast and making memories with your fam, buddies,
@@ -56,16 +54,15 @@ you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <h3 id="upcoming">Upcoming Competitions</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc1new_small.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc1newnew_small.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc2_small.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc3new.png">
 </div>
 <h3 id="look">The 5 Sports to look out for</h3>
 <p>5 sports will be played at the upcoming competitions and the categories
@@ -163,9 +160,7 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 </li>
 </ol>
 <p></p>
-<p>If you are interested in these trending sports and would like to get more
-information on the game play, etc, please visit the respective National
-Sports Association (NSA) official websites for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
+<p>If you are interested in these trending sports and would like to get more information on the game play, etc, please visit the respective National Sports Association (NSA) official websites for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
 <p></p>
 <p></p>
