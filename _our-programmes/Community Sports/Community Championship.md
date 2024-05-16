@@ -23,7 +23,7 @@ third_nav_title: Community Sports
 <p>Join the Squad!</p>
 <p>Your hood is revving up for some epic sports showdowns! Whether you're
 a die-hard player or a weekend warrior, we want you to rep your local sports
-crews and battle your way to the Pesta Sukan in July and August. Take your
+crews and battle your way to the Pesta Sukan in July and August.
         
 
 </p><p>* <a href="#about" rel="noopener noreferrer nofollow">About Community Championship</a>
@@ -160,9 +160,7 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 </li>
 </ol>
 <p></p>
-<p>If you are interested in these trending sports and would like to get more
-information on the game play, etc, please visit the respective National
-Sports Association (NSA) official websites for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
+<p>If you are interested in these trending sports and would like to get more information on the game play, etc, please visit the respective National Sports Association (NSA) official websites for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
 <p></p>
 <p></p>
