@@ -168,7 +168,7 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 <p>Interested to pick up the new sport? <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Register</a> or
 email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> </a>.</p>
 <h3 id="register">Registration</h3>
-<p>Keen to take part in Community Championship? Sign up at <a href="[onePA | Event Search](https://www.onepa.gov.sg/events/search?events=community%20championship&amp;aoi=&amp;sort=rel)" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
+<p>Keen to take part in Community Championship? Sign up at <a href="https://www.onepa.gov.sg/events/search?events=community%20championship&amp;aoi=&amp;sort=rel" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
 approach your nearest Community Club!</p>
 <p>Check out the <a href="/files/Community_Championship_2024___General_Rules___Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
 more information!</p>
