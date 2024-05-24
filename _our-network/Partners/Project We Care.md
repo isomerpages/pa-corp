@@ -60,7 +60,7 @@ communities</div>
 <h4><u>Jalan With Your Buddy @ Hong Kah North</u></h4>
 <p>More than 100 residents from lower-income families enjoyed a grocery shopping
 trip with an interactive learning workshop about healthier living during
-the Jalan with Your Buddy initiative! Thanks to our partners such as <strong>Gupta International Pte Ltd</strong> who
+the Jalan with Your Buddy initiative! Thanks to our partners such as <strong>DFI Retail Group</strong> who
 sponsored the grocery shopping trip, and <strong>ADEKA (Singapore)</strong> for
 their staff volunteers who were buddies of our beneficiaries, guiding them
 through the workshop on healthy eating tips and choosing healthier food
