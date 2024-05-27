@@ -18,7 +18,7 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 2. You may refer to [onePA](https://www.onepa.gov.sg/) to identify the correct category for the courses that you are interested to conduct. 
 
-3. Individual Trainers and Private Operators must register with the People's Association (PA) before conducting at Community Centres / Clubs) (CCs), Residents' Committees Centres (RCs)/Residnts' Network (RNs) and Specialist CCs (SCCs).
+3. Individual Trainers and Private Operators must register with the People's Association (PA) before conducting courses at Community Centres / Clubs) (CCs), Residents' Committees Centres (RCs)/Residnts' Network (RNs) and Specialist CCs (SCCs).
 
 4. PA Trainers and Private Operators are considered independent service providers and not agents or employees or the Grassroots Organisations.
 
