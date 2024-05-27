@@ -25,7 +25,8 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 5. PA Training Provider are not guaranteed to courses by the PA, CCs, RCs, RNs and SCCs.  The PA, CCs, RCs2, RNs, and SCCs also do not assist in sourcing for potentia participants for the courses conducted by the Training Providers.  
 
 6. The PA reserves the right to decline any application and the reason(s) for unsuccessful applications will not be disclosed.
-7.   
+ 
+7.   As the PA will be primarily communicating with applicants 
 
 
    		
