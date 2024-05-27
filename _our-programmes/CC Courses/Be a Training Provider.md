@@ -48,7 +48,7 @@ iv. Applicants who wish to teach Culinary subjects must possess a valid Food & H
    		
 ### **Apply to be a PA Training Provider today!** 
 
-We are accepting applications from now till 27 June 2024.  Applicants are strongy advised to read the general guidelines as listed above before submitting an application.
+We are accepting applications from now till 27 June 2024.  Applicants are strongly advised to read the general guidelines as listed above before submitting an application.
 
 * To  apply as an individual Trainer, please click [here](https://form.gov.sg/5d774ecac36c6500121c3468).
 * To apply as an Operator, please click [here](https://form.gov.sg/5df748c39cf14f0019128ca1). 
