@@ -39,7 +39,7 @@ b. Qualifications
 
 i. Applicants must possess the relevant professionals qualifications and have sufficient experience teaching teaching the subject proposed.  These qualifications must be must be submitted to the PA for assessment. 
 
-ii. Applicants who wish to teach 
+ii. Applicants who wish to teach Sports and Fitness subjects possess valid Standard and Hands-On CPR and AED certificates  with at least 1-year validity at the point of application.
 
 
 
