@@ -14,7 +14,7 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 ### General Guidelines to note before submitting an application
 
-1. 
+1. Interested applicants must refer
    		
 **New Application:**
 
