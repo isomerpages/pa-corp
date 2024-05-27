@@ -54,6 +54,4 @@ We are accepting applications from now till 27 June 2024.  Applicants are strong
 
 For any enquiry, please email to [PA_Talent_Times@pa.gov.sg](PA_Talent_Times@pa.gov.sg).
 
-Other terms and conditions apply.
-
-o:PA_Talent_Times@pa.gov.sg).
+Other terms and conditions apply. 
