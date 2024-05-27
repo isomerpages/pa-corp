@@ -22,7 +22,7 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 4. PA Trainers and Private Operators are considered independent service providers and not agents or employees of the Grassroots Organisations.
 
-5. PA Trainers and Private Operators are not guaranteed engagement to conduct courses by the PA, CCs, RCs, RNs and SCCs.  The PA, CCs, RCs, RNs, and SCCs also do not assist in sourcing for potentia participants for the courses conducted by the Training Providers.  
+5. PA Trainers and Private Operators are not guaranteed engagement to conduct courses by the PA, CCs, RCs, RNs and SCCs.  The PA, CCs, RCs, RNs, and SCCs also do not assist in sourcing for potential participants for the courses conducted by the PA Trainers or Operators.  
 
 6. The PA reserves the right to decline any application and the reason(s) for unsuccessful applications will not be disclosed.
  
