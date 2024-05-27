@@ -41,8 +41,7 @@ i. Applicants must possess the relevant professionals qualifications and have su
 
 ii. Applicants who wish to teach Sports and Fitness subjects possess valid Standard and Hands-On CPR and AED certificates  with at least 1-year validity at the point of application.
 
-iii. Applicants who wish to teach Fitness subjects such as Piloxing must  be a registered member (full membership, not provisional) of SportSG's National Registry of Exercise Professionals (NREP).   For more details on NREP, please refer to a  be  retered gis
-
+iii. Applicants who wish to teach Fitness subjects such as Piloxing must  be a registered member (full membership, not provisional) of SportSG's National Registry of Exercise Professionals (NREP).   For more details on NREP, please refer to www.activesgcircle.gov.sg/nrep.
    		
 **New Application:**
 
