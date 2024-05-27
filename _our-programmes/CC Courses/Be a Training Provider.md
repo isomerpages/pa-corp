@@ -22,6 +22,8 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 4. PA Training Providers are considered independent service providers and not agents or employees or the Grassroots Organisations.
 
+5. PA Training Provider 
+
 
    		
 **New Application:**
