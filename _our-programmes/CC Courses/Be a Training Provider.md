@@ -17,6 +17,10 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 1. Interested applicants must refer to the Course Subject Listing to see if the course you intend to teach is listed under the "Accepted" listing before applying.  As some of the courses have an adequate of training provider, we will not be accepting applications for courses not listed in the "Accepted" listing until further notice. We will continue to monitor the demand for these courses, and will accept applications at the next opening window should more training providers required by then.
 
 2. You may refer to onePA to identify the correct category for the courses that you are interested to apply. 
+
+3. Individual Trainers and Private Operators must register with the People's Association (PA) before conducting at Community Centres / Clubs) (CCs), Residents' Committees Centres (RCs)/Residnts' Network (RNs)
+
+
    		
 **New Application:**
 
