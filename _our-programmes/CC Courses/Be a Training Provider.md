@@ -41,7 +41,7 @@ i. Applicants must possess the relevant professionals qualifications and have su
 
 ii. Applicants who wish to teach Sports and Fitness subjects possess valid Standard and Hands-On CPR and AED certificates  with at least 1-year validity at the point of application.
 
-iii. Applicants who wish to teach Fitness subjects Piloxing must be registered  a  be  retered gis
+iii. Applicants who wish to teach Fitness subjects Piloxing must  be a registered member   a  be  retered gis
 
    		
 **New Application:**
