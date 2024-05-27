@@ -20,7 +20,7 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 3. Individual Trainers and Private Operators must register with the People's Association (PA) before conducting at Community Centres / Clubs) (CCs), Residents' Committees Centres (RCs)/Residnts' Network (RNs) and Specialist CCs.
 
-4. PA Training
+4. PA Training Providers are considered independent service providers and not agents or employees or the Grassroots Organisations.
 
 
    		
