@@ -24,15 +24,15 @@ third_nav_title: Community Sports
 <p>Your hood is revving up for some epic sports showdowns! Whether you're
 a die-hard player or a weekend warrior, we want you to rep your local sports
 crews and battle your way to the Pesta Sukan in July and August.</p>
-<p>* <a href="#about" rel="noopener noreferrer nofollow">About Community Championship</a>
+<p>* <a href="#about" rel="noopener noreferrer nofollow" target="_blank">About Community Championship</a>
 </p>
-<p>* <a href="#upcoming" rel="noopener noreferrer nofollow">Upcoming Competitions</a>
+<p>* <a href="#upcoming" rel="noopener noreferrer nofollow" target="_blank">Upcoming Comzetitions</a>
 </p>
-<p>* <a href="#look" rel="noopaener noreferrer nofollow">The 5 Sports to look out for</a>
+<p>* <a href="#look" rel="noopener noreferrer nofollow" target="_blank">The 5 Sports to look out for</a>
 </p>
-<p>* <a href="#other" rel="noopener noreferrer nofollow">Other Sports</a>
+<p>* <a href="#other" rel="noopener noreferrer nofollow" target="_blank">Other Sports</a>
 </p>
-<p>* <a href="#register" rel="noopener noreferrer nofollow">Registration</a>
+<p>* <a href="#register" rel="noopener noreferrer nofollow" target="_blank">Registration</a>
 </p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPACommunitySportsNetwork%2Fvideos%2F1096813594773255%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
@@ -50,19 +50,23 @@ These sports are super popular and don't need much gear to dive in.</p>
 own squad, and go head-to-head at the Cluster level.&nbsp; The top crews
 will rep the Cluster at the SportSG Pesta Sukan in July and August, where
 you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
-<h3 id="upcoming">Upcoming Competitions</h3>
-<p></p>
+<h3 id="upcoming">Competition Schedule</h3>
+<p>(accurate as of 26 May 2024)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc1newnew_small.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc01_small.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc2new_small.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc02_small.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc3new.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc03.png">
 </div>
+<h3>Competition Results</h3>
+<p>For latest update on the competition results, visit our <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or
+<a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook.</a>
+</p>
 <h3 id="look">The 5 Sports to look out for</h3>
 <p>5 sports will be played at the upcoming competitions and the categories
 open for participation at the Cluster-level and at Pesta Sukan are:</p>
