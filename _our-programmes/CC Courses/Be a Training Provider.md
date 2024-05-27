@@ -28,7 +28,7 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
  
 7.   As the PA will be primarily communicating with applicants via emails or SMS, applicants must ensure that the email addresses and mobile numbers provided are accurate.  The PA will not be responsible for any failed communication effort arising from wrong /outdated email address or mobile numbers.
 
-8.   Applicants must satisfy the following requiremnets:
+8.   Applicants must satisfy the following requirements:
 
 a.  General requirements
 
@@ -49,8 +49,8 @@ iv. Applicants who wish to teach Culinary subjects must possess a valid Food & H
 
 We are accepting applications from now till 27 June 2024.  Applicants are strongy advised to read the general guidelines as listed above before submitting an application.
 
-* To  apply as an individual Trainer, please click here.
-* To apply as an Operator, please click here. 
+* To  apply as an individual Trainer, please click [here](https://form.gov.sg/5d774ecac36c6500121c3468).
+* To apply as an Operator, please click [here](https://form.gov.sg/5df748c39cf14f0019128ca1) 
 
 For any enquiry, please email to [PA_Talent_Times@pa.gov.sg](PA_Talent_Times@pa.gov.sg).
 
