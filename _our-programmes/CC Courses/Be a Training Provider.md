@@ -8,7 +8,7 @@ variant: markdown
 ![Uplife Your PAssion to Inspire](/images/Our%20Programmes/web-banner.jpg)
 
 ### A Rewarding Experience to  Bring People Together through PA Courses
-hnology in cooking and having more friends sharing the experiences”.  – Chef Jihardi Bin Mohamed Amin, Culinary Trainer at the CCs/RCs for 10 years.
+ Amin, Culinary Trainer at the CCs/RCs for 10 years.
  
    		
 **New Application:**
