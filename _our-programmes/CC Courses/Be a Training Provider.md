@@ -14,7 +14,7 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 ### General Guidelines to note before submitting an application
 
-1. Interested applicants must refer
+1. Interested applicants must refer to the Course Subject Listing to see if the course you intend to teach is listed under the "Accepted" listing before applying.  As some of the courses have an adequate of training provider, we will not be accepting 
    		
 **New Application:**
 
