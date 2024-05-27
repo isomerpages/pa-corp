@@ -26,7 +26,10 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 6. The PA reserves the right to decline any application and the reason(s) for unsuccessful applications will not be disclosed.
  
-7.   As the PA will be primarily communicating with applicants 
+7.   As the PA will be primarily communicating with applicants via emails or SMS, applicants must ensure that the email addresses and mobile numbers provided are accurate.  The PA will not be responsible for any failed communication effort arising from wrong /outdated email address or mobile numbers.
+
+8.   Applicants must satisfy the following requiremnets:
+
 
 
    		
