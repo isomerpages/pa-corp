@@ -8,8 +8,7 @@ variant: markdown
 ![Uplife Your PAssion to Inspire](/images/Our%20Programmes/web-banner.jpg)
 
 ### A Rewarding Experience to  Bring People Together through PA Courses
- Amin, Culinary Trainer at the CCs/RCs for 10 years.
- 
+ Beyond sharing knowledge and skills 
    		
 **New Application:**
 
