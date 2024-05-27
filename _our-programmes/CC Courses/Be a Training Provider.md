@@ -30,13 +30,15 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 8.   Applicants must satisfy the following requirements:
 
-a.  General requirements
+
+#### a.  General requirements
 
 i. Applicants must be a Singaporean or a Permanent Resident.
 
 ii. Employment Pass/S Pass/Work Permit/Dependent Pass/Long Term Visit Pass holders are required to obtain a Letter of Consent from the Ministry of Manpower (MOM) for seeking part time jobs with payment of allowance.  Applicants who are gainfully employed must obtain a written consent from their employers, though exception could be granted if classes are conducted on a volunteer basis.  Please refer to [Work passes](https://www.mom.gov.sg/passes-and-permits/) for details or email queries to mom_wpd@mom.gov.sg. 
 
-b. Qualifications 
+
+#### b. Qualifications 
 
 i. Applicants must possess the relevant professionals qualifications and have sufficient experience teaching the subject proposed.  These qualifications must be submitted to the PA for assessment. 
 
