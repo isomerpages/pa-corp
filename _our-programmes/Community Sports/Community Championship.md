@@ -24,15 +24,15 @@ third_nav_title: Community Sports
 <p>Your hood is revving up for some epic sports showdowns! Whether you're
 a die-hard player or a weekend warrior, we want you to rep your local sports
 crews and battle your way to the Pesta Sukan in July and August.</p>
-<p>* <a href="#about" rel="noopener noreferrer nofollow" target="_blank">About Community Championship</a>
+<p>* <a href="#about" rel="noopener noreferrer nofollow">About Community Championship</a>
 </p>
-<p>* <a href="#upcoming" rel="noopener noreferrer nofollow" target="_blank">Upcoming Comzetitions</a>
+<p>* <a href="#upcoming" rel="noopener noreferrer nofollow">Upcoming Competitions</a>
 </p>
-<p>* <a href="#look" rel="noopener noreferrer nofollow" target="_blank">The 5 Sports to look out for</a>
+<p>* <a href="#look" rel="noopener noreferrer nofollow">The 5 Sports to look out for</a>
 </p>
-<p>* <a href="#other" rel="noopener noreferrer nofollow" target="_blank">Other Sports</a>
+<p>* <a href="#other" rel="noopener noreferrer nofollow">Other Sports</a>
 </p>
-<p>* <a href="#register" rel="noopener noreferrer nofollow" target="_blank">Registration</a>
+<p>* <a href="#register" rel="noopener noreferrer nofollow">Registration</a>
 </p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPACommunitySportsNetwork%2Fvideos%2F1096813594773255%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
