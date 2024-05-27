@@ -30,6 +30,8 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 8.   Applicants must satisfy the following requiremnets:
 
+a.  
+(a)
 
 
    		
