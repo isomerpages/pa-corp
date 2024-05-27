@@ -22,7 +22,7 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 4. PA Trainers and Private Operators are considered independent service providers and not agents or employees or the Grassroots Organisations.
 
-5. PA Training Provider are not guaranteed to courses by the PA, CCs, RCs, RNs and SCCs.  The PA, CCs, RCs2, RNs, and SCCs also do not assist in sourcing for potentia participants for the courses conducted by the Training Providers.  
+5. PA Trainers and Private Operator are not guaranteed engagement to conduct courses by the PA, CCs, RCs, RNs and SCCs.  The PA, CCs, RCs, RNs, and SCCs also do not assist in sourcing for potentia participants for the courses conducted by the Training Providers.  
 
 6. The PA reserves the right to decline any application and the reason(s) for unsuccessful applications will not be disclosed.
  
@@ -33,6 +33,7 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 a.  General requirements
 
 i. Applicants must be a Singaporean or a Permanent Resident.
+
 ii. Employment Pass/S Pass/Work Permit/Dependent Pass/Long Term Visit Pass holders are required to obtain a Letter of Consent from the Ministry of Manpower (MOM) for seeking part time jobs with payment of allowance.  Applicants who are gainfully employed must obtain a written consent from their employers, though exception could be granted if classes are conducted on a volunteer basis.  Please refer to [Work passes](https://www.mom.gov.sg/passes-and-permits/) for details or email quiries to [mom_wpd@mom.gov.sg](mom_wpd@mom.gov.sg). 
 
 b. Qualifications 
