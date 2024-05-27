@@ -9,7 +9,8 @@ variant: markdown
 
 ### A Rewarding Experience to  Bring People Together through PA Courses
 Beyond sharing knowledge and skills with the community, are you an experienced training provider who is able to and/or willing to help forge meaningful bonds and build lasting friendship amongst participants?
-If you answered yes, join
+
+If you answered yes, join the People's Association (PA) as a Training Provider, and get started on an enriching and fufilling journey today!
    		
 **New Application:**
 
