@@ -39,6 +39,8 @@ b. Qualifications
 
 i. Applicants must possess the relevant professionals qualifications and have sufficient experience teaching teaching the subject proposed.  These qualifications must be must be submitted to the PA for assessment. 
 
+ii. Applicants who wish to teach 
+
 
 
    		
