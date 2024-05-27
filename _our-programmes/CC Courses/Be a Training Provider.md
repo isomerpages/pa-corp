@@ -56,6 +56,4 @@ For any enquiry, please email to [PA_Talent_Times@pa.gov.sg](PA_Talent_Times@pa
 
 Other terms and conditions apply.
 
-
-
-(mailto:PA_Talent_Times@pa.gov.sg).
+o:PA_Talent_Times@pa.gov.sg).
