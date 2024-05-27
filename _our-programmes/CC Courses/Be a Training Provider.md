@@ -13,6 +13,8 @@ Beyond sharing knowledge and skills with the community, are you an experienced t
 If you answered yes, join the People's Association (PA) as a Training Provider, and get started on an enriching and fufilling journey today!
 
 ### General Guidelines to note before submitting an application
+
+1. 
    		
 **New Application:**
 
