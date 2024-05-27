@@ -47,10 +47,15 @@ iv. Applicants who wish to teach Culinary subjects must possess a valid Food & H
    		
 ### **Apply to be a PA Training Provider today!** 
 
-Thank you for your interest to be a PA Training Provider! 
+We are accepting applications from now till 27 June 2024.  Applicants are strongy advised to read the general guidelines as listed above before submitting an application.
 
-The submission of New Trainer/Operator application form has closed on **27 October  2023**.  More information on the next application window will be available on this page once ready. 
+* To  apply as an individual Trainer, please click here.
+* To apply as an Operator, please click here. 
+
+For any enquiry, please email to [PA\_Talent\_Times@pa.gov.sg]
+
+Other terms and conitions apply.
 
 
 
-For any enquiry, please email to [PA\_Talent\_Times@pa.gov.sg](mailto:PA_Talent_Times@pa.gov.sg).
+(mailto:PA_Talent_Times@pa.gov.sg).
