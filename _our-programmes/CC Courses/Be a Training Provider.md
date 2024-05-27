@@ -40,7 +40,7 @@ b. Qualifications
 
 i. Applicants must possess the relevant professionals qualifications and have sufficient experience teaching the subject proposed.  These qualifications must be submitted to the PA for assessment. 
 
-ii. Applicants who wish to teach Sports and Fitness subjects must possess valid Standard and Hands-On CPR and AED certificates  with at least 1-year validity at the point of application.
+ii. Applicants who wish to teach Sports and Fitness subjects must possess valid Standard First Aid and Hands-On CPR and AED certificates  with at least 1-year validity at the point of application.
 
 iii. Applicants who wish to teach Fitness subjects such as Piloxing must be a registered member (full membership, not provisional) of SportSG's National Registry of Exercise Professionals (NREP).   For more details on NREP, please refer to [https://www.activesgcircle.gov.sg/nrep](https://www.activesgcircle.gov.sg/nrep)
 
