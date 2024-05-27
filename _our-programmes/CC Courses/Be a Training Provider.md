@@ -22,7 +22,7 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 4. PA Training Providers are considered independent service providers and not agents or employees or the Grassroots Organisations.
 
-5. PA Training Provider are not guaranteed to courses by the PA, CCs, RCs, RNs and SCCs. 
+5. PA Training Provider are not guaranteed to courses by the PA, CCs, RCs, RNs and SCCs.  The PA, CCs, RCs2, RNs, and SCCs also do not assist in sourcing participants for the courses by the Training Providers.  
 
 
    		
