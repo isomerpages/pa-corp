@@ -7,12 +7,12 @@ variant: markdown
 ---
 ![Uplife Your PAssion to Inspire](/images/Our%20Programmes/web-banner.jpg)
 
-### A Rewarding Experience to  Bring People Together through PA Courses
+### **A Rewarding Experience to  Bring People Together through PA Courses**
 Beyond sharing knowledge and skills with the community, are you an experienced training provider who is able to and/or willing to help forge meaningful bonds and build lasting friendship amongst participants?
 
 If you answered yes, join the People's Association (PA) as a Training Provider, and get started on an enriching and fufilling journey today!
 
-### General Guidelines to note before submitting an application
+### **General Guidelines to note before submitting an application**
 
 1. Interested applicants must refer to the Course Subject Listing to see if the course you intend to teach is listed under the "Accepted" listing before applying.  As some of the courses have an adequate of training provider, we will not be accepting applications for courses not listed in the "Accepted" listing until further notice. We will continue to monitor the demand for these courses, and will accept applications at the next opening window should more training providers required by then.
 
@@ -45,7 +45,7 @@ iii. Applicants who wish to teach Fitness subjects such as Piloxing must  be a r
 
 iv. Applicants who wish to teach Culinary subjects must possess a valid Food & Hygiene certificate.
    		
-**New Application:**
+### **Apply to be a PA Training Provider today!** 
 
 Thank you for your interest to be a PA Training Provider! 
 
