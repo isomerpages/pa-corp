@@ -40,7 +40,7 @@ ii. Employment Pass/S Pass/Work Permit/Dependent Pass/Long Term Visit Pass holde
 
 #### b. Qualifications 
 
-i. Applicants must possess the relevant professionals qualifications and have sufficient experience teaching the subject proposed.  These qualifications must be submitted to the PA for assessment. 
+i. Applicants must possess the relevant professional qualifications and have sufficient experience teaching the subject proposed.  These qualifications must be submitted to the PA for assessment. 
 
 ii. Applicants who wish to teach Sports and Fitness subjects must possess valid Standard First Aid and Hands-On CPR and AED certificates  with at least 1-year validity at the point of application.
 
