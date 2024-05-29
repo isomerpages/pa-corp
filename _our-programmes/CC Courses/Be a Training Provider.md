@@ -55,6 +55,6 @@ We are accepting applications from now till 27 June 2024.  Applicants are strong
 * To  apply as an individual Trainer, please click [here](https://form.gov.sg/5d774ecac36c6500121c3468).
 * To apply as an Operator, please click [here](https://form.gov.sg/5df748c39cf14f0019128ca1). 
 
-For any enquiry, please email to PA_Talent_Times@pa.gov.sg. 
+For any enquiry, please email to [PA_Talent_Times@pa.gov.sg](mailto:PA_Talent_Times@pa.gov.sg) 
 
 Other terms and conditions apply.
