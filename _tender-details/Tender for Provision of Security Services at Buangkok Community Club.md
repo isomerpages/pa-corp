@@ -4,8 +4,7 @@ permalink: /tender-for-provision-of-security-services-at-buangkok-community-club
 variant: tiptap
 description: ""
 ---
-<p>Tender for Provision of Security Services at Buangkok Community Club for
-a period of two years with the option to renew for another two years</p>
+<h4>Tender for Provision of Security Services at Buangkok Community Club for a period of two years with the option to renew for another two years</h4>
 <hr>
 <h4>Details</h4>
 <p>A mandatory Pre-tender briefing will be held on:</p>
