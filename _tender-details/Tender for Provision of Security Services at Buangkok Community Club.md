@@ -29,7 +29,7 @@ Holidays.</p>
 <a href="mailto:Zhang_bi_en@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zhang_bi_en@pa.gov.sg.</a>
 </p>
 <hr>
-<p><strong>Calling Committee: Buangkok Community Club Management Committee </strong>
+<p><strong>Calling Committee: Buangkok Community Club Management Committee</strong>
 </p>
 <p><strong>Publication Date: 3 Jun 2024</strong>
 </p>
