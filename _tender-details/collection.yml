@@ -2,5 +2,6 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Provision of Security Services at Buangkok Community Club.md
       - Tender for Chinatown Mid Autumn Festival 2024 Street Light Up Decorative
         Items.md
