@@ -106,7 +106,7 @@ East Coast. Rally your mates and let's make some waves together.</p>
 <p>&nbsp;Dates: 1 July to 31 August 2024</p>
 <p>&nbsp;Location:&nbsp; All PAssion Wave outlets except East Coast&nbsp;</p>
 <p>Register via the links below for the We support NS: One-for-One kayak
-rental:&nbsp;</p>
+rental.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/pwbr-wesupportns" rel="noopener noreferrer nofollow" target="_blank">We support NS: One-for-One kayak rental at PAssion Wave @ Bedok Reservoir</a>
