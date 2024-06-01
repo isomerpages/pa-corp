@@ -24,8 +24,8 @@ programmes with water sports.</p>
 </div>
 <p>A year-long series of celebratory activities including thematic expeditions
 to rolled out across the six PAssion Wave outlets.</p>
-<p>Click on the links below to find out more! Registrations will open on
-2 June.</p>
+<p><strong>Registrations will open on 2 June.</strong>
+</p>
 <h3>One-For-One Family Kayaking Package</h3>
 <p></p>
 <div class="isomer-image-wrapper">
