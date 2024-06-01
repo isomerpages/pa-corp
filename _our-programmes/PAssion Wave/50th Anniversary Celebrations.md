@@ -160,58 +160,35 @@ us for the PAssion Wave 50<sup>th</sup> Anniversary expedition filled with
 excitement, camaraderie, and unforgettable moments.</p>
 <p>&nbsp;Dates: 24 &amp; 25 August 2024</p>
 <p>Location: PAssion Wave @ Sembawang&nbsp;</p>
-<p>Register via the link below for 2D1N Round Ubin Expedition on 24 &amp;
-25 August 2024:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/roundubinexppedition</a>
+<p>Register for the <a href="https://go.gov.sg/roundubinexpedition" rel="noopener noreferrer nofollow" target="_blank">2D1N Round Ubin Expedition on 24 &amp; 25 August 2024</a>
 </p>
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p>Mangrove Expedition</p>
-<p></p>
+<h3>Mangrove Expedition</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.png">
 </div>
-<p>
-<br>Bond through PAssion Wave <strong>Kayak Mangrove Expedition</strong> for
-the parents looking for unique family activities. &nbsp;Join us to navigate
-Sungei Api-Api, kayaking through the waters of Pasir Ris and learn about
-the vital role mangroves play in our ecosystem and how we can protect them
-for generations to come through mangrove conservation. Explore nature's
-wonders and make a positive impact on the environment as a family to be
-part of the 50<sup>th</sup> Anniversary celebrations.</p>
-<p>&nbsp;</p>
+<p>Bond through PAssion Wave Kayak Mangrove Expedition for the parents looking
+for unique family activities.</p>
+<p>Join us to navigate Sungei Api-Api, kayaking through the waters of Pasir
+Ris and learn about the vital role mangroves play in our ecosystem and
+how we can protect them for generations to come through mangrove conservation.</p>
+<p>Explore nature's wonders and make a positive impact on the environment
+as a family to be part of the 50th Anniversary celebrations</p>
 <p>Dates: 31 August 2024</p>
-<p>&nbsp;</p>
 <p>Location: PAssion Wave @ Pasir Ris</p>
-<p>&nbsp;</p>
-<p>Register via the link below for Mangrove Expedition on 31 August 2024
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mangroveexpedition</a>
-</p>
-</li>
-</ol>
-<p></p>
-<ol start="7" data-tight="true" class="tight">
-<li>
-<p>Day Expedition to Solar Panel Farm</p>
-<p></p>
-</li>
-</ol>
+<p>Register for the <a href="https://go.gov.sg/mangroveexpedition" rel="noopener noreferrer nofollow" target="_blank">Mangrove Expedition on 31 August 2024</a>.</p>
+<h3>Day Expedition to Solar Panel Farm</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png">
 </div>
 <p>Prepare to embark on an extraordinary journey where innovation and nature
-meets! Be the first 50 to paddle to get up close to the world's first and
-largest floating solar panel in the sea designed to bring Singapore closer
-to decarbonisation. &nbsp;So, grab your paddle and get ready to embark
-on a journey that will leave you inspired and amazed.</p>
+meets!</p>
+<p>Be the first 50 to paddle to get up close to the world's first and largest
+floating solar panel in the sea designed to bring Singapore closer to decarbonisation.</p>
+<p>So, grab your paddle and get ready to embark on a journey that will leave
+you inspired and amazed.</p>
 <p>Dates: 21 September 2024&nbsp;</p>
 <p>Location: PAssion Wave @ Sembawang&nbsp;</p>
-<p>Register via the link below for Day Expedition to Solar Panel Farm on
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/solarpanelexpedition</a>
-</p>
+<p>Register for the <a href="https://go.gov.sg/solarpanelexpedition" rel="noopener noreferrer nofollow" target="_blank">Day Expedition to Solar Panel Farm</a>.</p>
 <p>&nbsp;</p>
 <p>Follow us on&nbsp;<a href="https://www.facebook.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>&nbsp;or&nbsp;
 <a href="https://www.instagram.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;to keep up to date with our latest news!</p>
-<p></p>
-<p></p>
-<p></p>
