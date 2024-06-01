@@ -64,80 +64,78 @@ on hand to guide families for a delightful experience on the water</p>
 <p><a href="https://go.gov.sg/pwpr-pw50kayaking" rel="noopener noreferrer nofollow" target="_blank">One-for-One Family Kayaking Package at PAssion Wave @ Pasir Ris</a>
 </p>
 </li>
-<li>
-<p> <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwbr-pw50kayaking</a>
-</p>
-</li>
 </ul>
-<p></p>
 <h3>Glow PAddle 2024</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10.png">
 </div>
 <p>Prepare to be captivated by the allure of the night as you join us for
 an enchanting night dragon expedition, Glow PAddle, as part of the PAssion
-Wave 50th Anniversary celebration activities to bring the community together.
-Under the guidance of certified dragon boat trainers, participants will
+Wave 50th Anniversary celebration activities to bring the community together.</p>
+<p>Under the guidance of certified dragon boat trainers, participants will
 embark on an exhilarating journey into Marina Bay aboard stunning LED-lit
 dragon boats to view selected artworks of i Light Singapore 2024 on water,
 all while being immersed in the historical narrative of PAssion Wave's
-legacy and Singapore's iconic landmarks, delivered by tour guides. This
-unique experience promises an unforgettable blend of excitement, culture,
-and community spirit, making it a fitting celebration of our 50th Anniversary.</p>
+legacy and Singapore's iconic landmarks, delivered by tour guides.</p>
+<p>This unique experience promises an unforgettable blend of excitement,
+culture, and community spirit, making it a fitting celebration of our 50th
+Anniversary.</p>
 <p>&nbsp;Dates: 8, 16 &amp; 23 June 2024&nbsp;</p>
 <p>Location: PAssion Wave @ Marina Bay&nbsp;</p>
 <p>Register via the links below for Glow PAddle:&nbsp;</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Glow PAddle on 8 June 2024 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/glowpaddle-8jun</a>
-</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Glow PAddle on 16 June 2024 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/glowpaddle-16jun</a>
-</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Glow PAddle on 23 June 2024 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/glowpaddle-23jun</a>
-</p>
-<ol start="3" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
-<p>We support NS: One-for-One kayak rental</p>
+<p><a href="https://go.gov.sg/glowpaddle-8jun" rel="noopener noreferrer nofollow" target="_blank">Glow PAddle on 8 June 2024</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/glowpaddle-16jun" rel="noopener noreferrer nofollow" target="_blank">Glow PAddle on 16 June 2024</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/glowpaddle-23jun" rel="noopener noreferrer nofollow" target="_blank">Glow PAddle on 23 June 2024</a>
+</p>
+</li>
+</ul>
+<h3>We support NS: One-for-One kayak rental</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/11.png">
 </div>
-</li>
-</ol>
 <p>Gentlemen, fall in for the celebration of PAssion Wave's 50th Anniversary
 and in conjunction with <strong>We Support NS campaign</strong>, gather
-your crew for an epic kayaking adventure with a special <strong>one for one kayak rental deal</strong>!
-Available only in July and August 2024 at all PAssion Wave outlets, except
-East Coast. Rally your mates and let's make some waves together. Don't
-miss out – it's time to paddle and bond in the coolest way possible!</p>
+your crew for an epic kayaking adventure with a special <strong>one for one kayak rental deal</strong>!</p>
+<p>Available only in July and August 2024 at all PAssion Wave outlets, except
+East Coast. Rally your mates and let's make some waves together.</p>
+<p>Don't miss out – it's time to paddle and bond in the coolest way possible!</p>
 <p>&nbsp;Dates: 1 July to 31 August 2024</p>
 <p>&nbsp;Location:&nbsp; All PAssion Wave outlets except East Coast&nbsp;</p>
 <p>Register via the links below for the We support NS: One-for-One kayak
 rental:&nbsp;</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We support NS: One-for-One kayak
-rental at PAssion Wave @ Bedok Reservoir</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwbr-wesupportns</a>
-</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We support NS: One-for-One kayak rental
-at PAssion Wave @ Jurong Lake&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwjl-wesupportns</a>
-</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We support NS: One-for-One kayak
-rental at PAssion Wave @ Marina Bay</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwmb-wesupportns</a>
-</p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We support NS: One-for-One kayak rental
-at PAssion Wave @ Sembawang</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwsb-wesupportns</a>
-</p>
-<p>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We support NS: One-for-One kayak rental
-at PAssion Wave @ Pasir Ris</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwpr-wesupportns</a>
-</p>
-<ol start="4" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp; Day Expedition</p>
+<p><a href="https://go.gov.sg/pwbr-wesupportns" rel="noopener noreferrer nofollow" target="_blank">We support NS: One-for-One kayak rental at PAssion Wave @ Bedok Reservoir</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pwjl-wesupportns" rel="noopener noreferrer nofollow" target="_blank">We support NS: One-for-One kayak rental at PAssion Wave @ Jurong Lake</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pwmb-wesupportns" rel="noopener noreferrer nofollow" target="_blank">We support NS: One-for-One kayak rental at PAssion Wave @ Marina Bay</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pwsb-wesupportns" rel="noopener noreferrer nofollow" target="_blank">We support NS: One-for-One kayak rental at PAssion Wave @ Sembawang</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pwpr-wesupportns" rel="noopener noreferrer nofollow" target="_blank">We support NS: One-for-One kayak rental at PAssion Wave @ Pasir Ris</a>
+</p>
 <p></p>
 </li>
-</ol>
+</ul>
+<h3>Day Expedition</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9.png">
 </div>
@@ -148,16 +146,12 @@ beauty of nature like never before.&nbsp; Push boundaries, forge friendships,
 and create memories that will last a lifetime.</p>
 <p>&nbsp;Dates: 13 July 2024&nbsp;</p>
 <p>Location: PAssion Wave @ East Coast&nbsp;</p>
-<p>Registration slots have been fully subscribed.&nbsp;&nbsp;</p>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p>2D1N Round Ubin Expedition</p>
-<p></p>
+<p><em>Registration slots have been fully subscribed.&nbsp;&nbsp;</em>
+</p>
+<h3>2D1N Round Ubin Expedition</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/12.png">
 </div>
-</li>
-</ol>
 <p>Embark on an exhilarating <strong>2-day, 1-night Kayak Expedition</strong> from
 PAssion Wave @ Sembawang to rustic Pulau Ubin. Navigate the sparkling waters,
 exploring the scenic landscapes of Seletar Island, Punggol, and the serene
