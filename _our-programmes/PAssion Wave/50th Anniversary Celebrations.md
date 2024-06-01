@@ -161,13 +161,13 @@ excitement, camaraderie, and unforgettable moments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="kayaks in a mangrove" src="/images/7.png">
 </div>
-<p>Bond through PAssion Wave Kayak Mangrove Expedition for the parents looking
+<p>Bond through PAssion Wave's Kayak Mangrove Expedition for parents looking
 for unique family activities.</p>
 <p>Join us to navigate Sungei Api-Api, kayaking through the waters of Pasir
 Ris and learn about the vital role mangroves play in our ecosystem and
 how we can protect them for generations to come through mangrove conservation.</p>
 <p>Explore nature's wonders and make a positive impact on the environment
-as a family to be part of the 50th Anniversary celebrations</p>
+as a family to be part of the 50th Anniversary celebrations.</p>
 <p>Dates: 31 August 2024</p>
 <p>Location: PAssion Wave @ Pasir Ris</p>
 <p>Register for the <a href="https://go.gov.sg/mangroveexpedition" rel="noopener noreferrer nofollow" target="_blank">Mangrove Expedition on 31 August 2024</a>.</p>
