@@ -35,12 +35,12 @@ If you answered yes, join the People's Association (PA) as a Training Provider, 
 
 i. Applicants must be a Singaporean or a Permanent Resident.
 
-ii. Employment Pass/S Pass/Work Permit/Dependent Pass/Long Term Visit Pass holders are required to obtain a Letter of Consent from the Ministry of Manpower (MOM) for seeking part time jobs with payment of allowance.  Applicants who are gainfully employed must obtain a written consent from their employers, though exception could be granted if classes are conducted on a volunteer basis.  Please refer to [Work passes](https://www.mom.gov.sg/passes-and-permits/) for details or email queries to mom_wpd@mom.gov.sg. 
+ii. Employment Pass/S Pass/Work Permit/Dependent Pass/Long Term Visit Pass holders are required to obtain a Letter of Consent from the Ministry of Manpower (MOM) for seeking part time jobs with payment of allowance.  Applicants who are gainfully employed must obtain a written consent from their employers, though exception could be granted if classes are conducted on a volunteer basis.  Please refer to [Work passes](https://www.mom.gov.sg/passes-and-permits/) for details or email queries to [mom_wpd@mom.gov.sg](mailto:mom_wpd@mom.gov.sg) 
 
 
 #### b. Qualifications 
 
-i. Applicants must possess the relevant professionals qualifications and have sufficient experience teaching the subject proposed.  These qualifications must be submitted to the PA for assessment. 
+i. Applicants must possess the relevant professional qualifications and have sufficient experience teaching the subject proposed.  These qualifications must be submitted to the PA for assessment. 
 
 ii. Applicants who wish to teach Sports and Fitness subjects must possess valid Standard First Aid and Hands-On CPR and AED certificates  with at least 1-year validity at the point of application.
 
@@ -55,6 +55,6 @@ We are accepting applications from now till 27 June 2024.  Applicants are strong
 * To  apply as an individual Trainer, please click [here](https://form.gov.sg/5d774ecac36c6500121c3468).
 * To apply as an Operator, please click [here](https://form.gov.sg/5df748c39cf14f0019128ca1). 
 
-For any enquiry, please email to PA_Talent_Times@pa.gov.sg. 
+For any enquiry, please email to [PA_Talent_Times@pa.gov.sg](mailto:PA_Talent_Times@pa.gov.sg) 
 
 Other terms and conditions apply.
