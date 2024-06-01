@@ -6,9 +6,10 @@ description: PAssion Wave 50th Anniversary Celebrations
 image: /images/5.png
 third_nav_title: PAssion Wave
 ---
-<p>The PAssion Wave 50th Anniversary celebrates five decades of connecting
-communities of all ages and abilities through accessible and affordable
-water sports and waterfront lifestyle activities.</p>
+<h2>PAssion Wave celebrates it's 50th Anniversary</h2>
+<p>PAssion Wave 50th Anniversary celebrates five decades of connecting communities
+of all ages and abilities through accessible and affordable water sports
+and waterfront lifestyle activities.</p>
 <p>In 1974, the People’s Association established the PA Adventure Club at
 Changi Point, marking the beginning of canoe clubs and sea sports centres
 at Punggol Point, Sembawang, and Kallang River.</p>
@@ -21,17 +22,19 @@ programmes with water sports.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PW_50th_logo.png">
 </div>
 <p>A year-long series of celebratory activities including thematic expeditions
-to rolled out across the six PAssion Wave outlets. Click on the links below
-to find out more! Registrations will open on 2 June.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>One-For-One Family Kayaking Package</p>
+to rolled out across the six PAssion Wave outlets.</p>
+<p>Click on the links below to find out more! Registrations will open on
+2 June.</p>
+<h3>One-For-One Family Kayaking Package</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
 </div>
-</li>
-</ol>
+<p>Calling all adventure-loving families! Whether you're a “newbie” or a
+“knowbie”, enjoy one-for-one family kayaking packages in celebration of
+PAssion Wave 50th Anniversary and National Family Festival this June and
+July.&nbsp; Enjoy the thrill of family kayaking! Expert trainers will be
+on hand to guide families for a delightful experience on the water</p>
 <p>Calling all adventure-loving families! Whether you're a “newbie” or a
 “knowbie”, enjoy one-for-one family kayaking packages in celebration of
 PAssion Wave 50th Anniversary and National Family Festival this June and
@@ -40,26 +43,34 @@ on hand to guide families for a delightful experience on the water</p>
 <p>Dates: 2 June to 31 July 2024</p>
 <p>&nbsp;Location:&nbsp; All PAssion Wave outlets except East Coast&nbsp;</p>
 <p>Register via the links below for the One-for-One Family Kayaking Package:&nbsp;</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One-for-One Family Kayaking Package
-at PAssion Wave @ Bedok Reservoir <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwbr-pw50kayaking</a>
-</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One-for-One Family Kayaking Package at
-PAssion Wave @ Jurong Lake &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwjl-pw50kayaking</a>
-</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One-for-One Family Kayaking Package
-at PAssion Wave @ Marina Bay <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwmb-pw50kayaking</a>
-</p>
-<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One-for-One Family Kayaking Package at
-PAssion Wave @ Sembawang <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwsb-pw50kayaking</a>
-</p>
-<p>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One-for-One Family Kayaking Package at
-PAssion Wave @ Pasir Ris <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwpr-pw50kayaking</a>
-</p>
-<ol start="2" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
-<p>Glow PAddle 2024</p>
+<p><a href="https://go.gov.sg/pwbr-pw50kayaking" rel="noopener noreferrer nofollow" target="_blank">One-for-One Family Kayaking Package at PAssion Wave @ Bedok Reservoir</a>
+</p>
 </li>
-</ol>
+<li>
+<p><a href="https://go.gov.sg/pwjl-pw50kayaking" rel="noopener noreferrer nofollow" target="_blank">One-for-One Family Kayaking Package at PAssion Wave @ Jurong Lake</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pwmb-pw50kayaking" rel="noopener noreferrer nofollow" target="_blank">One-for-One Family Kayaking Package at PAssion Wave @ Marina Bay</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pwsb-pw50kayaking" rel="noopener noreferrer nofollow" target="_blank">One-for-One Family Kayaking Package at PAssion Wave @ Sembawang</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pwpr-pw50kayaking" rel="noopener noreferrer nofollow" target="_blank">One-for-One Family Kayaking Package at PAssion Wave @ Pasir Ris</a>
+</p>
+</li>
+<li>
+<p> <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pwbr-pw50kayaking</a>
+</p>
+</li>
+</ul>
+<p></p>
+<h3>Glow PAddle 2024</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10.png">
 </div>
