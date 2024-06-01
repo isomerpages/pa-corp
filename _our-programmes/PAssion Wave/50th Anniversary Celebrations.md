@@ -22,7 +22,7 @@ programmes with water sports.</p>
 </div>
 <p>A year-long series of celebratory activities including thematic expeditions
 to rolled out across the six PAssion Wave outlets. Click on the links below
-to find out more!</p>
+to find out more! Registrations will open on 2 June.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>One-For-One Family Kayaking Package</p>
@@ -157,7 +157,7 @@ excitement, camaraderie, and unforgettable moments.</p>
 <p>Location: PAssion Wave @ Sembawang&nbsp;</p>
 <p>Register via the link below for 2D1N Round Ubin Expedition on 24 &amp;
 25 August 2024:</p>
-<p> <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/roundubinexppedition</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/roundubinexppedition</a>
 </p>
 <ol start="6" data-tight="true" class="tight">
 <li>
@@ -207,5 +207,6 @@ on a journey that will leave you inspired and amazed.</p>
 <p>&nbsp;</p>
 <p>Follow us on&nbsp;<a href="https://www.facebook.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>&nbsp;or&nbsp;
 <a href="https://www.instagram.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;to keep up to date with our latest news!</p>
+<p></p>
 <p></p>
 <p></p>
