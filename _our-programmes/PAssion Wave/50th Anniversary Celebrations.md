@@ -18,8 +18,9 @@ Wave outlets, including three reservoir outlets (Bedok Reservoir, Jurong
 Lake Gardens, Marina Bay) and three sea outlets (East Coast, Sembawang,
 Pasir Ris), promoting a broader range of waterfront and meaningful community
 programmes with water sports.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PW_50th_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="passion wave 50th logo" src="/images/PassionWave_50thAnni_Logo_Final_01.jpg">
 </div>
 <p>A year-long series of celebratory activities including thematic expeditions
 to rolled out across the six PAssion Wave outlets.</p>
@@ -28,18 +29,13 @@ to rolled out across the six PAssion Wave outlets.</p>
 <h3>One-For-One Family Kayaking Package</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="youths kayaking" src="/images/6.png">
 </div>
 <p>Calling all adventure-loving families! Whether you're a “newbie” or a
 “knowbie”, enjoy one-for-one family kayaking packages in celebration of
 PAssion Wave 50th Anniversary and National Family Festival this June and
 July.&nbsp; Enjoy the thrill of family kayaking! Expert trainers will be
-on hand to guide families for a delightful experience on the water</p>
-<p>Calling all adventure-loving families! Whether you're a “newbie” or a
-“knowbie”, enjoy one-for-one family kayaking packages in celebration of
-PAssion Wave 50th Anniversary and National Family Festival this June and
-July.&nbsp; Enjoy the thrill of family kayaking! Expert trainers will be
-on hand to guide families for a delightful experience on the water</p>
+on hand to guide families for a delightful experience on the water.</p>
 <p>Dates: 2 June to 31 July 2024</p>
 <p>&nbsp;Location:&nbsp; All PAssion Wave outlets except East Coast&nbsp;</p>
 <p>Register via the links below for the One-for-One Family Kayaking Package:&nbsp;</p>
@@ -67,7 +63,7 @@ on hand to guide families for a delightful experience on the water</p>
 </ul>
 <h3>Glow PAddle 2024</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10.png">
+<img style="width: 100%" height="auto" width="100%" alt="night view of marina bay" src="/images/10.png">
 </div>
 <p>Prepare to be captivated by the allure of the night as you join us for
 an enchanting night dragon expedition, Glow PAddle, as part of the PAssion
@@ -98,9 +94,8 @@ Anniversary.</p>
 </li>
 </ul>
 <h3>We support NS: One-for-One kayak rental</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11.png">
+<img style="width: 100%" height="auto" width="100%" alt="kayaking at passion wave bedok" src="/images/11.png">
 </div>
 <p>Gentlemen, fall in for the celebration of PAssion Wave's 50th Anniversary
 and in conjunction with <strong>We Support NS campaign</strong>, gather
@@ -137,7 +132,7 @@ rental:&nbsp;</p>
 </ul>
 <h3>Day Expedition</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9.png">
+<img style="width: 100%" height="auto" width="100%" alt="couple kayaking in the sea" src="/images/9.png">
 </div>
 <p>Join us for an unforgettable celebration with the awe inspiring <strong>50km Kayaking Expedition</strong>.
 Starting from PAssion Wave @ East Coast, paddle&nbsp; through the picturesque
@@ -150,7 +145,7 @@ and create memories that will last a lifetime.</p>
 </p>
 <h3>2D1N Round Ubin Expedition</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12.png">
+<img style="width: 100%" height="auto" width="100%" alt="group of kayakers" src="/images/12.png">
 </div>
 <p>Embark on an exhilarating <strong>2-day, 1-night Kayak Expedition</strong> from
 PAssion Wave @ Sembawang to rustic Pulau Ubin. Navigate the sparkling waters,
@@ -164,7 +159,7 @@ excitement, camaraderie, and unforgettable moments.</p>
 </p>
 <h3>Mangrove Expedition</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.png">
+<img style="width: 100%" height="auto" width="100%" alt="kayaks in a mangrove" src="/images/7.png">
 </div>
 <p>Bond through PAssion Wave Kayak Mangrove Expedition for the parents looking
 for unique family activities.</p>
@@ -178,7 +173,7 @@ as a family to be part of the 50th Anniversary celebrations</p>
 <p>Register for the <a href="https://go.gov.sg/mangroveexpedition" rel="noopener noreferrer nofollow" target="_blank">Mangrove Expedition on 31 August 2024</a>.</p>
 <h3>Day Expedition to Solar Panel Farm</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png">
+<img style="width: 100%" height="auto" width="100%" alt="happy kayakers in the sea" src="/images/8.png">
 </div>
 <p>Prepare to embark on an extraordinary journey where innovation and nature
 meets!</p>
