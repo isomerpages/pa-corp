@@ -7,9 +7,9 @@ image: /images/5.png
 third_nav_title: PAssion Wave
 ---
 <h2>PAssion Wave celebrates it's 50th Anniversary</h2>
-<p>PAssion Wave 50th Anniversary celebrates five decades of connecting communities
-of all ages and abilities through accessible and affordable water sports
-and waterfront lifestyle activities.</p>
+<p>PAssion Wave celebrates five decades of connecting communities of all
+ages and abilities through accessible and affordable water sports and waterfront
+lifestyle activities.</p>
 <p>In 1974, the People’s Association established the PA Adventure Club at
 Changi Point, marking the beginning of canoe clubs and sea sports centres
 at Punggol Point, Sembawang, and Kallang River.</p>
@@ -33,9 +33,9 @@ to rolled out across the six PAssion Wave outlets.</p>
 </div>
 <p>Calling all adventure-loving families! Whether you're a “newbie” or a
 “knowbie”, enjoy one-for-one family kayaking packages in celebration of
-PAssion Wave 50th Anniversary and National Family Festival this June and
-July.&nbsp; Enjoy the thrill of family kayaking! Expert trainers will be
-on hand to guide families for a delightful experience on the water.</p>
+PAssion Wave's 50th Anniversary and National Family Festival this June
+and July.&nbsp; Enjoy the thrill of family kayaking! Expert trainers will
+be on hand to guide families for a delightful experience on the water.</p>
 <p>Dates: 2 June to 31 July 2024</p>
 <p>&nbsp;Location:&nbsp; All PAssion Wave outlets except East Coast&nbsp;</p>
 <p>Register via the links below for the One-for-One Family Kayaking Package:&nbsp;</p>
@@ -66,8 +66,8 @@ on hand to guide families for a delightful experience on the water.</p>
 <img style="width: 100%" height="auto" width="100%" alt="night view of marina bay" src="/images/10.png">
 </div>
 <p>Prepare to be captivated by the allure of the night as you join us for
-an enchanting night dragon expedition, Glow PAddle, as part of the PAssion
-Wave 50th Anniversary celebration activities to bring the community together.</p>
+an enchanting night dragon expedition, Glow PAddle, as part of PAssion
+Wave's 50th Anniversary celebration activities to bring the community together.</p>
 <p>Under the guidance of certified dragon boat trainers, participants will
 embark on an exhilarating journey into Marina Bay aboard stunning LED-lit
 dragon boats to view selected artworks of i Light Singapore 2024 on water,
