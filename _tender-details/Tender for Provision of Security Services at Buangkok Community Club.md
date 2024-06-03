@@ -4,7 +4,7 @@ permalink: /tender-for-provision-of-security-services-at-buangkok-community-club
 variant: tiptap
 description: ""
 ---
-<h4>Tender for Provision of Security Services at Buangkok Community Club for a period of two years with the option to renew for another two years</h4>
+<h4>Tender for Provision of Security Services at Buangkok Community Club for a period of two years with option to renew for another two years</h4>
 <hr>
 <h4>Details</h4>
 <p>A mandatory Pre-tender briefing will be held on:</p>
@@ -16,7 +16,7 @@ be considered in the tender evaluation.</p>
 <hr>
 <h4>Tender Document</h4>
 <p>(1) For request of soft copy tender documents, please email to <a href="mailto:Tan_hui_Ting@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_hui_Ting@pa.gov.sg</a> and
-<a href="mailto:Zhang_bi_en@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zhang_bi_en@pa.gov.sg</a>
+<a href="mailto:Zhang_bi_en@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zhang_bi_en@pa.gov.sg.</a>
 </p>
 <p>(2) For request of hard copy tender documents, please collect at Buangkok
 Community Club reception counter located at 70 Compassvale Bow #01-25 Singapore
