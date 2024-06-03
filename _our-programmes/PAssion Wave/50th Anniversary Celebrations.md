@@ -6,7 +6,7 @@ description: PAssion Wave 50th Anniversary Celebrations
 image: /images/5.png
 third_nav_title: PAssion Wave
 ---
-<h2>PAssion Wave celebrates it's 50th Anniversary</h2>
+<h2>PAssion Wave celebrates its 50th Anniversary</h2>
 <p>PAssion Wave celebrates five decades of connecting communities of all
 ages and abilities through accessible and affordable water sports and waterfront
 lifestyle activities.</p>
