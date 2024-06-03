@@ -12,4 +12,4 @@ Open Procurement and Grassroots Trade Fair Tenders published via the Grassroots 
 <br>
 
 Please check the below listing(s) for the latest tender notices: <br> [Tender for Chinatown Mid-Autumn Festival 2024 Street Light Up Decorative Items](/provision-of-chinatown-mid-autumn-festival-2024-street-light-up/)
-<br>
+<br> [Tender for Provision of Security Services for Buangkok Community Club](/tender-for-provision-of-security-services-at-buangkok-community-club/)
