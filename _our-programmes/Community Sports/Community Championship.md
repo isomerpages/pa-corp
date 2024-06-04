@@ -149,7 +149,6 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 <a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
 <h3>Other Sports</h3>
 <p>Playing in a team for these sport below? Don't wait, sign up now!</p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bowling</p>
@@ -161,12 +160,10 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 <p>Floorball</p>
 </li>
 </ol>
-<p></p>
 <p>If you are interested in these trending sports and would like to get more
 information on the game play, etc, please visit the respective National
 Sports Association (NSA) official websites for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
-<p></p>
 <p></p>
 <p>Interested to pick up the new sport? <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Register</a> or
 email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> </a>.</p>
