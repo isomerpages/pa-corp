@@ -170,6 +170,20 @@ Sports Association (NSA) official websites for <a href="https://singaporebowling
 <p></p>
 <p>Interested to pick up the new sport? <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Register</a> or
 email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> </a>.</p>
+<h3>Community Championship 2024 Photography Contest</h3>
+<p>People's Association and SAFRA is pleased to invite interested participants
+to participate in the Community Championship 2024 Photography Contest.
+Community Championship is a national movement to bring people together
+through community sports. Community Championship also aims to provide opportunities
+for residents of all backgrounds to bond together through friendly sports
+competition.</p>
+<p>We are looking for well-taken photographs that captures the essence where
+residents from all walks of life come together to participate together
+with family, friends and neighbours competing or supporting in sport. The
+photography competition is open to all Singapore Citizens and Permanent
+Residents residing in Singapore.</p>
+<p>Check out the <a href="/files/Community_Championship_2024_Photo_Contest_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
+more information!</p>
 <h3>Registration</h3>
 <p>Keen to take part in Community Championship? Sign up at <a href="https://www.onepa.gov.sg/events/search?events=community%20championship&amp;aoi=&amp;sort=rel" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
 approach your nearest Community Club!</p>
