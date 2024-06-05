@@ -51,17 +51,16 @@ own squad, and go head-to-head at the Cluster level.&nbsp; The top crews
 will rep the Cluster at the SportSG Pesta Sukan in July and August, where
 you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <h3 id="upcoming">Competition Schedule</h3>
-<p>(accurate as of 26 May 2024)</p>
+<p>(accurate as of 4 June 2024)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc02_01_small.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc01_small.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc02_small.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc03.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc03_01.png">
 </div>
 <h3>Competition Results</h3>
 <p>For latest update on the competition results, visit our <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or
@@ -150,7 +149,6 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 <a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
 <h3 id="other">Other Sports</h3>
 <p>Playing in a team for these sport below? Don't wait, sign up now!</p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bowling</p>
@@ -162,15 +160,27 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 <p>Floorball</p>
 </li>
 </ol>
-<p></p>
 <p>If you are interested in these trending sports and would like to get more
 information on the game play, etc, please visit the respective National
 Sports Association (NSA) official websites for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
 <a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
 <p></p>
-<p></p>
 <p>Interested to pick up the new sport? <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Register</a> or
 email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u> </a>.</p>
+<h3>Community Championship 2024 Photography Contest</h3>
+<p>People's Association and SAFRA is pleased to invite interested participants
+to participate in the Community Championship 2024 Photography Contest.
+Community Championship is a national movement to bring people together
+through community sports. Community Championship also aims to provide opportunities
+for residents of all backgrounds to bond together through friendly sports
+competition.</p>
+<p>We are looking for well-taken photographs that captures the essence where
+residents from all walks of life come together to participate together
+with family, friends and neighbours competing or supporting in sport. The
+photography competition is open to all Singapore Citizens and Permanent
+Residents residing in Singapore.</p>
+<p>Check out the <a href="/files/Community_Championship_2024_Photo_Contest_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
+more information!</p>
 <h3 id="register">Registration</h3>
 <p>Keen to take part in Community Championship? Sign up at <a href="https://www.onepa.gov.sg/events/search?events=community%20championship&amp;aoi=&amp;sort=rel" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
 approach your nearest Community Club!</p>
