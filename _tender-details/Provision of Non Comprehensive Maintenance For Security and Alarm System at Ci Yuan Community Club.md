@@ -20,7 +20,6 @@ be considered in the tender evaluation.</p>
 <p>(1) For request of soft copy tender documents, please email to <a rel="noopener noreferrer nofollow" target="_blank">Li_Wenxin@pa.gov.sg</a> and</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">Mohammed.Isnaen@uemsgroup.com</a>
 </p>
-<p></p>
 <p>(2) For request of hard copy tender documents, please collect at Ci Yuan
 Community Club reception counter located at 51 Hougang Avenue 9, Singapore
 538776 during operating hours from 10.00am to 6.00pm daily, except Public
