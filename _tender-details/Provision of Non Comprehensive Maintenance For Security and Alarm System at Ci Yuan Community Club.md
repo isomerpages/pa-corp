@@ -9,7 +9,7 @@ description: ""
 <hr>
 <h4>Details</h4>
 <p>A mandatory Pre-tender briefing will be held on:</p>
-<p>Date: 12 Jun 2024,Wednesday</p>
+<p>Date: 12 Jun 2024, Wednesday</p>
 <p>Time: 2 pm</p>
 <p>Venue: Fire Command Centre (Level 1), Ci Yuan Community Club, 51 Hougang
 Avenue 9, Singapore 538776</p>
@@ -23,7 +23,7 @@ be considered in the tender evaluation.</p>
 <p>(2) For request of hard copy tender documents, please collect at Ci Yuan
 Community Club reception counter located at 51 Hougang Avenue 9, Singapore
 538776 during operating hours from 10.00am to 6.00pm daily, except Public
-Holiday.</p>
+Holidays.</p>
 <hr>
 <h4>For Enquiry</h4>
 <p>For enquiries, please contact Li Wenxin (PA) or Mohd Isnaen (UEMS) at
@@ -32,5 +32,6 @@ Tel: 6387 9012 or email to <a rel="noopener noreferrer nofollow" target="_blank"
 <hr>
 <p><strong>Calling Committee: Ci Yuan CC Facilities Management Committee (FMC)</strong>
 </p>
-<p><strong>Publication Date: 3 Jun 2024</strong>
+<p><strong>Publication Date: 7 Jun 2024</strong>
 </p>
+<p></p>
