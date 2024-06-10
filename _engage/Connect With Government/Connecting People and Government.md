@@ -3,6 +3,7 @@ title: Connecting People and Government
 permalink: /engage/connect-with-government/connecting-people-and-government/
 description: ""
 third_nav_title: Connect With Government
+variant: markdown
 ---
 ![](/images/Engage/connecting%20people%20and%20government%20v2.gif)
 
@@ -18,7 +19,9 @@ Examples of initiatives include Ask Kopi Kakis #shareyourviews which engages cit
 <br>
 <img style="width:600px" align="centre" src="/images/Engage/image%20akk.jpg">
 <br>
-<img style="width:600px" align="centre" src="/images/Engage/sengkang%202.jpg">
+<img style="width:600px" align="centre" src="/images/Engage/Sengkang_01.jpg">
+<br>
+<img style="width:600px" align="centre" src="/images/Engage/Nee_Soon_Grp_Photo_01.jpg">
 <br>
 <img style="width:600px" align="centre" src="/images/Engage/marine%20parade.PNG">
 <br>
