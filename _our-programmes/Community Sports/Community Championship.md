@@ -1,7 +1,7 @@
 ---
 title: Community Championship
 permalink: /our-programmes/community-sports/community-championship/
-variant: markdown
+variant: tiptap
 description: community championships and competitions for various sports by
   People's Assocation
 third_nav_title: Community Sports
@@ -24,22 +24,22 @@ third_nav_title: Community Sports
 <p>Your hood is revving up for some epic sports showdowns! Whether you're
 a die-hard player or a weekend warrior, we want you to rep your local sports
 crews and battle your way to the Pesta Sukan in July and August.</p>
-<p>* <a href="#about" rel="noopener noreferrer nofollow">About Community Championship</a>
+<p>* <a href="#about" rel="noopener noreferrer nofollow" target="_blank">About Community Championship</a>
 </p>
-<p>* <a href="#upcoming" rel="noopener noreferrer nofollow">Upcoming Competitions</a>
+<p>* <a href="#upcoming" rel="noopener noreferrer nofollow" target="_blank">Upcoming Competitions</a>
 </p>
-<p>* <a href="#look" rel="noopener noreferrer nofollow">The 5 Sports to look out for</a>
+<p>* <a href="#look" rel="noopener noreferrer nofollow" target="_blank">The 5 Sports to look out for</a>
 </p>
-<p>* <a href="#other" rel="noopener noreferrer nofollow">Other Sports</a>
+<p>* <a href="#other" rel="noopener noreferrer nofollow" target="_blank">Other Sports</a>
 </p>
-<p>* <a href="#register" rel="noopener noreferrer nofollow">Registration</a>
+<p>* <a href="#register" rel="noopener noreferrer nofollow" target="_blank">Registration</a>
 </p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPACommunitySportsNetwork%2Fvideos%2F1096813594773255%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 </div>
 <p></p>
 <p></p>
-<h3 id="about">About Community Championship</h3>
+<h3>About Community Championship</h3>
 <p>We're all about having a blast and making memories with your fam, buddies,
 and folks in the hood through sports. Whether it's a win or a loss, playing
 together knits us closer as a community.&nbsp;</p>
@@ -50,23 +50,24 @@ These sports are super popular and don't need much gear to dive in.</p>
 own squad, and go head-to-head at the Cluster level.&nbsp; The top crews
 will rep the Cluster at the SportSG Pesta Sukan in July and August, where
 you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
-<h3 id="upcoming">Competition Schedule</h3>
-<p>(accurate as of 4 June 2024)</p>
+<h3>Competition Schedule</h3>
+<p>(accurate as of 11 June 2024)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newcc1_small.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc02_01_small.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newcc2_small.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc01_small.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc03_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newcc3_small.png">
 </div>
 <h3>Competition Results</h3>
 <p>For latest update on the competition results, visit our <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or
 <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook.</a>
 </p>
-<h3 id="look">The 5 Sports to look out for</h3>
+<h3>The 5 Sports to look out for</h3>
 <p>5 sports will be played at the upcoming competitions and the categories
 open for participation at the Cluster-level and at Pesta Sukan are:</p>
 <h4>1. 3v3 Basketball</h4>
@@ -147,7 +148,7 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 (NSAs) here: <a href="https://singaporebadminton.org.sg/" rel="noopener noreferrer nofollow" target="_blank">badminton</a>,
 <a href="https://bas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">basketball</a>, <a href="https://www.fas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">football</a>,
 <a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
-<h3 id="other">Other Sports</h3>
+<h3>Other Sports</h3>
 <p>Playing in a team for these sport below? Don't wait, sign up now!</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -181,7 +182,7 @@ photography competition is open to all Singapore Citizens and Permanent
 Residents residing in Singapore.</p>
 <p>Check out the <a href="/files/Community_Championship_2024_Photo_Contest_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
 more information!</p>
-<h3 id="register">Registration</h3>
+<h3>Registration</h3>
 <p>Keen to take part in Community Championship? Sign up at <a href="https://www.onepa.gov.sg/events/search?events=community%20championship&amp;aoi=&amp;sort=rel" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
 approach your nearest Community Club!</p>
 <p>Check out the <a href="/files/Community_Championship_2024___General_Rules___Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
