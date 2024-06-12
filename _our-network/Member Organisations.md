@@ -2,6 +2,7 @@
 title: Member Organisations
 permalink: /our-network/member-organisations/
 description: ""
+variant: markdown
 ---
 The People’s Association (PA) has 85 Corporate Members that represent various sectors of Singapore society, including academic guilds, cultural and educational organisations, hobby clubs, service organisations, sports and martial arts associations, students’ unions, uniformed organisations, unions, youth organisations and professional bodies.
 
@@ -75,11 +76,11 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Wushu Dragon &amp; Lion Dance Federation](https://wuzong.com/)
 * [Singapore Xiangqi General Association](http://www.xiangqi.sg)
 * [Sports Boules Singapore](https://www.sportsboules.org.sg/)
-* [Volleyball Association of Singapore](https://www.vas.org.sg/)
+* [Volleyball Association of Singapore](https://volleyball.org.sg/)
 
 #### Students' Unions
 
-* [Nanyang Technological University Students' Union](https://www.ntusu.org/)
+* [Nanyang Technological University Students' Union](https://www.ntususg.org/)
 * [National University of Singapore Students' Union](https://nussu.org.sg/)
 * [Ngee Ann Polytechnic Students' Union](https://www.facebook.com/NPstudentsunion)
 * [Singapore Polytechnic Students' Union](https://www.facebook.com/spstudentsunion)
@@ -100,7 +101,7 @@ Here’s a list of our Corporate Members, by different categories:
 * Singapore Malay Teachers' Union
 * [Singapore Middle School Chinese Teachers' Association](https://main.scta.org.sg/)
 * [Singapore Tamil Teacher's Union](https://www.sttu.org.sg/)
-* [Singapore Teachers' Union](https://stu.org.sg/)
+* [Singapore Teachers' Union](https://stu.org.sg)
 
 ##### Youth Organisations
 
@@ -127,4 +128,3 @@ Here’s a list of our Corporate Members, by different categories:
 
 
 [Back to top]()
-

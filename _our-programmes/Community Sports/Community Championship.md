@@ -51,16 +51,17 @@ own squad, and go head-to-head at the Cluster level.&nbsp; The top crews
 will rep the Cluster at the SportSG Pesta Sukan in July and August, where
 you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <h3 id="upcoming">Competition Schedule</h3>
-<p>(accurate as of 4 June 2024)</p>
+<p>(accurate as of 11 June 2024)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newcc1_small.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc02_01_small.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newcc2_small.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc01_small.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc03_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newcc3_small.png">
 </div>
 <h3>Competition Results</h3>
 <p>For latest update on the competition results, visit our <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or
