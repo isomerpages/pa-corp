@@ -30,7 +30,7 @@ dynamic challenges of communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="NACLI 60 Anniversary Logo" src="/images/Our Network/NACLI/NACLI_60___2024.png">
 </div>
-<p>The NALCI 60 logo represents our dedication to fostering inclusivity,
+<p>The NACLI 60 logo represents our dedication to fostering inclusivity,
 innovation, and a future-ready mindset as we prepare ourselves for a more
 dynamic and complex operating environment ahead.</p>
 <p>The continuous circles within the infinity symbol depict the interconnected
