@@ -18,13 +18,13 @@ societal landscape. As NACLI continues to refresh its training courses
 and offer programmes in various modalities, it remains dedicated to shaping
 the future of community leadership through promoting civic participation,
 and fostering a cohesive and inclusive society.</p>
+<p>Join us as we remember our past, celebrate our present, and chart our
+future, celebrating 60 years of community leadership!</p>
 <h4>Redefining Community Leadership for the Future</h4>
 <p>The theme of our 60th anniversary is "Redefining Community Leadership
 for the Future." It encapsulates our commitment to inspire innovative approaches,
 inclusivity, and forward-thinking strategies essential for addressing the
 dynamic challenges of communities.</p>
-<p>Join us as we remember our past, celebrate our present, and chart our
-future, celebrating 60 years of community leadership!</p>
 <h4>NACLI 60 Anniversary Logo</h4>
 <p></p>
 <div class="isomer-image-wrapper">
