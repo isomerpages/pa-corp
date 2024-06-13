@@ -13,10 +13,10 @@ significant milestone in our journey.</p>
 reflecting its evolution and enduring commitment to community leadership.
 From its establishment as the Buona Vista Youth Leadership Training Centre
 in 1964 to its transformation into the National Community Leadership Institute
-(NACLI) in 1995, the institute has continually adapted to the changing
-environment. As NACLI continues to refresh its training courses and offer
-programmes in various modalities, it remains dedicated to shaping the future
-of community leadership.</p>
+(NACLI) in 1995, the institute has continually adapted to the evolving
+societal landscape. As NACLI continues to refresh its training courses
+and offer programmes in various modalities, it remains dedicated to shaping
+the future of community leadership.</p>
 <p>Join us as we remember our past, celebrate our present, and chart our
 future, celebrating 60 years of community leadership!</p>
 <h4>NACLI 60 Anniversary Logo</h4>
