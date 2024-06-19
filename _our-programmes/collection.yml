@@ -2,10 +2,10 @@ collections:
   our-programmes:
     output: true
     order:
+      - PA's Programmes.md
+      - Racial Harmony/.keep
       - Racial Harmony/Racial Harmony Day.md
       - Racial Harmony/Racial Harmony.md
-      - Racial Harmony/.keep
-      - PA's Programmes.md
       - Active Ageing.md
       - CC Courses/.keep
       - CC Courses/Courses.md
@@ -26,8 +26,8 @@ collections:
       - Family Life.md
       - imPAct@Hong Lim Green.md
       - PAssion Card.md
-      - PAssion Wave/50th Anniversary Celebrations.md
       - PAssion Wave/.keep
+      - PAssion Wave/50th Anniversary Celebrations.md
       - PAssion Wave/Details.md
       - PAssion Wave/Locate PW.md
       - Women's Programmes.md
