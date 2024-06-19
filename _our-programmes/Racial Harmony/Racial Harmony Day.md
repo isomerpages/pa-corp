@@ -18,15 +18,15 @@ work towards fostering a sense of togetherness and understanding.</p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="476" width="476" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FKolamAyerCC%2Fvideos%2F1491832674750735%2F&amp;show_text=false&amp;width=476&amp;t=0"></iframe>
 </div>
+<p>Our community activities and programmes serve as common spaces for people
+of different races, languages, religions, and socio-economic backgrounds
+to interact and build relationships.</p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="476" width="476" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpeoplesassociation%2Fvideos%2F3170660816515452%2F&amp;show_text=false&amp;width=476&amp;t=0"></iframe>
 </div>
-<p>Our community activities and programmes serve as common spaces for people
-of different races, languages, religions, and socio-economic backgrounds
-to interact and build relationships. These programmes are organized at
-the local level by grassroots organisations, aimed at raising the level
-of understanding among neighbours of different races, contributing to the
-fabric of Singapore's society.</p>
+<p>These programmes are organized at the local level by grassroots organisations,
+aimed at raising the level of understanding among neighbours of different
+races, contributing to the fabric of Singapore's society.</p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="476" width="476" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpeoplesassociation%2Fvideos%2F272747615690226%2F&amp;show_text=false&amp;width=476&amp;t=0"></iframe>
 </div>
@@ -49,7 +49,8 @@ exciting global cultures.</p>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <p></p>
-<p>Join us in celebrating Racial Harmony Day and be a part of our ongoing
-efforts to promote racial harmony and social cohesion in Singapore.</p>
+<p>Watch this space for events in your community where you can come together
+with your neighbours to celebrate Racial Harmony Day and be a part of our
+ongoing efforts to promote racial harmony and social cohesion in Singapore.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
