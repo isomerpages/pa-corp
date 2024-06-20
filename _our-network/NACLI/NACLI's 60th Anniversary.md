@@ -38,8 +38,12 @@ future, celebrating 60 years of inspiring leaders, serving the community!</p>
 <p></p>
 <p></p>
 <p>Follow us on our socials to keep up to date with our latest news!</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/naclisg"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Facebook Button Logo.png"></a>
-<a class="isomer-image-wrapper" href="https://www.instagram.com/naclisg">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Instagram Logo.png">
-</a>
+<p></p>
+
+
+<a href="https://www.facebook.com/naclisg"><img style="width:48px" align="left" src="/images/Facebook Button Logo.png"></a>
+
+<img style="width:10px" align="left" src="/images/Blank Space.png">
+
+<a href="https://www.instagram.com/naclisg/"> <img style="width:48px" align="left" src="/images/Instagram Logo.png"></a>
 <p></p>
