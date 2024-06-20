@@ -7,24 +7,19 @@ image: /images/Our Network/NACLI/NACLI_60___2024.png
 third_nav_title: NACLI
 ---
 <h4>NACLI celebrates its 60th Anniversary</h4>
-<p>NACLI commemorates our six decades of community leadership, marking a
-significant milestone in our journey.</p>
-<p>NACLI's journey over the past 60 years has been marked by significant
-milestones, reflecting its evolution and enduring commitment to community
-leadership. From its establishment as the Buona Vista Youth Leadership
-Training Centre in 1964 to its transformation into the National Community
-Leadership Institute (NACLI) in 1995, the institute has continually adapted
-to the evolving societal landscape. As NACLI continues to refresh its training
-courses and offer programmes in various modalities, it remains dedicated
-to shaping the future of community leadership through promoting civic participation,
-and fostering a cohesive and inclusive society.</p>
-<p>Join us as we remember our past, celebrate our present, and chart our
-future, celebrating 60 years of community leadership!</p>
-<h4>Redefining Community Leadership for the Future</h4>
-<p>The theme of our 60th anniversary is "Redefining Community Leadership
-for the Future." It encapsulates our commitment to inspire innovative approaches,
-inclusivity, and forward-thinking strategies essential for addressing the
-dynamic challenges of communities.</p>
+<p>NACLI commemorates six decades of community leadership development, marking
+a significant milestone in our journey of developing, aligning and inspiring
+leaders in service of the community.</p>
+<p>From its establishment as the Buona Vista Youth Leadership Training Centre
+in 1964, till its present positioning as the National Community Leadership
+Institute since 1995, the Institute had undergone several name changes;
+reflecting its agility in responding to and anticipating the needs of the
+evolving societal landscape in the past six decades.&nbsp; Today, through
+its relevant, timely and targeted training, NACLI remains committed to
+being at the forefront of community leadership development in support of
+shaping the future of community building.</p>
+<p>NACLI’s 60th anniversary celebration will be commemorated by a conference
+with the theme "Redefining Community Leadership for the Future.</p>
 <h4>NACLI 60 Anniversary Logo</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -38,4 +33,9 @@ and intricate nature of the community, reflecting our commitment to developing
 community leaders who are adept at fostering a cohesive and inclusive society.
 The circles also symbolise the Institute’s journey of continuous growth
 through a cycle of experimentation, adaptation, and learning.</p>
+<p>Join us as we remember our past, celebrate our present, and chart our
+future, celebrating 60 years of inspiring leaders, serving the community!</p>
+<p></p>
+<p></p>
+<p>Follow us on our socials to keep up to date with our latest news!</p>
 <p></p>
