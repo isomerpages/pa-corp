@@ -23,38 +23,6 @@ PACF Fiesta by the SGAG Talents!</p>
 <details class="isomer-details">
 <summary>Community Championship Results</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Results" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">26 May</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Results" src="/images/1_2_June.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">1-2 June</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Results" src="/images/8_June.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">8 June</div>
-</div>
-</div>
-</div>
 <p></p>
 </div>
 </details>
@@ -123,8 +91,44 @@ PACF Fiesta by the SGAG Talents!</p>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<p>Check out the Highlights of PACF Fiesta by the SGAG Talents!</p>
+<p>Check out the <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjM4NjAwODQwMjY5NTYz?igsh=MWdscHM0aGJ5YmIweA==" rel="noopener noreferrer nofollow" target="_blank">Highlights</a> of
+PACF Fiesta by the SGAG Talents!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pacf.png">
 </div>
+<p></p>
+<p>Community Championship Results</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Results" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">26 May</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Results" src="/images/1_2_June.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">1-2 June</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Results" src="/images/8_June.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">8 June</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
