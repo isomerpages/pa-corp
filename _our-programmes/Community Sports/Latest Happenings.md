@@ -28,7 +28,7 @@ PACF Fiesta by the SGAG Talents!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Results" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Results" src="/images/26_MAY_Results.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
