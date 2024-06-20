@@ -22,7 +22,7 @@ PACF Fiesta by the SGAG Talents!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pacf.png">
 </div>
-<p></p>
+<hr>
 <h2>Community Championship Results</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -53,6 +53,16 @@ PACF Fiesta by the SGAG Talents!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">8 June</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="results" src="/images/15_16_June_Results.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">15-16 June</div>
 </div>
 </div>
 </div>
