@@ -3,6 +3,9 @@ collections:
     output: true
     order:
       - PA's Programmes.md
+      - Racial Harmony/.keep
+      - Racial Harmony/Racial Harmony Day.md
+      - Racial Harmony/Racial Harmony.md
       - Active Ageing.md
       - CC Courses/.keep
       - CC Courses/Courses.md
@@ -17,16 +20,16 @@ collections:
       - Community Integration.md
       - Community Sports/.keep
       - Community Sports/Community Championship.md
+      - Community Sports/Latest Happenings.md
       - Community Sports/About Community Sports.md
       - Emergency Preparedness.md
       - Family Life.md
       - imPAct@Hong Lim Green.md
       - PAssion Card.md
-      - PAssion Wave/50th Anniversary Celebrations.md
       - PAssion Wave/.keep
+      - PAssion Wave/50th Anniversary Celebrations.md
       - PAssion Wave/Details.md
       - PAssion Wave/Locate PW.md
-      - Racial Harmony.md
       - Women's Programmes.md
       - Youth.md
       - FutureYOUth/.keep

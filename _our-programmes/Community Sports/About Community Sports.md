@@ -16,20 +16,43 @@ PAssion Community Football.</p>
 as brisk walks, mass swims, sports carnivals, bowling, badminton, football
 and sepak takraw, and in recent years also included disc golf, kin-ball
 and floorball.</p>
-<p>Navigate our page through this list!</p>
-<p>* <a href="#pacf" rel="noopener noreferrer nofollow" target="_blank">PAssion Community Football</a>
-</p>
-<p>* <a href="#trending" rel="noopener noreferrer nofollow" target="_blank">Other Sports</a>
-</p>
-<p>* <a href="#sig" rel="noopener noreferrer nofollow" target="_blank">Sports Interest Groups</a>
-</p>
 <p></p>
 <p>For more information and happenings, visit our <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>. Alternatively, you may email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Community_Sports@pa.gov.sg</a>!</p>
 <p></p>
-<h3>PAssion Community Football</h3>
+<h3>PAssion Community Football (PACF)</h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20sports/commsports-passionfootball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PACF" src="/images/pacf1_small.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">PACF in Action!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PACF" src="/images/pacf3_small.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Minister Edwin Tong Entering the Pitch with the PACF Fiesta players</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PACF" src="/images/pacf4_small.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">POSB Squirrel, Smiley</div>
+</div>
+</div>
 </div>
 <p>Initiated in 2004 by the People’s Association (PA) with support from POSB
 PAssion Kids Fund, the PAssion Community Football (PACF) Programme provides
