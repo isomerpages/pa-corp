@@ -47,7 +47,11 @@ this scale means engendering a sense of ownership amongst residents through
 participation;</p>
 <p><strong>Evaluate</strong>: The ongoing process of constantly taking stock
 and engaging with residents to ensure continual refinement of the hub.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -86,7 +90,7 @@ and engaging with residents to ensure continual refinement of the hub.</p>
 <h3>Eco-sustainability at Our Tampines Hub</h3>
 <p>OTH champions Eco-sustainability and no effort is spared in optimising
 resources and minimising waste.</p>
-<p>Having achieved BCA’s Green Market (Platinum) certification, OTH boasts
+<p>Having achieved BCA’s Green Mark (Platinum) certification, OTH boasts
 a closed loop system of environment solutions and features i.e. solar panels,
 water catchment, storage and filtration equipment, irrigation features,
 green walls, natural ventilation, Electric Car Park and charging stations,
