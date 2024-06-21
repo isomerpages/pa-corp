@@ -1,6 +1,6 @@
 ---
 title: NACLI's 60th Anniversary
-permalink: /nacli-60-anniversary/
+permalink: /our-network/national-community-leadership-institute/nacli-60-anniversary/
 variant: markdown
 description: NACLI's 60th Anniversary Celebration
 image: /images/Our Network/NACLI/NACLI_60___2024.png
