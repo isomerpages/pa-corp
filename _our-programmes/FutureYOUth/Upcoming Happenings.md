@@ -15,7 +15,9 @@ third_nav_title: FutureYOUth
 It doesn’t matter how big or small the act of giving is. If YOUth believe
 and work together, YOUth can create a much brighter and better tomorrow.
 Show YOUth care. Let’s impact lives together. Scan the QR code or click
-the link to be an agent of change with PAYM now! &lt;/p&gt;&lt;/p&gt;</p>
+the below link to be an agent of change with PAYM now!</p>
+<p><a href="https://go.gov.sg/paymcv" rel="noopener noreferrer nofollow" target="_blank">Sign up as PAYM Community Volunteer now!</a>
+</p>
 <p></p>
 <h4><strong>FutureYOUth Roadshow</strong></h4>
 <div class="isomer-image-wrapper">
