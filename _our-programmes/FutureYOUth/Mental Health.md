@@ -10,7 +10,11 @@ third_nav_title: FutureYOUth
 
 <div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Du-FbUXZyh8?si=0xmop4x0TUuVfCQz"></iframe></div><p>Let's paint a brighter future together! Did you know that art isn't just about creativity and self-expression? It's also a powerful tool for nurturing mental well-being and emotional resilience. Dive into the world of art. Let's come together and uplift the energy of arts to support mental health in our community! </p><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/idoIxG2TvFM?si=rTLnnPs0HUJ3At4W"></iframe></div><p>Let's talk about mental health! Friendships are crucial to our mental health, and by working with community partners, we can create a network where youth can support each other through difficult times. Let's empower our youth and work together to create a culture of support and understanding for mental health!</p><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-Q7Wiwa1B7g?si=uhUJs-cdRhxgkSMG"></iframe></div><p>Hear from our volunteers and partners at <a href="https://www.silverribbonsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">Silver Ribbon (Singapore)</a> about their passion for educating the community on mental health issues and looking out for the mental wellbeing of those around you.</p><h4><strong>Kickstarting Conversations on Mental Health</strong></h4><div class="isomer-image-wrapper">        
 
+        
 
+<img height="auto" width="100%" alt="" src="/images/IMG\_7229.jpg"></div><p>Find comfort in your life, positivity at your own pace, and create your own happiness! :) </p><p></p>
+
+<div class="isomer-image-wrapper">
 
 <img height="auto" width="100%" alt="" src="/images/IMG_7226.jpg"></div><p>What else can we do to help someone going through a depressive episode?</p><p></p>
 
