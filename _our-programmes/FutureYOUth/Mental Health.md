@@ -12,7 +12,7 @@ third_nav_title: FutureYOUth
 
         
 
-<img height="auto" width="100%" alt="" src="/images/IMG\_7229.jpg"></div><p>Find comfort in your life, positivity at your own pace, and create your own happiness! :) </p><p></p>
+<img height="auto" width="100%" alt="" src="/images/IMG_7229.jpg"></div><p>Find comfort in your life, positivity at your own pace, and create your own happiness! :) </p><p></p>
 
 <div class="isomer-image-wrapper">
 
