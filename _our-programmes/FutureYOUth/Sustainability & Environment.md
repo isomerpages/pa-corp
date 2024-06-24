@@ -9,7 +9,6 @@ third_nav_title: FutureYOUth
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EnyrEy7HjKg?si=lXpW__0YkG0-X1-W"></iframe>
 </div>
-<p></p>
 <p>Small steps, big impact! Experience the power of community and conservation
 with Kayak 'N' Klean, a great way to connect, conserve and contribute!
 Together, we can protect our waterways, preserve the beauty of our environment
@@ -34,9 +33,9 @@ protecting our Mother Earth and our Future!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7228.jpg">
 </div>
+<p></p>
 <p>Here are five everyday items you use that are contributing to global warming!
 This is something we can be mindful of when going about our day.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7227.jpg">
 </div>
