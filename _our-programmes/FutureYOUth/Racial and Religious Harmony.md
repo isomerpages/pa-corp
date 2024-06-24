@@ -16,11 +16,11 @@ third_nav_title: FutureYOUth
 
 <a></a></div>
 
-Lion and Dragon Dance is more than a celebration of Chinese culture - it’s a powerful cultural art that cultivate teamwork, communication, and unity. In the troupe, individuals of different races and gender move as one, embodying inclusivity and understanding. Racial and Religious Harmony is a living reality within the Lion and Dragon Dance, symbolising our collective strength in embracing different cultures. Join us in celebrating the Lion and Dragon Dance as a testament to the beauty of unity in diversity! <div style="text-align:center;">
+Lion and Dragon Dance is more than a celebration of Chinese culture - it’s a powerful cultural art that cultivate teamwork, communication, and unity. In the troupe, individuals of different races and gender move as one, embodying inclusivity and understanding. Racial and Religious Harmony is a living reality within the Lion and Dragon Dance, symbolising our collective strength in embracing different cultures. Join us in celebrating the Lion and Dragon Dance as a testament to the beauty of unity in diversity! 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ILj0vo6mvm0?si=XIJkDsjhAQM07pDF" height="315" width="560"></iframe>
 
-<a></a></div>
+<a></a>
 
 Celebrating diversity through delicious traditional Malay kuih! See how Nooraishah, a 5th generation hawker brings together the beautify diversity of community through Putu Piring! Let's embrace understanding, respect and harmony as we celebrate racial and religious harmony. Together we can create a tapestry of unity!
 
