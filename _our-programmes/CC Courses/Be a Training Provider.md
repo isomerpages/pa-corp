@@ -12,5 +12,4 @@ The submission of New Trainer/Operator application form has closed on 27 June 20
 
 
 
-For any enquiry, please email to [PA_Talent_Times@pa.gov.sg](mailto:PA_Talent_Times@pa.gov.sg) 
-erms and conditions apply.
+For any enquiry, please email to [PA_Talent_Times@pa.gov.sg]mailto:PA_Talent_Times@pa.gov.sg) 
