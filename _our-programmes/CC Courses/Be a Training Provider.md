@@ -8,9 +8,9 @@ variant: markdown
 ![Uplife Your PAssion to Inspire](/images/Our%20Programmes/web-banner.jpg)
 
 ## **Thank you for your interest to be a PA Training Provider.**
-The willing to help forge meaningful bonds and build lasting friendship amongst participants?
+The submission of New Trainer/Operator application form has closed on 27 June 2024
 
-If you answered yes, join the People's Association (PA) as a Training Provider, and get started on an enriching and fulfilling journey today!
+
 
 ### **General Guidelines to note before submitting an application**
 
