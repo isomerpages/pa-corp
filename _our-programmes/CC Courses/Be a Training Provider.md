@@ -8,7 +8,7 @@ variant: markdown
 ![Uplife Your PAssion to Inspire](/images/Our%20Programmes/web-banner.jpg)
 
 ## **Thank you for your interest to be a PA Training Provider.**
-The submission of New Trainer/Operator application form has closed on 27 June 2024.  More information on the next application window will be available on this page
+The submission of New Trainer/Operator application form has closed on 27 June 2024.  More information on the next application window will be available on this page once ready.
 
 
 
