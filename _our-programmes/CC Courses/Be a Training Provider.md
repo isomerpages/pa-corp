@@ -12,3 +12,4 @@ variant: tiptap
 <p>The submission of New Trainer/Operator application form has closed on
 27 June 2024. More information on the next application window will be available
 on this page once ready.</p>
+<p>For any enquiry, please email to</p>
