@@ -12,13 +12,11 @@ The submission of New Trainer/Operator application form has closed on 27 June 20
 
 
 
-### **General Guidelines to note before submitting an application**
 
-1. Interested applicants must refer to the [Course Subject Listing](https://go.gov.sg/coursesubjectlisting-may2024) to see if the course you intend to teach is listed under the "Accepted" listing before applying.  As some of the courses have an adequate of training provider, we will not be accepting applications for courses not listed in the "Accepted" listing until further notice. We will continue to monitor the demand for all courses, and will accept applications at the next opening window should more training providers be required by then.
 
-2. You may refer to [onePA](https://www.onepa.gov.sg/) to identify the correct category for the courses that you are interested to conduct. 
 
-3. Individual Trainers and Private Operators must register with the People's Association (PA) before conducting courses at Community Centres / Clubs) (CCs), Residents' Committees Centres (RCs)/Residents' Network (RNs) and Specialist CCs (SCCs).
+
+entres (RCs)/Residents' Network (RNs) and Specialist CCs (SCCs).
 
 4. PA Trainers and Private Operators are considered independent service providers and not agents or employees of the Grassroots Organisations.
 
