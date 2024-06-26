@@ -11,26 +11,6 @@ variant: markdown
 The submission of New Trainer/Operator application form has closed on 27 June 2024.  More information on the next application window will be available on this page once ready.
 
 
-
-
-
-
-
-entres (RCs)/Residents' Network (RNs) and Specialist CCs (SCCs).
-
-4. PA Trainers and Private Operators are considered independent service providers and not agents or employees of the Grassroots Organisations.
-
-5. PA Trainers and Private Operators are not guaranteed engagement to conduct courses by the PA, CCs, RCs, RNs and SCCs.  The PA, CCs, RCs, RNs, and SCCs also do not assist in sourcing for potential participants for the courses conducted by the PA Trainers or Operators.  
-
-6. The PA reserves the right to decline any application and the reason(s) for unsuccessful applications will not be disclosed.
- 
-7.   As the PA will be primarily communicating with applicants via emails or SMS, applicants must ensure that the email addresses and mobile numbers provided are accurate.  The PA will not be responsible for any failed communication effort arising from wrong /outdated email address or mobile numbers.
-
-8.   Applicants must satisfy the following requirements:
-
-
-#### a.  General requirements
-
 i. Applicants must be a Singaporean or a Permanent Resident.
 
 ii. Employment Pass/S Pass/Work Permit/Dependent Pass/Long Term Visit Pass holders are required to obtain a Letter of Consent from the Ministry of Manpower (MOM) for seeking part time jobs with payment of allowance.  Applicants who are gainfully employed must obtain a written consent from their employers, though exception could be granted if classes are conducted on a volunteer basis.  Please refer to [Work passes](https://www.mom.gov.sg/passes-and-permits/) for details or email queries to [mom_wpd@mom.gov.sg](mailto:mom_wpd@mom.gov.sg) 
