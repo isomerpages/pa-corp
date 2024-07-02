@@ -47,17 +47,38 @@ YOU!</p>
 <br><strong><a href="https://go.gov.sg/futureyouthpaym" rel="noopener noreferrer nofollow" target="_blank">Share your views and be part of the movement!</a></strong>
 </p>
 <p>Follow us on our socials for updates:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:45px;display:inline-block" height="auto" width="100%" alt="" src="/images/IG.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:45px;display:inline-block" height="auto" width="100%" alt="" src="/images/FB.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/Telegram.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/YouTubeIcon.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
