@@ -8,6 +8,13 @@ third_nav_title: FutureYOUth
 ---
 <h4><strong>Youth-in-Action on Mental Health</strong></h4>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QuVsyPgrqDo?si=z61s3HZOliGHHu-5"></iframe>
+</div>
+<p>Join Singaporean Paralympic Swimmer Theresa Goh as she opens up about
+her mental health journey in the transition from swimming to the working
+world. Her sharing reminds us that mental health is just as important as
+physical health. Let's support each other and prioritise our well-being.</p>
+<div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Du-FbUXZyh8?si=0xmop4x0TUuVfCQz"></iframe>
 </div>
 <p>Let's paint a brighter future together! Did you know that art isn't just
