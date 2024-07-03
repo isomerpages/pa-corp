@@ -56,29 +56,16 @@ YOU!</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:45px;display:inline-block" height="auto" width="100%" alt="" src="/images/IG.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/paym.youths/"><img style="width:45px;display:inline-block" height="auto" width="100%" alt="" src="/images/IG.jpg"></a>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:45px;display:inline-block" height="auto" width="100%" alt="" src="/images/FB.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/PAYMyouths"><img style="width:45px;display:inline-block" height="auto" width="100%" alt="" src="/images/FB.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/Telegram.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/s/PAYMYouthNetwork"><img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/Telegram.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/YouTubeIcon.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.youtube.com/@peoplesassociationyouthmov1856"><img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/YouTubeIcon.png"></a>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
