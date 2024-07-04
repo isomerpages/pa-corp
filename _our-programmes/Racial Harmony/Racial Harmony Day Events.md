@@ -64,13 +64,38 @@ to celebrate Racial Harmony Day in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>20 July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/groups/limbangview/permalink/10160179382801344/?rdid=LDo5yQULyjTwSa8t&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fp%2FXw8q3LqcJqg5dPLa%2F" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony 2024: A Kampong Spirit Fiesta</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Limbang Shopping Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/sembcentral/posts/pfbid034DhHH84qABzCx8wUCdSoP46QqBhFM8DWmesPxu7Krkf7d4jYtsFqEvSk6gTBT4Yil" rel="noopener noreferrer nofollow" target="_blank">Sembawang Central Racial Harmony Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wellington Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02ymJbZcN4dujhnFnJoatiZf2FMhMg57SSihuquyh14tPXT6ipfdy91wjbtzaXLzmnl&amp;id=100064593620152" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Carnival</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woodlands Galaxy CC</p>
 </td>
 </tr>
 </tbody>
