@@ -41,7 +41,7 @@ to ceelbrate Racial Harmony Day in your community!</p>
 <p>14 July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/MacPherson.Spirit/posts/pfbid0uS82ahNapMxLbvqbhgsYKSnup69C5fr97frGupCABgHJufprrm1rapWii4tMVwWBl" rel="noopener noreferrer nofollow" target="_blank">Harmony Extravaganza: A Celebration of Racial Harmony in MacPherson </a>
+<p><a href="https://www.facebook.com/MacPherson.Spirit/posts/pfbid0uS82ahNapMxLbvqbhgsYKSnup69C5fr97frGupCABgHJufprrm1rapWii4tMVwWBl" rel="noopener noreferrer nofollow" target="_blank">Harmony Extravaganza: A Celebration of Racial Harmony in MacPherson</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
