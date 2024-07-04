@@ -19,7 +19,7 @@ its relevant, timely and targeted training, NACLI remains committed to
 being at the forefront of community leadership development in support of
 shaping the future of community building.</p>
 <p>NACLI’s 60th anniversary celebration will be commemorated by a conference
-with the theme "Redefining Community Leadership for the Future.</p>
+with the theme "Redefining Community Leadership for the Future."</p>
 <h4>NACLI 60 Anniversary Logo</h4>
 <p></p>
 <div class="isomer-image-wrapper">
