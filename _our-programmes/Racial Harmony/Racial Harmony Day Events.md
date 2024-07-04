@@ -43,6 +43,18 @@ to celebrate Racial Harmony Day in your community!</p>
 <p>14 July</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/MacPherson.Spirit/posts/pfbid02xocDCijCr9rFaJgYFFbUQ1QUKpEKPCBkprZDGCeJcQhx4eXfcTREeG34vh5AGPP7l" rel="noopener noreferrer nofollow" target="_blank">Harmony Extravaganza: A Celebration of Racial Harmony in MacPherson </a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MacPherson CC Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 July</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.facebook.com/punggolwestcc/posts/pfbid0ECWcWwbnDjYqMmBAsYfGCwrR6kxDRhd9JARCU4p8FdzPzxz4cHnUwrGk6xhFXwqnl" rel="noopener noreferrer nofollow" target="_blank">Punggol West Racial Harmony 2024</a>
 </p>
 </td>
@@ -96,6 +108,66 @@ to celebrate Racial Harmony Day in your community!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Woodlands Galaxy CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/OurAdmiralty/posts/pfbid02db1TRpdAE8tiA6nX62Ef819zhfWGEgjFcRevQ6HjykdvkqAiBoF2EzWRq3zJ6MRJl" rel="noopener noreferrer nofollow" target="_blank">Admiralty YOUnity Harmony Walk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assemble at Masjid Yusof Ishak</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/story.php?story_fbid=1028941005937701&amp;id=100064654330783&amp;rdid=DPWAfQluMILMRbDX" rel="noopener noreferrer nofollow" target="_blank">Yuhua Father's Day and Racial Harmony Day Celebrations </a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hard Court near 347 Jurong East Ave 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/share/pm1YdDRzym5pzFof/?mibextid=QwDbR1" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony &amp; PAssionArt Village Carnival</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hard Court Between Block 353 and 354, Clementi Avenue 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/unityinharmony" rel="noopener noreferrer nofollow" target="_blank">Unity in Harmony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lay CC MPH &amp; Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/OurAdmiralty/posts/pfbid0p9tyCR6XfiHnXomEeYDJBFBNpFCbGf2fbP9iAxxsyRtyr9U9DargbeSsVfTkp6MRl" rel="noopener noreferrer nofollow" target="_blank">North West Brisk Walking 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Northoaks Primary School</p>
 </td>
 </tr>
 </tbody>
