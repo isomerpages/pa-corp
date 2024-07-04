@@ -169,6 +169,20 @@ to celebrate Racial Harmony Day in your community!</p>
 <p>Northoaks Primary School</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/racial-harmony-day-celebration-2024-76559708" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Celebrations at Jalan Besar CC </a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jalan Besar CC</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
+<p><em>Updated on 4 July 2024</em>
+</p>
