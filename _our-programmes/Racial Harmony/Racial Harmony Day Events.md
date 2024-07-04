@@ -6,7 +6,8 @@ description: Racial Harmony Day Events at People's Association
 third_nav_title: Racial Harmony
 ---
 <p>Come together with your neighbours regardless of race, language or religion
-to celebrate Racial Harmony Day in your community!</p>
+to celebrate <a href="https://www.pa.gov.sg/our-programmes/racial-harmony/racial-harmony-day/" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Day</a> in
+your community!</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -174,7 +175,7 @@ to celebrate Racial Harmony Day in your community!</p>
 <p>28 July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/racial-harmony-day-celebration-2024-76559708" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Celebrations at Jalan Besar CC </a>
+<p><a href="https://www.onepa.gov.sg/events/racial-harmony-day-celebration-2024-76559708" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Celebrations at Jalan Besar CC</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,6 +184,7 @@ to celebrate Racial Harmony Day in your community!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><em>Updated on 4 July 2024</em>
+<p>There may be other events in your neighbourhood, keep an eye out on social
+media or check in with your local CC.</p>
+<p><em>(Updated as of 4 July 2024)</em>
 </p>
