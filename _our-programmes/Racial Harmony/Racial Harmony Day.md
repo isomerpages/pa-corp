@@ -49,8 +49,9 @@ exciting global cultures.</p>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <p></p>
-<p>Watch this space for events in your community where you can come together
-with your neighbours to celebrate Racial Harmony Day and be a part of our
-ongoing efforts to promote racial harmony and social cohesion in Singapore.</p>
+<p>Come together with your neighbours to celebrate Racial Harmony Day with
+a line up of <a href="https://www.pa.gov.sg/our-programmes/racial-harmony/racial-harmony-day-events/" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Day events</a> and
+be a part of our ongoing efforts to promote racial harmony and social cohesion
+in Singapore.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
