@@ -34,8 +34,7 @@ to celebrate Racial Harmony Day in your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>888 Plaza</p>
-<p>888 Woodlands Drive 50 Singapore 730888</p>
+<p>888 Plaza, 888 Woodlands Drive 50 Singapore 730888</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +42,7 @@ to celebrate Racial Harmony Day in your community!</p>
 <p>14 July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/MacPherson.Spirit/posts/pfbid02xocDCijCr9rFaJgYFFbUQ1QUKpEKPCBkprZDGCeJcQhx4eXfcTREeG34vh5AGPP7l" rel="noopener noreferrer nofollow" target="_blank">Harmony Extravaganza: A Celebration of Racial Harmony in MacPherson </a>
+<p><a href="https://www.facebook.com/MacPherson.Spirit/posts/pfbid02xocDCijCr9rFaJgYFFbUQ1QUKpEKPCBkprZDGCeJcQhx4eXfcTREeG34vh5AGPP7l" rel="noopener noreferrer nofollow" target="_blank">Harmony Extravaganza: A Celebration of Racial Harmony in MacPherson</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +126,7 @@ to celebrate Racial Harmony Day in your community!</p>
 <p>20 July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/story.php?story_fbid=1028941005937701&amp;id=100064654330783&amp;rdid=DPWAfQluMILMRbDX" rel="noopener noreferrer nofollow" target="_blank">Yuhua Father's Day and Racial Harmony Day Celebrations </a>
+<p><a href="https://www.facebook.com/story.php?story_fbid=1028941005937701&amp;id=100064654330783&amp;rdid=DPWAfQluMILMRbDX" rel="noopener noreferrer nofollow" target="_blank">Yuhua Father's Day and Racial Harmony Day Celebrations</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
