@@ -80,6 +80,18 @@ your community!</p>
 <p>20 July</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://facebook.com/events/s/art-unite-2024-art-exhibition-/1349306476458652/" rel="noopener noreferrer nofollow" target="_blank">Art Unites</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Katong CC MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.onepa.gov.sg/events/punggol-coast-c2e-harmony-circle-racial-harmony-day-celebration-54511377" rel="noopener noreferrer nofollow" target="_blank">Punggol Coast C2E &amp; Harmony Circle - Racial Harmony Day Celebration</a>
 </p>
 </td>
@@ -218,6 +230,18 @@ your community!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jalan Besar CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/28-07-2024-unity-in-diversity-33206345" rel="noopener noreferrer nofollow" target="_blank">Unity in Diversity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hardcourt in front of Keat Hong Shopping Centre</p>
 </td>
 </tr>
 </tbody>
