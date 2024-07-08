@@ -32,6 +32,18 @@ your community!</p>
 <p>7 July</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/share/p/zB9EbPQvvDmpShcg/?" rel="noopener noreferrer nofollow" target="_blank">Interfaith Dialogue Luncheon</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Fullerton Hotel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 July</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.facebook.com/Woodgrove.OurHome/posts/pfbid02qRBB2RGF1ijS9WAGqW6SUfz2aJvL9WXRzJiymmB5N9SpemBPM4p87oSEnBZdBS2Bl" rel="noopener noreferrer nofollow" target="_blank">Woodgrove Racial Harmony Day 2024</a>
 </p>
 </td>
@@ -97,6 +109,31 @@ your community!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wellington Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/ciyuancclub/posts/pfbid02M49T1otYBKkZmgqtou2fD4HbNcU951sQ5o9Sm3N9ttEZWZV8Ly5mdYRzWwf95mk1l" rel="noopener noreferrer nofollow" target="_blank">Ci Yuan Racial Harmony Day 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N6 Marquee
+<br>Next to Blk 686 Hougang Street 61</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/mybuonavista/posts/pfbid0PtqTkevqbSeQ89VZRZZDJLXJw1LGPQSiaNVc37D1KbwZyzyqRAmPdfzLbn53Ssj5l" rel="noopener noreferrer nofollow" target="_blank">Celebrating Diversity: Buona Vista Harmony and Friendship Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buona Vista CC MPH</p>
 </td>
 </tr>
 <tr>
