@@ -248,5 +248,5 @@ your community!</p>
 </table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p><em>(Updated as of 4 July 2024)</em>
+<p><em>(Updated as of 8 July 2024)</em>
 </p>
