@@ -32,8 +32,8 @@ third_nav_title: NACLI
 <p>9:20 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All guests to be seated</p>
-<p><strong><em>*Note: All guest to be seated by 9:20 AM</em></strong>
+<p>All guests to be seated
+<br><strong><em>*Note: All guest to be seated by 9:20 AM</em></strong>
 </p>
 </td>
 </tr>
@@ -42,14 +42,11 @@ third_nav_title: NACLI
 <p>9:30 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arrival of Guest-of-Honour</p>
-<p><em>Mr Edwin Tong</em>
-</p>
-<p><em>Minister for Culture, Community and Youth</em>
-</p>
-<p><em>Second Minister for Law</em>
-</p>
-<p><em>Deputy Chairman of People's Association</em>
+<p>Arrival of Guest-of-Honour
+<br><em>Mr Edwin Tong</em>
+<br><em>Minister for Culture, Community and Youth</em>
+<br><em>Second Minister for Law</em>
+<br><em>Deputy Chairman of People's Association</em>
 </p>
 </td>
 </tr>
@@ -66,12 +63,10 @@ third_nav_title: NACLI
 <p>9:45 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Plenary Session - Better Together, Harness the Power of Communities</p>
-<p><em>Mr Jon Alexander</em>
-</p>
-<p><em>Author of CITIZENS: Why the Key to Fixing Everything Is All of Us</em>
-</p>
-<p><em>Director and Co-Founder of the New Citizenship Project</em>
+<p>Plenary Session - Better Together, Harness the Power of Communities
+<br><em>Mr Jon Alexander</em>
+<br><em>Author of CITIZENS: Why the Key to Fixing Everything Is All of Us</em>
+<br><em>Director and Co-Founder of the New Citizenship Project</em>
 </p>
 </td>
 </tr>
