@@ -9,12 +9,11 @@ third_nav_title: NACLI
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7880f_banner_websitejpg.jpg">
 </div>
-<p>
-<br>Get to experience a transformative journey at the Learning Festival through
+<p>Get to experience a transformative journey at the Learning Festival through
 our specially curated workshops, providing practical insights and strategies
-applicable to the evolving landscape of community leadership.</p>
-<p>Secure your spot now! Click here* to register for the workshops.&nbsp;</p>
-<p><em>*The workshops are opened to all GRLs based on pre-registration basis.&nbsp;</em>
+applicable to the evolving landscape of community leadership.
+<br>Secure your spot now! Click here* to register for the workshops.&nbsp;
+<br><em>*The workshops are opened to all GRLs based on pre-registration basis.&nbsp;</em>
 <br><em>*Each GRL can sign up for a maximum of two workshops.</em>
 <br><em>*Each workshop has 2 slots: 2.00pm to 3.15pm or 3.45pm to 5.00pm</em>
 <br><em>*Availability is on a first-come-first-serve basis.&nbsp;</em>
@@ -45,15 +44,16 @@ applicable to the evolving landscape of community leadership.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>The Three Principles of Facilitator Leadership&nbsp;</strong>
+<p><strong>The Three Principles of Facilitator Leadership</strong>
 <br>
-<br><strong>Facilitator:</strong> Mr Jon Alexander (Keynote Speaker)
-<br><strong>Co-facilitator:</strong> Mr Jon Lim (Vice-Dean (Training), NACLI)
-<br><strong>Venue:</strong> Learning Lounge</p>
-<p></p>
+</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; vertical-align: middle; max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" height="153" width="316" src="https://eventnook.s3.amazonaws.com/e/75472/_3797a_buttons_website2-01png">
 </div>
+<p><strong>Facilitator:</strong> Mr Jon Alexander (Keynote Speaker)
+<br><strong>Co-facilitator:</strong> Mr Jon Lim (Vice-Dean (Training), NACLI)
+<br><strong>Venue:</strong> Learning Lounge</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this workshop, author and community leadership expert Jon Alexander
@@ -69,25 +69,28 @@ in the context of an uncertain but exciting future.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Leading With Dignity: An AI-Powered Practice</strong>
+<p><strong>Dignity - the Foundation of Relationships &amp; Community Engagement </strong>
 <br>
-<br><strong>Facilitator:</strong> Mr Wilson Chan (Managing Director &amp; Principal
-Trainer of Skillseed)
-<br><strong>Venue:</strong> Thinking Terrace 1</p>
-<p></p>
+</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; vertical-align: middle; max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" height="157" width="326" src="https://eventnook.s3.amazonaws.com/e/75472/_e9953_buttons_website2-03png">
 </div>
+<p><strong>Facilitator:</strong> Mr Wilson Chan (Managing Director &amp; Principal
+Trainer of Skillseed)
+<br><strong>Venue:</strong> Thinking Terrace 1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In this workshop, participants will encounter an AI-enabled coach that
-guides them on how to promote stakeholders' dignity in a community setting.
-Through a familiar video-chat format, participants will gain useful feedback
-on whether their facial expressions, voice tone, body language, and words
-make a stakeholder feel dignified or belittled. Participants should be
-prepared to practise dynamically as they journey through a story arc, developing
-an understanding of the conditions that lead to dignity violations and
-how they might promote others’ dignity.</p>
+<p>In this workshop, participants will be introduced to the concept of Dignity,
+emphasising its pivotal role in fostering healthy relationships and inclusive
+societies. The workshop will explore the impact of human interactions on
+the dignity of others, providing practical insights on promoting togetherness
+and mitigating conflict through conscious actions, behaviour, and speech.
+Participants will gain insight into the future of community engagement
+through the introduction of an innovative method for learning about dignity
+using an AI-enabled coach The workshop aims to empower participants with
+the knowledge and tools to actively promote dignity in their personal and
+professional interactions to foster a more harmonious society.</p>
 </td>
 </tr>
 <tr>
@@ -98,13 +101,14 @@ how they might promote others’ dignity.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Exploring Participatory Design for Meaningful Community Engagement</strong>
 <br>
-<br><strong>Facilitator:</strong> Mr Larry Yeung (Executive Director of Participate
-in Design)
-<br><strong>Co-facilitaor:</strong> Mr Ernest Poh (Vice-Dean (Training), NACLI)
-<br><strong>Venue:</strong> Gazebo&nbsp;&nbsp;</p>
+</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; vertical-align: middle; max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" height="154" width="334" src="https://eventnook.s3.amazonaws.com/e/75472/_ce2f2_buttons_website2-04png">
 </div>
+<p><strong>Facilitator:</strong> Mr Larry Yeung (Executive Director of Participate
+in Design)
+<br><strong>Co-facilitator:</strong> Mr Ernest Poh (Vice-Dean (Training), NACLI)
+<br><strong>Venue:</strong> Gazebo&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this workshop, participants will gain a comprehensive understanding
@@ -125,13 +129,14 @@ insights into successful community initiatives.</p>
 <td rowspan="1" colspan="1">
 <p><strong>SG Collective Impact Framework</strong>
 <br>
-<br><strong>Facilitator:</strong> Ms Lim Kar Yee (Senior Director in CDC Planning
-and Development of People's Association)
-<br><strong>Venue:</strong> Thinking Terrace 3</p>
-<p></p>
+</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; vertical-align: middle; max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" height="154" width="341" src="https://eventnook.s3.amazonaws.com/e/75472/_eac8d_buttons_website2-05png">
 </div>
+<p><strong>Facilitator:</strong> Ms Lim Kar Yee (Senior Director in CDC Planning
+and Development of People's Association)
+<br><strong>Venue:</strong> Thinking Terrace 3</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this workshop, participants will develop an understanding of the overarching
