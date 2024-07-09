@@ -99,6 +99,6 @@ third_nav_title: NACLI
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artboard_33_3x.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artboard_34_3x.png">
 </div>
 <p>To learn more about the speakers, click here to view their profile</p>
