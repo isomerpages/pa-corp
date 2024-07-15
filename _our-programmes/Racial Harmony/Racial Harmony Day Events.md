@@ -292,6 +292,21 @@ your community!</p>
 <p>28 July</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Beo Crescent RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/beo-crescent-racial-harmony-day-2024-81353982" rel="noopener noreferrer nofollow" target="_blank">Beo Crescent Racial Harmony Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48A Havelock Road Pavilion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 July</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Jalan Besar CC</p>
 </td>
 <td rowspan="1" colspan="1">
