@@ -32,7 +32,7 @@ your community!</p>
 <p>7 July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/share/p/zB9EbPQvvDmpShcg/?" rel="noopener noreferrer nofollow" target="_blank">Interfaith Dialogue Luncheon</a>
+<p><a href="https://www.facebook.com/share/p/zB9EbPQvvDmpShcg/?" rel="noopener noreferrer nofollow" target="_blank">Queenstown Interfaith Dialogue</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
