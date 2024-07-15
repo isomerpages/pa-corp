@@ -85,9 +85,7 @@ Keep your body and mind&nbsp;fit and fabulous through the â€˜Sports and Fitnessâ
 courses at our CCs now.</p>
 <p>
 <br>Follow PA Courses social media for more updates:
-<br>
-</p>
-<p><a href="https://www.facebook.com/pacourses" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+<br><a href="https://www.facebook.com/pacourses" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
 <br><a href="https://www.instagram.com/pa.courses" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 <br><a href="https://www.youtube.com/channel/UCEW_9QdnGjn_8_xi8yh7PXA" rel="noopener noreferrer nofollow" target="_blank">Youtube</a>
 </p>
