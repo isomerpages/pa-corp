@@ -10,7 +10,7 @@ of our Training Schedule here! Click on the image below to download a copy
 to your devices.</p>
 <h4>Training Schedule</h4>
 <h5>Current Issue (Apr - Sep 2024)<br></h5><a class="isomer-image-wrapper" href="https://go.gov.sg/naclicourses-issue11-apr-sep-2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/issue.png"></a>
-<h5>Immediate Past Issues</h5>
+<h5>Immediate Past Issue</h5>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
