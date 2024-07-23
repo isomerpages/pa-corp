@@ -2,8 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
-      - National Day.md
       - PA's Programmes.md
+      - National Day.md
       - Active Ageing.md
       - CC Courses/.keep
       - CC Courses/Courses.md
