@@ -22,7 +22,7 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Central Singapore NDP Heartlands" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Central Singapore NDP Heartlands" src="/images/Our Programmes/ndp_heartlands_cscdd.png">
 </div>
 </div>
 <div class="isomer-card-body">
