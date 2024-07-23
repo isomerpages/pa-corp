@@ -2,11 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
+      - National Day/National Day.md
+      - National Day/.keep
       - PA's Programmes.md
-      - Racial Harmony/Racial Harmony Day Events.md
-      - Racial Harmony/.keep
-      - Racial Harmony/Racial Harmony Day.md
-      - Racial Harmony/Racial Harmony.md
       - Active Ageing.md
       - CC Courses/.keep
       - CC Courses/Courses.md
@@ -31,6 +29,10 @@ collections:
       - PAssion Wave/50th Anniversary Celebrations.md
       - PAssion Wave/Details.md
       - PAssion Wave/Locate PW.md
+      - Racial Harmony/.keep
+      - Racial Harmony/Racial Harmony Day Events.md
+      - Racial Harmony/Racial Harmony Day.md
+      - Racial Harmony/Racial Harmony.md
       - Women's Programmes.md
       - Youth.md
       - FutureYOUth/.keep
