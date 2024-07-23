@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - National Day/NDP @ Heartlands.md
       - National Day/National Day.md
       - National Day/.keep
       - PA's Programmes.md
