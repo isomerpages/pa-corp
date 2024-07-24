@@ -45,7 +45,7 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="North West NDP Heartlands" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="North West NDP Heartlands" src="/images/Our Programmes/ndp_heartlands_nw.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -56,7 +56,7 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="South East NDP Heartland" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="South East NDP Heartland" src="/images/Our Programmes/ndp_heartlands_secdd_1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -67,7 +67,7 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="South West NDP Heartlands" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="South West NDP Heartlands" src="/images/Our Programmes/ndp_heartlands_swcdd_1.png">
 </div>
 </div>
 <div class="isomer-card-body">
