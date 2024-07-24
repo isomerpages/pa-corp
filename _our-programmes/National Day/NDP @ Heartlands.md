@@ -76,4 +76,4 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 </div>
 </div>
 </div>
-<p></p>
+<p>See you and your family at the Heartland Celebrations!&nbsp;</p>
