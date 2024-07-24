@@ -31,5 +31,5 @@ and future, PA reinforces the strength and unity of our nation, creating
 cherished memories and reaffirming our commitment to building a cohesive
 and inclusive Singapore.</p>
 <p></p>
-<p>Check out the National Day Heartland Celebrations or look out for celebrations
-in your community!</p>
+<p>Check out the <a href="https://www.pa.gov.sg/our-programmes/national-day/ndp-heartlands/" rel="noopener noreferrer nofollow" target="_blank">National Day Heartland Celebrations</a> or
+look out for celebrations in your community!</p>
