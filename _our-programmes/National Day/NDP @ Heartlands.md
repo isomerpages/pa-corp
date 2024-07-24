@@ -27,6 +27,8 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Central Singapore</div>
+<div class="isomer-card-description">Open Field Opposite Bishan Circle Line MRT Station (Exit D) (10 August
+2024, 4pm - 9pm)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -37,6 +39,7 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">North East</div>
+<div class="isomer-card-description">Punggol Open Field beside Waterway Point (10 August 2024, 4pm - 9pm)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -47,6 +50,7 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">North West</div>
+<div class="isomer-card-description">Open Field beside FutsalArena @ Yishun (10 Aguust 2024, 4pm - 9pm)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -57,6 +61,7 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">South East</div>
+<div class="isomer-card-description">Open Field next to Paya Lebar Quarter 1 (10 August 2024, 4pm - 9pm)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -67,6 +72,7 @@ also be able to enjoy fireworks right here in the heartlands!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">South West</div>
+<div class="isomer-card-description">Open Field next to Buona Vista MRT Station (10 August, 4pm - 9pm)</div>
 </div>
 </div>
 </div>
