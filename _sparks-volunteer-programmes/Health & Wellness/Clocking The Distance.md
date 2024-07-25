@@ -7,7 +7,7 @@ third_nav_title: Health & Wellness
 ---
 #### Clocking The Distance
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/clocking%20the%20distance%20canberra.png">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/clocking%20the%20distance%20canberra.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
 			 <td width="60%">
