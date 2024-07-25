@@ -123,9 +123,9 @@ and teach them to use simple musical instruments.</p>
 <td rowspan="1" colspan="1">
 <p>Scan to register</p>
         </td><td width="5%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td><a href="https://go.gov.sg/acethesliverlinings">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/admiralty%20senior%20befriending%20programme%20qr.png"></a><br>
+:
+</td><td><a href="https://go.gov.sg/acethesliverlinings">
+<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/admiralty%20senior%20befriending%20programme%20qr.png"></a><br>
 <p>For mobile user, please click on the QR code to register.</p>
 </td>
 </tr>
