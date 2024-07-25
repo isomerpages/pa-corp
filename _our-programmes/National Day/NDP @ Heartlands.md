@@ -7,8 +7,8 @@ third_nav_title: National Day
 image: /images/Our Programmes/national_day_2023_oth.jpg
 ---
 <h1><strong>National Day Heartland Celebrations</strong></h1>
-<p>Singaporeans can look forward to celebrating National Day at five heartland
-locations on Saturday, 10 August 2024, from 4.00pm to 9.00pm.</p>
+<p>Singaporeans can look forward to celebrating <a href="https://www.pa.gov.sg/our-programmes/national-day/ndp-heartlands/" rel="noopener noreferrer nofollow" target="_blank">National Day</a> at
+five heartland locations on Saturday, 10 August 2024, from 4.00pm to 9.00pm.</p>
 <p>The celebrations are organised by the People’s Association (PA) in partnership
 with the NDP 2024 Executive Committee to bring the festivities and excitement
 of National Day closer to residents, allowing neighbours to celebrate with
