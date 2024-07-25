@@ -13,7 +13,7 @@ variant: markdown
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPARKS@Bukit Canberra/Admiralty Senior Befriending Programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPARKS@Bukit Canberra/admiralty senior befriending programme.jpg">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -126,7 +126,7 @@ and teach them to use simple musical instruments.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPARKS@Bukit Canberra/Admiralty Senior Befriending Programme QR.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPARKS@Bukit%20Canberra/admiralty%20senior%20befriending%20programme%20qr.png">
 </div>
 <p>For mobile user, please click on the QR code to register.</p>
 </td>
