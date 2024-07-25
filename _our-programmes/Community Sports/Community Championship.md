@@ -182,8 +182,8 @@ Residents residing in Singapore.</p>
 <p>Check out the <a href="/files/Safra_Community_Championship_2024_Photo_Contest_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
 more information!</p>
 <h3>Registration</h3>
-<p>Keen to take part in Community Championship? Sign up at <a href="https://www.onepa.gov.sg/events/search?events=community%20championship&amp;aoi=&amp;sort=rel" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
-approach your nearest Community Club! (Closed for Year 2024)</p>
+<p>Keen to take part in Community Championship? Sign up at OnePA or approach
+your nearest Community Club! (Check in next year!)</p>
 <p>Check out <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship" rel="noopener noreferrer nofollow" target="_blank">Pesta Sukan Community Championship page</a> for
 the latest Rules and Regulations!</p>
 <p>If you are not sure which Cluster you belong to, please approach your
