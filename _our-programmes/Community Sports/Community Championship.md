@@ -7,9 +7,6 @@ description: community championships and competitions for various sports by
 third_nav_title: Community Sports
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_Championship_Masthead_02.png">
-</div>
 <h2>Let the Community Championship begin!</h2>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/reel/C4NPVzbynCh/?utm\_source=ig\_embed&amp;utm\_campaign=loading" class="instagram-media">
@@ -51,12 +48,12 @@ own squad, and go head-to-head at the Cluster level.&nbsp; The top crews
 will rep the Cluster at the SportSG Pesta Sukan in July and August, where
 you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <h3>Competition Schedule</h3>
-<p>(accurate as of 20 June 2024)</p>
+<p>(accurate as of 14 July 2024)</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bask_small.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football_small.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bad_small.png">
@@ -151,7 +148,7 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 <a href="https://bas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">basketball</a>, <a href="https://www.fas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">football</a>,
 <a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
 <h3>Other Sports</h3>
-<p>Playing in a team for these sport below? Don't wait, sign up now!</p>
+<p>Playing in a team for these sports below? Don't wait, sign up now!</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bowling</p>
@@ -182,14 +179,13 @@ residents from all walks of life come together to participate together
 with family, friends and neighbours competing or supporting in sport. The
 photography competition is open to all Singapore Citizens and Permanent
 Residents residing in Singapore.</p>
-<p>Check out the <a href="/files/Community_Championship_2024_Photo_Contest_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
+<p>Check out the <a href="/files/Safra_Community_Championship_2024_Photo_Contest_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
 more information!</p>
 <h3>Registration</h3>
-<p>Keen to take part in Community Championship? Sign up at <a href="https://www.onepa.gov.sg/events/search?events=community%20championship&amp;aoi=&amp;sort=rel" rel="noopener noreferrer nofollow" target="_blank">OnePA</a> or
-approach your nearest Community Club!</p>
-<p>Check out the <a href="/files/Community_Championship_2024___General_Rules___Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
-more information!</p>
+<p>Keen to take part in Community Championship? Sign up at OnePA or approach
+your nearest Community Club! (Check in next year!)</p>
+<p>Check out the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship" rel="noopener noreferrer nofollow" target="_blank">Pesta Sukan Community Championship page</a> for
+the latest Rules and Regulations!</p>
 <p>If you are not sure which Cluster you belong to, please approach your
 nearest Community Club for details!</p>
-<p></p>
 <p></p>
