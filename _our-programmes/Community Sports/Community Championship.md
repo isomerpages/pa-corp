@@ -148,7 +148,7 @@ open for participation at the Cluster-level and at Pesta Sukan are:</p>
 <a href="https://bas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">basketball</a>, <a href="https://www.fas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">football</a>,
 <a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">pickleball</a>, and <a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">table tennis</a>.</p>
 <h3>Other Sports</h3>
-<p>Playing in a team for these sport below? Don't wait, sign up now!</p>
+<p>Playing in a team for these sports below? Don't wait, sign up now!</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bowling</p>
@@ -184,7 +184,7 @@ more information!</p>
 <h3>Registration</h3>
 <p>Keen to take part in Community Championship? Sign up at OnePA or approach
 your nearest Community Club! (Check in next year!)</p>
-<p>Check out <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship" rel="noopener noreferrer nofollow" target="_blank">Pesta Sukan Community Championship page</a> for
+<p>Check out the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship" rel="noopener noreferrer nofollow" target="_blank">Pesta Sukan Community Championship page</a> for
 the latest Rules and Regulations!</p>
 <p>If you are not sure which Cluster you belong to, please approach your
 nearest Community Club for details!</p>
