@@ -97,7 +97,7 @@ We are recruiting volunteers to help us plan routes and recommend scenic locatio
 						:
 					</td>
 					<td><a href="https://go.gov.sg/clocking-the-distance-canberra">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/clocking%20the%20distance@canberra%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/clocking%20the%20distance%20canberra%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
