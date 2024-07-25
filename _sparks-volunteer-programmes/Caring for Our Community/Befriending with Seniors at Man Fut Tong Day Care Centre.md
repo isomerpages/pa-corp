@@ -3,119 +3,145 @@ title: Befriending with Seniors at Man Fut Tong Day Care Centre
 permalink: /our-programmes/sparks-volunteer-programmes/befriending-with-seniors-at-man-fut-tong/
 description: ""
 third_nav_title: Caring for Our Community
+variant: tiptap
 ---
-#### Befriending with Seniors at Man Fut Tong Day Care Centre
-
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/befriending%20with%20seniors%20mft.png">
-<table width="100%" border="0">
-	<tbody><tr>
-				<td width="60%">
-			<table width="100%" border="0">
-				<tbody><tr>
-					<td width="20%">
-						Programme Title
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td>
-						Befriending with Seniors at Man Fut Tong Day Care Centre
-					</td>
-				</tr>
-					<tr><td width="20%">
-						Organiser
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td>
-						        Man Fut Tong Nursing Home
-					</td>
-				</tr>
-				<tr>
-					<td width="20%">
-						Commitment
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td width="75%">
-					                The Day Care Centre operating hours are Monday to Friday. <br><br>
-Willing to commit at least once a week / few times in a month.<br><br>
-Minimum 2hrs (per session), 1pm to 3pm<br>
-					</td>
-				</tr>
-				<tr>
-					<td width="20%">
-					 Venue
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td width="75%">
-					            Man Fut Tong Nursing Home <br>
-20 Woodlands Street 82, Singapore 738507
-					</td>
-				</tr>
-				<tr>
-					<td width="20%">
-						Background
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td width="75%">
-						      Man Fut Tong Nursing Home, is a home for the elderly and aged sick.<br><br>     
-We are looking for volunteers who can mingle with the seniors   
-and engage them through activities such as handicraft work, board games, and chit-chat.<br><br> Volunteers will also learn the proper way to assist patients who have difficulties eating on their own with their meals.
-						</td>
-				</tr>
-				<tr>
-					<td width="20%">
-						Min age
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td width="75%">
-						16
-					</td>
-				</tr>
-		<tr>
-					<td width="20%">
-						Skills required
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td>
-						 (1) Proficient in English and at least one other Mother Tongue (preferably Malay, Mandarin or Tamil)<br>
-						(2) Have a keen passion for serving and uplifting the lives of seniors in need<br>
-						(3) Physically fit <br>
-						(4) Patient and understanding<br>
-						(5) Willing to undergo training provided by the centre<br>
-						</td>
-				</tr>
-		<tr>
-					<td width="20%">
-						Scan to register
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td><a href="https://form.gov.sg/6512a760bf26ea00112dbd4b">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/befriending%20with%20seniors%20mft%20qr.png"></a><br>
-					For mobile user, please click on the QR code to register.
-			</td>
-				</tr>
-	</tbody></table>
-
-
+<h4>Admiralty Senior Befriending Programme</h4>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPARKS@Bukit Canberra/Admiralty_Senior_Befriending_Programme.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Programme Title</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admiralty Senior Befriending Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Organiser</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admiralty division &amp; MINDS Me Too! Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Commitment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Willing to commit at least once a month
 <br>
-			<br>
-			<br>
-			<br>
-			
-</td></tr></tbody></table>
-<a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
-	Back to Volunteer Programme Listing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACE THE PLACE CC – 120 Woodlands Avenue 1 S(739069)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Background</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This project is a collaboration between the Admiralty division and the
+MINDS Me Too! Club. It aims to offer a range of leisure befriending activities
+for residents with intellectual disabilities aged 16 and above in the northern
+region. These activities are designed for those who cannot afford the monthly
+school fees or do not find the activities at adult centers engaging.</p>
+<p></p>
+<p>Volunteers will also assist participants in completing their craftwork
+and teach them to use simple musical instruments.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Min age</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skills required</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Patience
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scan to register</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPARKS@Bukit Canberra/Admiralty_Senior_Befriending_Programme_QR.png">
+</div>
+<p>For mobile user, please click on the QR code to register.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/" rel="noopener noreferrer nofollow" target="_blank"> Back to Volunteer Programme Listing</a>
+</p>
