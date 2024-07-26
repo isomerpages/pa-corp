@@ -102,7 +102,10 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 			<td>
 				<a href="/our-programmes/sparks-bukit-canberra/psle-coaching-programme/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/psle%20coaching%20programme%20words.png"></a></td>
-</tr></tbody></table>
+			<td>
+<a href="/our-programmes/sparks-bukit-canberra/homework-clinic/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/homework%20clinic%20words.jpg"></a></td></tr><tr><td>
+	</td></tr></tbody></table>
 
 ### Smart Nation
 
