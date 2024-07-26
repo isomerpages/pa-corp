@@ -11,8 +11,9 @@ variant: tiptap
 <h2><strong>A Rewarding Experience to Bring People Together through PA Courses</strong></h2>
 <p>Beyond sharing knowledge and skills with the community, are you an experienced
 training provider who is able to and/or willing to help forge meaningful
-bonds and build lasting friendships amongst participants? 27 June 2024.
-More information on the next application window will be available on this
-page once ready.</p>
-<p>For any enquiry, please email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
+bonds and build lasting friendships amongst participants?</p>
+<p>If you answered yes, join the People's Association (PA) as a Training
+Provider, and get started on an enriching and deeply fulfilling journey
+today! page once ready.</p>
+<p>ase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
