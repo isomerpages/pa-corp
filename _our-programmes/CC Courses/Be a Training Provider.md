@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Uplife Your PAssion to Inspire" src="/images/Our%20Programmes/web-banner.jpg">
 </div>
-<h2><strong>A Rewarding Experience to Bring PeopleThank you for your interest to be a PA Training Provider.</strong></h2>
+<h2><strong>A Rewarding Experience to Bring People gether through PA Courses hau for your interest to be a PA Training Provider.</strong></h2>
 <p>The submission of New Trainer/Operator application form has closed on
 27 June 2024. More information on the next application window will be available
 on this page once ready.</p>
