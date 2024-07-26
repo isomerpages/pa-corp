@@ -96,8 +96,8 @@ A briefing will be held before each session.
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://go.gov.sg/1tvl8m">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20senior%20befriending%20programme%20qr.png"></a><br>
+					<td><a style="width=60px;height=60px;" href="https://go.gov.sg/>
+						<img src="></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
