@@ -34,5 +34,14 @@ today!</p>
 <p>(g) B-Boy</p>
 <p><u>Sports &amp; Fitness</u>
 </p>
-<p>schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
+<p>(a) Hoop Fitness</p>
+<p>(b) K-Kardio</p>
+<p>(c) Archery Tag</p>
+<p>(d) Laser Tag</p>
+<p>(e) Outdoor Challenge</p>
+<p>(f) Football</p>
+<p>(g) Volleyball</p>
+<p></p>
+<p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
+<p></p>
