@@ -23,7 +23,12 @@ today!</p>
 <p>(c) Hindi Language - Secondary &amp; Post Secondary Tuition</p>
 <p>(d) Acting &amp; Hosting</p>
 <p>(e) Theatre &amp; Playwriting</p>
-<p></p>
-<p></p>
+<p><u>Lifestyle &amp; Leisure</u>
+</p>
+<p>(a) Juice</p>
+<p>(b) Distilled</p>
+<p>(c) IQ games</p>
+<p>(d) Digital Music</p>
+<p>(e)</p>
 <p>schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
