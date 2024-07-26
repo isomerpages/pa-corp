@@ -52,7 +52,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-					  Community Garden and roof top garden at Sembawang GRC
+					     Community Gardens in Sembawang Central
 					</td>
 				</tr>
 				<tr>
@@ -63,8 +63,8 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						Gardens around the estates beautify the environment and allow residents with common interest to have a platform to share gardening skills and bond with each other. Through gardening, we also help the needy families living around the estates by pledging our harvest back to the community, thereby improving the well-being of the residents as the vegetables harvested are all organic and healthy.<br><br>						
-We are looking for volunteers to set up more gardening plots around the estates. We will also be working with schools and stakeholders for the setting up of community gardens. 
+						   Sembawang Central now boasts a total of 11 converted Community Gardens, a part of the division’s initiative to transform feasible carpark rooftops into open and inclusive community spaces.<br><br>						
+   We are seeking passionate volunteers to help manage the Community Gardens in Sembawang Central. 
 					</td>
 				</tr>
 				<tr>
@@ -75,7 +75,7 @@ We are looking for volunteers to set up more gardening plots around the estates.
 						:
 					</td>
 					<td width="75%">
-						15
+						16
 					</td>
 				</tr>
 		<tr>
@@ -86,7 +86,7 @@ We are looking for volunteers to set up more gardening plots around the estates.
 						:
 					</td>
 					<td>
-						NIL
+						   Basic Gardening skills
 			</td>
 				</tr>
 		<tr>
@@ -96,8 +96,8 @@ We are looking for volunteers to set up more gardening plots around the estates.
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/62a079f8a303bc0012b828ed">
-						<img style="width=60px;height=60;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back%20qr.png"></a><br>
+					<td><a href="https://go.gov.sg/4ilmov">
+						<img style="width=60px;height=60;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20community%20garden%20qr.png"></a><br>
 						        For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
