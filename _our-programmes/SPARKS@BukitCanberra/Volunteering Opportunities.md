@@ -34,15 +34,15 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sowers%20event%20ambassadors%20words.png"></a></td><td>
 			<a href="/our-programmes/sparks-bukit-canberra/senior-befriending-programme/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/senior%20befriending%20programme%20words.jpg"></a></td><td>
-			<a href="/our-programmes/sparks-bukit-canberra/befriending-for-vulnerable-seniors/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors%20words.png"></a></td></tr><tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/programme-curator/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/programme%20curator%20words.jpg"></a></td><td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/programme%20curator%20words.jpg"></a></td></tr><tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/kitchen-volunteer/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kitchen%20volunteer%20words.jpg"></a></td><td>
-	<a href="/our-programmes/sparks-volunteer-programmes/comlink-befriending/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/comlink%20befriending%20words.jpg"></a></td></tr><tr><td>
-		<a href="/our-programmes/sparks-bukit-canberra/admiralty-senior-befriending-programme/">	
+			<a href="/our-programmes/sparks-bukit-canberra/comlink-befriending/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/comlink%20befriending%20words.jpg"></a></td><td>
+	<a href="/our-programmes/sparks-bukit-canberra/admiralty-senior-befriending-programme/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/admiralty%20senior%20befriending%20programme%20words.jpg"></a></td></tr><tr><td>
+		<a href="/our-programmes/sparks-bukit-canberra/sembawang-senior-befriending-programme/">	
 			<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/admiralty%20senior%20befriending%20programme%20words.jpg"></a></td>
 	</tr></tbody></table>
 
