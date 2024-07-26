@@ -49,16 +49,16 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 
 ### Going Green Together
 
-<table><tbody>
-<tr><td>
-			<a href="/our-programmes/sparks-bukit-canberra/nature-nurturer-network/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/nature%20nurturer%20network%20words.jpg"></a></td>
-	<td>
+<a href="/our-programmes/sparks-bukit-canberra/nature-nurturer-network/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/nature%20nurturer%20network%20words.jpg"></a><table>
+	<tbody>
+		<tr></tr>
+		<tr>
+			<td>
 	<a href="/our-programmes/sparks-bukit-canberra/project-green-canberra/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/project%20green%20canberra%20words.jpg"></a></td>
-	<td><a href="/our-programmes/sparks-bukit-canberra/sembawang-central-community-garden/"><img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20community%20garden%20words.jpg"></a></td>
-			<td><a href="/our-programmes/sparks-bukit-canberra/art-dream-alive/">
-		</a></td></tr></tbody></table>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/project%20green%20canberra%20words.jpg"></a></td><td>
+	<a href="/our-programmes/sparks-bukit-canberra/sembawang-central-community-garden/"><img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20community%20garden%20words.jpg"></a></td>
+					</tr></tbody></table>
 
 
 
