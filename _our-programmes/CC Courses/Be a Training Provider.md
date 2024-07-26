@@ -29,6 +29,10 @@ today!</p>
 <p>(b) Distilled</p>
 <p>(c) IQ games</p>
 <p>(d) Digital Music</p>
-<p>(e)</p>
+<p>(e) Electone</p>
+<p>(f) Organ</p>
+<p>(g) B-Boy</p>
+<p><u>Sports &amp; Fitness</u>
+</p>
 <p>schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
