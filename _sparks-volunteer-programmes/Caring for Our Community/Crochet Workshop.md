@@ -96,8 +96,8 @@ A briefing will be held before each session.
 					<td width="5%">
 						:
 					</td>
-					<td><a style="width=60px;height=60px;" href="https://go.gov.sg/>
-						<img src="></a><br>
+					<td><a href="">
+							<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/crochet%20workshop%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
