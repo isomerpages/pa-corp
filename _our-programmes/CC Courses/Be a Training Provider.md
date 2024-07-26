@@ -20,6 +20,10 @@ today!</p>
 </p>
 <p>(a) Science - Preschool</p>
 <p>(b) Higher Chinese - Primary Tuition/Secondary &amp; Post Secondary Tuition</p>
+<p>(c) Hindi Language - Secondary &amp; Post Secondary Tuition</p>
+<p>(d) Acting &amp; Hosting</p>
+<p>(e) Theatre &amp; Playwriting</p>
+<p></p>
 <p></p>
 <p>schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
