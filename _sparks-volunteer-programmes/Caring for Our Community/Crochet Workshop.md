@@ -30,7 +30,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						      Woodlands Zone 7 Residents' Network
+						      Woodlands Zone 7 Residents' Network(RN)
 					</td>
 				</tr>
 				<tr>
@@ -52,9 +52,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-					         
-
-Woodlands Zone 7 RN Centre - Blk 611 Woodlands Ring Road #01-211 S(730611)
+					         Woodlands Zone 7 RN Centre - Blk 611 Woodlands Ring Road #01-211, S(730611)
 					</td>
 				</tr>
 				<tr>
@@ -65,9 +63,8 @@ Woodlands Zone 7 RN Centre - Blk 611 Woodlands Ring Road #01-211 S(730611)
 						:
 					</td>
 					<td width="75%">
-Due to the rise in social isolation, our volunteers are actively reaching out to seniors in Sembawang Central to involve them in activities at the RN Centre. This initiative aims to provide seniors with opportunities to make new friends within the community and alleviate social isolation.<br>
-						
-A briefing will be held before each session..
+   We are seeking volunteers who are skilled in crocheting and passionate about sharing their skills with our residents. This provides an opportunity for volunteers to socialize, make friends, and expand their network..<br><br>						
+A briefing will be held before each session.
 					</td>
 				</tr>
 				<tr>
@@ -78,7 +75,7 @@ A briefing will be held before each session..
 						:
 					</td>
 					<td width="75%">
-						14
+						11
 					</td>
 				</tr>
 		<tr>
@@ -89,7 +86,7 @@ A briefing will be held before each session..
 						:
 					</td>
 					<td>
-						   NA
+						      Basic crochet skills
 			</td>
 				</tr>
 		<tr>
