@@ -41,7 +41,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						    Weekly Saturday starting from July 2024, 2.30pm to 5.30pm 
+						       Every Monday from 7.30pm to 9.30pm 
 					</td>
 				</tr>
 				<tr>
@@ -52,7 +52,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-					   SPARKS@Bukit Canberra, 21 Canberra Link S(756973)
+					      Blossom Seeds, Blk 105 Canberra Street, #02-01/06, S(750105)
 					</td>
 				</tr>
 				<tr>
@@ -63,8 +63,8 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						           This programme hopes to provide our students taking their PSLE with a supportive and nurturing environment as they prepare for their major exam.&nbsp;<br><br>
-As a volunteer, you will assist with subject-specific coaching for the students in English, Maths and Science to strengthen their understanding and knowledge.&nbsp; Volunteers will also assist to promote mental well-being through engaging the students with activities and board games.  
+						              Homework Clinic provides lower-income primary school children with the opportunity to get help with their schoolwork. Each tutor will be paired with one or two students.&nbsp;<br><br>
+We are seeking students and PMETs to come together and provide extra tuition to lower-income primary school students every Monday.  
 					</td>
 				</tr>
 				<tr>
@@ -75,7 +75,7 @@ As a volunteer, you will assist with subject-specific coaching for the students 
 						:
 					</td>
 					<td width="75%">
-						18
+						16
 					</td>
 				</tr>
 		<tr>
@@ -86,9 +86,7 @@ As a volunteer, you will assist with subject-specific coaching for the students 
 						:
 					</td>
 					<td>
-						(1) Familiar with current MOE syllables in English, Maths &amp; Science <br>
-(2) Able to commit for 2 months <br>
-(3) Have passion to work with students
+						   Well-versed with Primary School Syllabus 
 			</td>
 				</tr>
 		<tr>
@@ -98,8 +96,8 @@ As a volunteer, you will assist with subject-specific coaching for the students 
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/64ae2f227075fe001126a05f">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/psle%20coaching%20programme%20qr.png"></a><br>
+					<td><a href="https://go.gov.sg/0pty2o">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/homework%20clinic%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
