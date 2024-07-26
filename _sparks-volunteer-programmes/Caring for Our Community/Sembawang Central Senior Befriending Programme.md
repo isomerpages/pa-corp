@@ -7,7 +7,7 @@ third_nav_title: Caring for Our Community
 ---
 #### Sembawang Central Senior Befriending Programme
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors.png">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20senior%20befriending%20programme.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
 					<td width="60%">
@@ -98,7 +98,7 @@ A briefing will be held before each session..
 						:
 					</td>
 					<td><a href="https://go.gov.sg/1tvl8m">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20senior%20befriending%20qr.png"></a><br>
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20senior%20befriending%20programme%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
