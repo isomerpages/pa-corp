@@ -46,8 +46,8 @@ today!</p>
 Listing to see if the course you intend to teach is listed under the “Accepted”
 listing before applying.&nbsp; As some courses have an adequate supply
 of training providers, we will not be accepting applications for courses
-not listed in the ‘Accepted” listing until&nbsp; further notice.&nbsp;
-We will continue to monitor the demand for these courses, and will accept
+not listed in the ‘Accepted” listing until&nbsp;further notice.&nbsp; We
+will continue to monitor the demand for these courses, and will accept
 applications at the next opening window should more training providers
 required by then.&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp; You may refer to <a href="https://www.onepa.gov.sg/courses" rel="noopener noreferrer nofollow" target="_blank">onePA</a> to identify the correct
