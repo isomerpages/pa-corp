@@ -11,7 +11,8 @@ third_nav_title: Caring for Our Community
 <table width="100%" border="0">
 	<tbody><tr>
 					<td width="60%">
-			<table width="100%" border="0">
+			<a href="https://go.gov.sg/wlcrochet">
+							<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/crochet%20workshop%20qr.png"></a><br><table width="100%" border="0">
 				<tbody><tr>
 					<td width="20%">
 						Programme Title
@@ -96,12 +97,11 @@ A briefing will be held before each session.
 					<td width="5%">
 						:
 					</td>
-					<td><a href="">
-							<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/crochet%20workshop%20qr.png"></a><br>
-						For mobile user, please click on the QR code to register.
-			</td>
+					
 				</tr>
 </tbody></table>
+						For mobile user, please click on the QR code to register.
+			
 
 
 <br>
