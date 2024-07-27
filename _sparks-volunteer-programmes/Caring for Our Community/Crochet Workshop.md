@@ -63,8 +63,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-Due to the rise in social isolation, our volunteers are actively reaching out to seniors in Sembawang Central to involve them in activities at the RN Centre. This initiative aims to provide seniors with opportunities to make new friends within the community and alleviate social isolation.<br>
-						
+   We are seeking volunteers who are skilled in crocheting and passionate about sharing their skills with our residents. This provides an opportunity for volunteers to socialize, make friends, and expand their network.<br><br>						
 A briefing will be held before each session..
 					</td>
 				</tr>
@@ -76,7 +75,7 @@ A briefing will be held before each session..
 						:
 					</td>
 					<td width="75%">
-						14
+						11
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +86,7 @@ A briefing will be held before each session..
 						:
 					</td>
 					<td>
-						   NA
+						      Basic crochet skills
 			</td>
 				</tr>
 		<tr>
@@ -97,8 +96,8 @@ A briefing will be held before each session..
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://go.gov.sg/1tvl8m">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20senior%20befriending%20programme%20qr.png"></a><br>
+					<td><a href="https://go.gov.sg/wlcrochet">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/crochet%20workshop%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
