@@ -50,6 +50,9 @@ not listed in the ‘Accepted” listing until&nbsp; further notice.&nbsp;
 We will continue to monitor the demand for these courses, and will accept
 applications at the next opening window should more training providers
 required by then.&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp; You may refer to <a href="https://www.onepa.gov.sg/courses" rel="noopener noreferrer nofollow" target="_blank">onePA</a> to identify the correct
+category for the course that you are interested to conduct. &nbsp;</p>
+<p></p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
