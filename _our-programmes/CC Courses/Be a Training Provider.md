@@ -41,6 +41,15 @@ today!</p>
 <p>(e) Outdoor Challenge</p>
 <p>(f) Football</p>
 <p>(g) Volleyball</p>
+<h2><strong>General Guidelines to note before applying as a PA Training Provider !</strong></h2>
+<p>1.&nbsp;&nbsp;&nbsp; Interested applicants must refer to the Course Subject
+Listing to see if the course you intend to teach is listed under the “Accepted”
+listing before applying.&nbsp; As some courses have an adequate supply
+of training providers, we will not be accepting applications for courses
+not listed in the ‘Accepted” listing until&nbsp; further notice.&nbsp;
+We will continue to monitor the demand for these courses, and will accept
+applications at the next opening window should more training providers
+required by then.&nbsp;</p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
