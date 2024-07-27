@@ -11,8 +11,7 @@ third_nav_title: Caring for Our Community
 <table width="100%" border="0">
 	<tbody><tr>
 					<td width="60%">
-			<a href="https://go.gov.sg/wlcrochet">
-							<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/crochet%20workshop%20qr.png"></a><br><table width="100%" border="0">
+			<table width="100%" border="0">
 				<tbody><tr>
 					<td width="20%">
 						Programme Title
@@ -31,7 +30,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						      Woodlands Zone 7 Residents' Network(RN)
+						      Woodlands Zone 7 Residents' Network (RN)
 					</td>
 				</tr>
 				<tr>
@@ -64,8 +63,9 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-   We are seeking volunteers who are skilled in crocheting and passionate about sharing their skills with our residents. This provides an opportunity for volunteers to socialize, make friends, and expand their network..<br><br>						
-A briefing will be held before each session.
+Due to the rise in social isolation, our volunteers are actively reaching out to seniors in Sembawang Central to involve them in activities at the RN Centre. This initiative aims to provide seniors with opportunities to make new friends within the community and alleviate social isolation.<br>
+						
+A briefing will be held before each session..
 					</td>
 				</tr>
 				<tr>
@@ -76,7 +76,7 @@ A briefing will be held before each session.
 						:
 					</td>
 					<td width="75%">
-						11
+						14
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +87,7 @@ A briefing will be held before each session.
 						:
 					</td>
 					<td>
-						      Basic crochet skills
+						   NA
 			</td>
 				</tr>
 		<tr>
@@ -97,11 +97,119 @@ A briefing will be held before each session.
 					<td width="5%">
 						:
 					</td>
-					
+					<td><a href="https://go.gov.sg/1tvl8m">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20senior%20befriending%20programme%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
+			</td>
 				</tr>
 </tbody></table>
-						For mobile user, please click on the QR code to register.
+
+
+<br>
+			<br>
+			<br>
+			<br>
 			
+</td></tr></tbody></table>
+<a href="/our-programmes/sparks-bukit-canberra/volunteering-opportunities/">
+	Back to Volunteer Programme Listing</a>#### Sembawang Central Senior Befriending Programme
+
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20senior%20befriending%20programme.jpg">
+<table width="100%" border="0">
+	<tbody><tr>
+					<td width="60%">
+			<table width="100%" border="0">
+				<tbody><tr>
+					<td width="20%">
+						Programme Title
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td>
+						Sembawang Central Senior Befriending Programme 
+					</td>
+				</tr>
+					<tr><td width="20%">
+						Organiser
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td>
+						   Sembawang Central Divsion
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+						Commitment
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td width="75%">
+						      Once every week
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+					 Venue
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td width="75%">
+					      Various RN centres in Sembawang Central
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+						Background
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td width="75%">
+Due to the rise in social isolation, our volunteers are actively reaching out to seniors in Sembawang Central to involve them in activities at the RN Centre. This initiative aims to provide seniors with opportunities to make new friends within the community and alleviate social isolation.<br>
+						
+A briefing will be held before each session..
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+						Min age
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td width="75%">
+						14
+					</td>
+				</tr>
+		<tr>
+					<td width="20%">
+						Skills required
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td>
+						   NA
+			</td>
+				</tr>
+		<tr>
+					<td width="20%">
+						Scan to register
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td><a href="https://go.gov.sg/1tvl8m">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/sembawang%20central%20senior%20befriending%20programme%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
+			</td>
+				</tr>
+</tbody></table>
 
 
 <br>
