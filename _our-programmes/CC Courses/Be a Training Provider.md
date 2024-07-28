@@ -88,7 +88,9 @@ details or email queries to <a href="mailto:mom_wpd@mom.gov.sg" rel="noopener no
 <p>(i)&nbsp;&nbsp;Applicants must possess the relevant professional qualifications
 and have sufficient experiences teaching the subject proposed.&nbsp; These
 qualifications must be submitted to the PA for assessment.&nbsp; &nbsp;</p>
-<p></p>
+<p>(ii)&nbsp;&nbsp;Applicants who wish to teach Sports &amp; Fitness subjects
+must possess a valid Standard First Aid and Hands-On CPR and AED certificates
+with at least 1 year validity at point of application.</p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
