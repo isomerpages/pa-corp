@@ -113,6 +113,6 @@ applying.</p>
 </p>
 </li>
 </ul>
-<p>((schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
+<p>For further enquiries and assistance, please email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
 <p></p>
