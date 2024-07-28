@@ -42,13 +42,13 @@ today!</p>
 <p>(f) Football</p>
 <p>(g) Volleyball</p>
 <h2><strong>General Guidelines to note before applying as a PA Training Provider !</strong></h2>
-<p>1.&nbsp;&nbsp;&nbsp; Interested applicants must refer to the to see if
-the course you intend to teach is listed under the “Accepted” listing before
-applying.&nbsp; As some courses have an adequate supply of training providers,
-we will not be accepting applications for courses not listed in the ‘Accepted”
-listing until&nbsp;further notice.&nbsp; We will continue to monitor the
-demand for these courses, and will accept applications at the next opening
-window should more training providers required by then.&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp; Interested applicants must refer to the <a href="https://go.gov.sg/subjectaug24" rel="noopener noreferrer nofollow" target="_blank">Course Subject Listing </a>to
+see if the course you intend to teach is listed under the “Accepted” listing
+before applying.&nbsp; As some courses have an adequate supply of training
+providers, we will not be accepting applications for courses not listed
+in the ‘Accepted” listing until&nbsp;further notice.&nbsp; We will continue
+to monitor the demand for these courses, and will accept applications at
+the next opening window should more training providers required by then.&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp; You may refer to <a href="https://www.onepa.gov.sg/courses" rel="noopener noreferrer nofollow" target="_blank">onePA</a> to identify the correct
 category for the course that you are interested to conduct. &nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp; Individual Trainers and Private Operators must register
@@ -58,4 +58,5 @@ Centres / Clubs (CCs), Residents’ Committee Centres (RCs)/Residents’ Network
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
-<p></p>
+<p><a href="https://go.gov.sg/subjectaug24" rel="noopener noreferrer nofollow" target="_blank">Course Subject Listing</a>
+</p>
