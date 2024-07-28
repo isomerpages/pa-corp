@@ -96,8 +96,9 @@ must be a registered member (full membership, not provisional) of the SportSG's
 National Registry of Exercise Professionals (NREP). For more details on
 NREP, please refer to <a href="https://www.activesgcircle.gov.sg/nrep/exercise-professionals" rel="noopener noreferrer nofollow" target="_blank">https://www.activesgcircle.gov.sg/nrep/exercise-professionals.</a>
 </p>
+<p>(iv) Applicants who wish to teach Beverages subjects must possess a valid
+Food &amp; Hygiene certificate.</p>
 <p></p>
-<p></p>
-<p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
+<p>((schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
 <p></p>
