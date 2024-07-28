@@ -85,7 +85,7 @@ are on volunteer service. &nbsp;Please refer to <a href="https://www.mom.gov.sg/
 details or email queries to <a href="mailto:mom_wpd@mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mom_wpd@mom.gov.sg</a>.</p>
 <p>(b)&nbsp; <u>Qualifications</u>
 </p>
-<p>(i)&nbsp;&nbsp;Applicants must possess the relevant professional qualifications
+<p>(i)&nbsp;Applicants must possess the relevant professional qualifications
 and have sufficient experiences teaching the subject proposed.&nbsp; These
 qualifications must be submitted to the PA for assessment.&nbsp; &nbsp;</p>
 <p>(ii)&nbsp;Applicants who wish to teach Sports &amp; Fitness subjects must
