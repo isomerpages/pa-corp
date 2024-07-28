@@ -71,6 +71,8 @@ applicants via email or SMS, applicants must ensure that the email addresses
 and mobile numbers provided are accurate. &nbsp;The PA will not be responsible
 for any failed communication effort arising from wrong or out-dated email
 address or handphone numbers.&nbsp;</p>
+<p>8.&nbsp;&nbsp;&nbsp; Applicants must satisfy the following requirements:
+&nbsp;&nbsp;</p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
