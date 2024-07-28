@@ -93,8 +93,8 @@ possess a valid Standard First Aid and Hands-On CPR and AED certificates
 with at least 1 year validity at point of application.</p>
 <p>(iii) Applicants who wish to teach Fitness subjects such as Hoop Fitness
 must be a registered member (full membership, not provisional) of the SportSG's
-National Registry <a rel="noopener noreferrer nofollow" target="_blank">SportSG’s National Registry of Exercise Professionals</a>(NREP).
-For more details on NREP, please refer to</p>
+National Registry of Exercise Professionals (NREP). For more details on
+NREP, please refer to</p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
 <p><a href="https://go.gov.sg/subjectaug24" rel="noopener noreferrer nofollow" target="_blank">Course Subject Listing</a>Applicants
