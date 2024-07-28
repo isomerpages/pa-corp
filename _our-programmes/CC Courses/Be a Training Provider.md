@@ -99,6 +99,7 @@ NREP, please refer to <a href="https://www.activesgcircle.gov.sg/nrep/exercise-p
 <p>(iv) Applicants who wish to teach Beverages subjects must possess a valid
 Food &amp; Hygiene certificate.</p>
 <p></p>
+<h2><strong>Apply to be a PA Training Provider today!</strong></h2>
 <p>((schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
 <p></p>
