@@ -77,6 +77,13 @@ address or handphone numbers.&nbsp;</p>
 </p>
 <p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Applicants must be Singaporean or Permanent Resident.</p>
+<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Employment Pass/S Pass/ Work Permit/ Dependent Pass/Long Term Visit Pass
+holder are required to obtain a Letter of Consent from Ministry of Manpower
+(MOM) for seeking part time jobs with payment of allowance. &nbsp;Applicants
+who are gainfully employed, must obtain a written consent from their employers,&nbsp;
+exception could be granted if the classes conducted are on volunteer service.
+&nbsp;Please refer to for more details or email queries to <a rel="noopener noreferrer nofollow" target="_blank">mom_wpd@mom.gov.sg</a>.</p>
 <p></p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
