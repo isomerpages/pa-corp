@@ -58,6 +58,11 @@ Centres / Clubs (CCs), Residents’ Committee Centres (RCs)/Residents’ Network
 <p>4.&nbsp;&nbsp;&nbsp; PA Trainers and Private Operators are considered
 independent service providers and not agents or employees of the PA or
 the Grassroots Organisations.&nbsp;</p>
+<p>5.&nbsp;&nbsp;&nbsp; PA Trainers and Private Operators are not guaranteed
+engagement to conduct courses by the PA, CCs, RCs, RNs and SCCs.&nbsp;
+The PA, CCs, RCs, RNs and SCCs also do not assist in sourcing for potential
+participants for the courses by the PA Trainers and Private Operators.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
