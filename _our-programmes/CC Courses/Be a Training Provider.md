@@ -103,7 +103,16 @@ Food &amp; Hygiene certificate.</p>
 <p>We are accepting applications from now till 31 August 2024.&nbsp; Applicants
 are strongly advised to read the general guidelines as listed above before
 applying.</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To apply as an individual Trainer, please click <a href="https://form.gov.sg/admin/form/5d774ecac36c6500121c3468" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+</li>
+<li>
+<p>To apply as an Operator, please click <a href="https://form.gov.sg/admin/form/5d774ecac36c6500121c3468" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+</li>
+</ul>
 <p>((schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
 <p></p>
