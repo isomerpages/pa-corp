@@ -82,7 +82,12 @@ of Manpower (MOM) for seeking part time jobs with payment of allowance.
 &nbsp;Applicants who are gainfully employed, must obtain a written consent
 from their employers,&nbsp;exception could be granted if the classes conducted
 are on volunteer service. &nbsp;Please refer to <a href="https://www.mom.gov.sg/passes-and-permits/" rel="noopener noreferrer nofollow" target="_blank">Work passes </a>for more
-details or email queries to <a rel="noopener noreferrer nofollow" target="_blank">mom_wpd@mom.gov.sg</a>.</p>
+details or email queries to <a href="mailto:mom_wpd@mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mom_wpd@mom.gov.sg</a>.</p>
+<p>(b)&nbsp; <u>Qualifications</u>
+</p>
+<p>(i)&nbsp;&nbsp;Applicants must possess the relevant professional qualifications
+and have sufficient experiences teaching the subject proposed.&nbsp; These
+qualifications must be submitted to the PA for assessment.&nbsp; &nbsp;</p>
 <p></p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
