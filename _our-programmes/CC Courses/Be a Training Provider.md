@@ -63,6 +63,9 @@ engagement to conduct courses by the PA, CCs, RCs, RNs and SCCs.&nbsp;
 The PA, CCs, RCs, RNs and SCCs also do not assist in sourcing for potential
 participants for the courses by the PA Trainers and Private Operators.&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>6.&nbsp;&nbsp;&nbsp; The PA reserves the right to decline any application
+and the reason(s) for unsuccessful applications will not be disclosed.&nbsp;
+&nbsp;</p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
