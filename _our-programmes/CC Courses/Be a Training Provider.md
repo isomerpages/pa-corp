@@ -94,10 +94,10 @@ with at least 1 year validity at point of application.</p>
 <p>(iii) Applicants who wish to teach Fitness subjects such as Hoop Fitness
 must be a registered member (full membership, not provisional) of the SportSG's
 National Registry of Exercise Professionals (NREP). For more details on
-NREP, please refer to</p>
+NREP, please refer to <a href="https://www.activesgcircle.gov.sg/nrep/exercise-professionals" rel="noopener noreferrer nofollow" target="_blank">https://www.activesgcircle.gov.sg/nrep/exercise-professionals.</a>
+</p>
+<p></p>
+<p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
-<p><a href="https://go.gov.sg/subjectaug24" rel="noopener noreferrer nofollow" target="_blank">Course Subject Listing</a>Applicants
-who wish to teach Fitness subjects such as Hoop Fitness must be a registered
-member (full membership, not provisional) of the <a rel="noopener noreferrer nofollow" target="_blank">SportSG’s National Registry of Exercise Professionals </a>(NREP).
-For more details on NREP, please refer to</p>
+<p></p>
