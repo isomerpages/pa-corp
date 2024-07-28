@@ -75,6 +75,8 @@ address or handphone numbers.&nbsp;</p>
 &nbsp;&nbsp;</p>
 <p>(a)&nbsp; <u>General requirements</u>
 </p>
+<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants must be Singaporean or Permanent Resident.</p>
 <p></p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
