@@ -66,6 +66,11 @@ participants for the courses by the PA Trainers and Private Operators.&nbsp;
 <p>6.&nbsp;&nbsp;&nbsp; The PA reserves the right to decline any application
 and the reason(s) for unsuccessful applications will not be disclosed.&nbsp;
 &nbsp;</p>
+<p>7.&nbsp;&nbsp;&nbsp; As the PA will be primarily communicating with the
+applicants via email or SMS, applicants must ensure that the email addresses
+and mobile numbers provided are accurate. &nbsp;The PA will not be responsible
+for any failed communication effort arising from wrong or out-dated email
+address or handphone numbers.&nbsp;</p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
