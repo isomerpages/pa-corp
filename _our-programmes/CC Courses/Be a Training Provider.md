@@ -49,12 +49,15 @@ providers, we will not be accepting applications for courses not listed
 in the ‘Accepted” listing until&nbsp;further notice.&nbsp; We will continue
 to monitor the demand for these courses, and will accept applications at
 the next opening window should more training providers required by then.&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp; You may refer to <a href="https://www.onepa.gov.sg/courses" rel="noopener noreferrer nofollow" target="_blank">onePA</a> to identify the correct
-category for the course that you are interested to conduct. &nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp; You may refer to <a href="https://www.onepa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">onePA</a> to identify the correct category
+for the course that you are interested to conduct. &nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp; Individual Trainers and Private Operators must register
 with the People’s Association (PA) before conducting courses at Community
 Centres / Clubs (CCs), Residents’ Committee Centres (RCs)/Residents’ Network
 (RN) and Specialist CCs (SCCs).&nbsp;</p>
+<p>4.&nbsp;&nbsp;&nbsp; PA Trainers and Private Operators are considered
+independent service providers and not agents or employees of the PA or
+the Grassroots Organisations.&nbsp;</p>
 <p></p>
 <p>(schoolase email to <a href="mailto:PA_Talent_Times@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Talent_Times@pa.gov.sg</a>
 </p>
