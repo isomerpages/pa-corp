@@ -14,10 +14,10 @@ with the NDP 2024 Executive Committee to bring the festivities and excitement
 of National Day closer to residents, allowing neighbours to celebrate with
 our nation together.&nbsp;</p>
 <p>Each district will have its own unique theme and will feature static displays
-of SAF,<s> </s>SPF and SCDF vehicles, family-friendly activities, exciting
-carnival games, hands-on workshops, a drone show, and captivating live
-stage performances to engage Singaporeans of all ages. Participants will
-also be able to enjoy fireworks right here in the heartlands!</p>
+of SAF, SPF and SCDF vehicles, family-friendly activities, exciting carnival
+games, hands-on workshops, a drone show, and captivating live stage performances
+to engage Singaporeans of all ages. Participants will also be able to enjoy
+fireworks right here in the heartlands!</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
