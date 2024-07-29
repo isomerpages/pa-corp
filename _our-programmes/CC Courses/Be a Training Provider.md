@@ -42,7 +42,7 @@ today!</p>
 <p>(f) Football</p>
 <p>(g) Volleyball</p>
 <h2><strong>General Guidelines to note before applying as a PA Training Provider !</strong></h2>
-<p>1.&nbsp;&nbsp;&nbsp; Interested applicants must refer to the <a href="https://go.gov.sg/subjectaug24" rel="noopener noreferrer nofollow" target="_blank">Course Subject Listing </a>to
+<p>1.&nbsp;&nbsp;&nbsp; Interested applicants must refer to the <a href="https://go.gov.sg/subjectaug24" rel="noopener noreferrer nofollow" target="_blank">Course Subject Listing<u> </u></a>to
 see if the course you intend to teach is listed under the “Accepted” listing
 before applying.&nbsp; As some courses have an adequate supply of training
 providers, we will not be accepting applications for courses not listed
@@ -105,7 +105,7 @@ are strongly advised to read the general guidelines as listed above before
 applying.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To apply as an individual Trainer, please click <a href="https://form.gov.sg/admin/form/5d774ecac36c6500121c3468" rel="noopener noreferrer nofollow" target="_blank">link</a>
+<p>To apply as an individual Trainer, please click <a href="https://form.gov.sg/66a1a3414396ae9bc1a025f9" rel="noopener noreferrer nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
