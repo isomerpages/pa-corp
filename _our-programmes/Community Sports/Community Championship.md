@@ -50,10 +50,12 @@ you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <h3>Competition Schedule</h3>
 <p>(accurate as at 30 July 2024)</p>
 <p>Finals happening on 4 August 2024 at Singapore Sports Hub!</p>
-<p>Past Competitions</p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Finals_Schedule.png">
+</div>
+<p><u>Past Competitions</u>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/football_small.png">
 </div>
