@@ -1,16 +1,17 @@
 ---
-title: Silver Infocomm Wellness Ambassador
-permalink: /our-programmes/sparks-bukit-canberra/silver-infocomm-wellness-ambassador/
+title: Clocking The Distance
+permalink: /our-programmes/sparks-bukit-canberra/clocking-the-distance/
+variant: markdown
 description: ""
-third_nav_title: Smart Nation
+third_nav_title: Health & Wellness
 ---
-#### Silver Infocomm Wellness Ambassador
+#### Clocking The Distance
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador.jpg">
-<table border="0" width="100%">
-	<tbody><tr>						
-		<td width="60%">
-			<table border="0" width="100%">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/clocking%20the%20distance%20canberra.jpg">
+<table width="100%" border="0">
+	<tbody><tr>
+			 <td width="60%">
+			<table width="100%" border="0">
 				<tbody><tr>
 					<td width="20%">
 						Programme Title
@@ -19,7 +20,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td>
-						Silver Infocomm Wellness Ambassador 
+						Clocking The Distance 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -29,7 +30,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td>
-						Infocomm Media Development Authority (IMDA)
+						Canberra Division
 					</td>
 				</tr>
 				<tr>
@@ -40,7 +41,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						   Every third Thursday of the month, 10am to 11.30am
+						   Last Friday of the month , 7.30pm
 					</td>
 				</tr>
 				<tr>
@@ -51,8 +52,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-					  SPARKS@Bukit Canberra<br><br>
-21 Canberra Link #01-63 Singapore 756973
+					   Canberra Community Club - 2 Sembawang Crescent #01-01, S(757632)
 					</td>
 				</tr>
 				<tr>
@@ -63,7 +63,8 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						We are looking for volunteers to be Silver Infocomm Wellness Ambassadors to teach digital skills to residents who are 40 years and above.  
+						Join Clocking the Distance @ Canberra, an exhilarating program designed for adventurous individuals who enjoy long-distance walks amidst Canberra’s serene landscapes.
+We are recruiting volunteers to help us plan routes and recommend scenic locations, ensuring each journey spans between 10 and 20 kilometers of breathtaking exploration.
 					</td>
 				</tr>
 				<tr>
@@ -85,7 +86,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td>
-						 Basic IT skills required
+						  NA
 			</td>
 				</tr>
 		<tr>
@@ -95,10 +96,11 @@ third_nav_title: Smart Nation
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/64ae6ec323e5470011bfdc1c">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/silver%20infocomm%20wellness%20ambassador%20qr.png"></a><br>
-						        For mobile user, please click on the QR code to register.
-				</td></tr>
+					<td><a href="https://go.gov.sg/clocking-the-distance-canberra">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/clocking%20the%20distance%20canberra%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
+			</td>
+				</tr>
 </tbody></table>
 
 

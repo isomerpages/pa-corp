@@ -2,8 +2,4 @@ collections:
   tender-details:
     output: true
     order:
-      - Provision of Non Comprehensive Maintenance For Security and Alarm System
-        at Ci Yuan Community Club.md
-      - Tender for Provision of Security Services at Buangkok Community Club.md
-      - Tender for Chinatown Mid Autumn Festival 2024 Street Light Up Decorative
-        Items.md
+      - Provision of Security Services at Senja Cashew Community Club.md

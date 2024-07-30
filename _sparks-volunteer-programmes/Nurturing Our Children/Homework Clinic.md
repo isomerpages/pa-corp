@@ -1,14 +1,15 @@
 ---
-title: Gardens Give Back
-permalink: /our-programmes/sparks-bukit-canberra/gardens-give-back/
+title: Homework Clinic
+permalink: /our-programmes/sparks-bukit-canberra/homework-clinic/
+variant: markdown
 description: ""
-third_nav_title: Going Green Together
+third_nav_title: Nurturing Our Children
 ---
-#### Gardens Give Back
+#### Homework Clinic
 
-<img style="width:350px;height:250;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back.jpg">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/homework%20clinic.jpg">
 <table width="100%" border="0">
-	<tbody><tr>							
+	<tbody><tr>						
 		<td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
@@ -19,7 +20,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td>
-						Gardens Give Back 
+						Homework Clinic 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -29,7 +30,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td>
-						Sembawang GRC
+						  Sembawang Central Division
 					</td>
 				</tr>
 				<tr>
@@ -40,7 +41,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						  Willing to commit at least twice a month and for at least a period of 6 months
+						       Every Monday from 7.30pm to 9.30pm 
 					</td>
 				</tr>
 				<tr>
@@ -51,7 +52,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-					  Community Garden and roof top garden at Sembawang GRC
+					      Blossom Seeds, Blk 105 Canberra Street, #02-01/06, S(750105)
 					</td>
 				</tr>
 				<tr>
@@ -62,8 +63,8 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						Gardens around the estates beautify the environment and allow residents with common interest to have a platform to share gardening skills and bond with each other. Through gardening, we also help the needy families living around the estates by pledging our harvest back to the community, thereby improving the well-being of the residents as the vegetables harvested are all organic and healthy.<br><br>						
-We are looking for volunteers to set up more gardening plots around the estates. We will also be working with schools and stakeholders for the setting up of community gardens. 
+						              Homework Clinic provides lower-income primary school children with the opportunity to get help with their schoolwork. Each tutor will be paired with one or two students.&nbsp;<br><br>
+We are seeking students and PMETs to come together and provide extra tuition to lower-income primary school students every Monday.  
 					</td>
 				</tr>
 				<tr>
@@ -74,7 +75,7 @@ We are looking for volunteers to set up more gardening plots around the estates.
 						:
 					</td>
 					<td width="75%">
-						15
+						16
 					</td>
 				</tr>
 		<tr>
@@ -85,7 +86,7 @@ We are looking for volunteers to set up more gardening plots around the estates.
 						:
 					</td>
 					<td>
-						NIL
+						   Well-versed with Primary School Syllabus 
 			</td>
 				</tr>
 		<tr>
@@ -95,9 +96,9 @@ We are looking for volunteers to set up more gardening plots around the estates.
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/62a079f8a303bc0012b828ed">
-						<img style="width=60px;height=60;" src="/images/SPARKS@Bukit%20Canberra/gardens%20give%20back%20qr.png"></a><br>
-						        For mobile user, please click on the QR code to register.
+					<td><a href="https://go.gov.sg/0pty2o">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/homework%20clinic%20qr.png"></a><br>
+						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
 </tbody></table>

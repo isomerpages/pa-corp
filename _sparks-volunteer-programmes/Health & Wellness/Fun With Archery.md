@@ -1,15 +1,16 @@
 ---
-title: Befriending for Vulnerable Seniors
-permalink: /our-programmes/sparks-bukit-canberra/befriending-for-vulnerable-seniors/
+title: Fun With Archery
+permalink: /our-programmes/sparks-bukit-canberra/fun-with-archery/
+variant: markdown
 description: ""
-third_nav_title: Caring for Our Community
+third_nav_title: Health & Wellness
 ---
-#### Befriending for vulnerable seniors
+#### Fun With Archery
 
-<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors.png">
+<img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/fun%20with%20archery.jpg">
 <table width="100%" border="0">
 	<tbody><tr>
-					<td width="60%">
+			 <td width="60%">
 			<table width="100%" border="0">
 				<tbody><tr>
 					<td width="20%">
@@ -19,7 +20,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						Befriending for vulnerable seniors 
+						Fun With Archery 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -29,7 +30,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td>
-						   TOUCH Active Ageing Centre (Wellington)
+						Sembawang West Division
 					</td>
 				</tr>
 				<tr>
@@ -40,7 +41,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						      Willing to commit at least twice a month and for at least a period of 6 months
+						      Bimonthly (Actual Date to be announced one month event)
 					</td>
 				</tr>
 				<tr>
@@ -51,7 +52,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-					   Blk 513 Wellington Circle #01-34, Singapore 750513
+					      At various RNs in Sembawang West
 					</td>
 				</tr>
 				<tr>
@@ -62,8 +63,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of age, ability or physical status - can help others.  TAA will partner volunteers to pay regular visits to seniors with low or no social support.<br><br>
-We are looking for volunteers to befriend seniors and their caregivers by providing social support through regular visits, phone calls and engagement.&nbsp;
+						   This program aims to keep seniors and kids active and engaged in enjoyable activities. Archery involves more than just shooting arrows; it also offers opportunities to develop skills such as focus, coordination, and patience during each session.<br><br>
+Before each session, briefings and training will be conducted to ensure volunteers grasp proper shooting techniques and maintain a safe environment for all participants.
 					</td>
 				</tr>
 				<tr>
@@ -74,7 +75,7 @@ We are looking for volunteers to befriend seniors and their caregivers by provid
 						:
 					</td>
 					<td width="75%">
-						21
+						15
 					</td>
 				</tr>
 		<tr>
@@ -85,7 +86,7 @@ We are looking for volunteers to befriend seniors and their caregivers by provid
 						:
 					</td>
 					<td>
-						   Able to speak Mandarin or Malay or dialect . Training will be provided.
+						  NA
 			</td>
 				</tr>
 		<tr>
@@ -95,8 +96,8 @@ We are looking for volunteers to befriend seniors and their caregivers by provid
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/64ae2f13f6ce6e0011c758db">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/befriending%20for%20vulnerable%20seniors%20qr.png"></a><br>
+					<td><a href="https://go.gov.sg/sbwarchery">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/fun%20with%20archery%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
