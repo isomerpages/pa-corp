@@ -20,7 +20,6 @@ Here’s a list of our Corporate Members, by different categories:
 
 #### Cultural &amp; Educational Organisations
 
-* [Central Council of Malay Cultural Organisations](https://majlispusatsg.org/)
 * [Chinese Calligraphy Society of Singapore](https://www.ccss.org.sg/)
 * [Chinese Dance Artistes' Association](https://zh-cn.facebook.com/pages/Chinese-Dance-Artistes-Association/209711552462560)
 * [Chinese Theatre Circle](http://www.ctcopera.com/)
