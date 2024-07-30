@@ -62,6 +62,9 @@ you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/newcc3_small.png">
 </div>
+<p>Finals happening on 4 August 2024 at Singapore Sports Hub! Visit <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship" rel="noopener noreferrer nofollow" target="_blank">Pesta Sukan Community Championship</a> page
+for the latest schedule!</p>
+<p></p>
 <h3>Competition Results</h3>
 <p>For latest update on the competition results, visit our <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or
 <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook.</a>
