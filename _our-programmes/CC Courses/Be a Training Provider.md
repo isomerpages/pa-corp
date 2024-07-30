@@ -100,9 +100,9 @@ NREP, please refer to <a href="https://www.activesgcircle.gov.sg/nrep/exercise-p
 Food &amp; Hygiene certificate.</p>
 <p></p>
 <h2><strong>Apply to be a PA Training Provider today!</strong></h2>
-<p>We are accepting applications from now till 31 August 2024.&nbsp; Applicants
-are strongly advised to read the general guidelines as listed above before
-applying.</p>
+<p>We are accepting applications from 1 August till 31 August 2024.&nbsp;
+Applicants are strongly advised to read the general guidelines as listed
+above before applying.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>To apply as an individual Trainer, please click <a href="https://form.gov.sg/66a1a3414396ae9bc1a025f9" rel="noopener noreferrer nofollow" target="_blank">link</a>
