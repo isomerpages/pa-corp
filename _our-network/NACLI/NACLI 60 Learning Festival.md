@@ -12,8 +12,7 @@ third_nav_title: NACLI
 <p>Get to experience a transformative journey at the Learning Festival through
 our specially curated workshops, providing practical insights and strategies
 applicable to the evolving landscape of community leadership.
-<br>Secure your spot now! Click <a href="https://reg.eventnook.com/event/NACLI60/register" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>*
-to register for the workshops.&nbsp;
+<br>Secure your spot now! Click here* to register for the workshops.&nbsp;
 <br><em>*The workshops are opened to all GRLs based on pre-registration basis.&nbsp;</em>
 <br><em>*Each GRL can sign up for a maximum of two workshops.</em>
 <br><em>*Each workshop has 2 slots: 2.00pm to 3.15pm or 3.45pm to 5.00pm</em>
@@ -45,6 +44,9 @@ to register for the workshops.&nbsp;
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; vertical-align: middle; max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" height="153" width="316" src="https://eventnook.s3.amazonaws.com/e/75472/_3797a_buttons_website2-01png">
+</div>
 <p><strong>The Three Principles of Facilitator Leadership&nbsp;</strong>
 <br><strong>Facilitator:</strong> Mr Jon Alexander (Keynote Speaker)
 <br><strong>Co-facilitator:</strong> Mr Jon Lim (Vice-Dean (Training), NACLI)
@@ -63,6 +65,9 @@ in the context of an uncertain but exciting future.&nbsp;</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; vertical-align: middle; max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" height="157" width="326" src="https://eventnook.s3.amazonaws.com/e/75472/_e9953_buttons_website2-03png">
+</div>
 <p><strong>Dignity-the Foundation of Relationships &amp; Community Engagement</strong>
 <br><strong>Facilitator:</strong> Mr Wilson Chan (Managing Director &amp; Principal
 Trainer of Skillseed)
@@ -86,6 +91,9 @@ professional interactions to foster a more harmonious society.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; vertical-align: middle; max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto;" height="154" width="334" src="https://eventnook.s3.amazonaws.com/e/75472/_ce2f2_buttons_website2-04png">
+</div>
 <p><strong>Exploring Participatory Design for Meaningful Community Engagement</strong>
 </p>
 <p><strong>Facilitator:</strong> Mr Larry Yeung (Executive Director of Participate
@@ -109,6 +117,10 @@ insights into successful community initiatives.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; vertical-align: middle; max-width: 100%; height: auto; color: rgb(0, 0, 0); font-family: helvetica, arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: -webkit-left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: block; margin-left: auto; margin-right: auto;" height="154" width="341" src="https://eventnook.s3.amazonaws.com/e/75472/_eac8d_buttons_website2-05png">
+</div>
 <p><strong>SG Collective Impact Framework</strong>
 <br><strong>Facilitator:</strong> Ms Lim Kar Yee (Senior Director in CDC Planning
 and Development of People's Association)
@@ -130,5 +142,4 @@ well as enhance stakeholder management.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/12913_buttons_websitepng.png">
 </div>
-<p>To learn more about the facilitators, click <a href="https://reg.eventnook.com/event/NACLI60/Profiles" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-view their profiles</p>
+<p>To learn more about the facilitators, click here to view their profiles</p>
