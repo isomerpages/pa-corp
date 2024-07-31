@@ -19,10 +19,9 @@ third_nav_title: NACLI
 <td rowspan="1" colspan="1">
 <p>9:30 AM</p>
 </td>
-<th rowspan="1" colspan="1">
-<p><strong>Registration and Networking Breakfast</strong>
-</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Registration and Networking Breakfast</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
