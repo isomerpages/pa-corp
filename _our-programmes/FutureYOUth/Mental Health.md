@@ -14,25 +14,9 @@ third_nav_title: FutureYOUth
 the community to embrace people with dwarfism. Beyond their physical abilities,
 they stand resilient, overcoming challenges with unwavering strength. Joshua,
 founder of LittleMightyWarriors, believes that mental health is a deeply
-cherished aspect of life. J</p>
-<p>oin him and his team in celebrating the beauty of diversity and the triumph
-of the human spirit!
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QuVsyPgrqDo?si=z61s3HZOliGHHu-5"></iframe>
-</div>
-<p>Join Singaporean Paralympic Swimmer Theresa Goh as she opens up about
-her mental health journey in the transition from swimming to the working
-world. Her sharing reminds us that mental health is just as important as
-physical health. Let's support each other and prioritise our well-being.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QuVsyPgrqDo?si=z61s3HZOliGHHu-5"></iframe>
-</div>
-<p>Join Singaporean Paralympic Swimmer Theresa Goh as she opens up about
-her mental health journey in the transition from swimming to the working
-world. Her sharing reminds us that mental health is just as important as
-physical health. Let's support each other and prioritise our well-being.</p>
+cherished aspect of life. Join him and his team in celebrating the beauty
+of diversity and the triumph of the human spirit!</p>
+<p></p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QuVsyPgrqDo?si=z61s3HZOliGHHu-5"></iframe>
@@ -64,6 +48,7 @@ for mental health!</p>
 their passion for educating the community on mental health issues and looking
 out for the mental wellbeing of those around you.</p>
 <h4><strong>Kickstarting Conversations on Mental Health</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7229.jpg">
 </div>
