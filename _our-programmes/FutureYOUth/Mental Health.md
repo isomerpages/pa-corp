@@ -10,7 +10,15 @@ third_nav_title: FutureYOUth
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U5bzdfEaN6E?si=_Cvk9aP9rZuL9Cum"></iframe>
 </div>
-<h4>Unveiling the Power Within! LittleMightyWarriors is on a journey to empower the community to embrace people with dwarfism. Beyond their physical abilities, they stand resilient, overcoming challenges with unwavering strength. Joshua, founder of LittleMightyWarriors, believes that mental health is a deeply cherished aspect of life. Join him and his team in celebrating the beauty of diversity and the triumph of the human spirit! <br></h4>
+<p>Unveiling the Power Within! LittleMightyWarriors is on a journey to empower
+the community to embrace people with dwarfism. Beyond their physical abilities,
+they stand resilient, overcoming challenges with unwavering strength. Joshua,
+founder of LittleMightyWarriors, believes that mental health is a deeply
+cherished aspect of life. J</p>
+<p>oin him and his team in celebrating the beauty of diversity and the triumph
+of the human spirit!
+<br>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QuVsyPgrqDo?si=z61s3HZOliGHHu-5"></iframe>
 </div>
