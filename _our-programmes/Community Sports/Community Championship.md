@@ -48,11 +48,13 @@ own squad, and go head-to-head at the Cluster level.&nbsp; The top crews
 will rep the Cluster at the SportSG Pesta Sukan in July and August, where
 you'll go toe-to-toe with champs from other Clusters.&nbsp;</p>
 <h3>Competition Schedule</h3>
-<p>(accurate as at 30 July 2024)</p>
+<p>(accurate as at 31 July 2024)</p>
 <p>Finals happening on 4 August 2024 at Singapore Sports Hub!</p>
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Finals_Schedule.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Finals_Schedule2.png">
 </div>
 <p><u>Past Competitions</u>
 </p>
