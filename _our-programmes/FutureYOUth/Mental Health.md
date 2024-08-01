@@ -50,6 +50,11 @@ out for the mental wellbeing of those around you.</p>
 <h4><strong>Kickstarting Conversations on Mental Health</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9534.jpg">
+</div>
+<p>Celebrate your mental health and anxiety awareness. Do what makes you
+happy, not what everyone else thinks would make YOU happy.</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7229.jpg">
 </div>
 <p>Find comfort in your life, positivity at your own pace, and create your
