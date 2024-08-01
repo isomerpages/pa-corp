@@ -35,9 +35,9 @@ protecting our Mother Earth and our Future!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9532.jpg">
 </div>
-<p>Be a part of this green movement for a greener tomorrow. Find love in
-keeping our waters and Singapore "clean and green". YOUth can do it! Let's
-embark on this sustainable journey together.</p>
+<p>Did you know these five everyday items are not environmentally friendly?
+Time to look at other alternatives! <a href="https://www.instagram.com/paym.youths/p/C9zOt-fNpLC/" rel="noopener noreferrer nofollow" target="_blank">Here are five ideas from us!</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9533.jpg">
 </div>
