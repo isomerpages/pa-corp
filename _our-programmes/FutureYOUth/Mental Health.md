@@ -49,6 +49,15 @@ their passion for educating the community on mental health issues and looking
 out for the mental wellbeing of those around you.</p>
 <h4><strong>Kickstarting Conversations on Mental Health</strong></h4>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9537.jpg">
+</div>
+<p>Start your day with more espresso, less depresso!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9534.jpg">
 </div>
