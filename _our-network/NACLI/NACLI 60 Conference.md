@@ -91,4 +91,4 @@ third_nav_title: NACLI
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_31_at_11_16_54_AM.png">
 </div>
-<p>To learn more about the speakers, click here to view their profiles</p>
+<p></p>
