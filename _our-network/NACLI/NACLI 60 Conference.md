@@ -6,8 +6,14 @@ description: ""
 third_nav_title: NACLI
 ---
 <p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nacli_60_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="NACLI 60" src="/images/Our Network/NACLI/Header.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
