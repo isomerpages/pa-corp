@@ -46,6 +46,14 @@ to take the first steps to build a Singapore where everyone feels valued
 without any prejudice. Let’s check out what Liz, a youth cosplayer in Singapore,
 has to say.</p>
 <h4><strong>Kickstarting Conversations on Racial and Religious Harmony</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9539.jpg">
+</div>
+<p>Let's embark on a transformative journey of multi-culturalism and inclusivity
+together. You're never too late to learn about race and religion, unlearn
+racial bias and relearn!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:300px;display:inline-block" height="auto" width="100%" alt="" src="/images/RH_03.jpg">
 </div>

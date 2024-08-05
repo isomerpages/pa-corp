@@ -8,6 +8,17 @@ third_nav_title: FutureYOUth
 ---
 <h4><strong>Youth-in-Action on Mental Health</strong></h4>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U5bzdfEaN6E?si=_Cvk9aP9rZuL9Cum"></iframe>
+</div>
+<p>Unveiling the Power Within! LittleMightyWarriors is on a journey to empower
+the community to embrace people with dwarfism. Beyond their physical abilities,
+they stand resilient, overcoming challenges with unwavering strength. Joshua,
+founder of LittleMightyWarriors, believes that mental health is a deeply
+cherished aspect of life. Join him and his team in celebrating the beauty
+of diversity and the triumph of the human spirit!</p>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QuVsyPgrqDo?si=z61s3HZOliGHHu-5"></iframe>
 </div>
 <p>Join Singaporean Paralympic Swimmer Theresa Goh as she opens up about
@@ -37,6 +48,21 @@ for mental health!</p>
 their passion for educating the community on mental health issues and looking
 out for the mental wellbeing of those around you.</p>
 <h4><strong>Kickstarting Conversations on Mental Health</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9537.jpg">
+</div>
+<p>Start your day with more espresso, less depresso!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9534.jpg">
+</div>
+<p>Celebrate your mental health and anxiety awareness. Do what makes you
+happy, not what everyone else thinks would make YOU happy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7229.jpg">
 </div>
@@ -128,4 +154,6 @@ simply asking yourself and the people around you how they are feeling could
 help spark conversations on this topic!</p>
 <p><a href="https://share.oppi.live/01H6ZK5NB1JMZTA3Q15N8DDFWC" rel="noopener noreferrer nofollow" target="_blank">Let us know your thoughts</a> on
 mental health so we can build a more supportive community together!</p>
+<p></p>
+<p></p>
 <p></p>
