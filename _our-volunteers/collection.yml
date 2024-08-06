@@ -2,6 +2,6 @@ collections:
   our-volunteers:
     output: true
     order:
-      - Grassroots Volunteering/Volunteering Opportunities.md
-      - Grassroots Volunteering/.keep
       - Capability Development.md
+      - Grassroots Volunteering/.keep
+      - Grassroots Volunteering/Volunteering Opportunities.md
