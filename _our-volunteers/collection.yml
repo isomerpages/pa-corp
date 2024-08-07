@@ -2,9 +2,9 @@ collections:
   our-volunteers:
     output: true
     order:
-      - Volunteering Opportunities)/Community Volunteering.md
       - Volunteering Opportunities)/.keep
       - Volunteering Opportunities)/Volunteering with People’s Association.md
       - Volunteering Opportunities)/Grassroots Volunteer.md
+      - Volunteering Opportunities)/Community Volunteering.md
       - Volunteering Opportunities.md
       - Capability Development.md
