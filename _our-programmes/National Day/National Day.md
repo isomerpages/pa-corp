@@ -33,3 +33,87 @@ and inclusive Singapore.</p>
 <p></p>
 <p>Check out the <a href="https://www.pa.gov.sg/our-programmes/national-day/ndp-heartlands/" rel="noopener noreferrer nofollow" target="_blank">National Day Heartland Celebrations</a> or
 look out for celebrations in your community!</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organising CC/RC</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siglap CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/mysiglap/posts/pfbid02rV7kDgLtLdTZFNwnyRNMkbewRD5mALg82gKpV9CeUnudxuhUwXvCdYkD6GZtBn62l" rel="noopener noreferrer nofollow" target="_blank">Siglap National Day Observance Ceremony &amp; Siglap Cycle (Zesty Healthy Chill Out)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changi Beach Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paya Lebar Kovan CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/payalebarconstituency/posts/pfbid02SEoz1h7CcSrT4DibvAc1JaYfPY7aHKvxP741MUjfx46ro4WQAbgG4651d9HtkBfxl" rel="noopener noreferrer nofollow" target="_blank">Paya Lebar National Day Observance Ceremony 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paya Lebar Kovan CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Braddell heights Zone D RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/braddell-heights-pedal-walk-and-celebrate-sg59-48503080" rel="noopener noreferrer nofollow" target="_blank">Pedal, Walk and Celebrate SG59</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Braddell Heights Community Hub Hard Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
