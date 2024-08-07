@@ -3,4 +3,7 @@ collections:
     output: true
     order:
       - Capability Development.md
-      - Volunteering Opportunities.md
+      - Volunteering Opportunities/.keep
+      - Volunteering Opportunities/Volunteering with People’s Association.md
+      - Volunteering Opportunities/Grassroots Volunteering.md
+      - Volunteering Opportunities/Community Volunteering.md
