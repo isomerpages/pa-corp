@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Join as a Volunteer
           description: ""
-          url: /engage/be-our-volunteer/
+          url: /our-volunteers/volunteering-opportunities/
         - title: Connect with Government
           description: ""
           url: /engage/connect-with-government/connecting-people-and-government/
