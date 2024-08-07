@@ -117,7 +117,7 @@ look out for celebrations in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9th August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hougang CC</p>
@@ -132,7 +132,7 @@ look out for celebrations in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9th August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Toa Payoh East CC and Toa Payoh South CC</p>
@@ -147,7 +147,7 @@ look out for celebrations in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9th August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nee Soon South CC</p>
@@ -162,13 +162,13 @@ look out for celebrations in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9th August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Beach Road &amp; Crawford RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/national-day-party-open-field-beside-blk-9-north-bridge-road-9-aug-2024-beach-road-crawford-rn-81088978" rel="noopener noreferrer nofollow" target="_blank">National Day Party 2024 @  Beach Road RN &amp; Crawford RN</a>
+<p><a href="https://www.onepa.gov.sg/events/national-day-party-open-field-beside-blk-9-north-bridge-road-9-aug-2024-beach-road-crawford-rn-81088978" rel="noopener noreferrer nofollow" target="_blank">National Day Party 2024 @ Beach Road RN &amp; Crawford RN</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,7 +177,7 @@ look out for celebrations in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9th August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kampong Ubi CC</p>
@@ -192,7 +192,7 @@ look out for celebrations in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9th August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Frontier CC</p>
@@ -207,7 +207,7 @@ look out for celebrations in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9th August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Changi Simei CC</p>
@@ -222,17 +222,92 @@ look out for celebrations in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9th August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Woodgrove CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.facebook.com/Woodgrove.OurHome/posts/1044137547540327/" rel="noopener noreferrer nofollow" target="_blank">Woodgrove National Day Observance Ceremony 2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Open Field beside Blk 303 Woodlands Street 31</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buona Vista CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/buona-vista-national-day-observance-ceremony-9-august-2024-36821748" rel="noopener noreferrer nofollow" target="_blank">Buona Vista National Day Observance Ceremony - 9 August 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>One Holland Village Mall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pek Kio CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/Pekkio.CC/posts/pfbid0HN18mmhapacpzQ8ueTxSexpJCKqBsEwM6PmBrn8knqMRr7ZKU2DkisiuDfwDnfYTl" rel="noopener noreferrer nofollow" target="_blank">National Day Celebrations 2024 @ Pek Kio CC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 50 Dorset Road MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh East Zone 7 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/toa-payoh-east-zone-7-rn-national-day-parade-live-streaming-09-08-2024-59396518" rel="noopener noreferrer nofollow" target="_blank">Toa Payoh East Zone 7 RN - National Day Parade Live Streaming</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh East Zone 7 R Centre Blk 50 #01-63</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Batok Zone 12 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/BBZone12RN/posts/pfbid02WUYNbAR2PwpuBjxSf5JMS7GS3LDhNFAwHpvMgsC4S9Bc6up9MKxgGPFx5xbtnNV7l" rel="noopener noreferrer nofollow" target="_blank">National Day Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Skypeak Open Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eng Kong RN and Cheng Soon RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/bukit-timah-celebrates-national-day-61532922" rel="noopener noreferrer nofollow" target="_blank">Bukit Timah Celebrates National Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Timah CC</p>
 </td>
 </tr>
 </tbody>
