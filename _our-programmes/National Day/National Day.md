@@ -102,13 +102,134 @@ look out for celebrations in your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>9th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jurong Spring CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/JurongSpringDivision/posts/pfbid024vtU5ZvfCt16iqgDpb5q6mGze5sdRd3Yg5uXuiyUYQNQnZfA12saTBJ62xPPsjXHl" rel="noopener noreferrer nofollow" target="_blank">Jurong Spring National Day Observance Ceremony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jurong Spring CC Covered Activity Plaza</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Hougang CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/photo/?fbid=449814471359148&amp;set=a.113834468290485" rel="noopener noreferrer nofollow" target="_blank">Hougang National Day Observance Ceremony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hougang CC MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh East CC and Toa Payoh South CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/p/C9Q849riLrU/" rel="noopener noreferrer nofollow" target="_blank">Toa Payoh East National Day Observance Ceremony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh East CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon South CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/nee-soon-south-national-day-observance-ceremony-2024-43543035" rel="noopener noreferrer nofollow" target="_blank">Nee Soon South National Day Observance Ceremony 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MPC@Khatib</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beach Road &amp; Crawford RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/national-day-party-open-field-beside-blk-9-north-bridge-road-9-aug-2024-beach-road-crawford-rn-81088978" rel="noopener noreferrer nofollow" target="_blank">National Day Party 2024 @  Beach Road RN &amp; Crawford RN</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Field beside Blk 9 North Bridge Road Singapore 190009</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Ubi CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/kembangan-chai-chee-national-day-observance-ceremony-2024-66047297" rel="noopener noreferrer nofollow" target="_blank">Kembangan-Chai Chee National Day Observance Ceremony 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Ubi CC MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Frontier CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/events/1244628413174334/" rel="noopener noreferrer nofollow" target="_blank">Pioneer National Day Observance Ceremony &amp; Carnival Celebrations 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Frontier CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changi Simei CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/ChangiSimeiCC/posts/852409790254034/" rel="noopener noreferrer nofollow" target="_blank">Changi Simei National Day Observance Ceremony 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Field next to Eastpont Mall</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/Woodgrove.OurHome/posts/1044137547540327/" rel="noopener noreferrer nofollow" target="_blank">Woodgrove National Day Observance Ceremony 2024</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
