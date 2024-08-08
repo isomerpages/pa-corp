@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Join as a Volunteer
           description: ""
-          url: /our-volunteers/volunteering-opportunities/
+          url: https://www.pa.gov.sg/volunteering-with-people-s-association/
         - title: Connect with Government
           description: ""
           url: /engage/connect-with-government/connecting-people-and-government/
