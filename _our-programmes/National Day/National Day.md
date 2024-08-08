@@ -33,6 +33,10 @@ and inclusive Singapore.</p>
 <p></p>
 <p>Check out the <a href="https://www.pa.gov.sg/our-programmes/national-day/ndp-heartlands/" rel="noopener noreferrer nofollow" target="_blank">National Day Heartland Celebrations</a> or
 look out for celebrations in your community!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Find an event in your neighbourhood</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -310,6 +314,369 @@ look out for celebrations in your community!</p>
 <p>Bukit Timah CC</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jalan Besar Kitchener Lavender NC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/national-day-party-2024-somme-rd-playground-jb-kitchener-lavender-nc-10-aug-2024-61757153" rel="noopener noreferrer nofollow" target="_blank">National Day Party 2024 @ Somme Rd playground</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Somme Road playground</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chin Swee-Hong Lim RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/cshlrn-national-day-celebration-2024-08-10-84974493" rel="noopener noreferrer nofollow" target="_blank">Chin Swee-Hong Lim National Day Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ImPAct@HongLim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Novena NC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/national-day-party-2024-st-joseph-institution-junior-10-aug-2024-73108070" rel="noopener noreferrer nofollow" target="_blank">National Day Party 2024 @ St. Joseph Institution Junior</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Joseph's Institution Junior</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwi Yoh CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/jalan-kayu-national-day-observance-ceremony-walk-a-jog-2024-49257144" rel="noopener noreferrer nofollow" target="_blank">Jalan Kayu National Day Observance Ceremony &amp; Walk a Jog 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Court beside Hwi Yoh CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Potong Pasir CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/potong-pasir-celebrates-40-years-national-day-workout-briskwalk-31489347" rel="noopener noreferrer nofollow" target="_blank">Potong Pasir Celebrates 40 Years! National Day Workout &amp; Briskwalk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Town Square @ Potong Pasir In front of Blk 142 Potong Pasir Ave 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Livia NC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/livia-national-day-celebration-2024-88832072" rel="noopener noreferrer nofollow" target="_blank">Livia National Day Celebration 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Livia Condo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hong Kah North Zone 6 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/hong-kah-north-zone-6-national-day-zumba-85460847" rel="noopener noreferrer nofollow" target="_blank">Hong Kah North Zone 6: National Day Zumba</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hong Kah North CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sengkang West Zone C RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/sengkang-west-zone-c-presents-national-day-birthday-party-77357530" rel="noopener noreferrer nofollow" target="_blank">Sengkang West Zone C National Day Birthday Party</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 314 Anchorvale Link, Communal Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sengkang West Zone E RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/sengkang-west-zone-e-national-day-celebration-88955155" rel="noopener noreferrer nofollow" target="_blank">Sengkang West Zone E National Day Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Multi Purpose Court at Block 353 Anchorvale Lane</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chartwell NC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chartwell-nc-cnc-national-day-party-11-aug-2024-68126456" rel="noopener noreferrer nofollow" target="_blank">Chartwell NC - CNC National Day Party</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chartwell Drive Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Balestier NC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/national-day-party-2024-zhongshan-park-11-aug-2024-87661515" rel="noopener noreferrer nofollow" target="_blank">National Day Party 2024 @ Zhongshan Park</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhongshan Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geylang West CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/geylang-west-cc-national-day-carnival-2024-76820989" rel="noopener noreferrer nofollow" target="_blank">Geylang West CC National Day Carnival 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geylang West CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Windermere NC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/windermere-nc-windermere-national-day-carnival-2024-61565117" rel="noopener noreferrer nofollow" target="_blank">Windermere National Day Carnival 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Windermere Poolside 24 Choa Chu Kang Street 64, Singapore 689096</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whampoa Mcnair RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/national-day-exercise-and-brunch-41339170" rel="noopener noreferrer nofollow" target="_blank">National Day Exercise and Brunch</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 111 McNair Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marymount CSN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/marymount-csn-national-day-water-sports-dragon-boat-17-08-2024-19302688" rel="noopener noreferrer nofollow" target="_blank">Marymount CSN National Day Water Sports - Dragon Boat</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAssion Wave @ Marina Bay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Palette RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/the-palette-rn-national-day-celebration-2024-31144222" rel="noopener noreferrer nofollow" target="_blank">The Palette RN National Day Celebration 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Palette Condo Function Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Compassvale Haven RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/compassvale-haven-rc-national-day-tote-bag-painting-workshop-24884257" rel="noopener noreferrer nofollow" target="_blank">National Day Tote Bag Painting Workshop</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 250B RC Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Coast Park RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/west-coast-park-rn-national-day-celebration-2024-westcove-35010134" rel="noopener noreferrer nofollow" target="_blank">West Coast Park RN National Day Celebration 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Westcove Condominium</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra Zone 8 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/canberra-zone-8-my-neighbour-my-friends-national-day-neighbourhood-party-55064545" rel="noopener noreferrer nofollow" target="_blank">My Neighbour, My Friends National Day Neighbourhood Party</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 362 Sembawang Crescent, linkhouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gerald Mugliston Luxus RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/national-day-celebration-2024-gml-rn-11289395" rel="noopener noreferrer nofollow" target="_blank">National Day Celebration 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mugliston Park Playground</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brickland CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/17-08-2024-brickland-national-day-party-2024-united-in-flavours-palettes-of-joy-passion-arts-festival-one-community-fiesta-23538511" rel="noopener noreferrer nofollow" target="_blank">Brickland National Day Party 2024: United in Flavours, Palettes of Joy (PAssion Arts Festival &amp; One Community Fiesta)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open space at Blk 808 Choa Chu Kang Avenue 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whampoa Towner RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/national-day-movie-magic-towner-rn-2024-21553289" rel="noopener noreferrer nofollow" target="_blank">National Day Movie Magic @ Towner RN 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 106 Towner Road, Carpark</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng San-Seletar CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/cheng-san-seletar-national-day-dinner-2024-80173971" rel="noopener noreferrer nofollow" target="_blank">Cheng San-Seletar National Day Dinner 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 513 Ang Mo Kio Ave 8, Hard Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Potong Pasir CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/potong-pasir-celebrates-national-day-dinner-2024-23971741" rel="noopener noreferrer nofollow" target="_blank">Potong Pasir Celebrates! National Day Dinner 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Town Square @ Potong Pasir In front of Blk 142 Potong Pasir Ave 3</p>
+</td>
+</tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
 <p></p>
