@@ -27,7 +27,7 @@ Singapore (WSG), North East Community Development Council (NE CDC), Ministry
 of Social and Family Services (MSF), Housing Development Board (HDB), National
 Heritage Board (NHB), National Arts Council (NAC), National Environment
 Agency (NEA) and SportSG (SSG) -&nbsp;<strong>is an effort to better serve Tampines residents and people who live in eastern Singapore, so as to meet the rising expectations of Singaporeans and further intensify land utilisation</strong>.</p>
-<p>Residents can enjoy a range of amenities such as <a href="https://members.myactivesg.com/bookfacility" rel="noopener noreferrer nofollow" target="_blank">sports facilities</a>,
+<p>Residents can enjoy a range of amenities such as<a href="https://activesg.gov.sg/activities/list" rel="noopener noreferrer nofollow" target="_blank">sports facilities</a>,
 <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/tampines-regional-library" rel="noopener noreferrer nofollow" target="_blank">regional library</a>, hawker centre, retail shops and the community club.</p>
 <p>OTH currently serves more than 250,000 residents and approximately 80,000
 households.</p>
