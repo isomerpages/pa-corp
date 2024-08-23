@@ -28,7 +28,7 @@ you will take on various responsibilities, including explaining government
 policies, gathering feedback from residents, assisting those in need and
 organising programmes for outreach and engagement.</p>
 <p></p>
-<p><strong><u>Community Volunteer</u></strong>
+<p><a href="https://www.onepa.gov.sg/" rel="noopener nofollow" target="_blank">Community Volunteer</a>
 </p>
 <p>As a Community Volunteer (CV), you will have flexibility to determine
 your level of commitment and how you wish to contribute towards the causes
