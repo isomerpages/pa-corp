@@ -19,7 +19,7 @@ of life.</p>
 we can make a lasting difference and inspire positive change in the heart
 of your community.</p>
 <p></p>
-<p><strong><u>Grassroots Volunteer</u></strong>
+<p><a href="https://grl.pa.gov.sg/" rel="noopener nofollow" target="_blank">Grassroots Volunteer</a>
 </p>
 <p>As a Grassroots Volunteer, you will join one of over 2,000 GROs across
 the island. Your role is to foster neighbourliness and strengthen community
