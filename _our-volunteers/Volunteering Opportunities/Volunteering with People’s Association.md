@@ -19,7 +19,7 @@ of life.</p>
 we can make a lasting difference and inspire positive change in the heart
 of your community.</p>
 <p></p>
-<p><strong><u>Grassroots Volunteer</u></strong>
+<p><strong><a href="https://grl.pa.gov.sg/" rel="noopener nofollow" target="_blank">Grassroots Volunteer</a></strong>
 </p>
 <p>As a Grassroots Volunteer, you will join one of over 2,000 GROs across
 the island. Your role is to foster neighbourliness and strengthen community
@@ -28,7 +28,7 @@ you will take on various responsibilities, including explaining government
 policies, gathering feedback from residents, assisting those in need and
 organising programmes for outreach and engagement.</p>
 <p></p>
-<p><strong><u>Community Volunteer</u></strong>
+<p><strong><a href="https://www.onepa.gov.sg/" rel="noopener nofollow" target="_blank">Community Volunteer</a></strong>
 </p>
 <p>As a Community Volunteer (CV), you will have flexibility to determine
 your level of commitment and how you wish to contribute towards the causes

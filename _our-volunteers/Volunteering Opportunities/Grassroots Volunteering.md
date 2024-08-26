@@ -20,7 +20,7 @@ opportunities for you to leverage or develop your leadership, professional
 and/or personal skills while making a positive impact towards the community.</p>
 <p>If you share our commitment to building a stronger, more connected Singapore,
 join us as a grassroots volunteer today.&nbsp;</p>
-<p>Simply register online at the link below, or approach our staff / volunteers
-at any Community Centre/Club to get started. <a href="https://grl.pa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GRL@PA</a>&nbsp;</p>
+<p>Simply register <a href="https://grl.pa.gov.sg/" rel="noopener nofollow" target="_blank">online</a> or
+approach our staff / volunteers at any Community Centre/Club to get started.</p>
 <p>You may also refer to the commonly asked questions on grassroots volunteering
 <a href="https://drive.google.com/file/d/1aYcEG4O40dlQnmypEt4U0dDtt8yH5z3q/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
