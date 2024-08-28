@@ -2,9 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - National Day/NDP @ Heartlands.md
-      - National Day/National Day.md
-      - National Day/.keep
       - PA's Programmes.md
       - Active Ageing.md
       - CC Courses/.keep
@@ -25,6 +22,9 @@ collections:
       - Emergency Preparedness.md
       - Family Life.md
       - imPAct@Hong Lim Green.md
+      - National Day/.keep
+      - National Day/NDP @ Heartlands.md
+      - National Day/National Day.md
       - PAssion Card.md
       - PAssion Wave/.keep
       - PAssion Wave/50th Anniversary Celebrations.md
