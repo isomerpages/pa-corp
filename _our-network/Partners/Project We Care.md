@@ -170,4 +170,6 @@ confidently.</p>
 <h3><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong></h3>
 <p>Join Project We Care network to co-create and co-deliver impactful programmes
 to make a difference today!</p>
+<p>Visit our<strong> <a href="https://www.linkedin.com/company/project-we-care" rel="noopener nofollow" target="_blank">Project We Care LinkedIn</a></strong> for
+inspiring partnership stories and collaboration opportunities in the community!</p>
 <p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;</p>
