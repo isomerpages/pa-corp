@@ -12,13 +12,9 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAPC2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PC2023_Photos.png">
 </div>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSYNCare.jpg">
-</div>
 <h2>About PA Cares @ President's Challenge 2024</h2>
 <p>The President’s Challenge was initiated by former President S R Nathan
 in 2000 as a call to the nation to build a more caring and cohesive society,
@@ -36,7 +32,7 @@ For every 1 kilometre clocked, participant will raise S$1 for President’s
 Challenge to support our beneficiaries.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CaringCommunityEBadge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caring_Community_EBadge_PASite_.png">
 </div>
 <p>Earn your E-Badge and E-Certificate and celebrate your achievement!</p>
 <p><a href="https://go.gov.sg/pacarespc2024" rel="noopener nofollow" target="_blank">Register your virtual walk or run now!</a>
