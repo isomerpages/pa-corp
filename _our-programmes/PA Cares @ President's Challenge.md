@@ -35,6 +35,10 @@ Challenge to support our beneficiaries.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caring_Community_EBadge_PASite_.png">
 </div>
 <p>Earn your LinkedIn E-Badge and E-Certificate and celebrate your achievement!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LinkedIn_Badge_Step_by_Step.jpg">
+</div>
 <p><a href="https://go.gov.sg/pacarespc2024" rel="noopener nofollow" target="_blank">Register your virtual walk or run now!</a>
 </p>
 <h2>Together, We Make a Difference!</h2>
