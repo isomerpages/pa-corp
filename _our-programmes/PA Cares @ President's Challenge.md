@@ -11,10 +11,10 @@ description: ""
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PC2023_Photos.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAPC_2024_Photos.jpg">
+</div>
 <h2>About PA Cares @ President's Challenge 2024</h2>
 <p>The President’s Challenge was initiated by former President S R Nathan
 in 2000 as a call to the nation to build a more caring and cohesive society,
