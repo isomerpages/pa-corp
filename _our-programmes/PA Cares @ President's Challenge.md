@@ -49,5 +49,8 @@ in our community. Together, we can create positive change and build a more
 inclusive society!</p>
 <p><a href="https://www.giving.sg/donate/campaign/pacarespc2024" rel="noopener nofollow" target="_blank">Donate Now!</a>
 </p>
-<p></p>
+<h2>Media Release</h2>
+<p>8 September 2024:</p>
+<p><a href="/files/PA_Cares_PC_2024_Media_Release_.pdf" rel="noopener nofollow" target="_blank">People's Association Launches Inclusive Walk &amp; Run Campaign in Support of President's Challenge 2024</a>
+</p>
 <p></p>
