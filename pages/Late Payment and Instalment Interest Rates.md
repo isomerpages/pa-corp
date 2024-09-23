@@ -7,7 +7,11 @@ description: ""
 <h2>Interest rates:</h2>
 <p></p>
 <h3>Rental Late Payment Interest:</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,11 +55,23 @@ description: ""
 <p>8.1%</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01/10/2024 - 31/03/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.0%</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h3>Non-rental Late Payment Interest:</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,11 +115,23 @@ description: ""
 <p>8.1%</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31/10/2024 - 31/03/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.0%</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h3>Rental Instalment Interest:</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -147,11 +175,23 @@ description: ""
 <p>5.1%</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01/10/2024 - 31/03/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.0%</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h3>Non-rental Instalment Interest:</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -193,6 +233,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>5.1%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01/10/2024 - 31/03/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.0%</p>
 </td>
 </tr>
 </tbody>
