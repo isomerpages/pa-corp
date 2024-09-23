@@ -4,7 +4,7 @@ permalink: /tender-for-street-light-up-decorative-items-for-chinatown-chinese-ne
 variant: tiptap
 description: ""
 ---
-<h2>Tender for Street Light Up Decorative Items (Including Design, Manufacturing and Management) for Chinatowwn Chinese New Year Celebrations 2025</h2>
+<h2>Tender for Street Light Up Decorative Items (Including Design, Manufacturing and Management) for Chinatown Chinese New Year Celebrations 2025</h2>
 <hr>
 <p>A mandatory Pre-tender briefing will be held on:</p>
 <p>Date: 26 September 2024</p>
