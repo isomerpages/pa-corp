@@ -9,8 +9,8 @@ description: ""
 <p>A mandatory Pre-tender briefing will be held on:</p>
 <p>Date: 26 September 2024</p>
 <p>Time: 11.00am</p>
-<p>Venue: Kreta Ayer Community Club,</p>
-<p>Level 2 Conference Room</p>
+<p>Venue: Kreta Ayer Community Club, Level 2 Conference Room</p>
+<p></p>
 <p>Interested tenderers are to email the Pre-Tender Briefing Attendance Form
 (Appendix I) and Non-Disclosure Agreement (Appendix II) to <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
 <a href="mailto:Jeanne_Ong@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeanne_Ong@pa.gov.sg</a>by 25 September 2024, 6.00pm.</p>
