@@ -10,7 +10,7 @@ notification: Beware of potential scam letters, calls, messages, social media
   href="/scam-alert">more details</a> on scams.
 sections:
   - hero:
-      background: /images/27Sep_PA_Corp_Site_Banner_Website_V2.png
+      background: /images/join-your-community.jpg
       key_highlights:
         - title: Join as a Volunteer
           description: ""
