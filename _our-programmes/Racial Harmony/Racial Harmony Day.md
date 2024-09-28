@@ -10,9 +10,8 @@ image: /images/Our Programmes/Brickland_Friends.jpg
 <p>Racial Harmony Day falls on 21st July and the People's Association (PA)
 celebrates 64 years of promoting racial harmony in Singapore.</p>
 <p>Established on 1 July 1960 as a statutory board to promote racial harmony
-and social cohesion in Singapore, our mission to build and bridge communities
-in achieving one people, one Singapore has been instrumental in fostering
-unity among Singaporeans from diverse backgrounds.</p>
+and social cohesion in Singapore, our mission is to spark and nurture community
+participation for a caring and united Singapore.</p>
 <p>Through the years, we have set up a network of over 2,000 grassroots organisations
 (GROs), 100+ Community Clubs and five Community Development Councils, that
 work towards fostering a sense of togetherness and understanding.</p>
