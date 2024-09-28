@@ -1,7 +1,7 @@
 ---
 title: NACLI's 60th Anniversary
 permalink: /our-network/national-community-leadership-institute/nacli-60-anniversary/
-variant: markdown
+variant: tiptap
 description: NACLI's 60th Anniversary Celebration
 image: /images/Our Network/NACLI/NACLI_60___2024.png
 third_nav_title: NACLI
@@ -36,14 +36,20 @@ through a cycle of experimentation, adaptation, and learning.</p>
 <p>Join us as we remember our past, celebrate our present, and chart our
 future, celebrating 60 years of inspiring leaders, serving the community!</p>
 <p></p>
+<h4>Launch of New Leadership Programmes </h4>
+<p>In conjunction with NACLI's 60th Anniversary, NACLI will be launching
+two new leadership programmes, reaching out to other sectors of the community,
+and empowering community leaders to drive positive impact in Singapore's
+diverse communities. Learn more about the 2 programmes at the following
+factsheet:</p>
+<p><a href="/files/NACLI/Factsheet___YLC_and_LCP.pdf" rel="noopener nofollow" target="_blank">Factsheet - Youth Leaders Collective &amp; Leadership in Community Programme</a>
+</p>
 <p></p>
 <p>Follow us on our socials to keep up to date with our latest news!</p>
 <p></p>
-
-
-<a href="https://www.facebook.com/naclisg"><img style="width:48px" align="left" src="/images/Facebook Button Logo.png"></a>
-
-<img style="width:10px" align="left" src="/images/Blank Space.png">
-
-<a href="https://www.instagram.com/naclisg/"> <img style="width:48px" align="left" src="/images/Instagram Logo.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:10px" height="auto" width="100%" src="/images/Blank Space.png">
+</div>
+<p></p>
 <p></p>
