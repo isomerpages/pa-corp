@@ -2,8 +2,9 @@
 title: PA Careers
 permalink: /careers/pa-careers/
 description: ""
+variant: markdown
 ---
-The People's Association's (PA) mission is to build and to bridge communities in achieving one people, one Singapore. We do this through our network of 1,800 Grassroots Organisations, five Community Development Councils, National Community Leadership Institute, and Water-Venture.
+The People’s Association’s (PA) mission is to spark and nurture community participation for a caring and united Singapore.
 
 At the People's Association, we believe that what we do is more than a job, it's our PAssion!  Come Grow with Us and Share our PAssion in Bringing People Together.  If you are interested in learning more about these opportunities, you may visit our career website to view the full job descriptions and submit your online application [here](https://go.gov.sg/pa-careers). 
 
