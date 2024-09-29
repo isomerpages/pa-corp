@@ -13,10 +13,6 @@ Our mission is to spark and nurture community participation for a caring and uni
 
 A Nation that Cares for Our Community
 
-*   Share our Values
-*   Pursue our Passions
-*   Fulfil our Hopes, and
-*   Treasure our Memories
 
 ### Our Mission
 
