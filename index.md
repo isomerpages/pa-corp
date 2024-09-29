@@ -28,27 +28,6 @@ sections:
       title: News & Speeches
       button: More News
   - infopic:
-      title: 50 Years of Making Waves
-      subtitle: PAssion Wave Celebrates
-      id: infopic
-      description: Immerse yourself in an exhilarating array of PAssion Wave's 50th
-        Anniversary expeditions and activities
-      button: Join the Celebrations
-      url: https://www.pa.gov.sg/our-programmes/passion-wave/50th-anniversary-celebrations/
-      image: /images/pw50thumbnail.png
-      alt: kayaking at singapore flyer
-  - infopic:
-      title: Community Championship
-      subtitle: BE YOUR NEIGHBOURHOOD CHAMPION
-      id: infopic
-      description: Get your team ready for the nationwide community sports challenge
-        from April to August 2024. Top teams will represent their Cluster at the
-        Pesta Sukan!
-      button: JOIN THE CHAMPIONSHIP
-      url: /our-programmes/community-sports/community-championship/
-      image: /images/community_championship_thumbnail.png
-      alt: community championship
-  - infopic:
       title: FutureYOUth
       subtitle: MAKE A DIFFERENCE
       id: infopic
@@ -59,6 +38,16 @@ sections:
       url: https://www.pa.gov.sg/our-programmes/futureyouth/upcoming-happenings/
       image: /images/FutureYOUth_Banner.jpg
       alt: Image alt text
+  - infopic:
+      title: 50 Years of Making Waves
+      subtitle: PAssion Wave Celebrates
+      id: infopic
+      description: Immerse yourself in an exhilarating array of PAssion Wave's 50th
+        Anniversary expeditions and activities
+      button: Join the Celebrations
+      url: https://www.pa.gov.sg/our-programmes/passion-wave/50th-anniversary-celebrations/
+      image: /images/pw50thumbnail.png
+      alt: kayaking at singapore flyer
   - infopic:
       title: PA Courses
       subtitle: FIND A COURSE
