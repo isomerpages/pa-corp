@@ -2,33 +2,27 @@
 title: About PA
 permalink: /about-us/about-pa/
 description: ""
+variant: markdown
 ---
 ### About Us
 
-The People’s Association (PA) was established on 1 July 1960 as a statutory board to promote racial harmony and social cohesion in Singapore. Our mission is to build and bridge communities in achieving one people, one Singapore.
+The People's Association (PA) is a statutory board established on 1 July 1960.
+Our mission is to spark and nurture community participation for a caring and united Singapore.&nbsp;Our network includes 2,000 Grassroots Organisations (GROs), over 100 Community Clubs, five Community Development Councils, five PAssion WaVe outlets, imPAct, and the National Community Leadership Institute.
 
-PA offers a wide range of programmes to cater to Singaporeans from all walks of life - connecting people to people, and people and government. We do this through our network of over 2,000 grassroots organisations (GROs), over 100 Community Clubs, five Community Development Councils, National Community Leadership Institute and PAssion WaVe.
+### Our Vision
 
-### Vision for the Community
+A Nation that Cares for Our Community
 
-A Great Home and A Caring Community, where we
-
-*   Share our Values
-*   Pursue our Passions
-*   Fulfil our Hopes, and
-*   Treasure our Memories
-
-Read more on the explanation of the [Vision for the Community](/files/About%20Us/vision-for-the-community.pdf)
 
 ### Our Mission
 
-To Build and to Bridge communities in achieving One People, One Singapore
+Spark and Nurture Community Participation for a Caring and United Singapore
 
-Read more on the [PA Mission](/files/About%20Us/pa's-mission-statement.pdf)
+Click [here](https://go.gov.sg/c2030) to read more about Community 2030.
 
-### Our Motto
+### Our Tagline
 
-Bringing People Together
+Caring Community, United Singapore
 
 ### Our Logo
 
