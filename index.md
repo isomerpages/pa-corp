@@ -22,7 +22,7 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       button: find out more
-      url: /engage/join-your-community/
+      url: about-us/about-pa/
       variant: center
   - resources:
       title: News & Speeches
