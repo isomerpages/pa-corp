@@ -10,7 +10,7 @@ notification: Beware of potential scam letters, calls, messages, social media
   href="/scam-alert">more details</a> on scams.
 sections:
   - hero:
-      background: /images/join-your-community.jpg
+      background: /images/27Sep_PA_Corp_Site_Banner_Website_V2_1900x760v3_L.png
       key_highlights:
         - title: Join as a Volunteer
           description: ""
@@ -22,9 +22,8 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       button: find out more
-      url: /engage/join-your-community/
+      url: /about-us/about-pa/
       variant: center
-      title: Join Your Community
   - resources:
       title: News & Speeches
       button: More News
