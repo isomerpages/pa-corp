@@ -24,7 +24,6 @@ sections:
       button: find out more
       url: /engage/join-your-community/
       variant: center
-      title: Join Your Community
   - resources:
       title: News & Speeches
       button: More News
