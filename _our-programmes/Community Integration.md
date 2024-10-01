@@ -6,20 +6,20 @@ variant: tiptap
 ---
 <p>PA through its Grassroots Organisations (GROs) and Integration and Naturalisation
 Champions (INCs), help new citizens settle in the community, providing
-platforms for them to interact with and bond with the local residents.
-Through their participation in various integration-centric programmes and
-GRO programmes/activities, the new immigrants can make friends and develop
-mutual understanding with their neighbours and other residents in the community.</p>
+platforms for them to interact and bond with the local residents. Through
+their participation in various integration-centric programmes and GRO programmes/activities,
+the new immigrants can make friends and develop mutual understanding with
+their neighbours and other residents in the community.</p>
 <h3>Integration and Naturalisation Champions</h3>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/CI2.jpg">
 </div>
-<p>Integration and Naturalisation Champions (INCs) initiate and spearhead
-integration and naturalisation programmes in the local community. INCs
-actively reach out to new citizens by conducting house visits to welcome
-and invite them to join grassroots activities to expand their social network.
-INCs also organise various grassroots activities such as welcome tea parties
-and festive celebrations to engage new citizens.</p>
+<p>Integration and Naturalisation Champions (INCs) serve as catalysts in
+driving integration efforts within their local communities. These dedicated
+individuals take the initiative to develop and implement programmes designed
+to welcome and integrate new citizens. By leveraging their understanding
+of both local culture and the challenges faced by newcomers, INCs play
+a pivotal role in bridging cultural gaps and fostering a sense of belonging.</p>
 <h3>Integration Strategies</h3>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/CI3.jpg">
