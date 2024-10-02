@@ -53,7 +53,8 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-					   Blk 513 Wellington Circle #01-34, Singapore 750513
+					      SPD@Canberra<br>  
+21 Canberra Link, #02-03, Singapore 756973
 					</td>
 				</tr>
 				<tr>
@@ -64,8 +65,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of age, ability or physical status - can be equipped as a resource to help others.<br><br>
-We are looking for someone who enjoys exercising and is able to join in and motivate the seniors during the session.
+						   Our Senior Care Centre offers a full-day program for seniors needing supervision while caregivers work. We focus on their physical, social, and overall well-being. Serving seniors 60 and above from Sembawang/Canberra, the centre fosters community through recreational activities. Most clients require wheelchair assistance and have mild to moderate mobility and/or cognitive impairments.
 					</td>
 				</tr>
 				<tr>
