@@ -92,7 +92,7 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/activity%20facilitator%20words.png"></a></td>
 	<td>
 	<a href="/our-programmes/sparks-bukit-canberra/morning-
-walk-and-vitals-monitoring-words/">
+walk-and-vitals-monitoring/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/morning%20walk%20and%20vitals%20monitoring%20words.png"></a></td>
 </tr></tbody></table>
 
