@@ -4,7 +4,7 @@ permalink: /about-us/annual-reports/
 description: ""
 variant: markdown
 ---
-#####  Annual Report 22/23
+#####  Annual Report 23/24
 
 <img style="width:300px" align="left" src="/images/About%20Us/Annual%20Reports/AR_Thumbnail.jpg">
 
