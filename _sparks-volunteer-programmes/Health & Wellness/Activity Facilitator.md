@@ -76,7 +76,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td width="75%">
-						21
+						18
 					</td>
 				</tr>
 		<tr>
@@ -87,7 +87,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td>
-						  Active, enjoys interacting with seniors, able to assist in setting up the event.
+						    Able to Co-develop and lead group activities such as games, adaptive sports, arts &amp; craft, cognitive exercises, walks, etc.
 			</td>
 				</tr>
 		<tr>
@@ -97,8 +97,8 @@ third_nav_title: Health & Wellness
 					<td width="5%">
 						:
 					</td>
-					<td><a href="https://form.gov.sg/62a6eee55154a800146d3554">
-						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/exercise%20facilitator%20qr.png"></a><br>
+					<td><a href="https://forms.office.com/r/uswsarVxQd">
+						<img style="width=60px;height=60px;" src="/images/SPARKS@Bukit%20Canberra/spd%20qr.png"></a><br>
 						For mobile user, please click on the QR code to register.
 			</td>
 				</tr>
