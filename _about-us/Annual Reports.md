@@ -2,20 +2,29 @@
 title: Annual Reports
 permalink: /about-us/annual-reports/
 description: ""
+variant: markdown
 ---
-#####  Annual Report 22/23
+#####  Annual Report 23/24
 
-
-<img style="width:300px" align="left" src="/images/About%20Us/Annual%20Reports/20231002%20pa%20ar%20thumbnail%201131%20x%201684%20(v2).png">
+<img style="width:300px" align="left" src="/images/About%20Us/Annual%20Reports/AR_Thumbnail.jpg">
 
 <br><br><br>
 <br><br><br><br><br><br><br><br><br>
 
-[Download Annual Report ](https://go.gov.sg/pa-annual-report-2223)<br>
-[Download Audited Report](/files/About%20Us/Annual%20Reports/pa%20financial%20statements%202223.pdf)
+[Download Annual Report ](https://go.gov.sg/pa-annual-report-2324)<br>
+[Download Audited Report](/files/About%20Us/Annual%20Reports/Peoples_Association_Financial_Statements_2024.pdf)
 <br>
 ### Past Publications
 
+##### Annual Report 22/23
+
+
+
+<img style="width:200px" align="left" src="/images/About%20Us/Annual%20Reports/20231002%20pa%20ar%20thumbnail%201131%20x%201684%20(v2).png"><br><br><br><br><br><br><br><br>
+
+[Download Annual Report ](https://go.gov.sg/pa-annual-report-2223)<br>
+[Download Audited Report](/files/About%20Us/Annual%20Reports/pa%20financial%20statements%202223.pdf)
+<br>
 ##### Annual Report 21/22
 
 
