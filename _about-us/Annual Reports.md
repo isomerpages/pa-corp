@@ -11,7 +11,7 @@ variant: markdown
 <br><br><br>
 <br><br><br><br><br><br><br><br><br>
 
-[Download Annual Report ](https://go.gov.sg/pa-annual-report-2223)<br>
+[Download Annual Report ](https://go.gov.sg/pa-annual-report-2324)<br>
 [Download Audited Report](/files/About%20Us/Annual%20Reports/Peoples_Association_Financial_Statements_2024.pdf)
 <br>
 ### Past Publications
