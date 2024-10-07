@@ -36,15 +36,6 @@ through a cycle of experimentation, adaptation, and learning.</p>
 <p>Join us as we remember our past, celebrate our present, and chart our
 future, celebrating 60 years of inspiring leaders, serving the community!</p>
 <p></p>
-<h4>Launch of New Leadership Programmes</h4>
-<p>In conjunction with NACLI's 60th Anniversary, NACLI will be launching
-two new leadership programmes, reaching out to other sectors of the community,
-and empowering community leaders to drive positive impact in Singapore's
-diverse communities. Learn more about the two programmes at the following
-factsheet:</p>
-<p><a href="/files/Factsheet___YLC_and_LCP.pdf" rel="noopener nofollow" target="_blank">Factsheet - Youth Leaders Collective &amp; Leadership in Community Programme</a>
-</p>
-<p></p>
 <p>Follow us on our socials to keep up to date with our latest news!</p>
 <a class="isomer-image-wrapper" href="https://instagram.com/naclisg">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Instagram Logo.png">
