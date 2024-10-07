@@ -12,4 +12,5 @@ Open Procurement and Grassroots Trade Fair Tenders published via the Grassroots 
 <br>
 
 Please check the below listing(s) for the latest tender notices: <br>
+[Tender for Chinatown Chinese New Year 2025 Fairs](/tender-for-chinatown-chinese-new-year-2025-fairs/) <br>
 [Tender for Street Light Up Decorative Items (Including Design, Manufacturing and Management) for Chinatown Chinese New Year Celebrations 2025](/tender-for-street-light-up-decorative-items-for-chinatown-chinese-new-year-2025/)
