@@ -1,7 +1,7 @@
 ---
 title: NACLI's 60th Anniversary
 permalink: /our-network/national-community-leadership-institute/nacli-60-anniversary/
-variant: markdown
+variant: tiptap
 description: NACLI's 60th Anniversary Celebration
 image: /images/Our Network/NACLI/NACLI_60___2024.png
 third_nav_title: NACLI
@@ -50,8 +50,5 @@ factsheet:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Instagram Logo.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Facebook Button Logo.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://facebook.com/naclisg"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Facebook Button Logo.png"></a>
 <p></p>
