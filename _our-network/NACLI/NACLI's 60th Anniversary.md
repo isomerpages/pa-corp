@@ -6,7 +6,6 @@ description: NACLI's 60th Anniversary Celebration
 image: /images/Our Network/NACLI/NACLI_60___2024.png
 third_nav_title: NACLI
 ---
-<p></p>
 <h4>NACLI celebrates its 60th Anniversary</h4>
 <p>NACLI commemorates six decades of community leadership development, marking
 a significant milestone in our journey of developing, aligning and inspiring
@@ -47,8 +46,8 @@ factsheet:</p>
 </p>
 <p></p>
 <p>Follow us on our socials to keep up to date with our latest news!</p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="https://instagram.com/naclisg">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Instagram Logo.png">
-</div>
+</a>
 <p></p><a class="isomer-image-wrapper" href="https://facebook.com/naclisg"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Facebook Button Logo.png"></a>
 <p></p>
