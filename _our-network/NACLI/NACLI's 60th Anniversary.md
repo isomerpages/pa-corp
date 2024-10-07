@@ -6,6 +6,7 @@ description: NACLI's 60th Anniversary Celebration
 image: /images/Our Network/NACLI/NACLI_60___2024.png
 third_nav_title: NACLI
 ---
+<p></p>
 <h4>NACLI celebrates its 60th Anniversary</h4>
 <p>NACLI commemorates six decades of community leadership development, marking
 a significant milestone in our journey of developing, aligning and inspiring
@@ -42,14 +43,15 @@ two new leadership programmes, reaching out to other sectors of the community,
 and empowering community leaders to drive positive impact in Singapore's
 diverse communities. Learn more about the two programmes at the following
 factsheet:</p>
-<p><a href="/files/NACLI/Factsheet___YLC_and_LCP.pdf" rel="noopener nofollow" target="_blank">Factsheet - Youth Leaders Collective &amp; Leadership in Community Programme</a>
+<p><a href="/files/Factsheet___YLC_and_LCP.pdf" rel="noopener nofollow" target="_blank">Factsheet - Youth Leaders Collective &amp; Leadership in Community Programme</a>
 </p>
 <p></p>
 <p>Follow us on our socials to keep up to date with our latest news!</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:10px" height="auto" width="100%" src="/images/Blank Space.png">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Instagram Logo.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Facebook Button Logo.png">
+</div>
 <p></p>
