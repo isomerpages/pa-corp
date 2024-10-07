@@ -87,7 +87,13 @@ SPARKS@Bukit Canberra has a wide range of volunteer programmes that focus on six
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/clocking%20the%20distance%20canberra%20words.jpg"></a></td>
 	<td>
 			<a href="/our-programmes/sparks-bukit-canberra/fun-with-archery/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/fun%20with%20archery%20words.jpg"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/fun%20with%20archery%20words.jpg"></a></td></tr><tr><td>
+	<a href="/our-programmes/sparks-bukit-canberra/activity-facilitator/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/activity%20facilitator%20words.png"></a></td>
+	<td>
+	<a href="/our-programmes/sparks-bukit-canberra/morning-
+walk-and-vitals-monitoring/">
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/morning%20walk%20and%20vitals%20monitoring%20words.png"></a></td>
 </tr></tbody></table>
 
 ### Nurturing Our Children
