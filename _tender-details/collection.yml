@@ -2,6 +2,8 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Provision of Refuse Collection & Cleaning Services for
+        Chinatown Chinese New Year 2025.md
       - Tender for Provision of Auxiliary Police Services for Chinatown Chinese
         New Year Celebrations 2025.md
       - Tender for Chinatown Chinese New Year 2025 Fairs.md
