@@ -71,6 +71,6 @@ sections:
         Group.
       button: Search
       url: https://www.onepa.gov.sg/cc
-      image: /images/Photo - Locate a CC.jpg
+      image: /images/Community Clubs/Hillview_CC.jpg
       alt: https://www.onepa.gov.sg/cc
 ---
