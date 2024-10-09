@@ -6,8 +6,9 @@ third_nav_title: Community Clubs
 variant: tiptap
 ---
 <h4>Community Clubs</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" alt="Facade of a Community Club" src="/images/Our%20Network/Community%20Club/MacPherson%20CC%20Photograph.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="photo of hillview community center" src="/images/Community Clubs/Hillview_CC.jpg">
 </div>
 <p>Community Clubs (CCs) are common spaces for people of all races to come
 together, build friendships and promote social bonding. CCs also connect
