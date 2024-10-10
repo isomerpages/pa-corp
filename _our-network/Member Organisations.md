@@ -35,7 +35,7 @@ Here’s a list of our Corporate Members, by different categories:
 * Singapore Hadrah And Kompang Association
 * [Singapore Indian Fine Arts Society](https://www.sifas.org/)
 * [Society of Chinese Artists](https://soca.org.sg/)
-* [Sriwana](http://www.sriwana.com/)
+* Sriwana
 * [Tamils Representative Council](http://www.trc.org.sg/)
 * [The Eurasian Association, Singapore](https://www.eurasians.sg/)
 
@@ -100,7 +100,7 @@ Here’s a list of our Corporate Members, by different categories:
 * Singapore Malay Teachers' Union
 * [Singapore Middle School Chinese Teachers' Association](https://main.scta.org.sg/)
 * [Singapore Tamil Teacher's Union](https://www.sttu.org.sg/)
-* [Singapore Teachers' Union](https://stu.org.sg/)
+* Singapore Teachers' Union
 
 ##### Youth Organisations
 
@@ -117,7 +117,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [National Council of Social Service](https://www.ncss.gov.sg/)
 * [Singapore Council of Women's Organisations](https://www.scwo.org.sg/)
 * [Singapore National Co-operative Federation Ltd](https://www.sncf.coop/)
-* [Singapore Professional Centre](http://www.spc.org.sg/)
+* Singapore Professional Centre
 * Pets Enterprises &amp; Traders Association, Singapore (PETAS)
 
 #### Professional Bodies 
