@@ -21,10 +21,10 @@ closing date.</p>
 <hr>
 <h4>Details</h4>
 <p>Interested Tenderers may request for a copy of tender specifications by
-emailing to <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
-<a href="mailto:Jeanne_Ong@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeanne_Ong@pa.gov.sg</a>.</p>
-<p>For enquiries, please contact Celeste or Pei Joo at Tel: 6272 3878 or
 email to <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
+<a href="mailto:Jeanne_Ong@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeanne_Ong@pa.gov.sg</a>.</p>
+<p>For enquiries, please contact Pei Joo or Jeanne Ong at Tel: 6272 3878
+or email to <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
 <a href="mailto:Jeanne_Ong@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeanne_Ong@pa.gov.sg</a>.</p>
 <hr>
 <p>Calling Committee: Chinatown Festival Committee</p>
