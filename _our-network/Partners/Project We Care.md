@@ -173,4 +173,5 @@ confidently.</p>
 to make a difference today!</p>
 <p>Visit our<strong> <a href="https://www.linkedin.com/company/project-we-care" rel="noopener nofollow" target="_blank">Project We Care LinkedIn</a></strong> for
 inspiring partnership stories and collaboration opportunities in the community!</p>
+<p>Watch our Project We Care video to find out more!</p>
 <p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;</p>
