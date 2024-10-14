@@ -67,8 +67,9 @@ future for Singapore and Singaporeans. The Future starts with YOU!</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Linkedin.png">
+<img style="width: 6%;" height="auto" width="100%" alt="" src="/images/Linkedin.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
