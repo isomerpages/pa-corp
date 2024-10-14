@@ -46,7 +46,7 @@ future for Singapore and Singaporeans. The Future starts with YOU!</p>
 <br><strong><a href="https://go.gov.sg/futureyouthpaym" rel="noopener noreferrer nofollow" target="_blank">Share your views and be part of the movement!</a></strong>
 </p>
 <p>Follow us on our socials for updates:</p>
-<table style="minWidth: 125px">
+<p></p><table style="minWidth: 125px">
 <colgroup>
 <col>
 <col>
@@ -65,12 +65,11 @@ future for Singapore and Singaporeans. The Future starts with YOU!</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.youtube.com/@peoplesassociationyouthmov1856"><img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/YouTubeIcon.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 6%;" height="auto" width="100%" alt="" src="/images/Linkedin.png">
-</div>
-<p></p>
-</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sg.linkedin.com/company/people-association-youth-movement"><img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/Linkedin.png"></a>
+	</td>
+
+
+
 </tr>
 </tbody>
 </table>
