@@ -46,7 +46,7 @@ future for Singapore and Singaporeans. The Future starts with YOU!</p>
 <br><strong><a href="https://go.gov.sg/futureyouthpaym" rel="noopener noreferrer nofollow" target="_blank">Share your views and be part of the movement!</a></strong>
 </p>
 <p>Follow us on our socials for updates:</p>
-<p></p><table style="minWidth: 125px">
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/paym.youths/"><img style="width:45px;display:inline-block;margin-right:10px;" height="auto" width="100%" alt="" src="/images/IG.jpg"></a><a class="isomer-image-wrapper" href="https://www.facebook.com/PAYMyouths"><img style="width:45px;display:inline-block;margin-right:10px;" height="auto" width="100%" alt="" src="/images/FB.jpg"></a><a class="isomer-image-wrapper" href="https://t.me/s/PAYMYouthNetwork"><img style="width:40px;display:inline-block;margin-right:10px;" height="auto" width="100%" alt="" src="/images/Telegram.jpg"></a><a class="isomer-image-wrapper" href="https://www.youtube.com/@peoplesassociationyouthmov1856"><img style="width:40px;display:inline-block;margin-right:10px;" height="auto" width="100%" alt="" src="/images/YouTubeIcon.png"></a><a class="isomer-image-wrapper" href="https://sg.linkedin.com/company/people-association-youth-movement"><img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/Linkedin.png"></a><table style="minWidth: 125px">
 <colgroup>
 <col>
 <col>
@@ -56,18 +56,13 @@ future for Singapore and Singaporeans. The Future starts with YOU!</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/paym.youths/"><img style="width:45px;display:inline-block" height="auto" width="100%" alt="" src="/images/IG.jpg"></a>
-<p></p>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/PAYMyouths"><img style="width:45px;display:inline-block" height="auto" width="100%" alt="" src="/images/FB.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/s/PAYMYouthNetwork"><img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/Telegram.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.youtube.com/@peoplesassociationyouthmov1856"><img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/YouTubeIcon.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sg.linkedin.com/company/people-association-youth-movement"><img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/Linkedin.png"></a>
-	</td>
-</tr>
+	
+	
+	
+	
+	
+	</tr>
+
 </tbody>
 </table>
 <p></p>
