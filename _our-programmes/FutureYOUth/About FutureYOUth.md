@@ -67,9 +67,6 @@ future for Singapore and Singaporeans. The Future starts with YOU!</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sg.linkedin.com/company/people-association-youth-movement"><img style="width:40px;display:inline-block" height="auto" width="100%" alt="" src="/images/Linkedin.png"></a>
 	</td>
-
-
-
 </tr>
 </tbody>
 </table>
