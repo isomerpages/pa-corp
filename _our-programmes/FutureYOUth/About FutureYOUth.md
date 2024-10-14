@@ -6,7 +6,7 @@ description: Make your voices heard on issues close to the youth such as mental
   health, racial and religious harmony, and sustainability
 third_nav_title: FutureYOUth
 ---
-<h4><strong>About FutureYOUth</strong></h4>
+<h4><strong>About FutureYOUth Movement</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/FutureYOUth_Campaign_Banner.jpg">
 </div>
