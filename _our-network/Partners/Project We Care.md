@@ -5,17 +5,18 @@ description: ""
 third_nav_title: Partners
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" alt="Project We Care Logo" src="/images/Project%20We%20Care/pwc%20logo.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Project We Care/PWC_logo_use.jpg">
 </div>
 <p>Established in 2012, Project We Care (PWC) is a <strong>corporate social responsibility initiative</strong> led
 by Business Leaders from the private sector and the People’s Association.
 &nbsp;We provide a platform for corporate organisations who want to make
 a positive impact to the community, to rally their employees to contribute
 towards meaningful causes in the community.</p>
-<p>&nbsp;Over the years, our <strong>PWC network has grown from 40 corporate partners to more than 400 corporate partners</strong> today.
-&nbsp;Through the partnership with PA, the network was <strong>engaged in over 600 social impact initiatives</strong>,
-benefitting <strong>more than 900,000 beneficiaries</strong>!</p>
+<p>Over the years, our <strong>PWC network has grown from 40 corporate partners to more than 400 corporate partners</strong> today.
+&nbsp;Through the partnership with PA, the network was <strong>engaged in over 700 social impact initiatives</strong>,
+benefitting <strong>close to a million beneficiaries</strong>!</p>
 <h3><strong>Opportunities to Make a Difference</strong></h3>
 <p>From befriending beneficiaries to upskilling the communities, corporate
 partners can play a pivotal role in creating a more inclusive and compassionate
@@ -172,4 +173,6 @@ confidently.</p>
 to make a difference today!</p>
 <p>Visit our<strong> <a href="https://www.linkedin.com/company/project-we-care" rel="noopener nofollow" target="_blank">Project We Care LinkedIn</a></strong> for
 inspiring partnership stories and collaboration opportunities in the community!</p>
+<p>Watch our <strong><a href="https://www.linkedin.com/feed/update/urn:li:activity:7249720284931375104" rel="noopener nofollow" target="_blank">Project We Care video</a></strong> to
+find out more!</p>
 <p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;</p>

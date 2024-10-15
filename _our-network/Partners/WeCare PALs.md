@@ -26,9 +26,9 @@ special needs citizens to deepen the connections with the community.</p>
 <h3>Join us in the WeCare Journey!</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Visit our <a href="https://www.facebook.com/WeCarePALs" rel="noopener noreferrer nofollow" target="_blank">WeCare PALs Facebook Page</a> and
-<a href="https://www.linkedin.com/company/wecarepals/" rel="noopener noreferrer nofollow" target="_blank">WeCare PALs LinkedIn Page</a>for more partnership opportunities and heartfelt
-stories on the meaningful programmes our WeCare PALs have done with us!</p>
+<p>Visit our <a href="https://www.facebook.com/WeCarePALs" rel="noopener noreferrer nofollow" target="_blank">WeCare PALs Facebook Page</a> for
+more partnership opportunities and heartfelt stories on the meaningful
+programmes our WeCare PALs have done with us!</p>
 </li>
 <li>
 <p>Watch our <a href="https://www.youtube.com/watch?v=yJkPFgliSBA" rel="noopener noreferrer nofollow" target="_blank">WeCare PALS Video</a> for
