@@ -4,7 +4,7 @@ permalink: /deepavali-in-your-community/
 variant: tiptap
 description: Deepavali
 ---
-<p>Deepavali is a beautiful festival celebrated by the Hindu community in
+<p>Deepavali is a beautiful festival celebrated by the Indian community in
 Singapore which serves as a reminder of the triumph of light over darkness
 and good over evil. It is a time for families to come together, share joy,
 and strengthen bonds through traditions and festivities.</p>
@@ -48,30 +48,156 @@ the beauty of the festival of light with your community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6 October</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Toa Payoh East CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dandiya Night</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Toa Payon East CC MPH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>19 October</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chong Pang Zone 3 RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chong Pang Zone 3 RN Deepavali Shopping Trip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chong Pang CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon South CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project Light 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon South CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marsiling CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali Lights up and Deepavali Parisu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sri Siva Krishna Temple</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon East CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali Walkabout 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Queenstown CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Queenstown Deepavali Celebration 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Queenstown CC MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon Central CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mangala Deepavali 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yishun Town Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Moulmein-Cairnhill CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Moulmein-Cairnhill Deepavali Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 50 Dorset Road MPH (MPH50)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon East CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon East Deepavali Celebrations 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon East Seniors' Hub, Next to Blk 293 Yishun Street 22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Zone 3 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Zone 3 RN Deepavali Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>130 Yishun St 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woodgrove CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woodgrove Deepa Sahana 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>888 Plaza, Atrium</p>
 </td>
 </tr>
 </tbody>
