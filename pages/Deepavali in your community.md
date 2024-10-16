@@ -90,6 +90,20 @@ the beauty of the festival of light with your community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>20 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yew Tee CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Happy Bus &amp; Sethlui.com: Indian Heritage Visit &amp; Food Trail&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Little India</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>26 October</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,6 +142,20 @@ the beauty of the festival of light with your community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Queenstown CC MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon Link IAEC Deepavali Celebration 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N4 Courtyard (beside 414 Yishun Ring Road</p>
 </td>
 </tr>
 <tr>
@@ -184,6 +212,20 @@ the beauty of the festival of light with your community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>130 Yishun St 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yew Tee CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepamaalai 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hard Court beside Yew Tee MRT Station</p>
 </td>
 </tr>
 <tr>
