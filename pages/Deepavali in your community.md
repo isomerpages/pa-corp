@@ -51,13 +51,28 @@ the beauty of the festival of light with your community.</p>
 <p>6 October</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Bukit Gombak CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/100068385227777/posts/pfbid02MEMUPy4KdQxQgrFdcdmqFcF8e9sHchwV5vgMmM3Mi2Ka1KRmGDJUaz9RaiakATqZl/?app=fbl" rel="noopener nofollow" target="_blank">Deepavali Light-Up</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hardcourt @ Blk 372 Bukit Batok St 31</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 October</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Toa Payoh East CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dandiya Night</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Toa Payon East CC MPH</p>
+<p>Toa Payoh East CC MPH</p>
 </td>
 </tr>
 <tr>
@@ -128,6 +143,34 @@ the beauty of the festival of light with your community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buangkok CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali Carnival 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buangkok CC Community Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anchorvale CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sengkang West Deepavali Celebration 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anchorvale CC, MPH</p>
 </td>
 </tr>
 <tr>
