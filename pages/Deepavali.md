@@ -19,7 +19,6 @@ warm hospitality that characterize this festival, and immerse yourself
 in the spirit of togetherness and harmony.</p>
 <p>Join our Deepavali celebration event in your neighbourhood and experience
 the beauty of the festival of light with your community.</p>
-<hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Celebrate Deepavali in your community!</summary>
