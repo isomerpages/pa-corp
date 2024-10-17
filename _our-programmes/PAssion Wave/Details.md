@@ -3,6 +3,7 @@ title: Details
 permalink: /our-programmes/passion-wave/details/
 description: ""
 third_nav_title: PAssion Wave
+variant: markdown
 ---
 <img style="width:600px" src="/images/Our%20Programmes/PW%20Updated.jpg">
 
@@ -27,7 +28,7 @@ For more information on our six outlets, please visit the link below.
 
 <table>
  <tbody><tr>
-					<td width="501" colspan="2" style="width:375.4pt;border:solid windowtext 1.0pt; ">
+					<td width="501" colspan="2" style="width:375.4pt;border:solid windowtext 1.0pt;">
   <p align="center" style="text-align:center"><b>PASSION WAVE
   OUTLETS</b></p>
   <p align="center">Operating Hours: Tuesdays to Sundays, 9am to 6pm<br>
@@ -95,4 +96,9 @@ Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](
 
 
 [PAssion Wave Programmes &amp; Rental Rate Card  ](/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf)<br>
+
+[PAssion Wave Pre Activity Information
+(https://go.gov.sg/passionwave-preactivity-information<br>
+
+
 (Accurate as of 27 March 2023)
