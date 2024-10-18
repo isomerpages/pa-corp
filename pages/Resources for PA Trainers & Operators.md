@@ -115,8 +115,6 @@ are not our Trainers and Operators yet.</p>
 <p>Please download the resources via the link below:</p>
 <p><a href="https://www.activesgcircle.gov.sg/nrep/exercise-professionals" rel="noopener noreferrer nofollow" target="_blank">Details of NREP</a>
 </p>
-<p>NREP Registration Clinics, <a href="https://form.gov.sg/65965a0e0a230600125ec1db" rel="noopener noreferrer nofollow" target="_blank">sign up here</a>
-</p>
 <p><strong>Skills Framework for Arts</strong>
 </p>
 <p>Please download the resources via the link below:</p>
