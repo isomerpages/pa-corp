@@ -88,7 +88,7 @@ before heading down for the rental.</p>
 </table>
 <p>Follow us on <a href="https://www.facebook.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> or
 <a href="https://www.instagram.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>to keep up to date with our latest news!</p>
-<p><a href="/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave Programmes &amp; Rental Rate Card </a>
+<p><a href="/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave Programmes &amp; Rental Rate Card</a>
 </p>
 <p><a href="https://go.gov.sg/passionwave-preactivity-information" rel="noopener nofollow" target="_blank">PAssion Wave Pre-Activity Information</a>
 <br>
