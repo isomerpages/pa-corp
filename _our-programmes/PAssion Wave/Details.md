@@ -97,8 +97,8 @@ Follow us on [Facebook](https://www.facebook.com/pa.passionwave) or [Instagram](
 
 [PAssion Wave Programmes &amp; Rental Rate Card  ](/files/Our%20Programmes/PAssion%20Wave/PAssion%20Wave%20Rate%20Card%202022.pdf)<br>
 
-[PAssion Wave Pre Activity Information
-(https://go.gov.sg/passionwave-preactivity-information<br>
+[PAssion Wave Pre Activity Information]
+(https://go.gov.sg/passionwave-preactivity-information)<br>
 
 
 (Accurate as of 27 March 2023)
