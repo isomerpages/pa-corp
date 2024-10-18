@@ -44,7 +44,15 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/3__Annex_2_a____Guidelines_OnlineCourses__Trainers_Operators__30April2024_.pdf" rel="noopener nofollow" target="_blank">Annex 2(a) - Guidelines for Organising Online and Blended Courses </a>
+</p>
+</li>
+<li>
 <p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(04)%20Annex%202(b)%20-%20The%20'5%20DOs'.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 2(b) - The '5 DOs'</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/4__Annex_2_b____The__5_DOs_.pdf" rel="noopener nofollow" target="_blank">Annex 2(b) - The 5 "DOs"</a>
 </p>
 </li>
 <li>
