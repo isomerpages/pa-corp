@@ -32,6 +32,10 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/2__Annex_2___Classes_for_Children.pdf" rel="noopener nofollow" target="_blank">Annex 2 - Classes for Children</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(02)%20Annex%202%20-%20Classes%20for%20Children.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 2 - Classes for Children</a>
 </p>
 </li>
