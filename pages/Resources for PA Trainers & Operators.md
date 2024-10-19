@@ -60,7 +60,15 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/5__Annex_3___Classroom_Management_Standards_for_Playgroups.pdf" rel="noopener nofollow" target="_blank">Annex 3 - Classroom Management Standards for Playgroups and Young Children</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(06)%20annex%204%20-%20health%20hygiene%20and%20safety%20standards%20for%20playgroups%20and%20young%20children.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 4 - Health and Safety Standards for Playgroups and Young Children</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/6__Annex_4___Health_Hygiene_and_Safety_Standards_for_Playgroups_and_Young_Children.pdf" rel="noopener nofollow" target="_blank">Annex 4 - Health and Safety Standards for Playgroups and Young Children</a>
 </p>
 </li>
 <li>
@@ -73,6 +81,10 @@ are not our Trainers and Operators yet.</p>
 </li>
 <li>
 <p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(07)%20Annex%205%20-%20Fire%20Safety%20Standards%20for%20Playgroups%20and%20Young%20Children.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 5 - Fire Safety Standards for Playgroups and Young Children</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/7__Annex_5___Fire_Safety_Standards_for_Playgroups_and_Young_Children.pdf" rel="noopener nofollow" target="_blank">Annex 5 - Fire Safety Standards for Playgroups and Young Children </a>
 </p>
 </li>
 <li>
