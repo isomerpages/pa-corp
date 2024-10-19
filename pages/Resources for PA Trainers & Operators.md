@@ -28,10 +28,6 @@ are not our Trainers and Operators yet.</p>
 <p>Please download the resources via the links below:</p>
 <ol>
 <li>
-<p><a href="/files/(01)%20Professional%20Standards%20and%20Guidelines%20for%20PA%20Trainers%20(Effective%201%20Jan%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Professional Standards and Guidelines for PA Trainers (Effective 1 January 2023)</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/1__Professional_Standards_and_Guidelines_for_PA_Trainers__updated_.pdf" rel="noopener nofollow" target="_blank">Professional Standards and Guidelines for PA Trainers (Effective 1 January 2023)</a>
 </p>
 </li>
