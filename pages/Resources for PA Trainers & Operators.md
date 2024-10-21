@@ -68,10 +68,6 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(updated%206%20Jan%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics of PSG (As of 1 Jan 2023)</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/Frequently%20Asked%20Questions%20for%20PA%20TrainersOperators%20-%20PSG%20(27%20Dec%202022).pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for revised PSG (As of 1 Jan 2023)</a>
 </p>
 </li>
