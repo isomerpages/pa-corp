@@ -120,8 +120,7 @@ one another, for one another, and also with the government in making solutions
 work. And this, I think is going to be central to our core mission of building
 a strong resilient community, and upholding our social cohesion.</p>
 <p>I would say that this shift over the last couple of years can be encapsulated
-in three words, expanding our community participation across segments of
-society.</p>
+in three words, expanding community participation across segments of society.</p>
 <p>And I thought this morning I'll share with you a couple of examples from
 the different divisions around some best practices. Not that if you don't
 feature here, it is not good. We only have time to feature a few, but I
