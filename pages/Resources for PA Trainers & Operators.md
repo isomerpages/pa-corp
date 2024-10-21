@@ -64,6 +64,10 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/11__Presentation_slides_for_revised_PSG.pdf" rel="noopener nofollow" target="_blank">Infographics of PSG (As of 1 Jan 2023 - Updated on 19 Oct 2024)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(updated%206%20Jan%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics of PSG (As of 1 Jan 2023)</a>
 </p>
 </li>
