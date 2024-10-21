@@ -61,38 +61,6 @@ be on hand to guide families for a delightful experience on the water.</p>
 </p>
 </li>
 </ul>
-<h3>Glow PAddle 2024</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="night view of marina bay" src="/images/10.png">
-</div>
-<p>Prepare to be captivated by the allure of the night as you join us for
-an enchanting night dragon expedition, Glow PAddle, as part of PAssion
-Wave's 50th Anniversary celebration activities to bring the community together.</p>
-<p>Under the guidance of certified dragon boat trainers, participants will
-embark on an exhilarating journey into Marina Bay aboard stunning LED-lit
-dragon boats to view selected artworks of i Light Singapore 2024 on water,
-all while being immersed in the historical narrative of PAssion Wave's
-legacy and Singapore's iconic landmarks, delivered by tour guides.</p>
-<p>This unique experience promises an unforgettable blend of excitement,
-culture, and community spirit, making it a fitting celebration of our 50th
-Anniversary.</p>
-<p>&nbsp;Dates: 8, 16 &amp; 23 June 2024&nbsp;</p>
-<p>Location: PAssion Wave @ Marina Bay&nbsp;</p>
-<p>Register via the links below for Glow PAddle:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/glowpaddle-8jun" rel="noopener noreferrer nofollow" target="_blank">Glow PAddle on 8 June 2024</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/glowpaddle-16jun" rel="noopener noreferrer nofollow" target="_blank">Glow PAddle on 16 June 2024</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/glowpaddle-23jun" rel="noopener noreferrer nofollow" target="_blank">Glow PAddle on 23 June 2024</a>
-</p>
-</li>
-</ul>
 <h3>We support NS: One-for-One kayak rental</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="kayaking at passion wave bedok" src="/images/11.png">
@@ -128,62 +96,8 @@ rental.&nbsp;</p>
 <p><a href="https://go.gov.sg/pwpr-wesupportns" rel="noopener noreferrer nofollow" target="_blank">We support NS: One-for-One kayak rental at PAssion Wave @ Pasir Ris</a>
 </p>
 <p></p>
-</li>
-</ul>
-<h3>Day Expedition</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="couple kayaking in the sea" src="/images/9.png">
-</div>
-<p>Join us for an unforgettable celebration with the awe inspiring <strong>50km Kayaking Expedition</strong>.
-Starting from PAssion Wave @ East Coast, paddle&nbsp; through the picturesque
-landscapes of Changi Beach, Pasir Ris, and Sembawang to experience the
-beauty of nature like never before.&nbsp; Push boundaries, forge friendships,
-and create memories that will last a lifetime.</p>
-<p>&nbsp;Dates: 13 July 2024&nbsp;</p>
-<p>Location: PAssion Wave @ East Coast&nbsp;</p>
-<p><em>Registration slots have been fully subscribed.&nbsp;&nbsp;</em>
-</p>
-<h3>2D1N Round Ubin Expedition</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="group of kayakers" src="/images/12.png">
-</div>
-<p>Embark on an exhilarating <strong>2-day, 1-night Kayak Expedition</strong> from
-PAssion Wave @ Sembawang to rustic Pulau Ubin. Navigate the sparkling waters,
-exploring the scenic landscapes of Seletar Island, Punggol, and the serene
-beauty of Pulau Ubin. Gear up to ignite your adventurous side, and join
-us for the PAssion Wave 50<sup>th</sup> Anniversary expedition filled with
-excitement, camaraderie, and unforgettable moments.</p>
-<p>&nbsp;Dates: 24 &amp; 25 August 2024</p>
-<p>Location: PAssion Wave @ Sembawang&nbsp;</p>
-<p>Register for the <a href="https://go.gov.sg/roundubinexpedition" rel="noopener noreferrer nofollow" target="_blank">2D1N Round Ubin Expedition on 24 &amp; 25 August 2024</a>
-</p>
-<h3>Mangrove Expedition</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kayaks in a mangrove" src="/images/7.png">
-</div>
-<p>Bond through PAssion Wave's Kayak Mangrove Expedition for parents looking
-for unique family activities.</p>
-<p>Join us to navigate Sungei Api-Api, kayaking through the waters of Pasir
-Ris and learn about the vital role mangroves play in our ecosystem and
-how we can protect them for generations to come through mangrove conservation.</p>
-<p>Explore nature's wonders and make a positive impact on the environment
-as a family to be part of the 50th Anniversary celebrations.</p>
-<p>Dates: 31 August 2024</p>
-<p>Location: PAssion Wave @ Pasir Ris</p>
-<p>Register for the <a href="https://go.gov.sg/mangroveexpedition" rel="noopener noreferrer nofollow" target="_blank">Mangrove Expedition on 31 August 2024</a>.</p>
-<h3>Day Expedition to Solar Panel Farm</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="happy kayakers in the sea" src="/images/8.png">
-</div>
-<p>Prepare to embark on an extraordinary journey where innovation and nature
-meets!</p>
-<p>Be the first 50 to paddle to get up close to the world's first and largest
-floating solar panel in the sea designed to bring Singapore closer to decarbonisation.</p>
-<p>So, grab your paddle and get ready to embark on a journey that will leave
-you inspired and amazed.</p>
-<p>Dates: 21 September 2024&nbsp;</p>
-<p>Location: PAssion Wave @ Sembawang&nbsp;</p>
-<p>Register for the <a href="https://go.gov.sg/solarpanelexpedition" rel="noopener noreferrer nofollow" target="_blank">Day Expedition to Solar Panel Farm</a>.</p>
-<p>&nbsp;</p>
 <p>Follow us on&nbsp;<a href="https://www.facebook.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>&nbsp;or&nbsp;
 <a href="https://www.instagram.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;to keep up to date with our latest news!</p>
+</li>
+</ul>
+<p></p>
