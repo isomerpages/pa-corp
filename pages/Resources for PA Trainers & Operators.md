@@ -26,29 +26,30 @@ are not our Trainers and Operators yet.</p>
 <p><strong>Professional Standards and Guidelines for PA Trainers</strong>
 </p>
 <p>Please download the resources via the links below:</p>
+<p></p>
 <ol>
 <li>
-<p><a href="/files/(01)%20Professional%20Standards%20and%20Guidelines%20for%20PA%20Trainers%20(Effective%201%20Jan%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Professional Standards and Guidelines for PA Trainers (Effective 1 January 2023)</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/1__Professional_Standards_and_Guidelines_for_PA_Trainers__updated_.pdf" rel="noopener nofollow" target="_blank">Professional Standards and Guidelines for PA Trainers (Effective 1 Jan 2023) (Updated 19 Oct)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(02)%20Annex%202%20-%20Classes%20for%20Children.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 2 - Classes for Children</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/2__Annex_2___Classes_for_Children.pdf" rel="noopener nofollow" target="_blank">Annex 2 - Classes for Children</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(03)%20Annex%202(a)%20-%20Guidelines%20for%20Online%20Courses.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 2(a) - Guidelines for Organising Online and Blended Courses</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/3__Annex_2_a____Guidelines_OnlineCourses__Trainers_Operators__30April2024_.pdf" rel="noopener nofollow" target="_blank">Annex 2(a) - Guidelines for Orgainsing Online and Blended Courses</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(04)%20Annex%202(b)%20-%20The%20'5%20DOs'.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 2(b) - The '5 DOs'</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/4__Annex_2_b____The__5_DOs_.pdf" rel="noopener nofollow" target="_blank">Annex 2(b) - The "5 DOs"</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(05)%20Annex%203%20-%20Classroom%20Management%20Standards%20for%20Playgroups.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 3 - Classroom Management Standards for Playgroups and Young Children</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/5__Annex_3___Classroom_Management_Standards_for_Playgroups.pdf" rel="noopener nofollow" target="_blank">Annex 3 - Classroom Management Standards for Playgroups and Young Children</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(06)%20annex%204%20-%20health%20hygiene%20and%20safety%20standards%20for%20playgroups%20and%20young%20children.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 4 - Health and Safety Standards for Playgroups and Young Children</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/6__Annex_4___Health_Hygiene_and_Safety_Standards_for_Playgroups_and_Young_Children.pdf" rel="noopener nofollow" target="_blank">Annex 4 - Health and Hygiene and Safety Standards for Playgroups and Young Children</a>
 </p>
 </li>
 <li>
@@ -60,11 +61,11 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(07)%20Annex%205%20-%20Fire%20Safety%20Standards%20for%20Playgroups%20and%20Young%20Children.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 5 - Fire Safety Standards for Playgroups and Young Children</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/7__Annex_5___Fire_Safety_Standards_for_Playgroups_and_Young_Children.pdf" rel="noopener nofollow" target="_blank">Annex 5 - Fire Safety Standards for Playgroups and Young Children</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(11)%20Presentation%20Slides%20for%20revised%20PSG%20(updated%206%20Jan%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics of PSG (As of 1 Jan 2023)</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/11__Presentation_slides_for_revised_PSG.pdf" rel="noopener nofollow" target="_blank">Infographics of PSG (As of 1 Jan 2023 - Updated on 19 Oct 2024)</a>
 </p>
 </li>
 <li>
