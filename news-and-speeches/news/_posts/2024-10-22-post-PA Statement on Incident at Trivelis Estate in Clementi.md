@@ -7,8 +7,8 @@ description: PA Statement on Incident at Trivelis Estate in Clementi
 image: ""
 variant: markdown
 ---
-<pre><p>22 October 2024</p>
-<p><strong>PA STATEMENT ON INCIDENT AT TRIVELIS ESTATE IN CLEMENTI</strong>
+<p>22 October 2024</p>
+<pre><p><strong>PA STATEMENT ON INCIDENT AT TRIVELIS ESTATE IN CLEMENTI</strong>
 </p>
 <p>1      We regret that there are unverified reports in the media purporting
 to suggest that the alleged suspect in the Clementi stabbing case was serving in the grassroots. This is not true.</p>
