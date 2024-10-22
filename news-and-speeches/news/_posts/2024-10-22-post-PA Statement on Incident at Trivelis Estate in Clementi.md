@@ -26,6 +26,6 @@ which will commence on 23 October.</p>
 <p>The family of the deceased have asked us to convey that they are deep
 in grief and do not wish to entertain requests for media interviews. We
 ask for this to please be respected.</p>
-<p>6 We further urge members of public not to forward or share graphic footage
+<p>We further urge members of public not to forward or share graphic footage
 or images of the incident. This only intensifies the pain felt by the family
 and the community.</p>
