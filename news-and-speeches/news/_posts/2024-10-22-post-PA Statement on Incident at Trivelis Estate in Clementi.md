@@ -20,7 +20,7 @@ from being further misled by this inaccuracy, we have decided to clarify
 the matter quickly.</p>
 <p>With the consent of the family of the deceased, we confirm that the deceased
 was a grassroots volunteer. The PA grassroots network and the Grassroots
-Advisor are deeply saddened by his demise. More information about his service
+Adviser are deeply saddened by his demise. More information about his service
 to the community will be shared in remembrance during the funeral wake,
 which will commence on 23 October.</p>
 <p>The family of the deceased have asked us to convey that they are deep
