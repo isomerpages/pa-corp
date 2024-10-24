@@ -65,7 +65,7 @@ sections:
       image: /images/Passion Mobile.png
       title: MyPassion Mobile App
   - infopic:
-      title: CCRNGoWhere
+      title: Find Your Nearest CC or RC/RN
       description: Locate a Community Club or Residents' Commitee/Residents' Network
         near you
       button: Search
