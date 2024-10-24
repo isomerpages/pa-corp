@@ -15,11 +15,8 @@ together, build friendships and promote social bonding. CCs also connect
 residents and the Government by providing relevant information and gathering
 feedback on national concerns and policies. Each CC serves about 15,000
 households or an average of 50,000 people.</p>
-<p>Click <a href="https://www.onepa.gov.sg/cc" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-search for a CC near you.</p>
+<p>To find a CC, RC or NC near you, visit <a href="https://gowhere.gov.sg/ccrn" rel="noopener nofollow" target="_blank">CCRNGoWhere</a>.</p>
 <p>For information on the Legal Advice Service provided at the CCs, click
 <a href="/our-network/community-clubs/legal-advice-service" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>For information on the Rental Facilities that are available at the CCs,
 click <a href="/our-network/community-clubs/rentals" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Click <a href="https://www.onepa.gov.sg/rc" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-search for your nearest RC or NC.</p>

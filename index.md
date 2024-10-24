@@ -65,12 +65,11 @@ sections:
       image: /images/Passion Mobile.png
       title: MyPassion Mobile App
   - infopic:
-      title: Find My CC
-      description: PA manages 112 Community Clubs (CCs) across Singapore. Visit your
-        nearest CC to attend courses, book CC facilities, or join an Interest
-        Group.
+      title: Find Your Nearest CC or RC/RN
+      description: Locate a Community Club or Residents' Commitee/Residents' Network
+        near you
       button: Search
-      url: https://www.onepa.gov.sg/cc
+      url: https://gowhere.gov.sg/ccrn
       image: /images/Community Clubs/Hillview_CC.jpg
-      alt: https://www.onepa.gov.sg/cc
+      alt: https://gowhere.gov.sg/ccrn
 ---
