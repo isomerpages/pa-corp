@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Project We Care/PWC_logo_use.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project We Care/PWC_New_logo___RGB.jpg">
 </div>
 <p>Established in 2012, Project We Care (PWC) is a <strong>corporate social responsibility initiative</strong> led
 by Business Leaders from the private sector and the People’s Association.
