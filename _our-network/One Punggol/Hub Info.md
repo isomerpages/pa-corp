@@ -3,6 +3,7 @@ title: Hub Info
 permalink: /our-network/one-punggol/hub-info/
 description: ""
 third_nav_title: One Punggol
+variant: markdown
 ---
 One Punggol features the following key facilities:
 
@@ -12,7 +13,7 @@ Punggol Vista Community Club has been renamed One Punggol Community Club. With a
 
 **b.**    **ServiceSG Centre**
 
-One of the development’s key facilities is ServiceSG Centre One Punggol. It is a first-stop, whole-of-government physical service touchpoint to help citizens, especially those who are not digitally savvy or without the means to transact digitally, to access up to 400 frequently used government services and schemes across 20 agencies. In addition to helping citizens with their transactions and/or enquiries, ServiceSG centre staff value-add by cross referring related services across agencies to citizens, helping citizens save time and effort from needing to approach different agencies to ask for help. The centre will also be equipped with a Digital Lobby for citizens to self-help, and consultation rooms for citizens to speak face-to-face or/and connect with selected government agency officers via video conferencing to get assistance on complex services.
+One of the development’s key facilities is ServiceSG Centre One Punggol. It is a first-stop, whole-of-government physical service touchpoint to help citizens, especially those who are not digitally savvy or without the means to transact digitally, to access frequently used government services and schemes across agencies. In addition to helping citizens with their transactions and/or enquiries, ServiceSG centre staff value-add by cross referring related services across agencies to citizens, helping citizens save time and effort from needing to approach different agencies to ask for help. The centre will also be equipped with a Digital Lobby for citizens to self-help, and consultation rooms for citizens to speak face-to-face or/and connect with selected government agency officers via video conferencing to get assistance on complex services.
 
 **c.**     **Punggol Regional Library**
 
