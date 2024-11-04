@@ -19,18 +19,17 @@ description: ""
 </li>
 </ul>
 <hr>
-<p>Details</p>
+<h4>Details</h4>
 <p>A mandatory Pre-tender briefing will be held on:</p>
 <p>Date: 4 November 2024, Monday</p>
 <p>Time: 3.00pm</p>
-<p>Venue: Sengkang Community Club at 2 Sengkang Square, Singapore 545025</p>
-<p>#04-14 Conference Room (East Wing)</p>
+<p>Venue: Sengkang Community Club, #04-14 Conference Room (East Wing)</p>
 <p>Only tenderers who have attended the mandatory Pre-tender briefing will
 be considered in the tender evaluation.</p>
 <hr>
 <h4>Tender Document</h4>
 <p>(1) For request of soft copy tender documents, please email to <a href="mailto:Augustine_low@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Augustine_low@pa.gov.sg</a>.</p>
-<p>(2) For request of hard copy tender documents, .00please collect at Sengkang
+<p>(2) For request of hard copy tender documents, please collect at Sengkang
 Community Club reception counter located at 2 Sengkang Square, #01-01 S545025
 during operating hours from 10.00 am to 6.00 pm daily, except Public Holidays.</p>
 <hr>
