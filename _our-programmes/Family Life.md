@@ -17,8 +17,6 @@ The Family Fun.Family Time programme is a series of customised family-centric ac
 
 <img style="width:300px; height:350px" align="center" src="/images/Our%20Programmes/Family.jpg">
 
-### Let's Learn.Let's Play Together! Holiday Series
 
-The Let's Learn. Let's Play Together! Holiday programme is a series of thematic parent-child activities, specially curated to get families to foster stronger ties and connections during the holiday season.
 
-Visit our [Facebook](https://www.facebook.com/flc.pa.1) for more information on Family programmes. 
+information on Family programmes.
