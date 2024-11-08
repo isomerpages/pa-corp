@@ -11,7 +11,7 @@ variant: markdown
 ---
 <h3>People's Association's Community 2030 Plan Expands Community Participation To Build a Caring and United Singapore</h3>
 
-The People’s Association will go beyond serving residents and engaging residents at its community events, to empower and enable residents to become active changemakers shaping their community
+***The People’s Association will go beyond serving residents and engaging residents at its community events, to empower and enable residents to become active changemakers shaping their community***
 
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The People’s Association (PA) today announced its new Community 2030 (C2030) plan, which aims to spark and nurture community participation for a caring and united Singapore. The plan was unveiled by its Deputy Chairman, Minister of Culture, Community and Youth Edwin Tong, at its annual Community Seminar held at Our Tampines Hub.
