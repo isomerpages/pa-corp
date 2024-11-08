@@ -9,7 +9,7 @@ description: People's Association Launches Community Innovation Spaces As Part
 image: ""
 variant: markdown
 ---
-## People's Association Launches Community Innovation Spaces As Part Of 60<sup>th</sup> Anniversary Milestone of CCMC
+## People's Association launches Community Innovation Spaces as part of 60<sup>th</sup> anniversary milestone of CCMC
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The Community Club Management Committees (CCMCs) will be commemorating their 60<sup>th</sup> anniversary on **Monday, 4 November 2024, 7.00pm at One Punggol**. To mark the milestone, the People’s Association (PA) will be announcing two new initiatives - **Community Innovation Spaces (CIS)** and **Community Innovation Hackathon**. Chairman of PA, Prime Minister and Minister for Finance Lawrence Wong; Deputy Chairman of PA, Minister of Culture, Community and Youth Edwin Tong will join about 700 CCMC chairpersons and grassroots leaders at the event.
 
