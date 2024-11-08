@@ -18,7 +18,7 @@ The People’s Association will go beyond serving residents and engaging residen
  
 2  &nbsp; &nbsp; &nbsp; &nbsp;In his keynote to 2,000 volunteers, partners, and grassroots leaders attending the event, Minister Tong said: The People’s Association (PA) and its volunteers and the grassroots network have played a key part in the building of Singapore’s social cohesion and community resilience. It is important that PA evolves, to remain relevant and relatable to the changing needs and growing aspirations of Singaporeans. We have to encourage greater community and civic participation, and engender a stronger sense of responsibility towards fellow Singaporeans. These efforts will help cultivate a more caring and united Singapore.
 
-**(a)Expanding community participation**
+**(a) Expanding community participation**
 
 3 &nbsp; &nbsp; &nbsp; &nbsp;To support people who wish to contribute in causes they care about, PA will **scale its Community Volunteer (CV) scheme.** PA’s grassroots organisations (GROs) have been its primary platform to support community volunteering. This has been augmented with the introduction of the CV scheme in 2022 to encourage residents to come forward to volunteer based on their passion or the causes they care about, in a more informal, organic and flexible way. There are currently more than 15,000 CVs, of which over 40% are youths. These CVs have participated in more than 240 projects, from promoting cross cultural understanding among residents to uplifting children from less-privileged families through mentorship programmes. PA will build on this momentum to grow the CV scheme, to spark new projects and support the growth of existing ones.
 
