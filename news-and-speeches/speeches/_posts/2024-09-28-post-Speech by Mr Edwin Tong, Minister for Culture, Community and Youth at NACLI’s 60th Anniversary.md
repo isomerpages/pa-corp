@@ -346,51 +346,42 @@ will be in a position to navigate SG60 and the challenges that go beyond
 this.
 
 71 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NACLI, is one of the few, if not the only, centre of excellence that is
-dedicated to building strong community leadership training for the nation.<p></p>
+dedicated to building strong community leadership training for the nation.
 
-<li>
-<p>Its role is going to be important because if you remember what Prime Minister
+72 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Its role is going to be important because if you remember what Prime Minister
 Lawrence Wong has said in our Forward SG exercise, it is important for
 leaders to adapt their styles to the circumstances and the evolving needs
 of society in their respective era. What will make 4G work for Singapore
 will be very different from 3, 2 and 1 and all of that has got to do with
 a strong partnership with our community, with all of you, leaders in our
-community.</p>
-</li>
-<li>
-<p>It's not possible for government alone to take Singapore forward. So that's
+community.
+
+73 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It's not possible for government alone to take Singapore forward. So that's
 why Forward SG, our new social compact, is strongly embedded in the thinking
 that this is really a collaboration and a partnership and it's got to be
 that way if we want to make Singapore work. My final message today is on
-NACLI's 60th anniversary.</p>
-</li>
-<li>
-<p>I want to thank all of NACLI's staff, past and present, all the people
+NACLI's 60th anniversary.
+
+74 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I want to thank all of NACLI's staff, past and present, all the people
 who have been involved in NACLI, stakeholders, partners, people who have
 come to help volunteer their time, talent and treasures to make NACLI strong
-over the last 60 years. It has been a very important part of our nation-building.</p>
-</li>
-<li>
-<p>Looking forward to SG60 and beyond, understanding the challenges that
+over the last 60 years. It has been a very important part of our nation-building.
+
+75 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Looking forward to SG60 and beyond, understanding the challenges that
 Singapore faces, I believe that the role that NACLI will play could even
 be more important as we navigate challenges beyond SG60 and how we bring
 Singapore from where we are today to beyond, sustaining Singapore and making
 sure that Singapore remains strong for the next generation, our children
-and their children.</p>
-</li>
-<li>
-<p>And the foundation really starts with what we do here. Thank you very
+and their children.
+
+76 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And the foundation really starts with what we do here. Thank you very
 much to all of you for being here, for being part of our journey, for being
 so invested in NACLI and for many of you who are volunteering here in many
 ways to speak, to teach, to learn, to be examples. And to many of you who
 have opened up your businesses to places for internships for our young
-leaders.</p>
-</li>
-<li>
-<p>Thank you very much to all of you for supporting NACLI and may we see
+leaders.
+
+77 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thank you very much to all of you for supporting NACLI and may we see
 NACLI grow stronger in the next 60 years and beyond than it has in the
 last 60 years. Happy birthday, happy anniversary, NACLI. Thank you very
-much.</p>
-</li>
-
-<p></p>
+much.
