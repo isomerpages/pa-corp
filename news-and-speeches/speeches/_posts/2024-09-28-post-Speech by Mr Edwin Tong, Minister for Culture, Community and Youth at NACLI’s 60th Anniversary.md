@@ -9,7 +9,7 @@ description: Delivered Speech by Mr Edwin Tong, Minister for Culture, Community
 image: ""
 variant: markdown
 ---
-<h3>Speech by Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law at NACLI’s 60<sup>th</sup> Anniversary Conference</h3>
+<h3>Speech by Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law at NACLI’s 60<sup>th</sup> anniversary conference</h3>
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Good morning to all of you.
