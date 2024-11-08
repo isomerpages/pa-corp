@@ -45,32 +45,32 @@ Support of Singaporeans required for successful nomination
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How the nomination effort has involved the participation of the community (or communities) in each of the participating countries.
 
-13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NHB and PA will be steering the nomination in Singapore. As part of continued public engagement efforts, NHB and PA have held three focus group discussions in August and September 2024 to seek consent and support from key _Chingay_ stakeholders for the joint nomination, as well as their views on _Chingay_ and the nomination. These focus group discussions were attended by a total of 180 participants comprising stakeholders such as practitioners and representatives from cultural associations who have been participating in and organising the _Chingay Parade_, and many participants had expressed their support.
+13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NHB and PA will be steering the nomination in Singapore. As part of continued public engagement efforts, NHB and PA have held three focus group discussions in August and September 2024 to seek consent and support from key *Chingay* stakeholders for the joint nomination, as well as their views on *Chingay* and the nomination. These focus group discussions were attended by a total of 180 participants comprising stakeholders such as practitioners and representatives from cultural associations who have been participating in and organising the *Chingay Parade*, and many participants had expressed their support.
 
-14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond the preparation of the nomination file, NHB and PA will coordinate _Chingay_ community engagement programmes to raise awareness of the joint nomination. These engagement programmes include the _PAssionArts x Chingay Community Floats_ in end October 2024 where the public can participate in co-creating the floats for _Chingay 2025_.&nbsp; The _Chingay National Education Assembly Programme_ will continue to be held in Primary and Secondary schools in Singapore to introduce _Chingay_ to students. The awareness campaign will continue into 2025 at the _Chingay National Education (NE) Show, Chingay Parade 2025_ and _Chingay@Heartlands 2025_ celebrations. &nbsp;
+14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond the preparation of the nomination file, NHB and PA will coordinate *Chingay* community engagement programmes to raise awareness of the joint nomination. These engagement programmes include the *PAssionArts x Chingay Community Floats* in end October 2024 where the public can participate in co-creating the floats for *Chingay 2025*.&nbsp; The *Chingay National Education Assembly Programme* will continue to be held in Primary and Secondary schools in Singapore to introduce *Chingay* to students. The awareness campaign will continue into 2025 at the *Chingay National Education (NE) Show, Chingay Parade 2025* and *Chingay@Heartlands 2025* celebrations. &nbsp;
 
-15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through these efforts, it is hoped that there will be a greater appreciation of _Chingay,_ and awareness of the nomination effort. The feedback and support from Singaporeans have been crucial in shaping the nominations for UNESCO recognition, and members of the public and interested community groups are encouraged to participate in the preparation for the nomination, and in safeguarding and celebrating Singapore's diverse ICH. More details on the public outreach initiatives will be shared on PA’s website on Chingay ([https://www.chingay.gov.sg](https://www.chingay.gov.sg)) and NHB’s and PA’s social media channels (NHB: Facebook @NationalHeritageBoardSG and Instagram @nhbsg; PA’s Chingay: Facebook @ChingayParadeSG, Instagram @chingayparadesg and Tiktok:&nbsp; @chingayparadesg) at a later date.
+15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through these efforts, it is hoped that there will be a greater appreciation of *Chingay,* and awareness of the nomination effort. The feedback and support from Singaporeans have been crucial in shaping the nominations for UNESCO recognition, and members of the public and interested community groups are encouraged to participate in the preparation for the nomination, and in safeguarding and celebrating Singapore's diverse ICH. More details on the public outreach initiatives will be shared on PA’s website on Chingay ([https://www.chingay.gov.sg](https://www.chingay.gov.sg)) and NHB’s and PA’s social media channels (NHB: Facebook [@NationalHeritageBoardSG](https://www.facebook.com/NationalHeritageBoardSG/) and Instagram [@nhbsg](https://www.instagram.com/NHB_SG/); PA’s Chingay: Facebook [@ChingayParadeSG](https://www.facebook.com/chingayparadesg), Instagram [@chingayparadesg](https://www.instagram.com/chingayparadesg/) and Tiktok:&nbsp; [@chingayparadesg](https://www.tiktok.com/@chingayparadesg)) at a later date.
 
   
 
 * * *
 
-[\[1\]](#_ftnref1) Singapore’s first UNESCO nomination to the Representative List of the ICH of Humanity is _Hawker Culture_, a single-country nomination which was successfully inscribed in 2020. Singapore’s second UNESCO nomination is _kebaya_ which was jointly nominated with Brunei Darussalam, Malaysia, Indonesia and Thailand. The results are expected to be announced in December 2024.
+<sup>1</sup> Singapore’s first UNESCO nomination to the Representative List of the ICH of Humanity is _Hawker Culture_, a single-country nomination which was successfully inscribed in 2020. Singapore’s second UNESCO nomination is _kebaya_ which was jointly nominated with Brunei Darussalam, Malaysia, Indonesia and Thailand. The results are expected to be announced in December 2024.
 
-[\[2\]](#_ftnref2) NHB conducted a public engagement survey between August – October 2022 to determine ICH elements suitable for Singapore’s next nomination. The survey followed a series of Focus Group Discussionss held between June 2021 – January 2022 with close to 170 participants where a shortlist of 10 ICH elements were chosen by the participants.
+<sup>2</sup> NHB conducted a public engagement survey between August – October 2022 to determine ICH elements suitable for Singapore’s next nomination. The survey followed a series of Focus Group Discussionss held between June 2021 – January 2022 with close to 170 participants where a shortlist of 10 ICH elements were chosen by the participants.
 
-[\[3\]](#_ftnref3) The following are a selection of online sources of how Chingay practised in the cities of Johor Bahru and Penang, Malaysia.
-
+<sup>3</sup> The following are a selection of online sources of how Chingay practised in the cities of Johor Bahru and Penang, Malaysia.
+<br>
 a. Chingay listed on Malaysia’s ICH Inventory [https://www.heritage.gov.my/en/chingay.html](https://www.heritage.gov.my/en/chingay.html)
-
+<br>
 b. Chingay in Johor Bahru
-
+<br>
 [https://youtube/wbkMr2JplTM?si=u88xKUv3Z2YPbJPA](https://youtube/wbkMr2JplTM?si=u88xKUv3Z2YPbJPA)
-
+<br>
 [https://www.thestar.com.my/news/nation/2023/02/10/jb-chingay-festival-expected-to-draw-300000-visitors-says-association-chief](https://www.thestar.com.my/news/nation/2023/02/10/jb-chingay-festival-expected-to-draw-300000-visitors-says-association-chief)
-
+<br>
 c. Chingay in Penang
-
+<br>
 [https://youtu.be/iZ5\_2wGy5vw?si=z0wb-nw53nFkVZnH](https://youtu.be/iZ5_2wGy5vw?si=z0wb-nw53nFkVZnH)
-
+<br>
 [https://www.buletinmutiara.com/spectacular-chingay-parade-draws-enthusiastic-crowds/](https://www.buletinmutiara.com/spectacular-chingay-parade-draws-enthusiastic-crowds/)
