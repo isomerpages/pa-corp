@@ -319,41 +319,35 @@ of leaders.
 
 65&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here is a quick sneak peak of this gallery and it gives you a visual idea
 of how it will look like when it is completed. [Video] Let's take a pause
-and have a look at this short video clip.<p></p>
+and have a look at this short video clip.
 
-<li>
-<p>This is the new home for leadership in Singapore, community leadership
+66 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is the new home for leadership in Singapore, community leadership
 in Singapore, a place that is inspiring, a place that is inspiring, nurturing,
 and allows us a space away from the usual hustle and bustle of activity
 and life in Singapore to reflect on what leadership means and I think this
-becomes a very important centre for us as we navigate SG60 and beyond.</p>
-</li>
-<li>
-<p>I wanted to take a moment to thank the students from Nanyang Poly and
+becomes a very important centre for us as we navigate SG60 and beyond.
+
+67 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I wanted to take a moment to thank the students from Nanyang Poly and
 Temasek Poly. They helped to design this space. They embody the spirit
-of collaboration and innovation.</p>
-</li>
-<li>
-<p>They used a mixture of design and user interface as well as tech skills
-to help us with this.</p>
-</li>
-<li>
-<p>Thank you very much for working with us and playing a part in this. So
+of collaboration and innovation.
+
+68&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They used a mixture of design and user interface as well as tech skills
+to help us with this.
+
+69 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thank you very much for working with us and playing a part in this. So
 as I close, I want to just underscore how important it is that we look
-at this seriously.</p>
-</li>
-<li>
-<p>We are no longer a nation that is developing. We are a developed nation.
+at this seriously.
+
+70 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We are no longer a nation that is developing. We are a developed nation.
 We have matured in many ways but the challenges have evolved and are new
 and the stronger we equip ourselves with strong leadership across all segments
 of society, the more resilient our country will be and the stronger we
 will be in a position to navigate SG60 and the challenges that go beyond
-this.</p>
-</li>
-<li>
-<p>NACLI, is one of the few, if not the only, centre of excellence that is
-dedicated to building strong community leadership training for the nation.</p>
-</li>
+this.
+
+71 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NACLI, is one of the few, if not the only, centre of excellence that is
+dedicated to building strong community leadership training for the nation.<p></p>
+
 <li>
 <p>Its role is going to be important because if you remember what Prime Minister
 Lawrence Wong has said in our Forward SG exercise, it is important for
