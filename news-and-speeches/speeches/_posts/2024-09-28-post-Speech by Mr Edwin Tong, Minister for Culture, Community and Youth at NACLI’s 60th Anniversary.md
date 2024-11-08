@@ -9,3 +9,5 @@ description: Delivered Speech by Mr Edwin Tong, Minister for Culture, Community
 image: ""
 variant: tiptap
 ---
+<p>Delivered Speech by Mr Edwin Tong, Minister for Culture, Community and
+Youth and Second Minister for Law at NACLI’s 60th Anniversary Conference</p>
