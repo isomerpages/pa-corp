@@ -51,7 +51,7 @@ engagement efforts at both the governmental and ground-up levels.
 **Community Gallery**
 
 7 &nbsp; &nbsp; &nbsp; The new community gallery showcases the nation’s journey in community
-building. ** It aims to inspire and educate the future generation of leaders, instilling in them a deep appreciation for the power of community engagement and the possibilities of future in community building, encouraging individuals to make a difference in their own capacity, and contributing to a renewed social compact.**
+building. **It aims to inspire and educate the future generation of leaders, instilling in them a deep appreciation for the power of community engagement and the possibilities of future in community building, encouraging individuals to make a difference in their own capacity, and contributing to a renewed social compact.**
 
 8 &nbsp; &nbsp; &nbsp; The initiatives will be announced by **Mr Edwin Tong, Minister for Culture, Community and Youth, Second Minister for Law, and Deputy Chairman of People’s Association** at
 NACLI’s 60th anniversary conference and learning festival on **Saturday, 28 September 2024,** at
