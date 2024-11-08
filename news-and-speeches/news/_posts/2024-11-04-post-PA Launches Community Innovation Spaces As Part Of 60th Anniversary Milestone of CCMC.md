@@ -9,9 +9,9 @@ description: People's Association Launches Community Innovation Spaces As Part
 image: ""
 variant: markdown
 ---
-## People's Association Launches Community Innovation Spaces As Part Of 60th Anniversary Milestone of CCMC
+## People's Association Launches Community Innovation Spaces As Part Of 60<sup>th</sup> Anniversary Milestone of CCMC
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The Community Club Management Committees (CCMCs) will be commemorating their 60th anniversary on **Monday, 4 November 2024, 7.00pm at One Punggol**. To mark the milestone, the People’s Association (PA) will be announcing two new initiatives - **Community Innovation Spaces (CIS)** and **Community Innovation Hackathon**. Chairman of PA, Prime Minister and Minister for Finance Lawrence Wong; Deputy Chairman of PA, Minister of Culture, Community and Youth Edwin Tong will join about 700 CCMC chairpersons and grassroots leaders at the event.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The Community Club Management Committees (CCMCs) will be commemorating their 60<sup>th</sup> anniversary on **Monday, 4 November 2024, 7.00pm at One Punggol**. To mark the milestone, the People’s Association (PA) will be announcing two new initiatives - **Community Innovation Spaces (CIS)** and **Community Innovation Hackathon**. Chairman of PA, Prime Minister and Minister for Finance Lawrence Wong; Deputy Chairman of PA, Minister of Culture, Community and Youth Edwin Tong will join about 700 CCMC chairpersons and grassroots leaders at the event.
 
 2 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;The PA’s CCMCs were set up in October 1964 to offer residents greater say and ownership in their CC’s activities and programmes. They have come a long way since. Today, the CCs located islandwide serve as focal points in their respective neighbourhoods, providing a common space for residents to come together with their neighbours, friends and family. These would not be possible without the CCMC volunteers, who ensure that the many facilities, programmes and activities offered by the CCs meet their residents’ needs. Their efforts and contributions towards nation-building will be recognised at the commemorative event.
 
