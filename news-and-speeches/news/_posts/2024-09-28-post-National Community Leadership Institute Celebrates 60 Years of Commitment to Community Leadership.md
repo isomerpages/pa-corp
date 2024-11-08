@@ -13,16 +13,16 @@ variant: markdown
 ## National Community Leadership Institute Looks Ahead to Empower Future Community Leaders As It Celebrates 60 Years of Commitment to Community Leadership
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The National Community Leadership Institute (NACLI) is celebrating its
-60th anniversary this year, commemorating six decades of unwavering commitment
+60<sup>th</sup> anniversary this year, commemorating six decades of unwavering commitment
 to community development. Established in 1964 by the People’s Association
 (PA), NACLI has been instrumental in nurturing and empowering community
 leaders, equipping them with the skills to engage the community and foster
-social cohesion. As NACLI marks its 60th anniversary, it will leverage
+social cohesion. As NACLI marks its 60<sup>th</sup> anniversary, it will leverage
 PA’s rich community building experience and expand its efforts in capability
 development of future community leaders, including youths and leaders from
 civic societies, to support the community.&nbsp; &nbsp;
 
-2 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;In conjunction with NACLI’s 60th Anniversary, NACLI will be launching **two new leadership programmes, reaching other sectors of community, and empowering community leaders to drive positive impact in Singapore's diverse communities. In addition, a new community gallery is planned to open in August 2025 highlighting the nation’s journey in community building.**&nbsp; &nbsp;
+2 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;In conjunction with NACLI’s 60<sup>th</sup> Anniversary, NACLI will be launching **two new leadership programmes, reaching other sectors of community, and empowering community leaders to drive positive impact in Singapore's diverse communities. In addition, a new community gallery is planned to open in August 2025 highlighting the nation’s journey in community building.**&nbsp; &nbsp;
 				
 **Youth Leaders Collective**
 
@@ -54,5 +54,5 @@ engagement efforts at both the governmental and ground-up levels.
 building. **It aims to inspire and educate the future generation of leaders, instilling in them a deep appreciation for the power of community engagement and the possibilities of future in community building, encouraging individuals to make a difference in their own capacity, and contributing to a renewed social compact.**
 
 8 &nbsp; &nbsp; &nbsp; The initiatives will be announced by **Mr Edwin Tong, Minister for Culture, Community and Youth, Second Minister for Law, and Deputy Chairman of People’s Association** at
-NACLI’s 60th anniversary conference and learning festival on **Saturday, 28 September 2024,** at
+NACLI’s 60<sup>th</sup> anniversary conference and learning festival on **Saturday, 28 September 2024,** at
 the NACLI campus. This milestone event will feature **keynote addresses, panel discussions and a series of engaging workshops to inspire and equip community leaders and stakeholders with the knowledge and skills necessary to drive positive change in their respective communities.**
