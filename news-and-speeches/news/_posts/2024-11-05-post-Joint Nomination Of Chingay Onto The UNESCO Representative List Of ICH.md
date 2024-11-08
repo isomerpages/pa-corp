@@ -25,7 +25,7 @@ variant: markdown
 
 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Malaysia and Singapore aim to submit the nomination file to UNESCO in March 2025, and the result is expected to be announced in end 2026.
 
-Shared History and Significance of _Chingay_
+**Shared History and Significance of *Chingay***
 
 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Chingay_ represents a significant part of Singapore and Malaysia’s shared cultural histories, and remains actively practised in both countries. _Chingay_ is deeply rooted in Singapore’s history. Initially organised for religious festivals, it has evolved and grown to become a significant community-centred event in the socio-cultural calendar, reflecting the dynamism of Singapore’s multiculturalism, traditions as well as visual and performing arts. Today, it is commemorated through an engaging parade that is renowned for its dazzling and characteristic floats, intricate props and cultural performances from diverse cultural and ethnic communities. These require specific skills and knowledge which are passed down from the senior to younger practitioners, and between cultural communities. In addition, the annual parade involves multiple communities of all ages and backgrounds, such as local practitioners and artists from a wide range of performing art forms, community groups and interest groups; community volunteers; as well as international participants which facilitate cross-cultural exchanges.
 
@@ -35,7 +35,7 @@ Shared History and Significance of _Chingay_
 
 11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The joint nomination underscores the significance of _Chingay_ as a unifying celebration of shared history and culture, and celebrates its cultural richness while appreciating the diverse practices observed in both countries.
 
-Support of Singaporeans required for successful nomination
+**Support of Singaporeans required for successful nomination**
 
 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UNESCO will evaluate the nomination file collectively submitted by the participating countries, and focus on aspects such as:
 
