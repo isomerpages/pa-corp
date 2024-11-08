@@ -8,7 +8,7 @@ image: ""
 variant: markdown
 ---
 <p>22 October 2024</p>
-<p><strong>PA STATEMENT ON INCIDENT AT TRIVELIS ESTATE IN CLEMENTI</strong>
+<p><strong>PA statement on incident at Trivelis estate in Clementi</strong>
 </p>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; We regret that there are unverified reports in the media purporting to
 suggest that the alleged suspect in the Clementi stabbing case was serving
