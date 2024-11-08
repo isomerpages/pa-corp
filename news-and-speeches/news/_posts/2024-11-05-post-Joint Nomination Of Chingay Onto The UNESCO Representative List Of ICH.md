@@ -8,7 +8,7 @@ description: JOINT NOMINATION FOR THE INSCRIPTION OF CHINGAY ONTO THE UNESCO
 image: ""
 variant: markdown
 ---
-<h3>Joint Nomination For The Inscription Of Chingay Onto The UNESCO Representative List Of The Intangible Cultural Heritage Of Humanity</h3>
+<h3>Joint nomination for the inscription Of Chingay onto the UNESCO representative list of the Intangible Cultural Heritage Of Humanity</h3>
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Malaysia and Singapore will be jointly nominating *“Chingay: a street parade&nbsp;that showcases multiculturalism, traditions, and artistic displays of communities”*, onto the UNESCO Representative List of the Intangible Cultural Heritage (ICH) of Humanity in end March 2025. This would mark Singapore’s third UNESCO nomination to the Representative List, and second multinational nomination to the same List<sup>1</sup>.
 
