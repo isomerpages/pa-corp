@@ -9,282 +9,228 @@ description: Delivered Speech by Mr Edwin Tong, Minister for Culture, Community
 image: ""
 variant: markdown
 ---
-<h3>Speech by Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law at NACLI’s 60th Anniversary Conference</h3>
-<ol data-tight="true" class="tight">
-<li>
-<p>Good morning to all of you.</p>
-</li>
-<li>
-<p>Welcome to NACLI's 60th anniversary. It's not just a birthday or a milestone,
-but I think it gives us a platform to reflect on how far we have come,
-and more importantly, what the next steps should look like for us.</p>
-</li>
-<li>
-<p>This morning, I’ll share a little bit about why leadership, in particular,
-community leadership and youth leadership, has been so important for Singapore,
-and will continue to be really important as we navigate SG60 next year
-and beyond.</p>
-</li>
-<li>
-<p>And also share with you some of our new initiatives, what we'll be doing,
-and how we're going to take youth and community leadership up another notch.</p>
-</li>
-<li>
-<p>For the last six decades, and you know PA has been around since 1960,
-and NACLI since 1964, this institution has been at the forefront of nurturing
-capable and dedicated leaders for Singapore. Not just for the community,
-not just for PA, but for the broader society in Singapore.</p>
-</li>
-<li>
-<p>In the early years of Singapore's nation building, Mr Lee Kuan Yew, our
-founding Prime Minister, underscore the importance of good, strong community
+<h3>Speech by Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law at NACLI’s 60<sup>th</sup> Anniversary Conference</h3>
+
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Good morning to all of you.
+
+2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Welcome to NACLI's 60th anniversary. It's not just a birthday or a milestone, but I think it gives us a platform to reflect on how far we have come, and more importantly, what the next steps should look like for us.
+
+3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This morning, I’ll share a little bit about why leadership, in particular, community leadership and youth leadership, has been so important for Singapore,
+and will continue to be really important as we navigate SG60 next year and beyond.
+
+4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also share with you some of our new initiatives, what we'll be doing, and how we're going to take youth and community leadership up another notch.
+
+5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For the last six decades, and you know PA has been around since 1960, and NACLI since 1964, this institution has been at the forefront of nurturing
+capable and dedicated leaders for Singapore. Not just for the community, not just for PA, but for the broader society in Singapore.
+
+6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In the early years of Singapore's nation building, Mr Lee Kuan Yew, our founding Prime Minister, underscore the importance of good, strong community
 leadership. Our founding Prime Minister said, “A nation is not great by
 its size alone. It is the will, the cohesion, the stamina, the discipline
 of its people, and the quality of their leaders which ensure it an honourable
-place in history.”</p>
-</li>
-<li>
-<p>And I think that applies to Singapore very much. We are small in size,
+place in history.”
+
+7 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And I think that applies to Singapore very much. We are small in size,
 but I think we punch above our weight when it comes to global contributions
-on the world stage.</p>
-</li>
-<li>
-<p>And we can only do this if we have good, strong leaders at every segment
+on the world stage.
+
+8 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And we can only do this if we have good, strong leaders at every segment
 of society, not just in government, but perhaps equally important are the
 leaders that we have in our society and in our community. Our people and
 our human resource in a small nation like Singapore has always been our
 most treasured resource. Effective leadership is critical to allow us to
-overcome our physical limitations.</p>
-</li>
-<li>
-<p>Within this context, community and youth leadership play a vital role.
+overcome our physical limitations.
+
+9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Within this context, community and youth leadership play a vital role.
 It is essential as it forms the backbone of our social fabric, fostering
 social cohesion, facilitating ground-up initiatives, and addressing local,
 micro-specific needs of our community. Youth leadership is critical because
-our youths are the leaders of our next generation.</p>
-</li>
-<li>
-<p>If you look back at Singapore, we've developed tremendously over 60 years.
+our youths are the leaders of our next generation.
+
+10 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If you look back at Singapore, we've developed tremendously over 60 years.
 Today, our youths are at the forefront of many of our initiatives. People
 might say youths lack the experience. But I don't agree with that today,
-particularly in today's context.</p>
-</li>
-<li>
-<p>Today, having less experience is not a disadvantage. You have a different
+particularly in today's context.&lt;
+
+11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Today, having less experience is not a disadvantage. You have a different
 lens, and you share with us, in society, a very different perspective in
 terms of how you shape the community, and your own role in how you see
-yourself as one of the active citizens in our society.</p>
-</li>
-<li>
-<p>By developing these two aspects of leadership skills early, we will be
+yourself as one of the active citizens in our society.
+
+12 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By developing these two aspects of leadership skills early, we will be
 able to create a strong pipeline of talent to take us through, not just
 in community leadership, but civic society, and more importantly, at national
-platforms.</p>
-</li>
-<li>
-<p>NACLI has played an important role in both aspects of leadership over
+platforms.
+
+13 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NACLI has played an important role in both aspects of leadership over
 the years. In early Singapore, when we first started, going back to 1960,
 before we were independent, we were a nation which was struggling with
-race and racial tensions.</p>
-</li>
-<li>
-<p>We had difficulties bringing the community together. Tensions within the
+race and racial tensions.
+
+14 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We had difficulties bringing the community together. Tensions within the
 community sometimes bubbled over, into real physical tensions, sometimes
 even leading to destruction of property and loss of lives. Back then, we
-were not the same Singapore as it was today.</p>
-</li>
-<li>
-<p>But our early leaders had a vision, a vision of Singapore being Singapore
+were not the same Singapore as it was today.
+
+15 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But our early leaders had a vision, a vision of Singapore being Singapore
 for everyone, not for any particular race, not for a majority Chinese Singapore,
-not for a minority race, but for everyone.</p>
-</li>
-<li>
-<p>And that was the founding pillars of how we built up Singapore. PA, set
-up in 1960, was instrumental in that.</p>
-</li>
-<li>
-<p>Going door to door, very detailed in our social cohesion outreach, making
+not for a minority race, but for everyone.
+
+16 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that was the founding pillars of how we built up Singapore. PA, set
+up in 1960, was instrumental in that.
+
+17 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Going door to door, very detailed in our social cohesion outreach, making
 sure that every last resident in every community, in every kampung, as
 it was then, and eventually in every block of HDB flats, were looked after
 in a very specific, targeted way, building relations on the ground, bit
-by bit, door to door, one by one.</p>
-</li>
-<li>
-<p>And in the same context, NACLI was set up four years later, right here
+by bit, door to door, one by one.
+
+18 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in the same context, NACLI was set up four years later, right here
 at this campus, 1964. So, if you think about it, that was the thought process
-of our early leaders.</p>
-</li>
-<li>
-<p>How do we build a community? Once we've established PA, how do we build
+of our early leaders.
+
+19 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How do we build a community? Once we've established PA, how do we build
 a strong pipeline of good, strong community leaders that can serve us?
 Thus, NACLI was set up in 1964 before we were even independent. Since then,
-thousands have come through NACLI's doors.</p>
-</li>
-<li>
-<p>Now, we will see many leaders in our society, whether in the private sector
+thousands have come through NACLI's doors.
+
+20 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now, we will see many leaders in our society, whether in the private sector
 or in the public service, would have come through the doors of NACLI at
 some point in time. One of our past trainees is Loh Wee Cheng. NACLI equipped
 Wee Cheng with skills for personal development, but also leadership character
-and a sense of resilience as she embarked on her career.</p>
-</li>
-<li>
-<p>After seeing how much thought and effort had gone into education and preparing
+and a sense of resilience as she embarked on her career.
+
+21 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; After seeing how much thought and effort had gone into education and preparing
 youths for the future, Wee Cheng then joined us at the inaugural Our Singapore
-Leadership Programme (OSLP).</p>
-</li>
-<li>
-<p>Happy to share that after all these years, Wee Cheng remains connected
+Leadership Programme (OSLP).
+
+22 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Happy to share that after all these years, Wee Cheng remains connected
 to NACLI through OSLP in helping to pass it forward, pay it forward, to
-shape the next generation of leaders.</p>
-</li>
-<li>
-<p>And that's what we're looking for. We're not only looking for leadership
+shape the next generation of leaders.
+
+23 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that's what we're looking for. We're not only looking for leadership
 to come through NACLI, but always looking to pay it forward, to train,
-mentor, nurture the next generation of leaders.</p>
-</li>
-<li>
-<p>NACLI's transformation over the years has reflected that. Because the
+mentor, nurture the next generation of leaders.
+
+24 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NACLI's transformation over the years has reflected that. Because the
 Singapore that we have today, in 2024, is vastly different from the Singapore
 of the 60s, 70s, even the 80s and beyond. Society has evolved, our country
 has matured, we have developed, so we have to adapt quickly to the changing
-landscape.</p>
-</li>
-<li>
-<p>The environment is different, disruptors are different, we've got to embrace
+landscape.
+
+25 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The environment is different, disruptors are different, we've got to embrace
 that, we've got to overcome it, and to look at a new generation of leaders
 coming through NACLI. Which is why NACLI now offers a curriculum that integrates
 tech-enabled learning solutions to help to enrich the experiences of others.
 Just now you saw Mr Jita Singh, an experienced grassroot leader, also a
-very popular grassroot leader.</p>
-</li>
-<li>
-<p>But what you might not have recalled about him, especially the younger
+very popular grassroot leader.
+
+26 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But what you might not have recalled about him, especially the younger
 generation, is that once upon a time, not that long ago, he was the coach
-of the Singapore Football National Team, and a very successful one.</p>
-</li>
-<li>
-<p>I would say all of that experience as a football coach, dealing with competition,
+of the Singapore Football National Team, and a very successful one.
+
+27 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would say all of that experience as a football coach, dealing with competition,
 dealing with the different people in the national team, strategising, thinking
 how to win our next game, all of that are aspects of leadership that Jita
-has brought to his role today. And I think that is important.</p>
-</li>
-<li>
-<p>That shows us that when you're a leader, it doesn't really matter what
+has brought to his role today. And I think that is important.
+
+28 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That shows us that when you're a leader, it doesn't really matter what
 aspect of leadership you're in. If you demonstrate leadership in society,
 in community, in sports, in arts, in youths, even in religion, all aspects
 of Singaporean life today, that is the kind of leadership that we want
-to build.</p>
-</li>
-<li>
-<p>And the stronger we have leaders in all of these aspects in Singapore,
+to build.
+
+29 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And the stronger we have leaders in all of these aspects in Singapore,
 the stronger we will have as a Singaporean society, as a community moving
 forward into SG60 and beyond, we want strong leaders in every aspect of
-life in Singapore.</p>
-</li>
-<li>
-<p>So, to make sure that we are evolving and thinking about how we can be
+life in Singapore.
+
+30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So, to make sure that we are evolving and thinking about how we can be
 relevant to leadership in a new Singapore, we will look at some changes
-and have some new causes to think about for our leaders.</p>
-</li>
-<li>
-<p>Today, societal shifts, technology advancements and disruptions, global
+and have some new causes to think about for our leaders.
+
+31 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Today, societal shifts, technology advancements and disruptions, global
 challenges that we face in the sense of how Singapore reacts in response
 to challenges around the rest of the world, geopolitical tensions, impact
-us as a small country.</p>
-</li>
-<li>
-<p>All of these form the new landscape, the new paradigm against which we
+us as a small country.
+
+32 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All of these form the new landscape, the new paradigm against which we
 have to navigate our leadership community, how we strengthen our leadership,
-how we look at nurturing the nextgeneration of leaders.</p>
-</li>
-<li>
-<p>We need to re-evaluate our approach, therefore, to community leadership
-to ensure that it remains relevant in the face of all these challenges.</p>
-</li>
-<li>
-<p>Singapore's challenges today are very different from what it used to be
+how we look at nurturing the nextgeneration of leaders.
+
+33 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We need to re-evaluate our approach, therefore, to community leadership
+to ensure that it remains relevant in the face of all these challenges.
+
+34 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Singapore's challenges today are very different from what it used to be
 in the 60s, 70s, 80s, we were building a country. Mr Lee Kuan Yew once
-said famously, mudflats to metropolis.</p>
-</li>
-<li>
-<p>Today, we have achieved that metropolis vision that he had. But to stay
+said famously, mudflats to metropolis.
+
+35 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Today, we have achieved that metropolis vision that he had. But to stay
 there, to keep there, to remain competitive, to remain strong and vibrant
 as a community. In today's context, it is not always easy. And that's why
-we need leadership at all segments of our society.</p>
-</li>
-<li>
-<p>So, we have three initiatives that I want to talk about today to navigate
+we need leadership at all segments of our society.
+
+36 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So, we have three initiatives that I want to talk about today to navigate
 this and to bring on board a new bench of leaders. First, let me talk about
 our youth leadership. We are going to introduce a Youth Leaders Collective
-Programme.</p>
-</li>
-<li>
-<p>This will be a refreshed youth leadership programme and we're going to
+Programme.
+
+37 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This will be a refreshed youth leadership programme and we're going to
 call it the Youth Leaders Collective, or YLC in short. Over the years,
 NACLI has successfully run OSLP and leveraged on its experience, its reach,
 through the different community programmes to develop the YLC. And we know
-that our youths today are driven by a strong sense of purpose.</p>
-</li>
-<li>
-<p>They want to make meaningful contributions to society. And earlier on
+that our youths today are driven by a strong sense of purpose.
+
+38 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They want to make meaningful contributions to society. And earlier on
 in the video, you saw Megan. Megan was in the inaugural batch of OSLP and
 when I chatted with her earlier this morning, she said she's now studying
-Community Development at Ngee Ann Polytechnic.</p>
-</li>
-<li>
-<p>And she's looking forward to doing public policy, public affairs subsequently.
+Community Development at Ngee Ann Polytechnic.
+
+39 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she's looking forward to doing public policy, public affairs subsequently.
 And it struck me that youths of today, unlike the emphasis that we had
 in the past, want to be engaged in society and wants to study something
-that makes them relevant to society.</p>
-</li>
-<li>
-<p>To see your own place in society, how you can play a part, how you can
+that makes them relevant to society.
+
+40 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To see your own place in society, how you can play a part, how you can
 pay it forward and use the skill sets that you have, the opportunities
 and the privileges that we have to pay it forward. And I think that's fantastic.
-This is the kind of ethos and thinking we want to build on.</p>
-</li>
-<li>
-<p>We are launching the YLC in March next year with an inaugural group of
+This is the kind of ethos and thinking we want to build on.
+
+41 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We are launching the YLC in March next year with an inaugural group of
 50 youth leaders aged 17 to 19. They will be introduced to an immersive
 10-week leadership programme. Not just about student leadership, but it's
 very much about nurturing community leadership, giving them a sense of
 empowerment to take on these leadership roles, to feel confident and engaged
-with our community.</p>
-</li>
-<li>
-<p>As part of the learning, our youths will gain inspiration from many youth
+with our community.
+
+42 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As part of the learning, our youths will gain inspiration from many youth
 role models and experienced founders of ground-up initiatives to undertake
 community-driven projects. This YLC will also provide an opportunity for
 them to learn while overseas. Sometimes we have to see Singapore from outside
-in.</p>
-</li>
-<li>
-<p>When you are in Singapore, when you operate in our environment, we're
+in.
+
+43 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When you are in Singapore, when you operate in our environment, we're
 used to and accustomed to many things that we sometimes take for granted.
 But when you see Singapore from the outside in, that can help us shape
-that perspective and change the sense of what Singapore is like.</p>
-</li>
-<li>
-<p>So, we want to send our youth leaders outside Singapore to have a different
+that perspective and change the sense of what Singapore is like.
+
+44 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So, we want to send our youth leaders outside Singapore to have a different
 learning experience, to see global perspectives and also to shape cultural
-awareness.</p>
-</li>
-<li>
-<p>We're also going to be launching something else for community and civic
+awareness.
+
+45 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We're also going to be launching something else for community and civic
 society leaders. NACLI will be launching the Leadership in Community Programme,
-or LCP.</p>
-</li>
-<li>
-<p>This goes beyond impacting just grassroots leaders and volunteers. We
+or LCP.
+
+46 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This goes beyond impacting just grassroots leaders and volunteers. We
 want this to be extended to leaders in the community sector, including
 those from the grassroots and civic society, with the intention of fostering
-closer ties.</p>
-</li>
-<li>
-<p>So, it's not just having a group come together to learn about leadership,
+closer ties.
+
+47 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So, it's not just having a group come together to learn about leadership,
 but essentially to build ties between PA, NACLI, our community segment,
-civic societies, social service agencies and charities.</p>
-</li>
+civic societies, social service agencies and charities.<p></p>
+
 <li>
 <p>Every sector in Singapore plays a part in building Singapore up. And we
 want strong leaders engaged, plugged into the community at each of these
@@ -470,5 +416,5 @@ NACLI grow stronger in the next 60 years and beyond than it has in the
 last 60 years. Happy birthday, happy anniversary, NACLI. Thank you very
 much.</p>
 </li>
-</ol>
+
 <p></p>
