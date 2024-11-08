@@ -229,116 +229,98 @@ closer ties.
 
 47 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So, it's not just having a group come together to learn about leadership,
 but essentially to build ties between PA, NACLI, our community segment,
-civic societies, social service agencies and charities.<p></p>
+civic societies, social service agencies and charities.
 
-<li>
-<p>Every sector in Singapore plays a part in building Singapore up. And we
+48 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every sector in Singapore plays a part in building Singapore up. And we
 want strong leaders engaged, plugged into the community at each of these
 sectors. I'm very pleased to share that, in fact, some of our civic society
-leaders are right here with us in the audience today.</p>
-</li>
-<li>
-<p>Thank you very much for joining us this morning at NACLI. And I want to
-welcome you to this weekend's programme.</p>
-</li>
-<li>
-<p>And after today, we will be inviting many of our civic society leaders
+leaders are right here with us in the audience today.
+
+49 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thank you very much for joining us this morning at NACLI. And I want to
+welcome you to this weekend's programme.
+
+50 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after today, we will be inviting many of our civic society leaders
 to come and sign up for the LCP. As part of the local programme segment,
 LCP participants will get to engage with distinguished speakers and thought
-leaders. And we thought it is important for us to engage with them.</p>
-</li>
-<li>
-<p>And we will have speakers such as our ex-Ambassador Prof Kishore Mahbubani,
+leaders. And we thought it is important for us to engage with them.
+
+51 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And we will have speakers such as our ex-Ambassador Prof Kishore Mahbubani,
 we will have Ambassador Ong Keng Yong, right through to athletes like Yip
 Pin Xiu, Joseph Schooling, recognising that we have leadership across all
-segments of our society.</p>
-</li>
-<li>
-<p>And what athletes like Pin Xiu brings to the table is very different from
+segments of our society.
+
+52 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And what athletes like Pin Xiu brings to the table is very different from
 what someone like Kishore might bring to the table. But collectively, this
 gives a very strong perspective to both our youths, as well as our civic
 society leaders, allowing them to gain a broader perspective understanding
 that learning through a sense of sharing across different generations,
-different perspectives, and right through across a multicultural society.</p>
-</li>
-<li>
-<p>There will also be an overseas study trip for the LCP. And we are thinking
+different perspectives, and right through across a multicultural society.
+
+53 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There will also be an overseas study trip for the LCP. And we are thinking
 of bringing them to a different country from the youth leaders. Again,
 to ignite that sense of how Singapore should be viewed from the outside
-in lens.</p>
-</li>
-<li>
-<p>In summary, these two programmes, YLC will be targeted at youths aged
+in lens.
+
+54 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In summary, these two programmes, YLC will be targeted at youths aged
 17 to 19, 10-week programme, 50 participants in the inaugural course, 10
 weeks, and we will have an opportunity for the top performers in the YLC
 to also go further and perhaps undertake a leadership course either in
 Oxford or in Harvard to broaden your horizon and to deepen that sense of
-leadership quality.</p>
-</li>
-<li>
-<p>For the LCP, it will be for high potential leadership, community leaders,
+leadership quality.
+
+55 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For the LCP, it will be for high potential leadership, community leaders,
 civil society leaders across a broader spectrum. We intend for this to
 start initially with 40 participants over a six-month course and we will
 also bring them overseas to have a sharing, to have a sense of perspective
-looking at Singapore from the outside in.</p>
-</li>
-<li>
-<p>Connecting with mentors and trailblazers, thought leaders, people who
+looking at Singapore from the outside in.
+
+56 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Connecting with mentors and trailblazers, thought leaders, people who
 understand the trade-offs for Singapore, is really going to be important
 and I think that sharing will be vital as a signature part of the programme.
 But more importantly, fundamentally, it's about recognising that leadership
-is not static.</p>
-</li>
-<li>
-<p>It is always dynamic and we have to move with the changes, we have to
+is not static.
+
+57 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is always dynamic and we have to move with the changes, we have to
 evolve our own programmes, we have to bring in people and be open about
-how they play a role in community.</p>
-</li>
-<li>
-<p>And as I said, and I want to emphasise this, every aspect of Singaporean
+how they play a role in community.
+
+58 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And as I said, and I want to emphasise this, every aspect of Singaporean
 community in every society, whether it's in sports, arts, youth, civic
 society, all of this plays an important role in part in bringing Singapore
 forward. We want to see strong leadership in all of this. The last initiative
-I want to talk about this morning is the launch of our new community gallery.</p>
-</li>
-<li>
-<p>We thought that as we embark a new direction, a new focus and emphasis
+I want to talk about this morning is the launch of our new community gallery.
+
+59 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We thought that as we embark a new direction, a new focus and emphasis
 on leadership, it's also important to remember how far this journey has
 been for us, what the trials and tribulations and challenges of the previous
-journey has been.</p>
-</li>
-<li>
-<p>The new community gallery will be right here, situated at the premises
-of the NACLI campus to commemorate SG60 next year and PA65.</p>
-</li>
-<li>
-<p>NACLI is going to position itself as the centre of excellence for community
+journey has been.
+
+60 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The new community gallery will be right here, situated at the premises
+of the NACLI campus to commemorate SG60 next year and PA65.
+
+61 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NACLI is going to position itself as the centre of excellence for community
 leadership development and this gallery is opportunistic because it gives
 an opportunity for NACLI to share that experience and history and also
 impart foundational knowledge, helping us to create greater mindshare about
 the importance of the work that NACLI is doing, about the role it plays
-in community building and going beyond the PA network.</p>
-</li>
-<li>
-<p>It will be an interactive and immersive experience and the gallery will
+in community building and going beyond the PA network.
+
+62 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It will be an interactive and immersive experience and the gallery will
 be a tangible way of helping visitors understand our own journey as a nation
-towards building our Singapore and our Singapore beyond SG60.</p>
-</li>
-<li>
-<p>It also serves as a reminder of the enduring values and principles that
+towards building our Singapore and our Singapore beyond SG60.
+
+63 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It also serves as a reminder of the enduring values and principles that
 have brought us to where we are and so through this gallery, we hope to
-inspire individuals to make positive contributions in their own communities.</p>
-</li>
-<li>
-<p>By showcasing our journey from humble beginnings to our current achievements,
+inspire individuals to make positive contributions in their own communities.
+
+64 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By showcasing our journey from humble beginnings to our current achievements,
 this gallery aims to inspire, to invoke a call to action for future generations
-of leaders.</p>
-</li>
-<li>
-<p>Here is a quick sneak peak of this gallery and it gives you a visual idea
+of leaders.
+
+65&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here is a quick sneak peak of this gallery and it gives you a visual idea
 of how it will look like when it is completed. [Video] Let's take a pause
-and have a look at this short video clip.</p>
-</li>
+and have a look at this short video clip.<p></p>
+
 <li>
 <p>This is the new home for leadership in Singapore, community leadership
 in Singapore, a place that is inspiring, a place that is inspiring, nurturing,
