@@ -10,7 +10,7 @@ description: NATIONAL COMMUNITY LEADERSHIP INSTITUTE LOOKS AHEAD TO EMPOWER
 image: ""
 variant: markdown
 ---
-## National Community Leadership Institute Looks Ahead to Empower Future Community Leaders As It Celebrates 60 Years of Commitment to Community Leadership
+## National Community Leadership Institute looks ahead to empower future community leaders as it celebrates 60 years of commitment to community leadership
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The National Community Leadership Institute (NACLI) is celebrating its
 60<sup>th</sup> anniversary this year, commemorating six decades of unwavering commitment
