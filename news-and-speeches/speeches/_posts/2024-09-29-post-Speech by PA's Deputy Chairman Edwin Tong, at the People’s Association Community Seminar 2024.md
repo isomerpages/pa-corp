@@ -483,55 +483,66 @@ Participation for a Caring and United Singapore." Let me explain this a
 little bit more.
 
 80 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Moving forward, as I said, the People's Association, what we want to do
-is not just serve our residents and organise events to bring people together.<p></p>
-<p>We want to create opportunities to spark that desire that is already present
+is not just serve our residents and organise events to bring people together.
+
+81 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We want to create opportunities to spark that desire that is already present
 in the community for them to step forward, empower them, take charge and
 galvanise them into action. We want to nurture our population's talents
 and aspirations to be involved in wanting to shape our community together
 so that residents are no longer just consumers of our programmes, but are
 effectively contributors and over time can also be changemakers in our
-community themselves.</p>
-<p>Our goal is to build a community that cares. As I said just now, defining
+community themselves.
+
+82 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our goal is to build a community that cares. As I said just now, defining
 ourselves as where we are with the last person in our community, rather
 than just looking always at how we can achieve at the top. Where people
-will feel connected to and also responsible for the well-being of one another.</p>
-<p>And that sense of unity will help us navigate the next 60 years and beyond
+will feel connected to and also responsible for the well-being of one another.
+
+83 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that sense of unity will help us navigate the next 60 years and beyond
 as we approach Singapore’s 60 birthday next year. This leads us into our
 refreshed vision and we want this to be “A Nation that Cares for our Community”,
-reflecting what I said earlier.</p>
-<p>As I said, People's Association started 65 years ago, almost 65 years
+reflecting what I said earlier.
+
+84 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As I said, People's Association started 65 years ago, almost 65 years
 ago now. Our vision, our mission and everything that you see here will
 just be words if we don't put action behind them, we don't make them come
 to life, we don't take substantive and real action to make it come to life.
-It is still a critical mission for us to build the Singapore society.</p>
-<p>Much as we have succeeded in the last 60 years, or almost 65 years now,
+It is still a critical mission for us to build the Singapore society.
+
+85 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Much as we have succeeded in the last 60 years, or almost 65 years now,
 the next 60 years and beyond will not be as easy, will not be without challenges,
-will not be without obstacles.</p>
-<p>So it is important that we remain true to strengthening social cohesion,
+will not be without obstacles.
+
+86 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So it is important that we remain true to strengthening social cohesion,
 building resilience and overall forging a community that you and I will
 be proud of to leave behind for the next generation. This will be a lot
 of work, but the work that we do collectively as People's Association and
 our partners, our stakeholders and our networks, they will make a lasting
 impact on our society. Just as the work of the previous generation have
 made a lasting impact on us. Just think back to how we responded collectively
-as a society during COVID.</p>
-<p>Think back to those days, just a few years ago, how we rallied together,
+as a society during COVID.
+
+87 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Think back to those days, just a few years ago, how we rallied together,
 came together, sometimes at risk to ourselves, many of our Grassroot Leaders,
 visiting blocks and residents where there were many COVID-plus cases without
 knowing what the implications were. That is the strength and hallmark of
 building resilience in Singapore. That work didn't come over night, that
 outcome didn't come overnight. It was built up over many, many decades
-of hard work on the ground, bit by bit, door-to-door, person-by-person.</p>
-<p>This work that we do, a lot to do, a lot to maintain Singapore, where
+of hard work on the ground, bit by bit, door-to-door, person-by-person.
+
+88 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This work that we do, a lot to do, a lot to maintain Singapore, where
 we are, but if you want to keep Singapore special, this is the work that
-we have to do collectively.</p>
-<p>This is the vision that we have to collectively tune ourselves towards.
+we have to do collectively.
+
+89 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is the vision that we have to collectively tune ourselves towards.
 And it takes all of us, it takes for all of us to come together to define
 what kind of Singapore we want to see, and how, very importantly we want
-to keep Singapore special.</p>
-<p>These are some of the things that, I hope you can think about as you break
+to keep Singapore special.
+
+90 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These are some of the things that, I hope you can think about as you break
 into your ACWP in the coming months. Think about what are the different
 bits we can do, how we can energise, how we can activate, and how we can
 partner with a broader group of people beyond just the Grassroots Organisations
-to make a stronger, exponentially larger impact on society.</p>
-<p>Thank you very much.</p>
+to make a stronger, exponentially larger impact on society.
+
+ 91 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thank you very much.
