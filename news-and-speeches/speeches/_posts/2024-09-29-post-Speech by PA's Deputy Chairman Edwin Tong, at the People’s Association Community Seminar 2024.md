@@ -10,149 +10,179 @@ variant: markdown
 ---
 <p><strong>Speech by People’s Association Deputy Chairman and Minister of Culture, Community and Youth Edwin Tong, at the People’s Association Community Seminar 2024 at Our Tampines Hub on September 2024</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Good morning to all of you. I hope that you had a good breakfast this
-morning, enjoyed the snacks on the table.</p>
-<p>This annual Community Seminar is a very important event for all of us,
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Good morning to all of you. I hope that you had a good breakfast this
+morning, enjoyed the snacks on the table.
+
+2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This annual Community Seminar is a very important event for all of us,
 Grassroots Leaders, our partners, our friends and staff to come together.
 And I think as we did this morning, to reacquaint ourselves with one another,
-to see each other in person, make friends, make new ones.</p>
-<p>And also, to take stock of what we have achieved so far, share best practices
-and chart the way forward.</p>
-<p>This is also particularly significant because we welcome our new Chairman
+to see each other in person, make friends, make new ones.
+
+3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also, to take stock of what we have achieved so far, share best practices
+and chart the way forward.
+
+4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is also particularly significant because we welcome our new Chairman
 for the first time at Community Seminar. So, join me in welcoming Chairman.
 Our Chairman will join us for a dialogue later on after I finished speaking.
 But before that I thought this morning I'll take about 20 minutes or so
-to share three broad topics with you.</p>
-<p>First, to give you an update on where we are. Last couple of years we
+to share three broad topics with you.
+
+5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; First, to give you an update on where we are. Last couple of years we
 have been talking about broadening our PA movement, encouraging more participation
 from people outside of PA, building stronger networks, looking at spaces
 that we have not previously occupied before. I'll give you an update on
-where we are and some of the best practices that we've seen.</p>
-<p>Second, I will also tell you about some new tools that we will have, both
+where we are and some of the best practices that we've seen.
+
+6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Second, I will also tell you about some new tools that we will have, both
 for the community as well as for ourselves as Grassroots Leaders, as we
 look at leveraging on technology, using technology to help us connect better
-with residents.</p>
-<p>And finally, in the last part of this speech, I will share a new vision
+with residents.
+
+7 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And finally, in the last part of this speech, I will share a new vision
 that encapsulates what we've been doing for the past couple of years, and
 which sets out a path for us moving forward on how we look at ourselves
-at the People's Association.</p>
-<p>PA, as you know, was formed in 1960. So next year is Singapore’s 60<sup>th</sup> birthday,
+at the People's Association.
+
+8 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PA, as you know, was formed in 1960. So next year is Singapore’s 60<sup>th</sup> birthday,
 but actually for PA it will be 65 years. It has been at the heart of our
 country's efforts to build a strong, cohesive society, a resilient community
-right across Singapore.</p>
-<p>For 64 years, we have fulfilled this mission. It is a very critical mission
+right across Singapore.
+
+9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For 64 years, we have fulfilled this mission. It is a very critical mission
 because we have adapted to changing environment, evolving with the times
-as our country developed from one phase to another, and one decade to another.</p>
-<p>RSIS did a study in 2022 on social cohesion among Southeast Asian countries,
+as our country developed from one phase to another, and one decade to another.
+
+10 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RSIS did a study in 2022 on social cohesion among Southeast Asian countries,
 and Singapore, as you can see from this, was perceived as the most socially
 cohesive. Now, this is one study, one survey, but by and large, if you
 pick up surveys, Pew Research, RSIS and so on, you will by and large see
 that we do stand high and do well on social cohesion. Not that we should
-take it for granted, but this is a measure of how far we have come.</p>
-<p>And a good 61%, for those of you who can't see this diagram, felt that
+take it for granted, but this is a measure of how far we have come.
+
+11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And a good 61%, for those of you who can't see this diagram, felt that
 there was strong social cohesion in Singapore compared to sometimes significantly
 less than 50% for many other countries. But as I said, we can't take it
-for granted, and we must also know that this did not happen by chance.</p>
-<p>It happened because in part, the Grassroots Leaders and partners of People's
+for granted, and we must also know that this did not happen by chance.
+
+12 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It happened because in part, the Grassroots Leaders and partners of People's
 Association, all of you have played a very important role in building up
 this trust, going door-to-door, resident-by-resident, block-to-block, building
-up trust, serving our residents and building a strong community.</p>
-<p>To address emerging community needs, many of our Grassroots Leaders have
+up trust, serving our residents and building a strong community.
+
+13 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To address emerging community needs, many of our Grassroots Leaders have
 taken the initiatives of setting up taskforces. Taskforces to tackle local
 needs, taskforces to deal with local concerns, local considerations, and
 also to meet local aspirations. But the issues that we face today, despite
 all of this, and I thank all of you for taking this initiative, because
 as I visit the different constituencies, I know that each of you look at
-the programming differently.</p>
-<p>It's very curated, and many of you look at the demographic, look at the
+the programming differently.
+
+14 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It's very curated, and many of you look at the demographic, look at the
 aspirations of your local population, and you design programmes around
 it. And I think these taskforces reflect that, and I encourage you to continue
 doing so, and I thank you very much for paying a lot of attention to the
-needs of our residents.</p>
-<p>But even as we do all of this within Singapore, outside of Singapore,
+needs of our residents.
+
+15 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But even as we do all of this within Singapore, outside of Singapore,
 we will face a far more troubled environment. I think all of you will know,
 you pick up the newspapers, at any time you'll see geopolitical tensions,
 strife, divisiveness around the world, and of course the impact of climate
-change, which we ourselves in Singapore have experienced.</p>
-<p>And from within Singapore, we also face challenges. An ageing population,
+change, which we ourselves in Singapore have experienced.&lt;
+
+16 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And from within Singapore, we also face challenges. An ageing population,
 a more diverse society with different aspirations, but also at the same
 time, potential divides that could pull us apart. Local born versus naturalised
-citizens, sometimes that tension flares up.</p>
-<p>Tech-savvy or non-tech-savvy, socioeconomic status, even gender, all of
+citizens, sometimes that tension flares up.
+
+17 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tech-savvy or non-tech-savvy, socioeconomic status, even gender, all of
 these are lines of divide that we can't take for granted, and will be easily
-papered over.</p>
-<p>At the same time, the People's Association, we also face challenges. Our
+papered over.
+
+18 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At the same time, the People's Association, we also face challenges. Our
 society, compared to maybe the earlier days, in the 60s, 70s and 80s, have
 become more self-sufficient. There are commitments that our population
 faces that compete with the time that they might spend in volunteer work.
 Time and attention means that they might be less engaged with the usual
-People's Association activities.</p>
-<p>It is also an increasingly more digital society, where more people-to-people
+People's Association activities.
+
+19 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is also an increasingly more digital society, where more people-to-people
 interaction might have shifted online. And we see a greater interest and
 a desire for involvement in specific causes by our people, especially our
 younger population. And I think this is not a trend that is unique in Singapore,
-it's around the world as well.</p>
-<p>And there are informal networks, such as ground-ups, where sometimes it
+it's around the world as well.
+
+20 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And there are informal networks, such as ground-ups, where sometimes it
 is more of the cause that you want to serve than the committee or the organisation
-that you want to serve with that matters.</p>
-<p>We have to be conscious of all these shifts and the evolution, and we
+that you want to serve with that matters.
+
+21 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We have to be conscious of all these shifts and the evolution, and we
 have to strengthen our own approach, evolve our own approach to meet these
-new challenges.</p>
-<p>But at the same time, and I think all of you Grassroots Leaders very much
+new challenges.&lt;
+
+22 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But at the same time, and I think all of you Grassroots Leaders very much
 on the ground would agree with me. Our people have very good ideas and
 they are passionate about a cause. They have good energy and very bold
 aspirations. And I think there is a strong desire and capacity to want
 to contribute, particularly when it revolves around a cause that they believe
 in. We saw this very much in our Forward Singapore exercise. Chairman spoke
 a lot about how everyone has a responsibility to one another, in the new
-social compact.</p>
-<p>As we develop these responsibilities, helping one another and defining
+social compact.
+
+23 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As we develop these responsibilities, helping one another and defining
 our success, less by what we can achieve at the top, but also by looking
 at how we can lift the bottom. How the last amongst us can be brought along
 in this new compact. And I think that is a really important way of looking
-at and defining our success in Singapore.</p>
-<p>I think People's Association, all of us with our GROs, all of you Grassroots
+at and defining our success in Singapore.
+
+24 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I think People's Association, all of us with our GROs, all of you Grassroots
 Leaders can play a part in wanting to adapt and evolve on how we engage
 a new generation in a new time like today. To have people working with
 one another, for one another, and also with the government in making solutions
 work. And this, I think is going to be central to our core mission of building
-a strong resilient community, and upholding our social cohesion.</p>
-<p>I would say that this shift over the last couple of years can be encapsulated
-in three words, expanding community participation, across segments of society.</p>
-<p>And I thought this morning I'll share with you a couple of examples from
+a strong resilient community, and upholding our social cohesion.
+
+25 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would say that this shift over the last couple of years can be encapsulated
+in three words, expanding community participation, across segments of society.
+
+26 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And I thought this morning I'll share with you a couple of examples from
 the different divisions around some best practices. Not that if you don't
 feature here, it is not good. We only have time to feature a few, but I
 want to encourage you by showing you what other divisions have been doing
-to expand and broaden community participation.</p>
-<p>First, a couple of years ago, we launched the Community Volunteers scheme.
+to expand and broaden community participation.
+
+27 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; First, a couple of years ago, we launched the Community Volunteers scheme.
 2022 to be precise, so it's about two years now, for people to be involved
 informally as volunteers in the community without being tied to a particular
-GRO or particular committee.</p>
-<p>And it helps them to define the cause they want to serve, and then serve
+GRO or particular committee.
+
+28 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And it helps them to define the cause they want to serve, and then serve
 together with like-minded volunteers. We have made good progress on this
-front.</p>
-<p>Today, two years down, we have more than 15,000 community volunteers,
+front.
+
+29 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Today, two years down, we have more than 15,000 community volunteers,
 of which about 40% are youths. You can see the profile, and this is very
 different profile and different mix from the Grassroots Leadership. So
 reaching out to a very different profile of audience. We have also supported
 almost 250 projects with more than $300,000 in grants to spark off these
 projects, micro in nature, but can be impactful in its effect. And these
-projects span across a variety of different causes.</p>
-<p>Let me give you three examples. At the Villa Verde RN in Limbang, Madam
+projects span across a variety of different causes.
+
+30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let me give you three examples. At the Villa Verde RN in Limbang, Madam
 Noorita, she leads a group of Chinese and Malay Community Volunteers to
 promote cultural understanding and harmony by sharing about Malay heritage
-and culture.</p>
-<p>She takes the view that the more people are aware, the more we can build
+and culture.
+
+31 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She takes the view that the more people are aware, the more we can build
 up appreciation and understanding, and the more harmony there will be.
 A very simple, basic proposition, not easy to achieve all the time, but
 it is actually so true. So bit by bit, step by step, you can see these
-efforts.</p>
-<p>At Marine Parade, Miss Sarah conducts sensory storytelling for children,
+efforts.
+
+32 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Marine Parade, Miss Sarah conducts sensory storytelling for children,
 using props and puppets to bring stories to life, engaging them, exposing
 them to different genres of storytelling, and also sparking that creativity
-in our children with hands-on activities.</p>
+in our children with hands-on activities.<p></p>
 <p>At Kebun Baru Heights RN, Community Volunteers run a monthly DIY repair
 workshop, with mentorship from a volunteer at Teck Ghee's Repair Kopitiam.
 All of these might have been started by grassroots working with Community
