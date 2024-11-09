@@ -9,7 +9,7 @@ description: PEOPLE’S ASSOCIATION’S COMMUNITY 2030 PLAN EXPANDS COMMUNITY
 image: ""
 variant: markdown
 ---
-<h3>People's Association's Community 2030 Plan Expands Community Participation To Build a Caring and United Singapore</h3>
+<h3>People's Association's Community 2030 plan expands community participation to build a caring and united Singapore</h3>
 
 ***The People’s Association will go beyond serving residents and engaging residents at its community events, to empower and enable residents to become active changemakers shaping their community***
 
