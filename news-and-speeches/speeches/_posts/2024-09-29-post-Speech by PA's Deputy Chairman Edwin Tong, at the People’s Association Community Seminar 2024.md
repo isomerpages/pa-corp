@@ -182,90 +182,109 @@ efforts.
 32 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Marine Parade, Miss Sarah conducts sensory storytelling for children,
 using props and puppets to bring stories to life, engaging them, exposing
 them to different genres of storytelling, and also sparking that creativity
-in our children with hands-on activities.<p></p>
-<p>At Kebun Baru Heights RN, Community Volunteers run a monthly DIY repair
+in our children with hands-on activities.
+
+33 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Kebun Baru Heights RN, Community Volunteers run a monthly DIY repair
 workshop, with mentorship from a volunteer at Teck Ghee's Repair Kopitiam.
 All of these might have been started by grassroots working with Community
 Volunteers, but eventually, the drive behind them, the power behind them,
 comes from our Community Volunteers. They come from people who are passionate
 and dedicated, and sometimes they feel that they have the skill sets to
-run these courses, and that's what they do, they step up.</p>
-<p>All of this makes an impact on our society, bit by bit, and over time,
-collectively, this can change the complexion of the society we live in.</p>
-<p>So our aim over the coming years is to grow the Community Volunteer scheme,
+run these courses, and that's what they do, they step up.
+
+34 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All of this makes an impact on our society, bit by bit, and over time,
+collectively, this can change the complexion of the society we live in.
+
+35 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So our aim over the coming years is to grow the Community Volunteer scheme,
 follow our residents, support their causes, give them a base, and help
-them to make a broader impact on society.</p>
-<p>Second, our youths, they're the leaders of tomorrow, and we must support
-them on their aspirations.</p>
-<p>We must in fact bring them to the table to talk to us more, to engage
+them to make a broader impact on society.
+
+36 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Second, our youths, they're the leaders of tomorrow, and we must support
+them on their aspirations.
+
+37 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We must in fact bring them to the table to talk to us more, to engage
 with us, to share in constructive dialogue, and more importantly, to then
-figure out what actions we can take.</p>
-<p>One example is the FutureYOUth Campaign, where the ambition is to have
+figure out what actions we can take.
+
+38 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One example is the FutureYOUth Campaign, where the ambition is to have
 more than 100,000 youths nationwide, coming from a variety of different
 backgrounds, come together, share their aspirations. They wanted to do
 this as a ground-up project because they wanted to be heard on key issues
-which resonate with young people today.</p>
-<p>Mental well-being, how we approach one another, with compassion in race
+which resonate with young people today.
+
+39 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mental well-being, how we approach one another, with compassion in race
 and religion issues, as well as looking at the climate, sustainability,
 and environment issues. These topics were picked by them, and what they
 wanted to do was to engage in constructive dialogue, and come up with a
 consensus paper that defines how this mappings matter to young people,
 and what actions they can take, most importantly. I'm told that so far
-they've already surpassed their target.</p>
-<p>They've got about 108,000 voices signed on to the Youth Charter, and they
+they've already surpassed their target.
+
+40 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They've got about 108,000 voices signed on to the Youth Charter, and they
 come from a variety of different backgrounds, typical mainstream schools,
 IHLs, polytechnics, the ITEs, the madrasahs. But they've also taken care
 to reach out to those who are in the reformative training centres, to get
 their views as well, to look at people who don't typically come to focus
-group discussions, or dialogues, or any of our People's Association events.</p>
-<p>People from the civic society, the uniformed groups, sometimes also the
+group discussions, or dialogues, or any of our People's Association events.
+
+41 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; People from the civic society, the uniformed groups, sometimes also the
 youth wings of the religious organisations, to capture a broad-based view
 from people who might not previously have been heard. This effort is ongoing,
 sometime next year, we will look at launching the Charter, and the youths
-will have a platform to articulate how they see this campaign.</p>
-<p>Third, yesterday NACLI celebrated our 60th anniversary. NACLI started
+will have a platform to articulate how they see this campaign.
+
+42 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Third, yesterday NACLI celebrated our 60th anniversary. NACLI started
 in 1964, and we made a couple of announcements there. The announcements
 are centred on the thinking that community leadership and youth leadership
 needs a programme to give it a strong boost. We need to develop strong
-leadership in all segments of our community.</p>
-<p>This was a picture taken yesterday at our 60th anniversary, where we announced
+leadership in all segments of our community.
+
+43 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This was a picture taken yesterday at our 60th anniversary, where we announced
 two programmes, one a Youth Leaders Collective. A programme that helps
 them appreciate Singapore, see the trade-offs, take part in ideas that
 make Singapore tick for the next generation, and also bring them overseas,
-because sometimes you can see Singapore better from the outside.</p>
-<p>So we bring them overseas to a Southeast Asian country, understand the
+because sometimes you can see Singapore better from the outside.
+
+44 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So we bring them overseas to a Southeast Asian country, understand the
 cultural dynamics there, but also see Singapore from outside in, and have
-a greater appreciation for what we do.</p>
-<p>We also have one for slightly older people, but youth leaders now in civic
+a greater appreciation for what we do.
+
+45 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We also have one for slightly older people, but youth leaders now in civic
 society, in social service agencies, those who are serving the community
 in the private sector in a variety of different ways. We are also bringing
 them together, and likewise, we will have a six-month programme for them.
 Socialise them to how Singapore works, what are our trade-offs, what is
 special about Singapore, and what we must keep doing to keep Singapore
-special.</p>
-<p>All of that has been announced yesterday, so look it up, and if you know
+special.
+
+46 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All of that has been announced yesterday, so look it up, and if you know
 anyone within your Grassroots Organisations who might benefit from these
 courses, please sign them up, please suggest that, and encourage them to
-come and take part in these programmes.</p>
-<p>Nurturing Micro-communities</p>
-<p>Now what underpins all of this shift that we're doing, these examples,
+come and take part in these programmes.
+
+<u>Nurturing Micro-communities</u>
+
+47 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now what underpins all of this shift that we're doing, these examples,
 is a change in approach as well. We are very used to organising an event
 for our residents, but what about if we switch this around and look at
 some of the examples, like what we did with the Community Volunteers. We
 organise an event with our residents, with our volunteers, and look at
 serving the broader population based on ideas and causes that they proposed
-to us, rather than the other way round.</p>
-<p>To give you one more example, Grassroots Leaders at Bishan started, now
+to us, rather than the other way round.
+
+48 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To give you one more example, Grassroots Leaders at Bishan started, now
 they started it, a food rescue initiative, which today is now largely run
 by a very dedicated Community Volunteer. She has not, I'm told, had prior
 grassroots experience, but she now come together, runs the programme, and
 volunteers like Madam Wee Sun has become motivated to stay on and help
-to run this programme at Bishan.</p>
-<p>So all of these efforts, including nurturing micro-communities, looking
+to run this programme at Bishan.
+
+49 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So all of these efforts, including nurturing micro-communities, looking
 at how we can build up smaller groups, scale them up into bigger ones,
 and have a bigger impact. All of that should be the way we look at running
-our events at the Grassroots Organisations.</p>
-<p>Last year, 19 RNs held 80 small group conversations to hear from more
+our events at the Grassroots Organisations.
+
+50 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Last year, 19 RNs held 80 small group conversations to hear from more
 than 600 residents and community partners. They did this because they wanted
 to understand what were the specific gaps, what were the little spaces
 that could be filled better. What were some of the programmes that the
@@ -274,14 +293,16 @@ Community Volunteers, to make those programmes work. For example, fresh
 vegetables distributed to residents in need, and also those staying alone
 at Jurong Central Zone E RN, or a community fridge at Ghim Moh Gardens
 RC has been very successful. These are, again, some very local, maybe even
-micro examples.</p>
-<p>But I encourage all of us to think about this, use these as examples to
+micro examples.
+
+51 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But I encourage all of us to think about this, use these as examples to
 grow the space that we're in, to grow beyond just a grassroots network,
 and to look at engaging our residents organically, and working with Community
 Volunteers. This overall means that the impact that we can make will be
 expanded, and the influence therefore that we can have on society, how
-we shape society, can change.</p>
-<p>Now my second point about growing micro-communities is to tell you that
+we shape society, can change.
+
+52 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now my second point about growing micro-communities is to tell you that
 despite working at a very local level, I want you to know that you will
 not be working alone. All of your CDs, all of your GCDs, will be tapped
 into a network of about 10,000 partners that we have built up over the
@@ -289,58 +310,70 @@ years. They include partners like this, who have joined us here today,
 whether it is FairPrice, or L'Oreal, or POSB, or even Touch Community Services,
 all of these together with IHLs, there are 10,000 of them that we can plug
 into. Civic society, uniformed group, social service, causes, private enterprises,
-corporate enterprises, big, small, and so on, in different sectors.</p>
-<p>All of them provide us a network, and allows us to work with them to expand
+corporate enterprises, big, small, and so on, in different sectors.
+
+53 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All of them provide us a network, and allows us to work with them to expand
 your reach. So if you are keen on programmes where you can benefit from
 this partnership, work with your CDs, work with your GCDs, and they will
-be able to link you up.</p>
-<p>Sembawang Central, for example, has been working with 200 volunteers from
+be able to link you up.
+
+54 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sembawang Central, for example, has been working with 200 volunteers from
 various of these community network partners to help to identify and then
 help seniors at risk. This network is not easy to build up, but it is valuable
 because these are our friends, these are our partners, and they allow us
 to tap into the reach that they have. And this was particularly beneficial
-at Sembawang Central.</p>
-<p>Other examples, in my own constituency at Joo Chiat, we have a big team
+at Sembawang Central.
+
+55 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Other examples, in my own constituency at Joo Chiat, we have a big team
 that comes together organically from amongst our residents as we do estate
 upgrading. So we had volunteer architects, volunteer quantity surveyors,
 engineers, all step up from within the community to help give back to the
-community.</p>
-<p>Our Community Sport Network have also been working with various partners
+community.
+
+56 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our Community Sport Network have also been working with various partners
 since 2004 to work at strengthening family bonding. So we use sports, we
 use ActiveSG, we use the Football Association, we use the various ActiveSG
 academies to reach out through football to touch families and bring families
-together.</p>
-<p>This event was particularly touching for me because we saw for the first
+together.
+
+57 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This event was particularly touching for me because we saw for the first
 time in this event, the father and son, and father and daughter on the
 pitch playing together, and I think that when I ask many of the kids, was
-oftentimes the first time they had an occasion with the parents.</p>
-<p>So these are different ways in which we could tap into the networks, our
+oftentimes the first time they had an occasion with the parents.
+
+58 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So these are different ways in which we could tap into the networks, our
 partners' networks, and broaden our reach, and make the impact of our events
-a lot more broad scale and a lot more impactful.</p>
-<p>Moving on to my second point, three broad initiatives to tell you about,
-one of which will be launched today.</p>
-<p>The first is, we've been using technology to look at how we can equip
+a lot more broad scale and a lot more impactful.
+
+59 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Moving on to my second point, three broad initiatives to tell you about,
+one of which will be launched today.
+
+60 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The first is, we've been using technology to look at how we can equip
 our RNs better. Some of you in the different divisions would already have
 been using this. We call this the Smart Networked RN Centres. This allows
 residents to access the facilities without having to wait for a PA staff
-or to rely on the presence of a PA staff.</p>
-<p>For example, at Punggol Damai RN, the residents using this made the RN
+or to rely on the presence of a PA staff.
+
+61 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For example, at Punggol Damai RN, the residents using this made the RN
 Centre their own, created board games, created a system where they can
 bring residents down together, and gradually neighbours joined up and allowed
 them to build a different community using digital means. So digitally connected,
 you don't need to have physical presence of officers on the ground, and
-you can still access the premises to build your programmes.</p>
-<p>Second, we will be developing a community portal to amplify our presence
+you can still access the premises to build your programmes.
+
+62 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Second, we will be developing a community portal to amplify our presence
 online. We want to reach our residents with more personalised communications,
 interactions through the portal effectively, efficiently, and at scale.
 We are currently building it and prototyping it and testing it out with
-several divisions.</p>
-<p>The idea is to create amongst residents a greater sense of connection
+several divisions.
+
+63 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The idea is to create amongst residents a greater sense of connection
 online to their community, to encourage, to empower residents to take action
 in their own community, and to allow us to really reach out across the
 analogue as well as the non-analogue digital space to complement our physical
-outreach.</p>
-<p>Some of the features that you can look forward to on this portal will
+outreach.
+
+64 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some of the features that you can look forward to on this portal will
 be a live community news feed that keeps residents informed of what's going
 on around the neighbourhood, and we are trying to see whether we can make
 it geo-located so that it can be part of where you are as well. Second,
@@ -348,29 +381,33 @@ a platform to sign up for these activities. Very often I get questions,
 how come we know all these things on the flyer, but where do I go online?
 Where do we sign up? So we thought we put it all in one space, you can
 navigate it, and then you can sign up at the same space. We wanted to also
-give information on local community resources.</p>
-<p>There will be a lot of information that we broadcast on national programmes,
+give information on local community resources.
+
+65 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There will be a lot of information that we broadcast on national programmes,
 but as I said just now, many of our local divisions have set up highly
 customised, very curated, targeted programmes for their own residents,
 and this can reside on this portal. And finally, we have personalised broadcasting
 functions, push notifications, bulletin boards, essentially to create an
-e-community.</p>
-<p>We are working with GovTech to develop this portal. We have started to
+e-community.
+
+66 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We are working with GovTech to develop this portal. We have started to
 pilot this, as I said, we have now got 35 RNs on board across 10 different
 divisions, trying out especially with the seniors and young seniors, because
 we want them to be accustomed to using this on a digital scale, to be familiar
 with technology, and we thought we'll try out with the seniors and young
 seniors first. So far the feedback has been good, we're going to take on
 board their suggestions and their comments, scale it up, and then we'll
-launch it at the appropriate time.</p>
-<p>Third, for all of you, our grassroots leaders, today we'll be launching
+launch it at the appropriate time.
+
+67 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Third, for all of you, our grassroots leaders, today we'll be launching
 a new app, the GRL@PA mobile app. I know that you've already been using
 the GRL@PA Internet Portal, and this has been around for a few months now.
 But the plan is to make it mobile so that it can be with you at any time
 in your phone and it can be accessible conveniently. It is designed to
 be a one-stop mobile app to make volunteering easier and also better for
-you, enhancing the entire volunteer experience.</p>
-<p>Some of these features would include a personal dashboard to keep track
+you, enhancing the entire volunteer experience.
+
+68 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some of these features would include a personal dashboard to keep track
 of upcoming events and the latest updates. So it will be again customised
 to each Grassroots Leader based on what you sign up, based on the events
 that you're in, based on the GRO that you are involved in. There will also
@@ -378,63 +415,75 @@ be a knowledge library that will have all of the latest government policies,
 key points, how you can communicate the programmes better to our residents,
 what are some of the new announcements at Budget or at Rally, or some of
 the new programmes that affect your residents. They will reside in a customised
-knowledge library that will be on this app.</p>
-<p>There will also be best practices, we thought it would be a good idea
+knowledge library that will be on this app.
+
+69 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There will also be best practices, we thought it would be a good idea
 to share ideas because every time I come across different divisions, there
 are so many good ideas which I thought we can scale up to other divisions
 as well. We thought we'll put some of the best practices on this mobile
-app and have them shared across all of you in different divisions.</p>
-<p>Eventually over time, we are also going to be developing a G-FAST system
+app and have them shared across all of you in different divisions.
+
+70 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Eventually over time, we are also going to be developing a G-FAST system
 that will sit in this mobile app. I think some of you use the G-FAST system
 for accounting purposes. And also the GEMS system will also sit on this
 app. But these two needs a little bit more time because of the security
-implications and they'll be launched at a different date.</p>
-<p>But today, after I finish this speech, we'll put up a short little video
+implications and they'll be launched at a different date.
+
+71 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But today, after I finish this speech, we'll put up a short little video
 for you on how you can sign up and a little QR code for you to sign up.
 It will go live today. Give us feedback, this is something that we are
 launching based on a lot of feedback already, but there is, I mean, it's
 not entirely a perfect system yet. So give us your feedback on how this
-can be improved.</p>
-<p>Finally, my last point, let me move on to what else we're going to be
+can be improved.
+
+72 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Finally, my last point, let me move on to what else we're going to be
 doing to look at ourselves from the outside in and to refresh our vision
 and mission as we move towards Community 2030. We have spoken extensively
 about what we want to do to broaden our reach, to expand our horizons,
 do better programmes, partner with third parties, build up the Community
-Volunteer scheme, tap onto our networks and so on.</p>
-<p>Our core mission remains that of building strong social cohesion. This
+Volunteer scheme, tap onto our networks and so on.
+
+73 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our core mission remains that of building strong social cohesion. This
 remains unchanged. People-to-people relations, people-to-government relations,
 but we asked ourselves if today's current vision and mission statements
 accurately reflects PA's ambition in the next bound of trying to attract
-more partners to join us and try to work with different networks.</p>
-<p>About a year and a half ago, we started an exercise to look at whether
+more partners to join us and try to work with different networks.
+
+74 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; About a year and a half ago, we started an exercise to look at whether
 we should redefine our mission and vision. It sounded easy because it's
 just a string of words, but my colleagues on the Board will know that this
 was a very difficult exercise. We also engaged more than 10,000 stakeholders
 of all backgrounds, Grassroots Leaders, non-Grassroot Leaders, members
 of public, volunteers, partners, our staff, our external networks and so
-on to get views.</p>
-<p>And the results by and large showed that people were appreciative of PA's
+on to get views.
+
+75 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And the results by and large showed that people were appreciative of PA's
 contributions to the country and they wanted to play a part in this community
 building process. They wanted also to be contributors themselves, not just
-passive recipients of the programmes that we come up with.</p>
-<p>They hope that PA would facilitate more opportunities for ground-up action
+passive recipients of the programmes that we come up with.
+
+76 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They hope that PA would facilitate more opportunities for ground-up action
 and also enable residents to be empowered to help one another. So we wanted
 to capture this shift of expanding participation simply and clearly in
-our vision.</p>
-<p>Many words were considered, I must say. We debated this many times. We
+our vision.
+
+77 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Many words were considered, I must say. We debated this many times. We
 changed. We used this word. And then someone said no. We had the Board
 come up with a variety of different words. We opened up the thesaurus many
-times to look at what new words we could use.</p>
-<p>We had many rigorous discussions in our PA board. We had ex-chairman weigh
+times to look at what new words we could use.
+
+78 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We had many rigorous discussions in our PA board. We had ex-chairman weigh
 in with his wealth of knowledge and experience on how exactly to frame
 this. Eventually, we had various iterations, but after about a year and
 a half, we settled on something that could help us achieve our vision and
-mission.</p>
-<p>Our refreshed mission reads like this, to "Spark and Nurture Community
+mission.
+
+79 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our refreshed mission reads like this, to "Spark and Nurture Community
 Participation for a Caring and United Singapore." Let me explain this a
-little bit more.</p>
-<p>Moving forward, as I said, the People's Association, what we want to do
-is not just serve our residents and organise events to bring people together.</p>
+little bit more.
+
+80 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Moving forward, as I said, the People's Association, what we want to do
+is not just serve our residents and organise events to bring people together.<p></p>
 <p>We want to create opportunities to spark that desire that is already present
 in the community for them to step forward, empower them, take charge and
 galvanise them into action. We want to nurture our population's talents
