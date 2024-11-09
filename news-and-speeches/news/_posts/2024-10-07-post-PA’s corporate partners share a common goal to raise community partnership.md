@@ -7,7 +7,7 @@ description: PA’S CORPORATE PARTNERS SHARE A COMMON GOAL TO RAISE COMMUNITY PA
 image: ""
 variant: markdown
 ---
-## PA’s Corporate Partners Share A Common Goal To Raise Community Partnership
+## PA’s corporate partners share a common goal to raise community partnership
 
 ***Project We Care unites collective efforts of corporates to co-champion community initiatives for meaningful causes.***
 
