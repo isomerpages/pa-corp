@@ -17,6 +17,3 @@ The Family Fun.Family Time programme is a series of customised family-centric ac
 
 <img style="width:300px; height:350px" align="center" src="/images/Our%20Programmes/Family.jpg">
 
-
-
-information on Family programmes.
