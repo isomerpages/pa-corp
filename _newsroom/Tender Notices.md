@@ -12,6 +12,4 @@ Open Procurement and Grassroots Trade Fair Tenders published via the Grassroots 
 <br>
 
 Please check the below listing(s) for the latest tender notices: <br>[Tender for Replacement of Existing Fire Alarm &amp; Mimic Panels at Sengkang Community Hub Building](/tender-for-replacement-of-existing-fire-alarm-mimic-panels-at-sengkang-community-hub-building/)
-<br>  [ Tender for Provision of Auxiliary Police Services for Chinatown Chinese New Year Celebrations 2025](/tender-for-provision-of-auxiliary-police-services-for-chinatown-chinese-new-year-celebrations-2025/)<br>
-[Tender for Provision of Refuse Collection and Cleaning Services for Chinatown Chinese New Year Celebrations 2025](/tender-for-provision-of-refuse-collection-cleaning-services-for-chinatown-chinese-new-year-2025/)
-<br>   [Tender for Provision of Event Management Services for Chinese New Year Celebrations 2025](/tender-for-provision-of-event-management-services-for-chinese-new-year-celebrations-2025/)
+<br>  [Tender for Event Management Services for Chinese New Year Celebrations 2025 Countdown Party](/tender-for-event-management-services-for-chinese-new-year-celebrations-2025-countdown-party/)
