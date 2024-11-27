@@ -2,11 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Event Management Services for Chinese New Year Celebrations
+        2025 Countdown Party.md
       - Tender for Replacement of Existing Fire Alarm & Mimic Panels at Sengkang
         Community Hub Building.md
-      - Tender for Provision of Event Management Services for Chinese New Year
-        Celebrations 2025.md
-      - Tender for Provision of Refuse Collection & Cleaning Services for
-        Chinatown Chinese New Year 2025.md
-      - Tender for Provision of Auxiliary Police Services for Chinatown Chinese
-        New Year Celebrations 2025.md
