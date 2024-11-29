@@ -16,6 +16,9 @@ is to help the community stay calm, be resilient during emergencies and
 return to normalcy as quickly as possible.</p>
 <h3>PA Community Emergency Response Team 20th Anniversary</h3>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__342__copy.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__348_.jpg">
 </div>
 <p>The PA Community Emergency Response Team (CERT) was established in 2004
