@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>The People's Association (PA) Community Emergency and Engagement Committees
 (C2Es) seek to strengthen the understanding and ties between people of
-different race and religions, impart Emergency Prepardness (EP) skills
+different race and religions, impart Emergency Preparedness (EP) skills
 and knowledge with an aim to build a safer and more resilient community.</p>
 <p>Through PA and its Grassroots' EP Programmes, residents will not only
 acquire EP skills and take part in emergency exercises, but also learn
