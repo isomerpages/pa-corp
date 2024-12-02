@@ -11,6 +11,8 @@ During peace time, C2Es develop and maintain the Community EP plans, structures 
 
 During times of emergency, C2Es coordinate community resources and grassroots’ emergency response efforts. Together with other grassroots organisations, they help emergency authorities defuse tension and restore public confidence and normalcy by disseminating critical information and collecting feedback.
 
+![](/images/S_S_day.jpg)        <small>_PA C2E and CERT members at a Safety &amp; Security Day organised in a condominium to raise awareness of how residents can respond should a crisis occur in their estate._</small>
+
 #### Community Emergency Response Team
 
 
