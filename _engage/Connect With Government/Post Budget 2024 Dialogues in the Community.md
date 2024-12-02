@@ -6,15 +6,12 @@ variant: markdown
 image: /images/Engage/Website photo AKKSYV v4.png
 third_nav_title: Connect With Government
 ---
-### **Post-Budget 2024 Dialogues in the Community**
+### **Post-Budget 2025 Dialogues in the Community**
 
-![Peoples Association Kopi Talks Post Budget Dialogue 2024](/images/Engage/AKKSYVPB_1.png)
+![collage of people giving feedback](/images/Engage/akksyv2024dec.jpg)
 
-  
-Singapore’s FY2024 Budget Statement will be delivered by the Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, on Friday, 16 February 2024 in Parliament.
+Calling all Singaporeans! Share your views in the lead-up to Budget 2025. From 2 December 2024 to 12 January 2025, we will be launching a series of engagements to seek your views and suggestions for Budget 2025 via various channels and 'Ask Kopi Kakis' sessions in your local communities.
 
-Together with MOF and various agencies, People’s Association (PA) has been engaging the public in the lead-up to Budget 2024. Building on these conversations, PA and its grassroots organisations will be organising post-Budget dialogues to engage residents on Budget 2024 measures. 
+Stay tuned to this page for more updates on our upcoming Ask Kopi Kakis #ShareYourViews engagement platforms\*.
 
-Residents who are keen can [register their interest](https://go.gov.sg/postbudget24) to attend post-Budget 2024 dialogues.
-
-The sign-ups will be available until 12pm on Friday, 1 March 2024.
+\*Details will be progressively updated once confirmed.
