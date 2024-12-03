@@ -62,7 +62,7 @@ National Cheerleading Championship, will also perform at the event.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="https://www.facebook.com/share/p/19yhEXsGvP/" rel="noopener nofollow" target="_blank">Boon Lay Countdown 2025 - Be The Spark. A New Start</a>
+<summary><strong><a href="https://www.facebook.com/share/p/1AxL2Y2aJA/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Boon Lay Countdown 2025 - Be The Spark. A New Start</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Boon Lay GROs</p>
@@ -83,7 +83,7 @@ online audience to interact through comments and live polling.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/15PhWZv5gg/" rel="noopener noreferrer nofollow" target="_blank"><u>Bukit Batok Countdown 2025 - Journey Through Time</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/share/p/17mSzmyrWM/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Bukit Batok Countdown 2025 - Journey Through Time</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Bukit Batok GROs</p>
@@ -102,7 +102,7 @@ opportunities.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/v/1AsKuAndcc/" rel="noopener nofollow" target="_blank">Hougang – Igniting Sparks of Hope</a></strong>
+<summary><strong><a href="https://www.facebook.com/share/v/1EbvPSDUu5/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Hougang – Igniting Sparks of Hope</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Aljunied GRC and Hougang GROs</p>
