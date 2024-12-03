@@ -39,14 +39,14 @@ sections:
       image: /images/FutureYOUth_Banner.jpg
       alt: Image alt text
   - infopic:
-      title: 50 Years of Making Waves
-      subtitle: PAssion Wave Celebrates
+      title: In The Heartlands
+      subtitle: One Countdown 2025
       id: infopic
-      description: Immerse yourself in an exhilarating array of PAssion Wave's 50th
-        Anniversary expeditions and activities
+      description: Ring in the new year with celebrations across Singapore with
+        family-centric activities at 17 heartland locations
       button: Join the Celebrations
-      url: https://www.pa.gov.sg/our-programmes/passion-wave/50th-anniversary-celebrations/
-      image: /images/pw50thumbnail.png
+      url: https://www.pa.gov.sg/one-countdown-2025-heartland-locations/
+      image: /images/one_countdown.jpg
       alt: kayaking at singapore flyer
   - infopic:
       title: PA Courses
