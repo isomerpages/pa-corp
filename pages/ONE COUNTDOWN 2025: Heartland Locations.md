@@ -194,21 +194,48 @@ symbolising the fulfilment of wishes in the New Year.</p>
 <summary><strong><a href="https://www.facebook.com/share/p/1AbN5mBd8B/" rel="noopener noreferrer nofollow" target="_blank"><u>MacPherson Countdown Party 2025</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 8pm to 12.30am</p>
+<p><strong>Venue:</strong> MacPherson – Hardcourt opposite Macpherson CC</p>
+<p>The event will kick off with the spectacular "Street-Up Up Ceremony",
+illuminating Circuit Road from New Year's Eve through Chinese New Year.</p>
+<p>Residents of all ages can look forward to a child-friendly bubble show,
+musical performances, and a talk show at the countdown celebration.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/p/19UVqa9A5y/" rel="noopener noreferrer nofollow" target="_blank"><u>Marine Parade @ 50 Finale</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 10pm to 12.15am</p>
+<p><strong>Venue:</strong> Marine Parade – Hardcourt in front of Blk 46 Marine
+Crescent</p>
+<p>The celebration will feature the grand finale to the year-long "My Marine
+Parade" project which celebrates the rich tapestry of community stories.
+The event will feature an exhibition and bazaar, showcasing resident narratives
+collected throughout the year via social media and launch events.</p>
+<p>Visitors will be treated to a variety display of photos, videos, and stories
+that vividly bring Marine Parade's past and present to life. A special
+collectible postcard featuring iconic landmarks, including Block 1 Marine
+Terrace - the estate's first building - will be distributed to residents.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/p/1PqoviWMay/" rel="noopener noreferrer nofollow" target="_blank"><u>Northbound-Fest Countdown Festival</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 8pm to 12.15am</p>
+<p><strong>Venue:</strong> Marsiling – Woodlands Stadium</p>
+<p>The celebration will feature a nostalgic journey through five decades
+of music and pop culture. Residents will showcase their collectors’ items
+at activity booths, featuring CDs, LDs, vinyl records, and musical instruments
+from different eras.</p>
+<p>A LED screen display will highlight local artistes across five decades,
+from Anita Sarawak and Dick Lee of the 70s-80s to contemporary stars like
+JJ Lin and Tanya Chua.</p>
+<p>Families can also look forward to various activity booths at the event.</p>
 </div>
 </details>
 <details class="isomer-details">
