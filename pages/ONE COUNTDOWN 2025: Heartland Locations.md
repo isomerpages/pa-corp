@@ -9,8 +9,7 @@ image: /images/one_countdown.jpg
 <p><a href="https://www.gowhere.gov.sg/onecountdown/" rel="noopener nofollow" target="_blank">One Countdown 2025</a> will
 ring in the new year with celebrations across Singapore with family-centric
 activities at 17 heartland locations hosted by the People’s Association,
-as well as festivities at central sites such as the Singapore Sports Hub,
-Sentosa, Clarke Quay, Orchard Road and Marina Bay.</p>
+as well as festivities at central sites such as the <strong>Singapore Sports Hub, Sentosa, Clarke Quay, Orchard Road and Marina Bay</strong>.</p>
 <p>There will also be countdown celebrations at Recreation Centres and Dormitories
 for Migrant Workers.</p>
 <div class="isomer-image-wrapper">
@@ -103,7 +102,7 @@ opportunities.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/v/1AsKuAndcc/" rel="noopener noreferrer nofollow" target="_blank"><u>Igniting Sparks of Hope</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/share/v/1AsKuAndcc/" rel="noopener nofollow" target="_blank">Hougang – Igniting Sparks of Hope</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Aljunied GRC and Hougang GROs</p>
@@ -123,7 +122,7 @@ the New Year.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Illuminate 2025</u></strong>
+<summary><strong>Bedok – Illuminate 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>East Coast GRC GROs</p>
@@ -235,7 +234,7 @@ Terrace - the estate's first building - will be distributed to residents.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/1PqoviWMay/" rel="noopener noreferrer nofollow" target="_blank"><u>MY Countdown</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/share/p/1PqoviWMay/" rel="noopener nofollow" target="_blank">Marsiling – MY Countdown</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Marsiling-Yew Tee GRC GROs</p>
