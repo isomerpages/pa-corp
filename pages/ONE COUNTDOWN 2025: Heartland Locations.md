@@ -242,35 +242,90 @@ JJ Lin and Tanya Chua.</p>
 <summary><strong><a href="https://www.facebook.com/share/p/1H14vTxZ3L/" rel="noopener noreferrer nofollow" target="_blank"><u>Nee Soon Countdown 2025</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 8.30pm to 12.30am</p>
+<p><strong>Venue:</strong> Nee Soon – Open field next to Futsal Arena @ Yishun</p>
+<p>Residents can look forward to a 'Glow Up' Zone where both children and
+adults can paint murals or contribute to a giant community canvas, showcasing
+Nee Soon's iconic structures and timeline.</p>
+<p>Residents will get to interact with a Media Art Installation Wall which
+will allow them to activate pre-programmed animations through touch, offering
+an engaging, hands-on exploration of Nee Soon's past, present, and future.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/p/15RcFmhoy8/" rel="noopener noreferrer nofollow" target="_blank"><u>Pasir Ris-Punggol New Year's Eve Countdown</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 8pm to 12.10am</p>
+<p><strong>Venue:</strong> Punggol West – Punggol West Community Square (hardcourt
+beside Blk 218 Sumang Walk)</p>
+<p>The event will kick off with a Starlit Family Picnic, bringing together
+100 local households under the night sky. Residents can look forward to
+live band and school performances.</p>
+<p>As midnight approaches, the festivities take a considerate turn with "Mindful
+Moves of 2,025" - a neighbour-friendly silent disco that allows revellers
+to dance the night away.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Tampines Boogie Countdown to 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 10pm to 12.30am</p>
+<p><strong>Venue:</strong> Tampines – Our Tampines Hub and Tampines Central
+Park</p>
+<p>The celebration at Our Tampines Hub will feature diverse activities for
+all ages. The Resolution Wall which encourages community engagement will
+allow residents to share personal goals and foster unity.</p>
+<p>A skating rink adds fun and interactivity, with participants forming '2025'
+figures to welcome the New Year. The event's highlight features a K-pop
+Random Dance at Festive Plaza, led by local dance interest groups where
+nearly 3,000 residents will dance their way into 2025.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/v/1JNe4cgaHb/" rel="noopener noreferrer nofollow" target="_blank"><u>Tanjong Pagar GRC &amp; Radin Mas SMC Countdown New-tro Night</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 9.30pm to 12.30am</p>
+<p><strong>Venue:</strong> Queenstown - Margaret Market, Margaret Drive Hawker
+and void decks of Block 33 – 37 Margaret Drive HDB</p>
+<p>Residents can look forward to ushering in 2025 at Singapore's first satellite
+town, Queenstown. The event will feature a "Walk Down Memory Lane" which
+showcases residential transformation of Queenstown and collaborative art
+activities by PAssionArts. The event will also honour Merdeka Generation
+– 10 seniors will receive a special invitation to ride to the event in
+vintage cars.</p>
+<p>The event will showcase a community-driven art piece featuring 2,025 buttons
+contributed by residents represents a unique story of individuality. It
+symbolises the spirit of community participation, where even the smallest
+contributions come together to create something beautiful, just as every
+resident plays an integral role in the diverse story of Queenstown. There
+will also be multi-cultural performances by various cultural groups, schools,
+and persons with disabilities.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Woodlands Town Countdown to 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 9pm to 12.15am</p>
+<p><strong>Venue:</strong> Woodlands – Spectra Secondary School and Woodlands
+Drive 64</p>
+<p>The open-air celebration will feature lively music, street performers,
+and pop-up stalls, creating a festival-like atmosphere suitable for all
+ages. Families can enjoy kid-friendly zones with bouncy castles, games,
+and bike-balancing tryouts.</p>
+<p>Talented resident performers from local schools and community partners
+will showcase music, dance, and cultural performances.</p>
+<p>The event will also feature home-based businesses offering artisanal creations
+from pastries to handcrafted accessories, highlighting the community's
+creative and entrepreneurial spirit.</p>
 </div>
 </details>
 </div>
