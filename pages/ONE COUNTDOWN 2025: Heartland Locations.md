@@ -60,28 +60,28 @@ with modern acts such as Singapura Samba percussion.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</u></strong>
+<summary><strong>Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Boon Lay Countdown Celebrations 2024 - Be The Spark. A New Start</u></strong>
+<summary><strong>Boon Lay Countdown Celebrations 2024 - Be The Spark. A New Start</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Bukit Batok Countdown 2025 - Journey Through Time</u></strong>
+<summary><strong>Bukit Batok Countdown 2025 - Journey Through Time</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Illuminate 2025</u></strong>
+<summary><strong>Illuminate 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -144,7 +144,7 @@ with modern acts such as Singapura Samba percussion.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Tampines Boogie Countdown to 2025</u></strong>
+<summary><strong>Tampines Boogie Countdown to 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -158,7 +158,7 @@ with modern acts such as Singapura Samba percussion.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Woodlands Town Countdown to 2025</u></strong>
+<summary><strong>Woodlands Town Countdown to 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
