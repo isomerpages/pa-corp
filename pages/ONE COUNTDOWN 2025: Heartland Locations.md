@@ -43,7 +43,7 @@ the New Year.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs Countdown Party</strong>
+<summary><strong><a href="https://www.facebook.com/share/v/15ce1whnPW/" rel="noopener nofollow" target="_blank">Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs Countdown Party</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>31 Dec 2024</p>
@@ -79,7 +79,7 @@ National Cheerleading Championship, will also perform at the event.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Boon Lay Countdown Celebrations 2024 - Be The Spark. A New Start</strong>
+<summary><a href="https://www.facebook.com/share/p/19yhEXsGvP/" rel="noopener nofollow" target="_blank">Boon Lay Countdown 2025 - Be The Spark. A New Start</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>31 Dec 2024</p>
@@ -99,7 +99,7 @@ online audience to interact through comments and live polling.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Bukit Batok Countdown 2025 - Journey Through Time</strong>
+<summary><a href="https://www.facebook.com/share/p/15PhWZv5gg/" rel="noopener nofollow" target="_blank">Bukit Batok Countdown 2025 - Journey Through Time</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date: </strong>31 Dec 2024</p>
