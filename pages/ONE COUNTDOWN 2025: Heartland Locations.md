@@ -27,56 +27,157 @@ to connect with the community to welcome 2025.</p>
 <summary><strong><a href="https://www.facebook.com/share/v/15ce1whnPW/" rel="noopener noreferrer nofollow" target="_blank"><u>Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs Countdown Party</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Organiser(s): </strong>Ang Mo Kio GRC and Kebun Baru GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 9pm to 12.30am</p>
+<p>Venue: Ang Mo Kio Avenue 4, Mayflower Mall, Hardcourt, Food Centre and
+Carpark</p>
+<p>Residents can look forward to a vibrant event space brimming with memory-making
+opportunities. Chill corners and instagrammable photo spots, including
+an F1 Car, Super Trees, and a Neon Sign Photo Wall, cater to all ages.</p>
+<p>A Digital Message Board, managed by youth volunteers, will display residents'
+well-wishes for 2025, fostering intergenerational bonding.</p>
+<p>There will also be traditional performances like Getai and Xin Yao blending
+with modern acts such as Singapura Samba percussion.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><u>Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Organiser(s): </strong>Bishan-Toa Payoh GRC / Marymount GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 5pm to 12.30am</p>
+<p><strong>Venue:</strong> Bishan Active Park, Bishan Street 23</p>
+<p>The celebration will feature a star-studded lineup featuring local sports
+heroes and homegrown talent. The Lion City Sailors FC, currently leading
+the S-league, will meet and greet participants, networking with Pesta Sukan
+Community Championship winners, Team ‘Last Minute’ from Toa Payoh Central.</p>
+<p>&nbsp;</p>
+<p>'Bishan-Toa Payoh &amp; Marymount's Got Talent’ will showcase local artists,
+including Marymount's Hiran Raj, a passionate rapper with five years of
+performance experience.</p>
+<p>The award-winning Wildcards Cheerleading Team from Bishan CC Interest
+Group, recent champions at the at the 7th Cheerleading Association of Singapore
+National Cheerleading Championship, will also perform at the event.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/p/15PhWZv5gg/" rel="noopener noreferrer nofollow" target="_blank"><u>Boon Lay Countdown 2025 - Be The Spark. A New Start</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Organiser(s): </strong>Boon Lay GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 7pm to 12.15am</p>
+<p><strong>Venue:</strong> Hardcourt in front of Blk 215 Boon Lay Place</p>
+<p>Themed "Be The Spark. A New Start“, the first-ever gamified countdown
+celebration will invite residents to co-create their Heartlands Countdown
+Experience through active participation both online and on-site.</p>
+<p>The event aims to set a Singapore Book of Records attempt with 3,000 LED
+clappers lit simultaneously.</p>
+<p>Residents can create or rekindle connections through Friendzone conversations
+and photo wall/booth where they can pen and put up their reflections of
+2024 and aspirations for 2025.</p>
+<p>The online community can join in the buzz with community influencer livestream
+coverage that showcases their event experience, with opportunities for
+online audience to interact through comments and live polling.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/p/15PhWZv5gg/" rel="noopener noreferrer nofollow" target="_blank"><u>Bukit Batok Countdown 2025 - Journey Through Time</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Organiser(s): </strong>Bukit Batok GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 6pm to 12.15am</p>
+<p><strong>Venue:</strong> Bukit Batok – Sky Peak Central Garden</p>
+<p>The event will feature a 'Journey Through Time' countdown celebration
+spanning five decades. There will be nostalgic elements in fashion, food,
+technology, toys, and music, including a vintage outfit contest, retro
+snack booths, era-specific photobooths, classic game stations, and multi-racial
+performances.</p>
+<p>A Time Capsule will preserve 2024's top trending items for future display
+at the new Bukit Batok CC. Booths managed by youth community volunteers
+will allow residents to share visions for Jurong's future and explore volunteer
+opportunities.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/v/1AsKuAndcc/" rel="noopener noreferrer nofollow" target="_blank"><u>Igniting Sparks of Hope</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Organiser(s): </strong>Aljunied GRC and Hougang GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 10pm to 12.30am</p>
+<p><strong>Venue:</strong> Hougang – Open field beside Hougang MRT Exit C</p>
+<p>The celebration will feature a sensory-rich Night Bazaar offering traditional
+delights from various cultures, including tutu kueh, Ramly burgers, and
+vadai.</p>
+<p>Residents can look forward to performances ranging from local singer-songwriters
+to LED drum and Samba percussion spectacles, culminating in a grand finale
+by homegrown singers Odelia Rei, The Great Ziyi, and Alicia Huang.</p>
+<p>&nbsp;</p>
+<p>Residents have also come together to fold 2,025 crane origami. As midnight
+approaches, a video featuring 2,025 wishes from residents will usher in
+the New Year.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><u>Illuminate 2025</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Organiser(s): </strong>East Coast GRC GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 8pm to 12.15am</p>
+<p><strong>Venue:</strong> Bedok Stadium, 1 Bedok North Street 2</p>
+<p>Residents can look forward to a nostalgic yet forward-looking New Year's
+Eve celebration at the Bedok Stadium. The event will feature a Time Capsule
+Monument, where young residents pen dreams to their future selves, while
+older generations write heartfelt messages to the youth.</p>
+<p>Renowned graffiti artists Spaz and Zero will lead the creation of a community
+artwork, challenging perceptions and showcasing how counterculture can
+contribute positively to community spirit. The celebration aims to engage
+residents to co-create for the present and the future.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/p/17hpDzpqNF/" rel="noopener noreferrer nofollow" target="_blank"><u>Holland-Bukit Timah GRC and Bukit Panjang SMC Year-End Countdown Celebrations @ Heartlands 2024</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Organiser(s): </strong>Holland-Bukit Timah GRC and Bukit Panjang
+GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 9pm to 12.30am</p>
+<p><strong>Venue:</strong> Bukit Panjang – Senja-Cashew CC</p>
+<p>Residents can look forward to movie screenings and live bands while seniors
+can dance the night away.</p>
+<p>In a spectacular display of unity, 2,025 residents will illuminate the
+sky with LED wristbands bearing personal resolutions that symbolize collective
+aspirations.</p>
+<p>There will be a LED screen which showcases pre-recorded videos of 2,025
+residents sharing their hopes and dreams for the New Year.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/p/153Ae3tUfu/" rel="noopener noreferrer nofollow" target="_blank"><u>Jalan Besar GRC &amp; Potong Pasir SMC New Year Countdown Party</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Organiser(s): </strong>Jalan Besar GRC and Potong Pasir GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 8.30pm to 12.15am</p>
+<p><strong>Venue:</strong> Jalan Besar – Spaces around People’s Association
+Headquarters</p>
+<p>Residents can look forward to a celebration of Singapore's 60-year journey,
+highlighting its evolution, resilience, and aspirations. There will be
+a spectacular light projections on the People’s Association Headquarters
+facade which narrates Singapore's evolution, illuminating Jalan Besar's
+nightscape.</p>
+<p>Residents can co-create a large Neon Mural Wall in Singapore with NAFA
+students and they can also look forward to a 'Down the Memory' food street
+which offers a blend of traditional and contemporary flavours.</p>
+<p>The night will culminate in a dazzling display as over 2,025 residents
+wave light sticks during the countdown, lighting up the sky in a unified
+celebration.</p>
 </div>
 </details>
 <details class="isomer-details">
