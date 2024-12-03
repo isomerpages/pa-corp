@@ -62,7 +62,7 @@ National Cheerleading Championship, will also perform at the event.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/15PhWZv5gg/" rel="noopener noreferrer nofollow" target="_blank"><u>Boon Lay Countdown 2025 - Be The Spark. A New Start</u></a></strong>
+<summary><a href="https://www.facebook.com/share/p/19yhEXsGvP/" rel="noopener nofollow" target="_blank">Boon Lay Countdown 2025 - Be The Spark. A New Start</a>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Boon Lay GROs</p>
