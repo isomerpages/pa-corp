@@ -20,7 +20,7 @@ for Migrant Workers.</p>
 of countdown locations, ensuring accessibility and convenience for everyone
 to connect with the community to welcome 2025.</p>
 <hr>
-<p><strong>Find a countdown celebration in your neighbourhood!</strong>
+<p><strong>Countdown to 2025 and celebrate in your neighbourhood!</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
