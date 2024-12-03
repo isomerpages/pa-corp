@@ -59,5 +59,110 @@ well-wishes for 2025, fostering intergenerational bonding.</p>
 with modern acts such as Singapura Samba percussion.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong><u>Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>Boon Lay Countdown Celebrations 2024 - Be The Spark. A New Start</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>Bukit Batok Countdown 2025 - Journey Through Time</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>Illuminate 2025</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/p/17hpDzpqNF/" rel="noopener noreferrer nofollow" target="_blank"><u>Holland-Bukit Timah GRC and Bukit Panjang SMC Year-End Countdown Celebrations @ Heartlands 2024</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/p/153Ae3tUfu/" rel="noopener noreferrer nofollow" target="_blank"><u>Jalan Besar GRC &amp; Potong Pasir SMC New Year Countdown Party</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/p/1DnNELTWND/" rel="noopener noreferrer nofollow" target="_blank"><u>Keat Hong Countdown Celebrations - Vibe Into 2025</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/p/1AbN5mBd8B/" rel="noopener noreferrer nofollow" target="_blank"><u>MacPherson Countdown Party 2025</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/p/19UVqa9A5y/" rel="noopener noreferrer nofollow" target="_blank"><u>Marine Parade @ 50 Finale</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/p/1PqoviWMay/" rel="noopener noreferrer nofollow" target="_blank"><u>Northbound-Fest Countdown Festival</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/p/1H14vTxZ3L/" rel="noopener noreferrer nofollow" target="_blank"><u>Nee Soon Countdown 2025</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/p/15RcFmhoy8/" rel="noopener noreferrer nofollow" target="_blank"><u>Pasir Ris-Punggol New Year's Eve Countdown</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>Tampines Boogie Countdown to 2025</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/v/1JNe4cgaHb/" rel="noopener noreferrer nofollow" target="_blank"><u>Tanjong Pagar GRC &amp; Radin Mas SMC Countdown New-tro Night</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><u>Woodlands Town Countdown to 2025</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
