@@ -13,7 +13,6 @@ as well as festivities at central sites such as the Singapore Sports Hub,
 Sentosa, Clarke Quay, Orchard Road and Marina Bay.</p>
 <p>There will also be countdown celebrations at Recreation Centres and Dormitories
 for Migrant Workers.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/one_countdown_1.jpg">
 </div>
@@ -35,21 +34,29 @@ to connect with the community to welcome 2025.</p>
 <p>The celebration will feature a sensory-rich Night Bazaar offering traditional
 delights from various cultures, including tutu kueh, Ramly burgers, and
 vadai.</p>
-<p>&nbsp;</p>
 <p>Residents can look forward to performances ranging from local singer-songwriters
 to LED drum and Samba percussion spectacles, culminating in a grand finale
-by homegrown singers Odelia Rei, The Great Ziyi, and Alicia Huang.</p>
-<p>&nbsp;</p>
+by homegrown singers Odelia Rei, he Great Ziyi, and Alicia Huang.</p>
 <p>Residents have also come together to fold 2,025 crane origami. As midnight
 approaches, a video featuring 2,025 wishes from residents will usher in
 the New Year.</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs Countdown Party</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 9pm to 12.30am</p>
+<p><strong>Venue:</strong> Ang Mo Kio Avenue 4, Mayflower Mall, Hardcourt,
+Food Centre and Carpark</p>
+<p>Residents can look forward to a vibrant event space brimming with memory-making
+opportunities. Chill corners and instagrammable photo spots, including
+an F1 Car, Super Trees, and a Neon Sign Photo Wall, cater to all ages.</p>
+<p>A Digital Message Board, managed by youth volunteers, will display residents'
+well-wishes for 2025, fostering intergenerational bonding.</p>
+<p>There will also be traditional performances like Getai and Xin Yao blending
+with modern acts such as Singapura Samba percussion.</p>
 </div>
 </details>
 </div>
