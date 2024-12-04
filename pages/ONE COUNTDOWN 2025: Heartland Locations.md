@@ -141,6 +141,8 @@ fireworks display.</p>
 Eve celebration at the Bedok Stadium. The event will feature a space where
 residents pen dreams to their future selves, while older generations write
 heartfelt messages to the youth.</p>
+<p>Other highlights include a fireworks display and renowned graffiti artist,
+Zero, leading the creation of a community artwork.</p>
 </div>
 </details>
 <details class="isomer-details">
