@@ -6,10 +6,17 @@ description: "ONE COUNTDOWN 2025: 17 Heartland Locations"
 image: /images/one_countdown.jpg
 ---
 <h2>One Countdown 2025</h2>
+<p>Organised by about <strong>1,700 grassroots leaders and community volunteers </strong>–
+from dedicated students, working professionals, to seasoned seniors – who
+are eager to make a difference in their communities, the 17 heartland countdown
+celebrations promise to offer vibrant and inclusive programmes that bring
+joy and celebration to people of all ages. These events bring the spirit
+of unity, volunteerism, and community engagement.</p>
 <p><a href="https://www.gowhere.gov.sg/onecountdown/" rel="noopener nofollow" target="_blank">One Countdown 2025</a> will
 ring in the new year with celebrations across Singapore with family-centric
 activities at 17 heartland locations hosted by the People’s Association,
-as well as festivities at central sites such as the <strong>Singapore Sports Hub, Sentosa, Clarke Quay, Orchard Road and Marina Bay</strong>.</p>
+as well as festivities at central sites such as the Singapore Sports Hub,
+Sentosa, Clarke Quay, Orchard Road and Marina Bay.</p>
 <p>There will also be countdown celebrations at Recreation Centres and Dormitories
 for Migrant Workers.</p>
 <div class="isomer-image-wrapper">
@@ -18,9 +25,7 @@ for Migrant Workers.</p>
 <p>This is the first event to kick off SG60 commemorations and offers a variety
 of countdown locations, ensuring accessibility and convenience for everyone
 to connect with the community to welcome 2025.</p>
-<hr>
-<p><strong>Countdown to 2025 and celebrate in your neighbourhood!</strong>
-</p>
+<h3><strong>Countdown to 2025 and celebrate in your neighbourhood!</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/v/15ce1whnPW/" rel="noopener noreferrer nofollow" target="_blank"><u>Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs Countdown Party</u></a></strong>
@@ -281,7 +286,7 @@ display to usher in the New Year.&nbsp;</p>
 <summary><strong><a href="https://www.facebook.com/share/r/1BSWroTQgj/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Pasir Ris-Punggol New Year's Eve Countdown</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Organiser(s): </strong>Punggol Town CCCs</p>
+<p><strong>Organiser(s): </strong>Pasir Ris - Punggol GROs</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
 <p><strong>Time:</strong> 8.30pm to 12.10am</p>
 <p><strong>Venue:</strong> Punggol West – Punggol West Community Square (hardcourt
@@ -357,4 +362,5 @@ together to ring in the New Year.</p>
 </div>
 </details>
 </div>
+<h3></h3>
 <p></p>
