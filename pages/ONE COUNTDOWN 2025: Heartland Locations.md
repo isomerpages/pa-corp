@@ -33,8 +33,6 @@ to connect with the community to welcome 2025.</p>
 Food Centre and Carpark</p>
 <p>The celebration will feature a night bazaar offering traditional delights
 from various cultures.</p>
-<p>Residents can enjoy performances rangThe celebration will feature a night
-bazaar offering traditional delights from various cultures.</p>
 <p>Residents can enjoy performances ranging from local singers to an LED
 drum showcase. As part of SG60 celebrations, a new song written by a local
 songwriter, will be launched for Aljunied GRC and Hougang SMC.&nbsp;</p>
@@ -189,7 +187,8 @@ and The ETC.</p>
 <p><strong>Organiser(s): </strong>Keat Hong GROs</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
 <p><strong>Time:</strong> 8pm to 12.15am</p>
-<p><strong>Venue:</strong> Kang – Hardcourt beside Concord Primary School</p>
+<p><strong>Venue:</strong> Choa Chu Kang – Hardcourt beside Concord Primary
+School</p>
 <p>The celebration will feature live performances by Monty Crew, Angel Vaishilee
 and Ryan Sufiyan.</p>
 <p>Led by community volunteers, the "SG60 Tapestry of Hope" initiative will
@@ -243,7 +242,7 @@ fireworks display lighting up the night sky.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Marsiling-Yew Tee GRC GROs</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
-<p><strong>Time:</strong> 8pm to 12.15am</p>
+<p><strong>Time:</strong> 8pm to 12.30am</p>
 <p><strong>Venue:</strong> Marsiling – Woodlands Stadium</p>
 <p>The event will feature a pop-up musical instrument exhibition, showcasing
 at least 15 traditional instruments from our multicultural community. Residents
@@ -284,7 +283,7 @@ display to usher in the New Year.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Punggol Town CCCs</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
-<p><strong>Time:</strong> 8pm to 12.10am</p>
+<p><strong>Time:</strong> 8.30pm to 12.10am</p>
 <p><strong>Venue:</strong> Punggol West – Punggol West Community Square (hardcourt
 beside Blk 218 Sumang Walk)</p>
 <p>The event will kick off with a Starlit Family Picnic, bringing together
