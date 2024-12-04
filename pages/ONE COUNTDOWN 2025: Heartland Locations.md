@@ -55,7 +55,7 @@ fireworks display.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</u></strong>
+<summary><strong>Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Bishan-Toa Payoh GRC / Marymount GROs</p>
