@@ -25,7 +25,6 @@ for Migrant Workers.</p>
 <p>This is the first event to kick off SG60 commemorations and offers a variety
 of countdown locations, ensuring accessibility and convenience for everyone
 to connect with the community to welcome 2025.</p>
-<hr>
 <h3><strong>Countdown to 2025 and celebrate in your neighbourhood!</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
