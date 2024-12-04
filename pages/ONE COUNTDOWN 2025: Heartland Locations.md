@@ -242,7 +242,7 @@ fireworks display lighting up the night sky.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Marsiling-Yew Tee GRC GROs</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
-<p><strong>Time:</strong> 8pm to 12.15am</p>
+<p><strong>Time:</strong> 8pm to 12.30am</p>
 <p><strong>Venue:</strong> Marsiling – Woodlands Stadium</p>
 <p>The event will feature a pop-up musical instrument exhibition, showcasing
 at least 15 traditional instruments from our multicultural community. Residents
