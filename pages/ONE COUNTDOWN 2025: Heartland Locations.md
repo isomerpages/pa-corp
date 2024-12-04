@@ -33,8 +33,6 @@ to connect with the community to welcome 2025.</p>
 Food Centre and Carpark</p>
 <p>The celebration will feature a night bazaar offering traditional delights
 from various cultures.</p>
-<p>Residents can enjoy performances rangThe celebration will feature a night
-bazaar offering traditional delights from various cultures.</p>
 <p>Residents can enjoy performances ranging from local singers to an LED
 drum showcase. As part of SG60 celebrations, a new song written by a local
 songwriter, will be launched for Aljunied GRC and Hougang SMC.&nbsp;</p>
