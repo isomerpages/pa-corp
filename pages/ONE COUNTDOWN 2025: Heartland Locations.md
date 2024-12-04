@@ -44,9 +44,10 @@ songwriter, will be launched for Aljunied GRC and Hougang SMC.&nbsp;</p>
 <p>Aljunied and Hougang residents have also come together to fold 2,025 origami
 cranes with well-wishes for 2025. As midnight approaches, a video featuring
 2,025 wishes from residents will usher in the New Year with a dazzling
-fireworks display.ing from local singers to an LED drum showcase. As part
-of SG60 celebrations, a new song written by a local songwriter, will be
-launched for Aljunied GRC and Hougang SMC.&nbsp;</p>
+fireworks <a href="http://display.ing" rel="noopener noreferrer nofollow" target="_blank">display.ing</a> from
+local singers to an LED drum showcase. As part of SG60 celebrations, a
+new song written by a local songwriter, will be launched for Aljunied GRC
+and Hougang SMC.&nbsp;</p>
 <p>Aljunied and Hougang residents have also come together to fold 2,025 origami
 cranes with well-wishes for 2025. As midnight approaches, a video featuring
 2,025 wishes from residents will usher in the New Year with a dazzling
@@ -73,7 +74,23 @@ welcome the New Year with their families and friends.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/1AxL2Y2aJA/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Boon Lay Countdown 2025 - Be The Spark. A New Start</a></strong>
+<summary><strong>Bedok – Illuminate 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Organiser(s): </strong>East Coast GRC GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 8pm to 12.15am</p>
+<p><strong>Venue:</strong> Bedok Stadium, 1 Bedok North Street 2</p>
+<p>Residents can look forward to a nostalgic yet forward-looking New Year's
+Eve celebration at the Bedok Stadium. The event will feature a space where
+residents pen dreams to their future selves, while older generations write
+heartfelt messages to the youth.</p>
+<p>Other highlights include a fireworks display and renowned graffiti artist,
+Zero, leading the creation of a community artwork.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/p/1AxL2Y2aJA/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank"><u>Boon Lay Countdown 2025 - Be The Spark. A New Start</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Boon Lay GROs</p>
@@ -111,7 +128,24 @@ at the new Bukit Batok CC.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/v/1EbvPSDUu5/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Hougang – Igniting Sparks of Hope</a></strong>
+<summary><strong><a href="https://www.facebook.com/share/p/19TzKYdDUC/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Holland-Bukit Timah GRC and Bukit Panjang SMC Year-End Countdown Celebrations @ Heartlands 2024</u></a></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Organiser(s): </strong>Holland-Bukit Timah GRC and Bukit Panjang
+GROs</p>
+<p><strong>Date: </strong>31 Dec 2024</p>
+<p><strong>Time:</strong> 9pm to 12.30am</p>
+<p><strong>Venue:</strong> Bukit Panjang – Senja-Cashew CC</p>
+<p>Residents can look forward to movie screenings and live band performances
+by The ETC &amp; Friends, Yokez x The Nobodies, and itsLawLeePop, along
+with a lively dance party for seniors to enjoy.</p>
+<p>Families can have fun with bouncy castles, carnival games, and food stations.
+In a dazzling display of unity, 2,025 residents will light up the sky with
+LED wristbands, accompanied by a captivating drone show.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong><a href="https://www.facebook.com/share/v/1EbvPSDUu5/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank"><u>Hougang – Igniting Sparks of Hope</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Aljunied GRC and Hougang GROs</p>
@@ -127,39 +161,6 @@ songwriter, will be launched for Aljunied GRC and Hougang SMC.&nbsp;</p>
 cranes with well-wishes for 2025. As midnight approaches, a video featuring
 2,025 wishes from residents will usher in the New Year with a dazzling
 fireworks display.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Bedok – Illuminate 2025</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Organiser(s): </strong>East Coast GRC GROs</p>
-<p><strong>Date: </strong>31 Dec 2024</p>
-<p><strong>Time:</strong> 8pm to 12.15am</p>
-<p><strong>Venue:</strong> Bedok Stadium, 1 Bedok North Street 2</p>
-<p>Residents can look forward to a nostalgic yet forward-looking New Year's
-Eve celebration at the Bedok Stadium. The event will feature a space where
-residents pen dreams to their future selves, while older generations write
-heartfelt messages to the youth.</p>
-<p>Other highlights include a fireworks display and renowned graffiti artist,
-Zero, leading the creation of a community artwork.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/19TzKYdDUC/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Holland-Bukit Timah GRC and Bukit Panjang SMC Year-End Countdown Celebrations @ Heartlands 2024</u></a></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Organiser(s): </strong>Holland-Bukit Timah GRC and Bukit Panjang
-GROs</p>
-<p><strong>Date: </strong>31 Dec 2024</p>
-<p><strong>Time:</strong> 9pm to 12.30am</p>
-<p><strong>Venue:</strong> Bukit Panjang – Senja-Cashew CC</p>
-<p>Residents can look forward to movie screenings and live band performances
-by The ETC &amp; Friends, Yokez x The Nobodies, and itsLawLeePop, along
-with a lively dance party for seniors to enjoy.</p>
-<p>Families can have fun with bouncy castles, carnival games, and food stations.
-In a dazzling display of unity, 2,025 residents will light up the sky with
-LED wristbands, accompanied by a captivating drone show.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -362,5 +363,4 @@ together to ring in the New Year.</p>
 </div>
 </details>
 </div>
-<h3></h3>
 <p></p>
