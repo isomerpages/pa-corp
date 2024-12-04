@@ -301,7 +301,7 @@ castles, and a dazzling fireworks display for a night of fun-filled entertainmen
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Tampines Boogie Countdown to 2025</u></strong>
+<summary><strong><a href="https://www.facebook.com/share/p/14gfwh95Sn/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Tampines Boogie Countdown to 2025</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s):</strong> Tampines GRC GROs</p>
