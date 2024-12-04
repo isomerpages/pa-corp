@@ -187,7 +187,8 @@ and The ETC.</p>
 <p><strong>Organiser(s): </strong>Keat Hong GROs</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
 <p><strong>Time:</strong> 8pm to 12.15am</p>
-<p><strong>Venue:</strong> Kang – Hardcourt beside Concord Primary School</p>
+<p><strong>Venue:</strong> Choa Chu Kang – Hardcourt beside Concord Primary
+School</p>
 <p>The celebration will feature live performances by Monty Crew, Angel Vaishilee
 and Ryan Sufiyan.</p>
 <p>Led by community volunteers, the "SG60 Tapestry of Hope" initiative will
