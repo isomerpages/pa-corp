@@ -283,7 +283,7 @@ display to usher in the New Year.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Punggol Town CCCs</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
-<p><strong>Time:</strong> 8pm to 12.10am</p>
+<p><strong>Time:</strong> 8.30pm to 12.10am</p>
 <p><strong>Venue:</strong> Punggol West – Punggol West Community Square (hardcourt
 beside Blk 218 Sumang Walk)</p>
 <p>The event will kick off with a Starlit Family Picnic, bringing together
