@@ -286,7 +286,7 @@ display to usher in the New Year.&nbsp;</p>
 <summary><strong><a href="https://www.facebook.com/share/r/1BSWroTQgj/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Pasir Ris-Punggol New Year's Eve Countdown</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Organiser(s): </strong>Punggol Town GROs</p>
+<p><strong>Organiser(s): </strong>Pasir Ris - Punggol GROs</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
 <p><strong>Time:</strong> 8.30pm to 12.10am</p>
 <p><strong>Venue:</strong> Punggol West – Punggol West Community Square (hardcourt
