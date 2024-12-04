@@ -138,11 +138,9 @@ fireworks display.</p>
 <p><strong>Time:</strong> 8pm to 12.15am</p>
 <p><strong>Venue:</strong> Bedok Stadium, 1 Bedok North Street 2</p>
 <p>Residents can look forward to a nostalgic yet forward-looking New Year's
-Eve celebration at the Bedok Stadium. The event will feature a Time Capsule
-Monument where young residents pen dreams to their future selves, while
-older generations write heartfelt messages to the youth.</p>
-<p>Other highlights include a fireworks display and renowned graffiti artist,
-Zero, leading the creation of a community artwork.</p>
+Eve celebration at the Bedok Stadium. The event will feature a space where
+residents pen dreams to their future selves, while older generations write
+heartfelt messages to the youth.</p>
 </div>
 </details>
 <details class="isomer-details">
