@@ -26,8 +26,7 @@ for Migrant Workers.</p>
 of countdown locations, ensuring accessibility and convenience for everyone
 to connect with the community to welcome 2025.</p>
 <hr>
-<p><strong>Countdown to 2025 and celebrate in your neighbourhood!</strong>
-</p>
+<h3><strong>Countdown to 2025 and celebrate in your neighbourhood!</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong><a href="https://www.facebook.com/share/v/15ce1whnPW/" rel="noopener noreferrer nofollow" target="_blank"><u>Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs Countdown Party</u></a></strong>
@@ -364,4 +363,5 @@ together to ring in the New Year.</p>
 </div>
 </details>
 </div>
+<h3></h3>
 <p></p>
