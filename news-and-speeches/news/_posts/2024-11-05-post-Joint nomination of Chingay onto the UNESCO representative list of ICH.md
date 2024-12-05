@@ -65,8 +65,6 @@ a. Chingay listed on Malaysia’s ICH Inventory [https://www.heritage.gov.my/en/
 <br>
 b. Chingay in Johor Bahru
 <br>
-[https://youtube/wbkMr2JplTM?si=u88xKUv3Z2YPbJPA](https://youtube/wbkMr2JplTM?si=u88xKUv3Z2YPbJPA)
-<br>
 [https://www.thestar.com.my/news/nation/2023/02/10/jb-chingay-festival-expected-to-draw-300000-visitors-says-association-chief](https://www.thestar.com.my/news/nation/2023/02/10/jb-chingay-festival-expected-to-draw-300000-visitors-says-association-chief)
 <br>
 c. Chingay in Penang
