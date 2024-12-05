@@ -3,6 +3,7 @@ title: Neighbourhood Committees
 permalink: /our-network/grassroots-organisations/neighbourhood-committees/
 description: ""
 third_nav_title: Grassroots Organisations
+variant: markdown
 ---
 Neighbourhood Committees (NCs) were formed in June 1998 to encourage active citizenry and foster stronger community bonds within private housing estates. NCs also work with various government agencies to improve the social and physical environment in their private housing estates.
 
@@ -14,7 +15,7 @@ NCs’ functions are to:
 * Disseminate information and obtain feedback on government policies and actions from the residents; and
 * Foster good citizenship amongst residents.
 
-Have a say in your estate. Join your NCs as a [volunteer](/engage/be-our-volunteer).
+Have a say in your estate. Join your NCs as a [volunteer](/grassroots-volunteer/).
 
 Click [here](https://www.onepa.gov.sg/rc) to search for your nearest NC.
 
