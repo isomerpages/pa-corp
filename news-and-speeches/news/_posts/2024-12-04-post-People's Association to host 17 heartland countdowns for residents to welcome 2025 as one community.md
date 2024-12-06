@@ -30,8 +30,7 @@ and exploring an interactive media art installation wall at <strong>Nee Soon Cou
 can co-create a community artwork with renowned graffiti artist, Zero.</p>
 <p>4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;For those seeking sporting fun, <strong>Tampines Boogie Countdown to 2025</strong> will
 feature K-pop random dance sessions led by various dance interest groups
-in Our</p>
-<p>Tampines Hub. Seniors can showcase their moves at a lively dance party
+in Our Tampines Hub. Seniors can showcase their moves at a lively dance party
 at <strong>Holland-Bukit Timah GRC and Bukit Panjang SMC Year-End Countdown Celebrations
 @ Heartlands 2024</strong>. Residents can also enjoy sport try-outs conducted by
 ActiveSG at various heartland celebrations which include giant human bowling,
