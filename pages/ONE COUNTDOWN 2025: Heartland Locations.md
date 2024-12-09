@@ -55,7 +55,7 @@ fireworks display.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</strong>
+<summary><strong><a href="https://www.facebook.com/share/p/19ZUC8QZKp/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Bishan-Toa Payoh GRC / Marymount GROs</p>
@@ -74,7 +74,7 @@ welcome the New Year with their families and friends.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Bedok – Illuminate 2025</strong>
+<summary><strong><a href="https://www.facebook.com/share/p/1EVDNvjPi3/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Bedok – Illuminate 2025</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>East Coast GRC GROs</p>
@@ -342,7 +342,7 @@ by various cultural groups.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Woodlands Town Countdown to 2025</u></strong>
+<summary><strong><a href="https://www.facebook.com/share/v/1AmPmx4fBk/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Woodlands Town Countdown to 2025</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s):</strong> Woodands CCC, Admiralty CCC and Sembawang
