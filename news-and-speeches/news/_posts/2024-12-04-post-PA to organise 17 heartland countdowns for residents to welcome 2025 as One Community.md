@@ -9,7 +9,7 @@ description: PA to host 17 heartland countdowns for residents to welcome 2025 as
 image: ""
 variant: markdown
 ---
-<h2>People’s Association to organise 17 heartland countdown celebrations for residents to welcome 2025 as one community</h2>
+<h2>People’s Association to organise 17 heartland countdown celebrations for residents to welcome 2025 as One Community</h2>
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; The <strong>People’s Association Grassroots Organisations</strong> (PA GROs) will organise
 <strong>17 heartland countdown celebrations</strong> on Tuesday, 31 December 2024, with
