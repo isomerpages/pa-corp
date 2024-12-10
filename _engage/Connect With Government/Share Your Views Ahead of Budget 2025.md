@@ -8,7 +8,7 @@ third_nav_title: Connect With Government
 ---
 ### **Share Your Views Ahead of Budget 2025**
 
-![collage of people giving feedback](/images/Engage/akksyv2024dec.jpg)
+![banner image for Ask Kopi Kakis](/images/Engage/AKKSYV_Webpage_v2.jpg)
 
 Calling all Singaporeans! Share your views in the lead-up to Budget 2025. From 2 December 2024 to 12 January 2025, we will be launching a series of engagements to seek your views and suggestions for Budget 2025 via various channels and 'Ask Kopi Kakis' sessions in your local communities.
 
