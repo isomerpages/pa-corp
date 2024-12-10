@@ -28,7 +28,7 @@ to connect with the community to welcome 2025.</p>
 <h3><strong>Countdown to 2025 and celebrate in your neighbourhood!</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/v/15ce1whnPW/" rel="noopener noreferrer nofollow" target="_blank"><u>Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs Countdown Party</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/amkgrckbycksmcs/posts/pfbid0EHQWjZzmafy8Y3YZKXYoFRE5Wh23Vd6Y3SDD24bnWRSF3QgE6zRhiv3aiwFQHgJ6l" rel="noopener nofollow" target="_blank">Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs Countdown Party</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Ang Mo Kio GRC and Kebun Baru GROs</p>
@@ -44,10 +44,9 @@ songwriter, will be launched for Aljunied GRC and Hougang SMC.&nbsp;</p>
 <p>Aljunied and Hougang residents have also come together to fold 2,025 origami
 cranes with well-wishes for 2025. As midnight approaches, a video featuring
 2,025 wishes from residents will usher in the New Year with a dazzling
-fireworks <a href="http://display.ing" rel="noopener noreferrer nofollow" target="_blank">display.ing</a> from
-local singers to an LED drum showcase. As part of SG60 celebrations, a
-new song written by a local songwriter, will be launched for Aljunied GRC
-and Hougang SMC.&nbsp;</p>
+fireworks display, performances from local singers to an LED drum showcase.
+As part of SG60 celebrations, a new song written by a local songwriter,
+will be launched for Aljunied GRC and Hougang SMC.&nbsp;</p>
 <p>Aljunied and Hougang residents have also come together to fold 2,025 origami
 cranes with well-wishes for 2025. As midnight approaches, a video featuring
 2,025 wishes from residents will usher in the New Year with a dazzling
@@ -55,7 +54,7 @@ fireworks display.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/19ZUC8QZKp/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</a></strong>
+<summary><strong><a href="https://www.facebook.com/BishanToaPayoh/posts/pfbid02Mnpq59awidnE8ksgkKPd997GP2FE7HmeVvqokg7BZnALexLJrQAUAhCV8yg8Z21gl" rel="noopener nofollow" target="_blank">Bishan-Toa Payoh GRC and Marymount SMC New Year Countdown Party</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Bishan-Toa Payoh GRC / Marymount GROs</p>
@@ -74,7 +73,7 @@ welcome the New Year with their families and friends.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/1EVDNvjPi3/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Bedok – Illuminate 2025</a></strong>
+<summary><strong><a href="https://www.facebook.com/kcc.ekampong/posts/pfbid02GS84zZN8WQGRPdsHVdqjY5AgHXyH3Let4XEUmLTx6Xqpc4mpnpUp9EhYt5WaRxu2l" rel="noopener nofollow" target="_blank">Bedok – Illuminate 2025</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>East Coast GRC GROs</p>
@@ -90,7 +89,7 @@ Zero, leading the creation of a community artwork.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/1AxL2Y2aJA/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank"><u>Boon Lay Countdown 2025 - Be The Spark. A New Start</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/OurBoonLay/posts/pfbid02gCgW8qPFKDhwg7zXxjkjTMfxu1q1NfPoW8qiTQifnhHN3YA9CDzwD6327mPFFVFql" rel="noopener nofollow" target="_blank">Boon Lay Countdown 2025 - Be The Spark. A New Start</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Boon Lay GROs</p>
@@ -108,7 +107,7 @@ mobility-challenged seniors to join in the countdown celebration.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/17mSzmyrWM/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Bukit Batok Countdown 2025 - Journey Through Time</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/bukitbatok/posts/pfbid02wRkkvqoyx9JBSsshw9vDmUupdbeE8xJGvjb3rsN6UVNTeDKJGmxJvyJvJiHdC7M4l" rel="noopener nofollow" target="_blank">Bukit Batok Countdown 2025 - Journey Through Time</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Bukit Batok GROs</p>
@@ -128,7 +127,7 @@ at the new Bukit Batok CC.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/19TzKYdDUC/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Holland-Bukit Timah GRC and Bukit Panjang SMC Year-End Countdown Celebrations @ Heartlands 2024</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/Senja.Cashew/posts/pfbid0br5ccXDoGQkPW1w8spDN2DzcbdgAZJjTDtPLWMx3RAA8FFQ7WMiQZDimmsd1MbPHl" rel="noopener nofollow" target="_blank">Holland-Bukit Timah GRC and Bukit Panjang SMC Year-End Countdown Celebrations @ Heartlands 2024</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Holland-Bukit Timah GRC and Bukit Panjang
@@ -145,7 +144,7 @@ LED wristbands, accompanied by a captivating drone show.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/v/1EbvPSDUu5/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank"><u>Hougang – Igniting Sparks of Hope</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/friendsofaljuniedhougang/videos/1288939032110939/" rel="noopener nofollow" target="_blank">Hougang – Igniting Sparks of Hope</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Aljunied GRC and Hougang GROs</p>
@@ -164,7 +163,7 @@ fireworks display.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/17s5w15GjT/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Jalan Besar GRC &amp; Potong Pasir SMC New Year Countdown Party</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/ourjalanbesar/posts/pfbid0J9WGFSiJbNTt49R7M78voA8FYwXGusbLgFk5mp9WPYfqus6Q2p6W3B1PxaYhpky9l" rel="noopener nofollow" target="_blank">Jalan Besar GRC &amp; Potong Pasir SMC New Year Countdown Party</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Jalan Besar GRC and Potong Pasir GROs</p>
@@ -187,7 +186,7 @@ and The ETC.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/1DdmoNnwJj/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Keat Hong Countdown Celebrations - Vibe Into 2025</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/ilovekeathong/posts/pfbid0rhK1Qm4WPd4RFfj75CfWKqCTYPvfQsKTkiioGJiJBwZSU6hY6BDFmHE2PdppGpohl" rel="noopener nofollow" target="_blank">Keat Hong Countdown Celebrations - Vibe Into 2025</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Keat Hong GROs</p>
@@ -206,7 +205,7 @@ on the LED screen, as well as a display of fireworks at midnight.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/188HQivKYB/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>MacPherson Countdown Party 2025</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/MacPherson.Spirit/posts/pfbid0JbH7A3C1r9ES1XPwqcC2oqTyVCdBdbYuy45Rf3tn3vt1kYmAtQuUn2HS78g9ZZkwl" rel="noopener nofollow" target="_blank">MacPherson Countdown Party 2025</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>MacPherson CCC</p>
@@ -223,7 +222,7 @@ in the New Year.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/17dvxW8zAz/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Marine Parade @ 50 Finale</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/MarineParadeSG/posts/pfbid02uqFgFwumnLnHEwKJKpXv8igFbKfx17NcfPTuagTSCNKifcDF8FPaJw5uRgZmpdh7l" rel="noopener nofollow" target="_blank">Marine Parade @ 50 Finale</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Marine Parade CCC</p>
@@ -243,7 +242,7 @@ fireworks display lighting up the night sky.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/1BEMQFxCdt/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Marsiling – MY Countdown</a></strong>
+<summary><strong><a href="https://www.facebook.com/MarsilingHome/posts/pfbid0sp59yhym5M2raHrvJE7dPGWqxU5GUU69HjnqVRQ9Q9oE2CTQK7jKksPo3PmivsQal" rel="noopener nofollow" target="_blank">Marsiling – MY Countdown</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Marsiling-Yew Tee GRC GROs</p>
@@ -265,7 +264,7 @@ ring in the New Year with a spectacular fireworks display.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/15UEW752Qe/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Nee Soon Countdown 2025</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/neesoonheart/posts/pfbid0eGJi8kJRHxTJpPcsSW97DHa9BdAYNREibxSLxncZnz6pbeiKqvLj1TZmgcFzFXgbl" rel="noopener noreferrer nofollow" target="_blank"><u>Nee Soon Countdown 2025</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Nee Soon GRC GROs</p>
@@ -284,7 +283,7 @@ display to usher in the New Year.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/r/1BSWroTQgj/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Pasir Ris-Punggol New Year's Eve Countdown</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/reel/1305395423965975" rel="noopener noreferrer nofollow" target="_blank"><u>Pasir Ris-Punggol New Year's Eve Countdown</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Pasir Ris - Punggol GROs</p>
@@ -301,7 +300,7 @@ castles, and a dazzling fireworks display for a night of fun-filled entertainmen
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/p/14gfwh95Sn/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Tampines Boogie Countdown to 2025</a></strong>
+<summary><strong><a href="https://www.facebook.com/OurTampinesHub/posts/pfbid035HvdU9hVumVqoqhYxcPTc6DB3bMuHa6yZVAJxfvhbwq5CdvgQicqxd3YzAUc9TUtl" rel="noopener nofollow" target="_blank">Tampines Boogie Countdown to 2025</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s):</strong> Tampines GRC GROs</p>
@@ -321,7 +320,7 @@ off the celebrations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/v/1Di6GWGNnK/?mibextid=WC7FNe" rel="noopener noreferrer nofollow" target="_blank"><u>Tanjong Pagar GRC &amp; Radin Mas SMC Countdown New-tro Night</u></a></strong>
+<summary><strong><a href="https://www.facebook.com/queenstowncc/videos/881028810825916" rel="noopener noreferrer nofollow" target="_blank"><u>Tanjong Pagar GRC &amp; Radin Mas SMC Countdown New-tro Night</u></a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s):</strong> Tanjong Pagar GRC and Radin Mas GROs</p>
@@ -342,7 +341,7 @@ by various cultural groups.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><a href="https://www.facebook.com/share/v/1AmPmx4fBk/?mibextid=WC7FNe" rel="noopener nofollow" target="_blank">Woodlands Town Countdown to 2025</a></strong>
+<summary><strong><a href="https://www.facebook.com/woodlandscommunity/videos/618610344043304" rel="noopener nofollow" target="_blank">Woodlands Town Countdown to 2025</a></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s):</strong> Woodands CCC, Admiralty CCC and Sembawang
