@@ -44,10 +44,9 @@ songwriter, will be launched for Aljunied GRC and Hougang SMC.&nbsp;</p>
 <p>Aljunied and Hougang residents have also come together to fold 2,025 origami
 cranes with well-wishes for 2025. As midnight approaches, a video featuring
 2,025 wishes from residents will usher in the New Year with a dazzling
-fireworks <a href="http://display.ing" rel="noopener noreferrer nofollow" target="_blank">display.ing</a> from
-local singers to an LED drum showcase. As part of SG60 celebrations, a
-new song written by a local songwriter, will be launched for Aljunied GRC
-and Hougang SMC.&nbsp;</p>
+fireworks display, performances from local singers to an LED drum showcase.
+As part of SG60 celebrations, a new song written by a local songwriter,
+will be launched for Aljunied GRC and Hougang SMC.&nbsp;</p>
 <p>Aljunied and Hougang residents have also come together to fold 2,025 origami
 cranes with well-wishes for 2025. As midnight approaches, a video featuring
 2,025 wishes from residents will usher in the New Year with a dazzling
