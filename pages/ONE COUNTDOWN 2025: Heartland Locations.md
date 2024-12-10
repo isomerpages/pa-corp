@@ -366,10 +366,7 @@ together to ring in the New Year.</p>
 <h3>Start the year with kindness! Support communities in need with SHARE</h3>
 <p>As we ring in our nation’s 60<sup>th</sup> birthday this new year, let’s
 also take a moment to make a difference in the lives of communities in
-need</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="community chest share logo lockup" src="/images/SHARE_Product_Marker_Lockup_4C.png">
-</div>
+need</p><a class="isomer-image-wrapper" href="https://www.giving.sg/donate/campaign/sg60share"><img style="width: 50%;" height="auto" width="100%" alt="community chest share logo lockup" src="/images/SHARE_Product_Marker_Lockup_4C.png"></a>
 <p>By contributing to the <a href="https://www.giving.sg/donate/campaign/sg60share" rel="noopener noreferrer nofollow" target="_blank">SHARE</a> programme
 by <a href="https://www.comchest.gov.sg/brand/share/for-individuals" rel="noopener noreferrer nofollow" target="_blank">Community Chest</a>,
 you will be supporting critical needs across 5 key areas including seniors,
