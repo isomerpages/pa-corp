@@ -14,4 +14,6 @@ Calling all Singaporeans! Share your views in the lead-up to Budget 2025. From 2
 
 Stay tuned to this page for more updates on our upcoming Ask Kopi Kakis #ShareYourViews engagement platforms\*.
 
+We also welcome you to share your views and suggestions regarding the upcoming Budget 2025 [here](https://go.gov.sg/akksyvb2025).
+
 \*Details will be progressively updated once confirmed.
