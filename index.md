@@ -28,6 +28,16 @@ sections:
       title: News & Speeches
       button: More News
   - infopic:
+      title: Heartland Countdown
+      subtitle: One Countdown 2025
+      id: infopic
+      description: Ring in the new year with celebrations across Singapore with
+        family-centric activities at 17 heartland locations
+      button: Join the Celebrations
+      url: https://www.pa.gov.sg/one-countdown-2025-heartland-locations/
+      image: /images/one_countdown.jpg
+      alt: kayaking at singapore flyer
+  - infopic:
       title: FutureYOUth
       subtitle: MAKE A DIFFERENCE
       id: infopic
@@ -38,16 +48,6 @@ sections:
       url: https://www.pa.gov.sg/our-programmes/futureyouth/upcoming-happenings/
       image: /images/FutureYOUth_Banner.jpg
       alt: Image alt text
-  - infopic:
-      title: In The Heartlands
-      subtitle: One Countdown 2025
-      id: infopic
-      description: Ring in the new year with celebrations across Singapore with
-        family-centric activities at 17 heartland locations
-      button: Join the Celebrations
-      url: https://www.pa.gov.sg/one-countdown-2025-heartland-locations/
-      image: /images/one_countdown.jpg
-      alt: kayaking at singapore flyer
   - infopic:
       title: PA Courses
       subtitle: FIND A COURSE
