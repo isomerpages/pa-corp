@@ -10,7 +10,7 @@ third_nav_title: Community Sports
 <div class="iframe-wrapper">
 <iframe height="610" width="343" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xr4OGRjl6tM"></iframe>
 </div>
-<p>Catch the event recap <a href="https://youtube.com/shorts/xr4OGRjl6tM?si=4muCDadLP4tVd1X4" rel="noopener nofollow" target="_blank">video</a> to
+<p>Catch the event recap <a href="https://youtube.com/shorts/xr4OGRjl6tM?si=4muCDadLP4tVd1X4&amp;rel=0" rel="noopener nofollow" target="_blank">video</a> to
 witness the appreciation ceremony!</p>
 <h2>PACF Turns 20!</h2>
 <h4>Highlights of the Event</h4>
