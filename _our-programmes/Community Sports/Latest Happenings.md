@@ -8,7 +8,7 @@ third_nav_title: Community Sports
 ---
 <h2>Community Sports Appreciation 2024</h2>
 <div class="iframe-wrapper">
-<iframe height="610" width="343" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xr4OGRjl6tM"></iframe>
+<iframe height="610" width="343" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xr4OGRjl6tM?rel=0"></iframe>
 </div>
 <p>Catch the event recap <a href="https://youtube.com/shorts/xr4OGRjl6tM?si=4muCDadLP4tVd1X4&amp;rel=0" rel="noopener nofollow" target="_blank">video</a> to
 witness the appreciation ceremony!</p>
