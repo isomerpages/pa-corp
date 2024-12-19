@@ -146,7 +146,7 @@ Zero, leading the creation of a community artwork.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Organiser(s): </strong>Boon Lay GROs</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
-<p><strong>Time:</strong> 7pm to 12.15am</p>
+<p><strong>Time:</strong> 6pm to 12.15am</p>
 <p><strong>Venue:</strong> Hardcourt in front of Blk 215 Boon Lay Place</p>
 <p>Themed "Be The Spark. A New Start”, event highlights include a Singapore
 Book of Records attempt with 3,000 LED clappers lit during the fireworks
