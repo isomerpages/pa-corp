@@ -51,7 +51,8 @@ variant: markdown
 
 15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through these efforts, it is hoped that there will be a greater appreciation of *Chingay,* and awareness of the nomination effort. The feedback and support from Singaporeans have been crucial in shaping the nominations for UNESCO recognition, and members of the public and interested community groups are encouraged to participate in the preparation for the nomination, and in safeguarding and celebrating Singapore's diverse ICH. More details on the public outreach initiatives will be shared on PA’s website on Chingay ([https://www.chingay.gov.sg](https://www.chingay.gov.sg)) and NHB’s and PA’s social media channels (NHB: Facebook [@NationalHeritageBoardSG](https://www.facebook.com/NationalHeritageBoardSG/) and Instagram [@nhbsg](https://www.instagram.com/NHB_SG/); PA’s Chingay: Facebook [@ChingayParadeSG](https://www.facebook.com/chingayparadesg), Instagram [@chingayparadesg](https://www.instagram.com/chingayparadesg/) and Tiktok:&nbsp; [@chingayparadesg](https://www.tiktok.com/@chingayparadesg)) at a later date.
 
-  
+![chingay unesco nomination](/images/NewsRoom/chingay_nomination.png)
+[Contribute to the joint nomination](https://supportchingaysg.gov.sg/?utm\_source=pawebsite&amp;utm\_medium=referral) by Singapore and Malaysia to the UNESCO Representative List.
 
 * * *
 
