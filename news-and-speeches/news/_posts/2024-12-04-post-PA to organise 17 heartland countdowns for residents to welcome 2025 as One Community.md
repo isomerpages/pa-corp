@@ -53,6 +53,3 @@ community participation and the unique story of individuality.</p>
 Committees, Neighbourhood Committees, and Residents’ Networks for more
 information on the events.</p>
 <p></p>
-
-![chingay unesco nomination](/images/NewsRoom/chingay_nomination.png)
-[Contribute to the joint nomination](https://supportchingaysg.gov.sg/) by Singapore and Malaysia to the UNESCO Representative List.
