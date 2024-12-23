@@ -111,6 +111,8 @@ are not our Trainers and Operators yet.</p>
 </p>
 <p><a href="https://go.gov.sg/ebites-sep2024" rel="noopener nofollow" target="_blank">September 2024</a>
 </p>
+<p><a href="https://go.gov.sg/ebites-dec2024" rel="noopener nofollow" target="_blank">December 2024</a>
+</p>
 <p><strong>National Registry of Exercise Professionals (NREP)</strong>
 </p>
 <p>Please download the resources via the link below:</p>
