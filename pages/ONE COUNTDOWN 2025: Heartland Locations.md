@@ -137,10 +137,9 @@ fireworks display.</p>
 <p><strong>Date: </strong>31 Dec 2024</p>
 <p><strong>Time:</strong> 5pm to 12.30am</p>
 <p><strong>Venue:</strong> Bishan Active Park, Bishan Street 23</p>
-<p>The celebration will feature local sports heroes and homegrown talent.
-The Lion City Sailors FC, currently leading the S-league, will meet and
-greet participants, networking with Pesta Sukan Community Championship
-winners, Team ‘Last Minute’ from Toa Payoh Central.</p>
+<p>The celebration will feature The Lion City Sailors FC, currently leading
+the S-league, will meet and greet participants, networking with Pesta Sukan
+Community Championship winners, Team ‘Last Minute’ from Toa Payoh Central.</p>
 <p>'Bishan-Toa Payoh &amp; Marymount's Got Talent’ will showcase local artists,
 including Marymount's Hiran Raj, a passionate rapper with five years of
 performance experience.</p>
@@ -258,7 +257,7 @@ by resident volunteers and NAFA students.</p>
 will wave 2,025 star-shaped light sticks, symbolising hope and unity to
 welcome the New Year. The countdown will culminate in a drone show that
 lights up the night sky, accompanied by live performances from Didicazli
-and The ETC.</p>
+and Tristan from The ETC.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -387,8 +386,7 @@ Park</p>
 <p>The celebration will feature diverse activities for all ages. There will
 be a pledge wall where residents can pen down their pledges on what they
 will do for Singapore in the year of SG60.</p>
-<p>A skating rink will add fun and inter-activity, including one with participants
-forming '2025' figures to welcome the New Year.</p>
+<p>A skating rink will add fun for everyone.</p>
 <p>The event's highlight features a K-pop Random Dance at Festive Plaza,
 led by dance interest groups in Tampines, where nearly 3,000 residents
 will dance their way into 2025 with a fireworks display at midnight capping
