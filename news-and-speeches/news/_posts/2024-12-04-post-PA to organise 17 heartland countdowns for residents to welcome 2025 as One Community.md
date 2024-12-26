@@ -53,3 +53,6 @@ community participation and the unique story of individuality.</p>
 Committees, Neighbourhood Committees, and Residents’ Networks for more
 information on the events.</p>
 <p></p>
+
+##### **Resources:**
+1. [List of PA/GROs Heartland Countdown Celebrations](/files/NewsRoom/Annex_PA_Heartland_Countdown_Celebrations.pdf)
