@@ -54,5 +54,7 @@ Committees, Neighbourhood Committees, and Residents’ Networks for more
 information on the events.</p>
 <p></p>
 
-##### **Resources:**
-1. [List of PA/GROs Heartland Countdown Celebrations](/files/NewsRoom/Annex_PA_Heartland_Countdown_Celebrations.pdf)
+<p>8&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;More information on the heartland celebrations can be found in the Annex.
+
+##### **Annex:**
+1. [List of PA/GROs Heartland Countdown Celebrations](/files/NewsRoom/Annex_PA_Heartland_Countdown_Celebrations.pdf)</p>
