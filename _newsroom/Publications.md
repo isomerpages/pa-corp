@@ -2,11 +2,19 @@
 title: Publications
 permalink: /newsroom/publications/
 description: ""
+variant: markdown
 ---
+* <a href="#sustainability_report">Sustainability Reports</a>
 * <a href="#Ask_Kopi_Kakis">Ask Kopi Kakis (AKK) Booklets</a>
 * <a href="#Tech_Connect_Brochures">Tech Connect Brochures</a>
 * [Annual Reports](/about-us/annual-reports)
 * <a href="#Citizen_Con_Comm">Citizens’ Consultative Committee: 50 years of Strong Bonds, Active Community 1965 – 2015</a>
+ 
+ <a id="sustainability_report"></a>
+#### Sustainability Reports
+The public sector announced its commitment to achieve net zero emissions around 2045 under the GreenGov.SG initiative. &nbsp;As we embark on our mission to spark and nurture community participation for a caring and united Singapore, we will do so sustainably with our staff, Grassroots volunteers, community partners and residents. PA will be publishing our Sustainability Report starting from FY2023. The report aims to promote transparency, accountability, and continuous improvement in sustainability efforts across PA.
+
+[Read the report here](https://go.gov.sg/sustainabilityreport2023)
  
 <a id="Ask_Kopi_Kakis"></a>
 #### Ask Kopi Kakis (AKK) Booklets
