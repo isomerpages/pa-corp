@@ -57,4 +57,4 @@ information on the events.</p>
 <p>8&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;More information on the heartland celebrations can be found in the Annex.</p>
 
 ##### **Annex:**
-1. [List of PA/GROs Heartland Countdown Celebrations](/files/NewsRoom/Annex_PA_Heartland_Countdown_Celebrations.pdf)<p></p>
+1. [List of PA/GROs Heartland Countdown Celebrations](/files/NewsRoom/Annex_PA_Heartland_Countdown_Celebrations.pdf)
