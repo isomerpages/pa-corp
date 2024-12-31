@@ -26,11 +26,9 @@ are not our Trainers and Operators yet.</p>
 <p><strong>Professional Standards and Guidelines for PA Trainers</strong>
 </p>
 <p>Please download the resources via the links below:</p>
-<p></p>
 <ol>
 <li>
-<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/1__Professional_Standards_and_Guidelines_for_PA_Trainers__updated_.pdf" rel="noopener nofollow" target="_blank">Professional Standards and Guidelines for PA Trainers 3) (Updated 19 Oct)</a>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/Professional_Standards_and_Guidelines_for_PA_Trainers_Updated1Jan2025.pdf" rel="noopener nofollow" target="_blank">Professional Standards and Guidelines for PA Trainers (Updated 1 January 2025)</a>
