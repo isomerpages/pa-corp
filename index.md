@@ -38,15 +38,13 @@ sections:
       image: /images/one_countdown.jpg
       alt: kayaking at singapore flyer
   - infopic:
-      title: FutureYOUth
-      subtitle: MAKE A DIFFERENCE
+      title: PA Sustainability Report
       id: infopic
-      description: Your voice matters - share your thoughts on Mental Health, Racial
-        and Religious Harmony and Sustainability & Environment. Find your cause
-        and make a difference!
-      button: Find out about FutureYOUth's latest happenings
-      url: https://www.pa.gov.sg/our-programmes/futureyouth/upcoming-happenings/
-      image: /images/FutureYOUth_Banner.jpg
+      description: As we embark on this journey, let us work hand in hand to build a
+        greener community and a sustainable Singapore
+      button: VIEW OUR SUSTAINABILITY REPORT
+      url: https://www.pa.gov.sg/newsroom/publications/#sustainability_report
+      image: /images/sustainability_report_thumbnail.png
       alt: Image alt text
   - infopic:
       title: PA Courses
