@@ -29,7 +29,11 @@ are not our Trainers and Operators yet.</p>
 <p></p>
 <ol>
 <li>
-<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/1__Professional_Standards_and_Guidelines_for_PA_Trainers__updated_.pdf" rel="noopener nofollow" target="_blank">Professional Standards and Guidelines for PA Trainers (Effective 1 Jan 2023) (Updated 19 Oct)</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/1__Professional_Standards_and_Guidelines_for_PA_Trainers__updated_.pdf" rel="noopener nofollow" target="_blank">Professional Standards and Guidelines for PA Trainers 3) (Updated 19 Oct)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/Professional_Standards_and_Guidelines_for_PA_Trainers_Updated1Jan2025.pdf" rel="noopener nofollow" target="_blank">Professional Standards and Guidelines for PA Trainers (Updated 1 January 2025)</a>
 </p>
 </li>
 <li>
@@ -65,7 +69,8 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/Annex_6___Workflow_for_Timely_Course_Fee_Payments__From_1_January_2025_.pdf" rel="noopener nofollow" target="_blank">Annex 6 - Workflow for Timely Course Fee Payments (From 1 January 2025)</a>
+</p>
 </li>
 <li>
 <p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/11__Presentation_slides_for_revised_PSG.pdf" rel="noopener nofollow" target="_blank">Infographics of PSG (As of 1 Jan 2023 - Updated on 19 Oct 2024)</a>
