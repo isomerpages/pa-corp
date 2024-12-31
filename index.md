@@ -39,7 +39,6 @@ sections:
       alt: kayaking at singapore flyer
   - infopic:
       title: PA Sustainability Report
-      subtitle: Add an image and text
       id: infopic
       description: As we embark on this journey, let us work hand in hand to build a
         greener community and a sustainable Singapore
