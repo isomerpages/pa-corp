@@ -28,16 +28,6 @@ sections:
       title: News & Speeches
       button: More News
   - infopic:
-      title: Heartland Countdown
-      subtitle: One Countdown 2025
-      id: infopic
-      description: Ring in the new year with celebrations across Singapore with
-        family-centric activities at 17 heartland locations
-      button: Join the Celebrations
-      url: https://www.pa.gov.sg/one-countdown-2025-heartland-locations/
-      image: /images/one_countdown.jpg
-      alt: kayaking at singapore flyer
-  - infopic:
       title: PA Sustainability Report
       id: infopic
       description: As we embark on this journey, let us work hand in hand to build a
