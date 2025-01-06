@@ -41,12 +41,12 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </p>
 <p><strong>-Video-</strong>
 </p>
+<p></p>
 <h4><strong>PLAY</strong> <strong><u>and bond with your family and the community</u></strong></h4>
 <p>Over 27,000 families discovered the magic of P.L.A.Y during the school
 holidays at the PA Family PLAYGround 2024 events held at Outward Bound
 Singapore (East Coast Campus), Our Tampines Hub, Senja-Cashew Community
 Club (CC), Plaza Singapura and West Coast CC.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/play.jpg">
 </div>
@@ -55,7 +55,6 @@ Club (CC), Plaza Singapura and West Coast CC.</p>
 <p>Families scored big with 30% off PA parent-child and children courses
 held at the CCs and 1-for-1 Family Kayaking at PAssion Wave outlets in
 June and July 2024.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/learn.jpg">
 </div>
@@ -63,8 +62,8 @@ June and July 2024.</p>
 <h4><strong><u>APPRECIATE and love your family and the community</u></strong></h4>
 <p>The many sweet 'thank yous’ to family members and the community added
 a spark to a warm and positive atmosphere.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/appre.jpg">
 </div>
+<p></p>
 <p></p>
