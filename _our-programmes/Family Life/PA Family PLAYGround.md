@@ -66,4 +66,12 @@ a spark to a warm and positive atmosphere.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/appre.jpg">
 </div>
 <p></p>
+<h4><strong><u>Care for YOUrself, your family and the community</u></strong></h4>
+<p>The kids had fun while the parents relaxed and connected with one another!</p>
+<p>PAssion card members also contributed to a good cause with PAssion CARES
+and benefitted from exclusive deals as a family in June 2024.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/you.jpg">
+</div>
+<h4></h4>
 <p></p>
