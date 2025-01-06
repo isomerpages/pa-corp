@@ -18,7 +18,7 @@ of Family Life!</p>
 <p>Ready to level up your bonding game and make 2025 your most awesome year
 yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 <p>Don't miss out and join us on these dates!</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Chua Chu Kang GRC &amp; Hong Kah North SMC | Date | Time | Venue</p>
 </li>
@@ -35,7 +35,7 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 <li>
 <p>Pasir Ris Punggol GRC &amp; Punggol West SMC | Date | Time | Venue</p>
 </li>
-</ol>
+</ul>
 <h3><strong>Highlights of PA Family PLAYGround 2024</strong></h3>
 <p><strong>In Case You Missed It</strong>
 </p>
