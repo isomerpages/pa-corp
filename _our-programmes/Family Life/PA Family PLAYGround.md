@@ -73,5 +73,9 @@ and benefitted from exclusive deals as a family in June 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/you.jpg">
 </div>
-<h4></h4>
+<p><strong>The PA Family PLAYGround is held in support of the National Family Festival, organised by the <a href="https://familiesforlife.sg/pages/homepage" rel="noopener noreferrer nofollow" target="_blank"><u>Families for Life </u></a>Council under <a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Social and Family Development</u></a><u>.</u></strong>
+</p>
+<p></p>
+<p><strong>Connect with us on <a href="https://www.facebook.com/flc.pa.1/" rel="noopener noreferrer nofollow" target="_blank"><u>PA Family Life Champion Facebook page</u></a><u> </u>and @&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instagram on the latest update of PA Family PLAYGround 2025!</strong>
+</p>
 <p></p>
