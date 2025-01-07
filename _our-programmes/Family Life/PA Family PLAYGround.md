@@ -19,8 +19,7 @@ of Family Life!</p>
 yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 <p>Don't miss out and join us on these dates! [To be updated :)]</p>
 <h3><strong>Highlights of PA Family PLAYGround 2024</strong></h3>
-<h4><strong>In Case You Missed</strong></h4>
-<p></p>
+<h4><strong>In Case You Missed It</strong></h4>
 <h4><strong>PLAY</strong> <strong><u>and bond with your family and the community</u></strong></h4>
 <p>Over 27,000 families discovered the magic of P.L.A.Y during the school
 holidays at the PA Family PLAYGround 2024 events held at Outward Bound
@@ -53,13 +52,11 @@ and benefitted from exclusive deals as a family in June 2024.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/you.jpg">
 </div>
 <p><strong>The PA Family PLAYGround is held in support of the National Family Festival, organised by the <a href="https://familiesforlife.sg/pages/homepage" rel="noopener noreferrer nofollow" target="_blank"><u>Families for Life </u></a>Council under <a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Social and Family Development</u></a><u>.</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logo3.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="https://familiesforlife.sg/pages/national-family-festival-2024"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/logo3.jpg"></a>
 <p></p>
 <p><strong>Connect with us on <a href="https://www.facebook.com/flc.pa.1/" rel="noopener noreferrer nofollow" target="_blank"><u>PA Family Life Champion Facebook page</u></a> on the latest update of PA Family PLAYGround 2025!</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mascot.jpg">
 </div>
