@@ -17,25 +17,7 @@ and care for <strong>Y</strong>ou zones.</p>
 of Family Life!</p>
 <p>Ready to level up your bonding game and make 2025 your most awesome year
 yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
-<p>Don't miss out and join us on these dates!</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chua Chu Kang GRC &amp; Hong Kah North SMC | Date | Time | Venue</p>
-</li>
-<li>
-<p>Marine Parade GRC &amp; Mountbatten SMC&nbsp;&amp; MacPherson SMC | Date
-| Time | Venue</p>
-</li>
-<li>
-<p>Nee Soon GRC | Date | Time | Venue</p>
-</li>
-<li>
-<p>Bishan - Toa Payoh GRC | Date | Time | Venue</p>
-</li>
-<li>
-<p>Pasir Ris Punggol GRC &amp; Punggol West SMC | Date | Time | Venue</p>
-</li>
-</ul>
+<p>Don't miss out and join us on these dates! [To be updated :)]</p>
 <h3><strong>Highlights of PA Family PLAYGround 2024</strong></h3>
 <p><strong>In Case You Missed It</strong>
 </p>
@@ -76,6 +58,10 @@ and benefitted from exclusive deals as a family in June 2024.</p>
 <p><strong>The PA Family PLAYGround is held in support of the National Family Festival, organised by the <a href="https://familiesforlife.sg/pages/homepage" rel="noopener noreferrer nofollow" target="_blank"><u>Families for Life </u></a>Council under <a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Social and Family Development</u></a><u>.</u></strong>
 </p>
 <p></p>
-<p><strong>Connect with us on <a href="https://www.facebook.com/flc.pa.1/" rel="noopener noreferrer nofollow" target="_blank"><u>PA Family Life Champion Facebook page</u></a><u> </u>and @&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instagram on the latest update of PA Family PLAYGround 2025!</strong>
+<p><strong>Connect with us on <a href="https://www.facebook.com/flc.pa.1/" rel="noopener noreferrer nofollow" target="_blank"><u>PA Family Life Champion Facebook page</u></a> on the latest update of PA Family PLAYGround 2025!</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mascot.jpg">
+</div>
 <p></p>
