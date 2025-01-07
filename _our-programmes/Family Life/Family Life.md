@@ -3,6 +3,7 @@ title: Family Life
 permalink: /our-programmes/family-life/
 description: ""
 variant: markdown
+third_nav_title: Family Life
 ---
 ### Family Life
 
@@ -16,4 +17,3 @@ Parents can also look out for a wide myriad of family bonding activities such as
 The Family Fun.Family Time programme is a series of customised family-centric activities, co-created in partnership with various Community Partners, to strengthen social cohesion by bringing families of different races together. Through these activities, young families are encouraged to interact regularly through play and equipped with knowledge and skills to build stronger bonds with their children.<br>
 
 <img style="width:300px; height:350px" align="center" src="/images/Our%20Programmes/Family.jpg">
-
