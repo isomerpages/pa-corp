@@ -19,10 +19,7 @@ of Family Life!</p>
 yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 <p>Don't miss out and join us on these dates! [To be updated :)]</p>
 <h3><strong>Highlights of PA Family PLAYGround 2024</strong></h3>
-<p><strong>In Case You Missed It</strong>
-</p>
-<p><strong>-Video-</strong>
-</p>
+<h4><strong>In Case You Missed</strong></h4>
 <p></p>
 <h4><strong>PLAY</strong> <strong><u>and bond with your family and the community</u></strong></h4>
 <p>Over 27,000 families discovered the magic of P.L.A.Y during the school
@@ -41,14 +38,14 @@ June and July 2024.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/learn.jpg">
 </div>
 <p></p>
-<h4><strong><u>APPRECIATE and love your family and the community</u></strong></h4>
+<h4><strong>APPRECIATE <u>and love your family and the community</u></strong></h4>
 <p>The many sweet 'thank yous’ to family members and the community added
 a spark to a warm and positive atmosphere.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/appre.jpg">
 </div>
 <p></p>
-<h4><strong><u>Care for YOUrself, your family and the community</u></strong></h4>
+<h4><strong><u>Care for </u>YOU<u>rself, your family and the community</u></strong></h4>
 <p>The kids had fun while the parents relaxed and connected with one another!</p>
 <p>PAssion card members also contributed to a good cause with PAssion CARES
 and benefitted from exclusive deals as a family in June 2024.</p>
