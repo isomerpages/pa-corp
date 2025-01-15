@@ -5,13 +5,13 @@ variant: tiptap
 description: Chinese New Year with the People's Association
 ---
 <h1>Chinese New Year</h1>
-<p>&nbsp;Chinese New Year, also known as Spring Festival, is one of the most
-significant celebrations in Chinese culture. This festive period marks
-the beginning of a new year according to the traditional lunar calendar.</p>
-<p>&nbsp;Traditionally, Chinese New Year is a time to share joy with friends
-and family. PA volunteers and partners extend this joy to the community,
-with initiatives from festive distributions for lower-income residents
-to community activities that promote cross-cultural understanding.</p>
+<p>Chinese New Year, also known as Spring Festival, is one of the most significant
+celebrations in Chinese culture. This festive period marks the beginning
+of a new year according to the traditional lunar calendar.</p>
+<p>Traditionally, Chinese New Year is a time to share joy with friends and
+family. PA volunteers and partners extend this joy to the community, with
+initiatives from festive distributions for lower-income residents to community
+activities that promote cross-cultural understanding.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
