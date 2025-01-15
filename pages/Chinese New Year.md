@@ -47,7 +47,7 @@ to community activities that promote cross-cultural understanding.</p>
 </table>
 <p>You too can spread the joy of Chinese New Year with your community- join
 us as a volunteer, take part in the community celebrations or learn from
-these aunties to make DIY ornaments which you can hand out to your neighbours!</p>
+these aunties and make DIY ornaments which you can hand out to your neighbours!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
