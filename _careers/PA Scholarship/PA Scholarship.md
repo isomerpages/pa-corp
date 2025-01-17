@@ -60,7 +60,6 @@ The undergraduate scholarships are applicable to courses at renowned overseas un
 
 Refer to the FAQ on our PA Scholarship [here](/files/Careers/FAQs%20on%20PA%20Scholarship(internet).pdf).
 
-**Join us in making a difference and creating a great home and caring community!**
+**Join us in making a difference and creating a nation that cares for our community!**
 
 <br>**Information above is accurate as at January 2024.*<br>
-
