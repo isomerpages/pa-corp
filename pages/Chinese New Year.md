@@ -1493,16 +1493,92 @@ Walk)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Fengshan Cedar RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/fengshan-cedar-rn-chinese-new-year-celebration-15-february-2025-69372440" rel="noopener nofollow" target="_blank">Chinese New Year Celebration </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Blk 93 Bedok North Avenue 4, Amphitheatre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fengshan Mulberry RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/fengshan-mulberry-rn-2025-chinese-new-year-celebration-15-feb-2025-30339754" rel="noopener nofollow" target="_blank">Chinese New Year Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 79 Bedok North Road, Fengshan Mulberry Residents' Network (RN) Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frankel Siglap RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/fsrn-chinese-new-year-street-party-siglap-avenue-91976681" rel="noopener nofollow" target="_blank">Chinese New Year Street Party @ Siglap Avenue</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 38 to 42 Siglap Avenue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senja-Cashew CC SCEC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/cashew-chinese-new-year-celebration-2025-81287208" rel="noopener nofollow" target="_blank">Cashew Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senja-Cashew CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stagmont View RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/limbang-smv-chinese-new-year-dinner-2025-44959802" rel="noopener nofollow" target="_blank">Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 703 Choa Chu Kang Street 53 (MPH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thomson Garden RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/thomson-garden-chinese-new-year-celebrations-2025-55051234" rel="noopener nofollow" target="_blank">Thomson Garden Chinese New Year Celebrations 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marymount CC</p>
 </td>
 </tr>
 <tr>
