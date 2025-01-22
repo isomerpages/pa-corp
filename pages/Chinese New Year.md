@@ -503,72 +503,92 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ang Mo Kio-Hougang Ixora RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/ixora-chinese-new-year-dinner-2025-10534364" rel="noopener nofollow" target="_blank">Ixora Chinese New Year Dinner 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Blk 601 Hougang Ave 4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bukit Purmei Zone A RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/bukit-purmei-chinese-new-year-7-feb-2025-40789109" rel="noopener nofollow" target="_blank">Bukit Purmei Chinese New Year</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>108 Bukit Purmei Road</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Canberra CCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/canberra-ccc-chinese-new-year-ge-tai-2025-71783999" rel="noopener nofollow" target="_blank">Chinese New Year Ge Tai 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Canberra CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kim Tian East RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/2025-chinese-new-year-dinner-kim-tian-east-38634855" rel="noopener nofollow" target="_blank">2025 Chinese New Year Dinner @Kim Tian East</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 129A Kim Tian Road, Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon South CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/nee-soon-south-chinese-new-year-dinner-2025-74135209" rel="noopener nofollow" target="_blank">Nee Soon South Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MPC@Khatib (in front of Blk 838 Yishun Street 81)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thomson Sin Ming Court RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/thomson-sin-ming-court-rn-chinese-new-year-dinner-2025-47704125" rel="noopener nofollow" target="_blank">Thomson Sin Ming Court RN Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Healthy Lifestyle Hub, Block 446 Bright Hill Drive</p>
 </td>
 </tr>
 <tr>
