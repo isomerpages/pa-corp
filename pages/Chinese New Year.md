@@ -1089,6 +1089,140 @@ Walk)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whampoa View RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WVRN Chinese New Year Dinner 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whampoa CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yew Tee CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/yew-tee-ccc-yew-tee-chinese-new-year-carnival-2025-22242556" rel="noopener nofollow" target="_blank">Yew Tee Chinese New Year Carnival 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Pavillion (In front of Blk 669A Choa Chu Kang Crescent)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yio Chu Kang View RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/yck-view-rn-chinese-new-year-dinner-2025-73304467" rel="noopener nofollow" target="_blank">Yio Chu Kang View RN's Chinese New Year Dinner</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>624 Ang Mo Kio Avenue 4 Pavilion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bishan East Zone 1 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/besm-chinese-new-year-2025-60998155" rel="noopener nofollow" target="_blank">Chinese New Year 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bishan CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/canberra-ccc-canberra-chinese-new-year-dinner-2025-10762210" rel="noopener nofollow" target="_blank">Canberra Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra Skylife RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/canberra-skylife-rn-chinese-new-year-festive-cheer-to-comlink-children-65744518" rel="noopener nofollow" target="_blank">Chinese New Year Festive Cheer to Comlink Children</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 365A Sembawang Crescent #01-80</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra Zone 6 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/canberra-zone-6-rn-happy-chinese-new-year-on-sun-9-feb-2025-42699246" rel="noopener nofollow" target="_blank">[Canberra Zone 6 RN] Happy Chinese New Year</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 417 Canberra Road, Hardcourt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra Zone 7 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/canberra-zone-7-rn-chinese-new-year-lohei-party-on-9-february-2025-29572947" rel="noopener nofollow" target="_blank">Canberra Zone 7 RN: Chinese New Year Lohei Party on 9 February 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 466 Sembawang Drive Linkhouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cashew Zone 1 RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/cashew-zone-1-rc-chinese-new-year-temple-tour-2025-63001788" rel="noopener nofollow" target="_blank">Cashew Zone 1 RC Chinese New Year Temple Tour 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assemble at Blk 140 Petir Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
