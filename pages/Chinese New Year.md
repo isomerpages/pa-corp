@@ -473,30 +473,32 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Toa Payoh West CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/toa-payoh-west-cc-chinese-new-year-dinner-2025-90155476" rel="noopener nofollow" target="_blank">Toa Payoh West CC Chinese New Year Dinner 2025 金蛇报喜迎新春</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Toa Payoh West CC, Multi-Purpose Hall</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Taman Jurong Zone A RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-dinner-2025-taman-jurong-zone-a-rn-76400164" rel="noopener nofollow" target="_blank">Chinese New Year Dinner 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Taman Jurong Park - Sheltered Basketball Court (next to Blk 156)</p>
 </td>
 </tr>
 <tr>
