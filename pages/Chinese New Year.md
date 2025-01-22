@@ -1223,6 +1223,156 @@ Walk)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changi Simei Zone 4 RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/changi-simei-zone-4-rc-chinese-new-year-celebration-2025-22969719" rel="noopener nofollow" target="_blank">Changi Simei Zone 4 RC: Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 229A Simei Street 4, Multi-purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Zone 1 &amp; 3 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chong-pang-zone-1-2-3-rn-chinese-new-year-carnival-2025-61508426" rel="noopener nofollow" target="_blank">Chong Pang Zone 1, 2 &amp; 3 RN Chinese New Year Carnival 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 109 Yishun Ring Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Zone 4 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-celebration-zone-4-93108271" rel="noopener nofollow" target="_blank">Chinese New Year Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 137 Yishun Ring Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fengshan Pine RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/fengshan-pine-rn-chinese-new-year-celebration-2025-11044140" rel="noopener nofollow" target="_blank">Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 115A Bedok North Road Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gerald Mugliston Luxus RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/gmlrn-chinese-new-year-celebrations-2025-gm-57994440" rel="noopener nofollow" target="_blank">Chinese New Year Celebrations 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mugliston Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gerald Mugliston Luxus RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/gmlrn-chinese-new-year-celebration-2025-luxus-81092785" rel="noopener nofollow" target="_blank">Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Luxus Hill Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kallang CC WEC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-lunch-gathering-2025-53398983" rel="noopener nofollow" target="_blank">Chinese New Year Lunch Gathering 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kallang CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines East CC SCEC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/tampines-east-chinese-new-year-celebration-2025-9-feb-2025-55085760" rel="noopener nofollow" target="_blank">Tampines East Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expo Drive, Bliss Garden Restaurant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Vista RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/tampines-vista-chinese-new-year-celebration-2025-41716209" rel="noopener nofollow" target="_blank">Tampines Vista Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 874A Tampines St 84</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Coast Ville RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/west-coast-ville-rn-chinese-new-year-celebration-2025-77969392" rel="noopener nofollow" target="_blank">West Coast Ville RN Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 612 Clementi West Street 1, Open Space Hardcourt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
