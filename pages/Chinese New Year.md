@@ -588,7 +588,141 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Healthy Lifestyle Hub, Block 446 Bright Hill Drive</p>
+<p>Healthy Lifestyle Hub, Blk 446 Bright Hill Drive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio-Hougang Orchid RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/ang-mo-kio-hougang-orchid-rn-chinese-new-year-dinner-2025-39447709" rel="noopener nofollow" target="_blank">Ang Mo Kio-Hougang Orchid RN Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>938A Communal Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra Zone 1 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/canberra-zone-1-rn-chinese-new-year-celebration-2025-38769760" rel="noopener nofollow" target="_blank">Canberra Zone 1 RN - Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Linkhouse 337A Sembawang Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra Zone 2 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/canberra-zone-2-rn-chinese-new-year-lo-hei-together-2025-66684529" rel="noopener nofollow" target="_blank">Chinese New Year Lo Hei Together 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 356 Admiralty Drive, Linkhouse &amp; Hardcourt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra Zone 8 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/canberra-zone-8-lunar-harmony-a-multicultural-chinese-new-year-celebration-59199860" rel="noopener nofollow" target="_blank">Canberra Zone 8 - Lunar Harmony, A Multicultural Chinese New Year Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 362 Sembawang Crescent, Linkhouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cashew CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/cashew-chinese-new-year-dinner-2025-61665283" rel="noopener nofollow" target="_blank">Cashew Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senja-Cashew CC Level 2 MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changi Simei Zone 1 RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/changi-simei-zone-1-chinese-new-year-festival-08-feb-2025-73063821" rel="noopener nofollow" target="_blank">Changi Simei Zone 1 Chinese New Year Festival</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Citizens' Corner at Blk 108 Simei St 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Zone 5 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-celebration-2025-zone-5-24812886" rel="noopener nofollow" target="_blank">Chinese New Year Celebration 2025 @ Zone 5</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pavilion @ 157A Yishun St 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Zone 8 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chong-pang-zone-7-8-rn-chinese-new-year-celebration-2025-98151812" rel="noopener nofollow" target="_blank">Chong Pang Zone 7 &amp; 8 RN Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 266 Yishun St 22 Void Deck</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
