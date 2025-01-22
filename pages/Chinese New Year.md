@@ -713,16 +713,107 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chua Chu Kang Zone 4 RC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/cckz4-chinese-new-year-carnival-17649907" rel="noopener nofollow" target="_blank">[CCKZ4] Chinese New Year Carnival</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>South View Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geylang RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/geylang-rn-chinese-new-year-celebration-2025-87731848" rel="noopener nofollow" target="_blank">Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lorong 40 Geylang Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jalan Kayu CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-celebrations-2025-82968329" rel="noopener nofollow" target="_blank">Chinese New Year Celebrations 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 532 Serangoon North Ave 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kebun Baru Thomson Hills RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/fully-booked-thomson-hills-chinese-new-year-2025-36179392" rel="noopener nofollow" target="_blank">Thomson Hills - Chinese New Year 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thomson Green Playground</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kreta Ayer RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/kreta-ayer-chinese-new-year-celebration-2025-02-08-69038076" rel="noopener nofollow" target="_blank">Kreta Ayer Chinese New Year Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kreta Ayer CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marsiling Zone 10 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-sing-along-and-grow-together-2025-68690423" rel="noopener nofollow" target="_blank">CHINESE NEW YEAR: Sing Along and Grow Together 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 187 Marsiling Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Membina Court RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-dinner-with-membina-court-do-not-pay-online-36579403" rel="noopener nofollow" target="_blank">Chinese New Year Dinner with Membina Court</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 26 Jalan Membina Open Area Beside Giant</p>
 </td>
 </tr>
 <tr>
