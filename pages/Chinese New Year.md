@@ -116,8 +116,7 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 <p>Ang Mo Kio-Hougang Acacia RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/acacia-chinese-new-year-shopping-tour-2025-72746835" rel="noopener nofollow" target="_blank">Acacia Chinese New Year Shopping Tour 2025</a>
-</p>
+<p>Acacia Chinese New Year Shopping Tour 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang Mo Kio-Hougang Acacia RN Centre (Blk 698C Hougang St 52)</p>
