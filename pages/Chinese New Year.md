@@ -818,6 +818,140 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon East CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/nee-soon-east-chinese-new-year-dinner-celebrations-2025-08-02-2025-51843885" rel="noopener nofollow" target="_blank">Sengkang CC Hard Court</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon East Seniors' Hub, Blk 293 Yishun Ring Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon South Zone G RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/zone-g-chinese-new-year-block-party-2025-58806491" rel="noopener nofollow" target="_blank">Chinese New Year Block Party 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>504 Yishun Street 51</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Gardens RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/punggol-gardens-rc-chinese-new-year-lunch-2025-78859773" rel="noopener nofollow" target="_blank">Punggol Gardens RC Chinese New Year Lunch 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 164 Punggol Central Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Horizon and Breeze RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/punggol-horizon-and-breeze-rn-chinese-new-year-mookata-23466311" rel="noopener nofollow" target="_blank">[Punggol Horizon and Breeze RN] Chinese New Year Mookata</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>622 Punggol Central Multipurpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Periwinkle RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/punggol-periwinkle-rc-chinese-new-year-celebration-2025-19040250" rel="noopener nofollow" target="_blank">Punggol Periwinkle RC Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 195, Punggol Road, Multi-purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Riviera RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/punggol-riviera-chinese-new-year-celebration-2025-81346328" rel="noopener nofollow" target="_blank">Punggol Riviera Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>654 Punggol Drive Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redhill Gardens RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/redhill-gardens-chinese-new-year-party-8-feb-2025-85060290" rel="noopener nofollow" target="_blank">Redhill Gardens Chinese New Year Party</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open space between block 79 and 85 Redhill Lane</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rivervale CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/sengkang-grc-chinese-new-year-dinner-2025-81497573" rel="noopener nofollow" target="_blank">Sengkang GRC Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sengkang CC Hard Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
