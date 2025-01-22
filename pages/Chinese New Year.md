@@ -1499,7 +1499,7 @@ Walk)</p>
 <p>Fengshan Cedar RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/fengshan-cedar-rn-chinese-new-year-celebration-15-february-2025-69372440" rel="noopener nofollow" target="_blank">Chinese New Year Celebration </a>
+<p><a href="https://www.onepa.gov.sg/events/fengshan-cedar-rn-chinese-new-year-celebration-15-february-2025-69372440" rel="noopener nofollow" target="_blank">Chinese New Year Celebration</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1583,16 +1583,94 @@ Walk)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>16/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bukit Batok Zone 7 RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/bukit-batok-zone-7-rn-chinese-new-year-bazaar-2025-87130028" rel="noopener nofollow" target="_blank">Bukit Batok Zone 7 RN Chinese New Year Bazaar 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sheltered Basketball Court, next to Blk 210, Bukit Batok St 21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frankel Dunbar RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/fdrn-chinese-new-year-carnival-the-park-81960743" rel="noopener nofollow" target="_blank">Chinese New Year Carnival @ The Park</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Greenfield Drive Playground</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lay Zone J RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/boon-lay-zone-j-chinese-new-year-hb-celebration-53265595" rel="noopener nofollow" target="_blank">Boon Lay Zone J Chinese New Year HB Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>627A MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ci Yuan CC WEC,</p>
+<p>Ang Mo Kio-Hougang Peony RN,</p>
+<p>Ci Yuan CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-dinner-amkhg-aac-peony-rn-and-wec-22015793" rel="noopener nofollow" target="_blank">Chinese New Year Dinner (AMKHG AAC, Peony RN and WEC)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ci Yuan Sports Park, Blk 648A Hougang Ave 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paya Lebar Zone 1 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/paya-lebar-zone-1-rn-chinese-new-year-dinner-2025-16949724" rel="noopener nofollow" target="_blank">Paya Lebar Zone 1 RN Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paya Lebar Kovan CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yio Chu Kang Height RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-celebration-dinner-2025-yio-chu-kang-heights-75471669" rel="noopener nofollow" target="_blank">Chinese New Year Celebration Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stage@Yio Chu Kang Heights, Beside 639, Ang Mo Kio Ave 6</p>
 </td>
 </tr>
 </tbody>
