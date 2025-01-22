@@ -938,16 +938,153 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sea Breeze Garden NC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/250208-sbg-chinese-new-year-celebration-76484607" rel="noopener nofollow" target="_blank">Chinese New Year Celebration</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sea Breeze Garden NC Playground (corner of Jalan Soo Bee and Sea Breeze
+Walk)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sembawang Central Zone B RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-lohei-karaoke-65480855" rel="noopener nofollow" target="_blank">Chinese New Year Lohei &amp; Karaoke</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>502 Wellington Circle Linkhouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sengkang West Zone E RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/sengkang-west-zone-e-chinese-new-year-celebration-80809521" rel="noopener nofollow" target="_blank">Sengkang West Zone E Chinese New Year Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 353 Anchorvale Lane Communal Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines East Zone 1 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/tez1-chinese-new-year-2025-8-feb-2025-85096358" rel="noopener nofollow" target="_blank">TEZ1- Chinese New Year 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 209 Tampines St 21 #01-1339</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Greenverge RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/tegv-grand-opening-and-chinese-new-year-celebration-8-feb-2025-70872377" rel="noopener nofollow" target="_blank">TEGV- Grand Opening and Chinese New Year Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 620 Tampines St 61 Precinct Pavilion @ Level 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thomson Shunfu RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/marymount-chinese-new-year-dinner-2025-93689814" rel="noopener nofollow" target="_blank">Marymount Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 231 Bishan Street 23</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh East Zone 4 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/toa-payoh-east-zone-4-rn-lantern-of-joy-a-chinese-new-year-celebration-93077627" rel="noopener nofollow" target="_blank">LANTERN OF JOY : A CHINESE NEW YEAR CELEBRATION</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19A Lorong 7 Toa Payoh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh Heights RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/toa-payoh-heights-chinese-new-year-2025-85486816" rel="noopener nofollow" target="_blank">Toa Payoh Heights Chinese New Year 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh Heights Residents' Network</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh North Zone 2 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/toa-payoh-crest-view-and-toa-payoh-north-zone-2-rn-chinese-new-year-lunch-2025-58269171" rel="noopener nofollow" target="_blank">Toa Payoh Crest, View and Toa Payoh North Zone 2 RN Chinese New Year Lunch 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh West CC, Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whampoa Mcnair RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-2025-dim-sum-fiesta-82899130" rel="noopener nofollow" target="_blank">Chinese New Year 2025 Dim Sum Fiesta</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>111 McNair Road</p>
 </td>
 </tr>
 <tr>
