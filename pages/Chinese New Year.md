@@ -81,15 +81,11 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 </tbody>
 </table>
 <h3>Celebrate Chinese New Year with your community!</h3>
-<p>Watch this space for events within your community!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Join the celebrations in your community!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -1675,4 +1671,7 @@ Walk)</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
 <p></p>
