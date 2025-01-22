@@ -1418,58 +1418,77 @@ Walk)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cheng San-Seletar CCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/cheng-san-seletar-ccc-chinese-new-year-dinner-2025-44927487" rel="noopener nofollow" target="_blank">Cheng San-Seletar CCC: Chinese New Year Dinner 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Open Space at Blk 511 &amp; Blk 513 Ang Mo Kio Ave 8</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Compassvale Plains RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/compassvale-plains-rn-chinese-new-year-celebration-2025-66150567" rel="noopener nofollow" target="_blank">Compassvale Plains RN: Chinese New Year Celebration 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Compassvale Plains RN Centre @ Blk 237 Compassvale Walk #01-538</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12/2/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ang Mo Kio-Hougang Angsana RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/ang-mo-kio-hougang-angsana-rn-chinese-new-year-dinner-2025-16238902" rel="noopener nofollow" target="_blank">Ang Mo Kio-Hougang Angsana RN Chinese New Year Dinner 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Marquee beside Blk 537 Hougang St 52</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fernvale AAC &amp; Fernvale CC SCEC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/fernvale-aac-fernvale-cc-scec-chinese-new-year-dinner-2025-98249654" rel="noopener nofollow" target="_blank">Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fernvale CC Level 1 Atrium</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Batok Zone 3 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/bbz3rn-chinese-new-year-celebrations-2025-52529435" rel="noopener nofollow" target="_blank">BBZ3RN Chinese New Year Celebrations 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 125 Bukit Batok Central</p>
 </td>
 </tr>
 <tr>
