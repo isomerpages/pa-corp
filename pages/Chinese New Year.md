@@ -1373,6 +1373,121 @@ Walk)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whampoa Lorong Limau RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/whampoa-llrn-chinese-new-year-2025-karaoke-competition-24259966" rel="noopener nofollow" target="_blank">Whampoa LLRN Chinese New Year 2025 (Karaoke Competition)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 76 Whampoa Lorong Limau RN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whampoa Lorong Limau RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/whampoa-llrn-chinese-new-year-2025-sit-down-dinner-56187110" rel="noopener nofollow" target="_blank">Whampoa LLRN Chinese new year 2025 (Sit-Down dinner)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 76 Whampoa Lorong Limau RN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yunnan Garden RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/yunnan-garden-2025-chinese-new-year-dinner-59115175" rel="noopener nofollow" target="_blank">Yunnan Garden 2025 Chinese New Year Dinner</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hard Court at Yunnan Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
