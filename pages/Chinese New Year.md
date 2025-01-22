@@ -82,3 +82,393 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 </table>
 <h3>Celebrate Chinese New Year with your community!</h3>
 <p>Watch this space for events within your community!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Join the celebrations in your community!</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organiser</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio-Hougang Acacia RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/acacia-chinese-new-year-shopping-tour-2025-72746835" rel="noopener nofollow" target="_blank">Acacia Chinese New Year Shopping Tour 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio-Hougang Acacia RN Centre (Blk 698C Hougang St 52)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Telok Kurau Central RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Lantern Making Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Residents' Hub at Telok Kurau Park - 151 Telok Kurau Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio-Hougang Pinetree RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/pinetree-chinese-new-year-getai-25512695" rel="noopener nofollow" target="_blank">Pinetree Chinese New Year Getai</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 572 Hougang Street 51</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Botanic Gardens RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/botanic-gardens-residents-network-chinese-new-year-lohei-59533833" rel="noopener nofollow" target="_blank">Botanic Gardens Residents' Network Chinese New Year Lohei</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 6 Farrer Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Batok Zone 2 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/bbz2-chinese-new-year-shopping-2025-57646983" rel="noopener nofollow" target="_blank">BBZ2 Chinese New Year Shopping 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Ho Swee RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/bukit-ho-swee-rn-chinese-new-year-lo-hei-celebration-63826196" rel="noopener nofollow" target="_blank">Bukit Ho Swee RN Chinese New Year Lo Hei Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 12A Taman Ho Swee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Canberra Zone 4 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/chinese-new-year-shopping-89825128" rel="noopener nofollow" target="_blank">Chinese New Year Shopping</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 117A Canberra Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Oasis RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/punggol-oasis-rc-chinese-new-year-reunion-dinner-2025-31583731" rel="noopener nofollow" target="_blank">Punggol Oasis RC Chinese New Year Reunion Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>173 Punggol Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng San-Seletar CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.onepa.gov.sg/events/chinese-new-year-distribution-2025-84693534" rel="noopener nofollow" target="_blank">Chinese New Year Distribution 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Space @ Cheng San Market &amp; Cooked Food Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phoenix Estate RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/pern-phoenix-chinese-new-year-dinner-2025-45904234" rel="noopener nofollow" target="_blank">Phoenix Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phoenix Road, Phoenix Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Coast CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/punggol-coast-pets-in-harmony-waterway-sunrise-1-rn-chinese-new-year-celebration-95129634" rel="noopener nofollow" target="_blank">Punggol Coast Pets in Harmony &amp; Waterway Sunrise 1 RN Chinese New Year Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>655 Punggol East Pavilion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Cresails RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/punggol-cresails-rn-chinese-new-year-marketplace-99075391" rel="noopener nofollow" target="_blank">Punggol Cresails RN Chinese New Year Marketplace</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>208 Punggol Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sriville RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/sriville-chinese-new-year-shopping-tour-2025-77637376" rel="noopener nofollow" target="_blank">Sriville Chinese New Year Shopping Tour 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Ubi CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio-Hougang Lavender RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/ang-mo-kio-hougang-lavender-chinese-new-year-dinner-2025-71773149" rel="noopener nofollow" target="_blank">Ang Mo Kio-Hougang Lavender - Chinese New Year Dinner 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 925 Hougang Street 91</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Compassvale Gardens RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/compassvale-gardens-rc-chinese-new-year-celebration-with-compassvale-gardens-rc-70880401" rel="noopener nofollow" target="_blank">Compassvale Gardens RC - Lunar New Year Blessings with Compassvale Gardens RC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 258 Compassvale Road (Multi-Purpose Hall)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio-Hougang Palmview RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/palmview-chinese-new-year-lunch-2025-87897966" rel="noopener nofollow" target="_blank">Palmview Chinese New Year Lunch 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teng Sheng Putien Restaurant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jalan Besar Upper Boon Keng RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/sg60-kolam-ayer-chinese-new-year-celebration-2025-28040739" rel="noopener nofollow" target="_blank">Kolam Ayer Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bliss Garden Restaurant @ Expo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Limbang Park RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/limbang-lbp-chinese-new-year-celebration-2025-41107733" rel="noopener nofollow" target="_blank">Chinese New Year Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 504A Choa Chu Kang Street 51 Multi-Purpose Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon Central Zone 3 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/nee-soon-central-zone-3-rn-chinese-new-year-lohei-2025-52989498" rel="noopener nofollow" target="_blank">Chinese New Year Lohei 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 701 Yishun Ave 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sengkang West Zone C RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/sengkang-west-zone-c-rn-presents-chinese-new-year-party-2025-66802425" rel="noopener nofollow" target="_blank">Chinese New Year Party 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 314 Anchorvale Link, Communal Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sengkang West Zone L RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/sengkang-west-zone-l-2025-chinese-new-year-celebration-56452887" rel="noopener nofollow" target="_blank">Sengkang West Zone L 2025 Chinese New Year Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anchorvale CC MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Summerville RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onepa.gov.sg/events/tampines-summerville-rn-chinese-new-year-celebration-2-feb-2025-49844626" rel="noopener nofollow" target="_blank">Tampines Summerville RN Chinese New Year Celebration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 916 Tampines St 91</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Villa Verde RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Verde View, Verde Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woodgrove Zone 8 RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 363 Woodlands Avenue 5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
