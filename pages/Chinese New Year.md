@@ -449,7 +449,8 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 <p>Villa Verde RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/limbang-vv-villa-verde-chinese-new-year-celebration-2025-87126795" rel="noopener nofollow" target="_blank">Villa Verde Chinese New Year Celebration 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Verde View, Verde Square</p>
@@ -463,10 +464,123 @@ these aunties and make DIY ornaments which you can hand out to your neighbours!<
 <p>Woodgrove Zone 8 RC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onepa.gov.sg/events/woodgrove-zone-8-rc-chinese-new-year-temple-tour-2025-16448907" rel="noopener nofollow" target="_blank">Chinese New Year Temple Tour 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Blk 363 Woodlands Avenue 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
