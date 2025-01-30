@@ -57,7 +57,7 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Our%20Programmes/CC%20Courses/PSG%20for%20PA%20Trainers/(06b)%20annex%204(b)%20-%20template%20for%20reporting%20of%20infectious%20disease%20outbreak%20to%20pa.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 4(b) - Template for Reporting of Infectious Disease Outbreak to PA</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/Template_for_Reporting_of_Infectious_Disease_Outbreak_to_PA__as_at_28_Jan_2025_.pdf" rel="noopener nofollow" target="_blank">Annex 4(b) - Template for Reporting Infectious Disease Outbreak to PA (as at 28 Jan 2025)</a>
 </p>
 </li>
 <li>
