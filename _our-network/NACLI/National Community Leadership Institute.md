@@ -30,7 +30,7 @@ effectively.</p>
 understand more about the NACLI Logo.</p>
 <h5>NACLI Prospectus</h5>
 <p>Click on the image below to download our NACLI Prospectus (2025-2026).</p>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/nacli-prospectus-2025-2026">
+<a class="isomer-image-wrapper" href="https://go.gov.sg/nacli-prospectus-2025-26">
 <img style="width: 50%;" height="auto" width="100%" alt="NACLI Prospectus (2025-2026)" src="/images/Our%20Network/NACLI/NACLI_Prospectus_Cover.png">
 </a>
 <p></p>
