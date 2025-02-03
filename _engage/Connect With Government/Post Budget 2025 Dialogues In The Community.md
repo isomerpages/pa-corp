@@ -8,7 +8,7 @@ third_nav_title: Connect With Government
 ---
 ### **Post-Budget 2025 Dialogues In The Community**
 
-![banner image for Ask Kopi Kakis](/images/Engage/AKKSYV_Webpage_v2.jpg)
+![people asking questions at a dialogue](/images/Engage/akksyv_Post_Budget_2025_collage.png)
 
 Prime Minister and Minister for Finance, Mr Lawrence Wong will deliver Singapore’s FY2025 Budget Statement in Parliament on Tuesday, 18 February 2025.
 
