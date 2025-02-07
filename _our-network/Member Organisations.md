@@ -29,7 +29,7 @@ Here’s a list of our Corporate Members, by different categories:
 * Metro Philharmonic Society
 * [Nanyang Academy of Fine Arts](https://www.nafa.edu.sg/)
 * [Perkumpulan Seni Singapura](https://www.facebook.com/perkumpulanseni.org)
-* [Singapore Art Society](http://singaporeartsociety.com/)
+* Singapore Art Society
 * Singapore Arts Federation
 * [Singapore Ballet](https://singaporeballet.org)
 * Singapore Hadrah And Kompang Association
