@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Tender for Provision of Security Services for Keat Hong Community Club</h3>
+<hr>
 <h4>Details</h4>
 <p>Interested tenderers are invited to tender for the Provision of Security
 Services for Keat Hong Community Club.</p>
