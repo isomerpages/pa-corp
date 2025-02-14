@@ -2,6 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Provision of Security Services for Keat Hong Community Club.md
       - Provision of Comprehensive Maintenance for three units of lifts in Ulu
         Pandan Community Building.md
       - Tender for Remaining Street Stalls for Chinatown Chinese New Year
