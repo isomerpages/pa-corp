@@ -4,9 +4,9 @@ title: People's Association
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: onePA website (onePA.gov.sg), MyPAssion app and e-Kiosks @ CCs
+notification: The onePA website (onePA.gov.sg), MyPAssion app and e-Kiosks @ CCs
   will not be available from 28 February 25, 8pm to 5 March 25, 8am. We
-  apologise for any inconvenience caused. <br><br> During the downtime, you can
+  apologise for any inconvenience caused. <br> During the downtime, you can
   visit the CCs, imPAct@Hong Lim Green and PAssion Wave for urgent
   over-the-counter transactions from 1 March 25, 10am to 3 March 25, 6pm. <br>
   For FAQs regarding this downtime, please visit the <a
