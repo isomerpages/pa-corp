@@ -4,10 +4,14 @@ title: People's Association
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Beware of potential scam letters, calls, messages, social media
-  pages, websites and mobile applications impersonating PA/staff. If unsure, do
-  not provide your personal or financial info.<br>Find out <a
-  href="/scam-alert">more details</a> on scams.
+notification: The onePA website (onePA.gov.sg), MyPAssion app and e-Kiosks @ CCs
+  will not be available from 28 February 25, 8pm to 5 March 25, 8am. We
+  apologise for any inconvenience caused. <br> During the downtime, you can
+  visit the CCs, imPAct@Hong Lim Green and PAssion Wave for urgent
+  over-the-counter transactions from 1 March 25, 10am to 3 March 25, 6pm. <br>
+  For FAQs regarding this downtime, please visit the <a
+  href="https://www.onepa.gov.sg/faq">onePA website</a>. For enquiries and
+  feedback, please visit our <a href="www.pa.gov.sg/feedback">feedback page</a>.
 sections:
   - hero:
       background: /images/27Sep_PA_Corp_Site_Banner_Website_V2_1900x760v3_L.png
