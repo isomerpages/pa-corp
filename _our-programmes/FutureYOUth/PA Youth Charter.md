@@ -7,7 +7,7 @@ third_nav_title: FutureYOUth
 ---
 <p style="text-align: center;">
 <a style="display: inline-block; line-height: normal; padding: 12px 24px; font-weight: bold;" class="bp-button is-secondary is-medium is-filled" href="https://go.gov.sg/youthcharterebook">
-    Read the Youth Charter here
+    Read the PA Youth Charter here!
 </a>
 </p>
 <div class="isomer-image-wrapper">
