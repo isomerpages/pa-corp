@@ -55,4 +55,3 @@ and building a future where care and unity are at the core of who we are.
 A future where every contribution adds up to something greater; where community
 isn’t just a word but a living, breathing reality.</p>
 <p>Will you join us in our journey?</p>
-<p></p>
