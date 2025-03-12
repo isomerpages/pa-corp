@@ -2,10 +2,6 @@ collections:
   our-network:
     output: true
     order:
-      - SPARKS@Bukit Canberra/Contact Us.md
-      - SPARKS@Bukit Canberra/Volunteering Opportunities.md
-      - SPARKS@Bukit Canberra/About Us.md
-      - SPARKS@Bukit Canberra/.keep
       - PA's Network.md
       - Community Clubs/.keep
       - Community Clubs/CC Information.md
@@ -64,3 +60,7 @@ collections:
       - Wisma Geylang Serai/Facilities @ WGS.md
       - Wisma Geylang Serai/Shops @ WGS.md
       - Wisma Geylang Serai/Contact Us.md
+      - SPARKS@Bukit Canberra/.keep
+      - SPARKS@Bukit Canberra/Contact Us.md
+      - SPARKS@Bukit Canberra/Volunteering Opportunities.md
+      - SPARKS@Bukit Canberra/About Us.md
