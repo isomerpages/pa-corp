@@ -35,7 +35,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 February – 16 March</p>
+<p>15 Feb – 16 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am – 10pm</p>
@@ -49,7 +49,7 @@ these events in your neighbourhood, brought to you by the People's Association.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 February – 29 March</p>
+<p>21 Feb – 29 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am – 10pm</p>
@@ -65,7 +65,7 @@ Ave 7 &amp; 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 February – 30 March</p>
+<p>26 Feb – 30 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am – 11.59pm</p>
@@ -79,7 +79,7 @@ Ave 7 &amp; 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 February – 28 March</p>
+<p>27 Feb – 28 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am – 10pm</p>
@@ -93,7 +93,7 @@ Ave 7 &amp; 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 February – 23 March</p>
+<p>28 Feb – 23 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm – 7.30pm/sold out</p>
@@ -107,7 +107,7 @@ Ave 7 &amp; 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 – 28 March</p>
+<p>1 – 28 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am – 10pm</p>
@@ -121,7 +121,7 @@ Ave 7 &amp; 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 – 2 March</p>
+<p>1 – 2 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11am – 3pm</p>
@@ -135,7 +135,7 @@ Ave 7 &amp; 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 – 29 March</p>
+<p>2 – 29 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am – 10pm</p>
@@ -150,7 +150,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 – 29 March</p>
+<p>2 – 29 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am – 10pm</p>
@@ -164,7 +164,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2, 8, 9, 15, 16, 22, 23, 29 March 2025</p>
+<p>2, 8, 9, 15, 16, 22, 23, 29 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4pm onwards</p>
@@ -178,7 +178,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 – 29 March</p>
+<p>2 – 29 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4pm – 5pm</p>
@@ -192,7 +192,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 – 23 March</p>
+<p>8 – 23 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10am – 10pm</p>
@@ -206,7 +206,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 March</p>
+<p>8 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm – 4.30pm</p>
@@ -220,7 +220,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 March</p>
+<p>8 Ma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4pm – 5pm</p>
@@ -234,7 +234,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 March</p>
+<p>8 Marc</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5pm – 6pm</p>
@@ -248,7 +248,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 March</p>
+<p>8 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30pm – 5.30pm</p>
@@ -262,7 +262,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 March</p>
+<p>8 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6pm – 8pm</p>
@@ -276,7 +276,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 March</p>
+<p>8 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30pm – 7.15pm</p>
@@ -290,7 +290,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 March</p>
+<p>9 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6pm – 8pm</p>
@@ -304,7 +304,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 March</p>
+<p>9 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6pm – 9pm</p>
@@ -318,7 +318,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 March</p>
+<p>15 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4pm till stocks last</p>
@@ -332,7 +332,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 March</p>
+<p>15 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30pm – 5.30pm</p>
@@ -346,7 +346,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 March</p>
+<p>15 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30pm – 9pm</p>
@@ -360,7 +360,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 March</p>
+<p>15 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5pm till stocks last</p>
@@ -374,7 +374,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 March</p>
+<p>15 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5pm till stocks last</p>
@@ -388,7 +388,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 March</p>
+<p>16 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5pm till stocks last</p>
@@ -402,7 +402,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 March</p>
+<p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5pm – 6pm</p>
@@ -416,7 +416,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 March</p>
+<p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30pm – 5.30pm</p>
@@ -430,7 +430,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 March</p>
+<p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30pm – 5.30pm</p>
@@ -444,7 +444,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 March</p>
+<p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.45pm</p>
@@ -458,7 +458,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 March</p>
+<p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6pm – 8pm</p>
@@ -472,7 +472,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 March</p>
+<p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6pm – 8pm</p>
@@ -486,7 +486,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 March</p>
+<p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6pm – 8pm</p>
@@ -500,7 +500,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 March</p>
+<p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6pm – 8pm</p>
@@ -515,7 +515,7 @@ Fast</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 March</p>
+<p>23 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9am</p>
@@ -529,7 +529,7 @@ Fast</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 March</p>
+<p>23 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4pm</p>
@@ -543,7 +543,7 @@ Fast</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 April</p>
+<p>12 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30pm – 9.30pm</p>
@@ -557,7 +557,7 @@ Fast</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 April</p>
+<p>13 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9am – 1pm</p>
@@ -571,7 +571,7 @@ Fast</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 April</p>
+<p>26 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5pm – 9pm</p>
@@ -585,7 +585,7 @@ Fast</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 April</p>
+<p>26 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30pm – 9.30pm</p>
@@ -599,7 +599,7 @@ Fast</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 April</p>
+<p>27 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5pm – 8pm</p>
