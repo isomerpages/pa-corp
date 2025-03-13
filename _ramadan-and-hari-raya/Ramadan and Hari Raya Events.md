@@ -141,21 +141,6 @@ Ave 7 &amp; 6
 <p>10am – 10pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhenghua Bazaar Ramadan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senja Square Hardcourt (next to Senja Square RN Centre) (7 Senja Link
-Singapore 677641)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 – 29 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10am – 10pm</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Zhenghua Ramadan Bazaar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -398,6 +383,20 @@ Singapore 677641)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jalan Kayu Zone 2 RN (Blk 976 Hougang St 91 #01-252 S(530976))</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30pm - 8pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tanjong Pagar GRC &amp; Radin Mas SMC Buka Puasa 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Radin Mas CC, L1 MPH</p>
 </td>
 </tr>
 <tr>
