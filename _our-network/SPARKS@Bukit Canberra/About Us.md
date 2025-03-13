@@ -2,7 +2,7 @@
 title: About Us
 permalink: /our-programmes/sparks-bukit-canberra/about-us/
 description: ""
-third_nav_title: SPARKS@BukitCanberra
+third_nav_title: SPARKS@Bukit Canberra
 ---
 <b>**About SPARKS@Bukit Canberra**</b>
 <br>
