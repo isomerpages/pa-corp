@@ -387,6 +387,20 @@ Ave 7 &amp; 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>17 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30pm - 8pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tanjong Pagar GRC &amp; Radin Mas SMC Buka Puasa 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Radin Mas CC, L1 MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
