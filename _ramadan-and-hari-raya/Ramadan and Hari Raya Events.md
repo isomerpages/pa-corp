@@ -220,7 +220,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Ma</p>
+<p>8 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4pm – 5pm</p>
@@ -234,7 +234,7 @@ Singapore 677641)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Marc</p>
+<p>8 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5pm – 6pm</p>
