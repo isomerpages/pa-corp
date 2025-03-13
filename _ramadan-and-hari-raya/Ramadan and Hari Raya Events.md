@@ -141,21 +141,6 @@ Ave 7 &amp; 6
 <p>10am – 10pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhenghua Bazaar Ramadan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senja Square Hardcourt (next to Senja Square RN Centre) (7 Senja Link
-Singapore 677641)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 – 29 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10am – 10pm</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Zhenghua Ramadan Bazaar</p>
 </td>
 <td rowspan="1" colspan="1">
