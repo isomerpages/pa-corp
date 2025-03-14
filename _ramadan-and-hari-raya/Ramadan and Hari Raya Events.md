@@ -306,6 +306,20 @@ Ave 7 &amp; 6
 <p>15 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh East Ramadan Festive Shopping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joo Chiat Complex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>4pm till stocks last</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,6 +383,35 @@ Ave 7 &amp; 6
 </td>
 <td rowspan="1" colspan="1">
 <p>Jalan Kayu Zone 7 RN (Blk 981D Buangkok Crescent #01-416 S(537981))</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.30pm - 8pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buka Puasa 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bishan CC MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5pm - 7.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Breaking fast at Hajjah Rahimabi Kebun Limau Mosque</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>76 Kim Keat Road Masjid Hajjah Rahimabi Kebun Limau, Balestier Singapore
+328835</p>
 </td>
 </tr>
 <tr>
@@ -538,6 +581,20 @@ Fast</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>461 Yishun Avenue 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am - 10am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distribution of Hari Raya goodies to congregants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhajirin Mosque</p>
 </td>
 </tr>
 <tr>
