@@ -71,7 +71,7 @@ Ave 7 &amp; 6
 <p>10am – 11.59pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WGS Bazaar</p>
+<p>Bazaar Raya Geylang Serai 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wisma Geylang Serai</p>
@@ -672,6 +672,6 @@ Fast</p>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
 <p></p>
-<p><em>(Updated as of 12<sup>th</sup> March 2025)</em>
+<p><em>(Updated as of 17<sup>th</sup> March 2025)</em>
 </p>
 <p></p>
