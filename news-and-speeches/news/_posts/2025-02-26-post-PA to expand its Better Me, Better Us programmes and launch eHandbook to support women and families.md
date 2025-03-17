@@ -13,12 +13,12 @@ variant: tiptap
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
 People’s Association (PA) Women's Integration Network (WIN) Council and
 Women's Executive Committees (WECs) are expanding its “Better Me, Better
-Us” programmes to <strong>32</strong> this year, a 33 per cent increase from
-the 24 programmes available in 2024. &nbsp;The PA “Better Me, Better Us”
-Programmes, which connect women from different backgrounds to learn about
-health, parenting, financial planning, and other important women’s issues,
-was launched in 2020 with seven programmes and has been steadily growing
-its programmes over the years.</p>
+Us” programmes to <strong>32 </strong>this year, a 33 per cent increase
+from the 24 programmes available in 2024. &nbsp;The PA “Better Me, Better
+Us” Programmes, which connect women from different backgrounds to learn
+about health, parenting, financial planning, and other important women’s
+issues, was launched in 2020 with seven programmes and has been steadily
+growing its programmes over the years.</p>
 <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable WECs to curate more
 meaningful, tailored programmes that address the specific needs of women
 and families in their respective divisions, PA is also launching its “Better
