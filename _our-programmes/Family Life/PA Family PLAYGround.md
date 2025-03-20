@@ -12,12 +12,123 @@ third_nav_title: Family Life
 <p></p>
 <p>Get set for family fun overload at PA Family PLAYGround 2025! We're bringing
 the excitement to your neighbourhood with our <strong>P</strong>lay, <strong>L</strong>earn, <strong>A</strong>ppreciate,
-and care for <strong>Y</strong>ou zones.</p>
+and care for <strong>Y</strong>our family and the community zones.</p>
 <p>Team up to tackle challenges, make new friends, and become a Champion
 of Family Life!</p>
 <p>Ready to level up your bonding game and make 2025 your most awesome year
 yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
-<p>Don't miss out and join us on these dates! [To be updated :)]</p>
+<p>Don't miss out and join us on these dates!</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8 June 2025 (Sunday)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10am to 6pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Keat Hong CC, Ground Floor</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>14 June 2025 (Saturday)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10am to 6pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Braddell Heights CC, Ground Floor</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>21 June 2025 (Saturday)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>10am to 6pm</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Toa Payoh West CC, Ground Floor</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>28 June 2025 (Saturday)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10am to 6pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nee Soon South CC, Ground Floor</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5 July 2025 (Saturday)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10am to 6pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>One Punggol, Ground Floor</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong>Highlights of PA Family PLAYGround 2024</strong></h3>
 <h4><strong>In Case You Missed It</strong></h4>
 <div class="iframe-wrapper">
@@ -57,7 +168,7 @@ and benefitted from exclusive deals as a family in June 2024.</p>
 <p><strong>The PA Family PLAYGround is held in support of the <a href="https://familiesforlife.sg/pages/national-family-festival-2024" rel="noopener nofollow" target="_blank">National Family Festival</a>, organised by the <a href="https://familiesforlife.sg/pages/homepage" rel="noopener noreferrer nofollow" target="_blank"><u>Families for Life </u></a>Council under <a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Social and Family Development</u></a><u>.</u></strong>
 </p><a class="isomer-image-wrapper" href="https://familiesforlife.sg/pages/national-family-festival-2024"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/logo3.jpg"></a>
 <p></p>
-<p><strong>Connect with us on (FB) <a href="https://www.facebook.com/flc.pa.1/" rel="noopener noreferrer nofollow" target="_blank"><u>PA Family Life Champion </u></a>and (IG) pa.win.family on the latest update of PA Family PLAYGround 2025!</strong>
+<p><strong>Connect with us on (FB) <a href="https://www.facebook.com/flc.pa.1/" rel="noopener noreferrer nofollow" target="_blank"><u>PA Family Life Champion </u></a>and (IG) <a href="https://www.instagram.com/pa.win.family/" rel="noopener nofollow" target="_blank">pa.win.family</a> on the latest update of PA Family PLAYGround 2025!</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
