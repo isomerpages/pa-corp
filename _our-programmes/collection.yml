@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Sparks.md
       - PA Cares @ President's Challenge.md
       - PA's Programmes.md
       - Active Ageing.md
