@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/27Sep_PA_Corp_Site_Banner_Website_V2_1900x760v3_L.png
+      background: /images/Our Programmes/Sparks_Banner_New.jpg
       key_highlights:
         - title: Join as a Volunteer
           description: ""
@@ -18,12 +18,20 @@ sections:
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
-      button: find out more
+      button: Click to find out more!
       url: /about-us/about-pa/
       variant: center
   - resources:
       title: News & Speeches
       button: More News
+  - infopic:
+      title: Sparks
+      id: infopic
+      description: A community innovation movement - by the community, for the community
+      button: Find out more about Sparks
+      url: pa.gov.sg/our-programmes/pa-sparks/
+      image: /images/Our Programmes/Sparks_Logo.jpg
+      alt: Image alt text
   - infopic:
       title: PA Sustainability Report
       id: infopic
