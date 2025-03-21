@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Our Programmes/Sparks_Banner_New.jpg
+      background: /images/Sparks_Banner_New_2.jpg
       key_highlights:
         - title: Join as a Volunteer
           description: ""
@@ -19,7 +19,7 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       button: Click to find out more!
-      url: /about-us/about-pa/
+      url: www.pa.gov.sg/our-programmes/pa-spark
       variant: center
   - resources:
       title: News & Speeches
