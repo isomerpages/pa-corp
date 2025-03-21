@@ -115,8 +115,7 @@ which will be showcased at the hackathon grand finale.</p>
 Interested participants can find out more and register for the hackathon
 <a href="go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p><strong>Join the Sparks community innovation movement!</strong>
-</p>
+<h4><strong>Join the Sparks community innovation movement!</strong></h4>
 <p>Ready to spark change? Join us in this community innovation movement and
 be a catalyst for positive change and impact. Whether you have innovative
 ideas, a passion for community building, or simply want to lend a helping
