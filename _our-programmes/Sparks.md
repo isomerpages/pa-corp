@@ -103,17 +103,17 @@ and spearhead ideation sessions and activities within the CIS.</p>
 <p><strong>Sparks x BFG Community Hackathon: </strong>A collaboration between
 the PA and <a href="https://open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Open Government Products</a> (OGP),
 combining PA's deep community connections with OGP's technological expertise
-and past experience running the <a href="https://build.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a> (BFG) hackathon.&nbsp; The
-Community Hackathon aims to rally the community to identify pressing local
-issues and develop innovative tech solutions that address community challenges
-and aspirations. Participants will receive support from CITs, experienced
-tech mentors, and hands-on workshops to refine their ideas into prototypes,
-which will be showcased at the hackathon grand finale.</p>
+and past experience running the <a href="https://www.build.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a> (BFG) hackathon.&nbsp;
+The Community Hackathon aims to rally the community to identify pressing
+local issues and develop innovative tech solutions that address community
+challenges and aspirations. Participants will receive support from CITs,
+experienced tech mentors, and hands-on workshops to refine their ideas
+into prototypes, which will be showcased at the hackathon grand finale.</p>
 </li>
 </ol>
 <p><u>Registration for the Community Hackathon starts from 22 March 2025 and will close on 6 April 2025</u>.
 Interested participants can find out more and register for the hackathon
-<a href="go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="https://www.go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4><strong>Join the Sparks community innovation movement!</strong></h4>
 <p>Ready to spark change? Join us in this community innovation movement and
