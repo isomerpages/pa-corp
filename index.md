@@ -29,7 +29,7 @@ sections:
       id: infopic
       description: A community innovation movement - by the community, for the community
       button: Find out more about Sparks
-      url: pa.gov.sg/our-programmes/pa-sparks/
+      url: /our-programmes/pa-sparks/
       image: /images/Our Programmes/Sparks_Logo.jpg
       alt: Image alt text
   - infopic:
