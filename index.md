@@ -19,7 +19,7 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       button: Click to find out more!
-      url: www.pa.gov.sg/our-programmes/pa-sparks
+      url: /our-programmes/pa-sparks/
       variant: center
   - resources:
       title: News & Speeches
