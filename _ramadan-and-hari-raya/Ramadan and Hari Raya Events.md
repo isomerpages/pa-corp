@@ -169,7 +169,8 @@ Ave 7 &amp; 6
 <p>4pm – 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Porridge Distribution</p>
+<p><a href="https://www.facebook.com/share/p/1E57iFZMze/" rel="noopener nofollow" target="_blank">Porridge Distribution</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BBE RC/RN Centres &amp; Harmony Pavilion</p>
@@ -211,7 +212,8 @@ Ave 7 &amp; 6
 <p>4pm – 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pengagihan Bubur Ramadan 2025</p>
+<p><a href="https://www.facebook.com/share/r/1Ey5B6PaZj/?mibextid=wwXlfr" rel="noopener nofollow" target="_blank">Pengagihan Bubur Ramadan 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nee Soon Central (Back entrance near ServiceSG)</p>
@@ -281,7 +283,8 @@ Ave 7 &amp; 6
 <p>6pm – 8pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Buka Puasa Together</p>
+<p><a href="https://www.facebook.com/share/p/1F4cBUxggj/" rel="noopener nofollow" target="_blank">Buka Puasa Together</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pek Kio CC</p>
@@ -299,6 +302,20 @@ Ave 7 &amp; 6
 </td>
 <td rowspan="1" colspan="1">
 <p>Chong Pang 165 Hard Court (Beside Blk 165 Yishun Ring Road S760165)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30pm - 8.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra Skylife RN - Buka Puasa 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 364 Linkhouse, Sembawang Crescent</p>
 </td>
 </tr>
 <tr>
@@ -351,7 +368,8 @@ Ave 7 &amp; 6
 <p>4.30pm – 9pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Happy Bus: Hari Raya Puasa Trail</p>
+<p><a href="https://www.facebook.com/reel/1137980864740511" rel="noopener nofollow" target="_blank">The Happy Bus: Hari Raya Puasa Trail</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kampong Glam</p>
@@ -599,6 +617,20 @@ Fast</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>31 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am - 9.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mini Carnival on 1st day of Raya (By Qaryah 21)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 786E Woodlands Drive 60 S(735786)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -623,6 +655,36 @@ Fast</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open field next to Pending LRT Station</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7pm - 10pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seloka Hari Raya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACE The Place CC, 120 Woodlands Ave 1, S739069</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2pm - 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woodlands Town Hari Raya Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampung Admiralty</p>
+<p>676 Woodlands Drive 71</p>
+<p>Singapore 730676</p>
 </td>
 </tr>
 <tr>
@@ -672,6 +734,6 @@ Fast</p>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
 <p></p>
-<p><em>(Updated as of 17<sup>th</sup> March 2025)</em>
+<p><em>(Updated as of 24<sup>th</sup> March 2025)</em>
 </p>
 <p></p>
