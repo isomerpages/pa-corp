@@ -682,9 +682,9 @@ Fast</p>
 <p>Woodlands Town Hari Raya Open House</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kampung Admiralty</p>
-<p>676 Woodlands Drive 71</p>
-<p>Singapore 730676</p>
+<p>Kampung Admiralty
+<br>676 Woodlands Drive 71
+<br>Singapore 730676</p>
 </td>
 </tr>
 <tr>
