@@ -6,7 +6,7 @@ variant: markdown
 ---
 <img style="width:350px" src="/images/Our%20Programmes/PA%20_Hong%20Lim%20CC%20Branding-01.png">
 
-imPAct@Hong Lim Green is your one-stop community hub in the Central Business District (CDB), designed to empower and enable working professionals to create change and make a difference. Dive into our diverse programmes and volunteering opportunities to connect, grow, and do good with the community. 
+imPAct@Hong Lim Green is your one-stop community hub in the Central Business District (CBD), designed to empower and enable working professionals to create change and make a difference. Dive into our diverse programmes and volunteering opportunities to connect, grow, and do good with the community. 
 
 **imPAct Fitness Membership**<br>
 Unlock access to imPAct@Hong Lim Green's fitness programmes with our membership schemes. For more information on the fitness passes, please call us at 6786 0016. 
@@ -20,5 +20,4 @@ Stay connected with imPAct@Hong Lim Green by following our [Facebook](http://www
 
 Join us and be part of the imPAct community today!
  
-(Accurate as of 9 November 2024)
-
+(Accurate as of 25 March 2025)
