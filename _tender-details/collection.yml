@@ -1,6 +1,4 @@
 collections:
   tender-details:
     output: true
-    order:
-      - Tender for Design and Build a Modular, Eco Friendly Structure at
-        Sengkang Community Club Hardcourt.md
+    order: []
