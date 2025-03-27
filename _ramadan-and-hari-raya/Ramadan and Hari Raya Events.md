@@ -224,10 +224,11 @@ Ave 7 &amp; 6
 <p>8 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5pm – 6pm</p>
+<p>4pm – 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ramadan in Harmony &amp; Porridge Distribution</p>
+<p><a href="https://www.facebook.com/bukitbatokeast/posts/pfbid021uPyVNzozD75fSXrsnYWicqcSs4zJoiG6mMBzgmkt42EzKCEuWfnWejPA8F2m7oil?rdid=HJtf5ziuZwCa4XVC#" rel="noopener nofollow" target="_blank">Ramadan in Harmony &amp; Porridge Distribution</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BBE RC/RN Centres &amp; Harmony Pavilion</p>
@@ -465,10 +466,11 @@ Ave 7 &amp; 6
 <p>22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5pm – 6pm</p>
+<p>4pm – 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ramadan in Harmony &amp; Porridge Distribution</p>
+<p><a href="https://www.facebook.com/bukitbatokeast/posts/pfbid021uPyVNzozD75fSXrsnYWicqcSs4zJoiG6mMBzgmkt42EzKCEuWfnWejPA8F2m7oil?rdid=HJtf5ziuZwCa4XVC#" rel="noopener nofollow" target="_blank">Ramadan in Harmony &amp; Porridge Distribution</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BBE RC/RN Centres &amp; Harmony Pavilion</p>
@@ -734,6 +736,6 @@ Fast</p>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
 <p></p>
-<p><em>(Updated as of 24<sup>th</sup> March 2025)</em>
+<p><em>(Updated as of 27<sup>th</sup> March 2025)</em>
 </p>
 <p></p>
