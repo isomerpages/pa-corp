@@ -16,9 +16,9 @@ description: ""
 briefing will be considered for the award of Tender. The Organising Committee
 reserves the right to issue corrigendum for this tender publication before
 Tender closing date.</p>
-<p><strong>Calling Committee: Chinatown Festival Committee </strong>
+<p><strong>Calling Committee: Chinatown Festival Committee</strong>
 </p>
-<p><strong>Publication Date: 3 April 2025 </strong>
+<p><strong>Publication Date: 3 April 2025</strong>
 </p>
 <p><strong>Closing Date &amp; Time: 22 April 2025, 06:00 PM</strong>
 </p>
@@ -29,7 +29,6 @@ Non-Disclosure Agreement* (Appendix II), together with Pre-Tender Briefing
 Attendance Form (Appendix I) to <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and <a href="mailto:Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a> by
 6 April 2025.</p>
 <hr>
-<p></p>
-<p>For Enquiry</p>
+<h4>For Enquiry</h4>
 <p>Please contact Chng Pei Joo or Lee Xiao Hui at 6272 3878 or email at
 <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a>and <a href="mailto:Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>.</p>
