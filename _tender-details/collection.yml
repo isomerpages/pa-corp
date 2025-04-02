@@ -1,4 +1,6 @@
 collections:
   tender-details:
     output: true
-    order: []
+    order:
+      - Tender for Street Light Up Decorative Items for Chinatown Mid Autumn
+        Festival Celebrations 2025.md
