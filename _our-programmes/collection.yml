@@ -2,6 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
+      - Ramadan and Hari Raya/Things You May Not Know about Ramadan and Hari
+        Raya.md
       - Ramadan and Hari Raya/.keep
       - PA's Programmes.md
       - Sparks.md
