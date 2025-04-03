@@ -5,9 +5,10 @@ description: ""
 variant: markdown
 ---
 #### Grow With Us
-![](/images/Careers/PA_WebRes_sRGB__205.jpg)
 
 Do you enjoy meeting people from all walks of life? How would you like the opportunity to shape your neighbourhood, and build strong and resilient communities?
+
+![](/images/Careers/PA_WebRes_sRGB__205.jpg)
 
 Share our PAssion in Bringing People Together.
 
