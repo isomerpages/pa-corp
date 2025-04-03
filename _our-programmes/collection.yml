@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
+      - PA's Programmes.md
       - Sparks.md
       - PA Cares @ President's Challenge.md
-      - PA's Programmes.md
       - Active Ageing.md
       - CC Courses/.keep
       - CC Courses/Courses.md
@@ -39,8 +39,8 @@ collections:
       - Racial Harmony/Racial Harmony.md
       - Women's Programmes.md
       - Youth.md
-      - FutureYOUth/PA Youth Charter.md
       - FutureYOUth/.keep
+      - FutureYOUth/PA Youth Charter.md
       - FutureYOUth/Upcoming Happenings.md
       - FutureYOUth/About FutureYOUth.md
       - FutureYOUth/Mental Health.md
