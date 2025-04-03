@@ -1,5 +1,4 @@
 collections:
   ramadan-and-hari-raya:
     output: true
-    order:
-      - Ramadan and Hari Raya Events.md
+    order: []
