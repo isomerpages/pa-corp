@@ -6,7 +6,7 @@ description: People's Association Youth Movement PAYM FutureYOUth Youth Charter
 third_nav_title: FutureYOUth
 ---
 <p style="text-align: center;">
-<a style="display: inline-block; line-height: normal; padding: 12px 24px; font-weight: bold;" class="bp-button is-secondary is-medium is-filled" href="https://go.gov.sg/youthcharterebook">
+<a style="display: inline-block; line-height: normal; padding: 12px 24px; font-weight: bold;" class="bp-button is-secondary is-medium is-filled" href="https://go.gov.sg/youthcharterbook">
     Read the PA Youth Charter here!
 </a>
 </p>
