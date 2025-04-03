@@ -9,6 +9,8 @@ variant: markdown
 The People's Association (PA) is a statutory board established on 1 July 1960.
 Our mission is to spark and nurture community participation for a caring and united Singapore.&nbsp;Our network includes 2,000 Grassroots Organisations (GROs), over 100 Community Clubs, five Community Development Councils, five PAssion WaVe outlets, imPAct, and the National Community Leadership Institute.
 
+![](/images/About%20Us/PA_WebRes_sRGB__201.jpg)
+
 ### Our Vision
 
 A Nation that Cares for Our Community
