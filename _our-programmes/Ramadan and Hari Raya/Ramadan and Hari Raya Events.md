@@ -4,6 +4,7 @@ permalink: /hari-raya-and-ramadan/pa-events/
 variant: tiptap
 description: Ramadan and Hari Raya Events with the People's Association in 2024
 image: /images/ramadan_site_events.jpg
+third_nav_title: Ramadan and Hari Raya
 ---
 <p>Join your community to <a href="https://www.pa.gov.sg/ramadan-and-hari-raya/ramadan-hari-raya-facts/" rel="noopener noreferrer nofollow" target="_blank">observe Ramadan and celebrate Hari Raya Puasa</a> with
 these events in your neighbourhood, brought to you by the People's Association.</p>

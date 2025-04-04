@@ -2,8 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Sparks.md
-      - PA Cares @ President's Challenge.md
       - PA's Programmes.md
       - Active Ageing.md
       - CC Courses/.keep
@@ -25,10 +23,10 @@ collections:
       - Family Life/.keep
       - Family Life/PA Family PLAYGround.md
       - Family Life/Family Life.md
-      - imPAct@Hong Lim Green.md
       - National Day/.keep
       - National Day/NDP @ Heartlands.md
       - National Day/National Day.md
+      - PA Cares @ President's Challenge.md
       - PAssion Card.md
       - PAssion Wave/.keep
       - PAssion Wave/Details.md
@@ -37,10 +35,15 @@ collections:
       - Racial Harmony/Racial Harmony Day Events.md
       - Racial Harmony/Racial Harmony Day.md
       - Racial Harmony/Racial Harmony.md
+      - Ramadan and Hari Raya/.keep
+      - Ramadan and Hari Raya/Ramadan and Hari Raya Events.md
+      - Ramadan and Hari Raya/Things You May Not Know about Ramadan and Hari
+        Raya.md
+      - Sparks.md
       - Women's Programmes.md
       - Youth.md
-      - FutureYOUth/PA Youth Charter.md
       - FutureYOUth/.keep
+      - FutureYOUth/PA Youth Charter.md
       - FutureYOUth/Upcoming Happenings.md
       - FutureYOUth/About FutureYOUth.md
       - FutureYOUth/Mental Health.md

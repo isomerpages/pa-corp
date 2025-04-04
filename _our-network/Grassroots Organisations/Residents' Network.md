@@ -3,8 +3,11 @@ title: Residents' Network
 permalink: /our-network/grassroots-organisations/residents-network/
 description: ""
 third_nav_title: Grassroots Organisations
+variant: markdown
 ---
 Residents’ Networks (RNs) were set up in 2018 to promote greater social mixing between residents across all ages, races and all estates.
+
+![](/images/Our%20Network/GrassRoots%20Organisation/PA_WebRes_sRGB__066.jpg)
 
 Like the Residents’ Committees (RC) and Neighbourhood Committees (NC), RNs promote neighbourliness, social cohesion and acts as a bridge between the people and the Government.
 

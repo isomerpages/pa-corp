@@ -4,6 +4,7 @@ permalink: /ramadan-and-hari-raya/ramadan-hari-raya-facts/
 variant: tiptap
 description: 5 Things You May Not Know about Ramadan and Hari Raya
 image: /images/What_is_Ramadan.png
+third_nav_title: Ramadan and Hari Raya
 ---
 <h1>What is Ramadan?</h1>
 <p>Ramadan is a holy month of fasting, prayer, and reflection for Muslims
