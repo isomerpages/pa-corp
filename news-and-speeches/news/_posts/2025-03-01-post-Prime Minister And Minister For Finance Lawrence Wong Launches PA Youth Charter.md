@@ -8,8 +8,9 @@ image: ""
 variant: tiptap
 ---
 <h3>Prime Minister And Minister For Finance Lawrence Wong Launches Pa Youth Charter To Empower Youths To Build A Caring And United Singapore</h3>
+<p><em>PA launches SG60 PA Engagement Grant while PA Youth Movement pledges 1 million volunteer hours to spark and nurture community participation.</em>
+</p>
 <p></p>
-<h4>PA launches SG60 PA Engagement Grant while PA Youth Movement pledges 1 million volunteer hours to spark and nurture community participation.</h4>
 <p>&nbsp;&nbsp; Prime Minister and Minister for Finance,<strong> </strong>Lawrence
 Wong will launch the PA Youth Charter at the Future of Youth on 1 March
 2025, 3pm at Ngee Ann City, Civic Plaza.&nbsp; The PA Youth Charter serves
