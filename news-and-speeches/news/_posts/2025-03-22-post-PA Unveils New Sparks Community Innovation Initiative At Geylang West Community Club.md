@@ -69,7 +69,7 @@ event is<strong> </strong>one of the<strong> </strong>key platforms under
 the “Sparks” initiative, alongside Community Innovation Spaces and Community
 Innovation Taskforces, working together to foster a new era of community-driven
 solutions.&nbsp; <strong>Interested participants are invited to register for the Community Hackathon</strong> at
-<a href="go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/pa-ch2025</u>
+<a href="https://go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/pa-ch2025</u>
 </a><strong> </strong>where they can contribute their unique perspectives
 and diverse skills to develop tech-driven solutions for the community.&nbsp; <strong>Registration commences on 22 March 2025 and will close on 6 April 2025.</strong>&nbsp;
 Please see <a href="/files/NewsRoom/Unveiling_of_Sparks_at_Geylang_West_Community_Club_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex A</u></a> for
