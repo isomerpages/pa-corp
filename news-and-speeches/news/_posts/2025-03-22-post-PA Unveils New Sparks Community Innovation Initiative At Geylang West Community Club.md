@@ -72,8 +72,8 @@ solutions.&nbsp; <strong>Interested participants are invited to register for the
 <a href="go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/pa-ch2025</u>
 </a><strong> </strong>where they can contribute their unique perspectives
 and diverse skills to develop tech-driven solutions for the community.&nbsp; <strong>Registration commences on 22 March 2025 and will close on 6 April 2025.</strong>&nbsp;
-Please see <u>Annex A</u> for more details on the “Sparks” initiative and
-Community Hackathon.</p>
+Please see <a href="/files/NewsRoom/Unveiling_of_Sparks_at_Geylang_West_Community_Club_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex A</u></a> for
+more details on the “Sparks” initiative and Community Hackathon.</p>
 <p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Sparks @ Geylang West</strong> will
 be officially opened on 22 March 2025, marking an important milestone of
 PA in the community innovation journey.&nbsp; An Eco Day will be organised
