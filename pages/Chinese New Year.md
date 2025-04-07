@@ -1164,8 +1164,7 @@ Walk)</p>
 <p>Canberra Skylife RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/canberra-skylife-rn-chinese-new-year-festive-cheer-to-comlink-children-65744518" rel="noopener nofollow" target="_blank">Chinese New Year Festive Cheer to Comlink Children</a>
-</p>
+<p>Chinese New Year Festive Cheer to Comlink Children</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Blk 365A Sembawang Crescent #01-80</p>
