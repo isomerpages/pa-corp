@@ -4,9 +4,7 @@ title: People's Association
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Government officials will NEVER ask you to transfer money or
-  disclose personal/banking details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam.
+notification: ""
 sections:
   - hero:
       background: /images/Sparks_Banner_New_2.jpg
