@@ -50,21 +50,28 @@ Planning to participate? Everything you need to know about competition rules and
 <p> Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or visit the nearest Community Club (CC) in your neighbourhood and we'll guide you through the registration! </p>
 
 Find your district and GRC below to register for upcoming competitions:
-
+<br>
 <b>Central Singapore</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">Tanjong Pagar GRC &amp; Radin Mas SMC Community Bowling Championship 2025 [25 May 2025]</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">[18 May 2025] Tampines GRC Basketball Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-bowling-4-a-side-mixed-team-competition-83993704">[19 Apr 2025] Jalan Besar GRC Bowling Community Competition </a>
 
 <b>North East</b>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-bowling-tournament-2025-27-april-2025-61065934">[27 Apr 2025] Sengkang GRC Bowling Community Competition 2025</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tampines-grc-community-championship-3x3-men-s-basketball-20652768">[03 May 2025] Sembawang GRC Floorball Competitions Community Championship 2025</a>
 
 <b>North West</b>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">Sembawang GRC 3V3 Floorball Competitions Community Championship 2025 [3 May 2025] </a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">[03 May 2025] Sembawang GRC Floorball Competitions Community Championship 2025</a>
 <br>
 
 <b>South East</b>
+
 <b>South West</b>
+<a target="_blank" href="https://www.onepa.gov.sg/events/west-coast-grc-football-community-championship-2025-70565315">[11 May 2025] West Coast GRC Football Community Championship 2025</a>
+
 
 <h3>Community Championship Photography Contest</h3>
 <p>Ready, set, snap! People's Association and SAFRA will be back with our exciting photography contest. Capture the spirit of community sports through your lens! The content is open to all Singapore Citizens and Permanent Residents. Contest details and exciting prizes coming soon!</p>
