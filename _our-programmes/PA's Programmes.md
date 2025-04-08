@@ -4,7 +4,12 @@ permalink: /our-programmes/programmes/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,16 +38,14 @@ years.
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/community-arts" rel="noopener noreferrer nofollow" target="_blank">Community Arts</a> 
-<br>Learn&nbsp;more&nbsp;about&nbsp;how&nbsp;art
-<br>&nbsp;inspires&nbsp;and&nbsp; brings
-<br>&nbsp;different&nbsp;communities together.
+<br>Learn about how art inspires and brings different communities together.
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/community-dialogue" rel="noopener noreferrer nofollow" target="_blank">Community Dialogue</a> 
 <br>PA acts as a vital link between the Government and the community through
-<br>&nbsp;community dialogues.
+community dialogues.
 <br>
 </p>
 </td>
@@ -67,29 +70,20 @@ years.
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/racial-harmony" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony</a> 
-<br>Enjoy programmes that
-<br>enhance understanding,
-<br>respect, mutual support&nbsp;and
-<br>interaction among residents
-<br>of different backgrounds.
-<br>
-</p>
+<br>Enjoy programmes that enhance understanding, respect, mutual support and
+interaction among residents of different backgrounds.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/family-life/" rel="noopener noreferrer nofollow" target="_blank">Family Life</a> 
-<br>Participate in our family programmes
-<br>to strengthen family bonds and
-<br>build a strong&nbsp;community.
+<br>Participate in our family programmes to strengthen family bonds and build
+a strong community.
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/community-sports/" rel="noopener noreferrer nofollow" target="_blank">Community Sports</a> 
-<br>Enjoy the thrills and spills of our exciting sports events
-<br>that not only bring people
-<br>&nbsp;together but also build character.
-<br>
-</p>
+<br>Enjoy the thrills and spills of our exciting sports events that not only
+bring people together but also build character.</p>
 </td>
 </tr>
 <tr>
@@ -112,13 +106,8 @@ years.
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/community-integration/" rel="noopener noreferrer nofollow" target="_blank">Community Integration</a> 
-<br>New to Singapore? Get
-<br>yourself integrated with your
-<br>new environment with our
-<br>various&nbsp;community
-<br>programmes
-<br>
-</p>
+<br>New to Singapore? Get yourself integrated with your new environment with
+our various community programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/cc-courses/courses/" rel="noopener noreferrer nofollow" target="_blank">CC Courses</a> 
@@ -137,11 +126,21 @@ years.
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-waterventure.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/main_passionwave.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -150,19 +149,16 @@ years.
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-passioncard.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/main_passioncard.png">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">Passion Wave</a> 
-<br>PA PAssion WaVe's outlets
-<br>offer a range of land and
-<br>water sports programmes
-<br>such as&nbsp;abseiling and power boating
-<br>
-</p>
+<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">assion Wave</a> 
+<br>PA PAssion WaVe's outlets offer a range of land and water sports programmes
+such as abseiling and power boating.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/emergency-preparedness/" rel="noopener noreferrer nofollow" target="_blank">Emergency Preparedness</a> 
@@ -175,7 +171,7 @@ years.
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/passion-card" rel="noopener noreferrer nofollow" target="_blank">Passion Card</a> 
 <br>The PAssion Card offers exclusive privileges to its members for PA's exciting
-<br>range of courses and activities.
+range of courses and activities.
 <br>
 </p>
 </td>
@@ -195,18 +191,15 @@ years.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://cms.isomer.gov.sg/our-programmes/youth" rel="noopener noreferrer nofollow" target="_blank"><u>Youth</u></a> 
+<br>Channel your youthful energy and help shape your dreams for a happy and
+vibrant Singapore through our programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/youth" rel="noopener noreferrer nofollow" target="_blank">Youth</a> 
-<br>Channel your youthful
-<br>energy and help shape your
-<br>dreams for a happy and
-<br>vibrant&nbsp;Singapore through
-<br>our programmes
+<p>
 <br>
 </p>
 </td>
