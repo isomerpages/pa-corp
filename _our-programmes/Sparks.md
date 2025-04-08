@@ -4,8 +4,10 @@ permalink: /our-programmes/pa-sparks/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sparks logo" src="/images/Our Programmes/Sparks_Logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_Logo.jpg">
 </div>
 <p><strong>"Sparks" is a community innovation movement - by the community, for the community</strong>.&nbsp;
 It reflects PA’s refreshed mission to spark and nurture community participation.
@@ -57,10 +59,10 @@ community interaction and co-creation.</p>
 </li>
 </ol>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group of people posing with large sized paper filled with community innovation ideas" src="/images/Our Programmes/Sparks_1.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_1.jpg">
+</div>
 <p>To achieve these objectives, PA has introduced three interconnected components
 under the “Sparks” umbrella:</p>
 <ol data-tight="true" class="tight">
@@ -122,13 +124,11 @@ hand, we invite you to connect with us!</p>
 <p><strong>Email <a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a> and let's ignite change, innovate together, and create lasting impact for the community!</strong>
 </p>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks_Row_1_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_Row_1_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks_Row_2_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_Row_2.jpg">
 </div>
 <p></p>
