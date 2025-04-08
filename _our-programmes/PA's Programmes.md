@@ -19,7 +19,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:220px" height="auto" width="100%" alt="art initiatives for the community" src="/images/Programmes/main-communityarts_edited.jpg">
+<img style="height:200px;width:300px" height="auto" width="100%" alt="art initiatives for the community" src="/images/Programmes/main-communityarts_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,12 +56,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:220px" height="auto" width="100%" src="/images/Programmes/main-familylife.jpg">
+<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-familylife.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/main_communitysports.jpg">
+<img style="height:200px;width:300px" height="auto" width="100%" alt="" src="/images/Programmes/main_communitysports.jpg">
 </div>
 <p></p>
 </td>
@@ -115,7 +115,7 @@ variant: markdown
 </tr><tr>	
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/main_passionwave.jpg">
+<img style="height:200px;width:300px" height="auto" width="100%" alt="" src="/images/Programmes/main_passionwave.jpg">
 </div>
 <p></p>
 </td>
@@ -126,7 +126,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/main_passioncard.png">
+<img style="height:200px;width:300px" height="auto" width="100%" alt="" src="/images/Programmes/main_passioncard.png">
 </div>
 <p></p>
 </td>
