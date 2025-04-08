@@ -72,8 +72,8 @@ a) Take care of your health and stay hydrated at all times;
 <br>
 b) Keep a look out on weather conditions and be ready to respond to higher temperatures and scorching heat in the days ahead; and
 <br>
-c) Exercise greater care and attention when organising activities, especially if they involve seniors and children. Look out for heat stress (e.g., giddiness, weakness, nausea) in vulnerable groups when they turn up for sports events and activities.
-
+c) Whether you're participating, volunteering, or supporting our events, always look out for one another, especially seniors and children. Be alert to signs of heat stress (dizziness, weakness, nausea) and inform event staff in charge if assistance is needed.
+<br>
 For detailed guidelines on exercising safely in hot weather, visit:
 <br>
 <a target="_blank" href="https://www.nea.gov.sg/">National Environment Agency</a>
