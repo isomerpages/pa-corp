@@ -113,7 +113,7 @@ our various community programmes.</p>
 <p><a href="/our-programmes/cc-courses/courses/" rel="noopener noreferrer nofollow" target="_blank">CC Courses</a> 
 <br>Hone your skills or acquire new ones.
 <br>From cooking to dance and sports,
-<br>&nbsp;there is a course for everyone.
+<br>there is a course for everyone.
 <br>
 </p>
 </td>
@@ -156,7 +156,7 @@ our various community programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">assion Wave</a> 
+<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">Passion Wave</a> 
 <br>PA PAssion WaVe's outlets offer a range of land and water sports programmes
 such as abseiling and power boating.</p>
 </td>
