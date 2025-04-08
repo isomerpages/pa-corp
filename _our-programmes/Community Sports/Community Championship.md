@@ -22,7 +22,7 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 
 <h4><p style="color: black;">Sports Competition (Team) Categories</p></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Comp_Format___Categories.png"></div>
+<img style="width: 100%" height="auto" width="100%" alt="" src=""></div>
 
 <h3>Competition Schedule</h3>
 <p>The Community Championship this year is set to begin from April to early July 2025. Keep an eye out for upcoming announcements, as we'll soon be revealing the exciting details for each sport competition. Stay tuned and get ready to join the action!</p>
