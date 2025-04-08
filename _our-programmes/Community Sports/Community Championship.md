@@ -52,11 +52,11 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <p>Ready, set, snap! People's Association and SAFRA will be back with our exciting photography contest. Capture the spirit of community sports through your lens! The content is open to all Singapore Citizens and Permanent Residents. Contest details and exciting prizes coming soon!</p>
 
 <h3>Let’s Stay Connected</h3>
-<p>Be part of Community Championship 2025! Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or at your nearest Community Club (CC).
+<p>Be part of Community Championship 2025! Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or visit the nearest Community Club (CC) in your neighbourhood and we'll guide you through the registration!
+	
+Follow us on <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> to receive instant updates from Community Sports Networks. Be the first to know about our latest sports events and community highlights.</p>
 
-Unsure which Cluster you belong to? Visit the nearest CC in your neighbourhood and we'll guide you through the registration!
-
-</p><h3>Sports Safety</h3>
+<p></p><h3>Sports Safety</h3>
 <p><b>Sports Safety Advisory</b>
 <br>
 Always stay informed about sports safety. Explore these online resources to learn about competition guidelines and best practices:
