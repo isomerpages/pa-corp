@@ -13,12 +13,12 @@ third_nav_title: Community Sports
 <h3>About Community Championship</h3>
 <p>Community Championship is a national movement to bring people together through community sports. Community Championship also aims to provide opportunities for residents of all backgrounds to bond together through friendly sports competition. The People's Association Community Sports Network (CSN) is proud to bring back the Community Championship this year.
 
-Whether it's a win or a loss, playing together knits us closer as a community. You can join an existing CSN team in your area or form your own group to participate at the Cluster level. The top teams will represent the Cluster at the SportSG Pesta Sukan, where you'll go toe-to-toe with champs from other Clusters.
+Whether it's a win or a loss, playing together knits us closer as a community. You can join an existing CSN team in your area or form your own group to participate at the Cluster level. The top teams will represent the Cluster at the Pesta Sukan Community Category, where you'll go toe-to-toe with champs from other Clusters.
 
 Get ready to showcase your skills, embrace the spirit of friendly competition, and experience the thrill of community sports!</p>
 
 <h3>Seven Sports Up for Your Challenge</h3>
-<p>Game On! Community Championship 2025 returns with an expanded lineup five returning favourites - Badminton, Basketball, Football, Pickleball, and Table Tennis. Plus TWO exciting new additions - Bowling and Floorball. Choose your sport and represent your Cluster.</p>
+<p>Game On! Community Championship 2025 returns with an expanded lineup of five returning favourites - Badminton, Basketball, Football, Pickleball, and Table Tennis, plus TWO exciting new additions - Bowling and Floorball. Choose your sport and represent your Cluster.</p>
 
 <h4><p style="color: black;">Sports Competition (Team) Categories</p></h4>
 <div class="isomer-image-wrapper">
@@ -49,13 +49,19 @@ Planning to participate? Everything you need to know about competition rules and
 <h3>Be Part of Community Championship 2025</h3>
 <p> Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or visit the nearest Community Club (CC) in your neighbourhood and we'll guide you through the registration! </p>
 
-Find your district and GRC below to register for upcoming competitions
-
+Find your district and GRC below to register for upcoming competitions:
+<br>
 <u><b>Central Singapore</b></u>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">Tanjong Pagar GRC &amp; Radin Mas SMC Community Bowling Championship 2025 [25 May 2025]</a>
+<br>
 
 <u><b>North East</b></u>
 
 <u><b>North West</b></u>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">Sembawang GRC 3V3 Floorball Competitions Community Championship 2025 [3 May 2025] </a>
+<br>
 
 <u><b>South East</b></u>
 
