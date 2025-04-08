@@ -54,7 +54,7 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Keat Hong CC, Ground Floor</strong>
+<p><strong>Tengah CC, Ground Floor</strong>
 </p>
 </td>
 </tr>
