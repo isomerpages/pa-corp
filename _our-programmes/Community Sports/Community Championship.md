@@ -16,7 +16,7 @@ third_nav_title: Community Sports
 
 Whether it's a win or a loss, playing together knits us closer as a community. You can join an existing CSN team in your area or form your own group to participate at the Cluster level. The top teams will represent the Cluster at the SportSG Pesta Sukan, where you'll go toe-to-toe with champs from other Clusters.
 
-Get ready to showcase your skills, embrace the spirit of friendly competition, and be part of this exciting community-building event!</p>
+Get ready to showcase your skills, embrace the spirit of friendly competition, and experience the thrill of community sports!</p>
 
 <h3>Seven Sports Up for Your Challenge!</h3>
 <p>Game On! Community Championship 2025 returns with an expanded lineup five returning favourites - Badminton, Basketball, Football, Pickleball, and Table Tennis. Plus two exciting new additions - Bowling and Floorball. Choose your sport and represent your Cluster.</p>
@@ -28,7 +28,7 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <h3>Competition Schedule</h3>
 <p>The Community Championship this year is set to begin from April to early July 2025. Keep an eye out for upcoming announcements, as we'll soon be revealing the exciting details for each sport competition. Stay tuned and get ready to join the action!</p>
 
-<p>Check out the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a> for the latest Rules and Regulations!</p>
+Planning to participate? Everything you need to know about competition rules is on <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.<p></p>
 
 <p>Need more information or resources? Look for the National Sports Associations
 (NSAs) here: 
