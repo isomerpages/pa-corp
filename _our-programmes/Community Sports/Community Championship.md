@@ -58,13 +58,25 @@ Unsure which Cluster you belong to? Visit the nearest CC in your neighbourhood a
 </p><h3>Sports Safety</h3>
 <p><b>Sports Safety Advisory</b>
 <br>
-Always stay informed about sports safety! Explore these online resources to learn about competition guidelines and best practices:
-<br>
-Unsure which Cluster you belong to? Visit the nearest CC in your neighbourhood and we'll guide you through the registration!
+Always stay informed about sports safety. Explore these online resources to learn about competition guidelines and best practices:
 <br>
 <a target="_blank" href="https://go.gov.sg/sportssafety">Risk Assessment in Contact Sports Competitions</a>
 <br>
 <a target="_blank" href="https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-useful-links/">Sport Singapore - Safety Resources &amp; Useful Links</a>
 </p>
+<p><b>Heatwave Advisory</b>
+<br>
+Stay safe during high temperatures, below are the general measures:
+ 
+a) Take care of your health and stay hydrated at all times;
+<br>
+b) Keep a look out on weather conditions and be ready to respond to higher temperatures and scorching heat in the days ahead; and
+<br>
+c) Exercise greater care and attention when organising activities, especially if they involve seniors and children. Look out for heat stress (e.g., giddiness, weakness, nausea) in vulnerable groups when they turn up for sports events and activities.
 
-<p></p>
+For detailed guidelines on exercising safely in hot weather, visit:
+<br>
+<a target="_blank" href="https://www.nea.gov.sg/">National Environment Agency</a>
+<br>
+<a target="_blank" href="https://www.weather.gov.sg/heat-stress">Meteorological Service Singapore</a>
+</p><p></p>
