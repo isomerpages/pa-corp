@@ -53,9 +53,9 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <b>Central Singapore</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">[18 May 2025] Tampines GRC Basketball Community Championship</a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-bowling-4-a-side-mixed-team-competition-83993704">[19 Apr 2025] Jalan Besar GRC Bowling Community Competition </a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">[18 May 2025] Tampines GRC Basketball Community Championship</a>
 
 <b>North East</b>
 <br>
@@ -69,6 +69,8 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 
 <b>South East</b>
+<br>
+*(To be updated)*
 
 <b>South West</b>
 <br>
