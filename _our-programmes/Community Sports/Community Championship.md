@@ -64,12 +64,14 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/tampines-grc-community-championship-3x3-men-s-basketball-20652768">[03 May 2025] Sembawang GRC Floorball Competitions Community Championship 2025</a>
 
 <b>North West</b>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">[03 May 2025] Sembawang GRC Floorball Competitions Community Championship 2025</a>
 <br>
 
 <b>South East</b>
 
 <b>South West</b>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/west-coast-grc-football-community-championship-2025-70565315">[11 May 2025] West Coast GRC Football Community Championship 2025</a>
 
 
