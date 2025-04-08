@@ -29,7 +29,7 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <h3>Competition Schedule</h3>
 <p>The Community Championship this year is set to begin from April to early July 2025. Keep an eye out for upcoming announcements, as we'll soon be revealing the exciting details for each sport competition. Stay tuned and get ready to join the action!</p>
 
-Planning to participate? Everything you need to know about competition rules is on <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.<p></p>
+Planning to participate? Everything you need to know about competition rules is on <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
 
 <p>Need more information or resources? Look for the National Sports Associations
 (NSAs) here: 
