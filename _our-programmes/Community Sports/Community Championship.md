@@ -6,7 +6,8 @@ description: community championships and competitions for various sports by
   People's Assocation
 third_nav_title: Community Sports
 ---
-<h2>Community Championship is Back in Action!</h2>
+<h2>Community Championship is
+<br>Back in Action!</h2>
 <p>From spectacular plays to victory celebrations, watch 
 <br><b>Community Championship 2024</b> highlights here:</p>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zalZAY8sQlY?si=9OZa0-qCK0t8jR_X?rel=0" height="315" width="560"></iframe>
@@ -18,7 +19,7 @@ Whether it's a win or a loss, playing together knits us closer as a community. Y
 
 Get ready to showcase your skills, embrace the spirit of friendly competition, and experience the thrill of community sports!</p>
 
-<h3>Seven Sports Up for Your Challenge!</h3>
+<h3>Seven Sports Up for Your Challenge</h3>
 <p>Game On! Community Championship 2025 returns with an expanded lineup five returning favourites - Badminton, Basketball, Football, Pickleball, and Table Tennis. Plus two exciting new additions - Bowling and Floorball. Choose your sport and represent your Cluster.</p>
 
 <h4><p style="color: black;">Sports Competition (Team) Categories</p></h4>
