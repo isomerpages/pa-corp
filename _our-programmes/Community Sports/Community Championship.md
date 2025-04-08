@@ -50,13 +50,21 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <h3>Community Championship Photography Contest</h3>
 <p>Ready, set, snap! People's Association and SAFRA will be back with our exciting photography contest. Capture the spirit of community sports through your lens! The content is open to all Singapore Citizens and Permanent Residents. Contest details and exciting prizes coming soon!</p>
 
-<p>Check out the <a href="/files/Safra_Community_Championship_2024_Photo_Contest_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules and Regulations</a> for
-more information!</p>
-<h3>Registration</h3>
-<p>Keen to take part in Community Championship? Sign up at OnePA or approach
-your nearest Community Club! (Check in next year!)</p>
-<p>Check out the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship" rel="noopener noreferrer nofollow" target="_blank">Pesta Sukan Community Championship page</a> for
-the latest Rules and Regulations!</p>
-<p>If you are not sure which Cluster you belong to, please approach your
-nearest Community Club for details!</p>
+<h3>Let’s Stay Connected</h3>
+<p>Be part of Community Championship 2025! Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or at your nearest Community Club (CC).
+
+Unsure which Cluster you belong to? Visit the nearest CC in your neighbourhood and we'll guide you through the registration!
+
+</p><h3>Sports Safety</h3>
+<p><b>Sports Safety Advisory</b>
+<br>
+Always stay informed about sports safety! Explore these online resources to learn about competition guidelines and best practices:
+<br>
+Unsure which Cluster you belong to? Visit the nearest CC in your neighbourhood and we'll guide you through the registration!
+<br>
+<a target="_blank" href="https://go.gov.sg/sportssafety">Risk Assessment in Contact Sports Competitions</a>
+<br>
+<a target="_blank" href="https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-useful-links/">Sport Singapore - Safety Resources &amp; Useful Links</a>
+</p>
+
 <p></p>
