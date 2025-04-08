@@ -7,7 +7,8 @@ description: community championships and competitions for various sports by
 third_nav_title: Community Sports
 ---
 <h2>Community Championship is making a comeback!</h2>
-<p>From spectacular plays to victory celebrations, watch <b>Community Championship 2024</b> highlights here:</p>
+<p>From spectacular plays to victory celebrations, watch 
+<br><b>Community Championship 2024</b> highlights here:</p>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zalZAY8sQlY?si=9OZa0-qCK0t8jR_X?rel=0" height="315" width="560"></iframe>
 
 <h3>About Community Championship</h3>
@@ -27,24 +28,24 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <h3>Competition Schedule</h3>
 <p>The Community Championship this year is set to begin from April to early July 2025. Keep an eye out for upcoming announcements, as we'll soon be revealing the exciting details for each sport competition. Stay tuned and get ready to join the action!</p>
 
-<p>Check out the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship" rel="noopener noreferrer nofollow" target="_blank">Pesta Sukan Community Championship page</a> for the latest Rules and Regulations!</p>
+<p>Check out the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a> for the latest Rules and Regulations!</p>
 
 <p>Need more information or resources? Look for the National Sports Associations
 (NSAs) here: 
 <br>
-<a href="https://bas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Basketball Association Singapore</a>
+<a href="https://bas.org.sg/">Basketball Association Singapore</a>
 <br>
-<a href="https://www.fas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Football Association of Singapore</a>
+<a href="https://www.fas.org.sg/">Football Association of Singapore</a>
 <br>
-<a href="https://singaporebadminton.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Badminton Association</a>
+<a href="https://singaporebadminton.org.sg/">Singapore Badminton Association</a>
 <br>
-<a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Bowling Federation</a>
+<a href="https://singaporebowling.org.sg/">Singapore Bowling Federation</a>
 <br>
-<a href="https://www.revolutionise.sg/sgfloorball" rel="noopener noreferrer nofollow" target="_blank">Singapore Floorball Association</a>
+<a href="https://www.revolutionise.sg/sgfloorball">Singapore Floorball Association</a>
 <br>
-<a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Pickleball Association</a>
+<a href="https://www.singaporepickleball.com.sg/">Singapore Pickleball Association</a>
 <br>
-<a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Table Tennis Association</a>
+<a href="https://www.stta.org.sg/">Singapore Table Tennis Association</a>
 </p>
 
 <h3>Community Championship Photography Contest</h3>
