@@ -67,16 +67,16 @@ Always stay informed about sports safety. Explore these online resources to lear
 <p><b>Heatwave Advisory</b>
 <br>
 Stay safe during high temperatures, below are the general measures:
- 
-a) Take care of your health and stay hydrated at all times;
+<br>
+a) Take care of your health and stay hydrated at all times; 
 <br>
 b) Keep a look out on weather conditions and be ready to respond to higher temperatures and scorching heat in the days ahead; and
 <br>
 c) Whether you're participating, volunteering, or supporting our events, always look out for one another, especially seniors and children. Be alert to signs of heat stress (dizziness, weakness, nausea) and inform event staff in charge if assistance is needed.
-<br>
+
 For detailed guidelines on exercising safely in hot weather, visit:
 <br>
 <a target="_blank" href="https://www.nea.gov.sg/">National Environment Agency</a>
 <br>
 <a target="_blank" href="https://www.weather.gov.sg/heat-stress">Meteorological Service Singapore</a>
-</p><p></p>
+</p>
