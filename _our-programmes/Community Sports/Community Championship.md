@@ -48,7 +48,7 @@ Planning to participate? Everything you need to know about competition rules is 
 <a href="https://www.stta.org.sg/">Singapore Table Tennis Association</a>
 </p>
 
-<h3> Be part of Community Championship 2025! </h3>
+<h3> Be Part of Community Championship 2025! </h3>
 <p> Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or visit the nearest Community Club (CC) in your neighbourhood and we'll guide you through the registration! </p>
 
 <h3>Community Championship Photography Contest</h3>
