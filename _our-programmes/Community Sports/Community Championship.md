@@ -6,10 +6,8 @@ description: community championships and competitions for various sports by
   People's Assocation
 third_nav_title: Community Sports
 ---
-<h2>Community Championship is
-<br>Back in Action!</h2>
-<p>From spectacular plays to victory celebrations, watch 
-<br><b>Community Championship 2024</b> highlights here:</p>
+<h2>Community Championship is Back!</h2>
+<p>From spectacular plays to victory celebrations, watch <b>Community Championship 2024</b> highlights:</p>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zalZAY8sQlY?si=9OZa0-qCK0t8jR_X?rel=0" height="480" width="854"></iframe>
 
 <h3>About Community Championship</h3>
@@ -48,8 +46,20 @@ Planning to participate? Everything you need to know about competition rules is 
 <a href="https://www.stta.org.sg/">Singapore Table Tennis Association</a>
 </p>
 
-<h3> Be Part of Community Championship 2025! </h3>
+<h3>Be Part of Community Championship 2025</h3>
 <p> Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or visit the nearest Community Club (CC) in your neighbourhood and we'll guide you through the registration! </p>
+
+Find your district and GRC below to register for upcoming competitions
+
+<u><b>Central Singapore</b></u>
+
+<u><b>North East</b></u>
+
+<u><b>North West</b></u>
+
+<u><b>South East</b></u>
+
+<u><b>South West</b></u>
 
 <h3>Community Championship Photography Contest</h3>
 <p>Ready, set, snap! People's Association and SAFRA will be back with our exciting photography contest. Capture the spirit of community sports through your lens! The content is open to all Singapore Citizens and Permanent Residents. Contest details and exciting prizes coming soon!</p>
