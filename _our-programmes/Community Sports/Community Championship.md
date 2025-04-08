@@ -55,13 +55,13 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-bowling-4-a-side-mixed-team-competition-83993704">[19 Apr 2025] Jalan Besar GRC Bowling Community Competition </a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">[18 May 2025] Tampines GRC Basketball Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">[25 May 2025] Tanjong Pagar GRC &amp; Radin Mas SMC Bowling Community Championship</a>
 
 <b>North East</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-bowling-tournament-2025-27-april-2025-61065934">[27 Apr 2025] Sengkang GRC Bowling Community Competition 2025</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/tampines-grc-community-championship-3x3-men-s-basketball-20652768">[03 May 2025] Sembawang GRC Floorball Competitions Community Championship 2025</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tampines-grc-community-championship-3x3-men-s-basketball-20652768">[18 May 2025] Sembawang GRC Floorball Competitions Community Championship 2025</a>
 
 <b>North West</b>
 <br>
@@ -75,7 +75,6 @@ Find your district and GRC below to register for upcoming competitions:
 <b>South West</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/west-coast-grc-football-community-championship-2025-70565315">[11 May 2025] West Coast GRC Football Community Championship 2025</a>
-
 
 <h3>Community Championship Photography Contest</h3>
 <p>Ready, set, snap! People's Association and SAFRA will be back with our exciting photography contest. Capture the spirit of community sports through your lens! The content is open to all Singapore Citizens and Permanent Residents. Contest details and exciting prizes coming soon!</p>
@@ -103,9 +102,9 @@ For detailed guidelines on exercising safely in hot weather, visit:
 <a target="_blank" href="https://www.nea.gov.sg/">National Environment Agency</a>
 <br>
 <a target="_blank" href="https://www.weather.gov.sg/heat-stress">Meteorological Service Singapore</a>
-</p>
 
-<h3>Let’s Stay Connected</h3>
+</p><h3>Let’s Stay Connected</h3>
 <p>
-	
-Follow us on <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> to receive instant updates from Community Sports Networks. Be the first to know about our latest sports events and community highlights.</p>
+Follow us on <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or 
+<a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> 
+to receive updates from Community Sports Networks and be the first to know about our latest sports events and community highlights.</p>
