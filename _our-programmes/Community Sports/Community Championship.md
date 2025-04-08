@@ -31,8 +31,7 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 
 Planning to participate? Everything you need to know about competition rules is on <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
 
-<p>Need more information or resources? Look for the National Sports Associations
-(NSAs) here: 
+<p>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
 <a href="https://bas.org.sg/">Basketball Association Singapore</a>
 <br>
