@@ -63,8 +63,9 @@ community dialogues.
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" alt="community sports events for the family" src="/images/Programmes/main-communitysports.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/main_communitysports.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
