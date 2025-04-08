@@ -111,9 +111,8 @@ experienced tech mentors, and hands-on workshops to refine their ideas
 into prototypes, which will be showcased at the hackathon grand finale.</p>
 </li>
 </ol>
-<p><u>Registration for the Community Hackathon starts from 22 March 2025 and will close on 6 April 2025</u>.
-Interested participants can find out more and register for the hackathon
-<a href="https://www.go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Registration for the Community Hackathon has closed. You may find out
+more about the Community Hackathon journey <a href="https://www.go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4><strong>Join the Sparks community innovation movement!</strong></h4>
 <p>Ready to spark change? Join us in this community innovation movement and
@@ -124,9 +123,7 @@ hand, we invite you to connect with us!</p>
 </p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks_Row_1_2.jpg">
-</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks_Row_2_2.jpg">
