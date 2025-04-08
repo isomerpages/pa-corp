@@ -54,8 +54,9 @@ Planning to participate? Everything you need to know about competition rules is 
 <h3>Community Championship Photography Contest</h3>
 <p>Ready, set, snap! People's Association and SAFRA will be back with our exciting photography contest. Capture the spirit of community sports through your lens! The content is open to all Singapore Citizens and Permanent Residents. Contest details and exciting prizes coming soon!</p>
 
-<p></p><h3>Sports Safety</h3>
-<p><b>Sports Safety Advisory</b>
+<h3>Sports Safety</h3>
+<p>
+<b>Sports Safety Advisory</b>
 <br>
 Always stay informed about sports safety. Explore these online resources to learn about competition guidelines and best practices:
 <br>
@@ -81,5 +82,6 @@ For detailed guidelines on exercising safely in hot weather, visit:
 </p>
 
 <h3>Let’s Stay Connected</h3>
+<p>
 	
-Follow us on <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> to receive instant updates from Community Sports Networks. Be the first to know about our latest sports events and community highlights.<p></p>
+Follow us on <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> to receive instant updates from Community Sports Networks. Be the first to know about our latest sports events and community highlights.</p>
