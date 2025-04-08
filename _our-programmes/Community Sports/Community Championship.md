@@ -50,22 +50,21 @@ Planning to participate? Everything you need to know about competition rules and
 <p> Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or visit the nearest Community Club (CC) in your neighbourhood and we'll guide you through the registration! </p>
 
 Find your district and GRC below to register for upcoming competitions:
-<br>
-<u><b>Central Singapore</b></u>
+
+<b>Central Singapore</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">Tanjong Pagar GRC &amp; Radin Mas SMC Community Bowling Championship 2025 [25 May 2025]</a>
 <br>
 
-<u><b>North East</b></u>
+<b>North East</b>
 
-<u><b>North West</b></u>
+<b>North West</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">Sembawang GRC 3V3 Floorball Competitions Community Championship 2025 [3 May 2025] </a>
 <br>
 
-<u><b>South East</b></u>
-
-<u><b>South West</b></u>
+<b>South East</b>
+<b>South West</b>
 
 <h3>Community Championship Photography Contest</h3>
 <p>Ready, set, snap! People's Association and SAFRA will be back with our exciting photography contest. Capture the spirit of community sports through your lens! The content is open to all Singapore Citizens and Permanent Residents. Contest details and exciting prizes coming soon!</p>
@@ -75,8 +74,6 @@ Find your district and GRC below to register for upcoming competitions:
 <b>Sports Safety Advisory</b>
 <br>
 Always stay informed about sports safety. Explore these online resources to learn about competition guidelines and best practices:
-<br>
-<a target="_blank" href="https://go.gov.sg/sportssafety">Risk Assessment in Contact Sports Competitions</a>
 <br>
 <a target="_blank" href="https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-useful-links/">Sport Singapore - Safety Resources &amp; Useful Links</a>
 </p>
