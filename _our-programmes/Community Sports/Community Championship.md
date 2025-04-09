@@ -61,14 +61,14 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">[25 May 2025] Tanjong Pagar GRC Bowling Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-table-tennis-tournament-2025-24830334">01 Jun 2025] Bishan-Toa Payoh GRC Table Tennis Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-table-tennis-tournament-2025-24830334">[01 Jun 2025] Bishan-Toa Payoh GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/2025-jalan-besar-grc-badminton-competition-43597929">[28 Jun 2025] Jalan Besar GRC Badminton Community Competition</a>
 <br>
 
 <b>North East</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-bowling-tournament-2025-27-april-2025-61065934">[27 Apr 2025] Sengkang GRC Bowling Community Competition 2025</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-bowling-tournament-2025-27-april-2025-61065934">[27 Apr 2025] Sengkang GRC Bowling Community Competition</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tampines-grc-community-championship-3x3-men-s-basketball-20652768">[18 May 2025] Tampines GRC Basketball Community Championship</a>
 <br>
@@ -96,7 +96,7 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/wcgrc-pioneer-smc-bowling-competition-community-championship-2025-59651138">[04 May 2025] West Coast GRC Bowling Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/west-coast-grc-football-community-championship-2025-70565315">[11 May 2025] West Coast GRC Football Community Championship 2025</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/west-coast-grc-football-community-championship-2025-70565315">[11 May 2025] West Coast GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/24-05-2025-chua-chu-kang-cluster-futsal-community-championship-2025-11049331">[24 May 2025] Chua Chu Kang GRC Football Community Championship</a>
 <br>
