@@ -2,6 +2,7 @@
 title: Active Ageing
 permalink: /our-programmes/active-ageing/
 description: ""
+variant: markdown
 ---
 #### Senior Citizens' Executive Committees
 
@@ -11,7 +12,7 @@ People’s Association (PA) Senior Citizens’ Executive Committees (SCECs) is t
 
 #### Live Well, Age Well Programme
 
-Jointly offered by the People’s Association and Health Promotion Board, the Live Well, Age Well programme aims to empower adults aged 50 and above to help them remain mentally, physically and socially active. The programme offers a series of exciting activities across six well domains:
+Jointly offered by the People’s Association and Health Promotion Board, the Live Well, Age Well programme aims to empower adults aged 50 and above to help them remain mentally, physically and socially active. The programme offers a series of exciting activities across six wellness domains:
 
 
 *   **Live Active** : To engage seniors in regular group exercises, focusing on strength, balance and flexibility to support seniors in meeting their recommended physical activity levels<br>

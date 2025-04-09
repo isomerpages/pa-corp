@@ -84,7 +84,7 @@ air, water, and land while staying up to date with the latest in sports!
 Keep your body and mind&nbsp;fit and fabulous through the ‘Sports and Fitness’
 courses at our CCs now.</p>
 <p>
-<br>Follow PA Courses social media for more updates:
+<br>Follow PA Courses on our social media channels for more updates:
 <br><a href="https://www.facebook.com/pacourses" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
 <br><a href="https://www.instagram.com/pa.courses" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 <br><a href="https://www.youtube.com/channel/UCEW_9QdnGjn_8_xi8yh7PXA" rel="noopener noreferrer nofollow" target="_blank">Youtube</a>

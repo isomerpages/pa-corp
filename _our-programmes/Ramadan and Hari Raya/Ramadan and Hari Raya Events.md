@@ -196,6 +196,22 @@ Ave 7 &amp; 6
 <p>8 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>3pm - 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/share/v/18e4QgQQKG/" rel="noopener nofollow" target="_blank">Porridge &amp; Meal distribution in Tampines West</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines West CC</p>
+<p>5, Tampines Avenue 3, S(529705)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3.30pm – 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,6 +334,22 @@ Ave 7 &amp; 6
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 364 Linkhouse, Sembawang Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30pm - 8.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/share/p/18eACJPFRe/" rel="noopener nofollow" target="_blank">Tampines West Buka Puasa (Mass Break of Fast)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines West CC</p>
+<p>5, Tampines Avenue 3, S(529705)</p>
 </td>
 </tr>
 <tr>
@@ -460,6 +492,22 @@ Ave 7 &amp; 6
 </td>
 <td rowspan="1" colspan="1">
 <p>Radin Mas CC, L1 MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/share/p/15u8qFmne1/" rel="noopener nofollow" target="_blank">Ramadan in Tampines West Porridge &amp; Meal distribution</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Palmspring RN</p>
+<p>Blk 924, Tampines St 91</p>
 </td>
 </tr>
 <tr>
