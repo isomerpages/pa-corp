@@ -338,6 +338,22 @@ Ave 7 &amp; 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30pm - 8.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/share/p/18eACJPFRe/" rel="noopener nofollow" target="_blank">Tampines West Buka Puasa (Mass Break of Fast)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines West CC</p>
+<p>5, Tampines Avenue 3, S(529705)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>15 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
