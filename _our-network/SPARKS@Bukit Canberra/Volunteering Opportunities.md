@@ -1,6 +1,6 @@
 ---
 title: Volunteering Opportunities
-permalink: /our-programmes/sparks-bukit-canberra/volunteering-opportunities/
+permalink: /our-network/sparks-bukit-canberra/volunteering-opportunities/
 description: ""
 third_nav_title: SPARKS@Bukit Canberra
 variant: markdown

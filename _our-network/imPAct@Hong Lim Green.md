@@ -1,6 +1,6 @@
 ---
 title: imPAct@Hong Lim Green
-permalink: /our-programmes/impact-hong-lim-green/
+permalink: /our-network/impact-hong-lim-green/
 description: ""
 variant: markdown
 ---
