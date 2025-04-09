@@ -50,7 +50,7 @@ Planning to participate? Everything you need to know about competition rules and
 <p> Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or visit the nearest Community Club (CC) in your neighbourhood and we'll guide you through the registration! </p>
 
 Find your district and GRC below to register for upcoming competitions:
-<br>
+<br><br>
 <b>Central Singapore</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-bowling-4-a-side-mixed-team-competition-83993704">[19 Apr 2025] Jalan Besar GRC Bowling Community Competition </a>
