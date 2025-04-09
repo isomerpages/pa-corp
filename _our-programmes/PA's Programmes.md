@@ -5,16 +5,16 @@ description: ""
 variant: markdown
 ---
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+    <colgroup>
+        <col style="width: 33.33%;">
+        <col style="width: 33.33%;">
+        <col style="width: 33.33%;">
+    </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" alt="active ageing activities for seniors" src="/images/Programmes/main-activeageing_edited.jpg">
+<img style="height: 200px; width: 100%;" height="auto" width="100%" alt="active ageing activities for seniors" src="/images/Programmes/main-activeageing_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
