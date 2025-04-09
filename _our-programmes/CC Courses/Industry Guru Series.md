@@ -3,6 +3,7 @@ title: Industry Guru Series
 permalink: /our-programmes/cc-courses/industry-guru-series/
 description: ""
 third_nav_title: CC Courses
+variant: markdown
 ---
 The People’s Association Industry Guru Series is a customised professional networking programme. It is developed to inspire youths and working professionals to network, exchange ideas, and gain insights through sharing sessions by esteemed speakers and industry leaders. 
 
@@ -20,7 +21,7 @@ Delve further into topics of interest with Industry Guru’s T-Connect interest 
 
 #### About Learning Journey 
 
-Come face-to-face with business experts and gain understanding on the inner workings of a various industries. Explore what makes specific industries tick with a 3-hour site tour, including a 2-hour sharing session by industry insiders.
+Come face-to-face with business experts and gain understanding on the inner workings of various industries. Explore what makes specific industries tick with a 3-hour site tour, including a 2-hour sharing session by industry insiders.
 
 ### Brochures
 **Industry Guru Series - Deep Dive Learning Courses (Coming Soon!)**
