@@ -4,7 +4,13 @@ permalink: /our-programmes/community-integration/
 description: ""
 variant: tiptap
 ---
-<p>PA through its Grassroots Organisations (GROs) and Integration and Naturalisation
+<h3>Community Integration</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Boon_Lay_Zone_E__H__R_and_Meadow_Grove_Residents__Networks_Chit_Chat_Session_2024.jpg">
+</div>
+<p><em>Promoting social norms and fostering neighbourliness at Boon Lay Zone E, H, R and Meadow-Grove Residents' Networks Chit Chat Session 2024.</em>
+<br>
+<br>PA through its Grassroots Organisations (GROs) and Integration and Naturalisation
 Champions (INCs), help new citizens settle in the community, providing
 platforms for them to interact and bond with the local residents. Through
 their participation in various integration-centric programmes and GRO programmes/activities,
