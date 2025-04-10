@@ -139,7 +139,7 @@ community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">Passion Wave</a> 
+<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave</a> 
 <br>PA PAssion WaVe's outlets offer a range of land and water sports programmes
 such as abseiling and power boating.</p>
 </td>
@@ -150,7 +150,7 @@ such as abseiling and power boating.</p>
 emergencies.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/passion-card" rel="noopener noreferrer nofollow" target="_blank">Passion Card</a> 
+<p><a href="/our-programmes/passion-card" rel="noopener noreferrer nofollow" target="_blank">PAssion Card</a> 
 <br>The PAssion Card offers exclusive privileges to its members for PA's exciting
 range of courses and activities.
 <br>
