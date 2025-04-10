@@ -86,7 +86,7 @@ programmes includee<em>:</em>
 </ul>
 <h3>‘Your Neighbourly Welcome Guide’</h3>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/Guide.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Your_Neighbourly_Welcome_Guide.png">
 </div>
 <p>An initiative of the PA, 'Your Neighbourly Welcome Guide' contains colourful
 anecdotes and well-kept secrets from residents and volunteers. These unique
