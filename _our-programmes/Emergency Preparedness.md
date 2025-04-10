@@ -23,9 +23,9 @@ return to normalcy as quickly as possible.</p>
 </div>
 <p>The PA Community Emergency Response Team (CERT) was established in 2004
 to allow residents to volunteer and actively participate in keeping their
-community safe and secure. As PA CERT commemorates its 20th Anniversary
-this year, a series of local commemorative activities and CERT challenges
-has been launched across Singapore.</p>
+community safe and secure. In 2024, PA CERT commemorated its 20th anniversary
+through a series of local commemorative activities and CERT challenges
+across Singapore.</p>
 <h3>Emergency Preparedness Programme</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Emergency Preparedness/1__Emergency_Preparedness_Programme.jpg">
