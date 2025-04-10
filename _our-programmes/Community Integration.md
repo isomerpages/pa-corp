@@ -8,9 +8,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Boon_Lay_Zone_E__H__R_and_Meadow_Grove_Residents__Networks_Chit_Chat_Session_2024.jpg">
 </div>
-<p><em>Promoting social norms and fostering neighbourliness at Boon Lay Zone E, H, R and Meadow-Grove Residents' Networks Chit Chat Session 2024.</em>
-<br>
-<br>PA through its Grassroots Organisations (GROs) and Integration and Naturalisation
+<br><em>Promoting social norms and fostering neighbourliness at Boon Lay Zone E, H, R and Meadow-Grove Residents' Networks Chit Chat Session 2024.</em>
+<p>PA through its Grassroots Organisations (GROs) and Integration and Naturalisation
 Champions (INCs), help new citizens settle in the community, providing
 platforms for them to interact and bond with the local residents. Through
 their participation in various integration-centric programmes and GRO programmes/activities,
@@ -20,10 +19,8 @@ their neighbours and other residents in the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Sengkang_West_One_Community_Fiesta_2024_v2.png">
 </div>
-<p><em>Sengkang West INC and GROs organised One Community Fiesta 2024 to bring residents from diverse communities together.</em>
-</p>
-<p>
-<br>INCs serve as catalysts in driving integration efforts within their local
+<br><em>Sengkang West INC and GROs organised One Community Fiesta 2024 to bring residents from diverse communities together.</em>
+<p>INCs serve as catalysts in driving integration efforts within their local
 communities. These dedicated individuals take the initiative to develop
 and implement programmes designed to welcome and integrate new citizens.
 By leveraging their understanding of both local culture and the challenges
@@ -33,8 +30,8 @@ and fostering a sense of belonging.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Mountbatten_SMC_One_Community_Fiesta_2024.jpg">
 </div>
-<p><em>Cultural appreciation at Mountbatten SMC One Community Fiesta 2024.<br><br></em>To
-achieve the key objective of PA’s integration efforts to widen our outreach
+<br><em>Cultural appreciation at Mountbatten SMC One Community Fiesta 2024.</em>
+<p>To achieve the key objective of PA’s integration efforts to widen our outreach
 and deepen engagement with new citizens, PA has adopted the following three
 key strategic approaches:</p>
 <ul data-tight="true" class="tight">
@@ -55,15 +52,12 @@ media.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Pasir_Ris___Punggol_GRC_and_Punggol_West_SMC_One_Community_Fiesta_2024.jpg">
 </div>
-<p><em>Creating fun lived experiences through sing and dance at Pasir Ris – Punggol GRC and Punggol West SMC One Community Fiesta 2024</em>
-</p>
-<p></p>
+<br><em>Creating fun lived experiences through sing and dance at Pasir Ris – Punggol GRC and Punggol West SMC One Community Fiesta 2024</em>
 <p>PA organises a variety of community programmes to welcome and integrate
 newcomers in the neighbourhood. Through these activities, residents share
 collective experiences with their fellow neighbours, engage with each other
 and build a sense of belonging to their residing community. Some of these
-programmes includee<em>:</em>
-</p>
+programmes include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chit Chat Sessions</p>
@@ -163,7 +157,3 @@ neighbourhood.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
