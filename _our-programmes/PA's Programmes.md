@@ -101,7 +101,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/community-integration/" rel="noopener noreferrer nofollow" target="_blank">Community Integration</a> 
-<br>New to Singapore? Get yourself integrated with your new environment with our various community programmes.</p>
+<br>Get yourself integrated with your new environment with our various community programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/cc-courses/courses/" rel="noopener noreferrer nofollow" target="_blank">CC Courses</a> 
@@ -119,7 +119,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" src="/images/Programmes/main-emergencypreparedness_edited.jpg">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main_emergencypreparedness.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
