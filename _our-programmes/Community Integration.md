@@ -31,11 +31,12 @@ faced by newcomers, INCs play a pivotal role in bridging cultural gaps
 and fostering a sense of belonging.</p>
 <h3>Integration Strategies</h3>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/CI3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Mountbatten_SMC_One_Community_Fiesta_2024.jpg">
 </div>
-<p>To achieve the key objective of PA’s integration efforts to widen our
-outreach and deepen engagement with new citizens, PA has adopted the following
-three key strategic approaches:</p>
+<p><em>Cultural appreciation at Mountbatten SMC One Community Fiesta 2024.<br><br></em>To
+achieve the key objective of PA’s integration efforts to widen our outreach
+and deepen engagement with new citizens, PA has adopted the following three
+key strategic approaches:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Intensifying local integration efforts through the Residents' Committees
@@ -51,7 +52,10 @@ media.</p>
 </li>
 </ul>
 <h3>Integration Programmes</h3>
-<p>PA organises a variety of community programmes to welcome and integrate
+<p>
+<br>
+<br>
+<br>PA organises a variety of community programmes to welcome and integrate
 newcomers in the neighbourhood. Through these activities, residents share
 collective experiences with their fellow neighbours, engage with each other
 and build a sense of belonging to their residing community. Some of these
