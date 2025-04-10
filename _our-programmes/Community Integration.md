@@ -2,8 +2,13 @@
 title: Community Integration
 permalink: /our-programmes/community-integration/
 description: ""
-variant: tiptap
+variant: markdown
 ---
+<h3>Community Integration</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Boon_Lay_Zone_E__H__R_and_Meadow_Grove_Residents__Networks_Chit_Chat_Session_2024.jpg">
+</div>
+<br><em>Promoting social norms and fostering neighbourliness at Boon Lay Zone E, H, R and Meadow-Grove Residents' Networks Chit Chat Session 2024.</em>
 <p>PA through its Grassroots Organisations (GROs) and Integration and Naturalisation
 Champions (INCs), help new citizens settle in the community, providing
 platforms for them to interact and bond with the local residents. Through
@@ -12,21 +17,23 @@ the new immigrants can make friends and develop mutual understanding with
 their neighbours and other residents in the community.</p>
 <h3>Integration and Naturalisation Champions</h3>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/CI2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Sengkang_West_One_Community_Fiesta_2024_v2.png">
 </div>
-<p>Integration and Naturalisation Champions (INCs) serve as catalysts in
-driving integration efforts within their local communities. These dedicated
-individuals take the initiative to develop and implement programmes designed
-to welcome and integrate new citizens. By leveraging their understanding
-of both local culture and the challenges faced by newcomers, INCs play
-a pivotal role in bridging cultural gaps and fostering a sense of belonging.</p>
+<br><em>Sengkang West INC and GROs organised One Community Fiesta 2024 to bring residents from diverse communities together.</em>
+<p>INCs serve as catalysts in driving integration efforts within their local
+communities. These dedicated individuals take the initiative to develop
+and implement programmes designed to welcome and integrate new citizens.
+By leveraging their understanding of both local culture and the challenges
+faced by newcomers, INCs play a pivotal role in bridging cultural gaps
+and fostering a sense of belonging.</p>
 <h3>Integration Strategies</h3>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/CI3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Mountbatten_SMC_One_Community_Fiesta_2024.jpg">
 </div>
-<p>To achieve the key objective of PA’s integration efforts to widen our
-outreach and deepen engagement with new citizens, PA has adopted the following
-three key strategic approaches:</p>
+<br><em>Cultural appreciation at Mountbatten SMC One Community Fiesta 2024.</em>
+<p>To achieve the key objective of PA’s integration efforts to widen our outreach
+and deepen engagement with new citizens, PA has adopted the following three
+key strategic approaches:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Intensifying local integration efforts through the Residents' Committees
@@ -42,39 +49,43 @@ media.</p>
 </li>
 </ul>
 <h3>Integration Programmes</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Pasir_Ris___Punggol_GRC_and_Punggol_West_SMC_One_Community_Fiesta_2024.jpg">
+</div>
+<br><em>Creating fun lived experiences through sing and dance at Pasir Ris – Punggol GRC and Punggol West SMC One Community Fiesta 2024</em>
+<p>PA organises a variety of community programmes to welcome and integrate
+newcomers in the neighbourhood. Through these activities, residents share
+collective experiences with their fellow neighbours, engage with each other
+and build a sense of belonging to their residing community. Some of these
+programmes include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>House Visits and Welcome/Floor Parties</p>
+<p>Chit Chat Sessions</p>
 </li>
 <li>
-<p>INC Activities</p>
+<p>Community Volunteering</p>
 </li>
 <li>
-<p>Integration of New Immigrants through Interest Groups</p>
+<p>Festive Celebrations</p>
 </li>
 <li>
-<p>Community Learning Journey</p>
-</li>
-<li>
-<p>Singapore Experiential Visit and Community Sharing Session (part of the
-Singapore Citizenship Journey for new citizens)</p>
-</li>
-<li>
-<p>Citizenship Ceremony</p>
+<p>House Visits</p>
 </li>
 <li>
 <p>One Community Fiesta</p>
 </li>
+<li>
+<p>Visits to Iconic Places in Singapore</p>
+</li>
 </ul>
-<p></p>
 <h3>‘Your Neighbourly Welcome Guide’</h3>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/Guide.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Your_Neighbourly_Welcome_Guide.png">
 </div>
-<p>An initiative of the People’s Association, “Your Neighbourly Welcome Guide”
-contains colourful anecdotes and well-kept secrets from residents and volunteers.
-These unique stories of places, activities and experiences are happening
-right in your neighbourhood.</p>
+<p>An initiative of the PA, 'Your Neighbourly Welcome Guide' contains colourful
+anecdotes and well-kept secrets from residents and volunteers. These unique
+stories of places, activities and experiences are happening right in your
+neighbourhood.</p>
 <p>Discover the gems of your neighbourhood with the guidebook!</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -146,4 +157,3 @@ right in your neighbourhood.</p>
 </p>
 </li>
 </ul>
-<p></p>

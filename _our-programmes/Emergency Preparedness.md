@@ -28,7 +28,7 @@ this year, a series of local commemorative activities and CERT challenges
 has been launched across Singapore.</p>
 <h3>Emergency Preparedness Programme</h3>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" alt="volunteers rendering first aid" src="/images/Programmes/Emergency%20Preparedness/Emergency.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Emergency Preparedness/1__Emergency_Preparedness_Programme.jpg">
 </div>
 <p>Take part in EP programmes organised by our Grassroots Organisations to
 prepare us to respond and render help promptly during emergencies. This
@@ -37,7 +37,6 @@ participate in Community Resilience (CR) Days, learning useful skills such
 as Cardio-Pulmonary Resuscitation (CPR) + Automated External Defibrillator
 (AED) and other EP-related courses.</p>
 <h3>Community Lifesaving Trainings</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPR_AED.jpg">
 </div>

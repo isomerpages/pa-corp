@@ -1,6 +1,6 @@
 ---
 title: Grassroots Advisers
-permalink: /grassroots-advisers/
+permalink: /our-network/grassroots-organisations/grassroots-advisers/
 variant: tiptap
 description: ""
 third_nav_title: Grassroots Organisations
