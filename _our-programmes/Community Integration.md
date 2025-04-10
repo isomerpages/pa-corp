@@ -18,9 +18,12 @@ the new immigrants can make friends and develop mutual understanding with
 their neighbours and other residents in the community.</p>
 <h3>Integration and Naturalisation Champions</h3>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/CI2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Sengkang_West_One_Community_Fiesta_2024_v2.png">
 </div>
-<p>INCs serve as catalysts in driving integration efforts within their local
+<p><em>Sengkang West INC and GROs organised One Community Fiesta 2024 to bring residents from diverse communities together.</em>
+</p>
+<p>
+<br>INCs serve as catalysts in driving integration efforts within their local
 communities. These dedicated individuals take the initiative to develop
 and implement programmes designed to welcome and integrate new citizens.
 By leveraging their understanding of both local culture and the challenges
