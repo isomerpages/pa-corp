@@ -14,17 +14,17 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height: 200px; width: 100%;" height="auto" width="100%" alt="active ageing activities for seniors" src="/images/Programmes/main-activeageing_edited.jpg">
+<img style="width: 100%; height: auto;" alt="active ageing activities for seniors" src="/images/Programmes/main-activeageing_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" alt="art initiatives for the community" src="/images/Programmes/main-communityarts_edited.jpg">
+<img style="width: 100%; height: auto;" alt="art initiatives for the community" src="/images/Programmes/main-communityarts_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" alt="community dialogues between the government and residents" src="/images/Programmes/main-communitydialogue_edited.jpg">
+<img style="width: 100%; height: auto;" alt="community dialogues between the government and residents" src="/images/Programmes/main-communitydialogue_edited.jpg">
 </div>
 </td>
 </tr>
@@ -51,19 +51,18 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-racialharmony.jpg">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main-racialharmony.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-familylife.jpg">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main-familylife.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" alt="" src="/images/Programmes/main_communitysports.jpg">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main_communitysports.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -85,17 +84,17 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-communityintegration.jpg">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main-communityintegration.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:220px" height="auto" width="100%" src="/images/Programmes/main-cccourses_edited.jpg">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main-cccourses_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-womensprogrammes_edited.jpg">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main-womensprogrammes_edited.jpg">
 </div>
 </td>
 </tr>
@@ -115,20 +114,18 @@ variant: markdown
 </tr><tr>	
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" alt="" src="/images/Programmes/main_passionwave.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="height:200px;width:220px" height="auto" width="100%" src="/images/Programmes/main-emergencypreparedness_edited.jpg">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main_passionwave.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" alt="" src="/images/Programmes/main_passioncard.png">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main-emergencypreparedness_edited.jpg">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main_passioncard.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -151,7 +148,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height:200px;width:300px" height="auto" width="100%" src="/images/Programmes/main-youth_edited.jpg">
+<img style="width: 100%; height: auto;" src="/images/Programmes/main-youth_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
