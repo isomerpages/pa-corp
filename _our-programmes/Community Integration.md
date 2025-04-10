@@ -14,12 +14,12 @@ their neighbours and other residents in the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/CI2.jpg">
 </div>
-<p>Integration and Naturalisation Champions (INCs) serve as catalysts in
-driving integration efforts within their local communities. These dedicated
-individuals take the initiative to develop and implement programmes designed
-to welcome and integrate new citizens. By leveraging their understanding
-of both local culture and the challenges faced by newcomers, INCs play
-a pivotal role in bridging cultural gaps and fostering a sense of belonging.</p>
+<p>INCs serve as catalysts in driving integration efforts within their local
+communities. These dedicated individuals take the initiative to develop
+and implement programmes designed to welcome and integrate new citizens.
+By leveraging their understanding of both local culture and the challenges
+faced by newcomers, INCs play a pivotal role in bridging cultural gaps
+and fostering a sense of belonging.</p>
 <h3>Integration Strategies</h3>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/CI3.jpg">
@@ -42,39 +42,39 @@ media.</p>
 </li>
 </ul>
 <h3>Integration Programmes</h3>
+<p>PA organises a variety of community programmes to welcome and integrate
+newcomers in the neighbourhood. Through these activities, residents share
+collective experiences with their fellow neighbours, engage with each other
+and build a sense of belonging to their residing community. Some of these
+programmes include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>House Visits and Welcome/Floor Parties</p>
+<p>Chit Chat Sessions</p>
 </li>
 <li>
-<p>INC Activities</p>
+<p>Community Volunteering</p>
 </li>
 <li>
-<p>Integration of New Immigrants through Interest Groups</p>
+<p>Festive Celebrations</p>
 </li>
 <li>
-<p>Community Learning Journey</p>
-</li>
-<li>
-<p>Singapore Experiential Visit and Community Sharing Session (part of the
-Singapore Citizenship Journey for new citizens)</p>
-</li>
-<li>
-<p>Citizenship Ceremony</p>
+<p>House Visits</p>
 </li>
 <li>
 <p>One Community Fiesta</p>
 </li>
+<li>
+<p>Visits to Iconic Places in Singapore</p>
+</li>
 </ul>
-<p></p>
 <h3>‘Your Neighbourly Welcome Guide’</h3>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Programmes/Community%20Integration/Guide.png">
 </div>
-<p>An initiative of the People’s Association, “Your Neighbourly Welcome Guide”
-contains colourful anecdotes and well-kept secrets from residents and volunteers.
-These unique stories of places, activities and experiences are happening
-right in your neighbourhood.</p>
+<p>An initiative of the PA, 'Your Neighbourly Welcome Guide' contains colourful
+anecdotes and well-kept secrets from residents and volunteers. These unique
+stories of places, activities and experiences are happening right in your
+neighbourhood.</p>
 <p>Discover the gems of your neighbourhood with the guidebook!</p>
 <ul data-tight="true" class="tight">
 <li>
