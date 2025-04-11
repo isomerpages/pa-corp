@@ -56,7 +56,7 @@ media.</p>
 <p>PA organises a variety of community programmes to welcome and integrate
 newcomers in the neighbourhood. Through these activities, residents share
 collective experiences with their fellow neighbours, engage with each other
-and build a sense of belonging to their residing community. Some of these
+and build a sense of belonging in their community. Some of these
 programmes include:</p>
 <ul data-tight="true" class="tight">
 <li>
