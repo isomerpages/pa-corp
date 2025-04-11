@@ -32,10 +32,9 @@ across Singapore.</p>
 </div>
 <p>Take part in EP programmes organised by our Grassroots Organisations to
 prepare us to respond and render help promptly during emergencies. This
-can be achieved through joining our Community Emergency Response Team (CERT),
-participate in Community Resilience (CR) Days, learning useful skills such
-as Cardio-Pulmonary Resuscitation (CPR) + Automated External Defibrillator
-(AED) and other EP-related courses.</p>
+can be achieved through joining our CERT, participate in Community Resilience
+(CR) Days, learning useful skills such as Cardio-Pulmonary Resuscitation
+(CPR) + Automated External Defibrillator (AED) and other EP-related courses.</p>
 <h3>Community Lifesaving Trainings</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPR_AED.jpg">
