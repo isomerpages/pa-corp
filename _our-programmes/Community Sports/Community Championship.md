@@ -27,7 +27,7 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <h3>Competition Schedule</h3>
 <p>The Community Championship this year is set to begin from April to early July 2025. Keep an eye out for upcoming announcements, as we'll soon be revealing the exciting details for each sport competition. Stay tuned and get ready to join the action!</p>
 
-Planning to participate? Everything you need to know about competition rules and regulations is on <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
+Planning to participate? Everything you need to know about competition rules and regulations is on the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
 
 <p>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
@@ -47,7 +47,7 @@ Planning to participate? Everything you need to know about competition rules and
 </p>
 
 <h3>Be Part of Community Championship 2025</h3>
-<p> Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or visit the nearest Community Club (CC) in your neighbourhood and we'll guide you through the registration! </p>
+<p> Register easily through <a target="_blank" href="OnePA.gov.sg">OnePA.gov.sg</a> or visit the nearest Community Club in your neighbourhood and we'll guide you through the registration! </p>
 
 Find your district and GRC below to register for upcoming competitions:
 <br><br>
@@ -77,6 +77,8 @@ Find your district and GRC below to register for upcoming competitions:
 <b>North West</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/limbang-csn-marsiling-yew-tee-grc-community-championship-badminton-92170397">[19 Apr 2025] Marsiling-Yew Tee GRC Badminton Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/limbang-csn-marsiling-yew-tee-grc-community-championship-table-tennis-48630619)">[19 Apr 2025] Marsiling-Yew Tee GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">[03 May 2025] Sembawang GRC Floorball Competitions Community Championship</a>
 <br>

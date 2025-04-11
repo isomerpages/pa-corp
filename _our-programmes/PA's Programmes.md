@@ -2,7 +2,7 @@
 title: PA's Programmes
 permalink: /our-programmes/programmes/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -139,18 +139,16 @@ community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">Passion Wave</a> 
+<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave</a> 
 <br>PA PAssion WaVe's outlets offer a range of land and water sports programmes
 such as abseiling and power boating.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/emergency-preparedness/" rel="noopener noreferrer nofollow" target="_blank">Emergency Preparedness</a> 
-<br>PA's Emergency Preparedness
-<br>Groups and Community Emergency Response Teams shows you how to react during
-emergencies.</p>
+<br>Build your emergency response capabilities through programmes by PA’s C2Es and CERT.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/passion-card" rel="noopener noreferrer nofollow" target="_blank">Passion Card</a> 
+<p><a href="/our-programmes/passion-card" rel="noopener noreferrer nofollow" target="_blank">PAssion Card</a> 
 <br>The PAssion Card offers exclusive privileges to its members for PA's exciting
 range of courses and activities.
 <br>
