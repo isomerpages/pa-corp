@@ -74,7 +74,7 @@ duties.</p>
 <p></p>
 <p>Residents can visit the nearest Community Clubs/Centres to sign up or
 learn more about the eligibility requirements for our EP Programmes. For
-any enquiries, please email to <a href="mailto:PA_CERT@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_CERT@pa.gov.sg</a>.</p>
+any enquiries, please email <a href="mailto:PA_CERT@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_CERT@pa.gov.sg</a>.</p>
 <p>Visit and follow us on <a href="https://www.facebook.com/OurEPCommunity" rel="noopener noreferrer nofollow" target="_blank">Our Emergency Prepared Community Facebook</a> to
 receive the latest updates on our EP programmes or read up more on the
 <a href="https://go.gov.sg/pacenewsletter" rel="noopener noreferrer nofollow" target="_blank">PACE Newsletter</a>.</p>
