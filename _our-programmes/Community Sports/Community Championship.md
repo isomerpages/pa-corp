@@ -78,6 +78,8 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/limbang-csn-marsiling-yew-tee-grc-community-championship-badminton-92170397">[19 Apr 2025] Marsiling-Yew Tee GRC Badminton Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/limbang-csn-marsiling-yew-tee-grc-community-championship-table-tennis-48630619)">[19 Apr 2025] Marsiling-Yew Tee GRC Table Tennis Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">[03 May 2025] Sembawang GRC Floorball Competitions Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-central-csn-community-championship-2025-pickleball-64430038">[24 May 2025] Sembawang GRC Pickleball Community Championship</a>
