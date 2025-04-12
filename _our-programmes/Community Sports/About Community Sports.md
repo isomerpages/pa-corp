@@ -68,7 +68,7 @@ volunteer? Please fill up the <a href="https://go.gov.sg/pacf" rel="noopener nor
 <h3>Sports Interest Groups (SIGs)</h3>
 <p>The CSNs organises an array of regular activities such as badminton, basketball,
 brisk walking, football, sepak takraw, table tennis, and in recent years
-also included disc golf, pickleball, tchoukball and kin-ball.</p>
+also included disc golf, kin-ball, pickleball and tchoukball.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 600px" height="auto" width="100%" alt="" src="/images/SIGs__2_.jpg">
 </div>
