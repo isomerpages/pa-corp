@@ -6,7 +6,6 @@ variant: tiptap
 third_nav_title: Community Sports
 ---
 <h3>Community Sports Network</h3>
-<p></p>
 <p>The People’s Association works through Community Sports Networks (CSNs)
 to foster community bonding through a wide array of sports activities for
 residents to participate and interact with one another.</p>
@@ -15,13 +14,11 @@ PAssion Community Football.</p>
 <p>The CSNs at the grassroots level organises an array of activities such
 as brisk walks, mass swims, sports carnivals, bowling, badminton, football
 and sepak takraw, and in recent years also included disc golf, kin-ball
-and floorball.</p>
-<p></p>
+and floorball</p>
 <p>For more information and happenings, visit our <a href="https://www.facebook.com/PACommunitySportsNetwork" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>. Alternatively, you may email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Community_Sports@pa.gov.sg</a>!</p>
 <p></p>
 <h3>PAssion Community Football (PACF)</h3>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -68,44 +65,6 @@ to equip the volunteers with the skills on Grassroots Football Coaching,
 First-Aid and more.</p>
 <p>Interested to sign up your child for the programme or sign up as a parent
 volunteer? Please fill up the <a href="https://go.gov.sg/pacf" rel="noopener noreferrer nofollow" target="_blank">interest form</a>!</p>
-<p></p>
-<p></p>
-<h3>Other Sports</h3>
-<p></p>
-<p>Playing in a team for these sport below? Don't wait, sign up now!</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Bowling</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 600px" height="auto" width="100%" alt="bowling events" src="/images/Bowling__2_.jpg">
-</div>
-</li>
-<li>
-<p>Dragon Boat</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 600px" height="auto" width="100%" alt="dragon boating activities" src="/images/Dragon_Boat.jpg">
-</div>
-</li>
-<li>
-<p>Floorball</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 600px" height="auto" width="100%" alt="" src="/images/Floorball.jpg">
-</div>
-</li>
-</ol>
-<p></p>
-<p>If you are interested in these sports and would like to get more information
-on the game play, etc, please visit the respective National Sports Association
-(NSA) official website for <a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>, <a href="https://sdba.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat </a>and
-<a href="https://www.revolutionise.sg/sgfloorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>.</p>
-<p></p>
-<p></p>
-<p>Interested to pick up a new sport? <a href="https://www.onepa.gov.sg/interest-groups/sports-fitness" rel="noopener noreferrer nofollow" target="_blank">Register</a> or
-email us at <a href="mailto:PA_Community_Sports@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Community_Sports@pa.gov.sg</u></a>.</p>
-<p></p>
 <h3>Sports Interest Groups (SIGs)</h3>
 <p>The CSNs organises an array of regular activities such as badminton, basketball,
 brisk walking, football, sepak takraw, table tennis, and in recent years
