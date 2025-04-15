@@ -78,8 +78,6 @@ media.</p>
 </li>
 </ul>
 <h3>Integration Programmes</h3>
-<p><em>Creating fun lived experiences through sing and dance at Pasir Ris – Punggol GRC and Punggol West SMC One Community Fiesta 2024</em>
-</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
