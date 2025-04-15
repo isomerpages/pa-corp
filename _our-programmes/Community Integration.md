@@ -13,7 +13,8 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Promoting social norms and fostering neighbourliness at Boon Lay Zone
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Promoting social norms and fostering neighbourliness at Boon Lay Zone
 E, H, R and Meadow-Grove Residents' Networks Chit Chat Session 2024</div>
 </div>
 </div>
@@ -28,21 +29,21 @@ their neighbours and other residents in the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Sengkang_West_One_Community_Fiesta_2024_v2.png">
 </div>
-<p><em>Sengkang West INC and GROs organised One Community Fiesta 2024 to bring residents from diverse communities together.</em>
+<p><em>Sengkang West INC and GROs organised One Community Fiesta 2024 to bring residents from diverse communities to</em>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="One Community Fiesta 2024" src="/images/Programmes/Community Integration/Sengkang_West_One_Community_Fiesta_2024_v2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Sengkang West INC and GROs organised One Community Fiesta 2024 to bring
+residents from diverse communities together.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 </div>
 <p>INCs serve as catalysts in driving integration efforts within their local
 communities. These dedicated individuals take the initiative to develop
