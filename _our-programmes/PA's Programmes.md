@@ -158,7 +158,7 @@ range of courses and activities.
 <tr>
 <td rowspan="1" colspan="1">
 <div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
-There<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main-youth_edited.jpg">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main-youth_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
