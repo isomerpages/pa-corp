@@ -78,11 +78,22 @@ media.</p>
 </li>
 </ul>
 <h3>Integration Programmes</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Pasir_Ris___Punggol_GRC_and_Punggol_West_SMC_One_Community_Fiesta_2024.jpg">
-</div>
 <p><em>Creating fun lived experiences through sing and dance at Pasir Ris – Punggol GRC and Punggol West SMC One Community Fiesta 2024</em>
 </p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="One Community Fiesta 2024" src="/images/Programmes/Community Integration/Pasir_Ris___Punggol_GRC_and_Punggol_West_SMC_One_Community_Fiesta_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Creating fun lived experiences through sing and dance at Pasir Ris – Punggol
+GRC and Punggol West SMC One Community Fiesta 2024.</div>
+</div>
+</div>
+</div>
 <p>PA organises a variety of community programmes to welcome and integrate
 newcomers in the neighbourhood. Through these activities, residents share
 collective experiences with their fellow neighbours, engage with each other
@@ -187,5 +198,6 @@ neighbourhood.</p>
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <p></p>
