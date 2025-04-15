@@ -47,11 +47,6 @@ By leveraging their understanding of both local culture and the challenges
 faced by newcomers, INCs play a pivotal role in bridging cultural gaps
 and fostering a sense of belonging.</p>
 <h3>Integration Strategies</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Mountbatten_SMC_One_Community_Fiesta_2024.jpg">
-</div>
-<p><em>Cultural appreciation at Mountbatten SMC One Community Fiesta 2024.</em>
-</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
