@@ -15,7 +15,7 @@ variant: tiptap
 <div class="isomer-card-body">
 <div class="isomer-card-title"></div>
 <div class="isomer-card-description">Promoting social norms and fostering neighbourliness at Boon Lay Zone
-E, H, R and Meadow-Grove Residents' Networks Chit Chat Session 2024</div>
+E, H, R and Meadow-Grove Residents' Networks Chit Chat Session 2024.</div>
 </div>
 </div>
 </div>
@@ -26,11 +26,6 @@ their participation in various integration-centric programmes and GRO programmes
 the new immigrants can make friends and develop mutual understanding with
 their neighbours and other residents in the community.</p>
 <h3>Integration and Naturalisation Champions</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Sengkang_West_One_Community_Fiesta_2024_v2.png">
-</div>
-<p><em>Sengkang West INC and GROs organised One Community Fiesta 2024 to bring residents from diverse communities to</em>
-</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -57,6 +52,19 @@ and fostering a sense of belonging.</p>
 </div>
 <p><em>Cultural appreciation at Mountbatten SMC One Community Fiesta 2024.</em>
 </p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cultural appreciation" src="/images/Programmes/Community Integration/Mountbatten_SMC_One_Community_Fiesta_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Cultural appreciation at Mountbatten SMC One Community Fiesta 2024.</div>
+</div>
+</div>
+</div>
 <p>To achieve the key objective of PA’s integration efforts to widen our
 outreach and deepen engagement with new citizens, PA has adopted the following
 three key strategic approaches:</p>
