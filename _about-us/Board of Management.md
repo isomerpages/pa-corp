@@ -4,7 +4,7 @@ permalink: /about-us/board-of-management/
 description: ""
 variant: tiptap
 ---
-<h5>22nd TERM OF PEOPLE'S ASSOCIATION BOARD OF MANAGEMENT <br>(1 JANUARY 2025 TO 31 DECEMBER 2027)</h5>
+<h5>22<sup>nd</sup> TERM OF PEOPLE'S ASSOCIATION BOARD OF MANAGEMENT <br>(1 JANUARY 2025 TO 31 DECEMBER 2027)</h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
