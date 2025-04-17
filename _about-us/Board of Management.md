@@ -17,18 +17,15 @@ variant: tiptap
 <p>Chairman</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Board of Management/1__Chairman___Mr_Lawrence_Wong.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Lawrence Wong</p>
-<p><strong>Prime Minister</strong>
-</p>
-<p><strong>Prime Minister's Office</strong>
-</p>
-<p><strong>Istana</strong>
-</p>
-<p><strong>Singapore 238823</strong>
-</p>
+<p><strong>Mr Lawrence Wong<br></strong>Prime Minister
+<br>Prime Minister's Office
+<br>Istana
+<br>Singapore 238823</p>
 </th>
 </tr>
 <tr>
