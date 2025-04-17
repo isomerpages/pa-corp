@@ -53,8 +53,6 @@ Find your district and GRC below to register for upcoming competitions:
 <br><br>
 <b>Central Singapore</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-bowling-4-a-side-mixed-team-competition-83993704">[19 Apr 2025] Jalan Besar GRC Bowling Community Competition </a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-and-marymount-csn-badminton-community-championship-2025-99695103">[17 May 2025] Bishan-Toa Payoh GRC Badminton Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/mm-csn-bishan-toa-payoh-marymount-bowling-community-championship-10-05-2025-63402463">[10 May 2025] Bishan-Toa Payoh GRC Bowling Community Championship</a>
@@ -75,10 +73,6 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/csn-community-championship-bowling-mixed-open-4-v-4-42246306">[21 Jun 2025] Aljunied GRC Bowling Community Championship</a>
 
 <b>North West</b>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/limbang-csn-marsiling-yew-tee-grc-community-championship-badminton-92170397">[19 Apr 2025] Marsiling-Yew Tee GRC Badminton Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/limbang-csn-marsiling-yew-tee-grc-community-championship-table-tennis-48630619)">[19 Apr 2025] Marsiling-Yew Tee GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">[03 May 2025] Sembawang GRC Floorball Competitions Community Championship</a>
 <br>
