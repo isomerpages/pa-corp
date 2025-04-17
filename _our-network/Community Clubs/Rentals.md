@@ -13,6 +13,8 @@ PA offers a wide range of facilities and services to cater to your different nee
 
 Community Clubs (CCs) are meeting grounds for all residents, offering a venue for activities within the community. Our CCs bring people together through a variety of programmes, from youth to active-ageing; and from classroom-based courses to sporting and fitness activities, bazaar sales and parties. CCs also offer a wide-range of facilities, from basic ones like basketball and badminton courts to more modern ones like dance studios and gymnasiums.
 
+![](/images/Community%20Clubs/CC_Rentals_Facilities.jpg)
+
 Book your CC courses and facilities at the [onePA website](https://www.onepa.gov.sg/)
 
 #### Commercial Spaces for Lease

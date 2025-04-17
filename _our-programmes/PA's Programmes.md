@@ -2,29 +2,29 @@
 title: PA's Programmes
 permalink: /our-programmes/programmes/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<table style="minWidth: 75px">
+<table style="width: 100%; table-layout: fixed;">
 <colgroup>
-<col>
-<col>
-<col>
+<col style="width: 33.33%">
+<col style="width: 33.33%">
+<col style="width: 33.33%">
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" alt="active ageing activities for seniors" src="/images/Programmes/main-activeageing_edited.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" alt="active ageing activities for seniors" src="/images/Programmes/main-activeageing_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" alt="art initiatives for the community" src="/images/Programmes/main-communityarts_edited.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" alt="art initiatives for the community" src="/images/Programmes/main-communityarts_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" alt="community dialogues between the government and residents" src="/images/Programmes/main-communitydialogue_edited.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" alt="community dialogues between the government and residents" src="/images/Programmes/main-communitydialogue_edited.jpg">
 </div>
 </td>
 </tr>
@@ -52,18 +52,18 @@ community dialogues.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" src="/images/Programmes/main-racialharmony.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main-racialharmony.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" src="/images/Programmes/main-familylife.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main_familylife.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" src="/images/Programmes/main_communitysports.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main_communitysports.jpg">
 </div>
 </td>
 </tr>
@@ -88,18 +88,18 @@ bring people together but also build character.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Community Integration/Sengkang_West_One_Community_Fiesta_2024_v2.png">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/Community Integration/Sengkang_West_One_Community_Fiesta_2024_v2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" src="/images/Programmes/main-cccourses_edited.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main-cccourses_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" src="/images/Programmes/main-womensprogrammes_edited.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main-womensprogrammes_edited.jpg">
 </div>
 </td>
 </tr>
@@ -122,35 +122,33 @@ community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" src="/images/Programmes/main_passionwave.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main_passionwave.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" src="/images/Programmes/main_emergencypreparedness.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main_emergencypreparedness.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" src="/images/Programmes/main_passioncard.png">
+<div style="height: 200px;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main_passioncard.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">Passion Wave</a> 
+<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave</a> 
 <br>PA PAssion WaVe's outlets offer a range of land and water sports programmes
 such as abseiling and power boating.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/emergency-preparedness/" rel="noopener noreferrer nofollow" target="_blank">Emergency Preparedness</a> 
-<br>PA's Emergency Preparedness
-<br>Groups and Community Emergency Response Teams shows you how to react during
-emergencies.</p>
+<br>Build your emergency response capabilities through programmes by PA’s C2Es and CERT.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/passion-card" rel="noopener noreferrer nofollow" target="_blank">Passion Card</a> 
+<p><a href="/our-programmes/passion-card" rel="noopener noreferrer nofollow" target="_blank">PAssion Card</a> 
 <br>The PAssion Card offers exclusive privileges to its members for PA's exciting
 range of courses and activities.
 <br>
@@ -159,8 +157,8 @@ range of courses and activities.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%; height: auto;" height="auto" width="100%" src="/images/Programmes/main-youth_edited.jpg">
+<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main-youth_edited.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

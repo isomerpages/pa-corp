@@ -23,19 +23,18 @@ return to normalcy as quickly as possible.</p>
 </div>
 <p>The PA Community Emergency Response Team (CERT) was established in 2004
 to allow residents to volunteer and actively participate in keeping their
-community safe and secure. As PA CERT commemorates its 20th Anniversary
-this year, a series of local commemorative activities and CERT challenges
-has been launched across Singapore.</p>
+community safe and secure. In 2024, PA CERT commemorated its 20th anniversary
+through a series of local commemorative activities and CERT challenges
+across Singapore.</p>
 <h3>Emergency Preparedness Programme</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Emergency Preparedness/1__Emergency_Preparedness_Programme.jpg">
 </div>
 <p>Take part in EP programmes organised by our Grassroots Organisations to
 prepare us to respond and render help promptly during emergencies. This
-can be achieved through joining our Community Emergency Response Team (CERT),
-participate in Community Resilience (CR) Days, learning useful skills such
-as Cardio-Pulmonary Resuscitation (CPR) + Automated External Defibrillator
-(AED) and other EP-related courses.</p>
+can be achieved through joining our CERT, participate in Community Resilience
+(CR) Days, learning useful skills such as Cardio-Pulmonary Resuscitation
+(CPR) + Automated External Defibrillator (AED) and other EP-related courses.</p>
 <h3>Community Lifesaving Trainings</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPR_AED.jpg">
@@ -75,7 +74,7 @@ duties.</p>
 <p></p>
 <p>Residents can visit the nearest Community Clubs/Centres to sign up or
 learn more about the eligibility requirements for our EP Programmes. For
-any enquiries, please email to <a href="mailto:PA_CERT@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_CERT@pa.gov.sg</a>.</p>
+any enquiries, please email <a href="mailto:PA_CERT@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_CERT@pa.gov.sg</a>.</p>
 <p>Visit and follow us on <a href="https://www.facebook.com/OurEPCommunity" rel="noopener noreferrer nofollow" target="_blank">Our Emergency Prepared Community Facebook</a> to
 receive the latest updates on our EP programmes or read up more on the
 <a href="https://go.gov.sg/pacenewsletter" rel="noopener noreferrer nofollow" target="_blank">PACE Newsletter</a>.</p>
