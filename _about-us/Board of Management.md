@@ -20,7 +20,9 @@ variant: tiptap
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lawrence Wong" src="/images/About Us/Board of Management/1__Chairman___Mr_Lawrence_Wong_cropped.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lawrence Wong</strong>
@@ -35,7 +37,9 @@ variant: tiptap
 <p>Deputy Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Board of Management/2__Deputy_Chairman___Mr_Edwin_Tong_cropped.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Edwin Tong</strong>
@@ -52,6 +56,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Zaqy Mohamad" src="/images/About Us/Board of Management/3__SMS_Zaqy_Mohamad.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Zaqy Mohamad</strong>
@@ -251,6 +258,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><em>*  PA Corporate Members were elected on 27 June 2023 for a three-year term.</em>
+<p><em>* PA Corporate Members were elected on 27 June 2023 for a three-year term.</em>
 </p>
 <p></p>
