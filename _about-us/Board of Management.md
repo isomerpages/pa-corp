@@ -126,7 +126,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sitoh Yih Pin" src="/images/About Us/Board of Management/7__Mr_Sitoh_Yih_Pin_cropped.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Sitoh Yih Pin</strong>
@@ -178,7 +180,6 @@ variant: tiptap
 <p>Secretary-Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jimmy Toh" src="/images/About Us/Board of Management/10__Mr_Jimmy_Toh.jpg">
 </div>
@@ -196,7 +197,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Benett Maximillian Theseira" src="/images/About Us/Board of Management/11__Mr_Benett_Maximillian_Theseira.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>* Mr Benett Maximillian THESEIRA, JP, PBM</strong>
@@ -211,7 +214,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Koh Teh Yi Wen" src="/images/About Us/Board of Management/12__Mrs_Koh_Teh_Yi_Wen.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>* Mrs KOH-TEH Yi Wen </strong>
@@ -226,7 +231,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Desmond Chong" src="/images/About Us/Board of Management/13__Mr_Desmond_Chong.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>* Mr CHONG Kok Hwee, Desmond</strong>
@@ -242,7 +249,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nassar Mohamad Zain" src="/images/About Us/Board of Management/14__Nassar_Bin_Mohamad_Zain.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>* Mr Nassar Bin MOHAMAD ZAIN</strong>
@@ -258,7 +267,9 @@ variant: tiptap
 <p>Special Adviser to Chairman of PA Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lim Boon Heng" src="/images/About Us/Board of Management/15__SA_Mr_Lim_Boon_Heng.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lim Boon Heng</strong>
