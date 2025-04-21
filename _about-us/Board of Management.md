@@ -133,9 +133,73 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadia Ahmad Samdin
-<br>
-</p>
+<p><strong>Ms Nadia Ahmad Samdin</strong> 
+<br>Adviser
+<br>Ang Mo Kio GRC Grassroots Organisations
+<br>Cheng San - Seletar Community Club
+<br>6 Ang Mo Kio Street 53
+<br>Singapore 569205</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Thuvinder Singh s/o Bachan Singh, PBM</strong>
+<br>General Secretary
+<br>Union of Telecoms Employees of Singapore
+<br>1 Serangoon North Avenue 5
+<br>#02-07
+<br>Singapore 554915</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary-Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jimmy Toh</strong>
+<br>Chief Executive Director
+<br>People's Association
+<br>9 King George's Avenue
+<br>Singapore 208581</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>* Mr Benett Maximillian THESEIRA, JP, PBM</strong>
+<br>Trustee
+<br>The Eurasian Association, Singapore
+<br>139 Ceylon Road
+<br>Singapore 429744</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>* Mrs KOH-TEH Yi Wen
+<br>Chief Commissioner
+<br>Girl Guides Singapore
+<br>9 Bishan Street 14
+<br>Singapore 579785</p>
 </td>
 </tr>
 </tbody>
