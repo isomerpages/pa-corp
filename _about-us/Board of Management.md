@@ -195,13 +195,62 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Mrs KOH-TEH Yi Wen
+<p><strong>* Mrs KOH-TEH Yi Wen </strong>
 <br>Chief Commissioner
 <br>Girl Guides Singapore
 <br>9 Bishan Street 14
 <br>Singapore 579785</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>* Mr CHONG Kok Hwee, Desmond</strong>
+<br>Chief Commissioner
+<br>The Singapore Scout Association
+<br>1 Bishan Street 12
+<br>Ee Peng Liang Building
+<br>Singapore 579808</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>* Mr Nassar Bin MOHAMAD ZAIN</strong>
+<br>President
+<br>Malay Youth Literary Association (4PM)
+<br>606 Bedok Reservoir Road
+<br>#01-716
+<br>Singapore 470606</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Adviser to Chairman of PA Board</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Boon Heng</strong>
+<br>People's Association
+<br>9 King George's Avenue
+<br>Singapore 208581</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
+<p><em>*  PA Corporate Members were elected on 27 June 2023 for a three-year term.</em>
+</p>
 <p></p>
