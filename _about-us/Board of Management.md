@@ -55,7 +55,6 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Zaqy Mohamad" src="/images/About Us/Board of Management/3__SMS_Zaqy_Mohamad.jpg">
 </div>
@@ -72,7 +71,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Board of Management/4__Ms_Low_Yen_Ling.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Low Yen Ling</strong>
@@ -89,7 +90,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Murali Pillai" src="/images/About Us/Board of Management/5__Mr_Murali_Pillai.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Murali Pillai</strong>
@@ -105,7 +108,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Victor Lye" src="/images/About Us/Board of Management/6__Mr_Victor_Lye.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Victor Lye Thiam Fatt, BBM</strong>
@@ -137,7 +142,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nadia Ahmad Samdin" src="/images/About Us/Board of Management/8__Ms_Nadia_Ahmad_Samdin.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Nadia Ahmad Samdin</strong> 
@@ -153,7 +160,9 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Thuvinder Singh" src="/images/About Us/Board of Management/9__Mr_Thuvinder_Singh.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Thuvinder Singh s/o Bachan Singh, PBM</strong>
@@ -170,6 +179,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jimmy Toh" src="/images/About Us/Board of Management/10__Mr_Jimmy_Toh.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Jimmy Toh</strong>
