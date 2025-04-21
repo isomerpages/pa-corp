@@ -4,9 +4,6 @@ permalink: /about-us/board-of-management/
 description: ""
 variant: markdown
 ---
-<p>View the list of members on the <a href="/files/About Us/Board of Mgmt/PA_Board_of_Management_List_for_Intranet_and_Website__updated_Jan_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">People's Association Board of Management</a>
-</p>
-<p></p>
 <h5>22<sup>nd</sup> TERM OF PEOPLE'S ASSOCIATION BOARD OF MANAGEMENT <br>(1 JANUARY 2025 TO 31 DECEMBER 2027)</h5>
 <table style="width: 100%; table-layout: fixed;">
 <colgroup>
