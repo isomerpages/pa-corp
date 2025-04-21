@@ -8,11 +8,11 @@ variant: markdown
 </p>
 <p></p>
 <h5>22<sup>nd</sup> TERM OF PEOPLE'S ASSOCIATION BOARD OF MANAGEMENT <br>(1 JANUARY 2025 TO 31 DECEMBER 2027)</h5>
-<table style="minWidth: 75px">
+<table style="width: 100%; table-layout: fixed;">
 <colgroup>
-<col>
-<col>
-<col>
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 30%">
 </colgroup>
 <tbody>
 <tr>
@@ -38,7 +38,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Board of Management/2__Deputy_Chairman___Mr_Edwin_Tong_cropped.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Edwin Tong" src="/images/About Us/Board of Management/2__Deputy_Chairman___Mr_Edwin_Tong_cropped.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
