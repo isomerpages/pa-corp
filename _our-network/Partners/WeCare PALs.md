@@ -26,7 +26,7 @@ more partnership opportunities and heartfelt stories on the meaningful
 programmes our WeCare PALs have done with us!</p>
 </li>
 <li>
-<p>Watch our <a href="https://www.youtube.com/watch?v=yJkPFgliSBA" rel="noopener noreferrer nofollow" target="_blank">WeCare PALS Video</a> for
+<p>Watch our <a href="https://www.youtube.com/watch?v=yJkPFgliSBA" rel="noopener noreferrer nofollow" target="_blank">WeCare PALs Video</a> for
 more information on partnership with PA.</p>
 </li>
 <li>
