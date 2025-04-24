@@ -7,11 +7,9 @@ variant: tiptap
 ---
 <h4>Partners</h4>
 <div class="isomer-image-wrapper">
-<img style="width:700px" height="auto" width="100%" alt="Collage of People's Association's Community Events and Partners" src="/images/Our%20Network/Partners/banner%20for%20PA%20website%20partners.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Partners/Partners_Header_Photo_1.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p>PA offers partnership opportunities for corporate and community organisations
 to collaborate with our extensive grassroots network to support programmes
 and initiatives that make a difference to the community.</p>
