@@ -66,6 +66,8 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/2025-jalan-besar-grc-badminton-competition-43597929">[28 Jun 2025] Jalan Besar GRC Badminton Community Competition</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-community-championship-2025-basketball-3-on-3-men-s-open-75716173">[29 Jun 2025] Bishan-Toa Payoh GRC Basketball Community Competition</a>
+<br>
 
 <b>North East</b>
 <br>
