@@ -120,6 +120,9 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/choa-chu-kang-cluster-table-tennis-community-games-championship-2025-86955284">[25 May 2025] Choa Chu Kang GRC Table Tennis Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-football-tournament-2025-10667152">
+[14 Jun 2025] Jurong GRC Football Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">[21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-table-tennis-competition-2025-19743420">
