@@ -85,6 +85,15 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-central-csn-community-championship-2025-pickleball-64430038">[24 May 2025] Sembawang GRC Pickleball Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-2025-football-5v5--nee-soon-59880967">
+[18 May 2025] Nee Soon GRC Football Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-football-5-a-side-men-s-open-masters-15117084">
+[25 May 2025] Sembawang GRC Football Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/faishal-cup-basketball-tournament-2025-sg60-3x3-category-35521943">
+[31 May - 01 Jun 2025] Nee Soon GRC Basketball Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/nee-soon-grc-table-tennis-community-championship-2025-47297351">[01 Jun 2025] Nee Soon GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/csn-sembawang-grc-table-tennis-community-championship-2025-89685797">[08 Jun 2025] Sembawang GRC Table Tennis Community Championship</a>
