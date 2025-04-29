@@ -4,7 +4,8 @@ permalink: /about-us/board-of-management/
 description: ""
 variant: markdown
 ---
-<h5>22<sup>nd</sup> TERM OF PEOPLE'S ASSOCIATION BOARD OF MANAGEMENT <br>(1 JANUARY 2025 TO 31 DECEMBER 2027)</h5>
+<h5>PEOPLE'S ASSOCIATION BOARD OF MANAGEMENT <br>(1 JANUARY 2025 TO 31 DECEMBER 2027)</h5>
+<p></p>
 <table style="width: 100%; table-layout: fixed;">
 <colgroup>
 <col style="width: 15%">

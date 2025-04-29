@@ -2,5 +2,6 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Mid Autumn Festive Fair.md
       - Tender for Street Light Up Decorative Items for Chinatown Mid Autumn
         Festival Celebrations 2025.md
