@@ -18,14 +18,15 @@ Whether it's a win or a loss, playing together knits us closer as a community. Y
 Get ready to showcase your skills, embrace the spirit of friendly competition, and experience the thrill of community sports!</p>
 
 <h3>Seven Sports Up for Your Challenge</h3>
-<p>Game On! Community Championship 2025 returns with an expanded lineup of five returning favourites - Badminton, Basketball, Football, Pickleball, and Table Tennis, plus TWO exciting new additions - Bowling and Floorball. Choose your sport and represent your Cluster.</p>
-
+<p>Game On! Community Championship 2025 returns with an expanded lineup of five returning favourites - Badminton, Basketball, Football, Pickleball, and Table Tennis, plus TWO exciting new additions - Bowling and Floorball. Choose your sport and represent your Cluster.</p><br>
 <h4><p style="color: black;">Sports Competition (Team) Categories</p></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Comp_Format___Categories_v1.png"></div>
-
 <h3>Competition Schedule</h3>
-<p>The Community Championship this year is set to begin from April to early July 2025. Keep an eye out for upcoming announcements, as we'll soon be revealing the exciting details for each sport competition. Stay tuned and get ready to join the action!</p>
+<p>Mark your calendars! Community Championship 2025 kicks off this April through early July. Check out our upcoming competitions below! Competition schedule for June and July will be announced soon - stay tuned!</p>
+
+<h4><p style="color: black;">April - May 2025 Competition Schedule</p></h4>
+
 
 Planning to participate? Everything you need to know about competition rules and regulations is on the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
 
