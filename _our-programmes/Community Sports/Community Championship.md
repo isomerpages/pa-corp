@@ -72,6 +72,9 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-community-championship-2025-basketball-3-on-3-men-s-open-75716173">[29 Jun 2025] Bishan-Toa Payoh GRC Basketball Community Competition</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-potong-pasir-smc-table-tennis-community-championship-2025-88405545">
+[29 Jun 2025] Jalan Besar GRC Table Tennis ommunity Championship</a>
+<br>
 
 <b>North East</b>
 <br>
@@ -80,6 +83,10 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-table-tennis-community-championship-2025-29876749">[15 Jun 2025] Sengkang GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/csn-community-championship-bowling-mixed-open-4-v-4-42246306">[21 Jun 2025] Aljunied GRC Bowling Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/punggol-grc-table-tennis-competition-48430193">
+[29 Jun 2025] Punggol GRC Table Tennis Community Championship</a>
+<br>
 
 <b>North West</b>
 <br>
@@ -120,6 +127,9 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/wcgrc-pioneer-smc-bowling-competition-community-championship-2025-59651138">[04 May 2025] West Coast GRC Bowling Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-badminton-championship-2025-30638546">
+[18 May 2025] Chua Chu Kang GRC Badminton Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/24-05-2025-chua-chu-kang-cluster-futsal-community-championship-2025-11049331">[24 May 2025] Chua Chu Kang GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/choa-chu-kang-cluster-table-tennis-community-games-championship-2025-86955284">[25 May 2025] Choa Chu Kang GRC Table Tennis Community Championship</a>
@@ -128,6 +138,9 @@ Find your district and GRC below to register for upcoming competitions:
 [14 Jun 2025] Jurong GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">[21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-basketball-championship-2025-48320822">
+[15 Jun 2025] Chua Chu Kang GRC Basketball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-table-tennis-competition-2025-19743420">
 [22 Jun 2025] Jurong GRC Table Tennis Community Championship</a>
