@@ -20,7 +20,8 @@ We will not process submission of this form from potential applicants who
 are not our Trainers and Operators yet.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To apply, please click <a href="https://form.gov.sg/admin/form/6809a78a0c75b952d7871646/settings" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>To apply, please click <a href="https://form.gov.sg/6809a78a0c75b952d7871646" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 </li>
 <li>
 <p><strong>Professional Standards and Guidelines for PA Trainers</strong>
