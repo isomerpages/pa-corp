@@ -7,6 +7,10 @@ image: /images/ET3.jpg
 third_nav_title: Community Sports
 ---
 <h2>Community Championship 2025</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CommChamp2025_Main_KV_Rev.png">
+</div>
 <p>Calling all sports lovers! Whether you’re hitting the court or cheering
 from the sidelines, there’s a place for everyone at the Community Championship
 2025! Back for its second run, this national movement brings people from
