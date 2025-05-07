@@ -73,6 +73,9 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/inter-csn-futsal-5s-27522459">
 [22 Jun 2025] Tanjong Pagar GRC Football Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/community-bowling-championship-2025-52233040">
+[25 May 2025] Tanjong Pagar GRC Bowling Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/whampoa-pickleball-community-championship-2025-52416223">
 [28 - 29 Jun 2025] Jalan Besar GRC Pickleball Community Championship</a>
 <br>
@@ -82,12 +85,15 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-community-championship-2025-basketball-3-on-3-men-s-open-75716173">[29 Jun 2025] Bishan-Toa Payoh GRC Basketball Community Competition</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-potong-pasir-smc-table-tennis-community-championship-2025-88405545">
-[29 Jun 2025] Jalan Besar GRC Table Tennis ommunity Championship</a>
+[29 Jun 2025] Jalan Besar GRC Table Tennis Community Championship</a>
 <br>
 
 <b>North East</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tampines-grc-community-championship-3x3-men-s-basketball-18-may-2025-20177305">[18 May 2025] Tampines GRC Basketball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-badminton-community-championship-2025-99537450">
+[14 Jun 2025] Aljunied  GRC Pickleball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-table-tennis-community-championship-2025-29876749">[15 Jun 2025] Sengkang GRC Table Tennis Community Championship</a>
 <br>
@@ -127,7 +133,7 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-central-csn-community-championship-2025-basketball-12227797">[28 Jun 2025] Sembawang GRC Basketball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-bowling-4-a-side-mixed-team-99481234">
-[29 Jun 2025] Sembawang  GRC Bowling Community Championship</a>
+[29 Jun 2025] Sembawang GRC Bowling Community Championship</a>
 
 <b>South East</b>
 <br>
