@@ -110,6 +110,9 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/yew-tee-csn-marsiling-yew-tee-grc-community-championship-2025-bowling-46876064">[15 Jun 2025] Marsiling-Yew Tee GRC Bowling Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-central-csn-community-championship-2025-basketball-12227797">[28 Jun 2025] Sembawang GRC Basketball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-bowling-4-a-side-mixed-team-99481234">
+[29 Jun 2025] Sembawang  GRC Bowling Community Championship</a>
 
 <b>South East</b>
 <br>
@@ -130,7 +133,11 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-football-tournament-2025-10667152">
 [14 Jun 2025] Jurong GRC Football Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">[21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/telok-blangah-csn-west-coast-grc-community-championship-2025-badminton-75334491">
+[14 Jun 2025] West Coast GRC Badminton Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">
+[21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-basketball-championship-2025-48320822">
 [15 Jun 2025] Chua Chu Kang GRC Basketball Community Championship</a>
