@@ -6,6 +6,12 @@ description: PA Community Sports Latest Happenings
 image: /images/ET3.jpg
 third_nav_title: Community Sports
 ---
+<h2>Community Championship 2025</h2>
+<p>Calling all sports lovers! Whether you’re hitting the court or cheering
+from the sidelines, there’s a place for everyone at the Community Championship
+2025! Back for its second run, this national movement brings people from
+all walks of live to form teams, enjoy friendly competition, and build
+new connections and communities through sports. <a href="https://www.pa.gov.sg/our-programmes/community-sports/community-championship/" rel="noopener nofollow" target="_blank">Find out more here!</a>!</p>
 <h2>Community Sports Appreciation 2024</h2>
 <div class="iframe-wrapper">
 <iframe height="610" width="343" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xr4OGRjl6tM?rel=0"></iframe>
