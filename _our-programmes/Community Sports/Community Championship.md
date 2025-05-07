@@ -57,9 +57,6 @@ Find your district and GRC below to register for upcoming competitions:
 <br><br>
 <b>Central Singapore</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-basketball-competition-2025-yio-chu-kang-11329674">
-[11 May 2025] Ang Mo Kio GRC Basketball Community Championship</a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-and-marymount-csn-badminton-community-championship-2025-99695103">[17 May 2025] Bishan-Toa Payoh GRC Badminton Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/mm-csn-bishan-toa-payoh-marymount-bowling-community-championship-10-05-2025-63402463">[10 May 2025] Bishan-Toa Payoh GRC Bowling Community Championship</a>
@@ -122,10 +119,6 @@ Find your district and GRC below to register for upcoming competitions:
 [08 Jun 2025] East Coast GRC Table Tennis Community Championship</a>
 
 <b>South West</b>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-bowling-community-championship-2025-mixed-open-4v4-10808769">[04 May 2025] Chua Chu Kang GRC Bowling Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/wcgrc-pioneer-smc-bowling-competition-community-championship-2025-59651138">[04 May 2025] West Coast GRC Bowling Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-badminton-championship-2025-30638546">
 [18 May 2025] Chua Chu Kang GRC Badminton Community Championship</a>
