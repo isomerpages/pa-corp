@@ -62,7 +62,7 @@ variant: markdown
 
 <sup>3</sup> The following are a selection of online sources of how Chingay practised in the cities of Johor Bahru and Penang, Malaysia.
 <br>
-a. Chingay listed on Malaysia’s ICH Inventory [https://www.heritage.gov.my/en/chingay.html](https://www.heritage.gov.my/en/chingay.html)
+a. Chingay listed on Malaysia’s ICH Inventory [https://www.heritage.gov.my/en/chingay.html](https://www.heritage.gov.my/)
 <br>
 b. Chingay in Johor Bahru
 <br>
