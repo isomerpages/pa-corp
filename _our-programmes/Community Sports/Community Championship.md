@@ -136,6 +136,9 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/telok-blangah-csn-west-coast-grc-community-championship-2025-badminton-75334491">
 [14 Jun 2025] West Coast GRC Badminton Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-basketball-community-championship-2025-48320822">
+[15 Jun 2025] Chua Chu Kang GRC Basketball Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">
 [21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
 <br>
