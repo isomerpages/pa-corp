@@ -6,8 +6,7 @@ description: PA Community Sports Latest Happenings
 image: /images/ET3.jpg
 third_nav_title: Community Sports
 ---
-<h2>Community Championship 2025</h2>
-<p></p>
+<h2>Community Championship 202</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CommChamp2025_Main_KV_Rev.png">
 </div>
