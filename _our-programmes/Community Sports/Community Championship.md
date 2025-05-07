@@ -29,7 +29,7 @@ Competition schedule for June and July will be announced soon - stay tuned!</p>
 
 <h4><p style="color: black;">April - May 2025 Competition Schedule</p></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Competiton_Schedule_01.png"></div>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Competiton_Schedule_7_May.png"></div>
 
 Planning to participate? Everything you need to know about competition rules and regulations is on the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
 
