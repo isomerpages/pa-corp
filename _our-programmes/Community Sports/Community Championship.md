@@ -176,7 +176,12 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 Always stay informed about sports safety. Explore these online resources to learn about competition guidelines and best practices:
 <br>
-<a target="_blank" href="https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-useful-links/">Sport Singapore - Safety Resources &amp; Useful Links</a>
+<a target="_blank" href="https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-useful-links/">
+Safety Resources and Useful Links</a>
+<br>
+<a target="_blank" href="https://www.sportsingapore.gov.sg/sport-education/sports-safety/sports-safe-u-guide">
+ Sports S.A.F.E. U Guide</a>
+	
 </p>
 <p><b>Heatwave Advisory</b>
 <br>
