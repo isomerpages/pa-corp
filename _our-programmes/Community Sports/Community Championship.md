@@ -29,7 +29,7 @@ Competition schedule for June and July will be announced soon - stay tuned!</p>
 
 <h4><p style="color: black;">April - May 2025 Competition Schedule</p></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Competiton_Schedule_01.png"></div>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Competiton_Schedule_7_May.png"></div>
 
 Planning to participate? Everything you need to know about competition rules and regulations is on the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
 
@@ -57,9 +57,6 @@ Find your district and GRC below to register for upcoming competitions:
 <br><br>
 <b>Central Singapore</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-basketball-competition-2025-yio-chu-kang-11329674">
-[11 May 2025] Ang Mo Kio GRC Basketball Community Championship</a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-and-marymount-csn-badminton-community-championship-2025-99695103">[17 May 2025] Bishan-Toa Payoh GRC Badminton Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/mm-csn-bishan-toa-payoh-marymount-bowling-community-championship-10-05-2025-63402463">[10 May 2025] Bishan-Toa Payoh GRC Bowling Community Championship</a>
@@ -68,21 +65,42 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-table-tennis-tournament-2025-24830334">[01 Jun 2025] Bishan-Toa Payoh GRC Table Tennis Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-pickleball-competition-2025-16172479">
+[15 Jun 2025] Tanjong Pagar GRC Pickleball Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/2025-jalan-besar-grc-badminton-competition-43597929">[28 Jun 2025] Jalan Besar GRC Badminton Community Competition</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/inter-csn-futsal-5s-27522459">
+[22 Jun 2025] Tanjong Pagar GRC Football Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/community-bowling-championship-2025-52233040">
+[25 May 2025] Tanjong Pagar GRC Bowling Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/whampoa-pickleball-community-championship-2025-52416223">
+[28 - 29 Jun 2025] Jalan Besar GRC Pickleball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-basketball-tournament-2025-cheng-san-seletar-69152866">
+[29 Jun 2025] Ang Mo Kio GRC Basketball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-community-championship-2025-basketball-3-on-3-men-s-open-75716173">[29 Jun 2025] Bishan-Toa Payoh GRC Basketball Community Competition</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-potong-pasir-smc-table-tennis-community-championship-2025-88405545">
-[29 Jun 2025] Jalan Besar GRC Table Tennis ommunity Championship</a>
+[29 Jun 2025] Jalan Besar GRC Table Tennis Community Championship</a>
 <br>
 
 <b>North East</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tampines-grc-community-championship-3x3-men-s-basketball-18-may-2025-20177305">[18 May 2025] Tampines GRC Basketball Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-badminton-community-championship-2025-99537450">
+[14 Jun 2025] Aljunied  GRC Pickleball Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-table-tennis-community-championship-2025-29876749">[15 Jun 2025] Sengkang GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/csn-community-championship-bowling-mixed-open-4-v-4-42246306">[21 Jun 2025] Aljunied GRC Bowling Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tampines-grc-badminton-community-championship-2025-23908698">
+[29 Jun 2025] Tampines GRC Badminton Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/punggol-grc-table-tennis-competition-48430193">
 [29 Jun 2025] Punggol GRC Table Tennis Community Championship</a>
@@ -113,6 +131,9 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/yew-tee-csn-marsiling-yew-tee-grc-community-championship-2025-bowling-46876064">[15 Jun 2025] Marsiling-Yew Tee GRC Bowling Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-central-csn-community-championship-2025-basketball-12227797">[28 Jun 2025] Sembawang GRC Basketball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-bowling-4-a-side-mixed-team-99481234">
+[29 Jun 2025] Sembawang GRC Bowling Community Championship</a>
 
 <b>South East</b>
 <br>
@@ -122,10 +143,6 @@ Find your district and GRC below to register for upcoming competitions:
 [08 Jun 2025] East Coast GRC Table Tennis Community Championship</a>
 
 <b>South West</b>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-bowling-community-championship-2025-mixed-open-4v4-10808769">[04 May 2025] Chua Chu Kang GRC Bowling Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/wcgrc-pioneer-smc-bowling-competition-community-championship-2025-59651138">[04 May 2025] West Coast GRC Bowling Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-badminton-championship-2025-30638546">
 [18 May 2025] Chua Chu Kang GRC Badminton Community Championship</a>
@@ -137,7 +154,14 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-football-tournament-2025-10667152">
 [14 Jun 2025] Jurong GRC Football Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">[21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/telok-blangah-csn-west-coast-grc-community-championship-2025-badminton-75334491">
+[14 Jun 2025] West Coast GRC Badminton Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-basketball-community-championship-2025-48320822">
+[15 Jun 2025] Chua Chu Kang GRC Basketball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">
+[21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-basketball-championship-2025-48320822">
 [15 Jun 2025] Chua Chu Kang GRC Basketball Community Championship</a>
@@ -152,7 +176,12 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 Always stay informed about sports safety. Explore these online resources to learn about competition guidelines and best practices:
 <br>
-<a target="_blank" href="https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-useful-links/">Sport Singapore - Safety Resources &amp; Useful Links</a>
+<a target="_blank" href="https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-useful-links/">
+Safety Resources and Useful Links</a>
+<br>
+<a target="_blank" href="https://www.sportsingapore.gov.sg/sport-education/sports-safety/sports-safe-u-guide">
+ Sports S.A.F.E. U Guide</a>
+	
 </p>
 <p><b>Heatwave Advisory</b>
 <br>
@@ -170,8 +199,8 @@ For detailed guidelines on exercising safely in hot weather, visit:
 <br>
 <a target="_blank" href="https://www.weather.gov.sg/heat-stress">Meteorological Service Singapore</a>
 
-</p><h3>Let’s Stay Connected</h3>
-<p>
-Follow us on <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or 
-<a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> 
-to receive updates from Community Sports Networks and be the first to know about our latest sports events and community highlights.</p>
+</p><p>
+Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>, 
+<a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and 
+<a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>
+ to receive updates from Community Sports Networks and be the first to know about our latest sports events and community highlights.</p>
