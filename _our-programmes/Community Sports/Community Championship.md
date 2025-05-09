@@ -199,8 +199,8 @@ For detailed guidelines on exercising safely in hot weather, visit:
 <br>
 <a target="_blank" href="https://www.weather.gov.sg/heat-stress">Meteorological Service Singapore</a>
 
-</p><h3>Let’s Stay Connected</h3>
-<p>
-Follow us on <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> or 
-<a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> 
-to receive updates from Community Sports Networks and be the first to know about our latest sports events and community highlights.</p>
+</p><p>
+Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>, 
+<a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and 
+<a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>
+ to receive updates from Community Sports Networks and be the first to know about our latest sports events and community highlights.</p>
