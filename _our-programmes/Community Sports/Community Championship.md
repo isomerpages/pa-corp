@@ -66,6 +66,8 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-table-tennis-tournament-2025-24830334">[01 Jun 2025] Bishan-Toa Payoh GRC Table Tennis Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-3-on-3-basketball-tournament-65201700">[08 June 2025] Tanjong Pagar GRC Basketball Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-pickleball-competition-2025-16172479">
 [15 Jun 2025] Tanjong Pagar GRC Pickleball Community Championship</a>
 <br>
@@ -134,6 +136,9 @@ Find your district and GRC below to register for upcoming competitions:
 <b>South East</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-bowling-2025-south-east-32392178">[25 May 2025] East Coast &amp; Marine Parade GRC Bowling Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-community-championship-basketball-2025-90977974">
+[01 Jun 2025] Aljunied GRC Basketball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/table-tennis-community-championship-2025-south-east-89237291">
 [08 Jun 2025] East Coast GRC Table Tennis Community Championship</a>
