@@ -59,22 +59,18 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-and-marymount-csn-badminton-community-championship-2025-99695103">[17 May 2025] Bishan-Toa Payoh GRC Badminton Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/mm-csn-bishan-toa-payoh-marymount-bowling-community-championship-10-05-2025-63402463">[10 May 2025] Bishan-Toa Payoh GRC Bowling Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-bowling-competition-2025-jalan-kayu-33381511">[25 May 2025] Ang Mo Kio GRC Bowling Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-grc-radin-mas-smc-community-bowling-championship-2025-52233040">[25 May 2025] Tanjong Pagar GRC Bowling Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/community-bowling-championship-2025-52233040">
+[25 May 2025] Tanjong Pagar GRC Bowling Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-table-tennis-tournament-2025-24830334">[01 Jun 2025] Bishan-Toa Payoh GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-pickleball-competition-2025-16172479">
 [15 Jun 2025] Tanjong Pagar GRC Pickleball Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/2025-jalan-besar-grc-badminton-competition-43597929">[28 Jun 2025] Jalan Besar GRC Badminton Community Competition</a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/inter-csn-futsal-5s-27522459">
 [22 Jun 2025] Tanjong Pagar GRC Football Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/community-bowling-championship-2025-52233040">
-[25 May 2025] Tanjong Pagar GRC Bowling Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/whampoa-pickleball-community-championship-2025-52416223">
 [28 - 29 Jun 2025] Jalan Besar GRC Pickleball Community Championship</a>
