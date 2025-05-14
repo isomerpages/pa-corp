@@ -106,14 +106,14 @@ Find your district and GRC below to register for upcoming competitions:
 
 <b>North West</b>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-2025-football-5v5--nee-soon-59880967">
+[18 May 2025] Nee Soon GRC Football Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">[24 May 2025] Community Championship 2025 - Floorball Competitions (National-level) </a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/holland-bukit-timah-bukit-panjang-community-championship-badminton-2025-71155196">[24 May 2025] Holland-Bukit Timah GRC Badminton Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-central-csn-community-championship-2025-pickleball-64430038">[24 May 2025] Sembawang GRC Pickleball Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-2025-football-5v5--nee-soon-59880967">
-[18 May 2025] Nee Soon GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-football-5-a-side-men-s-open-masters-15117084">
 [25 May 2025] Sembawang GRC Football Community Championship</a>
