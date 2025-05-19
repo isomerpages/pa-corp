@@ -24,7 +24,7 @@ of your community.</p>
 <p>As a Grassroots Volunteer, you will join one of over 2,000 GROs across
 the island. Your role is to foster neighbourliness and strengthen community
 bonds, encouraging residents to meet, share and connect. Within the GROs,
-you will take on various responsibilities, including explaining government
+you will take on various responsibilities, including sharing government
 policies, gathering feedback from residents, assisting those in need and
 organising programmes for outreach and engagement.</p>
 <p></p>
