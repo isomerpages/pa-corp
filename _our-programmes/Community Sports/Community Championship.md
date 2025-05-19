@@ -24,12 +24,11 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Comp_Format___Categories_v1.png"></div>
 <h3>Competition Schedule</h3>
-<p>Mark your calendars! Community Championship 2025 kicks off this April through early July. Check out our upcoming competitions below!
-Competition schedule for June and July will be announced soon - stay tuned!</p>
+<p>Mark your calendars! Community Championship 2025 kicks off this April through early July. Check out our upcoming competitions below! Competition schedule for June and July will be announced soon - stay tuned!</p>
 
 <h4><p style="color: black;">April - May 2025 Competition Schedule</p></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Competiton_Schedule_7_May.png"></div>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Competiton_Schedule_16_May.png"></div>
 
 Planning to participate? Everything you need to know about competition rules and regulations is on the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
 
@@ -139,6 +138,8 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-community-championship-basketball-2025-90977974">
 [01 Jun 2025] Aljunied GRC Basketball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-community-championship-table-tennis-2025-29869077">[01 Jun 2025] Aljunied GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/table-tennis-community-championship-2025-south-east-89237291">
 [08 Jun 2025] East Coast GRC Table Tennis Community Championship</a>
