@@ -9,7 +9,7 @@ image: ""
 variant: markdown
 ---
 ### Grassroots leaders are not required to declare their political affiliations to PA
-**Response to parliamentary question on rental caps for festival related bazaars, hawker centres and commercial properties leased out by Government agencies**
+**Response to parliamentary question on the declaration and consideration of political affiliations when appointing grassroots leaders**
 
 ![](/images/NewsRoom/Parliament%20House.jpg)
 
