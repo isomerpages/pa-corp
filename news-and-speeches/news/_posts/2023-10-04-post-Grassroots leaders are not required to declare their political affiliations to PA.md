@@ -13,4 +13,4 @@ variant: markdown
 
 ![](/images/NewsRoom/Parliament%20House.jpg)
 
-The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website [here](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2023/Nov/Rental-caps-for-festival-related-bazaars)
+The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website [here](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2023/Oct/Grassroots-leaders-are-not-required-to-declare-their-political-affiliations-to-PA)
