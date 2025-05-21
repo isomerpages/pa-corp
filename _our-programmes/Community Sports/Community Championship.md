@@ -91,9 +91,6 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-badminton-community-championship-2025-99537450">[14 Jun 2025] Aljunied GRC Badminton Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-badminton-community-championship-2025-99537450">
-[14 Jun 2025] Aljunied GRC Pickleball Community Championship</a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-football-community-championships-14-15-june-2025-27378526">[14-15 Jun 2025] Sengkang GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-community-championship-2025-football-5-a-side-82804907">[15 Jun 2025] Aljunied GRC Football Community Championship</a>
