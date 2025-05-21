@@ -63,7 +63,9 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-table-tennis-tournament-2025-24830334">[01 Jun 2025] Bishan-Toa Payoh GRC Table Tennis Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-3-on-3-basketball-tournament-65201700">[08 June 2025] Tanjong Pagar GRC Basketball Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-3-on-3-basketball-tournament-65201700">[08 Jun 2025] Tanjong Pagar GRC Basketball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-badminton-tournament-2025-cheng-san-seletar-66894198">[14 Jun 2025] Ang Mo Kio GRC Badminton Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-pickleball-competition-2025-16172479">
 [15 Jun 2025] Tanjong Pagar GRC Pickleball Community Championship</a>
@@ -85,8 +87,16 @@ Find your district and GRC below to register for upcoming competitions:
 
 <b>North East</b>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-community-championship-table-tennis-2025-29869077">[01 Jun 2025] Aljunied GRC Table Tennis Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-badminton-community-championship-2025-99537450">[14 Jun 2025] Aljunied GRC Badminton Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-badminton-community-championship-2025-99537450">
 [14 Jun 2025] Aljunied GRC Pickleball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-community-championship-2025-football-5-a-side-82804907">[15 Jun 2025] Aljunied GRC Football Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-football-community-championships-14-15-june-2025-27378526">[14 Jun 2025] Sengkang GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-table-tennis-community-championship-2025-29876749">[15 Jun 2025] Sengkang GRC Table Tennis Community Championship</a>
 <br>
