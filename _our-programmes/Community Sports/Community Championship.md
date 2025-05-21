@@ -153,7 +153,7 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/24-05-2025-chua-chu-kang-cluster-futsal-community-championship-2025-11049331">[24 May 2025] Chua Chu Kang GRC Football Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/choa-chu-kang-cluster-table-tennis-community-games-championship-2025-86955284">[25 May 2025] Choa Chu Kang GRC Table Tennis Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/choa-chu-kang-cluster-table-tennis-community-games-championship-2025-86955284">[25 May 2025] Chua Chu Kang GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/cck-csn-chua-chu-kang-cluster-pickleball-community-championship-2025-25071159">
 [01 Jun 2025] Chua Chu Kang GRC Pickleball Community Championship</a>
