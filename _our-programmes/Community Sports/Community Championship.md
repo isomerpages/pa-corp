@@ -130,6 +130,10 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-grc-sg60-shuttlers-badminton-community-championship-2025-78661933">[14 Jun 2025] Sembawang GRC Badminton Community Championship</a><br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/yew-tee-csn-marsiling-yew-tee-grc-community-championship-2025-bowling-46876064">[15 Jun 2025] Marsiling-Yew Tee GRC Bowling Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/nee-soon-grc-badminton-community-challenge-2025-13767155">[15 Jun 2025] Nee Soon GRC Badminton Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/nee-soon-east-csn-pickleball-community-championship-28-june-2025-ns-cares-2024-37953219">[28 Jun 2025] Nee Soon GRC Pickleball Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-central-csn-community-championship-2025-basketball-12227797">[28 Jun 2025] Sembawang GRC Basketball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-bowling-4-a-side-mixed-team-99481234">
@@ -141,6 +145,9 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/table-tennis-community-championship-2025-south-east-89237291">
 [08 Jun 2025] East Coast GRC Table Tennis Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-3x3-basketball-championship-95000821">[05 Jul 2025] Marine Parade GRC Basketball Community Championship</a>
+<br>
 
 <b>South West</b>
 <br>
