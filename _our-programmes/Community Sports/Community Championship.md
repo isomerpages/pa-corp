@@ -68,7 +68,7 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-badminton-tournament-2025-cheng-san-seletar-66894198">[14 Jun 2025] Ang Mo Kio GRC Badminton Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-pickleball-competition-2025-16172479">
-[15 Jun 2025] Tanjong Pagar GRC Pickleball Community Championship</a>
+[14 Jun 2025] Tanjong Pagar GRC Pickleball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/inter-csn-futsal-5s-27522459">
 [22 Jun 2025] Tanjong Pagar GRC Football Community Championship</a>
