@@ -70,6 +70,9 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-pickleball-competition-2025-16172479">
 [14 Jun 2025] Tanjong Pagar GRC Pickleball Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-potong-pasir-smc-table-tennis-community-championship-2025-88405545">
+[21 Jun 2025] Jalan Besar GRC Table Tennis Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/inter-csn-futsal-5s-27522459">
 [22 Jun 2025] Tanjong Pagar GRC Football Community Championship</a>
 <br>
@@ -80,9 +83,6 @@ Find your district and GRC below to register for upcoming competitions:
 [29 Jun 2025] Ang Mo Kio GRC Basketball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-community-championship-2025-basketball-3-on-3-men-s-open-75716173">[29 Jun 2025] Bishan-Toa Payoh GRC Basketball Community Competition</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-potong-pasir-smc-table-tennis-community-championship-2025-88405545">
-[29 Jun 2025] Jalan Besar GRC Table Tennis Community Championship</a>
 <br>
 
 <b>North East</b>
