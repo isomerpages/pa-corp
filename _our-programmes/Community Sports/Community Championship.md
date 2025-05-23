@@ -84,7 +84,7 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-community-championship-2025-basketball-3-on-3-men-s-open-75716173">[29 Jun 2025] Bishan-Toa Payoh GRC Basketball Community Competition</a>
 <br>
-
+<br>
 <b>North East</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-community-championship-table-tennis-2025-29869077">[01 Jun 2025] Aljunied GRC Table Tennis Community Championship</a>
@@ -105,7 +105,7 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/punggol-grc-table-tennis-competition-48430193">
 [29 Jun 2025] Punggol GRC Table Tennis Community Championship</a>
 <br>
-
+<br>
 <b>North West</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/3-v-3-floorball-competitions-community-championship-2025-83101531">[24 May 2025] Community Championship 2025 - Floorball Competitions (National-level) </a>
@@ -136,7 +136,7 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-bowling-4-a-side-mixed-team-99481234">
 [29 Jun 2025] Sembawang GRC Bowling Community Championship</a>
 <br>
-	
+<br>
 <b>South East</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-bowling-2025-south-east-32392178">[25 May 2025] East Coast &amp; Marine Parade GRC Bowling Community Championship</a>
@@ -146,7 +146,7 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-3x3-basketball-championship-95000821">[05 Jul 2025] Marine Parade GRC Basketball Community Championship</a>
 <br>
-
+<br>
 <b>South West</b>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/24-05-2025-chua-chu-kang-cluster-futsal-community-championship-2025-11049331">[24 May 2025] Chua Chu Kang GRC Football Community Championship</a>
