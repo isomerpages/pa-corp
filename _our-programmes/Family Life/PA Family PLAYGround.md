@@ -7,12 +7,15 @@ third_nav_title: Family Life
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/playgrnd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/playground.jpg">
 </div>
-<p></p>
-<p>Get set for family fun overload at PA Family PLAYGround 2025! We're bringing
-the excitement to your neighbourhood with our <strong>P</strong>lay, <strong>L</strong>earn, <strong>A</strong>ppreciate,
-and care for <strong>Y</strong>our family and the community zones.</p>
+<p>The PA Family PLAYGround is back with an exciting blend of innovative
+virtual and physical activities designed to bring families closer together
+to build a caring community. It will run weekly from 8 June to 5 July 2025
+across five districts, featuring an online ROBLOX FamilyVerse, a lifesized
+board game, and other fun experiences to enable families to <strong>PLAY</strong> together, <strong>LEARN</strong> and
+grow, <strong>APPRECIATE</strong> one another, and care for <strong>YOUR</strong> family
+and the community.</p>
 <p>Team up to tackle challenges, make new friends, and become a Champion
 of Family Life!</p>
 <p>Ready to level up your bonding game and make 2025 your most awesome year
@@ -128,7 +131,14 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </tr>
 </tbody>
 </table>
+<p>Can’t wait to start? Jump into our very first metaverse - <a href="go.gov.sg/pafamilyverse" rel="noopener nofollow" target="_blank">ROBLOX PA Family PLAYGround FamilyVers</a> where
+you can team up with your family to complete fun quests and win prizes!
+Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png">
+</div>
 <h3><strong>Highlights of PA Family PLAYGround 2024</strong></h3>
 <h4><strong>In Case You Missed It</strong></h4>
 <div class="iframe-wrapper">
