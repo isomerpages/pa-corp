@@ -115,7 +115,8 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-central-csn-community-championship-2025-basketball-12227797">[28 Jun 2025] Sembawang GRC Basketball Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-bowling-4-a-side-mixed-team-99481234">
+<a target="_blank" href="https://www.onepa.gov.sg/events/holland-bukit-timah-bukit-panjang-community-championship-bowling-2025-17050901">[29 Jun 2025] Holland-Bukit Timah GRC Bowling Community Championship</a>
+<br><a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-bowling-4-a-side-mixed-team-99481234">
 [29 Jun 2025] Sembawang GRC Bowling Community Championship</a>
 <br>
 <br>
@@ -142,8 +143,12 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-basketball-community-championship-2025-48320822">
 [15 Jun 2025] Chua Chu Kang GRC Basketball Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/jurong-3-x-3-basketball-competition-2025-16427373">[21 Jun 2025] Jurong GRC Basketball Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">
 [21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/bowling-community-championship-2025-43256225">[22 Jun 2025] Jurong GRC Bowling Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-table-tennis-competition-2025-19743420">
 [22 Jun 2025] Jurong GRC Table Tennis Community Championship</a>
