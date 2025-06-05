@@ -71,7 +71,7 @@ Find your district and GRC below to register for upcoming competitions:
 [22 Jun 2025] Tanjong Pagar GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/whampoa-pickleball-community-championship-2025-52416223">
-[28 - 29 Jun 2025] Jalan Besar GRC Pickleball Community Championship</a>
+[21 - 22 Jun 2025] Jalan Besar GRC Pickleball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-basketball-tournament-2025-cheng-san-seletar-69152866">
 [29 Jun 2025] Ang Mo Kio GRC Basketball Community Championship</a>
