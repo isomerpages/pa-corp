@@ -131,7 +131,7 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </tr>
 </tbody>
 </table>
-<p>Can’t wait to start? Jump into our very first metaverse - <a href="go.gov.sg/pafamilyverse" rel="noopener nofollow" target="_blank">ROBLOX PA Family PLAYGround FamilyVers</a> where
+<p>Can’t wait to start? Jump into our very first metaverse - <a href="go.gov.sg/pafamilyverse" rel="noopener nofollow" target="_blank">ROBLOX PA Family PLAYGround FamilyVerse</a> where
 you can team up with your family to complete fun quests and win prizes!
 Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
 </p>
