@@ -20,8 +20,7 @@ and applied skills and competencies to carry out their work in the community
 effectively.</p>
 <h5>Overview of NACLI</h5>
 <p><em>Mission</em>
-<br>To Develop, Align and Inspire Leaders for a Caring Community and United
-Singapore</p>
+<br>To Develop, Align and Inspire Leaders for a Caring and United Singapore</p>
 <p><em>Vision</em>
 <br>The Institute of Learning Excellence for Community Leadership Development</p>
 <p><em>Tagline</em>
