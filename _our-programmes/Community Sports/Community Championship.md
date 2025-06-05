@@ -142,9 +142,6 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/jurong-3-x-3-basketball-competition-2025-16427373">[21 Jun 2025] Jurong GRC Basketball Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">
-[21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/bowling-community-championship-2025-43256225">[22 Jun 2025] Jurong GRC Bowling Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-table-tennis-competition-2025-19743420">
