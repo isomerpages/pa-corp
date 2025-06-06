@@ -26,7 +26,7 @@ effectively.</p>
 <p><em>Tagline</em>
 <br>Inspiring Leaders, Empowering Communities</p>
 <h5>About the NACLI Logo</h5>
-<p><a href="/files/NACLI/01%20NACLI/About%20NACLI%20Logo.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
+<p><a href="/files/NACLI/About_NACLI_Logo.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
 understand more about the NACLI Logo.</p>
 <h5>NACLI Prospectus</h5>
 <p>Click on the image below to download our NACLI Prospectus (2025-2026).</p>
