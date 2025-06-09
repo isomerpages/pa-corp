@@ -45,19 +45,19 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1</strong>
+<p><strong><s>1</s></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 June 2025 (Sunday)</strong>
+<p><strong><s>8 June 2025 (Sunday)</s></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10am to 6pm</strong>
+<p><strong><s>10am to 6pm</s></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tengah CC, Ground Floor</strong>
+<p><strong><s>Tengah CC, Ground Floor</s></strong>
 </p>
 </td>
 </tr>
@@ -81,9 +81,9 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p>PA Family PLAYGround 2025 kicked off the first off five events across
-various districts at Tengah Community Club, to bring families closer together
-to build a caring community!</p>
+<p>PA Family PLAYGround 2025 kicked off the first of five events across various
+districts at Tengah Community Club, to bring families closer together to
+build a caring community!</p>
 <p></p>
 <p>Missed the fun last weekend? Join us for the upcoming PA Family PLAYGround!</p>
 </td>
