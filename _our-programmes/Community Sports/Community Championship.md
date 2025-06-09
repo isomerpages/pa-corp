@@ -24,10 +24,13 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Comp_Format___Categories_v1.png"></div>
 <h3>Competition Schedule</h3>
-<p>Mark your calendars! Community Championship 2025 kicks off this April through early July.</p>
-<h4><p style="color: black;">June - July 2025 Competition Schedule</p></h4>
+<p>Mark your calendars! Community Championship 2025 kicks off this April through early July. <br></p><h4><p style="color: black;">June - July 2025 Competition Schedule</p></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm_Champ_June___July_2025_Schedule.png"></div>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CC_June_July_2025__Updated_v3_.png"></div>
+<h4><p style="color: black;">April - May 2025 Competition Schedule</p></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CC_April_May_2025__Updated_v2_.png"></div>
+
 Planning to participate? Everything you need to know about competition rules and regulations is on the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
 
 <p>Connect with National Sports Associations (NSAs) for pro tips and resources:
@@ -61,6 +64,10 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-pickleball-competition-2025-16172479">
 [14 Jun 2025] Tanjong Pagar GRC Pickleball Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/radin-mas-csn-tanjong-pagar-cluster-floorball-tournament-15-june-2025-10061528">[15 Jun 2025] Tanjong Pagar GRC Floorball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-pickleball-competition-2025-yio-chu-kang-71455927">[21 Jun 2025] Ang Mo Kio GRC Pickleball Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-potong-pasir-smc-table-tennis-community-championship-2025-88405545">
 [21 Jun 2025] Jalan Besar GRC Table Tennis Community Championship</a>
 <br>
@@ -68,7 +75,7 @@ Find your district and GRC below to register for upcoming competitions:
 [22 Jun 2025] Tanjong Pagar GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/whampoa-pickleball-community-championship-2025-52416223">
-[28 - 29 Jun 2025] Jalan Besar GRC Pickleball Community Championship</a>
+[21-22 Jun 2025] Jalan Besar GRC Pickleball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-basketball-tournament-2025-cheng-san-seletar-69152866">
 [29 Jun 2025] Ang Mo Kio GRC Basketball Community Championship</a>
@@ -80,19 +87,24 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-badminton-community-championship-2025-99537450">[14 Jun 2025] Aljunied GRC Badminton Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-football-community-championships-14-15-june-2025-27378526">[14-15 Jun 2025] Sengkang GRC Football Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-football-community-championships-14-15-june-2025-27378526">[14 Jun 2025] Sengkang GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/aljunied-grc-hougang-smc-community-championship-2025-football-5-a-side-82804907">[15 Jun 2025] Aljunied GRC Football Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-table-tennis-community-championship-2025-29876749">[15 Jun 2025] Sengkang GRC Table Tennis Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/csn-aljunied-grc-and-hougang-smc-basketball-community-championship-2025-59547145">[21 Jun 2025] Aljunied GRC Basketball Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/csn-community-championship-bowling-mixed-open-4-v-4-42246306">[21 Jun 2025] Aljunied GRC Bowling Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/tampines-grc-badminton-community-championship-2025-23908698">
-[22 Jun 2025] Tampines GRC Badminton Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/pasir-ris-changi-grc-community-championship-2025-football-58869808">[22 Jun 2025] Sengkang GRC Pickleball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/punggol-west-csn-3-x-3-basketball-community-championship-72214637">[28 Jun 2025] Pasir Ris - Changi GRC &amp; Punggol GRC Basketball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/punggol-grc-table-tennis-competition-48430193">
 [29 Jun 2025] Punggol GRC Table Tennis Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/pasir-ris-changi-grc-community-championship-2025-football-58869808">[05 Jul 2025] Pasir Ris - Changi GRC Football Community Championship</a>
 <br>
 <br>
 <b>North West</b>
@@ -108,8 +120,11 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-central-csn-community-championship-2025-basketball-12227797">[28 Jun 2025] Sembawang GRC Basketball Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-bowling-4-a-side-mixed-team-99481234">
+<a target="_blank" href="https://www.onepa.gov.sg/events/holland-bukit-timah-bukit-panjang-community-championship-bowling-2025-17050901">[29 Jun 2025] Holland-Bukit Timah GRC Bowling Community Championship</a>
+<br><a target="_blank" href="https://www.onepa.gov.sg/events/admiralty-csn-community-championship-2025-bowling-4-a-side-mixed-team-99481234">
 [29 Jun 2025] Sembawang GRC Bowling Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/woodgrove-csn-marsiling-yew-tee-jamboree-football-2025-community-championship-96594894">[06 Jul 2025] Marsiling-Yew Tee GRC Football Community Championship</a>
 <br>
 <br>
 <b>South East</b>
@@ -117,7 +132,11 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/table-tennis-community-championship-2025-south-east-89237291">
 [08 Jun 2025] East Coast GRC Table Tennis Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/marine-parade-cluster-csn-badminton-community-games-2025-19827149">[05 Jul 2025] Marine Parade GRC Badminton Community Championship</a>
+<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-3x3-basketball-championship-95000821">[05 Jul 2025] Marine Parade GRC Basketball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/marine-parade-cluster-csn-badminton-community-games-2025-19827149">[05 Jul 2025] Marine Parade GRC Table Tennis Community Championship</a>
 <br>
 <br>
 <b>South West</b>
@@ -131,8 +150,9 @@ Find your district and GRC below to register for upcoming competitions:
 <a target="_blank" href="https://www.onepa.gov.sg/events/chua-chu-kang-cluster-basketball-community-championship-2025-48320822">
 [15 Jun 2025] Chua Chu Kang GRC Basketball Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/boon-lay-csn-west-coast-grc-community-championship-2025-pickleball-37921572">
-[21 Jun 2025] West Coast GRC Pickleball Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/jurong-3-x-3-basketball-competition-2025-16427373">[21 Jun 2025] Jurong GRC Basketball Community Championship</a>
+<br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/bowling-community-championship-2025-43256225">[22 Jun 2025] Jurong GRC Bowling Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-table-tennis-competition-2025-19743420">
 [22 Jun 2025] Jurong GRC Table Tennis Community Championship</a>
