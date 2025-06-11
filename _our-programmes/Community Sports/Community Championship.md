@@ -97,7 +97,7 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/pasir-ris-changi-punggol-grc-badminton-community-championships-2025-24942472">[21 Jun 2025] Pasir Ris - Changi &amp; Punggol GRC Badmintion Community Championship</a>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/pasir-ris-changi-grc-community-championship-2025-football-58869808">[22 Jun 2025] Sengkang GRC Pickleball Community Championship</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/sengkang-grc-pickleball-competition-51521272">[22 Jun 2025] Sengkang GRC Pickleball Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/punggol-west-csn-3-x-3-basketball-community-championship-72214637">[28 Jun 2025] Pasir Ris - Changi &amp; Punggol GRC Basketball Community Championship</a>
 <br>
