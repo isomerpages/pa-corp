@@ -61,11 +61,6 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
@@ -166,7 +161,6 @@ events:</p>
 PLAYGround FamilyVerse where you can team up with your family to complete
 fun quests and win prizes! Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png">
 </div>
