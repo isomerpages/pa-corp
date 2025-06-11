@@ -45,20 +45,47 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1</strong>
+<p><strong><s>1</s></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 June 2025 (Sunday)</strong>
+<p><strong><s>8 June 2025 (Sunday)</s></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10am to 6pm</strong>
+<p><strong><s>10am to 6pm</s></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tengah CC, Ground Floor</strong>
+<p><strong><s>Tengah CC, Ground Floor</s></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Family_PLAYGround_at_Tengah_CC__1_.png">
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<p>PA Family PLAYGround 2025 kicked off the first of five events across various
+districts at Tengah Community Club, to bring families closer together to
+build a caring community!</p>
+<p></p>
+<p>Missed the fun last weekend? Join us for the upcoming PA Family PLAYGround!</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +158,7 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </tr>
 </tbody>
 </table>
-<p>Can’t wait to start? Jump into our very first metaverse - <a href="go.gov.sg/pafamilyverse" rel="noopener nofollow" target="_blank">ROBLOX PA Family PLAYGround FamilyVerse</a> where
+<p>Can’t wait to start? Jump into our very first metaverse - <a href="https://www.go.gov.sg/pafamilyverse" rel="noopener nofollow" target="_blank">ROBLOX PA Family PLAYGround FamilyVerse</a> where
 you can team up with your family to complete fun quests and win prizes!
 Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
 </p>
