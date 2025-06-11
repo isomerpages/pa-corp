@@ -57,8 +57,6 @@ Find your district and GRC below to register for upcoming competitions:
 <p>
 <b>Central Singapore</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-3-on-3-basketball-tournament-65201700">[08 Jun 2025] Tanjong Pagar GRC Basketball Community Championship</a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-badminton-tournament-2025-cheng-san-seletar-66894198">[14 Jun 2025] Ang Mo Kio GRC Badminton Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-pickleball-competition-2025-16172479">
@@ -111,8 +109,6 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <b>North West</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/csn-sembawang-grc-table-tennis-community-championship-2025-89685797">[08 Jun 2025] Sembawang GRC Table Tennis Community Championship</a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/sembawang-grc-sg60-shuttlers-badminton-community-championship-2025-78661933">[14 Jun 2025] Sembawang GRC Badminton Community Championship</a><br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/yew-tee-csn-marsiling-yew-tee-grc-community-championship-2025-bowling-46876064">[15 Jun 2025] Marsiling-Yew Tee GRC Bowling Community Championship</a>
 <br>
@@ -130,9 +126,6 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <br>
 <b>South East</b>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/table-tennis-community-championship-2025-south-east-89237291">
-[08 Jun 2025] East Coast GRC Table Tennis Community Championship</a>
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/marine-parade-cluster-csn-badminton-community-games-2025-19827149">[05 Jul 2025] Marine Parade GRC Badminton Community Championship</a>
 <br>
