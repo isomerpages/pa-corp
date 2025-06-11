@@ -20,7 +20,6 @@ and the community.</p>
 of Family Life!</p>
 <p>Ready to level up your bonding game and make 2025 your most awesome year
 yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
-<p>Don't miss out and join us on these dates!</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
