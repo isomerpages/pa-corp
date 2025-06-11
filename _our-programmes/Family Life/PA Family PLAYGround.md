@@ -45,19 +45,20 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><s>1</s></strong>
+<p><strong>1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><s>8 June 2025 (Sunday)</s></strong>
+<p><strong>8 June 2025 (Sunday)</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10am to 6pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><s>10am to 6pm</s></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><s>Tengah CC, Ground Floor</s></strong>
+<p><strong>Tengah CC, Ground Floor</strong>
 </p>
 </td>
 </tr>
@@ -85,7 +86,11 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 districts at Tengah Community Club, to bring families closer together to
 build a caring community!</p>
 <p></p>
-<p>Missed the fun last weekend? Join us for the upcoming PA Family PLAYGround!</p>
+<p>Catch the highlights and memorable moments from the event on Instagram
+(@<a href="http://pa.win.family" rel="noopener noreferrer nofollow" target="_blank">pa.win.family</a>)
+or Facebook (PA Family Life Champion).</p>
+<p>Missed the fun last weekend? Join us at our upcoming PA Family PLAYGround
+events:</p>
 </td>
 </tr>
 <tr>
