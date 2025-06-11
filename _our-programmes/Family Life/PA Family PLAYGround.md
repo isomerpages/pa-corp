@@ -163,9 +163,9 @@ events:</p>
 </tr>
 </tbody>
 </table>
-<p>Can’t wait to start? Jump into our very first metaverse - <a href="https://www.go.gov.sg/pafamilyverse" rel="noopener nofollow" target="_blank">ROBLOX PA Family PLAYGround FamilyVerse</a> where
-you can team up with your family to complete fun quests and win prizes!
-Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
+<p>Can’t wait to start? Jump into our very first metaverse - Roblox PA Family
+PLAYGround FamilyVerse where you can team up with your family to complete
+fun quests and win prizes! Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
