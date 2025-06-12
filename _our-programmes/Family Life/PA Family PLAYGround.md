@@ -20,7 +20,6 @@ and the community.</p>
 of Family Life!</p>
 <p>Ready to level up your bonding game and make 2025 your most awesome year
 yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
-<p>Don't miss out and join us on these dates!</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -45,25 +44,21 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><s>1</s></strong>
+<p><strong>1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><s>8 June 2025 (Sunday)</s></strong>
+<p><strong>8 June 2025 (Sunday)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><s>10am to 6pm</s></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><s>Tengah CC, Ground Floor</s></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10am to 6pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tengah CC, Ground Floor</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -85,7 +80,11 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 districts at Tengah Community Club, to bring families closer together to
 build a caring community!</p>
 <p></p>
-<p>Missed the fun last weekend? Join us for the upcoming PA Family PLAYGround!</p>
+<p>Catch the highlights and memorable moments from the event on Instagram
+(@<a href="http://pa.win.family" rel="noopener noreferrer nofollow" target="_blank">pa.win.family</a>)
+or Facebook (PA Family Life Champion).</p>
+<p>Missed the fun last weekend? Join us at our upcoming PA Family PLAYGround
+events:</p>
 </td>
 </tr>
 <tr>
@@ -158,11 +157,10 @@ build a caring community!</p>
 </tr>
 </tbody>
 </table>
-<p>Can’t wait to start? Jump into our very first metaverse - <a href="https://www.go.gov.sg/pafamilyverse" rel="noopener nofollow" target="_blank">ROBLOX PA Family PLAYGround FamilyVerse</a> where
-you can team up with your family to complete fun quests and win prizes!
-Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
+<p>Can’t wait to start? Jump into our very first metaverse - Roblox PA Family
+PLAYGround FamilyVerse where you can team up with your family to complete
+fun quests and win prizes! Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png">
 </div>
