@@ -79,12 +79,6 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 <p>PA Family PLAYGround 2025 kicked off the first of five events across various
 districts at Tengah Community Club, to bring families closer together to
 build a caring community!</p>
-<p></p>
-<p>Catch the highlights and memorable moments from the event on Instagram
-(@<a href="http://pa.win.family" rel="noopener noreferrer nofollow" target="_blank">pa.win.family</a>)
-or Facebook (PA Family Life Champion).</p>
-<p>Missed the fun last weekend? Join us at our upcoming PA Family PLAYGround
-events:</p>
 </td>
 </tr>
 <tr>
@@ -103,6 +97,24 @@ events:</p>
 <td rowspan="1" colspan="1">
 <p><strong>Braddell Heights CC, Ground Floor</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Family_PLAYGround_at_Tengah_CC_4.png">
+</div>
+<p>PA Family PLAYGround 2025 makes its 2nd stop at Braddell Heights Community
+Club, where families celebrated Father's Day weekend with exciting activities
+including a Mini Penalty Shootout Competition, Creative Bottle Decoration,
+and a special storytelling session.</p>
+<p></p>
+<p>Catch the highlights and memorable moments from the event on Instagram
+(@<a href="http://pa.win.family" rel="noopener noreferrer nofollow" target="_blank">pa.win.family</a>)
+or Facebook (PA Family Life Champion).</p>
+<p>Missed the fun last weekend? Join us at our upcoming PA Family PLAYGround
+events:</p>
 </td>
 </tr>
 <tr>
