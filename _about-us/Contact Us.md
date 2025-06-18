@@ -57,7 +57,7 @@ variant: tiptap
 <p><strong>PA Contact Number:</strong>&nbsp;</p>
 <p>PA Contact Centre’s Hotline: 62255322.</p>
 <p>The PA Contact Centre operates from 8 am to 6 pm daily, except public
-holidays. You can also reach PA via our <a href="https://form.gov.sg/62e8e68d9b241b001207dbdf" rel="noopener noreferrer nofollow" target="_blank">online form</a>.</p>
+holidays. You can also reach PA via our <a href="https://form.gov.sg/67d39c2867d0960c978a27d2" rel="noopener noreferrer nofollow" target="_blank">online form</a>.</p>
 <p><strong>PA Operating Hours:</strong>&nbsp;</p>
 <p>Monday to Friday - 9.00 am to 6.00pm
 <br>Closed on weekends and Public Holidays</p>
