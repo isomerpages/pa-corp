@@ -7,13 +7,12 @@ description: ""
 <h3>Revenue Tender for Fernvale Sports and Recreation Space</h3>
 <hr>
 <h4>Details</h4>
-<p>A mandatory Pre-tender briefing will be held on:</p>
+<p>A non-andatory Pre-tender briefing will be held on:</p>
 <p>Date: 25 June 2025 (Wednesday)</p>
 <p>Time: 10.00 am</p>
 <p>Venue: On-site located next to Exit B of Thanggam LRT station (40 Fernvale
 Road). Parking is available at Blk 465, Fernvale Road, Singapore 790465</p>
-<p>Only tenderers who have attended the mandatory Pre-tender briefing will
-be considered in the tender evaluation.</p>
+<p></p>
 <p>Calling Committee: Fernvale Citizens’ Consultative Committee</p>
 <p>Publication Date: 23 June 2025 (Monday)</p>
 <p>Closing Date &amp; Time: 11 July 2025 (Friday), 06:00 PM</p>
