@@ -4,7 +4,8 @@ permalink: /revenue-tender-for-fernvale-sports-and-recreation-space/
 variant: tiptap
 description: ""
 ---
-<h3>Revenue Tender for Fernvale Sports and Recreation Space  </h3>
+<h3>Revenue Tender for Fernvale Sports and Recreation Space</h3>
+<hr>
 <h4>Details</h4>
 <p>A mandatory Pre-tender briefing will be held on:</p>
 <p>Date: 25 June 2025 (Wednesday)</p>
@@ -16,8 +17,9 @@ be considered in the tender evaluation.</p>
 <p>Calling Committee: Fernvale Citizens’ Consultative Committee</p>
 <p>Publication Date: 23 June 2025 (Monday)</p>
 <p>Closing Date &amp; Time: 11 July 2025 (Friday), 06:00 PM</p>
-<p>Tender Document</p>
+<hr>
+<h4>Tender Document</h4>
 <p>For request of soft copy tender documents, please email to <a href="mailto:Eileen.tan@sg.knightfrank.com" rel="noopener noreferrer nofollow" target="_blank">Eileen.tan@sg.knightfrank.com</a>.</p>
-<p>For Enquiry</p>
+<h4>For Enquiry</h4>
 <p>For enquiries, please contact Ms Eileen Tan at Tel: 9006 2409 or email
 to <a href="mailto:Eileen.tan@sg.knightfrank.com" rel="noopener noreferrer nofollow" target="_blank">Eileen.tan@sg.knightfrank.com</a>.</p>
