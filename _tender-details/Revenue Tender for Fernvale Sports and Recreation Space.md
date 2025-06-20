@@ -7,7 +7,7 @@ description: ""
 <h3>Revenue Tender for Fernvale Sports and Recreation Space</h3>
 <hr>
 <h4>Details</h4>
-<p>A non-andatory Pre-tender briefing will be held on:</p>
+<p>A non-mandatory Pre-tender briefing will be held on:</p>
 <p>Date: 25 June 2025 (Wednesday)</p>
 <p>Time: 10.00 am</p>
 <p>Venue: On-site located next to Exit B of Thanggam LRT station (40 Fernvale
