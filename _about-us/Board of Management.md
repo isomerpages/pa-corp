@@ -131,12 +131,8 @@ Ministry of Transport
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Sitoh Yih Pin</strong>
-<br>Adviser
-<br>Potong Pasir Grassroots Organisations
-<br>Potong Pasir Community Club
-<br>6 Potong Pasir Ave 2
-<br>Singapore 358361</p>
-</td>
+<br>Former Adviser to Potong Pasir Grassroots Organisations
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
