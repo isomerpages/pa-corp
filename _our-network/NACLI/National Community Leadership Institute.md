@@ -20,7 +20,8 @@ and applied skills and competencies to carry out their work in the community
 effectively.</p>
 <h5>Overview of NACLI</h5>
 <p><em>Mission</em>
-<br>To Develop, Align and Inspire Leaders for a Caring and United Singapore</p>
+<br>To Develop, Align and Inspire Leaders in building a Caring and United
+Singapore</p>
 <p><em>Vision</em>
 <br>The Institute of Learning Excellence for Community Leadership Development</p>
 <p><em>Tagline</em>
@@ -31,6 +32,6 @@ understand more about the NACLI Logo.</p>
 <h5>NACLI Prospectus</h5>
 <p>Click on the image below to download our NACLI Prospectus (2025-2026).</p>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/nacli-prospectus-2025-26">
-<img style="width: 50%;" height="auto" width="100%" alt="NACLI Prospectus (2025-2026)" src="/images/Our%20Network/NACLI/NACLI_Prospectus_Cover.png">
+<img style="width: 100%" height="auto" width="100%" alt="NACLI Prospectus" src="/images/Our Network/NACLI/Prospectus_Cover__New_VMT_.png">
 </a>
 <p></p>
