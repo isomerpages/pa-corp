@@ -255,19 +255,10 @@ Ministry of Transport
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Adviser to Chairman of PA Board</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lim Boon Heng" src="/images/About Us/Board of Management/15__SA_Mr_Lim_Boon_Heng.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lim Boon Heng</strong>
-<br>People's Association
-<br>9 King George's Avenue
-<br>Singapore 208581</p>
-</td>
+
+
+
 </tr>
 </tbody>
 </table>
