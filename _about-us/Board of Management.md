@@ -59,7 +59,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Zaqy Mohamad</strong>
-<br>Senior Minister of State, Ministry of Defence &amp; Ministry of Manpower
+<br>Senior Minister of State,
+Ministry of Defence &amp; Ministry of Sustainability and the Environment
 <br>18 Havelock Road
 <br>Singapore 059764</p>
 </td>
