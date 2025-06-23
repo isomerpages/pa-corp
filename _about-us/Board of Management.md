@@ -95,8 +95,8 @@ Ministry of Defence &amp; Ministry of Sustainability and the Environment
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Murali Pillai</strong>
-<br>Minister of State,
-<br>Ministry of Law &amp; Ministry of Transport
+<br>MinisSenior Minister of State, Ministry of Law &amp;
+Ministry of Transport
 <br>100 High Street #08-02
 <br>The Treasury
 <br>Singapore 179434</p>
