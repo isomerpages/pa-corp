@@ -113,12 +113,8 @@ Ministry of Transport
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Victor Lye Thiam Fatt, BBM</strong>
-<br>Adviser
-<br>Aljunied GRC Grassroots Organisations
-<br>Punggol Community Club
-<br>3 Hougang Avenue 6
-<br>Singapore 538808</p>
-</td>
+<br>Adviser Ang Mo Kio GRC Grassroots Organisations
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
