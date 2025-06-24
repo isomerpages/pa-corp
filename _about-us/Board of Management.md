@@ -61,7 +61,7 @@ variant: markdown
 <p><strong>Mr Zaqy Mohamad</strong>
 <br>Senior Minister of State,
 <br>Ministry of Defence
-	<br>Ministry of Sustainability and the Environment
+<br>Ministry of Sustainability and the Environment
 <br>18 Havelock Road
 <br>Singapore 059764</p>
 </td>
