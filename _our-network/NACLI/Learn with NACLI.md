@@ -11,4 +11,10 @@ to your devices.</p>
 <h4>Training Schedule</h4>
 <p><a href="https://go.gov.sg/naclicourses-apr-sep-2025-pdf" rel="noopener nofollow" target="_blank">Current Issue (Apr - Sep 2025)</a>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/naclicourses-apr-sep-2025-pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/NACLI/Apr___Sep_2025_EDM.png"></a>
+<p><a href="https://file.go.gov.sg/jan-jun-full.pdf" rel="noopener nofollow" target="_blank">Immediate Past Issue (Jan - Jun 2025)</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/NACLI/Training_Schedule_Jan_Jun_2025.png">
+</div>
 <p></p>
