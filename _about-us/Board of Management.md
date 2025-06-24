@@ -120,8 +120,8 @@ variant: markdown
 	<br>Ang Mo Kio GRC Grassroots Organisations
 	<br>Fernvale Community Club
 <br>21 Sengkang West Avenue
-#01-01
-Singapore 797650
+<br>#01-01
+<br>Singapore 797650
 </p></td>
 </tr>
 <tr>
