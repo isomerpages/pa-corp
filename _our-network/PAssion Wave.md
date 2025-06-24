@@ -95,7 +95,6 @@ before heading down for the rental.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.onepa.gov.sg/cc/passion-wave-pasir-ris" rel="noopener nofollow" target="_blank">PAssion Wave @ Pasir Ris</a>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6528984462266!2d103.94117071525574!3d1.3848834618464227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3dc12aaaaaab%3A0x9fe6d6c08637ca25!2sPAssion%20Wave%20%40%20Pasir%20Ris!5e0!3m2!1sen!2ssg!4v1679281468468!5m2!1sen!2ssg"></iframe>
 </div>
