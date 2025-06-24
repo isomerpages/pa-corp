@@ -9,8 +9,8 @@ variant: tiptap
 of our Training Schedule here! Click on the image below to download a copy
 to your devices.</p>
 <h4>Training Schedule</h4>
-<p>Current Issue (Jul - Dec 2025)</p>
-<p></p>
+<p><a href="https://go.gov.sg/naclicourses-jul-dec-2025" rel="noopener nofollow" target="_blank">Current Issue (Jul - Dec 2025)</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/NACLI/Jul_Dec_2025.png">
 </div>
