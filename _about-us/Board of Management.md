@@ -118,7 +118,10 @@ variant: markdown
 <p><strong>Mr Victor Lye Thiam Fatt, BBM</strong>
 <br>Adviser
 	<br>Ang Mo Kio GRC Grassroots Organisations
-	<br>
+	<br>Fernvale Community Club
+<br>21 Sengkang West Avenue
+#01-01
+Singapore 797650
 </p></td>
 </tr>
 <tr>
