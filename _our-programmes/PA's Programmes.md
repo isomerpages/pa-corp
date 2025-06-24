@@ -139,9 +139,9 @@ community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/our-programmes/passion-wave/details/" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave</a> 
-<br>PA PAssion WaVe's outlets offer a range of land and water sports programmes
-such as abseiling and power boating.</p>
+<p><a href="https://cms.isomer.gov.sg/our-programmes/youth" rel="noopener noreferrer nofollow" target="_blank"><u>Youth</u></a> 
+<br>Channel your youthful energy and help shape your dreams for a happy and
+vibrant Singapore through our programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/our-programmes/emergency-preparedness/" rel="noopener noreferrer nofollow" target="_blank">Emergency Preparedness</a> 
@@ -156,31 +156,13 @@ range of courses and activities.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
-<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main-youth_edited.jpg">
-</div>
-</td>
+
+
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/our-programmes/youth" rel="noopener noreferrer nofollow" target="_blank"><u>Youth</u></a> 
-<br>Channel your youthful energy and help shape your dreams for a happy and
-vibrant Singapore through our programmes.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 </td>
 </tr>
 </tbody>
