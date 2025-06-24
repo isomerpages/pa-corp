@@ -41,8 +41,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Edwin Tong</strong>
-<br>Minister for Culture, Community and Youth
-<br>Second Minister for Law
+<br>Minister for Law
+<br>Second Minister for Home Affairs
 <br>c/o People's Association
 <br>9 King George's Avenue
 <br>Singapore 208581</p>
