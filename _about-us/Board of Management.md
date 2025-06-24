@@ -116,7 +116,9 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Victor Lye Thiam Fatt, BBM</strong>
-<br>Adviser Ang Mo Kio GRC Grassroots Organisations
+<br>Adviser
+	<br>Ang Mo Kio GRC Grassroots Organisations
+	<br>
 </p></td>
 </tr>
 <tr>
