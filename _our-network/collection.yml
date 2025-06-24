@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PAssion Wave.md
-      - Details.md
       - PA's Network.md
       - Community Clubs/.keep
       - Community Clubs/CC Information.md
