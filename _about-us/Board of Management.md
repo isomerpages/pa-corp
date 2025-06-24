@@ -63,7 +63,8 @@ variant: markdown
 <br>Ministry of Defence &amp;
 <br>Ministry of Sustainability and the Environment
 <br>40 Scotts Road
-<br>Singapore 059764</p>
+	<br>#24-00
+<br>Singapore 228231</p>
 </td>
 </tr>
 <tr>
