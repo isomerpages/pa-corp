@@ -59,7 +59,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Zaqy Mohamad</strong>
-<br>Senior Minister of State, Ministry of Defence &amp; Ministry of Manpower
+<br>Senior Minister of State,
+Ministry of Defence &amp; Ministry of Sustainability and the Environment
 <br>18 Havelock Road
 <br>Singapore 059764</p>
 </td>
@@ -94,8 +95,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Murali Pillai</strong>
-<br>Minister of State,
-<br>Ministry of Law &amp; Ministry of Transport
+<br>Senior Minister of State, Ministry of Law &amp;
+Ministry of Transport
 <br>100 High Street #08-02
 <br>The Treasury
 <br>Singapore 179434</p>
@@ -112,12 +113,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Victor Lye Thiam Fatt, BBM</strong>
-<br>Adviser
-<br>Aljunied GRC Grassroots Organisations
-<br>Punggol Community Club
-<br>3 Hougang Avenue 6
-<br>Singapore 538808</p>
-</td>
+<br>Adviser Ang Mo Kio GRC Grassroots Organisations
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -130,12 +127,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Sitoh Yih Pin</strong>
-<br>Adviser
-<br>Potong Pasir Grassroots Organisations
-<br>Potong Pasir Community Club
-<br>6 Potong Pasir Ave 2
-<br>Singapore 358361</p>
-</td>
+<br>Former Adviser to Potong Pasir Grassroots Organisations
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -262,18 +255,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Adviser to Chairman of PA Board</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lim Boon Heng" src="/images/About Us/Board of Management/15__SA_Mr_Lim_Boon_Heng.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lim Boon Heng</strong>
-<br>People's Association
-<br>9 King George's Avenue
-<br>Singapore 208581</p>
 </td>
 </tr>
 </tbody>
