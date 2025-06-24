@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Locate PW.md
       - Details.md
       - PA's Network.md
       - Community Clubs/.keep
