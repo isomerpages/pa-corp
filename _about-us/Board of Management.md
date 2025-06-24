@@ -60,9 +60,11 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><strong>Mr Zaqy Mohamad</strong>
 <br>Senior Minister of State,
-Ministry of Defence &amp; Ministry of Sustainability and the Environment
-<br>18 Havelock Road
-<br>Singapore 059764</p>
+<br>Ministry of Defence &amp;
+<br>Ministry of Sustainability and the Environment
+<br>40 Scotts Road
+	<br>#24-00
+<br>Singapore 228231</p>
 </td>
 </tr>
 <tr>
@@ -95,8 +97,9 @@ Ministry of Defence &amp; Ministry of Sustainability and the Environment
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Murali Pillai</strong>
-<br>Senior Minister of State, Ministry of Law &amp;
-Ministry of Transport
+<br>Senior Minister of State,
+	<br>Ministry of Law &amp;
+<br>Ministry of Transport
 <br>100 High Street #08-02
 <br>The Treasury
 <br>Singapore 179434</p>
@@ -113,7 +116,12 @@ Ministry of Transport
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Victor Lye Thiam Fatt, BBM</strong>
-<br>Adviser Ang Mo Kio GRC Grassroots Organisations
+<br>Adviser
+	<br>Ang Mo Kio GRC Grassroots Organisations
+	<br>Fernvale Community Club
+<br>21 Sengkang West Avenue
+<br>#01-01
+<br>Singapore 797650
 </p></td>
 </tr>
 <tr>
