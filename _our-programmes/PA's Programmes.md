@@ -156,8 +156,6 @@ range of courses and activities.
 </td>
 </tr>
 <tr>
-
-
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
