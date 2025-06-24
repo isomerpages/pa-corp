@@ -12,10 +12,10 @@ description: ""
 Club (SCC). PW is an integral part of the PA that <strong>delivers safe and affordable experiences by the water</strong>.
 PW create opportunities for the community, especially amongst the youth,
 working professionals and young families, with interest in outdoor and
-lifestyle activities to <strong>learn, play, bond and care for the nature and community</strong>.</p>
+lifestyle activities to <strong>learn, play, bond and care for the nature and community</strong>.]</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/main_passionwave.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAssion_Wave_Group_Photo.jpg">
 </div>
 <p>Creatively using water sports and lifestyle activities as the engagement
 platforms, the three strategic focuses of PW are:</p>
@@ -49,11 +49,11 @@ before heading down for the rental.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Reservoir Outlets  </strong>
+<p><strong>Reservoir Outlets</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>    Sea Outlets</strong>
+<p><strong>Sea Outlets</strong>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ before heading down for the rental.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong> PAssion Wave @ Pasir Ris</strong>
+<p><strong>PAssion Wave @ Pasir Ris</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6528984462266!2d103.94117071525574!3d1.3848834618464227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3dc12aaaaaab%3A0x9fe6d6c08637ca25!2sPAssion%20Wave%20%40%20Pasir%20Ris!5e0!3m2!1sen!2ssg!4v1679281468468!5m2!1sen!2ssg"></iframe>
@@ -109,7 +109,7 @@ before heading down for the rental.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong> PAssion Wave @ Sembawang</strong>
+<p><strong>PAssion Wave @ Sembawang</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5251371406466!2d103.84179971525555!3d1.4588237616207658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da14bfaffffff9%3A0x1e27d8492057334d!2sPAssion%20Wave%20%40%20Sembawang!5e0!3m2!1sen!2ssg!4v1679281504505!5m2!1sen!2ssg"></iframe>
