@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Arts & Heritage
 ---
-#### Art-Dream Alive
+#### Art-Jamming
 
 <img style="width:350px;height:250px;" src="/images/SPARKS@Bukit%20Canberra/Art_Dream_Alive.png">
 <table border="0" width="100%">
@@ -20,7 +20,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td>
-						Art-Dream Alive 
+						Art-Jamming 
 					</td>
 				</tr>
 					<tr><td width="20%">
@@ -41,7 +41,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td width="75%">						   
-					       Every first Friday of the month, 2 hours per session, 10am to 12noon
+					       Every first Friday of the month, 2 hours per session, 10.30am to 12.30pm
 											</td>
 				</tr>
 				<tr>
