@@ -7,7 +7,7 @@ variant: markdown
 ---
 <h4>Homework Cafe</h4>
 <div class="isomer-image-wrapper">
-<img style="width:350px;height:250px;" height="auto" width="100%" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe.png">
+<img style="width:350px;height:250px;" height="auto" width="100%" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe.jpg">
 </div>
 <table>
 <tbody>
