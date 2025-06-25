@@ -12,7 +12,7 @@ description: ""
 Club (SCC). PW is an integral part of the PA that <strong>delivers safe and affordable experiences by the water</strong>.
 PW create opportunities for the community, especially amongst the youth,
 working professionals and young families, with interest in outdoor and
-lifestyle activities to <strong>learn, play, bond and care for the nature and community</strong>.]</p>
+lifestyle activities to <strong>learn, play, bond and care for the nature and community</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAssion_Wave_Group_Photo.jpg">
@@ -129,6 +129,5 @@ before heading down for the rental.</p>
 <p><a href="https://go.gov.sg/passionwave-preactivity-information" rel="noopener nofollow" target="_blank"><u>PAssion Wave Pre-Activity Information</u></a>
 </p>
 <p>(Accurate as of 27 March 2023)</p>
-<p></p>
 <p></p>
 <p></p>
