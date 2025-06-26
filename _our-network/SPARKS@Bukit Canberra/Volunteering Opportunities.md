@@ -103,20 +103,14 @@ walk-and-vitals-monitoring/">
 		</tbody><tbody><tr></tr>
 	<tr></tr><tr><td>
 			<a href="/our-programmes/sparks-bukit-canberra/homework-cafe/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20words.png"></a></td>
+				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/homework%20cafe%20words.jpg"></a></td>
 				<td>
 			<a href="/our-programmes/sparks-bukit-canberra/tuition-for-the-deaf/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/tuition%20for%20the%20deaf%20words.jpg"></a></td>
 				<td>
 			<a href="/our-programmes/sparks-bukit-canberra/its-storytime/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/its%20storytime%20words.png"></a></td></tr><tr>
-			<td>
-				<a href="/our-programmes/sparks-bukit-canberra/kidsread/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/kidsread%20words.png"></a></td>
-			<td>
-				<a href="/our-programmes/sparks-bukit-canberra/psle-coaching-programme/">
-				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/psle%20coaching%20programme%20words.png"></a></td>
-			<td>
+						<td>
 <a href="/our-programmes/sparks-bukit-canberra/homework-clinic/">
 				<img style="height:150px;width:200px" src="/images/SPARKS@Bukit%20Canberra/homework%20clinic%20words.jpg"></a></td></tr><tr><td>
 	</td></tr></tbody></table>
