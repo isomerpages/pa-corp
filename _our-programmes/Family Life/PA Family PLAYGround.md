@@ -78,6 +78,7 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 <p>PA Family PLAYGround 2025 kicked off the first of five events across various
 districts at Tengah Community Club, to bring families closer together to
 build a caring community!</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -114,6 +115,7 @@ build a caring community!</p>
 Club, where families celebrated Father's Day weekend with exciting activities
 including a Mini Penalty Shootout Competition, Creative Bottle Decoration,
 and a special storytelling session.</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
