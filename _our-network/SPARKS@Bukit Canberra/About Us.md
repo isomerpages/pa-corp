@@ -20,9 +20,8 @@ a platform for residents to network with one another and with industry
 gurus.</p>
 <p><strong>Our Belief</strong>
 <br>All of us have 168 hours per week. Through the 2: 168 movement, we invite
-you to set aside 2 hours for a good cause.
-<br>Let’s ignite the kampung spirit by a simple gesture of setting aside 2
-hours for a good cause.</p>
+you to set aside 2 hours for a good cause. Let’s ignite the kampung spirit
+by a simple gesture of setting aside 2 hours for a good cause.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPARKS@Bukit Canberra/about_us.jpg">
