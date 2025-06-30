@@ -48,16 +48,15 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 June 2025 (Sunday)</strong>
+<p><strong>8 June 2025 (Sun)</strong>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>10am to 6pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tengah CC, Ground Floor</strong>
+<p><strong>Tengah CC</strong>
 </p>
 </td>
 </tr>
@@ -79,29 +78,36 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 <p>PA Family PLAYGround 2025 kicked off the first of five events across various
 districts at Tengah Community Club, to bring families closer together to
 build a caring community!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>14 June 2025 (Saturday)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>10am to 6pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Braddell Heights CC, Ground Floor</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>14 June 2025 (Sat)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>10am to 6pm</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Braddell Heights CC</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Family_PLAYGround_at_Tengah_CC_4.png">
 </div>
@@ -110,34 +116,57 @@ Club, where families celebrated Father's Day weekend with exciting activities
 including a Mini Penalty Shootout Competition, Creative Bottle Decoration,
 and a special storytelling session.</p>
 <p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>21 June 2025 (Sat)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>10am to 6pm</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Toa Payoh West CC</p>
+</th>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Family_PLAYGround_at_Tengah_CC_5.png">
+</div>
+<p>PA Family PLAYGround 2025 makes its 3rd stop at Toa Payoh West Community
+Club, where families enjoyed an action-packed day with exciting activities
+including a Fun Football Challenge, Snow Party, and a special appearance
+by Sharity Elephant to inspire acts of kindness and sharing in the community.</p>
 <p>Catch the highlights and memorable moments from the event on Instagram
-(@<a href="http://pa.win.family" rel="noopener noreferrer nofollow" target="_blank">pa.win.family</a>)
-or Facebook (PA Family Life Champion).</p>
+(@pa.win.family) or Facebook (PA Family Life Champion).</p>
 <p>Missed the fun last weekend? Join us at our upcoming PA Family PLAYGround
 events:</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>3</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>21 June 2025 (Saturday)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>10am to 6pm</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Toa Payoh West CC, Ground Floor</p>
-</th>
-</tr>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28 June 2025 (Saturday)</strong>
+<p><strong>28 June 2025 (Sat)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,7 +174,7 @@ events:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Nee Soon South CC, Ground Floor</strong>
+<p><strong>Nee Soon South CC</strong>
 </p>
 </td>
 </tr>
@@ -155,7 +184,7 @@ events:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>5 July 2025 (Saturday)</strong>
+<p><strong>5 July 2025 (Sat)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,12 +192,13 @@ events:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>One Punggol, Ground Floor</strong>
+<p><strong>One Punggol</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Can’t wait to start? Jump into our very first metaverse - Roblox PA Family
 PLAYGround FamilyVerse where you can team up with your family to complete
 fun quests and win prizes! Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
