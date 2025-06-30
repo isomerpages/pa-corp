@@ -5,7 +5,7 @@ permalink: /tender-for-provision-of-event-management-services-for-chinatown-mid-
 variant: tiptap
 description: ""
 ---
-<h3>Tender for Provision of Event Management Services for Chinatown Mid-Autumn Festival </h3>
+<h3>Tender for Provision of Event Management Services for Chinatown Mid-Autumn Festival</h3>
 <hr>
 <h4>Details</h4>
 <p>Interested tenderers are invited to tender for the Provision of Event
