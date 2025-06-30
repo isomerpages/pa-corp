@@ -9,7 +9,7 @@ description: ""
 <hr>
 <h4>Details</h4>
 <p>Interested tenderers are invited to tender for the Provision of Event
-Management Services for Chinatown Mid-Autumn Festival</p>
+Management Services for Chinatown Mid-Autumn Festival.</p>
 <p><strong>Calling Committee: Chinatown Festival Committee</strong>
 </p>
 <p><strong>Publication Date: 2 July 2025</strong>
