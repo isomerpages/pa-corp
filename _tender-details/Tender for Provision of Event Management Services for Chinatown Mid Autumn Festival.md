@@ -21,7 +21,8 @@ Management Services for Chinatown Mid-Autumn Festival</p>
 <p>Interested tenderers may request for a copy of tender specifications by
 emailing to <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
 <a href="mailto:Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>.</p>
-<p>For Enquiry</p>
+<h4>For Enquiry</h4>
 <p>For enquiries, please contact Chng Pei Joo or Lee Xiao Hui at 6222 3597
 or by emailing to <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and <a href="mailto:Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>.</p>
+<h4></h4>
 <p></p>
