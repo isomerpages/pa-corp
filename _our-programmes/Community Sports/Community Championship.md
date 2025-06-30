@@ -57,24 +57,6 @@ Find your district and GRC below to register for upcoming competitions:
 <p>
 <b>Central Singapore</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-badminton-tournament-2025-cheng-san-seletar-66894198">[14 Jun 2025] Ang Mo Kio GRC Badminton Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/tanjong-pagar-cluster-pickleball-competition-2025-16172479">
-[14 Jun 2025] Tanjong Pagar GRC Pickleball Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/radin-mas-csn-tanjong-pagar-cluster-floorball-tournament-15-june-2025-10061528">[15 Jun 2025] Tanjong Pagar GRC Floorball Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-pickleball-competition-2025-yio-chu-kang-71455927">[21 Jun 2025] Ang Mo Kio GRC Pickleball Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/jalan-besar-grc-potong-pasir-smc-table-tennis-community-championship-2025-88405545">
-[21 Jun 2025] Jalan Besar GRC Table Tennis Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/inter-csn-futsal-5s-27522459">
-[22 Jun 2025] Tanjong Pagar GRC Football Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/whampoa-pickleball-community-championship-2025-52416223">
-[21-22 Jun 2025] Jalan Besar GRC Pickleball Community Championship</a>
-<br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-basketball-tournament-2025-cheng-san-seletar-69152866">
 [29 Jun 2025] Ang Mo Kio GRC Basketball Community Championship</a>
 <br>
