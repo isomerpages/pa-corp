@@ -57,10 +57,7 @@ Find your district and GRC below to register for upcoming competitions:
 <p>
 <b>Central Singapore</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/ang-mo-kio-grc-kebun-baru-yio-chu-kang-smcs-basketball-tournament-2025-cheng-san-seletar-69152866">
-[29 Jun 2025] Ang Mo Kio GRC Basketball Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-community-championship-2025-basketball-3-on-3-men-s-open-75716173">[29 Jun 2025] Bishan-Toa Payoh GRC Basketball Community Competition</a>
+<a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-csns-football-men-s-5v5-competition-2025-53978588">[06 Jul 2025] Bishan-Toa Payoh GRC Football Community Competition</a>
 <br>
 <br>
 <b>North East</b>
