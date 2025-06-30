@@ -149,8 +149,7 @@ Club, where families enjoyed an action-packed day with exciting activities
 including a Fun Football Challenge, Snow Party, and a special appearance
 by Sharity Elephant to inspire acts of kindness and sharing in the community.</p>
 <p>Catch the highlights and memorable moments from the event on Instagram
-(@<a href="http://pa.win.family" rel="noopener noreferrer nofollow" target="_blank">pa.win.family</a>)
-or Facebook (PA Family Life Champion).</p>
+(@pa.win.family) or Facebook (PA Family Life Champion).</p>
 <p>Missed the fun last weekend? Join us at our upcoming PA Family PLAYGround
 events:</p>
 <table style="minWidth: 100px">
