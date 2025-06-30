@@ -64,6 +64,8 @@ Find your district and GRC below to register for upcoming competitions:
 <br>
 <a target="_blank" href="https://www.onepa.gov.sg/events/pasir-ris-changi-grc-community-championship-2025-football-58869808">[05 Jul 2025] Pasir Ris - Changi GRC Football Community Championship</a>
 <br>
+<a target="_blank" href="https://www.onepa.gov.sg/events/pasir-ris-changi-punggol-grc-badminton-community-championships-2025-24942472">[06 Jul 2025] Pasir Ris - Changi &amp; Punggol GRC Badminton Community Competition</a>
+<br>
 <br>
 <b>North West</b>
 <br>
