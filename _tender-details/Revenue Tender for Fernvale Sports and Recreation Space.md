@@ -13,9 +13,12 @@ description: ""
 <p>Venue: On-site located next to Exit B of Thanggam LRT station (40 Fernvale
 Road). Parking is available at Blk 465, Fernvale Road, Singapore 790465</p>
 <p></p>
-<p>Calling Committee: Fernvale Citizens’ Consultative Committee</p>
-<p>Publication Date: 23 June 2025 (Monday)</p>
-<p>Closing Date &amp; Time: 11 July 2025 (Friday), 06:00 PM</p>
+<p><strong>Calling Committee: Fernvale Citizens’ Consultative Committee</strong>
+</p>
+<p><strong>Publication Date: 23 June 2025 (Monday)</strong>
+</p>
+<p><strong>Closing Date &amp; Time: 11 July 2025 (Friday), 06:00 PM</strong>
+</p>
 <hr>
 <h4>Tender Document</h4>
 <p>For request of soft copy tender documents, please email to <a href="mailto:Eileen.tan@sg.knightfrank.com" rel="noopener noreferrer nofollow" target="_blank">Eileen.tan@sg.knightfrank.com</a>.</p>
