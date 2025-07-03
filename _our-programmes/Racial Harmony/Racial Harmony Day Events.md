@@ -150,7 +150,7 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Mo Kio CC, 795 Ang Mo Kio Ave 1</p>
+<p>Ang Mo Kio CC, Blk 795 Ang Mo Kio Avenue 1</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +165,65 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bus stop beside Blk 537, Serangoon North Ave 4</p>
+<p>Bus stop beside Blk 537, Serangoon North Avenue 4</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Neighbourhood Events 2025</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organizing CC</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines East Zone 2 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/OurTampinesHub/posts/-celebrate-racial-harmony-day-with-us-join-us-for-an-afternoon-of-cultural-celeb/1117168963781428/" rel="noopener nofollow" target="_blank">Racial Harmony Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines East CC, Atrium, 10 Tampines Street 23</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Batok Zone 11 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo/?fbid=1199337418901990&amp;set=a.568367675332304" rel="noopener nofollow" target="_blank">Racial Harmony &amp; National Day Celebrations 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Street Soccer Court beside Blk 296</p>
+<p>MSCP (Bukit Batok Street 22)</p>
 </td>
 </tr>
 </tbody>
