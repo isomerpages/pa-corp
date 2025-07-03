@@ -114,6 +114,62 @@ your community!</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Local Tour &amp; Outings 2025</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organizing CC</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teck Ghee CO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/amkwec2021/photos/%EF%B8%8F-explore-singapores-rich-cultural-tapestry-with-amkcc-wec-join-us-for-a-meaning/678751021455256/?_rdr" rel="noopener nofollow" target="_blank">Ang Mo Kio CC WEC Cultural Tour</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio CC, 795 Ang Mo Kio Ave 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jalan Kayu CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo/?fbid=1176284634535814&amp;set=a.288660043298282" rel="noopener nofollow" target="_blank">Racial Harmony Tour 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bus stop beside Blk 537, Serangoon North Ave 4</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
 <p><em>(Updated as of 2 July 2025)</em>
