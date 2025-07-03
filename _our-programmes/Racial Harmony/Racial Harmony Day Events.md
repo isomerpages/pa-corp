@@ -108,7 +108,7 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>814 Keat Hong Close</p>
+<p>Blk 814, Keat Hong Close</p>
 </td>
 </tr>
 </tbody>
