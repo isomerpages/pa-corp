@@ -10,7 +10,7 @@ image: /images/Our Programmes/Brickland_Friends.jpg
 to celebrate <a href="https://www.pa.gov.sg/our-programmes/racial-harmony/racial-harmony-day/" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Day</a> in
 your community!</p>
 <p></p>
-<p><strong>Carnivals and Celebrations</strong>
+<p><strong>Carnivals and Celebrations 2025</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -76,7 +76,7 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N6 Marquee, Blk 685A Hougang Street 61</p>
+<p>N6 Marquee, Blk 685A, Hougang Street 61</p>
 </td>
 </tr>
 <tr>
@@ -108,13 +108,126 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>814 Keat Hong Close</p>
+<p>Blk 814, Keat Hong Close</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p><strong>Local Tour &amp; Outings 2025</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organizing CC</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teck Ghee CO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/amkwec2021/photos/%EF%B8%8F-explore-singapores-rich-cultural-tapestry-with-amkcc-wec-join-us-for-a-meaning/678751021455256/?_rdr" rel="noopener nofollow" target="_blank">Ang Mo Kio CC WEC Cultural Tour</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio CC, Blk 795, Ang Mo Kio Avenue 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jalan Kayu CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo/?fbid=1176284634535814&amp;set=a.288660043298282" rel="noopener nofollow" target="_blank">Racial Harmony Tour 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bus stop beside Blk 537, Serangoon North Avenue 4</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Neighbourhood Events 2025</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organizing CC</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines East Zone 2 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/OurTampinesHub/posts/-celebrate-racial-harmony-day-with-us-join-us-for-an-afternoon-of-cultural-celeb/1117168963781428/" rel="noopener nofollow" target="_blank">Racial Harmony Celebration 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines East CC, Atrium, 10 Tampines Street 23</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Batok Zone 11 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo/?fbid=1199337418901990&amp;set=a.568367675332304" rel="noopener nofollow" target="_blank">Racial Harmony &amp; National Day Celebrations 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Street Soccer Court beside Blk 296, MSCP (Bukit Batok Street 22)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p><em>(Updated as of 2 July 2025)</em>
+<p><em>(Updated as of 3 July 2025)</em>
 </p>
