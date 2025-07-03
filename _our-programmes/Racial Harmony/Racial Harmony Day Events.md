@@ -76,7 +76,7 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N6 Marquee, Blk 685A Hougang Street 61</p>
+<p>N6 Marquee, Blk 685A, Hougang Street 61</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Mo Kio CC, Blk 795 Ang Mo Kio Avenue 1</p>
+<p>Ang Mo Kio CC, Blk 795, Ang Mo Kio Avenue 1</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Street Soccer Court beside Blk 296</p>
+<p>Street Soccer Court beside Blk 296,</p>
 <p>MSCP (Bukit Batok Street 22)</p>
 </td>
 </tr>
