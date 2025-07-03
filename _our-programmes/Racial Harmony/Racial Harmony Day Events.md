@@ -10,7 +10,7 @@ image: /images/Our Programmes/Brickland_Friends.jpg
 to celebrate <a href="https://www.pa.gov.sg/our-programmes/racial-harmony/racial-harmony-day/" rel="noopener noreferrer nofollow" target="_blank">Racial Harmony Day</a> in
 your community!</p>
 <p></p>
-<p><strong>Carnivals and Celebrations</strong>
+<p><strong>Carnivals and Celebrations 2025</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
