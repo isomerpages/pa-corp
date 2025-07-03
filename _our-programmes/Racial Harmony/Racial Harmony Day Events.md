@@ -222,8 +222,7 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Street Soccer Court beside Blk 296,</p>
-<p>MSCP (Bukit Batok Street 22)</p>
+<p>Street Soccer Court beside Blk 296, MSCP (Bukit Batok Street 22)</p>
 </td>
 </tr>
 </tbody>
