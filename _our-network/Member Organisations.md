@@ -74,7 +74,7 @@ Here’s a list of our Corporate Members, by different categories:
 * [Singapore Weiqi Association](http://weiqi.org.sg/)
 * [Singapore Wushu Dragon &amp; Lion Dance Federation](https://wuzong.com/)
 * [Singapore Xiangqi General Association](http://www.xiangqi.sg)
-* [Sports Boules Singapore](https://www.sportsboules.org.sg/)
+* Sports Boules Singapore
 * [Volleyball Association of Singapore](https://volleyball.org.sg/)
 
 #### Students' Unions
