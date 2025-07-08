@@ -6,7 +6,7 @@ description: NDP Heartland Celebrations
 third_nav_title: National Day
 image: /images/Our Programmes/national_day_2023_oth.jpg
 ---
-<h1><strong>National Day Heartland Celebrations</strong></h1>
+<h1><strong>National Day Heartland Celebrations 2025</strong></h1>
 <p>Singaporeans can look forward to celebrating National Day on Sunday, 10
 August 2025 from 4.00pm to 9.00pm at five heartland locations.</p>
 <p></p>
