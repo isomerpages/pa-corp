@@ -54,12 +54,12 @@ a grand finale featuring fireworks and a drone show.</p>
 </div>
 </div>
 </div>
-<p>From 8 July 2025, Singaporeans can collect National Day Heartland Celebrations
-tickets at the nearest Community Clubs (CCs) in their respective districts
-based on a first-come, first-served basis. Each member of the public can
-collect up to a maximum of two tickets. The ticket will grant the holder
-access to the respective Heartland Celebration site in their district and
-a complimentary NDP pack.</p>
+<p>From 8 July 2025, Singaporeans and Singapore PRs can collect National
+Day Heartland Celebrations tickets at the nearest Community Clubs (CCs)
+in their respective districts based on a first-come, first-served basis.
+Each member of the public can collect up to a maximum of two tickets. The
+ticket will grant the holder access to the respective Heartland Celebration
+site in their district and a complimentary NDP pack.</p>
 <p></p>
 <p>Join us in the heartlands as we celebrate Singapore’s 60th birthday —
 not just as individuals, but as&nbsp;<em>One Community.</em>&nbsp;</p>
