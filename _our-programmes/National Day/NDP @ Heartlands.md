@@ -19,7 +19,7 @@ the mobile columns, there will also be exhibits, live performances, and
 a grand finale featuring fireworks and a drone show.</p>
 <p></p>
 <p></p>
-<p>The five sites, and their respective themes, are as follows:</p>
+<p>The five sites are as follows:</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -55,5 +55,14 @@ a grand finale featuring fireworks and a drone show.</p>
 </div>
 </div>
 <p>Join us in the heartlands as we celebrate Singapore’s 60th birthday —
-not just as individuals, but as&nbsp;<em>One Community.</em>&nbsp;</p>
+not just as individuals, but as&nbsp;<em>One Community.</em>&nbsp;
+<br>
+<br>From 8 July 2025, Singaporeans can collect National Day Heartland Celebrations
+tickets at the nearest Community Clubs (CCs) in their respective districts
+based on a first-come, first-served basis. Each member of the public can
+collect up to a maximum of two tickets. The ticket will grant the holder
+access to the respective Heartland Celebration site in their district and
+a complimentary NDP pack. More details, including the list of CCs where
+tickets can be collected, can be found on the NDP website (<a href="http://www.ndp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ndp.gov.sg</a>)
+from 8 July 2025.</p>
 <p></p>
