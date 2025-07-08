@@ -7,8 +7,8 @@ third_nav_title: National Day
 image: /images/Our Programmes/national_day_2023_oth.jpg
 ---
 <h1><strong>National Day Heartland Celebrations</strong></h1>
-<p>Singaporeans can look forward to celebrating <a href="https://www.pa.gov.sg/our-programmes/national-day/ndp-heartlands/" rel="noopener noreferrer nofollow" target="_blank">National Day</a> on
-Sunday, 10 August 2025 from 4.00pm to 9.00pm at five heartland locations.</p>
+<p>Singaporeans can look forward to celebrating National Day on Sunday, 10
+August 2025 from 4.00pm to 9.00pm at five heartland locations.</p>
 <p></p>
 <p>Organised by the People's Association (PA) in partnership with the National
 Day Parade 2025 (NDP 2025) Executive Committee, the celebrations aim to
@@ -18,15 +18,11 @@ grassroots organisations, together with volunteers and partners. Besides
 the mobile columns, there will also be exhibits, live performances, and
 a grand finale featuring fireworks and a drone show.</p>
 <p></p>
+<p></p>
 <p>The five sites, and their respective themes, are as follows:</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NDHC2025_CS_Theme.png">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Central Singapore</div>
 <div class="isomer-card-description">Open field opposite Bishan Circle Line MRT Station, Exit D (10 August
@@ -34,25 +30,27 @@ a grand finale featuring fireworks and a drone show.</p>
 </div>
 </div>
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NDHC2025_NE_Theme.png">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">North East</div>
 <div class="isomer-card-description">Open field next to One Punggol (10 August 2025, 4pm - 9pm)</div>
 </div>
 </div>
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NDHC2025_NE_Theme.png">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">North West</div>
 <div class="isomer-card-description">Open field next to FutsalArena @ Yishun (10 August 2025, 4pm - 9pm)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">South East</div>
+<div class="isomer-card-description">Open field beside Wisma Geylang Serai (10 August 2025, 4pm - 9pm)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">South West</div>
+<div class="isomer-card-description">Bukit Gombak ActiveSG Stadium (10 August 2025, 4pm - 9pm)</div>
 </div>
 </div>
 </div>
