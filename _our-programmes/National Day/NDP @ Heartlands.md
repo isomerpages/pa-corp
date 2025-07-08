@@ -29,22 +29,33 @@ a grand finale featuring fireworks and a drone show.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Central Singapore</div>
-<div class="isomer-card-description">Open Field Opposite Bishan Circle Line MRT Station, Exit D (10 August
+<div class="isomer-card-description">Open field opposite Bishan Circle Line MRT Station, Exit D (10 August
 2025, 4pm - 9pm)</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NDHC2025_NE_Theme.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">North East</div>
+<div class="isomer-card-description">Open field next to One Punggol (10 August 2025, 4pm - 9pm)</div>
 </div>
-</a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NDHC2025_NE_Theme.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">North West</div>
+<div class="isomer-card-description">Open field next to FutsalArena @ Yishun (10 August 2025, 4pm - 9pm)</div>
+</div>
+</div>
 </div>
 <p>Join us in the heartlands as we celebrate Singapore’s 60th birthday —
 not just as individuals, but as&nbsp;<em>One Community.</em>&nbsp;</p>
+<p></p>
