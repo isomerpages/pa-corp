@@ -54,40 +54,18 @@ Planning to participate? Everything you need to know about competition rules and
 <p> Register easily through <a target="_blank" href="https://www.onepa.gov.sg/events/search?events=&amp;aoi=Competitions">OnePA.gov.sg</a> or visit the nearest Community Club in your neighbourhood and we'll guide you through the registration! </p>
 
 Find your district and GRC below to register for upcoming competitions:
-<p>
+
 <b>Central Singapore</b>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/bishan-toa-payoh-marymount-csns-football-men-s-5v5-competition-2025-53978588">[06 Jul 2025] Bishan-Toa Payoh GRC Football Community Competition</a>
-<br>
 <br>
 <b>North East</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/pasir-ris-changi-grc-community-championship-2025-football-58869808">[05 Jul 2025] Pasir Ris - Changi GRC Football Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/pasir-ris-changi-punggol-grc-badminton-community-championships-2025-24942472">[06 Jul 2025] Pasir Ris - Changi &amp; Punggol GRC Badminton Community Competition</a>
-<br>
-<br>
 <b>North West</b>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/woodgrove-csn-marsiling-yew-tee-jamboree-football-2025-community-championship-96594894">[06 Jul 2025] Marsiling-Yew Tee GRC Football Community Championship</a>
-<br>
 <br>
 <b>South East</b>
 <br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/marine-parade-cluster-csn-badminton-community-games-2025-19827149">[05 Jul 2025] Marine Parade GRC Badminton Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-3x3-basketball-championship-95000821">[05 Jul 2025] Marine Parade GRC Basketball Community Championship</a>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/marine-parade-cluster-csn-badminton-community-games-2025-19827149">[05 Jul 2025] Marine Parade GRC Table Tennis Community Championship</a>
-<br>
-<br>
 <b>South West</b>
-<br>
-<a target="_blank" href="https://www.onepa.gov.sg/events/community-championship-football-tournament-2025-10667152">
-[05 Jul 2025] Jurong GRC Football Community Championship</a>
-<br>
 
-</p><h3>Sports Safety</h3>
+<p></p><h3>Sports Safety</h3>
 <p>
 <b>Sports Safety Advisory</b>
 <br>
