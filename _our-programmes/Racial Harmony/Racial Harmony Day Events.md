@@ -87,7 +87,7 @@ your community!</p>
 <p>Sembawang Central Zone 2 RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo?fbid=1123090736511130&amp;set=a.463226382497572" rel="noopener nofollow" target="_blank">Residents-Get-to-Together For Racial Harmony </a>
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo?fbid=1123090736511130&amp;set=a.463226382497572" rel="noopener nofollow" target="_blank">Residents-Get-to-Together For Racial Harmony</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
