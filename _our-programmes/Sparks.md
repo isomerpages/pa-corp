@@ -88,6 +88,10 @@ ideas into prototypes.</p>
 </div>
 <p></p>
 <p>Product Visioning &amp; Team Sharing:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Problem_Discovery_banner.jpg">
+</div>
+<p></p>
 <p>User Testing:</p>
 <p>Take a look at the launch of the first CIS and the community innovation
 journey by Geylang West CIT.</p>
@@ -108,6 +112,7 @@ hand, we invite you to connect with us!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_Row_2.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
