@@ -72,9 +72,9 @@ ideas into prototypes.</p>
 <p>User Testing:</p>
 <p>Take a look at the launch of the first CIS and the community innovation
 journey by Geylang West CIT.</p>
-<p><a href="https://drive.google.com/file/d/1KzXnrewajjq1JmmAg24Z-B6c7m2ibJDf/view?usp=sharing" rel="noopener nofollow" target="_blank">Geylang West's Community Innovation Journey</a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1KzXnrewajjq1JmmAg24Z-B6c7m2ibJDf/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video.png"></a>
+<p><strong>Join the Sparks community innovation movement!</strong>
 </p>
-<h4><strong>Join the Sparks community innovation movement!</strong></h4>
 <p>Ready to spark change? Join us in this community innovation movement and
 be a catalyst for positive change and impact. Whether you have innovative
 ideas, a passion for community building, or simply want to lend a helping
