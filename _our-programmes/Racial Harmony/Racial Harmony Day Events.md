@@ -81,6 +81,21 @@ your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>19 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sembawang Central Zone 2 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo?fbid=1123090736511130&amp;set=a.463226382497572" rel="noopener nofollow" target="_blank">Residents-Get-to-Together For Racial Harmony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 350, Canberra Road, Linkhouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>26 July</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,5 +244,5 @@ your community!</p>
 </table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p><em>(Updated as of 3 July 2025)</em>
+<p><em>(Updated as of 4 July 2025)</em>
 </p>
