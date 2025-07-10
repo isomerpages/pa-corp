@@ -89,17 +89,15 @@ ideas into prototypes.</p>
 <p></p>
 <p>Product Visioning &amp; Team Sharing:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Problem_Discovery_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Product_Visioning_Banner.jpg">
 </div>
 <p></p>
 <p>User Testing:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/User_Testing_Banner.jpg">
 </div>
 <p>Take a look at the launch of the first CIS and the community innovation
-journey by Geylang West CIT.</p>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/ErXZ_ARM33I"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video_2.png"></a>
+journey by Geylang West CIT.</p><a class="isomer-image-wrapper" href="https://youtu.be/ErXZ_ARM33I"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video_2.png"></a>
 <p><strong>Join the Sparks community innovation movement!</strong>
 </p>
 <p>Ready to spark change? Join us in this community innovation movement and
