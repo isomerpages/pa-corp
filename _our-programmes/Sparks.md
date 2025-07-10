@@ -61,9 +61,14 @@ concerns and bring collective aspirations to fruition.</p>
 who are the driving force behind the community innovation journey to foster
 a culture of innovation, drive community participation, and spearhead ideation
 sessions and activities within the CIS.</p>
-</li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4711.jpg">
+</div>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Sparks x BFG Community Hackathon: </strong>A inaugural collaboration
+<p><strong>Sparks x BFG Community Hackathon: </strong>An inaugural collaboration
 between the PA and <a href="https://open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Open Government Products</a> (OGP), combining
 PA's deep community connections with OGP's technological expertise and
 past experience running the <a href="https://www.build.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a> (BFG) hackathon.&nbsp;
@@ -72,6 +77,8 @@ local issues and develop innovative tech solutions that address community
 challenges and aspirations. For the past month, participants received support
 from CITs, experienced tech mentors, and hands-on workshops to refine their
 ideas into prototypes.</p>
+</li>
+</ol>
 </li>
 </ol>
 <p>You may find out more about the Community Hackathon journey <a href="https://www.go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
