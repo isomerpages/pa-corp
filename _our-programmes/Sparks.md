@@ -49,6 +49,9 @@ concerns and bring collective aspirations to fruition.</p>
 </li>
 <li>
 <p>South West District: Boon Lay CC, Tengah CC</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sparks_banner.jpg">
+</div>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
@@ -94,4 +97,6 @@ hand, we invite you to connect with us!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_Row_2.jpg">
 </div>
+<p></p>
+<p></p>
 <p></p>
