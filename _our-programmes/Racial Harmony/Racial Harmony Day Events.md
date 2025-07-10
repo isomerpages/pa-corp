@@ -91,7 +91,7 @@ your community!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blk 350 Canberra Road, Linkhouse</p>
+<p>Blk 350, Canberra Road, Linkhouse</p>
 </td>
 </tr>
 <tr>
