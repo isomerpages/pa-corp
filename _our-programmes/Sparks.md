@@ -11,58 +11,11 @@ description: ""
 </div>
 <p><strong>"Sparks" is a community innovation movement - by the community, for the community</strong>.&nbsp;
 It reflects PA’s refreshed mission to spark and nurture community participation.
-&nbsp;In line with our refreshed mission, we will activate more community
-club spaces to drive community participation and foster community ownership.
-&nbsp;Residents can look forward to use CC spaces to work together on community
-projects – to discuss, engage community stakeholders, plan initiatives,
-and rally the community. &nbsp;As Singapore's communities become increasingly
-diverse and complex, necessitating a more dynamic and inclusive approach
-to community building, the initiative provides platforms that empower stakeholders
-to take collective action in addressing local issues and shaping meaningful
-solutions.</p>
-<p>&nbsp;“Sparks” also aims to enhance the traditional role of the Community
-Clubs (CCs) and grassroots organisations, moving beyond service provision
-to becoming catalysts for community-led innovation and problem-solving.</p>
-<p>At its core, “Sparks” is driven by several key factors:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Empowering Active Citizenship:</strong> &nbsp;There is a growing
-desire among Singaporeans to move beyond giving feedback to becoming active
-contributors in shaping their communities. &nbsp;“Sparks” provides structured
-platforms and resources to channel this energy into tangible community
-improvements.</p>
-</li>
-<li>
-<p><strong>Harnessing Local Expertise: &nbsp;</strong>Communities hold a
-wealth of experience, skills, and passion that often go untapped. &nbsp;“Sparks”
-recognises this potential, providing avenues to harness local expertise
-for the common good.</p>
-</li>
-<li>
-<p><strong>Addressing Diverse Needs:</strong> &nbsp;As Singapore's population
-becomes more diverse, community needs are increasingly varied and complex.
-&nbsp;“Sparks” responds to this by fostering innovative and localised solutions
-that are tailored to the unique contexts of different neighbourhoods and
-demographic groups.</p>
-</li>
-<li>
-<p><strong>Strengthening Social Cohesion:</strong> &nbsp;By creating shared
-experiences of problem-solving and collaboration, “Sparks” aims to foster
-stronger bonds within communities. &nbsp;This helps to build trust, understanding,
-and a sense of shared purpose among residents from different backgrounds.</p>
-</li>
-<li>
-<p><strong>Reimagining Community Spaces:</strong> &nbsp;By transforming CCs
-into hubs of innovation and civic engagement, this ensures that they remain
-relevant and vital in the lives of residents, serving as nexus points for
-community interaction and co-creation.</p>
-</li>
-</ol>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_1.jpg">
-</div>
+As Singapore’s communities become increasingly diverse, this initiative
+aims to enhance the role of Community Clubs (CCs), moving beyond traditional
+service provision to becoming catalysts for community-led innovation and
+solutions that address local challenges and aspirations, fostering a deeper
+sense of ownership and unity contributing towards nation building.</p>
 <p>To achieve these objectives, PA has introduced three interconnected components
 under the “Sparks” umbrella:</p>
 <ol data-tight="true" class="tight">
@@ -95,11 +48,11 @@ concerns and bring collective aspirations to fruition.</p>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Community Innovation Taskforces (CIT):</strong> &nbsp;Each of the
-Sparks @ CC has formed a taskforce, comprising three to eight Grassroots
-Leaders and partners who will be the driving force behind the community
-innovation journey to foster a culture of innovation, drive community participation,
-and spearhead ideation sessions and activities within the CIS.</p>
+<p><strong>Community Innovation Taskforces (CIT):</strong> Each of the Sparks
+@ CC has formed a taskforce, comprising Grassroots Leaders and partners
+who are the driving force behind the community innovation journey to foster
+a culture of innovation, drive community participation, and spearhead ideation
+sessions and activities within the CIS.</p>
 </li>
 <li>
 <p><strong>Sparks x BFG Community Hackathon: </strong>A collaboration between
