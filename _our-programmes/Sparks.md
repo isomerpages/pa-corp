@@ -71,11 +71,11 @@ sessions and activities within the CIS.</p>
 <p><strong>Sparks x BFG Community Hackathon: </strong>An inaugural collaboration
 between the PA and <a href="https://open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Open Government Products</a> (OGP), combining
 PA's deep community connections with OGP's technological expertise and
-past experience running the <a href="https://www.build.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a> (BFG) hackathon.&nbsp;
-The Community Hackathon aims to rally the community to identify pressing
-local issues and develop innovative tech solutions that address community
-challenges and aspirations. For the past month, participants received support
-from CITs, experienced tech mentors, and hands-on workshops to refine their
+past experience running the Build for Good (BFG) hackathon.&nbsp; The Community
+Hackathon aims to rally the community to identify pressing local issues
+and develop innovative tech solutions that address community challenges
+and aspirations. For the past month, participants received support from
+CITs, experienced tech mentors, and hands-on workshops to refine their
 ideas into prototypes.</p>
 </li>
 </ol>
