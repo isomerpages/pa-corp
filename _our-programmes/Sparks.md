@@ -93,6 +93,10 @@ ideas into prototypes.</p>
 </div>
 <p></p>
 <p>User Testing:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/User_Testing_Banner.jpg">
+</div>
 <p>Take a look at the launch of the first CIS and the community innovation
 journey by Geylang West CIT.</p>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1KzXnrewajjq1JmmAg24Z-B6c7m2ibJDf/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video.png"></a>
