@@ -55,20 +55,25 @@ a culture of innovation, drive community participation, and spearhead ideation
 sessions and activities within the CIS.</p>
 </li>
 <li>
-<p><strong>Sparks x BFG Community Hackathon: </strong>A collaboration between
-the PA and <a href="https://open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Open Government Products</a> (OGP),
-combining PA's deep community connections with OGP's technological expertise
-and past experience running the <a href="https://www.build.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a> (BFG) hackathon.&nbsp;
+<p><strong>Sparks x BFG Community Hackathon: </strong>A inaugural collaboration
+between the PA and <a href="https://open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Open Government Products</a> (OGP), combining
+PA's deep community connections with OGP's technological expertise and
+past experience running the <a href="https://www.build.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a> (BFG) hackathon.&nbsp;
 The Community Hackathon aims to rally the community to identify pressing
 local issues and develop innovative tech solutions that address community
-challenges and aspirations. Participants will receive support from CITs,
-experienced tech mentors, and hands-on workshops to refine their ideas
-into prototypes, which will be showcased at the hackathon grand finale.</p>
+challenges and aspirations. For the past month, participants received support
+from CITs, experienced tech mentors, and hands-on workshops to refine their
+ideas into prototypes.</p>
 </li>
 </ol>
-<p>Registration for the Community Hackathon has closed. You may find out
-more about the Community Hackathon journey <a href="https://www.go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
+<p>You may find out more about the Community Hackathon journey <a href="https://www.go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Problem Discovery:</p>
+<p>Product Visioning &amp; Team Sharing:</p>
+<p>User Testing:</p>
+<p>Take a look at the launch of the first CIS and the community innovation
+journey by Geylang West CIT.</p>
+<p><a href="https://drive.google.com/file/d/1KzXnrewajjq1JmmAg24Z-B6c7m2ibJDf/view?usp=sharing" rel="noopener nofollow" target="_blank">Geylang West's Community Innovation Journey</a>
+</p>
 <h4><strong>Join the Sparks community innovation movement!</strong></h4>
 <p>Ready to spark change? Join us in this community innovation movement and
 be a catalyst for positive change and impact. Whether you have innovative
