@@ -16,6 +16,10 @@ aims to enhance the role of Community Clubs (CCs), moving beyond traditional
 service provision to becoming catalysts for community-led innovation and
 solutions that address local challenges and aspirations, fostering a deeper
 sense of ownership and unity contributing towards nation building.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_1.jpg">
+</div>
 <p>To achieve these objectives, PA has introduced three interconnected components
 under the “Sparks” umbrella:</p>
 <ol data-tight="true" class="tight">
