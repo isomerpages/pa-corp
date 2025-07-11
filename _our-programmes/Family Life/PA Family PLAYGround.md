@@ -78,7 +78,6 @@ yet? PA Family PLAYGround is coming - bigger, better, and more thrilling!</p>
 <p>PA Family PLAYGround 2025 kicked off the first of five events across various
 districts at Tengah Community Club, to bring families closer together to
 build a caring community!</p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -148,10 +147,6 @@ and a special storytelling session.</p>
 Club, where families enjoyed an action-packed day with exciting activities
 including a Fun Football Challenge, Snow Party, and a special appearance
 by Sharity Elephant to inspire acts of kindness and sharing in the community.</p>
-<p>Catch the highlights and memorable moments from the event on Instagram
-(@pa.win.family) or Facebook (PA Family Life Champion).</p>
-<p>Missed the fun last weekend? Join us at our upcoming PA Family PLAYGround
-events:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -178,6 +173,25 @@ events:</p>
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Family_PLAYGround_at_Tengah_CC.png">
+</div>
+<p>PA Family PLAYGround 2025 makes its 4th stop at Nee Soon South Community
+Club, where families enjoyed an action-packed day of community bonding.
+The highlight was the special SG60 passport initiative by Nee Soon GRC,
+which encouraged families to interact and connect with one another while
+discovering 60 fascinating facts about their neighbourhood.</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5</strong>
@@ -198,10 +212,22 @@ events:</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Family_PLAYGround_at_Tengah_CC_2.png">
+</div>
+<p>PA Family PLAYGround 2025 concludes with a grand finale at One Punggol,
+showcasing over 200 talented young performers from pre-schools and primary
+schools across the GRC. Through dance, song and creative expressions, Punggol's
+youth brought vibrancy to this community celebration, complemented by unique
+activity and engagement zones organised by grassroots volunteers and community
+partners.</p>
 <p></p>
-<p>Can’t wait to start? Jump into our very first metaverse - Roblox PA Family
-PLAYGround FamilyVerse where you can team up with your family to complete
-fun quests and win prizes! Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
+<p>Catch the highlights and memorable moments from the event on Instagram
+(@pa.win.family) or Facebook (PA Family Life Champion).</p>
+<p></p>
+<p>The fun continues in our Roblox FamilyVerse, where families can go on
+exciting virtual adventures 24/7, complete missions, and enjoy quality
+bonding time anytime, anywhere! Visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pafamilyverse</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png">
