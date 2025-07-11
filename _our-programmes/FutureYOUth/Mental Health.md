@@ -152,8 +152,8 @@ it is rarely brought up in social settings. As society is still learning
 more about mental health and how to cope with the many conditions and issues,
 simply asking yourself and the people around you how they are feeling could
 help spark conversations on this topic!</p>
-<p><a href="https://share.oppi.live/01H6ZK5NB1JMZTA3Q15N8DDFWC" rel="noopener noreferrer nofollow" target="_blank">Let us know your thoughts</a> on
-mental health so we can build a more supportive community together!</p>
+<p>Let us know your thoughts on mental health so we can build a more supportive
+community together!</p>
 <p></p>
 <p></p>
 <p></p>
