@@ -40,7 +40,7 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/04__Annex_2_a____Guidelines_OnlineCourses__Trainers_Operators__11July2025_.pdf" rel="noopener nofollow" target="_blank">Annex 2(a) - Guidelines for Organising New Online courses (11 July 2025) </a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/04__Annex_2_a____Guidelines_OnlineCourses__Trainers_Operators__11July2025_.pdf" rel="noopener nofollow" target="_blank">Annex 2(a) - Guidelines for Organising New Online courses (11 July 2025)</a>
 </p>
 </li>
 <li>
