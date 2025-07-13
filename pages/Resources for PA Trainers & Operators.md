@@ -40,14 +40,12 @@ are not our Trainers and Operators yet.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/3__Annex_2_a____Guidelines_OnlineCourses__Trainers_Operators__30April2024_.pdf" rel="noopener nofollow" target="_blank">Annex 2(a) - Guidelines for Orgainsing Online and Blended Courses</a>
+<p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/04__Annex_2_a____Guidelines_OnlineCourses__Trainers_Operators__11July2025_.pdf" rel="noopener nofollow" target="_blank">Annex 2(a) - Guidelines for Organising New Online courses (11 July 2025) </a>
 </p>
 </li>
 <li>
 <p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/4__Annex_2_b____The__5_DOs_.pdf" rel="noopener nofollow" target="_blank">Annex 2(b) - The "5 DOs"</a>
 </p>
-</li>
-<li>
 <p><a href="/files/Our Programmes/CC Courses/PSG for PA Trainers/5__Annex_3___Classroom_Management_Standards_for_Playgroups.pdf" rel="noopener nofollow" target="_blank">Annex 3 - Classroom Management Standards for Playgroups and Young Children</a>
 </p>
 </li>
