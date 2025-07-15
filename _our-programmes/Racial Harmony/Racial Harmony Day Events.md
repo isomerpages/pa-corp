@@ -212,6 +212,21 @@ your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>19 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Moulmein-Cairnhill CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/weare.moca" rel="noopener nofollow" target="_blank">Moulmein-Cairnhill Racial Harmony Concert!</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tanglin Community Club, 245 Whitley Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>20 July</p>
 </td>
 <td rowspan="1" colspan="1">
