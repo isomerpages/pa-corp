@@ -218,7 +218,7 @@ your community!</p>
 <p>Moulmein-Cairnhill CCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/weare.moca" rel="noopener nofollow" target="_blank">Moulmein-Cairnhill Racial Harmony Concert!</a>
+<p><a href="https://www.facebook.com/weare.moca" rel="noopener nofollow" target="_blank">Moulmein-Cairnhill Racial Harmony Concert!</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,7 +233,7 @@ your community!</p>
 <p>Fernvale Zone H RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo.php?fbid=1144011254436396&amp;set=pb.100064825952992.-2207520000&amp;type=3" rel="noopener nofollow" target="_blank">Racial Harmony Day</a>
+<p><a href="https://www.facebook.com/photo.php?fbid=1144011254436396&amp;set=pb.100064825952992.-2207520000&amp;type=3" rel="noopener nofollow" target="_blank">Racial Harmony Day</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -263,7 +263,7 @@ your community!</p>
 <p>Bukit Batok East CCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/bukitbatokeast/photos/join-us-to-celebrate-the-racial-harmony-day-together-as-a-bbe-community-we-have-/889009639937517/" rel="noopener nofollow" target="_blank">Racial Harmony Day Celebrations 2025</a>
+<p><a href="https://www.facebook.com/bukitbatokeast/photos/join-us-to-celebrate-the-racial-harmony-day-together-as-a-bbe-community-we-have-/889009639937517/" rel="noopener nofollow" target="_blank">Racial Harmony Day Celebrations 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,7 +278,7 @@ your community!</p>
 <p>Tampines East Zone 2 RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/OurTampinesHub/posts/-celebrate-racial-harmony-day-with-us-join-us-for-an-afternoon-of-cultural-celeb/1117168963781428/" rel="noopener nofollow" target="_blank">Racial Harmony Celebration 2025</a>
+<p><a href="https://www.facebook.com/OurTampinesHub/posts/-celebrate-racial-harmony-day-with-us-join-us-for-an-afternoon-of-cultural-celeb/1117168963781428/" rel="noopener nofollow" target="_blank">Racial Harmony Celebration 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,7 +293,7 @@ your community!</p>
 <p>Bukit Batok Zone 11 RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo/?fbid=1199337418901990&amp;set=a.568367675332304" rel="noopener nofollow" target="_blank">Racial Harmony &amp; National Day Celebrations 2025</a>
+<p><a href="https://www.facebook.com/photo/?fbid=1199337418901990&amp;set=a.568367675332304" rel="noopener nofollow" target="_blank">Racial Harmony &amp; National Day Celebrations 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
