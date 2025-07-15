@@ -260,6 +260,35 @@ your community!</p>
 <p>20 July</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Bukit Batok East CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/bukitbatokeast/photos/join-us-to-celebrate-the-racial-harmony-day-together-as-a-bbe-community-we-have-/889009639937517/" rel="noopener nofollow" target="_blank">Racial Harmony Day Celebrations 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 278A, Bukit Batok East Avenue 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Tampines East Zone 2 RN</p>
 </td>
 <td rowspan="1" colspan="1">
