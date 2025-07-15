@@ -233,10 +233,11 @@ your community!</p>
 <p>Fernvale Zone H RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Racial Harmony Day</p>
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo.php?fbid=1144011254436396&amp;set=pb.100064825952992.-2207520000&amp;type=3" rel="noopener nofollow" target="_blank">Racial Harmony Day</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Communal Hall, Blk 442</p>
 </td>
 </tr>
 <tr>
