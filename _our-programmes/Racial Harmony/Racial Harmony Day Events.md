@@ -212,6 +212,66 @@ your community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>19 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Moulmein-Cairnhill CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/weare.moca" rel="noopener nofollow" target="_blank">Moulmein-Cairnhill Racial Harmony Concert!</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tanglin Community Club, 245 Whitley Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fernvale Zone H RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/photo.php?fbid=1144011254436396&amp;set=pb.100064825952992.-2207520000&amp;type=3" rel="noopener nofollow" target="_blank">Racial Harmony Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Communal Hall, Blk 442</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sembawang Central Zone B RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/sembcentral/photos/this-racial-harmony-day-weekend-come-join-us-at-507-wellington-circle-linkhouse-/1162874479201800/?_rdr" rel="noopener nofollow" target="_blank">Racial Harmony Day</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 507 Wellington Circle Linkhouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Batok East CCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/bukitbatokeast/photos/join-us-to-celebrate-the-racial-harmony-day-together-as-a-bbe-community-we-have-/889009639937517/" rel="noopener nofollow" target="_blank">Racial Harmony Day Celebrations 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 278A, Bukit Batok East Avenue 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>20 July</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,5 +304,5 @@ your community!</p>
 </table>
 <p>There may be other events in your neighbourhood, keep an eye out on social
 media or check in with your local CC.</p>
-<p><em>(Updated as of 4 July 2025)</em>
+<p><em>(Updated as of 15 July 2025)</em>
 </p>
