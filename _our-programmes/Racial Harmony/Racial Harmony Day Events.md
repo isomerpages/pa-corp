@@ -245,13 +245,14 @@ your community!</p>
 <p>20 July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sembawang Central Zone B RN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://safe.menlosecurity.com/https://www.facebook.com/sembcentral/photos/this-racial-harmony-day-weekend-come-join-us-at-507-wellington-circle-linkhouse-/1162874479201800/?_rdr" rel="noopener nofollow" target="_blank">Racial Harmony Day</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Blk 507 Wellington Circle Linkhouse</p>
 </td>
 </tr>
 <tr>
