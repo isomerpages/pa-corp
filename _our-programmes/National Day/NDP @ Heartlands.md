@@ -23,6 +23,11 @@ a grand finale featuring fireworks and a drone show.</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Central Singapore" src="/images/nurturing_square.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Central Singapore</div>
 <div class="isomer-card-description">Open field opposite Bishan Circle Line MRT Station, Exit D (10 August
@@ -30,24 +35,44 @@ a grand finale featuring fireworks and a drone show.</p>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="North East" src="/images/hope_square.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">North East</div>
 <div class="isomer-card-description">Open field next to One Punggol (10 August 2025, 4pm - 9pm)</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="North West" src="/images/heartbeat_square.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">North West</div>
 <div class="isomer-card-description">Open field next to FutsalArena @ Yishun (10 August 2025, 4pm - 9pm)</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="South East" src="/images/red_block_sqaure.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">South East</div>
 <div class="isomer-card-description">Open field beside Wisma Geylang Serai (10 August 2025, 4pm - 9pm)</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="South West" src="/images/teoghter_square.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">South West</div>
 <div class="isomer-card-description">Bukit Gombak ActiveSG Stadium (10 August 2025, 4pm - 9pm)</div>
