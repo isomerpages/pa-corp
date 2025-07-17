@@ -5,7 +5,10 @@ description: ""
 third_nav_title: CC Courses
 variant: markdown
 ---
-The People’s Association Industry Guru Series is a customised professional networking programme. It is developed to inspire youths and working professionals to network, exchange ideas, and gain insights through sharing sessions by esteemed speakers and industry leaders. 
+The People’s Association (PA) Industry Guru Series is a customised professional networking programme. It is developed to inspire youths and working professionals to network, exchange ideas, and gain insights through sharing sessions by esteemed speakers and industry leaders.
+
+
+
 
 The Industry Guru has just lined up a brand new series of Deep Dive Learning courses to get you ready for the future. Check out what is available at your nearby community centres/clubs (CCs) and keep in touch with the latest growing and emerging trends!
 
