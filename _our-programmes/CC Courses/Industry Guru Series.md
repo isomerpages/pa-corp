@@ -19,7 +19,8 @@ Explore engaging courses delivered by PA’s training providers and industry par
 
 #### About Learning Journey 
 
-Come face-to-face with business experts and gain understanding on the inner workings of various industries. Explore what makes specific industries tick with a 3-hour site tour, including a 2-hour sharing session by industry insiders.
+Sharpen your skills and broaden your horizons by attending Learning Journeys hosted by Industry Experts, where you will gain insights on various industries and companies through a site tour and sharing session by insiders!
+
 
 ### Brochures
 **Industry Guru Series - Deep Dive Learning Courses (Coming Soon!)**
