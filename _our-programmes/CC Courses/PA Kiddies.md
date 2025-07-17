@@ -15,7 +15,7 @@ What are you waiting for? Start your adventures this school holiday with K.D. be
 
 ### Brochures
 
-[Download](/files/Our%20Programmes/CC%20Courses/pa%20kiddies-may_june-2023-compressed.pdf) the May-June 2023 issue here.
+Look out for our upcoming run in November-December 2025.
 
 
 Follow&nbsp;[PA Kiddies](https://www.facebook.com/PAKiddies) for more updates!
