@@ -23,6 +23,19 @@ Sharpen your skills and broaden your horizons by attending Learning Journeys hos
 
 
 ### Brochures
-**Industry Guru Series - Deep Dive Learning Courses (Coming Soon!)**
+ 
+1)      Industry Guru Series – [Taster Courses (April – June 2025)](https://file.go.gov.sg/deepdivetastercourse.pdf)
 
-For more information on Industry Guru Series, visit the [PMET Network](https://www.facebook.com/pmetnetwork) Facebook page.
+2)      Industry Guru Series – [Learning & Development with PA Training Providers (April – June 2025)](https://file.go.gov.sg/deepdivebypatrainingproviders.pdf)
+
+3)      Industry Guru Series – [Deep Dive Learning with Industry Experts (April – June 2025)](https://go.gov.sg/deepdivebyindustryexperts)
+
+Find out more information about Industry Guru Series and related courses by visiting and following us at:
+
+Facebook: [PMET Network](https://www.facebook.com/pmetnetwork) 
+
+Instagram: [pmetnetwork](https://www.instagram.com/pmetnetwork/)
+
+LinkedIn: [PMET Network](https://sg.linkedin.com/showcase/pmet-network/)
+
+Telegram: PMET Networkpage.
