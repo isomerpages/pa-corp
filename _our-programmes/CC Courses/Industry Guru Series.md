@@ -6,13 +6,11 @@ third_nav_title: CC Courses
 variant: markdown
 ---
 The People’s Association (PA) Industry Guru Series is a customised professional networking programme. It is developed to inspire youths and working professionals to network, exchange ideas, and gain insights through sharing sessions by esteemed speakers and industry leaders.
+     
+Apart from networking opportunities and sharing sessions, Industry Guru has a series of Deep Dive Learning Courses for your self-development. Check out what is available at your nearby Community Clubs (CCs) and enhance your skills!
 
+![](/images/IGuru_Website_Image.jpg)
 
-
-
-The Industry Guru has just lined up a brand new series of Deep Dive Learning courses to get you ready for the future. Check out what is available at your nearby community centres/clubs (CCs) and keep in touch with the latest growing and emerging trends!
-
-<img style="width:600px" align="centre" src="/images/Programmes/CC%20Courses/IGuru%20webpage%20group%20photo.png">
 
 #### About Deep Dive Courses
 
