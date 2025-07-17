@@ -5,25 +5,37 @@ description: ""
 third_nav_title: CC Courses
 variant: markdown
 ---
-The People’s Association Industry Guru Series is a customised professional networking programme. It is developed to inspire youths and working professionals to network, exchange ideas, and gain insights through sharing sessions by esteemed speakers and industry leaders. 
+The People’s Association (PA) Industry Guru Series is a customised professional networking programme. It is developed to inspire youths and working professionals to network, exchange ideas, and gain insights through sharing sessions by esteemed speakers and industry leaders.
+     
+Apart from networking opportunities and sharing sessions, Industry Guru has a series of Deep Dive Learning Courses for your self-development. Check out what is available at your nearby Community Clubs (CCs) and enhance your skills!
 
-The Industry Guru has just lined up a brand new series of Deep Dive Learning courses to get you ready for the future. Check out what is available at your nearby community centres/clubs (CCs) and keep in touch with the latest growing and emerging trends!
+![](/images/IGuru_Website_Image.jpg)
 
-<img style="width:600px" align="centre" src="/images/Programmes/CC%20Courses/IGuru%20webpage%20group%20photo.png">
 
 #### About Deep Dive Courses
 
-Dive straight into the wide range of specially curated Deep Dive Learning courses.  Gain first-hand information and tips from our esteemed PA Trainers and valued partners such as the Singapore Fintech Association, Deloitte Singapore, and Microsoft. Through a series of exciting and thought provoking courses under the tracks of ‘Business Leadership and Management’ as well as ‘Digital Innovation’, PMEs can realise their aspirations to upskill and enhance their work competencies.
+Explore engaging courses delivered by PA’s training providers and industry partners. With courses across categories such as ‘digital, tech and innovation’, ‘personal development’, and ‘business and entrepreneurship’, working professionals can enhance their competencies and develop themselves. Search for keyword ‘Industry Guru’ on [https://www.onepa.gov.sg/courses](https://www.onepa.gov.sg/courses) for Deep Dive Learning Courses today!
 
-#### About T-Connect
-
-Delve further into topics of interest with Industry Guru’s T-Connect interest group sessions; a more regular and intimate take for PMEs to come together and discuss on topics that interest them.  PMEs can share concerns and views with industry experts, build stronger rapport with fellow PMEs, and gain in-depth insights into various industry subjects.
 
 #### About Learning Journey 
 
-Come face-to-face with business experts and gain understanding on the inner workings of various industries. Explore what makes specific industries tick with a 3-hour site tour, including a 2-hour sharing session by industry insiders.
+Sharpen your skills and broaden your horizons by attending Learning Journeys hosted by Industry Experts, where you will gain insights on various industries and companies through a site tour and sharing session by insiders!
+
 
 ### Brochures
-**Industry Guru Series - Deep Dive Learning Courses (Coming Soon!)**
+ 
+1)      Industry Guru Series – [Taster Courses (April – June 2025)](https://file.go.gov.sg/deepdivetastercourse.pdf)
 
-For more information on Industry Guru Series, visit the [PMET Network](https://www.facebook.com/pmetnetwork) Facebook page.
+2)      Industry Guru Series – [Learning & Development with PA Training Providers (April – June 2025)](https://file.go.gov.sg/deepdivebypatrainingproviders.pdf)
+
+3)      Industry Guru Series – [Deep Dive Learning with Industry Experts (April – June 2025)](https://go.gov.sg/deepdivebyindustryexperts)
+
+Find out more information about Industry Guru Series and related courses by visiting and following us at:
+
+Facebook: [PMET Network](https://www.facebook.com/pmetnetwork) 
+
+Instagram: [pmetnetwork](https://www.instagram.com/pmetnetwork/)
+
+LinkedIn: [PMET Network](https://sg.linkedin.com/showcase/pmet-network/)
+
+Telegram: PMET Networkpage.
