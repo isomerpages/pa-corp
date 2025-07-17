@@ -14,11 +14,8 @@ Apart from networking opportunities and sharing sessions, Industry Guru has a se
 
 #### About Deep Dive Courses
 
-Dive straight into the wide range of specially curated Deep Dive Learning courses.  Gain first-hand information and tips from our esteemed PA Trainers and valued partners such as the Singapore Fintech Association, Deloitte Singapore, and Microsoft. Through a series of exciting and thought provoking courses under the tracks of ‘Business Leadership and Management’ as well as ‘Digital Innovation’, PMEs can realise their aspirations to upskill and enhance their work competencies.
+Explore engaging courses delivered by PA’s training providers and industry partners. With courses across categories such as ‘digital, tech and innovation’, ‘personal development’, and ‘business and entrepreneurship’, working professionals can enhance their competencies and develop themselves. Search for keyword ‘Industry Guru’ on [https://www.onepa.gov.sg/courses](https://www.onepa.gov.sg/courses) for Deep Dive Learning Courses today!
 
-#### About T-Connect
-
-Delve further into topics of interest with Industry Guru’s T-Connect interest group sessions; a more regular and intimate take for PMEs to come together and discuss on topics that interest them.  PMEs can share concerns and views with industry experts, build stronger rapport with fellow PMEs, and gain in-depth insights into various industry subjects.
 
 #### About Learning Journey 
 
