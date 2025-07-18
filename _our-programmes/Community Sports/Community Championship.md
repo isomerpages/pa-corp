@@ -18,7 +18,7 @@ Whether it's a win or a loss, playing together knits us closer as a community. Y
 <h3>Crowning Champion &amp; Continuing Glory</h3>
 <p>
 
-The <b>Community Championship 2025</b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation. From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success. 
+The <b>Community Championship 2025</b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation. From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success.
 .
 
 </p><h3>Our Neighbourhood Champions Heading to Pesta Sukan Community Championship</h3>
