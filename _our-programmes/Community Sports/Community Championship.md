@@ -40,7 +40,7 @@ The dust has settled, and the champions have emerged! These winning teams, repre
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_07_Table_Tennis.png"></div>
 
-<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Get the latest information about the Pesta Sukan Community Championship,</a> including match schedules and venues. Join us to cheer on your family members, friends and neighbours and  continue to foster the spirit of sports and community together.
+<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Get the latest information about the Pesta Sukan Community Championship,</a> including match schedules and venues. Join us to cheer on your family members, friends and neighbours and  continue to foster the spirit of sports and community together!
 
 <p>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
