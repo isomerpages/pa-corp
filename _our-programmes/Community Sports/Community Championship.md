@@ -38,9 +38,9 @@ The top two winning teams of each GRC cluster will now compete against the best 
 
 </p><h3>Our GRC Champions Heading to Pesta Sukan Community Championship!</h3>
 <p>
-Get ready to support your family members, friends or neighbours! More than 200 teams will be advancing to the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Pesta Sukan Community Championship/a&gt;.
+Get ready to support your family members, friends or neighbours! More than 200 teams will be advancing to the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Pesta Sukan Community Championship.</a>
 
-</a></p><div class="isomer-image-wrapper"><a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">
+</p><div class="isomer-image-wrapper"><a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_Badminton.png"></a></div><a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">
 
 </a><a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! Let's continue to foster the spirit of sports and community together!
