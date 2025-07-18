@@ -18,7 +18,8 @@ Whether it's a win or a loss, playing together knits us closer as a community. Y
 <h3>Crowning Champion &amp; Continuing Glory</h3>
 <p>
 
-The <b>Community Championship 2025 </b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation. From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success. We extend our excitement and heartfelt congratulations to all teams who competed with such passion and determination.
+The <b>Community Championship 2025</b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation. From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success. 
+.
 
 </p><h3>Neighbour Champions Heading to Pesta Sukan Community Championship</h3>
 <p>
@@ -39,7 +40,9 @@ The dust has settled, and the champions have emerged! These winning teams, repre
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_07_Table_Tennis.png"></div>
 
-<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Get the latest information about the Pesta Sukan Community Championship,</a> including match schedules and venues. Join us to cheer on your family members, friends and neighbours! <b>Let's continue to foster the spirit of sports and community together! </b>
+<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Get the latest information about the Pesta Sukan Community Championship,</a> including match schedules and venues. Join us to cheer on your family members, friends and neighbours!
+
+<b>Let's continue to foster the spirit of sports and community together! </b>
 
 <p>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
