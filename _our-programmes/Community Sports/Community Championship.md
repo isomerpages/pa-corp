@@ -26,13 +26,13 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 
 <h3>A Grand Finale and the Road to Pesta Sukan Community Championship</h3>
 <p>
-What an incredible journey it has been! The Community Championship has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation.
+	What an incredible journey it has been! The <b>Community Championship</b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation.
 
 From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success. We extend our excitement and heartfelt congratulations to all teams who competed with such passion and determination.
 
 </p><h3>Champions Crowned, Dreams Continue!</h3>
 <p>
-The dust has settled, and the champions have emerged! These winning teams, representing their respective GRCs, have secured their coveted spots in the highly anticipated Pesta Sukan Community Championship.
+The dust has settled, and the champions have emerged! These winning teams, representing their respective GRCs, have secured their coveted spots in the highly anticipated <b>Pesta Sukan Community Championship.</b>
 
 The top two winning teams of each GRC cluster will now compete against the best of the best, battle for ultimate glory and the prestigious Pesta Sukan title. 
 
@@ -42,7 +42,7 @@ Get ready to support your family members, friends or neighbours! More than 200 t
 
 ![](/images/Programmes/Community%20sports/PSCC_Badminton.jpg)
 
-<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! Let's continue to foster the spirit of sports and community together!
+<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! <b>Let's continue to foster the spirit of sports and community together!</b>
 
 </p><p>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
