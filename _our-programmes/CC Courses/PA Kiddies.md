@@ -13,7 +13,7 @@ The PA Kiddies is a series of specially curated courses that cater especially to
 
 What are you waiting for? Start your adventures this school holiday with K.D. because the fun never ends!
 
-### Brochures
+### Upcoming
 
 Look out for our upcoming run in November-December 2025.
 
