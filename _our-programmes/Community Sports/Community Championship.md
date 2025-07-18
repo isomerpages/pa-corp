@@ -20,7 +20,7 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <h3>Celebrating the End of Community Championship 2025</h3>
 <p>
 
-What an incredible journey it has been! The **Community Championship 2025** has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation.
+What an incredible journey it has been! The <b>Community Championship 2025 </b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation.
 
 From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success. We extend our excitement and heartfelt congratulations to all teams who competed with such passion and determination.
 
@@ -33,11 +33,9 @@ More than 200 teams will compete against the best of the best, battle for ultima
 
 Get ready to support your family members, friends and neighbours! 
 
-![](/images/Programmes/Community%20sports/PSCC_Badminton.jpg)
+---------
 
-<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! **Let's continue to foster the spirit of sports and community together!**
-
-</p><p>Connect with National Sports Associations (NSAs) for pro tips and resources:
+<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! <b>Let's continue to foster the spirit of sports and community together! </b>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
 <a href="https://bas.org.sg/">Basketball Association Singapore</a>
 <br>
