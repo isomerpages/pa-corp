@@ -21,7 +21,7 @@ Whether it's a win or a loss, playing together knits us closer as a community. Y
 The <b>Community Championship 2025</b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation. From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success. 
 .
 
-</p><h3>Neighbour Champions Heading to Pesta Sukan Community Championship</h3>
+</p><h3>Our Neighbourhood Champions Heading to Pesta Sukan Community Championship</h3>
 <p>
 The dust has settled, and the champions have emerged! These winning teams, representing their respective GRC clusters, have secured their top spots in the highly anticipated Pesta Sukan Community Championship. More than 200 teams will compete against the best of the best, battle for ultimate glory. 
 
