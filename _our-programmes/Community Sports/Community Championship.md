@@ -11,31 +11,35 @@ third_nav_title: Community Sports
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zalZAY8sQlY?si=9OZa0-qCK0t8jR_X?rel=0" height="480" width="854"></iframe>
 
 <h3>About Community Championship</h3>
-<p>Community Championship is a national movement to bring people together through community sports. Community Championship also aims to provide opportunities for residents of all backgrounds to bond together through friendly sports competition. The People's Association Community Sports Network (CSN) is proud to bring back the Community Championship this year.
+<p>The Community Championship is a national movement to bring people together through community sports. Community Championship also aims to provide opportunities for residents of all backgrounds to bond together through friendly sports competition. The People's Association Community Sports Network (CSN) is proud to bring back the Community Championship this year.
+</p><p>
+Whether it's a win or a loss, playing together knits us closer as a community. You can join an existing CSN team in your area or form your own group to participate at the Cluster level. The top teams will represent their Clusters at the Pesta Sukan Community Championship, where you'll go toe-to-toe with champs from other Clusters. Embrace the spirit of friendly competition, and experience the thrill of community sports!</p>
 
-Whether it's a win or a loss, playing together knits us closer as a community. You can join an existing CSN team in your area or form your own group to participate at the Cluster level. The top teams will represent the Cluster at the Pesta Sukan Community Category, where you'll go toe-to-toe with champs from other Clusters.
-
-Get ready to showcase your skills, embrace the spirit of friendly competition, and experience the thrill of community sports!</p>
-
-<h3>Celebrating the End of Community Championship 2025</h3>
+<h3>Crowning Champion &amp; Continuing Glory</h3>
 <p>
-
-What an incredible journey it has been! The <b>Community Championship 2025 </b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation.
-
-From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success. We extend our excitement and heartfelt congratulations to all teams who competed with such passion and determination.
-
-</p><h3>Our GRC Champions Heading to Pesta Sukan Community Championship!</h3>
-<p>
-
-The dust has settled, and the champions have emerged! These winning teams, representing their respective GRCs, have secured their top spots in the highly anticipated Pesta Sukan Community Championship.
-
-More than 200 teams will compete against the best of the best, battle for ultimate glory and the prestigious Pesta Sukan title. 
-
-Get ready to support your family members, friends and neighbours! 
+The <b>Community Championship 2025</b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation. From spirited cheering sections to dedicated Grassroots Leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success.
 </p>
----------
 
-<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! <b>Let's continue to foster the spirit of sports and community together! </b>
+<p></p><h3>Our Neighbourhood Champions Heading to Pesta Sukan Community Championship</h3>
+<p>
+The dust has settled, and the champions have emerged! These winning teams, representing their respective GRC clusters, have secured their top spots in the highly anticipated Pesta Sukan Community Championship. More than 200 teams will compete against the best of the best, battle for ultimate glory. 
+</p>
+<p></p><div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_01_Badminton.png"></div>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_02_Basketball.png"></div>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_03_Bowling.png"></div>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_06_Pickleball.png"></div>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_07_Table_Tennis.png"></div>
+
+<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Get the latest information about the Pesta Sukan Community Championship,</a> including match schedules and venues. Join us to cheer on your family members, friends and neighbours and  continue to foster the spirit of sports and community together!
 
 <p>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
