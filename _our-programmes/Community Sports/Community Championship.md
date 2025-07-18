@@ -27,13 +27,15 @@ From spirited cheering sections to dedicated Grassroots leaders and volunteers, 
 </p><h3>Our GRC Champions Heading to Pesta Sukan Community Championship!</h3>
 <p>
 
-The dust has settled, and the champions have emerged! These winning teams, representing their respective GRCs, have secured their top spots in the highly anticipated Pesta Sukan Community Championship.
+The dust has settled, and the champions have emerged! These winning teams, representing their respective GRCs, have secured their top spots in the highly anticipated <b>Pesta Sukan Community Championship.</b> More than 200 teams will compete against the best of the best, battle for ultimate glory. 
 
-More than 200 teams will compete against the best of the best, battle for ultimate glory and the prestigious Pesta Sukan title. 
-
-Get ready to support your family members, friends and neighbours! 
+![](/images/PA%20CSN/PSCC_Badminton.png)
+![](/images/PA%20CSN/PSCC_Basketball.png)
+![](/images/PA%20CSN/PSCC_Bowling.png)
+![](/images/PA%20CSN/PSCC_Pickleball.png)
+![](/images/PA%20CSN/PSCC_Table_Tennis.png)
+	
 </p>
----------
 
 <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! <b>Let's continue to foster the spirit of sports and community together! </b>
 
