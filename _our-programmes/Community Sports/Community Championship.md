@@ -13,7 +13,7 @@ third_nav_title: Community Sports
 <h3>About Community Championship</h3>
 <p>The Community Championship is a national movement to bring people together through community sports. Community Championship also aims to provide opportunities for residents of all backgrounds to bond together through friendly sports competition. The People's Association Community Sports Network (CSN) is proud to bring back the Community Championship this year.
 </p><p>
-Whether it's a win or a loss, playing together knits us closer as a community. You can join an existing CSN team in your area or form your own group to participate at the Cluster level. The top teams will represent the Cluster at the Pesta Sukan Community Championship, where you'll go toe-to-toe with champs from other Clusters. Embrace the spirit of friendly competition, and experience the thrill of community sports!</p>
+Whether it's a win or a loss, playing together knits us closer as a community. You can join an existing CSN team in your area or form your own group to participate at the Cluster level. The top teams will represent their Clusters at the Pesta Sukan Community Championship, where you'll go toe-to-toe with champs from other Clusters. Embrace the spirit of friendly competition, and experience the thrill of community sports!</p>
 
 <h3>Crowning Champion &amp; Continuing Glory</h3>
 <p>
