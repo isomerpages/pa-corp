@@ -17,32 +17,25 @@ Whether it's a win or a loss, playing together knits us closer as a community. Y
 
 Get ready to showcase your skills, embrace the spirit of friendly competition, and experience the thrill of community sports!</p>
 
-<h3>Seven Sports Up for Your Challenge</h3>
-<p>Game On! Community Championship 2025 returns with an expanded lineup of five returning favourites - Badminton, Basketball, Football, Pickleball, and Table Tennis, plus TWO exciting new additions - Bowling and Floorball. Choose your sport and represent your Cluster.</p>
-
-<h4><p style="color: black;">Sports Competition (Team) Categories</p></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Comp_Format___Categories_v1.png"></div>
-
-<h3>A Grand Finale and the Road to Pesta Sukan Community Championship</h3>
+<h3>Celebrating the End of Community Championship 2025</h3>
 <p>
-	What an incredible journey it has been! The <b>Community Championship</b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation.
+
+What an incredible journey it has been! The Community Championship has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation.
 
 From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success. We extend our excitement and heartfelt congratulations to all teams who competed with such passion and determination.
 
-</p><h3>Champions Crowned, Dreams Continue!</h3>
-<p>
-The dust has settled, and the champions have emerged! These winning teams, representing their respective GRCs, have secured their coveted spots in the highly anticipated <b>Pesta Sukan Community Championship.</b>
-
-The top two winning teams of each GRC cluster will now compete against the best of the best, battle for ultimate glory and the prestigious Pesta Sukan title. 
-
 </p><h3>Our GRC Champions Heading to Pesta Sukan Community Championship!</h3>
 <p>
-Get ready to support your family members, friends or neighbours! More than 200 teams will be advancing to the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Pesta Sukan Community Championship</a>.
+
+The dust has settled, and the champions have emerged! These winning teams, representing their respective GRCs, have secured their top spots in the highly anticipated Pesta Sukan Community Championship.
+
+More than 200 teams will compete against the best of the best, battle for ultimate glory and the prestigious Pesta Sukan title. 
+
+Get ready to support your family members, friends and neighbours! 
 
 ![](/images/Programmes/Community%20sports/PSCC_Badminton.jpg)
 
-<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! <b>Let's continue to foster the spirit of sports and community together!</b>
+<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! Let's continue to foster the spirit of sports and community together!
 
 </p><p>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
