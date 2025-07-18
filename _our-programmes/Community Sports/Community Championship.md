@@ -23,15 +23,27 @@ Get ready to showcase your skills, embrace the spirit of friendly competition, a
 <h4><p style="color: black;">Sports Competition (Team) Categories</p></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Comp_Format___Categories_v1.png"></div>
-<h3>Competition Schedule</h3>
-<p>Mark your calendars! Community Championship 2025 kicks off this April through early July. <br></p><h4><p style="color: black;">June - July 2025 Competition Schedule</p></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CC_June_July_2025__Updated_v3_.png"></div>
-<h4><p style="color: black;">April - May 2025 Competition Schedule</p></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CC_April_May_2025__Updated_v2_.png"></div>
 
-Planning to participate? Everything you need to know about competition rules and regulations is on the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/commmunity-championship">Pesta Sukan Community Championship page</a>.
+<h3>A Grand Finale and the Road to Pesta Sukan Community Championship</h3>
+<p>
+What an incredible journey it has been! The Community Championship has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation.
+
+From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success. We extend our excitement and heartfelt congratulations to all teams who competed with such passion and determination.
+
+</p><h3>Seven Sports Up for Your Challenge</h3>
+<p>
+The dust has settled, and the champions have emerged! These winning teams, representing their respective GRCs, have secured their coveted spots in the highly anticipated Pesta Sukan Community Championship.
+
+The top two winning teams of each GRC cluster will now compete against the best of the best, battle for ultimate glory and the prestigious Pesta Sukan title. 
+
+</p><h3>Our GRC Champions Heading to Pesta Sukan Community Championship!</h3>
+<p>
+Get ready to support your family members, friends or neighbours! More than 200 teams will be advancing to the <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Pesta Sukan Community Championship/a&gt;.
+
+</a></p><div class="isomer-image-wrapper"><a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_Badminton.png"></a></div><a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">
+
+</a><a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! Let's continue to foster the spirit of sports and community together!
 
 <p>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
@@ -49,21 +61,6 @@ Planning to participate? Everything you need to know about competition rules and
 <br>
 <a href="https://www.stta.org.sg/">Singapore Table Tennis Association</a>
 </p>
-
-<h3>Be Part of Community Championship 2025</h3>
-<p> Register easily through <a target="_blank" href="https://www.onepa.gov.sg/events/search?events=&amp;aoi=Competitions">OnePA.gov.sg</a> or visit the nearest Community Club in your neighbourhood and we'll guide you through the registration! </p>
-
-Find your district and GRC below to register for upcoming competitions:
-
-<b>Central Singapore</b>
-<br>
-<b>North East</b>
-<br>
-<b>North West</b>
-<br>
-<b>South East</b>
-<br>
-<b>South West</b>
 
 <p></p><h3>Sports Safety</h3>
 <p>
