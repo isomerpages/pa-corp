@@ -32,10 +32,12 @@ The dust has settled, and the champions have emerged! These winning teams, repre
 More than 200 teams will compete against the best of the best, battle for ultimate glory and the prestigious Pesta Sukan title. 
 
 Get ready to support your family members, friends and neighbours! 
-
+</p>
 ---------
 
-<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! <b>Let's continue to foster the spirit of sports and community together! </b>Connect with National Sports Associations (NSAs) for pro tips and resources:
+<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Find out on the Pesta Sukan Community Championship</a>, including schedules, venues here, and how you can support our incredible GRC representatives! <b>Let's continue to foster the spirit of sports and community together! </b>
+
+<p>Connect with National Sports Associations (NSAs) for pro tips and resources:
 <br>
 <a href="https://bas.org.sg/">Basketball Association Singapore</a>
 <br>
