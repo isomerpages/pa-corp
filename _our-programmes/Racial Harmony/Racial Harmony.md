@@ -50,10 +50,11 @@ music and dance groups, showcasing the diversity of Singapore’s cultures
 to a multi-ethnic audience. Visit the <a href="https://www.facebook.com/PA.Talents" rel="noopener noreferrer nofollow" target="_blank">PA Talents Facebook Page</a> for
 more information.</p>
 <h4>Gentarasa</h4>
-<p><em>ings together talented performers, offering them a prestigious platform to present traditional and contemporary Malay performing art.</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
+<p>Gentarasa, which means "Chimes of Expression", was established in 2002
+as a signature cultural initiative to celebrate and promote Malay arts
+and culture in Singapore's diverse society. This annual showcase brings
+together talented performers, offering them a prestigious platform to present
+traditional and contemporary Malay performing arts.</p>
 <p>Through captivating performances of dance and music, Gentarasa serves
 as a bridge connecting generations while preserving the Malay arts form.
 The programme not only nurtures artistic excellence within the community
