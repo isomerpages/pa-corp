@@ -38,4 +38,4 @@ Instagram: [pmetnetwork](https://www.instagram.com/pmetnetwork/)
 
 LinkedIn: [PMET Network](https://sg.linkedin.com/showcase/pmet-network/)
 
-Telegram: PMET Networkpage.
+Telegram: [PMET Network](https://t.me/pmetnetwork )
