@@ -83,13 +83,39 @@ community innovation that makes our community stronger.</p>
 <p>At the finale, five teams were selected by a panel of judges, comprising
 government leaders and industry experts. They will advance to OGP’s 8-week
 Build for Good (BFG) Accelerator programme, starting 24 July 2025. Each
-selected team will receive $20,000 in funding</p>
-<p>and mentorship support to further develop and launch their solutions.
-All other teams are</p>
-<p>encouraged to collaborate with PA’s CITs who will provide funding support
-to implement their solutions and continue making an impact in the community.</p>
+selected team will receive $20,000 in funding and mentorship support to
+further develop and launch their solutions. All other teams are encouraged
+to collaborate with PA’s CITs who will provide funding support to implement
+their solutions and continue making an impact in the community.</p>
 </li>
 </ol>
+<h4><strong>Diverse talents driving community solutions</strong></h4>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Community Hackathon participants come from diverse backgrounds, including
+students, tech professionals and social service officers. The majority
+(68%) were youths aged 18 to 24, demonstrating their enthusiasm in stepping
+up to use technology to solve community challenges. Several teams dedicated
+their efforts to creating solutions that better support vulnerable communities,
+such as the elderly and their caregivers, lower-income families, individuals
+with disabilities, and the homeless. One passionate team who cares for
+the seniors even developed a solution to help the seniors understand official
+documents in English, demonstrating their commitment to elderly care. What
+truly made this Community Hackathon special was how participants, even
+those without prior tech-building experience, harnessed their unique skills
+and expertise. For instance, a social worker partnered with other participants
+in developing solutions for mental health and peer support, demonstrating
+the power of interdisciplinary collaboration.</p>
+<p></p>
+</li>
+<li>
+<p>For more information, please visit: <a href="https://www.community-hackathon.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.community-hackathon.gov.sg</a> to
+learn more about the 21 projects from the Community Hackathon. For quotes
+on the winning teams and the CITs who supported some of them, please refer
+to the Annex.</p>
+</li>
+</ol>
+<p></p>
 <p></p>
 <p></p>
 <h3></h3>
