@@ -194,9 +194,8 @@ us.</p>
 <p></p>
 <p>At the end of the day, every new version of Red Flags will be shaped by
 what users need. We hope that even the layman will recognise that financial
-literacy can be</p>
-<p>for everyone, and that they will be able to make informed decisions on
-their own and not be placed in risky situations.”</p>
+literacy can be for everyone, and that they will be able to make informed
+decisions on their own and not be placed in risky situations.”</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +204,12 @@ their own and not be placed in risky situations.”</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>“SeniorSays can help everyone across ages, because it creates a simpler
+journey for everyone when it streamlines senior outreach by auto-filling
+forms through conversation transcripts, which enables better, faster care—without
+adding extra steps. Personally, I also see my mum not being able to adapt
+to newer technologies, so I hope that SeniorSays can make it easier for
+senior volunteers to help fill up the forms for fellow seniors.”</p>
 </td>
 </tr>
 <tr>
