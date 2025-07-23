@@ -324,10 +324,20 @@ solution for our community."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Nee Soon South CIT</strong>
+</p>
+<p><strong>(Supported SeniorSays)</strong>
+</p>
+<p><strong>Mr Alan Poh, Nee Soon South CIT Chairman (51)</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>“Our CIT members and the SeniorSays team engaged in several discussions.
+We provided valuable feedback on ground sentiments and facilitated solution
+testing with seniors - and it was a success! We're delighted they emerged
+as one of the winning teams. Looking forward, we are eager to continue
+this collaboration to enhance our senior engagement efforts.”</p>
 </td>
 </tr>
 <tr>
