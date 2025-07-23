@@ -44,13 +44,13 @@ solutions and launch them in the community. The five teams are <a href="https://
 <li>
 <p>The partnership successfully combines OGP’s <a href="https://www.build.gov.sg/" rel="noopener nofollow" target="_blank">Build for Good</a> product development
 programme that includes mentorship and workshops, with PA’s efforts as
-part of its broader Sparks initiative and its deep community connections.
-The collaboration aims to harness the collective knowledge and experiences
-of the community to co-create innovative tech solutions. By offering dedicated
-support and resources, the Community Hackathon seeks to facilitate the
-development of community-led innovation, transform the community aspirations
-into tangible solutions, and foster greater ownership of ground-up initiatives
-that can benefit our communities.</p>
+part of its broader <a href="https://www.pa.gov.sg/our-programmes/pa-sparks/" rel="noopener nofollow" target="_blank">Sparks</a> initiative
+and its deep community connections. The collaboration aims to harness the
+collective knowledge and experiences of the community to co-create innovative
+tech solutions. By offering dedicated support and resources, the Community
+Hackathon seeks to facilitate the development of community-led innovation,
+transform the community aspirations into tangible solutions, and foster
+greater ownership of ground-up initiatives that can benefit our communities.</p>
 </li>
 </ol>
 <h3></h3>
