@@ -138,7 +138,9 @@ to the Annex.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CallBridge - Yeo Shi (26)</strong>
+<p><strong>CallBridge</strong>
+</p>
+<p><strong>Yeo Shi (26)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,7 +156,9 @@ to even greater heights.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LetterKey - Cham Li Hui (24)</strong>
+<p><strong>LetterKey</strong>
+</p>
+<p><strong>Cham Li Hui (24)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +180,9 @@ dialects.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Red Flags - Jessica Olivia Pandjang (22)</strong>
+<p><strong>Red Flags </strong>
+</p>
+<p><strong>Jessica Olivia Pandjang (22)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,7 +206,9 @@ decisions on their own and not be placed in risky situations.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SeniorSays - Pradnya Nirgun (29)</strong>
+<p><strong>SeniorSays</strong>
+</p>
+<p><strong>Pradnya Nirgun (29)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -214,7 +222,9 @@ senior volunteers to help fill up the forms for fellow seniors.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SeniorSync - Lim Jitt Hing (23)</strong>
+<p><strong>SeniorSync </strong>
+</p>
+<p><strong>Lim Jitt Hing (23)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,7 +261,9 @@ to being one step closer to the fruition of SeniorSync.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Hawkify - Luar Shui Yan (24)</strong>
+<p><strong>Hawkify</strong>
+</p>
+<p><strong>Luar Shui Yan (24)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,7 +306,11 @@ with these teams.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Geylang West CIT (Supported Red Flags) - Mr Wan Kwong Weng, BBM, Geylang West CIT Chairman (54)</strong>
+<p><strong>Geylang West CIT </strong>
+</p>
+<p><strong>(Supported Red Flags) </strong>
+</p>
+<p><strong>Mr Wan Kwong Weng, BBM, Geylang West CIT Chairman (54)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
