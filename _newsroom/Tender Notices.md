@@ -11,4 +11,4 @@ For tender notices pertaining to available spaces for rent at Community Clubs/Ce
 Open Procurement and Grassroots Trade Fair Tenders published via the Grassroots Emart System (GEMS) can be viewed online using [this](https://gems.pa.gov.sg/account/vendors) link. Access the GEMS webpage to learn more.
 <br>
 
-Please check the below listing(s) for the latest tender notices: <br>[Tender for Provision of Event Management Services for Chinatown Mid-Autumn Festival](/tender-for-provision-of-event-management-services-for-chinatown-mid-autumn-festival/) <br>[Revenue Tender for Fernvale Sports and Recreation Space](/revenue-tender-for-fernvale-sports-and-recreation-space/)
+Please check the below listing(s) for the latest tender notices: <br>
