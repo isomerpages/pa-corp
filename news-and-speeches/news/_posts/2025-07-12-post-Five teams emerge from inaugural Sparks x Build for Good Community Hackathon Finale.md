@@ -36,8 +36,9 @@ GovTech, Ms Jasmin Lau, attended the event.</p>
 to a distinguished panel of government leaders and industry experts at
 the finale. From these, five teams were selected to advance to a 8-week
 Build for Good (BFG) Accelerator programme, where they will refine their
-solutions and launch them in the community. The five teams are CallBridge,
-LetterKey, Red Flags, SeniorSays and SeniorSync.</p>
+solutions and launch them in the community. The five teams are <a href="https://www.community-hackathon.gov.sg/2025/callbridge" rel="noopener nofollow" target="_blank">CallBridge</a>,
+<a href="https://www.community-hackathon.gov.sg/2025/letterkey" rel="noopener nofollow" target="_blank">LetterKey</a>, <a href="https://www.community-hackathon.gov.sg/2025/red-flags" rel="noopener nofollow" target="_blank">Red Flags</a>,
+<a href="https://www.community-hackathon.gov.sg/2025/seniorsays" rel="noopener nofollow" target="_blank">SeniorSays</a>and <a href="https://www.community-hackathon.gov.sg/2025/seniorsync" rel="noopener nofollow" target="_blank">SeniorSync</a>.</p>
 </li>
 </ol>
 <h3></h3>
