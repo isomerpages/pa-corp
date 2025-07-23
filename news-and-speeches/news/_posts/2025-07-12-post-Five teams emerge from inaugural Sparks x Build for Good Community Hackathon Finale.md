@@ -163,12 +163,12 @@ Senja Active Ageing Centre revealed that many seniors need help with daily
 tasks like reading letters, an issue stemming not just from language barrier
 but also from literacy and accessibility challenges.</p>
 <p></p>
-<p>LetterKey is an audio-first solution, designed</p>
-<p>specifically because seniors often prefer listening to text. It enables
-them to understand their letters in four languages - English, Mandarin,
-Malay, and Tamil aswell as two dialects, Hokkien and Cantonese. In fact,
-one resident who tested LetterKey with a Cantonese summary of an insurance
-document realised it wasn't as daunting as she initially thought!</p>
+<p>LetterKey is an audio-first solution, designed specifically because seniors
+often prefer listening to text. It enables them to understand their letters
+in four languages - English, Mandarin, Malay, and Tamil aswell as two dialects,
+Hokkien and Cantonese. In fact, one resident who tested LetterKey with
+a Cantonese summary of an insurance document realised it wasn't as daunting
+as she initially thought!</p>
 <p></p>
 <p>We are looking forward to scaling LetterKey and integrating even more
 dialects.”</p>
