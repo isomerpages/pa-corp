@@ -26,9 +26,10 @@ the Ministry of Trade and Industry and Ministry of Culture, Community and
 Youth, Ms Low Yen Ling; and Minister of State for Digital Development and
 Information, Minister of State for Education and Minister-in-charge of
 GovTech, Ms Jasmin Lau, attended the event.</p>
+<p></p>
+<h4><strong>A partnership that facilitates innovative tech solutions for the community</strong></h4>
 </li>
 </ol>
-<h4><strong>A partnership that facilitates innovative tech solutions for the community</strong></h4>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>After one month of research, development, mentorship and user testing,
