@@ -60,65 +60,64 @@ which would be open to the public for the first time for them to view the
 vehicles. Singaporeans can also track the live location of the Mobile Column
 via the NDP website, allowing them to anticipate when their favourite vehicles
 would pass through their estates.”</p>
+<p></p>
 </li>
-</ol>
-<p>*Red Lions will conduct their signature display jump at the Bishan site
-only.</p>
-<ol start="5" data-tight="true" class="tight">
 <li>
 <p>The Fighter Island Flypast will involve four F-16s fighters flying in
-a diamond</p>
-<p>formation through the heartlands of Singapore from 6pm to 6.30pm. They
-will be flying</p>
-<p>each loop twice to provide our residents more opportunities to catch a
-glimpse of them.</p>
-<p>6. Residents can look forward to celebrating National Day with unique
-community experiences. In Central Singapore, residents will help create
-a grand SG60 installation using 600 Singapore-themed puzzle pieces. In
-the North East, residents will come together to illuminate vibrant lanterns
-and share their well wishes through glowing message bottles. The North
-West will showcase community-created artwork of local landmarks. South
-East residents can look forward to the Rink of Light skating experience.
-The South West District will feature floating lanterns with residents'
-well wishes. More details can be found in PA’s fact sheet.</p>
+a diamond formation through the heartlands of Singapore from 6pm to 6.30pm.
+They will be flying each loop twice to provide our residents more opportunities
+to catch a glimpse of them.</p>
 <p></p>
 </li>
 <li>
-<p>From 8 July 2025, Singaporeans can collect National Day Heartland Celebrations</p>
-<p>tickets at the nearest Community Clubs (CCs) in their respective districts
+<p>Residents can look forward to celebrating National Day with unique community
+experiences. In Central Singapore, residents will help create a grand SG60
+installation using 600 Singapore-themed puzzle pieces. In the North East,
+residents will come together to illuminate vibrant lanterns and share their
+well wishes through glowing message bottles. The North West will showcase
+community-created artwork of local landmarks. South East residents can
+look forward to the Rink of Light skating experience. The South West District
+will feature floating lanterns with residents' well wishes. More details
+can be found in PA’s fact sheet.</p>
+<p></p>
+</li>
+<li>
+<p>From 8 July 2025, Singaporeans can collect National Day Heartland Celebrations
+tickets at the nearest Community Clubs (CCs) in their respective districts
 based on a firstcome, first-served basis. Each member of the public can
-collect up to a maximum of two</p>
-<p>tickets. The ticket will grant the holder access to the respective Heartland
-Celebration</p>
-<p>site in their district and a complimentary NDP pack. More details, including
-the list of</p>
-<p>CCs where tickets can be collected, can be found on the NDP website (
-<a href="http://www.ndp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ndp.gov.sg</a>)</p>
-<p>from 8 July 2025.</p>
+collect up to a maximum of two tickets. The ticket will grant the holder
+access to the respective Heartland Celebration site in their district and
+a complimentary NDP pack. More details, including the list of CCs where
+tickets can be collected, can be found on the NDP website ( <a href="http://www.ndp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ndp.gov.sg</a>)
+from 8 July 2025.</p>
 <p></p>
 </li>
 <li>
-<p>On 10 August, Singaporeans can visit the Heartland Celebration sites from</p>
-<p>4.00pm to 9.00pm. The five sites, and their respective themes, are as
-follows:</p>
-<p>a. Central Singapore District, themed “Nurturing Communities, Shaping</p>
-<p>Tomorrow” at the open field beside Bishan Junction 8</p>
-<p>b. North East District, themed “One HOPE” at the open field next to One</p>
-<p>Punggol</p>
-<p>c. North West District, themed “Heartbeat of our North West” at the open</p>
-<p>field next to FutsalArena @ Yishun</p>
-<p>d. South East District, themed “Bridging Generations, Stronger Together”</p>
-<p>at the open field beside Wisma Geylang Serai</p>
-<p>e. South West District, themed “Together We Shine and Spark” at Bukit</p>
-<p>Gombak ActiveSG Stadium.</p>
+<p>On 10 August, Singaporeans can visit the Heartland Celebration sites from
+4.00pm to 9.00pm. The five sites, and their respective themes, are as follows:</p>
+<p></p>
+<p>a Central Singapore District, themed “Nurturing Communities, Shaping Tomorrow”
+at the open field beside Bishan Junction 8</p>
+<p></p>
+<p>b. North East District, themed “One HOPE” at the open field next to One
+Punggol</p>
+<p></p>
+<p>c. North West District, themed “Heartbeat of our North West” at the open
+field next to FutsalArena @ Yishun</p>
+<p></p>
+<p>d. South East District, themed “Bridging Generations, Stronger Together”
+at the open field beside Wisma Geylang Serai</p>
+<p></p>
+<p>e. South West District, themed “Together We Shine and Spark” at Bukit
+Gombak ActiveSG Stadium.</p>
 <p></p>
 </li>
 <li>
 <p>Additional information on National Day Heartland Celebrations 2025 is
-also</p>
-<p>available via the NDP social media accounts, Youtube page</p>
-<p>(<a href="http://www.youtube.com.sg/NDPeeps" rel="noopener noreferrer nofollow" target="_blank">www.youtube.com.sg/NDPeeps</a>)
+also available via the NDP social media accounts, Youtube page (<a href="http://www.youtube.com.sg/NDPeeps" rel="noopener noreferrer nofollow" target="_blank">www.youtube.com.sg/NDPeeps</a>)
 and official website at <a href="http://www.ndp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ndp.gov.sg</a>.</p>
 </li>
 </ol>
+<p>*Red Lions will conduct their signature display jump at the Bishan site
+only.</p>
 <p></p>
