@@ -39,6 +39,18 @@ Build for Good (BFG) Accelerator programme, where they will refine their
 solutions and launch them in the community. The five teams are <a href="https://www.community-hackathon.gov.sg/2025/callbridge" rel="noopener nofollow" target="_blank">CallBridge</a>,
 <a href="https://www.community-hackathon.gov.sg/2025/letterkey" rel="noopener nofollow" target="_blank">LetterKey</a>, <a href="https://www.community-hackathon.gov.sg/2025/red-flags" rel="noopener nofollow" target="_blank">Red Flags</a>,
 <a href="https://www.community-hackathon.gov.sg/2025/seniorsays" rel="noopener nofollow" target="_blank">SeniorSays</a>and <a href="https://www.community-hackathon.gov.sg/2025/seniorsync" rel="noopener nofollow" target="_blank">SeniorSync</a>.</p>
+<p></p>
+</li>
+<li>
+<p>The partnership successfully combines OGP’s <a href="https://www.build.gov.sg/" rel="noopener nofollow" target="_blank">Build for Good</a> product development
+programme that includes mentorship and workshops, with PA’s efforts as
+part of its broader Sparks initiative and its deep community connections.
+The collaboration aims to harness the collective knowledge and experiences
+of the community to co-create innovative tech solutions. By offering dedicated
+support and resources, the Community Hackathon seeks to facilitate the
+development of community-led innovation, transform the community aspirations
+into tangible solutions, and foster greater ownership of ground-up initiatives
+that can benefit our communities.</p>
 </li>
 </ol>
 <h3></h3>
