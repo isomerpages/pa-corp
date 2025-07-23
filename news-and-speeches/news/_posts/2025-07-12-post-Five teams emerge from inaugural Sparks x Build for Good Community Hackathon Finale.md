@@ -235,7 +235,6 @@ to being one step closer to the fruition of SeniorSync.”</p>
 </table>
 <p></p>
 <h4><strong>Community Favourite Award Recipient</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -273,4 +272,62 @@ hawker stores.”</p>
 </tbody>
 </table>
 <p></p>
-<p>KAKAKDDDF</p>
+<h4><strong><u>Annex: Quotes from PA's Community Innovation Taskforces (CITs)</u></strong></h4>
+<p></p>
+<p>Four of the winning teams, LetterKey, Red Flags, SeniorSays, and SeniorSync,
+worked closely with the Community Innovation Taskforces (CITs) to come
+up with the problem statements. The CITs also facilitated solution testing
+with these teams.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Quotes</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Geylang West CIT (Supported Red Flags) - Mr Wan Kwong Weng, BBM, Geylang West CIT Chairman (54)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“Geylang West CIT is delighted to have supported the Red Flag team through
+feedback, discussions, and user testing sessions. The team's dedication
+and hard work were remarkable. We see this as an opportunity to utilise
+our 'Sparks' Community Innovation Space at Geylang West, where the team
+and partners can continue testing and developing their prototype into a
+solution for our community."</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
