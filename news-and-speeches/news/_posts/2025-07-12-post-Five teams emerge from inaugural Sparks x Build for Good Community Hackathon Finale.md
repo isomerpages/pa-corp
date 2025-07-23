@@ -234,13 +234,43 @@ to being one step closer to the fruition of SeniorSync.”</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>Community Favourite Award Recipient</strong></h4>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Quotes</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hawkify - Luar Shui Yan (24)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“It’s a huge honour to be recognised for our product by the community,
+which we hope can help the hawkers in Singapore. Hawker culture is something
+that is in our lives every day as Singaporeans, yet little attention is
+given to how the hawker culture may slowly fade away, just because senior
+hawkers are not as savvy when it comes to doing publicity via social media.
+So far, we have worked with 40 hawkers, and onboarded a total of 123 hawkers
+across 3 hawker centres.</p>
 <p></p>
+<p>We believe that Hawkify can solve this problem in an effective manner,
+and also bridge the gap between youths and hawkers as we lean into their
+behaviour of wanting a visual experience to find out more about their favourite
+hawker stores.”</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>KAKAKDDDF</p>
