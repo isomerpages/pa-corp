@@ -214,10 +214,21 @@ senior volunteers to help fill up the forms for fellow seniors.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>SeniorSync - Lim Jitt Hing (23)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>“We’ve been working closely with Active Ageing Centres (AACs), Zhenghua
+CIT, and Open Government Products to iterate our product and receive real
+user feedback such that it is tailored to the pain points they experience.
+SeniorSync is a result of the conversations we had with the AACs which
+made us realise a gap in the availability of a centralised data system
+to make caring for seniors more efficient.</p>
 <p></p>
+<p>We’re glad to be able to indirectly help the seniors by providing this
+solution to AACs, and to also provide the caretakers with more opportunities
+to spend quality time with seniors they care for. We’re looking forward
+to being one step closer to the fruition of SeniorSync.”</p>
 </td>
 </tr>
 </tbody>
