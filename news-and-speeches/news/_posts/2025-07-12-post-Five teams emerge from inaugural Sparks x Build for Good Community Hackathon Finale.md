@@ -342,10 +342,20 @@ this collaboration to enhance our senior engagement efforts.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Zhenghua CIT</strong>
+</p>
+<p><strong>(Supported LetterKey and SeniorSync)</strong>
+</p>
+<p><strong>Mr Thomas Koo, Zhenghua CIT Chairman</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>“Through our discussions with LetterKey and SeniorSync teams, Zhenghua
+CIT and Fei Yue Active Ageing Centre helped identify core challenges facing
+seniors. Both teams demonstrated innovative thinking and willingly incorporated
+feedback to enhance their solutions. Their commitment to improving seniors'
+lives was evident, and we are excited to implement these solutions in our
+community with the teams."</p>
 </td>
 </tr>
 </tbody>
