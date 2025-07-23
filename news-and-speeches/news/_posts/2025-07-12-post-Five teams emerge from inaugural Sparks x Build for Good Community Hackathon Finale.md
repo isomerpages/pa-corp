@@ -113,8 +113,56 @@ the power of interdisciplinary collaboration.</p>
 learn more about the 21 projects from the Community Hackathon. For quotes
 on the winning teams and the CITs who supported some of them, please refer
 to the Annex.</p>
+<p></p>
+<p><strong>About People’s Association</strong>
+</p>
+<p></p>
+<p>The People’s Association (PA) is a statutory board established on 1 July
+1960. Our mission is to spark and nurture community participation for a
+caring and united Singapore. Our network includes 2,000 Grassroots Organisations
+(GROs), over 100 Community Clubs, five Community Development Councils,
+six PAssion WaVe outlets, imPAct, and the National Community Leadership
+Institute. For more information, please visit <a href="http://www.pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.pa.gov.sg</a>.</p>
 </li>
 </ol>
+<p></p>
+<p><strong>About Open Government Products</strong>
+</p>
+<p>Open Government Products is a tech team within the Singapore Government
+that is dedicated to</p>
+<p>building technology for public good. Our team's work ranges from developing
+better apps for</p>
+<p>citizens to automating the internal operations of public agencies, with
+the ultimate goal of</p>
+<p>accelerating the digital transformation of the Singapore Government. Our
+vision is to transform</p>
+<p>Singapore into a model for how governments can use technology to improve
+the public good.</p>
+<p>Learn more at <a href="https://www.open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.open.gov.sg</a>.</p>
+<p>About “Sparks” initiative by PA</p>
+<p>“Sparks” initiative brings together community stakeholders such as residents,
+community and</p>
+<p>corporate partners, and volunteers to identify community challenges and
+collaboratively develop</p>
+<p>solutions to meet community needs and aspirations. This initiative is
+inspired by PA's mission to</p>
+<p>empower communities and foster a stronger sense of ownership and belonging
+and builds on the</p>
+<p>broader vision of reimagining Community Clubs/Centres (CC) as spaces where
+innovation thrives</p>
+<p>and community aspirations come to life.</p>
+<p>To drive this vision forward, ten CCs have been selected to pilot the
+Sparks at CC. Each CC will</p>
+<p>set up Community Innovation Spaces (CISs) to serve as a platform where
+multiple stakeholders</p>
+<p>can spark creativity, converge, collaborate and formulate innovative solutions
+to address local</p>
+<p>issues. Complementing these spaces, Community Innovation Taskforces (CITs)
+were formed</p>
+<p>under the respective CCMC to provide localised insights on community needs
+and aspirations,</p>
+<p>drive ideation sessions, and curate engaging community activities within
+the spaces.</p>
 <p></p>
 <p></p>
 <p></p>
