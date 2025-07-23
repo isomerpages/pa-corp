@@ -31,10 +31,8 @@ the spirit of National Day to as many Singaporeans as possible, into their
 homes and neighbourhoods. Together with PA, the NDP 2025 Executive Committee
 will be bringing the Padang to our Heartlands so that more Singaporeans
 can enjoy the National Day festivities.”</p>
-</li>
-</ol>
 <p></p>
-<ol start="3" data-tight="true" class="tight">
+</li>
 <li>
 <p>Mr Pow Choon Ghee, Co-Chairman of the NDP 2025 Heartland Celebrations
 Committee and PA Group Director (Grassroots) said: “This year, Singapore
