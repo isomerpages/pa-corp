@@ -53,5 +53,44 @@ transform the community aspirations into tangible solutions, and foster
 greater ownership of ground-up initiatives that can benefit our communities.</p>
 </li>
 </ol>
+<h4><strong>A month of intensive research, development, and user testing culminated in the selection of five teams.</strong></h4>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>The Community Hackathon, which kicked off on 11 June 2025, brought together
+over 90 youths. Forming teams of 3 to 5, they developed tech solutions
+for diverse community challenges, including eldercare and caregiver support,
+community gardening, youth development and social services support. Over
+the course of the month, the teams delved deep into understanding these
+challenges, ensuring their problem statements accurately reflected community
+needs.</p>
+<p></p>
+</li>
+<li>
+<p>The participants engaged with PA's <a href="https://www.pa.gov.sg/our-programmes/pa-sparks/" rel="noopener nofollow" target="_blank">Community Innovation Taskforces (CITs)</a>,
+comprising active Grassroots Leaders and partners, who provided firsthand
+insights into pressing local issues and invited residents to test and provide
+input to the solutions. The teams also received mentorship from OGP officers
+and tech professionals from <a href="http://Better.sg" rel="noopener noreferrer nofollow" target="_blank">Better.sg</a>, participated in product workshops
+led by OGP officers, and gained support from alumni of past BFG runs. With
+this support, the teams ideated, built prototypes, tested with users in
+the community, gathered feedback, and refined their solutions for the finale,
+where members of the public viewed the working prototypes. This approach
+of co-creating and refining solutions together exemplifies the spirit of
+community innovation that makes our community stronger.</p>
+<p></p>
+</li>
+<li>
+<p>At the finale, five teams were selected by a panel of judges, comprising
+government leaders and industry experts. They will advance to OGP’s 8-week
+Build for Good (BFG) Accelerator programme, starting 24 July 2025. Each
+selected team will receive $20,000 in funding</p>
+<p>and mentorship support to further develop and launch their solutions.
+All other teams are</p>
+<p>encouraged to collaborate with PA’s CITs who will provide funding support
+to implement their solutions and continue making an impact in the community.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <h3></h3>
 <p></p>
