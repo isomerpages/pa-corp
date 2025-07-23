@@ -176,10 +176,27 @@ dialects.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Red Flags - Jessica Olivia Pandjang (22)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>“This Community Hackathon has created a good opportunity for youths like
+us to make an impact in the community and to apply the skills we’ve picked
+up in school and from being in the workforce to develop solutions for public
+good. We hope that through Red Flags, we will be able to see every single
+person experience a lower barrier to financial literacy.</p>
 <p></p>
+<p>We're also working closely with Geylang West CIT, whose feedback from
+user testing was very helpful in shaping the direction of Red Flags. Many
+current and even future features that we’re planning to build, like personalisation
+and comparison tools, came directly from the issues they highlighted to
+us.</p>
+<p></p>
+<p>At the end of the day, every new version of Red Flags will be shaped by
+what users need. We hope that even the layman will recognise that financial
+literacy can be</p>
+<p>for everyone, and that they will be able to make informed decisions on
+their own and not be placed in risky situations.”</p>
 </td>
 </tr>
 <tr>
