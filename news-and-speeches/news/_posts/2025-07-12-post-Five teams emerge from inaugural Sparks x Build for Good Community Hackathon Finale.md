@@ -115,7 +115,7 @@ learn more about the 21 projects from the Community Hackathon. For quotes
 on the winning teams and the CITs who supported some of them, please refer
 to the Annex.</p>
 <p></p>
-<p><strong>______________________________________________________________________________________________</strong>
+<p><strong>_____________________________________________________________________________________________________________________</strong>
 </p>
 </li>
 </ol>
