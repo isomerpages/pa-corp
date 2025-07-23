@@ -76,7 +76,7 @@ well wishes through glowing message bottles. The North West will showcase
 community-created artwork of local landmarks. South East residents can
 look forward to the Rink of Light skating experience. The South West District
 will feature floating lanterns with residents' well wishes. More details
-can be found in<a href="Info_Sheet_for_Media_Consolidated_National_Day_Heartland_Celebration_2025_Final_Web" rel="noopener nofollow" target="_blank"> PA’s fact sheet</a>.</p>
+can be found in<a href="https://www.pa.gov.sg/files/NewsRoom/Info_Sheet_for_Media_Consolidated_National_Day_Heartland_Celebration_2025_Final_Web.pdf" rel="noopener nofollow" target="_blank"> PA’s fact sheet</a>.</p>
 <p></p>
 </li>
 <li>
