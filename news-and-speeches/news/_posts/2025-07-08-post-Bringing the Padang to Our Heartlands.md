@@ -88,7 +88,7 @@ based on a firstcome, first-served basis. Each member of the public can
 collect up to a maximum of two tickets. The ticket will grant the holder
 access to the respective Heartland Celebration site in their district and
 a complimentary NDP pack. More details, including the list of CCs where
-tickets can be collected, can be found on the NDP website ( <a href="http://www.ndp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ndp.gov.sg</a>)
+tickets can be collected, can be found on the NDP website( <a href="http://www.ndp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ndp.gov.sg</a>)
 from 8 July 2025.</p>
 <p></p>
 </li>
