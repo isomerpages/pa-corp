@@ -8,3 +8,33 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h3>Five teams emerge from inaugural Sparks x Build for Good Community Hackathon finale to champion solutions for community</h3>
+<p>The People's Association and Open Government Products collaborated for
+the first time for a Community Hackathon bringing together passionate participants
+to develop tech solutions for community challenges. Members of the public
+viewed the working prototypes by these participating teams at the Finale
+on 12 July at Heartbeat@Bedok Atrium.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Singapore, 12 July 2025 – The inaugural Sparks x Build for Good (BFG)
+Community Hackathon, co-organised by the People's Association (PA) and
+Open Government Products (OGP) concluded on 12 July 2025 at Heartbeat@Bedok
+Atrium. This marks the first partnership between PA and OGP for a Community
+Hackathon. Minister for Digital Development and Information and Minister-in-charge
+of Smart Nation and Cybersecurity, Mrs Josephine Teo; Senior Minister of
+State for the Ministry of Trade and Industry and Ministry of Culture, Community
+and Youth, Ms Low Yen Ling; and Minister of State for Digital Development
+and Information, Minister of State for Education and Minister-in-charge
+of GovTech, Ms Jasmin Lau, attended the event.</p>
+</li>
+</ol>
+<p><strong>A partnership that facilitates innovative tech solutions for the community</strong>
+</p>
+<p>2 After one month of research, development, mentorship and user testing,
+21 teams presented their working prototypes to address community challenges
+to a distinguished panel of government leaders and industry experts at
+the finale. From these, five teams were selected to advance to a 8-week
+Build for Good (BFG) Accelerator programme, where they will refine their
+solutions and launch them in the community. The five teams are CallBridge,
+LetterKey, Red Flags, SeniorSays and SeniorSync.</p>
+<p></p>
