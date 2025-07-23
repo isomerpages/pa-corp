@@ -18,8 +18,6 @@ exciting family-friendly activities co-created by PA and its grassroots
 organisations with volunteers and partners. There will also be exhibits,
 Mobile Column static display, live performances and a grand finale with
 fireworks and a drone show.</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
 <p>Co-Chairman of the NDP 2025 Heartland Celebrations Committee Colonel David
 Kwek said, “In addition to expanding this year’s NDP from the Padang to
 the Marina Bay area as a seamless canvas, it is our hope that we can bring
@@ -27,9 +25,7 @@ the spirit of National Day to as many Singaporeans as possible, into their
 homes and neighbourhoods. Together with PA, the NDP 2025 Executive Committee
 will be bringing the Padang to our Heartlands so that more Singaporeans
 can enjoy the National Day festivities.”</p>
-</li>
-</ol>
-<p>3.</p>
+<p></p>
 <p>Mr Pow Choon Ghee, Co-Chairman of the NDP 2025 Heartland Celebrations
 Committee and PA Group Director (Grassroots) said: “This year, Singapore
 turns 60 – and the celebrations are coming to your neighbourhood. In a
