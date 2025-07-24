@@ -119,7 +119,7 @@ to the attached Annex.</p>
 <h5><strong>Annex:</strong></h5>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/MR_Annex_Community_Hackathon.pdf" rel="noopener noreferrer nofollow" target="_blank"> Quotes from winning Teams and CITs from Community Hackathon 2025</a>
+<p><a href="/files/MR_Annex_Community_Hackathon.pdf" rel="noopener noreferrer nofollow" target="_blank">Quotes from winning Teams and CITs from Community Hackathon 2025</a>
 </p>
 </li>
 </ol>
