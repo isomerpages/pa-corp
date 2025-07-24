@@ -121,7 +121,7 @@ only.</p>
 <h4>Annex:</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Info_Sheet_for_Media_Consolidated_National_Day_Heartland_Celebration_2025_Final_Web.pdf" rel="noopener noreferrer nofollow" target="_blank">PA Factsheet: National Day Heartland Celebration 2025</a>
+<p> <a href="/files/Info_Sheet_for_Media_Consolidated_National_Day_Heartland_Celebration_2025_Final_Web.pdf" rel="noopener nofollow" target="_blank">Details for Our Heartlands: NDP 2025 Heartland Celebrations</a>
 </p>
 </li>
 </ol>
