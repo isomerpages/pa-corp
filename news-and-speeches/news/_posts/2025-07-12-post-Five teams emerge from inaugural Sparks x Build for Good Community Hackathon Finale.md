@@ -113,8 +113,15 @@ the power of interdisciplinary collaboration.</p>
 <p>For more information, please visit: <a href="https://www.community-hackathon.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.community-hackathon.gov.sg</a> to
 learn more about the 21 projects from the Community Hackathon. For quotes
 on the winning teams and the CITs who supported some of them, please refer
-to the attached Annex. <a href="/files/MR_Annex_Community_Hackathon.pdf" rel="noopener nofollow" target="_blank">file</a>
+to the attached Annex.</p>
+</li>
+</ol>
+<h5><strong>Annex:</strong></h5>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/MR_Annex_Community_Hackathon.pdf" rel="noopener noreferrer nofollow" target="_blank"> Quotes from winning Teams and CITs from Community Hackathon 2025</a>
 </p>
 </li>
 </ol>
+<p></p>
 <p></p>
