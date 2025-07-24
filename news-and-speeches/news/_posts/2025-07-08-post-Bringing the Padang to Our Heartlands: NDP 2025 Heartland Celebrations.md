@@ -1,5 +1,5 @@
 ---
-title: Bringing the Padang to Our Heartlands
+title: "Bringing the Padang to Our Heartlands: NDP 2025 Heartland Celebrations"
 permalink: /bringing-the-padang-to-our-heartlands/
 date: 2025-07-08
 layout: post
@@ -75,8 +75,7 @@ residents will come together to illuminate vibrant lanterns and share their
 well wishes through glowing message bottles. The North West will showcase
 community-created artwork of local landmarks. South East residents can
 look forward to the Rink of Light skating experience. The South West District
-will feature floating lanterns with residents' well wishes. More details
-can be found in<a href="https://www.pa.gov.sg/files/NewsRoom/Info_Sheet_for_Media_Consolidated_National_Day_Heartland_Celebration_2025_Final_Web.pdf" rel="noopener nofollow" target="_blank"> PA’s fact sheet</a>.</p>
+will feature floating lanterns with residents' well wishes.</p>
 <p></p>
 </li>
 <li>
@@ -118,4 +117,12 @@ and official website at <a href="http://www.ndp.gov.sg" rel="noopener noreferrer
 </ol>
 <p>*Red Lions will conduct their signature display jump at the Bishan site
 only.</p>
+<p></p>
+<h4>Annex:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p> <a href="/files/Info_Sheet_for_Media_Consolidated_National_Day_Heartland_Celebration_2025_Final_Web.pdf" rel="noopener nofollow" target="_blank">Details for Our Heartlands: NDP 2025 Heartland Celebrations</a>
+</p>
+</li>
+</ol>
 <p></p>
