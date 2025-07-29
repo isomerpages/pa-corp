@@ -61,11 +61,10 @@ sections:
       image: /images/Passion Mobile.png
       title: MyPassion Mobile App
   - infopic:
-      title: Find Your Nearest CC or RC/RN
-      description: Locate a Community Club or Residents' Commitee/Residents' Network
-        near you
+      title: Find Your Nearest CC
+      description: Locate a Community Club near you.
       button: Search
-      url: https://gowhere.gov.sg/ccrn
+      url: https://www.onepa.gov.sg/cc
       image: /images/Community Clubs/Hillview_CC.jpg
-      alt: https://gowhere.gov.sg/ccrn
+      alt: https://www.onepa.gov.sg/cc
 ---
