@@ -1,7 +1,7 @@
 ---
-title: Be a Training Provider
-permalink: /our-programmes/cc-courses/be-a-training-provider/
-description: Find out how to be a PA training provider
+title: PA Trainer
+permalink: /our-programmes/cc-courses/pa-trainer/
+description: Find out how to be a PA trainer
 third_nav_title: CC Courses
 variant: tiptap
 ---
