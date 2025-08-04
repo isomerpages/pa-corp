@@ -5,15 +5,15 @@ description: ""
 third_nav_title: NACLI
 variant: markdown
 ---
-<img style="width:600px" align="center" src="/images/Our%20Network/NACLI/NACLI%20-%20Training%20Programmes%20(Website)%20(200%20x%20250).jpg">
+<img style="width:600px" align="center" src="/images/Our%20Network/NACLI/Image_for_Training_Programmes.png">
 
 #### Grassroots Leaders
 
 NACLI provides leadership training for grassroots leaders through a Community Leadership Development Framework, to equip grassroots leaders with practical knowledge and competencies to carry out their roles in the community effectively.
 
 For more information about our grassroots training programmes, please click on the links below. <br>
-[Induction for PA New Grassroots Leaders (IPNGL)](/files/NACLI/03%20Training%20Programmes/Induction%20for%20PA%20New%20Grassroots%20Leaders%20(IPNGL).pdf)<br>
-[Customised Programmes for Grassroots Leaders](/files/NACLI/03%20Training%20Programmes/Customised%20Programmes%20for%20Grassroots%20Leaders.pdf)<br>
+[Induction for PA New Grassroots Leaders (IPNGL)](/files/NACLI/IPNGL__2025_.pdf)<br>
+[Customised Programmes for Grassroots Leaders](/files/NACLI/Customised_Programmes__2025_.pdf)<br>
 
 **For enquiries on courses, please contact:**<br>
 Training Administration Section<br>
@@ -31,3 +31,11 @@ Stay updated on: <br>
 <img style="width:10px" align="left" src="/images/Blank Space.png">
 
 <a href="https://www.instagram.com/naclisg/"> <img style="width:48px" align="left" src="/images/Instagram Logo.png"></a>
+
+<img style="width:10px" align="left" src="/images/Blank Space.png">
+
+<a href="https://www.linkedin.com/company/national-community-leadership-institute/"> <img style="width:48px" align="left" src="/images/Linkedin.png"></a>
+
+<img style="width:10px" align="left" src="/images/Blank Space.png">
+
+<a href="https://www.tiktok.com/@naclisg"> <img style="width:48px" align="left" src="/images/Tik%20Tok%20Button%20Logo.png"></a>
