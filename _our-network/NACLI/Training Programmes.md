@@ -34,3 +34,8 @@ Stay updated on: <br>
 
 <img style="width:10px" align="left" src="/images/Blank Space.png">
 
+<a href="https://www.linkedin.com/company/national-community-leadership-institute/"> <img style="width:48px" align="left" src="/images/Linkedin.png"></a>
+
+<img style="width:10px" align="left" src="/images/Blank Space.png">
+
+<a href="https://www.tiktok.com/@naclisg"> <img style="width:48px" align="left" src="/images/Tik%20Tok%20Button%20Logo.png"></a>
