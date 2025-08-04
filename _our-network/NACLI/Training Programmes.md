@@ -5,7 +5,7 @@ description: ""
 third_nav_title: NACLI
 variant: markdown
 ---
-<img style="width:600px" align="center" src="/images/Our%20Network/NACLI/NACLI%20-%20Training%20Programmes%20(Website)%20(200%20x%20250).jpg">
+<img style="width:600px" align="center" src="/images/Our%20Network/NACLI/Image_for_Training_Programmes.png">
 
 #### Grassroots Leaders
 
