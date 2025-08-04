@@ -9,7 +9,13 @@ variant: markdown
 
 <img style="width:600px" align="center" src="/images/Our%20Network/NACLI/Campus%20Facilities%20-LL%20(Website)%20(200%20x%20250).jpg">
 
-Surrounded by the vast greenery of Kent Ridge Park and linked to Singapore’s Southern Ridges, NACLI provides the ideal venue for your grassroots training and retreats; both indoors and outdoors. With its rustic and resort like ambience, our campus offers training facilities and learning spaces of different sizes that can accommodate up to 800 participants to suit your programme needs. 
+Surrounded by the vast greenery of Kent Ridge Park and linked to Singapore’s Southern Ridges, NACLI provides the ideal venue for your grassroots training and retreats; both indoors and outdoors. With its rustic and resort like ambience, our campus offers training facilities and learning spaces of different sizes that can accommodate up to 800 participants to suit your programme needs.
+
+**Take A Virtual Tour**
+
+Experience NACLI's facilities through a 360° Virtual Tour [here](https://www.youtube.com/playlist?list=PLbyKp87Reo7YhG-95C1-9RYQ-cXq2djJG).
+
+**Rental Enquiries**
 
 Contact us today so that we can assist to make your learning experience an enjoyable and memorable one!
 
