@@ -80,7 +80,7 @@ Here’s a list of our Corporate Members, by different categories:
 #### Students' Unions
 
 * [Nanyang Technological University Students' Union](https://www.ntususg.org/)
-* [National University of Singapore Students' Union](https://nussu.org.sg/)
+* [National University of Singapore Students' Union](https://nussu.net/) 
 * [Ngee Ann Polytechnic Students' Union](https://www.facebook.com/NPstudentsunion)
 * [Singapore Polytechnic Students' Union](https://www.facebook.com/spstudentsunion)
 
