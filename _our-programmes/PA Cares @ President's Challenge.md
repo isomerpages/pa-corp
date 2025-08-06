@@ -1,9 +1,9 @@
 ---
 title: PA Cares @ President's Challenge
-permalink: /pa-cares-president-s-challenge/
+permalink: /pa-cares-presidents-challenge/
 variant: tiptap
 description: PA is continuing our support towards President’s Challenge with PA
-  Cares @ President’s Challenge 2024.
+  Cares @ President’s Challenge 2025.
 image: /images/PAPC2024_WebBanner.jpg
 ---
 <p></p>

@@ -2,8 +2,8 @@
 title: Community Championship
 permalink: /our-programmes/community-sports/community-championship/
 variant: markdown
-description: community championships and competitions for various sports by
-  People's Assocation
+description: Community Championship by People's Assocation People's Association
+  and Community Sports Network
 third_nav_title: Community Sports
 ---
 <h2>Community Championship is Back!</h2>
