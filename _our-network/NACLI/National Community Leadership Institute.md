@@ -7,8 +7,9 @@ image: /images/Our Network/NACLI/nacli_logo (red_brown).png
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="NACLI Logo with Tagline (2025)" src="/images/Our Network/NACLI/logo_with_revised_tagline.png">
+<img style="width: 80%;" height="auto" width="100%" alt="NACLI Logo" src="/images/Our Network/NACLI/nacli_logo__part_of_PA_.png">
 </div>
+<p></p>
 <p>Leadership development is crucial to the continued excellence and growth
 of community organisations. As the community leadership development arm
 of the People’s Association (PA), National Community Leadership Institute
