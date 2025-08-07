@@ -43,6 +43,9 @@ when we move together.</p>
 <p><strong><u>Get Active Together</u></strong><u><br></u>Participate in our <strong>Trust-in-Me Walk</strong> and
 various inclusive sports stations to take home exclusive collectibles!</p>
 <h2>Together, we can make an imPAct</h2>
+<p>This year, PA is pledging $250,000 to President's Challenge, raising funds
+through various platforms to support the beneficiary organisations in their
+effort to create lasting social impact.</p>
 <p>Support a meaningful cause by donating to the President's Challenge! Your
 contribution will make a real difference in the lives of those in need.</p>
 <p>Through the SG Gives Matching Grant, every dollar you donate will be matched
@@ -64,8 +67,8 @@ $10 and above are eligible for tax deductions.</p>
 contribution, no matter the size, brings us closer to building a more inclusive
 community.</p>
 <h2>List of Benefitting Organisations for President's Challenge 2025</h2>
-<p>This year, PA aims to raise funds for 52 organisations, each delivering
-vital social programmes that directly benefit those in need. <a href="https://www.presidentschallenge.gov.sg/whowesupport/" rel="noopener nofollow" target="_blank">View the full list of beneficiaries here.</a>
+<p>PA aims to raise funds for 52 organisations, each delivering vital social
+programmes that directly benefit those in need. <a href="https://www.presidentschallenge.gov.sg/whowesupport/" rel="noopener nofollow" target="_blank">View the full list of beneficiaries here.</a>
 </p>
 <p></p>
 <h2>Connect with Us on Social Media</h2>
