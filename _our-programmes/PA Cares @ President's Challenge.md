@@ -33,7 +33,7 @@ of culture, religion, or family background, to help the less fortunate.</p>
 <p>Join us for an extraordinary at the <strong>PA Cares @ President's Challenge 2025</strong> launch
 event on <strong>5 October 2025, from 10am to 4pm, at imPAct @ Hong Lim Green. </strong>This
 community celebration aims to raise awareness and promote inclusivity through
-sports. Join us for these exciting programmes:</p>
+sports. Be part of these exciting programmes:</p>
 <p><strong><u>Active Beyond Limits Exercises (A.B.L.E)</u></strong><u><br></u>Come
 and cheer for our <strong>PA Cares Athletes</strong> as they showcase and
 celebrate their achievements! Watch as athletes and their befrienders work
@@ -42,7 +42,7 @@ in a supportive environment. Witness firsthand how amazing things happen
 when we move together.</p>
 <p><strong><u>Get Active Together</u></strong><u><br></u>Participate in our <strong>Trust-in-Me Walk</strong> and
 various inclusive sports stations to take home exclusive collectibles!</p>
-<h2>Together, we can make an Impact</h2>
+<h2>Together, we can make an imPAct</h2>
 <p>Support a meaningful cause by donating to the President's Challenge! Your
 contribution will make a real difference in the lives of those in need.</p>
 <p>Through the SG Gives Matching Grant, every dollar you donate will be matched
@@ -60,11 +60,9 @@ $10 and above are eligible for tax deductions.</p>
 <p>Provide vital resources to those who need them most</p>
 </li>
 </ul>
-<p>Make your donation count today. Every contribution, no matter the size,
-brings us closer to building a more inclusive community.</p>
-<p><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Donate today and start making an impact!</a>
-</p>
-<p></p>
+<p><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today.</a> Every
+contribution, no matter the size, brings us closer to building a more inclusive
+community.</p>
 <h2>List of Benefitting Organisations for President's Challenge 2025</h2>
 <p>This year, PA aims to raise funds for 52 organisations, each delivering
 vital social programmes that directly benefit those in need. <a href="https://www.presidentschallenge.gov.sg/whowesupport/" rel="noopener nofollow" target="_blank">View the full list of beneficiaries here.</a>
