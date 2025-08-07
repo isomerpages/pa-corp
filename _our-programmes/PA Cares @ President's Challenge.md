@@ -49,7 +49,7 @@ Every dollar helps empower and support communities in need. Join us in
 creating positive change and building a more inclusive society.</p>
 <p>Any amount makes a difference. Donation of $10 and above are tax-deductible,
 and through the SG Gives Matching Grant, the grant will provide a matching
-grant of $1.50 for every $1 donated. <a href="www.go.gov.sg/dn2papc" rel="noopener nofollow" target="_blank">Donate today and start making an impact!</a>
+grant of $1.50 for every $1 donated. <a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Donate today and start making an impact!</a>
 </p>
 <p></p>
 <h2>List of Benefitting Organisations for President's Challenge 2025</h2>
