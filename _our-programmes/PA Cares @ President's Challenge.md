@@ -10,9 +10,7 @@ image: /images/PAPC2024_WebBanner.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Image_for_PA_Cares___PC_Webpage.png">
 </div>
-<p></p>
-<p></p>
-<h2>About PA Cares @ President's Challenge 2025</h2>
+<h2>About PA Cares @ President's Challenge</h2>
 <p>The People's Association (PA), through <strong>PA Cares @ President's Challenge</strong>,
 is committed to supporting communities in need by encouraging donations,
 volunteerism and active community involvement. Through the President's
@@ -37,15 +35,14 @@ event on <strong>5 October 2025, 10am – 4pm, at imPAct @ Hong Lim Green </stro
 raise awareness and promote inclusivity through sports. Mark your calendar
 for an unforgettable community celebration lined up with exciting programmes
 that await you:</p>
-<p><strong>Active Beyond Limits Exercises (A.B.L.E)</strong>
-<br>Come and cheer on <strong>PA Cares Athletes</strong> and celebrate their
-achievement! Athletes and befrienders come in pair to complete inclusive
-exercises such as kettlebell lift, rowing in a supportive environment,
-to prove that amazing things happen when we move together.</p>
-<p><strong>Get Active Together</strong>
-<br>Complete <strong>Trust-in-Me Walk</strong> and various inclusive sports
-stations and take home exclusive collectibles!</p>
-<h2>Together, we can Make an Impact</h2>
+<p><strong><u>Active Beyond Limits Exercises (A.B.L.E)</u></strong><u><br></u>Come
+and cheer on <strong>PA Cares Athletes</strong> and celebrate their achievement!
+Athletes and befrienders come in pair to complete inclusive exercises such
+as kettlebell lift, rowing in a supportive environment, to prove that amazing
+things happen when we move together.</p>
+<p><strong><u>Get Active Together</u></strong><u><br></u>Complete <strong>Trust-in-Me Walk</strong> and
+various inclusive sports stations and take home exclusive collectibles!</p>
+<h2>Together, we can make an Impact</h2>
 <p>Support a meaningful cause by donating to the President's Challenge! Your
 contribution will make a real difference in the lives of those in need.
 Every dollar helps empower and support communities in need. Join us in
@@ -61,5 +58,8 @@ vital social programmes that directly benefit those in need. <a href="https://ww
 </p>
 <p></p>
 <h2>Connect with Us on Social Media</h2>
-<p>Follow us on social media channels to receive updates from Community Sports
-Networks and be the first to know about our latest community sports events.</p>
+<p>Follow us on <a href="www.facebook.com/PACommunitySportsNetwork" rel="noopener nofollow" target="_blank">Facebook</a>,
+<a href="www.instagram.com/pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">Instagram</a>and <a href="www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
+receive updates from Community Sports Networks and be the first to know
+about our latest community sports events.</p>
+<p>.</p>
