@@ -13,7 +13,7 @@ image: /images/PAPC2024_WebBanner.jpg
 <h2>About PA Cares @ President's Challenge</h2>
 <p>The People's Association (PA), through <strong>PA Cares @ President's Challenge</strong>,
 is committed to supporting communities in need by encouraging donations,
-volunteerism and active community involvement. Through the President's
+volunteerism, and active community involvement. Through the President's
 Challenge, PA mobilises the community to promote greater inclusion in sports,
 helping to build a more caring and inclusive society.</p>
 <p>Powered by our Grassroots Movement and strengthened by Corporate Partnerships,
@@ -30,26 +30,39 @@ of culture, religion, or family background, to help the less fortunate.</p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
 <h2>Be part of the PA Cares</h2>
-<p>Be part of something extraordinary at this year’s <strong>PA Cares @ President's Challenge 2025</strong> launch
-event on <strong>5 October 2025, 10am – 4pm, at imPAct @ Hong Lim Green </strong>to
-raise awareness and promote inclusivity through sports. Mark your calendar
-for an unforgettable community celebration lined up with exciting programmes
-that await you:</p>
+<p>Join us for an extraordinary at the <strong>PA Cares @ President's Challenge 2025</strong> launch
+event on <strong>5 October 2025, from 10am to 4pm, at imPAct @ Hong Lim Green. </strong>This
+community celebration aims to raise awareness and promote inclusivity through
+sports. Join us for these exciting programmes:</p>
 <p><strong><u>Active Beyond Limits Exercises (A.B.L.E)</u></strong><u><br></u>Come
-and cheer on <strong>PA Cares Athletes</strong> and celebrate their achievement!
-Athletes and befrienders come in pair to complete inclusive exercises such
-as kettlebell lift, rowing in a supportive environment, to prove that amazing
-things happen when we move together.</p>
-<p><strong><u>Get Active Together</u></strong><u><br></u>Complete <strong>Trust-in-Me Walk</strong> and
-various inclusive sports stations and take home exclusive collectibles!</p>
+and cheer for our <strong>PA Cares Athletes</strong> as they showcase and
+celebrate their achievements! Watch as athletes and their befrienders work
+in pairs to complete inclusive exercises such as kettlebell lifts and rowing
+in a supportive environment. Witness firsthand how amazing things happen
+when we move together.</p>
+<p><strong><u>Get Active Together</u></strong><u><br></u>Participate in our <strong>Trust-in-Me Walk</strong> and
+various inclusive sports stations to take home exclusive collectibles!</p>
 <h2>Together, we can make an Impact</h2>
 <p>Support a meaningful cause by donating to the President's Challenge! Your
-contribution will make a real difference in the lives of those in need.
-Every dollar helps empower and support communities in need. Join us in
-creating positive change and building a more inclusive society.</p>
-<p>Any amount makes a difference. Donation of $10 and above are tax-deductible,
-and through the SG Gives Matching Grant, the grant will provide a matching
-grant of $1.50 for every $1 donated. <a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Donate today and start making an impact!</a>
+contribution will make a real difference in the lives of those in need.</p>
+<p>Through the SG Gives Matching Grant, every dollar you donate will be matched
+with $1.50, multiplying the impact of your generosity. All donations of
+$10 and above are eligible for tax deductions.</p>
+<p>&nbsp;Your support helps us:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Empower vulnerable communities and create positive change</p>
+</li>
+<li>
+<p>Build a more inclusive and caring society for all</p>
+</li>
+<li>
+<p>Provide vital resources to those who need them most</p>
+</li>
+</ul>
+<p>Make your donation count today. Every contribution, no matter the size,
+brings us closer to building a more inclusive community.</p>
+<p><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Donate today and start making an impact!</a>
 </p>
 <p></p>
 <h2>List of Benefitting Organisations for President's Challenge 2025</h2>
@@ -58,8 +71,8 @@ vital social programmes that directly benefit those in need. <a href="https://ww
 </p>
 <p></p>
 <h2>Connect with Us on Social Media</h2>
-<p>Follow us on <a href="www.facebook.com/PACommunitySportsNetwork" rel="noopener nofollow" target="_blank">Facebook</a>,
-<a href="www.instagram.com/pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">Instagram</a>and <a href="www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
+<p>Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener nofollow" target="_blank">Facebook</a>,
+<a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
 receive updates from Community Sports Networks and be the first to know
 about our latest community sports events.</p>
 <p>.</p>
