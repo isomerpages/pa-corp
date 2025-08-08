@@ -2,6 +2,7 @@
 title: PA Student Internship
 permalink: /careers/pa-student-internship/
 description: ""
+variant: markdown
 ---
 #### PA Structured Student Internship Programme
 
@@ -12,7 +13,7 @@ As part of our commitment to nurture and support interns, supervisors will work 
 #### Apply for Internship with PA
 
 1. You may contact your school’s Career Services Office; or
-2. You may apply by submitting the <a href="https://form.gov.sg/#!/5c7e4317e3264100179f5f12" target="\_blank">Internship Application Form</a>. Successful candidates will be notified by email.
+2. You may apply by submitting the [Internship Application Form](https://form.gov.sg/6895b2f53220af0555880db5). Successful candidates will be notified by email.
 
 #### Internship Opportunities
 
