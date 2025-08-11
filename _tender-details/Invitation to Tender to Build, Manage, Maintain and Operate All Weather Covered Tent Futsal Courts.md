@@ -5,3 +5,26 @@ permalink: /invitation-to-tender-to-build-manage-maintain-and-operate-all-weathe
 variant: tiptap
 description: ""
 ---
+<h3>Invitation to Tender to Licence State Land at Lot &amp; MK/TS Nos. MK22-06280W Hougang Street 21 to Build, Manage, Maintain and Operate Eight (8) All Weather Covered Tent Futsal Courts</h3>
+<hr>
+<h4>Details</h4>
+<p>A mandatory Site Briefing and Show Round will be held on:</p>
+<p>Date: 15 August 2025 (Friday)</p>
+<p>Time: 10.00am to 11.00am</p>
+<p>Venue: 60 Hougang Street 21, Singapore 538738 (next to Paya Lebar Kovan
+Community Club)</p>
+<p>Only tenderers who have attended the Mandatory Site Briefing and Show
+Round will be considered in the tender evaluation.</p>
+<p>Calling Committee: Paya Lebar Citizens’ Consultative Committee</p>
+<p>Publication Date: 12 August 2025 (Tuesday)</p>
+<p>Closing Date &amp; Time: 28 August 2025 (Thursday), 06:00 PM</p>
+<p>Tender Document</p>
+<p>(1) For request of soft copy tender documents, please email to <a href="mailto:regionproperty2011@gmail.com" rel="noopener noreferrer nofollow" target="_blank">regionproperty2011@gmail.com</a>.</p>
+<p>(2) For request of hard copy tender documents, please collect at Paya
+Lebar Kovan Community Club reception counter located at 207 Hougang Street
+21 during operating hours from 10.00am to 6.00pm daily, except Public Holidays.</p>
+<p>For Enquiry</p>
+<p>For enquiries, please contact Leon Yong at Tel: 9090 7444 or email to
+<a href="mailto:regionproperty2011@gmail.com" rel="noopener noreferrer nofollow" target="_blank">regionproperty2011@gmail.com</a>
+</p>
+<p></p>
