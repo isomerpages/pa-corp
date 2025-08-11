@@ -64,8 +64,8 @@ $10 and above are eligible for tax deductions.</p>
 </li>
 </ul>
 <p><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today.</a> Every
-contribution, no matter the size, brings us closer to building a more inclusive
-community.</p>
+contribution, no matter the amount, brings us closer to building a more
+inclusive community.</p>
 <h2>List of Benefitting Organisations for President's Challenge 2025</h2>
 <p>PA aims to raise funds for 52 organisations, each delivering vital social
 programmes that directly benefit those in need. <a href="https://www.presidentschallenge.gov.sg/whowesupport/" rel="noopener nofollow" target="_blank">View the full list of beneficiaries here.</a>
