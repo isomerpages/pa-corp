@@ -17,7 +17,8 @@ Community Club)</p>
 Round will be considered in the tender evaluation.</p>
 <p>Calling Committee: Paya Lebar Citizens’ Consultative Committee</p>
 <p>Publication Date: 12 August 2025 (Tuesday)</p>
-<p>Closing Date &amp; Time: 28 August 2025 (Thursday), 06:00 PM</p>
+<p>Closing Date &amp; Time: <strong>28 August 2025 (Thursday), 06:00 PM</strong>
+</p>
 <h4>Tender Document</h4>
 <p>(1) For request of soft copy tender documents, please email to <a href="mailto:regionproperty2011@gmail.com" rel="noopener noreferrer nofollow" target="_blank">regionproperty2011@gmail.com</a>.</p>
 <p>(2) For request of hard copy tender documents, please collect at Paya
