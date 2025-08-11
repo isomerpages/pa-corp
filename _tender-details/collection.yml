@@ -1,4 +1,6 @@
 collections:
   tender-details:
     output: true
-    order: []
+    order:
+      - Invitation to Tender to Build, Manage, Maintain and Operate All Weather
+        Covered Tent Futsal Courts.md
