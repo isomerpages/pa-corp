@@ -13,7 +13,7 @@ description: ""
 <p>Time: 10.00am to 11.00am</p>
 <p>Venue: 60 Hougang Street 21, Singapore 538738 (next to Paya Lebar Kovan
 Community Club)</p>
-<p>Only tenderers who have attended the Mandatory Site Briefing and Show
+<p>Only tenderers who have attended the mandatory Site Briefing and Show
 Round will be considered in the tender evaluation.</p>
 <p>Calling Committee: Paya Lebar Citizens’ Consultative Committee</p>
 <p>Publication Date: 12 August 2025 (Tuesday)</p>
