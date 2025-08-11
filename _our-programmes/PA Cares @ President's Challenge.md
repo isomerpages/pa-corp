@@ -72,7 +72,7 @@ programmes that directly benefit those in need. <a href="https://www.presidentsc
 <p></p>
 <h2>Connect with Us on Social Media</h2>
 <p>Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener nofollow" target="_blank">Facebook</a>,
-<a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
+<a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>, and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
 receive updates from Community Sports Networks and be the first to know
 about our latest community sports events.</p>
 <p>.</p>
