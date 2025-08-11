@@ -26,7 +26,6 @@ PA continues its dedication to creating meaningful impact. &nbsp;</p>
 in 2000 as a call to the nation to build a more caring and cohesive society
 and to bring the community from all walks of life together, regardless
 of culture, religion, or family background, to help the less fortunate.</p>
-<p></p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
 <h2>Be part of the PA Cares</h2>
