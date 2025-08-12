@@ -26,7 +26,6 @@ PA continues its dedication to creating meaningful impact. &nbsp;</p>
 in 2000 as a call to the nation to build a more caring and cohesive society
 and to bring the community from all walks of life together, regardless
 of culture, religion, or family background, to help the less fortunate.</p>
-<p></p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
 <h2>Be part of the PA Cares</h2>
@@ -64,8 +63,8 @@ $10 and above are eligible for tax deductions.</p>
 </li>
 </ul>
 <p><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today.</a> Every
-contribution, no matter the size, brings us closer to building a more inclusive
-community.</p>
+contribution, no matter the amount, brings us closer to building a more
+inclusive community.</p>
 <h2>List of Benefitting Organisations for President's Challenge 2025</h2>
 <p>PA aims to raise funds for 52 organisations, each delivering vital social
 programmes that directly benefit those in need. <a href="https://www.presidentschallenge.gov.sg/whowesupport/" rel="noopener nofollow" target="_blank">View the full list of beneficiaries here.</a>
@@ -73,7 +72,7 @@ programmes that directly benefit those in need. <a href="https://www.presidentsc
 <p></p>
 <h2>Connect with Us on Social Media</h2>
 <p>Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener nofollow" target="_blank">Facebook</a>,
-<a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
+<a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>, and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
 receive updates from Community Sports Networks and be the first to know
 about our latest community sports events.</p>
 <p>.</p>
