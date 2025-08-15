@@ -6,7 +6,7 @@ description: Community Championship by People's Assocation People's Association
   and Community Sports Network
 third_nav_title: Community Sports
 ---
-<h2>Look Forward to Community Championship 2026</h2>
+<h2>Community Championship will be Back!</h2>
 <p>From spectacular plays to victory celebrations, watch <b>Community Championship 2025</b> highlights:</p>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/c8yhoYOsvyI?si=e8ztptOXLN3UJoZa?rel=0" height="480" width="854"></iframe>
 
