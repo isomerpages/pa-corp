@@ -64,14 +64,12 @@ Association Community Spirit Award (PACS) is given to exemplary partners
 who have assisted in building social capital and contributed to the community.</p>
 <p>Hear from some of our partners who received this year’s PACS award, dedicating
 their time, resources and hearts to our community:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/S2dlFBWx3AU</a>
-</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/S2dlFBWx3AU?si=-1_Z-qeSwgvzCzam"></iframe>
 </div>
 <p>Read more about the inspiring community stories and view the full list
 of PACS 2025 award recipients here:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/from-fitness-buddies-to-student-mentors-community-champions-building-a-caring-spore-pa</a>
+<p><a href="https://www.straitstimes.com/singapore/from-fitness-buddies-to-student-mentors-community-champions-building-a-caring-spore-pa" rel="noopener nofollow" target="_blank">From student mentors to fitness buddies: How these community champions are building a caring Singapore</a>
 </p>
 <h4>Be a Friend of PA, Be Our WeCare PALs</h4>
 <p>WeCare PALs are our friends of PA, an overarching term used for all our
