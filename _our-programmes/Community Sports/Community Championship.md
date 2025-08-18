@@ -6,9 +6,10 @@ description: Community Championship by People's Assocation People's Association
   and Community Sports Network
 third_nav_title: Community Sports
 ---
-<h2>Community Championship is Back!</h2>
-<p>From spectacular plays to victory celebrations, watch <b>Community Championship 2024</b> highlights:</p>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zalZAY8sQlY?si=9OZa0-qCK0t8jR_X?rel=0" height="480" width="854"></iframe>
+<h2>Community Championship will be Back!</h2>
+<p>From spectacular plays to victory celebrations, watch <b>Community Championship 2025</b> highlights:</p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/c8yhoYOsvyI?si=e8ztptOXLN3UJoZa?rel=0" height="480" width="854"></iframe>
+
 
 <h3>About Community Championship</h3>
 <p>The Community Championship is a national movement to bring people together through community sports. Community Championship also aims to provide opportunities for residents of all backgrounds to bond together through friendly sports competition. The People's Association Community Sports Network (CSN) is proud to bring back the Community Championship this year.
