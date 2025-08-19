@@ -10,7 +10,6 @@ third_nav_title: Community Sports
 <p>From spectacular plays to victory celebrations, watch <b>Community Championship 2025</b> highlights:</p>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/c8yhoYOsvyI?si=e8ztptOXLN3UJoZa?rel=0" height="480" width="854"></iframe>
 
-
 <h3>About Community Championship</h3>
 <p>The Community Championship is a national movement to bring people together through community sports. Community Championship also aims to provide opportunities for residents of all backgrounds to bond together through friendly sports competition. The People's Association Community Sports Network (CSN) is proud to bring back the Community Championship this year.
 </p><p>
@@ -18,13 +17,16 @@ Whether it's a win or a loss, playing together knits us closer as a community. Y
 
 <h3>Crowning Champion and Continuing Glory</h3>
 <p>
-The <b>Community Championship 2025</b> has come to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation. From spirited cheering sections to dedicated Grassroots Leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success.
+The <b>Community Championship 2025</b> came to a thrilling close, showcasing the very best of local talent, teamwork, and sportsmanship across our nation. From spirited cheering sections to dedicated Grassroots leaders and volunteers, every participant and supporter contributed to making this year's Community Championship an unforgettable success.
 </p>
+<p></p><div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_AUG_2025___RESULTS__CAROUSEL_1__1.jpg"></div>
 
-<p></p><h3>Our Neighbourhood Champions Heading to Pesta Sukan Community Championship</h3>
-<p>
-The dust has settled, and the champions have emerged! These winning teams, representing their respective GRC clusters, have secured their top spots in the highly anticipated Pesta Sukan Community Championship. More than 200 teams will compete against the best of the best, battle for ultimate glory. 
-</p>
+<p></p><div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_AUG_2025___RESULTS__CAROUSEL_1__2.jpg"></div>
+
+The journey to become the overall champion was not easy, with more than 200 teams competing against each other for the ultimate glory at <b>Pesta Sukan Community Championship.</b>
+<p></p>
 <p></p><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_01_Badminton.png"></div>
 
@@ -47,10 +49,9 @@ The dust has settled, and the champions have emerged! These winning teams, repre
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_07_Table_Tennis.png"></div>
 
-<a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Get the latest information about the Pesta Sukan Community Championship,</a> including match schedules and venues. Join us to cheer on your family members, friends and neighbours and  continue to foster the spirit of sports and community together!
+Start preparing for next year's <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship">Pesta Sukan Community Championship</a> and <b>let's continue to foster the spirit of sports and community together!</b>
 
-<p>Connect with National Sports Associations (NSAs) for pro tips and resources:
-<br>
+Connect with <b>National Sports Associations (NSAs)</b> for pro tips and resources:<br>
 <a href="https://bas.org.sg/">Basketball Association Singapore</a>
 <br>
 <a href="https://www.fas.org.sg/">Football Association of Singapore</a>
@@ -64,7 +65,7 @@ The dust has settled, and the champions have emerged! These winning teams, repre
 <a href="https://www.singaporepickleball.com.sg/">Singapore Pickleball Association</a>
 <br>
 <a href="https://www.stta.org.sg/">Singapore Table Tennis Association</a>
-</p>
+<p></p>
 
 <p></p><h3>Sports Safety</h3>
 <p>
