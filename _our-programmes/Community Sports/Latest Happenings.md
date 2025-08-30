@@ -11,10 +11,13 @@ third_nav_title: Community Sports
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CommChamp2025_Main_KV_Rev.png">
 </div>
 <p>Calling all sports lovers! Whether you’re hitting the court or cheering
-from the sidelines, there’s a place for everyone at the Community Championship
-2025! Back for its second run, this national movement brings people from
+from the sidelines, there’s a place for everyone at the Community Championship.
+Back for its second run in 2025, this national movement brings people from
 all walks of live to form teams, enjoy friendly competition, and build
-new connections and communities through sports. <a href="https://www.pa.gov.sg/our-programmes/community-sports/community-championship/" rel="noopener nofollow" target="_blank">Find out more here!</a>!</p>
+new connections and communities through sports.</p>
+<p>Join our community online! Follow our webpage and social media channels
+to stay in the loop about Community Championship's exciting return next
+year.</p>
 <h2>Community Sports Appreciation 2024</h2>
 <div class="iframe-wrapper">
 <iframe height="610" width="500" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xr4OGRjl6tM?rel=0"></iframe>
