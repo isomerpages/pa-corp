@@ -63,11 +63,12 @@ overcoming challenges</p>
 in our society</p>
 </li>
 <li>
-<p><strong>Foster Unity and Respect </strong>in our community
-<br>
-<br>Together, let's create an inclusive Singapore where everyone can thrive.</p>
+<p><strong>Foster Unity and Respect </strong>in our community</p>
 </li>
 </ul>
+<p>Together, let's create an inclusive Singapore where everyone can thrive.
+<br><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today!</a>
+</p>
 <h2>List of Benefitting Organisations for President's Challenge 2025</h2>
 <p>PA aims to raise funds for 52 organisations, each delivering vital social
 programmes that directly benefit those in need. <a href="https://www.presidentschallenge.gov.sg/whowesupport/" rel="noopener nofollow" target="_blank">View the full list of beneficiaries here.</a>
