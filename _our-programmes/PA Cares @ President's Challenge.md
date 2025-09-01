@@ -29,7 +29,7 @@ of culture, religion, or family background, to help the less fortunate.</p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
 <h2>Be part of the PA Cares</h2>
-<p>Join us for an extraordinary at the <strong>PA Cares @ President's Challenge 2025</strong> launch
+<p>Join us at the <strong>PA Cares @ President's Challenge 2025</strong> launch
 event on <strong>5 October 2025, from 10am to 4pm, at imPAct @ Hong Lim Green. </strong>This
 community celebration aims to raise awareness and promote inclusivity through
 sports. Be part of these exciting programmes:</p>
@@ -44,27 +44,31 @@ various inclusive sports stations to take home exclusive collectibles!</p>
 <h2>Together, we can make an imPAct</h2>
 <p>This year, PA is pledging $250,000 to President's Challenge, raising funds
 through various platforms to support the beneficiary organisations in their
-effort to create lasting social impact.</p>
-<p>Support a meaningful cause by donating to the President's Challenge! Your
-contribution will make a real difference in the lives of those in need.</p>
-<p>Through the SG Gives Matching Grant, every dollar you donate will be matched
-with $1.50, multiplying the impact of your generosity. All donations of
-$10 and above are eligible for tax deductions.</p>
-<p>&nbsp;Your support helps us:</p>
+effort to create lasting social impact.
+<br>
+<br>Support a meaningful cause by <a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">donating to the President's Challenge!</a> Every
+contribution, no matter the amount, your contribution will make a real
+difference in the lives of those in need. Through the SG Gives Matching
+Grant, every dollar you donate will be matched with $1.50, multiplying
+the impact of your generosity. All donations of $10 and above are eligible
+for tax deductions.</p>
+<p>Your support helps us:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Empower vulnerable communities and create positive change</p>
+<p><strong>Uplift Lives </strong>by giving hope and opportunities to those
+overcoming challenges</p>
 </li>
 <li>
-<p>Build a more inclusive and caring society for all</p>
+<p><strong>Empower Changemakers</strong> who inspire and drive positive change
+in our society</p>
 </li>
 <li>
-<p>Provide vital resources to those who need them most</p>
+<p><strong>Foster Unity and Respect </strong>in our community</p>
 </li>
 </ul>
-<p><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today.</a> Every
-contribution, no matter the amount, brings us closer to building a more
-inclusive community.</p>
+<p>Together, let's create an inclusive Singapore where everyone can thrive.
+<br><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today!</a>
+</p>
 <h2>List of Benefitting Organisations for President's Challenge 2025</h2>
 <p>PA aims to raise funds for 52 organisations, each delivering vital social
 programmes that directly benefit those in need. <a href="https://www.presidentschallenge.gov.sg/whowesupport/" rel="noopener nofollow" target="_blank">View the full list of beneficiaries here.</a>
