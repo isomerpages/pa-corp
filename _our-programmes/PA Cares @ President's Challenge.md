@@ -22,10 +22,13 @@ PA continues its dedication to creating meaningful impact. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAPC_2024_Photos.jpg">
 </div>
-<p>The President’s Challenge was initiated by former President S R Nathan
-in 2000 as a call to the nation to build a more caring and cohesive society
-and to bring the community from all walks of life together, regardless
-of culture, religion, or family background, to help the less fortunate.</p>
+<p>The President’s Challenge was launched in 2000 by then-President Mr S
+R Nathan, to rally Singaporeans in building a more caring and cohesive
+society, and to support communities in need.
+<br>
+<br>In 2025, the President’s Challenge was refreshed on achieving more&nbsp;sustained
+social impact – by supporting every aspiration, recognising every contribution,
+and inspiring others to lift those around them.</p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
 <h2>Be part of the PA Cares</h2>
