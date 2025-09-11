@@ -31,7 +31,7 @@ social impact – by supporting every aspiration, recognising every contribution
 and inspiring others to lift those around them.</p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
-<h2>Be part of the PA Cares</h2>
+<h2>Be part of PA Cares @ President’s Challenge</h2>
 <p>Join us at the <strong>PA Cares @ President's Challenge 2025</strong> launch
 event on <strong>5 October 2025, from 10am to 4pm, at imPAct @ Hong Lim Green. </strong>This
 community celebration aims to raise awareness and promote inclusivity through
