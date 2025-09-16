@@ -33,7 +33,7 @@ and inspiring others to lift those around them.</p>
 </p>
 <h2>Be part of PA Cares @ President’s Challenge</h2>
 <p>Join us at the <strong>PA Cares @ President's Challenge 2025</strong> launch
-event on <strong>5 October 2025, from 10am to 4pm, at imPAct @ Hong Lim Green. </strong>This
+event on <strong>5 October 2025, from 10am to 4pm, at imPAct@Hong Lim Green. </strong>This
 community celebration aims to raise awareness and promote inclusivity through
 sports. Be part of these exciting programmes:</p>
 <p><strong><u>Active Beyond Limits Exercises (A.B.L.E)</u></strong><u><br></u>Come
