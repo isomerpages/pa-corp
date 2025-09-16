@@ -71,6 +71,14 @@ description: ""
 <p>7.2%</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01/10/2025 - 31/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.0%</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
@@ -137,6 +145,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>7.2%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01/10/2025 - 31/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.0%</p>
 </td>
 </tr>
 </tbody>
@@ -207,6 +223,14 @@ description: ""
 <p>4.2%</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01/10/2025 - 31/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.0%</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
@@ -273,6 +297,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>4.2%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01/10/2025 - 31/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.0%</p>
 </td>
 </tr>
 </tbody>
