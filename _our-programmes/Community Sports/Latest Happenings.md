@@ -7,9 +7,10 @@ image: /images/ET3.jpg
 third_nav_title: Community Sports
 ---
 <h2>2025 F1 Community Screening</h2>
-<p>Rev up your engines! Join us for LIVE Formula 1 action at your neighbourhood
-Community club (CC) - where every lap brings the community together. Check
-out these five CCs for more details and RSVP to reserve a seat!</p>
+<p>Rev up your engines! Join us for LIVE FORMULA 1 SINGAPORE AIRLINES SINGAPORE
+GRAND PRIX action at your neighbourhood Community Club (CC) - where every
+lap brings the community together. Check out these five CCs for more details
+and RSVP to reserve your seat!</p>
 <p><strong>Central Singapore</strong>
 <br>[4 &amp; 5 Oct] Ci Yuan CC | <em>RSVP link to be updated</em>
 </p>
