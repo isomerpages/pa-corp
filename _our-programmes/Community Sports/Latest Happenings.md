@@ -7,6 +7,10 @@ image: /images/ET3.jpg
 third_nav_title: Community Sports
 ---
 <h2>2025 F1 Community Screening</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_F1_Live_Screening_Poster___HQ_ver___landscape_.png">
+</div>
 <p>Rev up your engines! Join us for LIVE FORMULA 1 SINGAPORE AIRLINES SINGAPORE
 GRAND PRIX action at your neighbourhood Community Club (CC) - where every
 lap brings the community together. Check out these five CCs for more details
