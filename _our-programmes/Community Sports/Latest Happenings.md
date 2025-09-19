@@ -6,6 +6,35 @@ description: PA Community Sports Latest Happenings
 image: /images/ET3.jpg
 third_nav_title: Community Sports
 ---
+<h2>2025 F1 Community Screening</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_F1_Live_Screening_Poster___HQ_ver___landscape_.png">
+</div>
+<p>Rev up your engines! Join us for LIVE FORMULA 1 SINGAPORE AIRLINES SINGAPORE
+GRAND PRIX action at your neighbourhood Community Club (CC) - where every
+lap brings the community together. Check out these five CCs for more details
+and RSVP to reserve your seat!</p>
+<p><strong>Central Singapore</strong>
+<br>[4 &amp; 5 Oct] Ci Yuan CC | <em>RSVP link to be updated</em>
+</p>
+<p><strong>North East</strong>
+<br>[4 &amp; 5 Oct] Our Tampines Hub <em>(No Registration Required)</em>
+<br>
+</p>
+<p><strong>North West</strong>
+<br>[5 Oct] <a href="https://www.facebook.com/NeeSoonEastCSC/posts/pfbid02Y2RrUqnsxcPqUZhSVnqNLsmCmX8DaYZBqqXyfHuzcRGXN8j6BmFo68kiL8yjfD2Dl" rel="noopener noreferrer nofollow" target="_blank">Nee Soon East CC</a> |
+<a href="https://www.onepa.gov.sg/events/nee-soon-east-csn-f1-live-screening-5-oct-2025-ns-cares-2024-61291674" rel="noopener noreferrer nofollow" target="_blank">RSVP here</a>
+<br>
+<br><strong>South East</strong>
+<br>[4 &amp; 5 Oct] Heartbeat@Bedok <em>(No Registration Required)</em>
+<br>
+<br><strong>South West</strong>
+<br>[5 Oct] <a href="https://www.facebook.com/share/p/1ATs3NnCMz/" rel="noopener noreferrer nofollow" target="_blank"><u>Jurong Spring CC</u></a> |
+<a href="https://www.onepa.gov.sg/events/tamiya-competition-f1-screening-27114416" rel="noopener noreferrer nofollow" target="_blank"><u>RSVP here</u>
+</a>
+<br>
+</p>
 <h2>Community Championship 2025</h2>
 <p>Calling all sports lovers! Whether you’re hitting the court or cheering
 from the sidelines, there’s a place for everyone at the Community Championship.
