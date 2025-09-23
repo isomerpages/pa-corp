@@ -16,7 +16,7 @@ GRAND PRIX action at your neighbourhood Community Club (CC) - where every
 lap brings the community together. Check out these five CCs for more details
 and RSVP to reserve your seat!</p>
 <p><strong>Central Singapore</strong>
-<br>[4 &amp; 5 Oct] Ci Yuan CC | <em>RSVP link to be updated</em>
+<br>[4 &amp; 5 Oct] Ci Yuan CC | <a href="https://www.onepa.gov.sg/events/ang-mo-kio-hougang-mid-autumn-2025-15973390" rel="noopener nofollow" target="_blank">RSVP here</a>
 </p>
 <p><strong>North East</strong>
 <br>[4 &amp; 5 Oct] Our Tampines Hub <em>(No Registration Required)</em>
