@@ -9,10 +9,12 @@ variant: tiptap
 of our Training Schedule here! Click on the image below to download a copy
 to your devices.</p>
 <h4>Training Schedule</h4>
-<p><a href="https://go.gov.sg/naclicourses-jul-dec-2025" rel="noopener nofollow" target="_blank">(Current Issue (Jul - Dec 2025)</a>
-</p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/naclicourses-jul-dec-2025"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/NACLI/Jul_Dec_2025.png"></a>
-<p><a href="https://go.gov.sg/naclicourses-apr-sep-2025-pdf" rel="noopener nofollow" target="_blank">Immediate Past Issue (Apr - Sep 2025)</a>
-</p><a class="isomer-image-wrapper" href="https://go.gov.sg/naclicourses-apr-sep-2025-pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/NACLI/Apr___Sep_2025_EDM.png"></a>
+<p><a href="https://go.gov.sg/naclicourses-oct-2025-mar-2026-pdf" rel="noopener nofollow" target="_blank">(Current Issue (Oct 2025 - Mar 2026)</a>
+<br>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/naclicourses-oct-2025-mar-2026-pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_09_23_090636.png"></a>
+<p></p>
+<p><a href="https://go.gov.sg/naclicourses-jul-dec-2025" rel="noopener nofollow" target="_blank">Immediate Past Issue (Jul - Dec 2025)</a>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/naclicourses-jul-dec-2025"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/NACLI/Jul_Dec_2025.png"></a>
+<p></p>
 <p></p>
 <p></p>
