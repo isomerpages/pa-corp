@@ -19,7 +19,7 @@ and RSVP to reserve your seat!</p>
 <br>[4 &amp; 5 Oct] Ci Yuan CC | <a href="https://www.onepa.gov.sg/events/ang-mo-kio-hougang-mid-autumn-2025-15973390" rel="noopener nofollow" target="_blank">RSVP here</a>
 </p>
 <p><strong>North East</strong>
-<br>[4 &amp; 5 Oct] Our Tampines Hub <em>(No Registration Required)</em>
+<br>[4 &amp; 5 Oct] <a href="https://www.facebook.com/share/p/1MKrLitC1q/" rel="noopener nofollow" target="_blank">Our Tampines Hub</a>  <em>(No Registration Required)</em>
 <br>
 </p>
 <p><strong>North West</strong>
