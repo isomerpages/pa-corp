@@ -26,7 +26,7 @@ and RSVP to reserve your seat!</p>
 <a href="https://www.onepa.gov.sg/events/nee-soon-east-csn-f1-live-screening-5-oct-2025-ns-cares-2024-61291674" rel="noopener noreferrer nofollow" target="_blank">RSVP here</a>
 <br>
 <br><strong>South East</strong>
-<br>[4 &amp; 5 Oct] Heartbeat@Bedok <em>(No Registration Required)</em>
+<br>[4 &amp; 5 Oct] <a href="https://www.facebook.com/heartbeatbedok/posts/pfbid02ikPVPGXC91TiTAgFYRH8ZrxUNrgkVxRodBTPsNSVw6bEbfMiNXmFuhLrK7J5hKbXl" rel="noopener nofollow" target="_blank">Heartbeat@Bedok</a>  <em>(No Registration Required)</em>
 <br>
 <br><strong>South West</strong>
 <br>[5 Oct] <a href="https://www.facebook.com/share/p/1ATs3NnCMz/" rel="noopener noreferrer nofollow" target="_blank"><u>Jurong Spring CC</u></a> |
