@@ -9,8 +9,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 28%;" height="auto" width="100%" alt="" src="/images/PA_Annual_Report_FY2024_25.png">
 </div>
-<p></p>
-<p></p>
+<p>Download Annual Report</p>
+<p>Download Audited Report</p>
 <p></p>
 <h2>Past Publications</h2>
 <h2></h2>
