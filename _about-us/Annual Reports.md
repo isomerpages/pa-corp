@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p><a href="/files/People_s_Association_Financial_Statements_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Annual Report</a>
 </p>
-<p>Downloa Aud<a href="/files/People_s_Association_Financial_Statements_2025.pdf" rel="noopener nofollow" target="_blank">Donload Audited Report</a>
+<p>Downlo<a href="/files/People_s_Association_Financial_Statements_2025.pdf" rel="noopener nofollow" target="_blank">Donload Audited Report</a>
 </p>
 <p></p>
 <h2>Past Publications</h2>
