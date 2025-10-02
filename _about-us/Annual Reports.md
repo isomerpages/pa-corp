@@ -4,12 +4,12 @@ permalink: /about-us/annual-reports/
 description: ""
 variant: tiptap
 ---
-<h5>Annual Report 24/25</h5>
+<h5>Annual Report 24/2</h5>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 28%;" height="auto" width="100%" alt="" src="/images/PA_Annual_Report_FY2024_25.png">
 </div>
-<p><a href="/files/People_s_Association_Financial_Statements_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Annual Report</a>
+<p><a href="/files/People_s_Association_Financial_Statements_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Financial Report</a>
 </p>
 <p><a href="/files/People_s_Association_Financial_Statements_2025.pdf" rel="noopener nofollow" target="_blank">Download Audited Report</a>
 </p>
