@@ -7,13 +7,16 @@ variant: tiptap
 <h5>Annual Report 24/25</h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PA_Annual_Report_FY2024_25.png">
+<img style="width: 28%;" height="auto" width="100%" alt="" src="/images/PA_Annual_Report_FY2024_25.png">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <h2>Past Publications</h2>
 <h2></h2>
 <h5>Annual Report 23/24</h5>
 <div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/About%20Us/Annual%20Reports/AR_Thumbnail.jpg">
+<img style="width: 25%;" height="auto" width="100%" src="/images/About%20Us/Annual%20Reports/AR_Thumbnail.jpg">
 </div>
 <p>
 <br>
@@ -29,6 +32,7 @@ variant: tiptap
 <br>
 <br>
 </p>
+<p></p>
 <p><a href="https://go.gov.sg/pa-annual-report-2324" rel="noopener noreferrer nofollow" target="_blank">Download Annual Report </a>
 <br><a href="/files/About%20Us/Annual%20Reports/Peoples_Association_Financial_Statements_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Audited Report</a>
 <br>
