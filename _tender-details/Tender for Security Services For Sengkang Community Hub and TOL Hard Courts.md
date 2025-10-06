@@ -4,7 +4,7 @@ permalink: /tender-for-security-services-for-sengkang-community-hub-and-tol-hard
 variant: tiptap
 description: ""
 ---
-<h3>Tender for Security Services for Sengkang Community Hub and TOL Hard Courts for a period of 3 years </h3>
+<h3>Tender for Security Services for Sengkang Community Hub and TOL Hard Courts for a period of 3 years</h3>
 <hr>
 <h4>Details</h4>
 <p>A mandatory Pre-tender briefing will be held on:</p>
