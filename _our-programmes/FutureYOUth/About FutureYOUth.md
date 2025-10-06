@@ -34,6 +34,9 @@ partners to benefit the community.</p>
 to empower you to be the change-makers of tomorrow. Your voice matters!
 Join us in the FutureYOUth and be a part of the movement to create a brighter
 future for Singapore and Singaporeans. The Future starts with YOU!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sWme7hwCBzw?si=QR0CugRLWX69x7D4"></iframe>
+</div>
 <h1>Our FutureYOUth Movement Journey</h1>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8DmQwhK_8N4?si=BKaWK4u3NZiaxFv9"></iframe>
