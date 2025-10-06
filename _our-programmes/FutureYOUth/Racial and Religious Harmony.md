@@ -8,8 +8,19 @@ third_nav_title: FutureYOUth
 ---
 <h4><strong>Youth-in-Action on Racial and Religious Harmony</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EU1_upXT3oc?si=TtY0HfNbRhfEbS1q"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NkJSUTGlqgs?si=QF5CUvQ0S7yKTi4k"></iframe>
 </div>
+<p>Diversity is our strength! In Singapore, we embrace a rich tapestry of
+cultures, weaving respect and understanding into our national fabric.</p>
+<p>Hear from our Madrasah students as they share hw their cultural, religious,
+and traditional differences, building mutual respect.</p>
+<p>Racial and religious harmony isn’t just an ideal – it’s a reality we create
+with respect, unity, understanding and social cohesion. Let’s continue
+to nurture harmony through openness. Together, we make Singapore stronger!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EU1_upXT3oc?si=n5RFIE-vXnmbqebW"></iframe>
+</div>
+<p></p>
 <p>Lion and Dragon Dance is more than a celebration of Chinese culture -
 it’s a powerful cultural art that cultivate teamwork, communication, and
 unity. In the troupe, individuals of different races and gender move as
