@@ -8,10 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 28%;" height="auto" width="100%" alt="" src="/images/PA_Annual_Report_FY2024_25.png">
 </div>
-<p><a href="/files/People_s_Association_Financial_Statements_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Financial Report</a>
+<p><a href="/files/People_s_Association_Annual_Report_FY2024_2025.pdf" rel="noopener nofollow" target="_blank">Download Annual Report</a>
 </p>
-<p><a href="/files/People_s_Association_Annual_Report_FY2024_2025.pdf" rel="noopener nofollow" target="_blank">Download Audited Report</a>
+<p><a href="/files/People_s_Association_Financial_Statements_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Audited Report</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <h2>Past Publications</h2>
