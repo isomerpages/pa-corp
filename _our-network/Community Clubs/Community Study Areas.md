@@ -12,6 +12,7 @@ Community Clubs/Centres (CCs) and Residents’ Committee (RC) Centres.</p>
 <p>Each CC and RC centre features a study corner offering an air-conditioned
 environment, space for both individual or group learning, and available
 plug outlets so you can easily charge laptops and mobile devices.</p>
+<p>Check out the full list of community study areas and their opening hours.
+For details of each study area, please contact the respective CCs, RCs
+and RNs:</p>
 <p></p>
-<p><em>Note: Our list of available study areas is currently being updated. Check back soon for the latest information!</em>
-</p>
