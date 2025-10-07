@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - PA's Network.md
-      - Community Clubs/Community Study Areas.md
       - Community Clubs/.keep
       - Community Clubs/CC Information.md
+      - Community Clubs/Community Study Areas.md
       - Community Clubs/Legal Advice Service.md
       - Community Clubs/Rentals.md
       - Partners/.keep
