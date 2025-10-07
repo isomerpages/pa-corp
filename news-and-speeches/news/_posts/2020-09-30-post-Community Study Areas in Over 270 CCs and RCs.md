@@ -16,7 +16,7 @@ Studying hard for the upcoming exams? You might just find the perfect study corn
 
 **Description**: 
 
-*Update (as of June 2025): The previous listing of study corners has been removed as the information is being updated. Please contact your nearest CC or RC/RN directly for the latest information about study areas and their opening hours.*
+*Update (as of October 2025): For the most current information about community study areas and their opening hours, please visit the [Community Study Areas page](https://www.pa.gov.sg/our-network/community-clubs/community-study-areas/).*
 
 Studying hard for the upcoming exams? You might just find the perfect study corner to get the most of your cram sessions in one of our over 270 Community Clubs/Centres (CCs) and Residents’ Committee (RC) Centres. 
 
