@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Community Clubs
 ---
-<h4>Community Study Areas in Over 270 CCs and RCs </h4>
+<h4>Community Study Areas in Over 270 CCs and RCs</h4>
 <p>Studying hard for the upcoming exams? You might just find the perfect
 study corner to get the most of your cram sessions in one of our over 270
 Community Clubs/Centres (CCs) and Residents’ Committee (RC) Centres.</p>
