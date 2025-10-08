@@ -19,8 +19,9 @@ contributing to building a more caring and inclusive society.</p>
 <p>Powered by our Grassroots Movement and strengthened by Corporate Partnerships,
 PA continues its dedication to creating meaningful impact. &nbsp;</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAPC_2024_Photos.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PC2025_p02_.jpg">
 </div>
 <p>The President’s Challenge was launched in 2000 by then-President Mr S
 R Nathan, to rally Singaporeans in building a more caring and cohesive
@@ -45,6 +46,10 @@ when we move together.</p>
 <p><strong><u>Get Active Together</u></strong><u><br></u>Participate in our <strong>Trust-in-Me Walk</strong> and
 various inclusive sports stations to take home exclusive collectibles!</p>
 <h2>Together, we can make an imPAct</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PC2025_p01.jpg">
+</div>
 <p>This year, PA is pledging $250,000 to President's Challenge, raising funds
 through various platforms to support the beneficiary organisations in their
 effort to create lasting social impact.
@@ -72,14 +77,10 @@ in our society</p>
 <p>Together, let's create an inclusive Singapore where everyone can thrive.
 <br><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today!</a>
 </p>
-<h2>List of Benefitting Organisations for President's Challenge 2025</h2>
-<p>PA aims to raise funds for 52 organisations, each delivering vital social
-programmes that directly benefit those in need. <a href="https://www.presidentschallenge.gov.sg/whowesupport/" rel="noopener nofollow" target="_blank">View the full list of beneficiaries here.</a>
-</p>
-<p></p>
 <h2>Connect with Us on Social Media</h2>
 <p>Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener nofollow" target="_blank">Facebook</a>,
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>, and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
 receive updates from Community Sports Networks and be the first to know
 about our latest community sports events.</p>
+<p></p>
 <p>.</p>
