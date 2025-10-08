@@ -31,9 +31,7 @@ and inspiring others to lift those around them.</p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
 <h2>Be part of PA Cares @ President’s Challenge</h2>
-<p>PA Cares @ President's Challenge 2025 was held on 5 October 2025, at imPAct@Hong
-Lim Green. This community celebration raised awareness and promoted inclusivity
-through sports.</p>
+<p></p>
 <h2>Together, we can make an imPAct</h2>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -66,10 +64,17 @@ in our society</p>
 <p>Together, let's create an inclusive Singapore where everyone can thrive.
 <br><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today!</a>
 </p>
-<h2>Connect with Us on Social Media</h2>
+<h4>Press Release</h4>
+<p>Lianhe Zaobao Online (5 Oct 2025) <a href="https://www.zaobao.com.sg/news/singapore/story20251005-7618860" rel="noopener nofollow" target="_blank">“People's Association donates $250,000 to President's Challenge to promote inclusive sports and care for community”</a>
+</p>
+<p>Tamil Murasu Online (5 Oct 2025) <a href="https://www.tamilmurasu.com.sg/singapore/pa-cares-pledging-support-presidents-challenge" rel="noopener nofollow" target="_blank">“The event that confirmed the People's Association’s support for the President’s Challenge”</a>
+</p>
+<p></p>
+<h4>Connect with Us on Social Media</h4>
 <p>Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener nofollow" target="_blank">Facebook</a>,
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>, and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
 receive updates from Community Sports Networks and be the first to know
-about our latest community sports events.</p>
+about our latest community sports events</p>
+<p></p>
 <p></p>
 <p>.</p>
