@@ -31,7 +31,12 @@ and inspiring others to lift those around them.</p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
 <h2>Be part of PA Cares @ President’s Challenge</h2>
-<p></p>
+<p>The PA Cares @ President's Challenge 2025 event featured an inclusive
+sports activity which consisted of <strong>Active Beyond Limits Exercises (A.B.L.E)</strong>,
+a <strong>"Trust-in-Me" Walk </strong>and various interactive sports try-outs
+at <strong>imPAct@Hong Lim Green</strong> on 5 October 2025. The community
+celebration aimed to raise awareness of inclusion in sport and encourage
+meaningful connections across the community.</p>
 <h2>Together, we can make an imPAct</h2>
 <p></p>
 <div class="isomer-image-wrapper">
