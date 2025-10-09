@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/Sparks_Banner_New_2.jpg
+      background: /images/27Sep_PA_Corp_Site_Banner_Website_V2_1900x760v3_L.png
       key_highlights:
         - title: Join as a Volunteer
           description: ""
@@ -21,9 +21,9 @@ sections:
         - title: Visit onePA for Courses
           description: ""
           url: https://www.onepa.gov.sg/
-      button: Click to find out more!
-      url: /our-programmes/pa-sparks/
       variant: center
+      button: Find Out How Big Changes Can Start From You
+      url: www.tiktok.com/@peoplesassociation/video/7558852030664625426
   - resources:
       title: News & Speeches
       button: More News

@@ -67,12 +67,12 @@ in our society</p>
 </li>
 </ul>
 <p>Together, let's create an inclusive Singapore where everyone can thrive.
-<br><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today!</a>
+<a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today!</a>
 </p>
 <h4>Press Release</h4>
 <p>Lianhe Zaobao Online (5 Oct 2025) <a href="https://www.zaobao.com.sg/news/singapore/story20251005-7618860" rel="noopener nofollow" target="_blank">“People's Association donates $250,000 to President's Challenge to promote inclusive sports and care for community”</a>
 </p>
-<p>Tamil Murasu Online (5 Oct 2025) <a href="https://www.tamilmurasu.com.sg/singapore/pa-cares-pledging-support-presidents-challenge" rel="noopener nofollow" target="_blank">“The event that confirmed the People's Association’s support for the President’s Challenge”</a>
+<p>Tamil Murasu Online (5 Oct 2025) <a href="https://www.tamilmurasu.com.sg/singapore/pa-cares-pledging-support-presidents-challenge" rel="noopener nofollow" target="_blank">“PA pledges support for President’s Challenge through PA Cares @ President’s Challenge 2025”</a>
 </p>
 <p></p>
 <h4>Connect with Us on Social Media</h4>
