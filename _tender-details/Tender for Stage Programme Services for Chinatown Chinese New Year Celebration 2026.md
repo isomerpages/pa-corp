@@ -15,9 +15,12 @@ description: ""
 <p>To confirm the attendance of your representative, please provide your
 representative’s name and name of company to <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and <a href="mailto:Lee_Xiaohui@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a> before
 6.00pm on 16 October 2025.</p>
-<p>Calling Committee: Chinatown Festival Committee</p>
-<p>Publication Date: 13 October 2025 (Monday)</p>
-<p>Closing Date &amp; Time: 31 October 2025 (Friday), 06:00 PM</p>
+<p><strong>Calling Committee: Chinatown Festival Committee</strong>
+</p>
+<p><strong>Publication Date: 13 October 2025 (Monday)</strong>
+</p>
+<p><strong>Closing Date &amp; Time: 31 October 2025 (Friday), 06:00 PM</strong>
+</p>
 <h4>Tender Document</h4>
 <p>Interested Tenderers may request for a copy of tender specifications by
 emailing to <a href="mailto:Chng_Pei_Joo@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
