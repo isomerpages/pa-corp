@@ -17,10 +17,9 @@ volunteerism, and active community involvement. Through the President's
 Challenge, PA mobilises the community to promote greater inclusion in sports,
 contributing to building a more caring and inclusive society.</p>
 <p>Powered by our Grassroots Movement and strengthened by Corporate Partnerships,
-PA continues its dedication to creating meaningful impact. &nbsp;</p>
-<p></p>
+PA continues its dedication to creating meaningful impact.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAPC_2024_Photos.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PC2025_p02_.jpg">
 </div>
 <p>The President’s Challenge was launched in 2000 by then-President Mr S
 R Nathan, to rally Singaporeans in building a more caring and cohesive
@@ -32,19 +31,17 @@ and inspiring others to lift those around them.</p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
 <h2>Be part of PA Cares @ President’s Challenge</h2>
-<p>Join us at the <strong>PA Cares @ President's Challenge 2025</strong> launch
-event on <strong>5 October 2025, from 10am to 4pm, at imPAct@Hong Lim Green. </strong>This
-community celebration aims to raise awareness and promote inclusivity through
-sports. Be part of these exciting programmes:</p>
-<p><strong><u>Active Beyond Limits Exercises (A.B.L.E)</u></strong><u><br></u>Come
-and cheer for our <strong>PA Cares Athletes</strong> as they showcase and
-celebrate their achievements! Watch as athletes and their befrienders work
-in pairs to complete inclusive exercises such as kettlebell lifts and rowing
-in a supportive environment. Witness firsthand how amazing things happen
-when we move together.</p>
-<p><strong><u>Get Active Together</u></strong><u><br></u>Participate in our <strong>Trust-in-Me Walk</strong> and
-various inclusive sports stations to take home exclusive collectibles!</p>
+<p>The PA Cares @ President's Challenge 2025 event featured an inclusive
+sports activity which consisted of <strong>Active Beyond Limits Exercises (A.B.L.E)</strong>,
+a <strong>"Trust-in-Me" Walk </strong>and various interactive sports try-outs
+at <strong>imPAct@Hong Lim Green</strong> on 5 October 2025. The community
+celebration aimed to raise awareness of inclusion in sport and encourage
+meaningful connections across the community.</p>
 <h2>Together, we can make an imPAct</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PC2025_p01.jpg">
+</div>
 <p>This year, PA is pledging $250,000 to President's Challenge, raising funds
 through various platforms to support the beneficiary organisations in their
 effort to create lasting social impact.
@@ -72,14 +69,17 @@ in our society</p>
 <p>Together, let's create an inclusive Singapore where everyone can thrive.
 <br><a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today!</a>
 </p>
-<h2>List of Benefitting Organisations for President's Challenge 2025</h2>
-<p>PA aims to raise funds for 52 organisations, each delivering vital social
-programmes that directly benefit those in need. <a href="https://www.presidentschallenge.gov.sg/whowesupport/" rel="noopener nofollow" target="_blank">View the full list of beneficiaries here.</a>
+<h4>Press Release</h4>
+<p>Lianhe Zaobao Online (5 Oct 2025) <a href="https://www.zaobao.com.sg/news/singapore/story20251005-7618860" rel="noopener nofollow" target="_blank">“People's Association donates $250,000 to President's Challenge to promote inclusive sports and care for community”</a>
+</p>
+<p>Tamil Murasu Online (5 Oct 2025) <a href="https://www.tamilmurasu.com.sg/singapore/pa-cares-pledging-support-presidents-challenge" rel="noopener nofollow" target="_blank">“The event that confirmed the People's Association’s support for the President’s Challenge”</a>
 </p>
 <p></p>
-<h2>Connect with Us on Social Media</h2>
+<h4>Connect with Us on Social Media</h4>
 <p>Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener nofollow" target="_blank">Facebook</a>,
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>, and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
 receive updates from Community Sports Networks and be the first to know
-about our latest community sports events.</p>
+about our latest community sports events</p>
+<p></p>
+<p></p>
 <p>.</p>
