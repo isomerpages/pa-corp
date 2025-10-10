@@ -23,7 +23,7 @@ sections:
           url: https://www.onepa.gov.sg/
       variant: center
       button: Find Out How Big Changes Can Start From You
-      url: www.tiktok.com/@peoplesassociation/video/7558852030664625426
+      url: https://www.tiktok.com/@peoplesassociation/video/7558852030664625426
   - resources:
       title: News & Speeches
       button: More News
