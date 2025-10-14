@@ -15,7 +15,7 @@ image: /images/PAPC2024_WebBanner.jpg
 is committed to supporting communities in need by encouraging donations,
 volunteerism, and active community involvement. Through the President's
 Challenge, PA mobilises the community to promote greater inclusion in sports,
-contributing to building a more caring and inclusive society.</p>
+contributing to building a more caring and inclusive community.</p>
 <p>Powered by our Grassroots Movement and strengthened by Corporate Partnerships,
 PA continues its dedication to creating meaningful impact.</p>
 <div class="isomer-image-wrapper">
