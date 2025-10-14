@@ -13,5 +13,6 @@ Vouchers Scheme</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament photo.jpg">
 </div>
-<p><strong>The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website&nbsp;</strong> 
+<p><strong>The full questions and responses are available on the Ministry of Culture, Community and Youth (MCCY) website&nbsp;</strong>
+<a href="https://www.mccy.gov.sg/about-us/news-and-resources/denomination-of-cdc-vouchers" rel="noopener nofollow" target="_blank">here.</a>
 </p>
