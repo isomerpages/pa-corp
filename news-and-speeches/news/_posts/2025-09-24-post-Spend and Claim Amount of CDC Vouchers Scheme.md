@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <h1><strong>Spend and Claim Amount of CDC Vouchers Scheme</strong></h1>
-<p><strong>Response to parliamentary question on claim and spend amount of the CDC Vouchers Scheme</strong>
-</p>
+<p>Response to parliamentary question on claim and spend amount of the CDC
+Vouchers Scheme</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament photo.jpg">
 </div>
