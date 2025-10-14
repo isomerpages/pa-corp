@@ -10,8 +10,8 @@ permalink: /news-and-speeches/news/permalink/
 ---
 <h2><strong>Factors for Establishing Community Clubs with Mass and Multi Facilities</strong></h2>
 <p></p>
-<p>Response to parliamentary question on factors to establishing CCs with
-mass/multi facilities.</p>
+<p><strong>Response to parliamentary question on factors to establishing CCs with mass/multi facilities.</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament photo.jpg">
