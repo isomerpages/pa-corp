@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1><strong>Eligibility of Heartland Merchants for CDC Vouchers Scheme</strong></h1>
+<h2><strong>Eligibility of Heartland Merchants for CDC Vouchers Scheme</strong></h2>
 <p><strong>Response to parliamentary question on merchant’s eligibility criteria of CDC Vouchers Scheme</strong>
 </p>
 <p></p>
