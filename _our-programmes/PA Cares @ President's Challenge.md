@@ -79,10 +79,9 @@ in our society</p>
 <p>Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener nofollow" target="_blank">Facebook</a>,
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>, and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
 receive updates from Community Sports Networks and be the first to know
-about our latest community sports events</p>
+about our latest community sports events.</p>
 <p></p>
-<p></p>
-<p>.The PA Cares @ President's Challenge campaign this year features an inclusive
+<p>The PA Cares @ President's Challenge campaign this year features an inclusive
 sports activity <strong>at</strong> imPAct@Hong Lim Green on 5 October 2025,
 including Active Beyond Limits Exercises (A.B.L.E), a "Trust-in-Me" Walk
 and interactive sports try-outs for the public to experience. Through the
