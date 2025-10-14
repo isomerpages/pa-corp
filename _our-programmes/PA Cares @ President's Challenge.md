@@ -15,7 +15,7 @@ image: /images/PAPC2024_WebBanner.jpg
 is committed to supporting communities in need by encouraging donations,
 volunteerism, and active community involvement. Through the President's
 Challenge, PA mobilises the community to promote greater inclusion in sports,
-contributing to building a more caring and inclusive society.</p>
+contributing to building a more caring and inclusive community.</p>
 <p>Powered by our Grassroots Movement and strengthened by Corporate Partnerships,
 PA continues its dedication to creating meaningful impact.</p>
 <div class="isomer-image-wrapper">
@@ -31,12 +31,12 @@ and inspiring others to lift those around them.</p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
 </p>
 <h2>Be part of PA Cares @ President’s Challenge</h2>
-<p>The PA Cares @ President's Challenge 2025 event featured an inclusive
-sports activity which consisted of <strong>Active Beyond Limits Exercises (A.B.L.E)</strong>,
-a <strong>"Trust-in-Me" Walk </strong>and various interactive sports try-outs
-at <strong>imPAct@Hong Lim Green</strong> on 5 October 2025. The community
-celebration aimed to raise awareness of inclusion in sport and encourage
-meaningful connections across the community.</p>
+<p>The PA Cares @ President's Challenge campaign this year features an inclusive
+sports activity at imPAct@Hong Lim Green on 5 October 2025, including Active
+Beyond Limits Exercises (A.B.L.E), a "Trust-in-Me" Walk and interactive
+sports try-outs for the public to experience. Through the event, PA rallies
+residents, corporate and community partners to raise awareness of inclusion
+in sport and encourage meaningful community connections.</p>
 <h2>Together, we can make an imPAct</h2>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -79,7 +79,12 @@ in our society</p>
 <p>Follow us on <a href="https://www.facebook.com/PACommunitySportsNetwork/" rel="noopener nofollow" target="_blank">Facebook</a>,
 <a href="https://www.instagram.com/pacommunitysportsnetwork/" rel="noopener nofollow" target="_blank">Instagram</a>, and <a href="https://www.tiktok.com/@pacommunitysportsnetwork" rel="noopener nofollow" target="_blank">TikTok</a> to
 receive updates from Community Sports Networks and be the first to know
-about our latest community sports events</p>
+about our latest community sports events.</p>
 <p></p>
-<p></p>
-<p>.</p>
+<p>The PA Cares @ President's Challenge campaign this year features an inclusive
+sports activity <strong>at</strong> imPAct@Hong Lim Green on 5 October 2025,
+including Active Beyond Limits Exercises (A.B.L.E), a "Trust-in-Me" Walk
+and interactive sports try-outs for the public to experience. Through the
+event, PA <strong>rallies</strong> residents, corporate and community partners
+to raise awareness of inclusion in sport and encourage meaningful community
+connections.</p>
