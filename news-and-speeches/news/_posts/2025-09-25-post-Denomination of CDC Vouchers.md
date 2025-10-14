@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <h1><strong>Denomination of CDC Vouchers</strong></h1>
-<p>Response to parliamentary question on vouchers denomination of the CDC
-Vouchers Scheme</p>
+<p><strong>Response to parliamentary question on vouchers denomination of the CDC Vouchers Scheme</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament photo.jpg">
 </div>
