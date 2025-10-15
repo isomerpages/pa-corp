@@ -14,4 +14,4 @@ With immediate effect, SkillsFuture Credit (SFC) claims for SF@PA courses are ap
 
 For more information about SkillsFuture Credit, please visit [www.skillsfuture.gov.sg](https://www.skillsfuture.gov.sg/).
 
-You can check this  for CCs that offer SkillsFuture courses.
+You can check this [Listing](/files/36_SF_PA_CCs.pdf) for CCs that offer SkillsFuture courses.
