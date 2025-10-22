@@ -12,20 +12,19 @@ The Citizens' Consultative Committees (CCCs) is a vital bridge between the peopl
 The CCCs organise various programmes to support [PA's mission](/about-us/about-pa)
 
 #### Outreach Programmes
-
-These programmes are designed to:
+Designed to build strong community bonds through:
 * Festive celebrations and neighbourhood events;
 * Initiatives that encourage interaction and mutual understanding among residents; and
 *  Support for national campaigns such as Dengue Prevention, Clean & Green Week, Racial Harmony Month and Good Neighbour Day.
 
 #### Assistance Programmes
 
-CCCs help implement/ administer assistance schemes for the needy and economically underprivileged in our community. These schemes include:
-
-* CCCs ComCare Fund for urgent, temporary relief in hardship cases;
-* Edusave Awards;
-* Pre-School Outreach programmes; and
-* Distribution of adhoc meal/ transport vouchers.
+ CCCs administer key schemes that provide relief and support to residents in need, including:
+ 
+*  CCC ComCare Fund – urgent, short-term assistance for residents in need;
+*  Edusave Awards – recognising students for good conduct and academic achievement;
+*  Pre-school Outreach Programmes – supporting early childhood learning; and
+*  Ad-hoc support such as meal or transport vouchers for low-income families.
 
 
 #### Bridging Programmes
