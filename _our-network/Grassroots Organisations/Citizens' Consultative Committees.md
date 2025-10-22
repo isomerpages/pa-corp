@@ -12,6 +12,7 @@ The Citizens' Consultative Committees (CCCs) is a vital bridge between the peopl
 The CCCs organise various programmes to support [PA's mission](/about-us/about-pa)
 
 #### Outreach Programmes
+
 Designed to build strong community bonds through:
 * Festive celebrations and neighbourhood events;
 * Initiatives that encourage interaction and mutual understanding among residents; and
@@ -28,10 +29,12 @@ Designed to build strong community bonds through:
 
 
 #### Bridging Programmes
-CCCs facilitate interaction between the people and the Government by explaining government policies and gathering feedback from residents. These bridging programmes include:
 
-* Community forums involving residents; and
-* Dialogue sessions with representatives from the Government agencies.
+CCCs serve as a vital link between residents and the Government by:
+
+* Explaining government policies in relatable ways;
+* Gathering ground feedback on local and national issues; and
+* Organising community forums and dialogue sessions with public agencies.
 
 
 To find out more about the various programmes and initiatives of the CCCs for your constituency, you can approach your nearest [CC](https://www.onepa.gov.sg/cc).
