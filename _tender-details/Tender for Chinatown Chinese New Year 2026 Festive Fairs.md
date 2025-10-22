@@ -27,7 +27,7 @@ front of Sri Mariamman Temple and 68A Temple Street
 </p>
 <p><strong>Closing Date &amp; Time: 7 November 2025 (Friday), 06:00 PM</strong>
 </p>
-<p>Tender Document</p>
+<h4>Tender Document</h4>
 <p>Interested Tenderers may request for a copy of tender specifications by
 emailing to <a rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a> and
 <a rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a>.</p>
