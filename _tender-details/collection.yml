@@ -2,6 +2,7 @@ collections:
   tender-details:
     output: true
     order:
+      - Tender for Chinatown Chinese New Year 2026 Festive Fairs.md
       - Tender for Stage Programme Services for Chinatown Chinese New Year
         Celebration 2026.md
       - Tender for Security Services For Sengkang Community Hub and TOL Hard
