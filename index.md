@@ -33,7 +33,7 @@ sections:
       description: A community innovation movement - by the community, for the community
       button: Find out more about Sparks
       url: /our-programmes/pa-sparks/
-      image: /images/Our Programmes/Sparks_Logo.jpg
+      image: /images/Sparks.png
       alt: Image alt text
   - infopic:
       title: PA Sustainability Report
