@@ -34,7 +34,17 @@ CCCs serve as a vital link between residents and the Government by:
 
 * Explaining government policies in relatable ways;
 * Gathering ground feedback on local and national issues; and
-* Organising community forums and dialogue sessions with public agencies.
+* Organising community fotly rums and dialogue sessions with public agencies.
+     
+#### Service during Crisis and Emergency Preparedness
+
+CCCs mobilise swiftly in times of crisis to ensure community safety and care.
+Examples include:
+* SARS – temperature checks and thermometer distribution
+* Dengue – house inspections and insect repellent distribution
+* Emergency Preparedness Exercises – equipping residents to handle fires, accidents or terrorist incidents;
+* COVID - residents came together to sew reusable masks, deliver groceries, and support vulnerable neighbours.
+
 
 
 To find out more about the various programmes and initiatives of the CCCs for your constituency, you can approach your nearest [CC](https://www.onepa.gov.sg/cc).
