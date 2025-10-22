@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>Tender for Chinatown Chinese New Year 2026 Festive Fairs</h3>
 <hr>
-<p>Details</p>
+<h4>Details</h4>
 <p>Tenderers are invited to tender for the following:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Festive Fair at People’s Park Square
 <br>Venue: People’s Park Square
@@ -34,3 +34,4 @@ emailing to <a rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa
 <p>For enquiries, please contact Lee Xiao Hui or Chng Pei Joo at 6222 3597
 or by emailing to <a rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a> and
 <a rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a>.</p>
+<p></p>
