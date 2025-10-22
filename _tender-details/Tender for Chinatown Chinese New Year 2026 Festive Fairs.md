@@ -4,7 +4,7 @@ permalink: /tender-for-chinatown-chinese-new-year-2026-festive-fairs/
 variant: tiptap
 description: ""
 ---
-<p>Tender for Chinatown Chinese New Year 2026 Festive Fairs</p>
+<h3>Tender for Chinatown Chinese New Year 2026 Festive Fairs</h3>
 <hr>
 <p>Details</p>
 <p>Tenderers are invited to tender for the following:</p>
