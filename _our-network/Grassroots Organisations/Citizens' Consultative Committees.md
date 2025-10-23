@@ -11,9 +11,7 @@ Established in 1965, the Citizens’ Consultative Committees (CCCs) are th
 
 Journey through the CCCs' milestone community initiatives over the past 60 years, spanning arts and culture, sports, and social services.
 
-![](/images/CCC60_Timeline_Image_1___confirmed.png)
-
-![](/images/CCC60_Timeline_Image_2___confirmed.png)
+image 
 
 
 Part of our ongoing efforts to build a "We First" society, 1,000 volunteers will be trained as skilled community facilitators through the newly launched Community Facilitators Programme. 
