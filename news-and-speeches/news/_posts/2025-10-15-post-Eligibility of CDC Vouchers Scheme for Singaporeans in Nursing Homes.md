@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2><strong>Eligibility of CDC Vouchers Scheme for Singaporeans in nursing homes</strong></h2>
+<h2><strong>Eligibility of CDC Vouchers Scheme for Singaporeans in Nursing Homes</strong></h2>
 <p><strong>Response to parliamentary question on eligibility of CDC Vouchers Scheme for Singaporeans in nursing homes</strong>
 </p>
 <div class="isomer-image-wrapper">
