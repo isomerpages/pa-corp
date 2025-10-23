@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Grassroots Organisations
 variant: markdown
 ---
-The Citizens' Consultative Committees (CCCs) is a vital bridge between the people and the Government, the CCCs plan and lead major grassroots activities within the constituency, oversee local assistance programmes, and organise major fund-raising projects and national campaigns.
+The Citizens' Consultative Committees (CCCs) is a vital bridge between the people and the Government. The CCCs plan and lead major grassroots activities within the constituency, oversee local assistance programmes, and organise major fund-raising projects and national campaigns.
 
 ####  Programmes
 
