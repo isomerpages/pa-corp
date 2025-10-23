@@ -69,8 +69,7 @@ These skills will enable grassroots leaders to identify the strengths and
 interests that already exist in their community and help residents connect
 and collaborate around what they care about.</p>
 <h4>Programmes</h4>
-<p>The CCCs organise various programmes to support<a href="https://www.pa.gov.sg/about-us/about-pa/" rel="noopener noreferrer nofollow" target="_blank"> PA's mission</a>:</p>
-<p>To spark and Nurture Community Participation for a Caring and United Singapore</p>
+<p>The CCCs organise various programmes to support<a href="https://www.pa.gov.sg/about-us/about-pa/" rel="noopener noreferrer nofollow" target="_blank"> PA's mission</a>.</p>
 <h4>Outreach Programmes</h4>
 <p>Designed to build strong community bonds through:</p>
 <ul data-tight="true" class="tight">
