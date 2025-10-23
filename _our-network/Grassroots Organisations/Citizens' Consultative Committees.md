@@ -59,9 +59,9 @@ efforts, and strengthened the community spirit.</p>
 <div class="iframe-wrapper">
 <iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1129794241?h=972889a18a"></iframe>
 </div>
-<p>As part of our ongoing efforts to build a "We First" society, 1,000 volunteers
-will be trained as skilled community facilitators through the newly launched
-Community Facilitators Programme. From 2026, PA will partner Institutes
+<p>As part of our ongoing efforts to build a "We First" society, 1,000 grassroots
+leaders will be trained as skilled community facilitators through the newly
+launched Community Facilitators Programme. From 2026, PA will partner Institutes
 of Higher Learning (IHLs) to systematically train community facilitators,
 starting with the CCCs, ensuring every constituency has leaders equipped
 with advanced training in community engagement and facilitation skills.
