@@ -5,11 +5,20 @@ description: ""
 third_nav_title: Grassroots Organisations
 variant: markdown
 ---
-The Citizens' Consultative Committees (CCCs) is a vital bridge between the people and the Government, the CCCs plan and lead major grassroots activities within the constituency, oversee local assistance programmes, and organise major fund-raising projects and national campaigns.
+The Citizens' Consultative Committees (CCCs) is a vital bridge between the people and the Government. The CCCs plan and lead major grassroots activities within the constituency, oversee local assistance programmes, and organise major fund-raising projects and national campaigns.
+
+Test image 
+
+![](/images/CCC60_Timeline_Image_1.png)
+
+
+![](/images/CCC60_Timeline_Image_2.png)
 
 ####  Programmes
 
-The CCCs organise various programmes to support [PA's mission](/about-us/about-pa)
+The CCCs organise various programmes to support[ PA's mission](https://www.pa.gov.sg/about-us/about-pa/):
+
+To spark and Nurture Community Participation for a Caring and United Singapore
 
 #### Outreach Programmes
 
@@ -34,7 +43,7 @@ CCCs serve as a vital link between residents and the Government by:
 
 * Explaining government policies in relatable ways;
 * Gathering ground feedback on local and national issues; and
-* Organising community fotly rums and dialogue sessions with public agencies.
+* Organising community forums and dialogue sessions with public agencies.
      
 #### Service during Crisis and Emergency Preparedness
 
