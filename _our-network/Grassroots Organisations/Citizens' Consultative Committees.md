@@ -6,13 +6,13 @@ third_nav_title: Grassroots Organisations
 variant: tiptap
 ---
 <h3>Celebrating Citizens’ Consultative Committees’ 60th Anniversary&nbsp;</h3>
-<p>Established in 1965, the Citizens’ Consultative Committees (CCCs) are
+<p>Established in 1965, the Citizens’ Consultative Committees (CCCs) are
 the apex grassroots organisations under the People’s Association, working
 closely with fellow grassroots organisations to serve residents’ diverse
 needs. In 2025, we celebrate the CCCs’ 60th Anniversary of service to the
 community in nurturing a sense of belonging and care.&nbsp;</p>
 <p>Journey through the CCCs' milestone community initiatives over the past
-60 years, spanning arts and culture, sports, and social services.</p>
+60 years, spanning arts and culture, sports, and social services:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCC60_Timeline_Image_1___confirmed_at_730.png">
@@ -24,11 +24,11 @@ community in nurturing a sense of belonging and care.&nbsp;</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
-<p>Part of our ongoing efforts to build a "We First" society, 1,000 volunteers
-will be trained as skilled community facilitators through the newly launched
-Community Facilitators Programme.&nbsp;</p>
-<p>Watch the following videos to see our volunteers in action:</p>
+<p>From the moment Singapore gained independence, the CCCs were instrumental
+in addressing the challenges facing the fledgling nation and serving as
+a vital bridge between the people and the Government. Watch the following
+videos to get a glimpse of how the CCC has supported Singapore’s nation-building
+efforts, and strengthened the community spirit.</p>
 <p><strong>Episode 1 - The Beginning: Building Bridges, Building Trust</strong>
 </p>
 <div class="iframe-wrapper">
@@ -68,10 +68,6 @@ with advanced training in community engagement and facilitation skills.
 These skills will enable grassroots leaders to identify the strengths and
 interests that already exist in their community and help residents connect
 and collaborate around what they care about.</p>
-<p>The Citizens' Consultative Committees (CCCs) is a vital bridge between
-the people and the Government. The CCCs plan and lead major grassroots
-activities within the constituency, oversee local assistance programmes,
-and organise major fund-raising projects and national campaigns.</p>
 <h4>Programmes</h4>
 <p>The CCCs organise various programmes to support<a href="https://www.pa.gov.sg/about-us/about-pa/" rel="noopener noreferrer nofollow" target="_blank"> PA's mission</a>:</p>
 <p>To spark and Nurture Community Participation for a Caring and United Singapore</p>
