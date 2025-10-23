@@ -68,6 +68,11 @@ with advanced training in community engagement and facilitation skills.
 These skills will enable grassroots leaders to identify the strengths and
 interests that already exist in their community and help residents connect
 and collaborate around what they care about.</p>
+<p></p>
+<p>The Citizens’ Consultative Committees (CCCs) is a vital bridge between
+the people and the Government. The CCCs plan and lead major grassroots
+activities within the constituency, oversee local assistance programmes,
+and organise major fund-raising projects and national campaigns.</p>
 <h4>Programmes</h4>
 <p>The CCCs organise various programmes to support<a href="https://www.pa.gov.sg/about-us/about-pa/" rel="noopener noreferrer nofollow" target="_blank"> PA's mission</a>.</p>
 <h4>Outreach Programmes</h4>
