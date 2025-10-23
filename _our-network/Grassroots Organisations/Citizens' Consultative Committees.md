@@ -45,7 +45,9 @@ Community Facilitators Programme.&nbsp;</p>
 </div>
 <p><strong>Episode 6 - From Kampung Spirit to We First: The Evolution of Caring</strong>
 </p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1129794241?h=972889a18a"></iframe>
+</div>
 <p>As part of our ongoing efforts to build a "We First" society, 1,000 volunteers
 will be trained as skilled community facilitators through the newly launched
 Community Facilitators Programme. From 2026, PA will partner Institutes
