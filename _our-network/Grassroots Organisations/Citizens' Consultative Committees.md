@@ -26,11 +26,11 @@ Watch the following videos to see our volunteers in action:
 
 ```
 
-Episode 2 - Kampung Chief: Great Transition from Kampung to HDB Living
-Episode 3 - Beyond Blueprints: Making Towns Liveable
-Episode 4 - No One Left Behind: A Safety Net for all
-Episode 5 - Crisis Support: CCC's Responses in Times of Need
-Episode 6 - From Kampung Spirit to We First: The Evolution of Caring
+**Episode 2 - Kampung Chief: Great Transition from Kampung to HDB Living**
+**Episode 3 - Beyond Blueprints: Making Towns Liveable**
+**Episode 4 - No One Left Behind: A Safety Net for all**
+**Episode 5 - Crisis Support: CCC's Responses in Times of Need**
+**Episode 6 - From Kampung Spirit to We First: The Evolution of Caring**
 
 
 As part of our ongoing efforts to build a "We First" society, 1,000 volunteers will be trained as skilled community facilitators through the newly launched Community Facilitators Programme. From 2026, PA will partner Institutes of Higher Learning (IHLs) to systematically train community facilitators, starting with the CCCs, ensuring every constituency has leaders equipped with advanced training in community engagement and facilitation skills. These skills will enable grassroots leaders to identify the strengths and interests that already exist in their community and help residents connect and collaborate around what they care about.
