@@ -15,25 +15,18 @@ Journey through the CCCs' milestone community initiatives over the past 60 years
 
 ![](/images/CCC60_Timeline_Image_2___confirmed.png)
 
+
 Part of our ongoing efforts to build a "We First" society, 1,000 volunteers will be trained as skilled community facilitators through the newly launched Community Facilitators Programme. 
 
 Watch the following videos to see our volunteers in action:
 
+```
+
+```
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+As part of our ongoing efforts to build a "We First" society, 1,000 volunteers will be trained as skilled community facilitators through the newly launched Community Facilitators Programme. From 2026, PA will partner Institutes of Higher Learning (IHLs) to systematically train community facilitators, starting with the CCCs, ensuring every constituency has leaders equipped with advanced training in community engagement and facilitation skills. These skills will enable grassroots leaders to identify the strengths and interests that already exist in their community and help residents connect and collaborate around what they care about.
 
 The Citizens' Consultative Committees (CCCs) is a vital bridge between the people and the Government. The CCCs plan and lead major grassroots activities within the constituency, oversee local assistance programmes, and organise major fund-raising projects and national campaigns.
 
