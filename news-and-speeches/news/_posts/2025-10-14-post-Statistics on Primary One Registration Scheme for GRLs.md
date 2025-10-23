@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h2><strong>Statistics on Primary One Registration Scheme for GRLs</strong></h2>
-<p><strong>*588. Mr Fadli Fawzi: To ask the Acting Minister for Culture, Community and Youth (a) how many PA grassroots leaders (GRLs) in the last 10 years have utilised their privileges under Phase 2B of the P1 registration process to apply for priority registration.</strong>
+<p><strong>Mr Fadli Fawzi: To ask the Acting Minister for Culture, Community and Youth (a) how many PA grassroots leaders (GRLs) in the last 10 years have utilised their privileges under Phase 2B of the P1 registration process to apply for priority registration.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
