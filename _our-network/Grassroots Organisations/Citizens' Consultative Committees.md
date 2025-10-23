@@ -13,7 +13,18 @@ needs. In 2025, we celebrate the CCCs’ 60th Anniversary of service to the
 community in nurturing a sense of belonging and care.&nbsp;</p>
 <p>Journey through the CCCs' milestone community initiatives over the past
 60 years, spanning arts and culture, sports, and social services.</p>
-<p>image</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCC60_Timeline_Image_1___confirmed_at_730.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCC60_Timeline_Image_2___confirmed_at_730.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p>Part of our ongoing efforts to build a "We First" society, 1,000 volunteers
 will be trained as skilled community facilitators through the newly launched
 Community Facilitators Programme.&nbsp;</p>
