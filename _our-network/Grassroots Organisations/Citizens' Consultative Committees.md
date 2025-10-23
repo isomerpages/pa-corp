@@ -5,23 +5,23 @@ description: ""
 third_nav_title: Grassroots Organisations
 variant: markdown
 ---
-### Celebrating Citizens’ Consultative Committees’ 60th Anniversary 
+### Celebrating Citizens’ Consultative Committees’ 60th Anniversary&nbsp;
 
-Established in 1965, the Citizens’ Consultative Committees (CCCs) are the apex grassroots organisations under the People’s Association, working closely with fellow grassroots organisations to serve residents’ diverse needs. In 2025, we celebrate the CCCs’ 60th Anniversary of service to the community in nurturing a sense of belonging and care. 
+Established in 1965, the Citizens’ Consultative Committees (CCCs) are the apex grassroots organisations under the People’s Association, working closely with fellow grassroots organisations to serve residents’ diverse needs. In 2025, we celebrate the CCCs’ 60th Anniversary of service to the community in nurturing a sense of belonging and care.&nbsp;
 
 Journey through the CCCs' milestone community initiatives over the past 60 years, spanning arts and culture, sports, and social services.
 
 image 
 
 
-Part of our ongoing efforts to build a "We First" society, 1,000 volunteers will be trained as skilled community facilitators through the newly launched Community Facilitators Programme. 
+Part of our ongoing efforts to build a "We First" society, 1,000 volunteers will be trained as skilled community facilitators through the newly launched Community Facilitators Programme.&nbsp;
 
 Watch the following videos to see our volunteers in action:
 
 **Episode 1 - The Beginning: Building Bridges, Building Trust**
 
 ```
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe title="The Beginning - Building Bridges, Building Trust" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" frameborder="0" src="[https://player.vimeo.com/video/1129794816?h=73fdd70443&amp;title=0&amp;byline=0&amp;por…](https://player.vimeo.com/video/1129794816?h=73fdd70443&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479%22"></iframe></div>](https://player.vimeo.com/api/player.js%22%3e%3c/script%3e "https://player.vimeo.com/api/player.js%22%3e%3c/script%3e")
 ```
 
 **Episode 2 - Kampung Chief: Great Transition from Kampung to HDB Living**
@@ -45,35 +45,35 @@ To spark and Nurture Community Participation for a Caring and United Singapore
 #### Outreach Programmes
 
 Designed to build strong community bonds through:
-* Festive celebrations and neighbourhood events;
-* Initiatives that encourage interaction and mutual understanding among residents; and
-*  Support for national campaigns such as Dengue Prevention, Clean & Green Week, Racial Harmony Month and Good Neighbour Day.
+* Festive celebrations&nbsp;and neighbourhood events;
+* Initiatives that encourage interaction&nbsp;and mutual understanding among residents; and
+*  Support for national campaigns&nbsp;such as&nbsp;Dengue Prevention,&nbsp;Clean &amp; Green Week,&nbsp;Racial Harmony Month&nbsp;and&nbsp;Good Neighbour Day.
 
 #### Assistance Programmes
 
  CCCs administer key schemes that provide relief and support to residents in need, including:
  
-*  CCC ComCare Fund – urgent, short-term assistance for residents in need;
-*  Edusave Awards – recognising students for good conduct and academic achievement;
-*  Pre-school Outreach Programmes – supporting early childhood learning; and
-*  Ad-hoc support such as meal or transport vouchers for low-income families.
+*  CCC ComCare Fund&nbsp;– urgent, short-term assistance for residents in need;
+*  Edusave Awards&nbsp;– recognising students for good conduct and academic achievement;
+*  Pre-school Outreach Programmes&nbsp;– supporting early childhood learning; and
+*  Ad-hoc support&nbsp;such as meal or transport vouchers for low-income families.
 
 
 #### Bridging Programmes
 
 CCCs serve as a vital link between residents and the Government by:
 
-* Explaining government policies in relatable ways;
-* Gathering ground feedback on local and national issues; and
-* Organising community forums and dialogue sessions with public agencies.
+* Explaining government policies&nbsp;in relatable ways;
+* Gathering ground feedback&nbsp;on local and national issues; and
+* Organising community forums and dialogue sessions&nbsp;with public agencies.
      
 #### Service during Crisis and Emergency Preparedness
 
 CCCs mobilise swiftly in times of crisis to ensure community safety and care.
 Examples include:
-* SARS – temperature checks and thermometer distribution
-* Dengue – house inspections and insect repellent distribution
-* Emergency Preparedness Exercises – equipping residents to handle fires, accidents or terrorist incidents;
+* SARS&nbsp;– temperature checks and thermometer distribution
+* Dengue&nbsp;– house inspections and insect repellent distribution
+* Emergency Preparedness Exercises&nbsp;– equipping residents to handle fires, accidents or terrorist incidents;
 * COVID - residents came together to sew reusable masks, deliver groceries, and support vulnerable neighbours.
 
 
