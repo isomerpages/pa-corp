@@ -19,7 +19,6 @@ Part of our ongoing efforts to build a "We First" society, 1,000 volunteers will
 Watch the following videos to see our volunteers in action:
 
 **Episode 1 - The Beginning: Building Bridges, Building Trust**
-
 ```
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe title="The Beginning - Building Bridges, Building Trust" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" frameborder="0" src="[https://player.vimeo.com/video/1129794816?h=73fdd70443&amp;title=0&amp;byline=0&amp;por…](https://player.vimeo.com/video/1129794816?h=73fdd70443&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479%22"></iframe></div>](https://player.vimeo.com/api/player.js%22%3e%3c/script%3e "https://player.vimeo.com/api/player.js%22%3e%3c/script%3e")
 ```
