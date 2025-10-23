@@ -19,17 +19,31 @@ will be trained as skilled community facilitators through the newly launched
 Community Facilitators Programme.&nbsp;</p>
 <p>Watch the following videos to see our volunteers in action:</p>
 <p><strong>Episode 1 - The Beginning: Building Bridges, Building Trust</strong>
-</p><pre><code>&lt;div style="padding:56.25% 0 0 0;position:relative;"&gt;&lt;iframe src="[https://player.vimeo.com/video/1129794816?h=73fdd70443&amp;amp;title=0&amp;amp;byline=0&amp;amp;por…](https://player.vimeo.com/video/1129794816?h=73fdd70443&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479%22" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Beginning - Building Bridges, Building Trust"&gt;&lt;/iframe&gt;&lt;/div&gt;](https://player.vimeo.com/api/player.js%22%3e%3c/script%3e "https://player.vimeo.com/api/player.js%22%3e%3c/script%3e")</code></pre>
+</p>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1129794816?h=73fdd70443"></iframe>
+</div>
 <p><strong>Episode 2 - Kampung Chief: Great Transition from Kampung to HDB Living</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1129794567?h=deb29ce9a7"></iframe>
+</div>
 <p><strong>Episode 3 - Beyond Blueprints: Making Towns Liveable</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1129795082?h=1f03caef34"></iframe>
+</div>
 <p><strong>Episode 4 - No One Left Behind: A Safety Net for all</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1129794391?h=7a013ef683"></iframe>
+</div>
 <p><strong>Episode 5 - Crisis Support: CCC's Responses in Times of Need</strong>
 </p>
+<p></p>
 <p><strong>Episode 6 - From Kampung Spirit to We First: The Evolution of Caring</strong>
 </p>
+<p></p>
 <p>As part of our ongoing efforts to build a "We First" society, 1,000 volunteers
 will be trained as skilled community facilitators through the newly launched
 Community Facilitators Programme. From 2026, PA will partner Institutes
