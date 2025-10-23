@@ -7,6 +7,10 @@ variant: markdown
 ---
 The Citizens' Consultative Committees (CCCs) is a vital bridge between the people and the Government. The CCCs plan and lead major grassroots activities within the constituency, oversee local assistance programmes, and organise major fund-raising projects and national campaigns.
 
+Test image 
+
+![](/images/CCC60_Timeline_Image_1.png)
+
 ####  Programmes
 
 The CCCs organise various programmes to support[ PA's mission](https://www.pa.gov.sg/about-us/about-pa/):
