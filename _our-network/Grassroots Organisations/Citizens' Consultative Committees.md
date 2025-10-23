@@ -5,6 +5,35 @@ description: ""
 third_nav_title: Grassroots Organisations
 variant: markdown
 ---
+
+
+### Celebrating Citizens’ Consultative Committees’ 60th Anniversary 
+
+Established in 1965, the Citizens’ Consultative Committees (CCCs) are the apex grassroots organisations under the People’s Association, working closely with fellow grassroots organisations to serve residents’ diverse needs. In 2025, we celebrate the CCCs’ 60th Anniversary of service to the community in nurturing a sense of belonging and care. 
+
+Journey through the CCCs' milestone community initiatives over the past 60 years, spanning arts and culture, sports, and social services.
+
+
+image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The Citizens' Consultative Committees (CCCs) is a vital bridge between the people and the Government. The CCCs plan and lead major grassroots activities within the constituency, oversee local assistance programmes, and organise major fund-raising projects and national campaigns.
 
 
