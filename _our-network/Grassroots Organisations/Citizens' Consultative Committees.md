@@ -9,7 +9,9 @@ The Citizens' Consultative Committees (CCCs) is a vital bridge between the peopl
 
 ####  Programmes
 
-The CCCs organise various programmes to support [PA's mission](/about-us/about-pa)
+The CCCs organise various programmes to support[ PA's mission](https://www.pa.gov.sg/about-us/about-pa/):
+
+To spark and Nurture Community Participation for a Caring and United Singapore
 
 #### Outreach Programmes
 
