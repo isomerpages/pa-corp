@@ -15,7 +15,9 @@ Journey through the CCCs' milestone community initiatives over the past 60 years
 
 ![](/images/CCC60_Timeline_Image_2___confirmed.png)
 
+Part of our ongoing efforts to build a "We First" society, 1,000 volunteers will be trained as skilled community facilitators through the newly launched Community Facilitators Programme. 
 
+Watch the following videos to see our volunteers in action:
 
 
 
