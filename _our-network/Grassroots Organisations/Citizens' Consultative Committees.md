@@ -36,7 +36,7 @@ CCCs serve as a vital link between residents and the Government by:
 
 * Explaining government policies in relatable ways;
 * Gathering ground feedback on local and national issues; and
-* Organising community fotly rums and dialogue sessions with public agencies.
+* Organising community forums and dialogue sessions with public agencies.
      
 #### Service during Crisis and Emergency Preparedness
 
