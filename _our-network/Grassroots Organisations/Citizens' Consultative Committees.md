@@ -11,6 +11,9 @@ Test image
 
 ![](/images/CCC60_Timeline_Image_1.png)
 
+
+![](/images/CCC60_Timeline_Image_2.png)
+
 ####  Programmes
 
 The CCCs organise various programmes to support[ PA's mission](https://www.pa.gov.sg/about-us/about-pa/):
