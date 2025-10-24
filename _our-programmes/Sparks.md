@@ -97,6 +97,18 @@ mentors, and hands-on workshops to refine their ideas into prototypes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/User_Testing_Banner.jpg">
 </div>
+<p><strong>Community Hackathon Finale:</strong>
+</p>
+<p>After a month of dedicated development, the Community Hackathon reached
+its inspiring finale on 12 July 2025at Heartbeat@Bedok, that drew an audience
+of about 1,000 people. &nbsp;21 passionate teams of 100 passionate like-minded
+youths presented their innovative, tech-driven solutions to a distinguished
+panel of judges with 5 winning teams progressing to BFG Accelerator Programme.
+&nbsp;Each project demonstrated how technology can be harnessed to address
+local community challenges and create meaningful impact. &nbsp;Find out
+more about the Community Hackathon journey and the projects <a href="https://www.community-hackathon.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<hr>
+<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SM1]</a>The doc is double spacing, pls adjust formatting.</p>
 <p>Take a look at the launch of the first CIS and the community innovation
 journey by Geylang West CIT.</p><a class="isomer-image-wrapper" href="https://youtu.be/ErXZ_ARM33I"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video_2.png"></a>
 <p><strong>Join the Sparks community innovation movement!</strong>
