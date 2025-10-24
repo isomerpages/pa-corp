@@ -7,3 +7,7 @@ description: PA to Train 1,000 Community Facilitators from 2026 to Build 'We Fir
 image: ""
 variant: tiptap
 ---
+<h2>People's Association to Train 1,000 Community Facilitators from 2026 to Build "We First" Society</h2>
+<p><strong>The People’s Association (PA) today launched its new Community Facilitators Programme, in support of Singapore’s efforts to build a “We First” society. The new programme was announced at the 60th anniversary dinner of its apex grassroots organisation, the Citizens’ Consultative Committees (CCCs).</strong>
+</p>
+<p>The full media release by People's Association can be read <a href="/files/CCC60_PA_Media_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
