@@ -22,7 +22,7 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       variant: center
-      button: Read more about Citizens’ Consultative Committees’ 60th Anniversary
+      button: Citizens’ Consultative Committees’ 60th Anniversary
       url: https://www.pa.gov.sg/our-network/grassroots-organisations/citizens-consultative-committees/
   - resources:
       title: News & Speeches
