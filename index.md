@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/27Sep_PA_Corp_Site_Banner_Website_V2_1900x760v3_L.png
+      background: /images/ccc60_group_photo.jpg
       key_highlights:
         - title: Join as a Volunteer
           description: ""
@@ -22,8 +22,8 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       variant: center
-      button: Find Out How Big Changes Can Start From You
-      url: https://www.tiktok.com/@peoplesassociation/video/7558852030664625426
+      button: Read more about Citizens’ Consultative Committees’ 60th Anniversary 2025
+      url: https://www.pa.gov.sg/our-network/grassroots-organisations/citizens-consultative-committees/
   - resources:
       title: News & Speeches
       button: More News
