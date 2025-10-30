@@ -14,7 +14,11 @@ variant: markdown
 #### Sustainability Reports
 The public sector announced its commitment to achieve net zero emissions around 2045 under the GreenGov.SG initiative. &nbsp;As we embark on our mission to spark and nurture community participation for a caring and united Singapore, we will do so sustainably with our staff, Grassroots volunteers, community partners and residents. PA will be publishing our Sustainability Report starting from FY2023. The report aims to promote transparency, accountability, and continuous improvement in sustainability efforts across PA.
 
-[Read the report here](https://go.gov.sg/sustainabilityreport2023)
+[Sustainability Report FY2023](https://go.gov.sg/sustainabilityreport2023)
+
+[Sustainability Report FY2024](https://go.gov.sg/sustainabilityreportfy2024)
+
+
  
 <a id="Ask_Kopi_Kakis"></a>
 #### Ask Kopi Kakis (AKK) Booklets
