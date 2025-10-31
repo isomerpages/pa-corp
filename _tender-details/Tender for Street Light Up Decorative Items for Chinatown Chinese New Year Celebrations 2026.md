@@ -9,10 +9,14 @@ description: ""
 Year Celebrations 2026</p>
 <hr>
 <p>Details</p>
+<p>Tenderers are invited to tender for the following:</p>
+<p>Provision of Street Light-Up Decorative Items (Including Manufacturing
+and Management) for Chinatown Chinese New Year Celebrations 2026</p>
 <p>Interested Tenderers may request for a copy of tender specifications by
 emailing to <a rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
 <a rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>.</p>
-<p>&nbsp;</p>
+<p>&nbsp;Publication Date: 31 October 2025, Friday</p>
+<p>Calling Committee: Chinatown Festival Committee</p>
 <p>A <strong>mandatory pre-tender briefing</strong> will be held on:</p>
 <p>Date: 4 November 2025&nbsp;</p>
 <p>Time: 4.00pm&nbsp;</p>
