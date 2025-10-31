@@ -24,7 +24,7 @@ Attendance Form (Appendix I) to <a rel="noopener noreferrer nofollow" target="_b
 <a rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>before<strong><u> 6.00pm on 3 November 2025</u>.</strong>
 </p>
 <p>&nbsp;</p>
-<p><em>*Only ACRA registered companies that attended the </em><strong><em><u>Mandatory</u></em></strong><em> pre-tender briefing will be considered for the award of Tender. The organising committee reserves the right to issue corrigendum for this tender publication before Tender closing dat</em>
+<p><em>*Only ACRA registered companies that attended the </em><strong><em><u>Mandatory</u></em></strong><em> pre-tender briefing will be considered for the award of Tender. The organising committee reserves the right to issue corrigendum for this tender publication before Tender closing date.</em>
 </p>
 <p>For enquiries, please contact Chng Pei Joo or Lee Xiao Hui at 6222 3597
 or by emailing to <a rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
