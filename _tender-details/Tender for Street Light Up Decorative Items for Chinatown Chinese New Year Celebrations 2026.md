@@ -15,17 +15,18 @@ and Management) for Chinatown Chinese New Year Celebrations 2026</p>
 <p>Interested Tenderers may request for a copy of tender specifications by
 emailing to <a rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
 <a rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>.</p>
-<p>&nbsp;Publication Date: 31 October 2025, Friday</p>
+<p>Publication Date: 3 November 2025, Monday</p>
+<p>Tender Closing Date &amp; Time: 21 November 2025, Friday, 6 pm</p>
 <p>Calling Committee: Chinatown Festival Committee</p>
 <p>A <strong>mandatory pre-tender briefing</strong> will be held on:</p>
-<p>Date: 4 November 2025&nbsp;</p>
-<p>Time: 4.00pm&nbsp;</p>
+<p>Date: 6 November 2025&nbsp;</p>
+<p>Time: 11.00 am&nbsp;</p>
 <p>Venue: Kreta Ayer Community Club, Level 2 Conference Room&nbsp;</p>
 <p></p>
 <p>Interested tenderers are to email the duly completed, signed and stamped
 Non-Disclosure Agreement* (Appendix II), together with Pre-Tender Briefing
 Attendance Form (Appendix I) to <a rel="noopener noreferrer nofollow" target="_blank">Chng_Pei_Joo@pa.gov.sg</a> and
-<a rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>before<strong><u> 6.00pm on 3 November 2025</u>.</strong>
+<a rel="noopener noreferrer nofollow" target="_blank">Lee_Xiaohui@pa.gov.sg</a>before<strong><u> 6.00pm on 5 November 2025</u>.</strong>
 </p>
 <p>&nbsp;</p>
 <p><em>*Only ACRA registered companies that attended the </em><strong><em><u>Mandatory</u></em></strong><em> pre-tender briefing will be considered for the award of Tender. The organising committee reserves the right to issue corrigendum for this tender publication before Tender closing date.</em>
