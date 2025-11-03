@@ -136,9 +136,9 @@ solutions!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_SeniorSays.jpg">
 </div>
-<p></p>
-<p><strong>Streamlines senior outreach by auto-filling forms through conversation transcripts, turning emotional insights into actionable data for better and faster care.</strong>
-</p>
+<p>Streamlines senior outreach by auto-filling forms through conversation
+transcripts, turning emotional insights into actionable data for better
+and faster care.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -148,7 +148,6 @@ solutions!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Red_Flags.jpg">
 </div>
-<p></p>
 <p>&nbsp;Helps young adults make smarter and independent financial decisions
 by serving as “Grammarly for finance” that spots risky terms, decodes jargon,
 and verifies contract details</p>
@@ -156,10 +155,26 @@ and verifies contract details</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Team LetterKey</strong>
+</p>
+<p>CIT: Zhenghua</p>
 <p></p>
+<p>Helps seniors understand official letters by turning them into bite-sized
+summaries and audio format, delivered in their preferred languag<strong>eam SeniorSync</strong>
+</p>
+<p>CIT: Zhenghua</p>
+<p></p>
+<p>Empowers Active Ageing Centres (AACs) to deliver personalised care through
+a senior care platform that tracks requests, customises care, and streamlines
+support.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Team LetterKey</strong>
+</p>
+<p>CIT: Zhenghua</p>
 <p></p>
+<p>Helps seniors understand official letters by turning them into bite-sized
+summaries and audio formats, delivered in their preferred language</p>
 </td>
 </tr>
 <tr>
