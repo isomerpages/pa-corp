@@ -107,6 +107,18 @@ panel of judges with 5 winning teams progressing to BFG Accelerator Programme.
 &nbsp;Each project demonstrated how technology can be harnessed to address
 local community challenges and create meaningful impact. &nbsp;Find out
 more about the Community Hackathon journey and the projects <a href="https://www.community-hackathon.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2bd9795b_ed55_44de_a599_43cbcb891c63.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH_banner.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH_banner_2.jpg">
+</div>
 <p>Take a look at the launch of the first CIS and the community innovation
 journey by Geylang West CIT.</p><a class="isomer-image-wrapper" href="https://youtu.be/ErXZ_ARM33I"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video_2.png"></a>
 <p><strong>Join the Sparks community innovation movement!</strong>
