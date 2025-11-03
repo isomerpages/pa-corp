@@ -119,6 +119,59 @@ more about the Community Hackathon journey and the projects <a href="https://www
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH_banner_2.jpg">
 </div>
+<p>Discover the 5 winning teams, 1 Community’s Favourite team and their impactful
+solutions!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Team SeniorSays</strong>
+</p>
+<p><strong>CIT: Nee Soon South</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_SeniorSays.jpg">
+</div>
+<p></p>
+<p><strong>Streamlines senior outreach by auto-filling forms through conversation transcripts, turning emotional insights into actionable data for better and faster care.</strong>
+</p>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Team Red Flags</strong>
+</p>
+<p>CIT: Geylang West</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Red_Flags.jpg">
+</div>
+<p></p>
+<p>&nbsp;Helps young adults make smarter and independent financial decisions
+by serving as “Grammarly for finance” that spots risky terms, decodes jargon,
+and verifies contract details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Take a look at the launch of the first CIS and the community innovation
 journey by Geylang West CIT.</p><a class="isomer-image-wrapper" href="https://youtu.be/ErXZ_ARM33I"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video_2.png"></a>
 <p><strong>Join the Sparks community innovation movement!</strong>
