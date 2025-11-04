@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Community Story/Our Community Story.md
-      - Our Community Story/.keep
+      - Our Story/Our Community Story.md
+      - Our Story/.keep
       - About PA.md
       - Board of Management.md
       - Annual Reports.md
