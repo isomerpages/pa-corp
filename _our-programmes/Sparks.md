@@ -82,7 +82,7 @@ mentors, and hands-on workshops to refine their ideas into prototypes.</p>
 </ol>
 </li>
 </ol>
-<p>You may find out more about the Community Hackathon journey <a href="https://www.go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p>Problem Discovery:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Problem_Discovery_banner.jpg">
@@ -198,8 +198,17 @@ connecting them with diners and supporters.</p>
 </tr>
 </tbody>
 </table>
-<p>Take a look at the launch of the first CIS and the community innovation
-journey by Geylang West CIT.</p><a class="isomer-image-wrapper" href="https://youtu.be/ErXZ_ARM33I"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video_2.png"></a>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sparks Citizens Developer network: </strong>A
+network for passionate community innovators and stakeholders to come together
+to inspire the next wave of impactful collaborations.&nbsp; Selected teams
+from the Community Hackathon will be part of the Sparks Citizens Developer
+network, where they will collaborate with respective Community Innovation
+Taskforces to pilot their solutions within local communities.&nbsp; They
+will receive support through mentorship from PA’s ICT and PA partners,
+funding as well as access to PA’s community network for user-testing.</p>
+<a class="isomer-image-wrapper" href="https://youtu.be/ErXZ_ARM33I">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video_2.png">
+</a>
 <p><strong>Join the Sparks community innovation movement!</strong>
 </p>
 <p>Ready to spark change? Join us in this community innovation movement and
