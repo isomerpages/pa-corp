@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our Community Story/Our Story.md
+      - Our Community Story/Our Community Story.md
       - Our Community Story/.keep
       - About PA.md
       - Board of Management.md
