@@ -208,6 +208,7 @@ will receive support through mentorship from PA’s ICT and PA partners,
 funding as well as access to PA’s community network for user-testing.</p>
 <p><strong>Join the Sparks community innovation movement!</strong>
 </p>
+<p></p>
 <p>Ready to spark change? Join us in this community innovation movement and
 be a catalyst for positive change and impact. Whether you have innovative
 ideas, a passion for community building, or simply want to lend a helping
