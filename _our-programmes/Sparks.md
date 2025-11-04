@@ -128,41 +128,37 @@ solutions!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Team SeniorSays</strong>
 </p>
-<p><strong>CIT: Nee Soon South</strong>
-</p>
+<p>CIT: Nee Soon South</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_SeniorSays.jpg">
 </div>
 <p>Streamlines senior outreach by auto-filling forms through conversation
 transcripts, turning emotional insights into actionable data for better
 and faster care.</p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Team Red Flags</strong>
 </p>
-<p>CIT: Geylang West</p>
+<p>CIT: Geylang Wes</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Red_Flags.jpg">
 </div>
-<p>&nbsp;Helps young adults make smarter and independent financial decisions
-by serving as “Grammarly for finance” that spots risky terms, decodes jargon,
-and verifies contract details</p>
-</th>
+<p>Helps young adults make smarter and independent financial decisions by
+serving as “Grammarly for finance” that spots risky terms, decodes jargon,
+and verifies contract details.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Team LetterKey</strong>
+<p><strong>Team SeniorSync</strong>
 </p>
 <p>CIT: Zhenghua</p>
-<p></p>
-<p>Helps seniors understand official letters by turning them into bite-sized
-summaries and audio format, delivered in their preferred languag<strong>eam SeniorSync</strong>
-</p>
-<p>CIT: Zhenghua</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_SeniorSync.jpg">
+</div>
 <p></p>
 <p>Empowers Active Ageing Centres (AACs) to deliver personalised care through
 a senior care platform that tracks requests, customises care, and streamlines
@@ -172,17 +168,32 @@ support.</p>
 <p><strong>Team LetterKey</strong>
 </p>
 <p>CIT: Zhenghua</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LetterKey.jpg">
+</div>
 <p>Helps seniors understand official letters by turning them into bite-sized
 summaries and audio formats, delivered in their preferred language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Team CallBridge</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Callbridge2.jpg">
+</div>
+<p>Empowers hearing-impaired users to communicate independently using real-time
+speech-to-text and text-to-speech technology.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Team Hawkify</strong> (Community’s Favourite)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Copy_of_Hawkify.jpg">
+</div>
+<p>Enables hawkers to gain visibility and strengthen their livelihoods by
+connecting them with diners and supporters.</p>
 </td>
 </tr>
 </tbody>
@@ -205,7 +216,6 @@ hand, we invite you to connect with us!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_Row_2.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
