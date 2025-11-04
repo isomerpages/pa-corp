@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Story.md
-      - Our Community Book/.keep
       - About PA.md
       - Our Community Book.md
       - Board of Management.md
