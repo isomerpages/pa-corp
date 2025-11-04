@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Community Story/Our Story.md
       - Our Community Story/.keep
       - About PA.md
       - Our Community Book.md
