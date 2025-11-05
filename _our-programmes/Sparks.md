@@ -142,7 +142,7 @@ and faster care.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Team Red Flags</strong>
 </p>
-<p>CIT: Geylang Wes</p>
+<p>CIT: Geylang West</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Red_Flags.jpg">
 </div>
@@ -206,6 +206,7 @@ network, where they will collaborate with respective Community Innovation
 Taskforces to pilot their solutions within local communities.&nbsp; They
 will receive support through mentorship from PA’s ICT and PA partners,
 funding as well as access to PA’s community network for user-testing.</p>
+<p></p>
 <p><strong>Join the Sparks community innovation movement!</strong>
 </p>
 <p></p>
