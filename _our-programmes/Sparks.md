@@ -198,7 +198,7 @@ connecting them with diners and supporters.</p>
 </tr>
 </tbody>
 </table>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sparks Citizens Developer network:  </strong>A
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sparks Citizens Developer network: </strong>A
 network for passionate community innovators and stakeholders to come together
 to inspire the next wave of impactful collaborations.&nbsp; Selected teams
 from the Community Hackathon will be part of the Sparks Citizens Developer
