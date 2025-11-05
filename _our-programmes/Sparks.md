@@ -82,7 +82,7 @@ mentors, and hands-on workshops to refine their ideas into prototypes.</p>
 </ol>
 </li>
 </ol>
-<p>You may find out more about the Community Hackathon journey <a href="https://www.go.gov.sg/pa-ch2025" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p>Problem Discovery:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Problem_Discovery_banner.jpg">
@@ -100,19 +100,116 @@ mentors, and hands-on workshops to refine their ideas into prototypes.</p>
 <p><strong>Community Hackathon Finale:</strong>
 </p>
 <p>After a month of dedicated development, the Community Hackathon reached
-its inspiring finale on 12 July 2025at Heartbeat@Bedok, that drew an audience
+its inspiring finale on 12 July 2025 at Heartbeat@Bedok, that drew an audience
 of about 1,000 people. &nbsp;21 passionate teams of 100 passionate like-minded
 youths presented their innovative, tech-driven solutions to a distinguished
 panel of judges with 5 winning teams progressing to BFG Accelerator Programme.
 &nbsp;Each project demonstrated how technology can be harnessed to address
 local community challenges and create meaningful impact. &nbsp;Find out
 more about the Community Hackathon journey and the projects <a href="https://www.community-hackathon.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SM1]</a>The doc is double spacing, pls adjust formatting.</p>
-<p>Take a look at the launch of the first CIS and the community innovation
-journey by Geylang West CIT.</p><a class="isomer-image-wrapper" href="https://youtu.be/ErXZ_ARM33I"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_GW_Video_2.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2bd9795b_ed55_44de_a599_43cbcb891c63.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH_banner.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH_banner_2.jpg">
+</div>
+<p>Discover the 5 winning teams, 1 Community’s Favourite team and their impactful
+solutions!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Team SeniorSays</strong>
+</p>
+<p>CIT: Nee Soon South</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_SeniorSays.jpg">
+</div>
+<p>Streamlines senior outreach by auto-filling forms through conversation
+transcripts, turning emotional insights into actionable data for better
+and faster care.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Team Red Flags</strong>
+</p>
+<p>CIT: Geylang West</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Red_Flags.jpg">
+</div>
+<p>Helps young adults make smarter and independent financial decisions by
+serving as “Grammarly for finance” that spots risky terms, decodes jargon,
+and verifies contract details.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Team SeniorSync</strong>
+</p>
+<p>CIT: Zhenghua</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_SeniorSync.jpg">
+</div>
+<p></p>
+<p>Empowers Active Ageing Centres (AACs) to deliver personalised care through
+a senior care platform that tracks requests, customises care, and streamlines
+support.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Team LetterKey</strong>
+</p>
+<p>CIT: Zhenghua</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LetterKey.jpg">
+</div>
+<p>Helps seniors understand official letters by turning them into bite-sized
+summaries and audio formats, delivered in their preferred language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Team CallBridge</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Callbridge2.jpg">
+</div>
+<p>Empowers hearing-impaired users to communicate independently using real-time
+speech-to-text and text-to-speech technology.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Team Hawkify</strong> (Community’s Favourite)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Copy_of_Hawkify.jpg">
+</div>
+<p>Enables hawkers to gain visibility and strengthen their livelihoods by
+connecting them with diners and supporters.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sparks Citizens Developer network: </strong>A
+network for passionate community innovators and stakeholders to come together
+to inspire the next wave of impactful collaborations.&nbsp; Selected teams
+from the Community Hackathon will be part of the Sparks Citizens Developer
+network, where they will collaborate with respective Community Innovation
+Taskforces to pilot their solutions within local communities.&nbsp; They
+will receive support through mentorship from PA’s ICT and PA partners,
+funding as well as access to PA’s community network for user-testing.</p>
+<p></p>
 <p><strong>Join the Sparks community innovation movement!</strong>
 </p>
+<p></p>
 <p>Ready to spark change? Join us in this community innovation movement and
 be a catalyst for positive change and impact. Whether you have innovative
 ideas, a passion for community building, or simply want to lend a helping
@@ -127,7 +224,6 @@ hand, we invite you to connect with us!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/Sparks/Sparks_Row_2.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>

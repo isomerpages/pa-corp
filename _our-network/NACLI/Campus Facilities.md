@@ -5,8 +5,7 @@ description: ""
 third_nav_title: NACLI
 variant: tiptap
 ---
-<p><strong>Note:</strong> Due to improvement works at our campus, our training
-and accommodation facilities will <strong>not be available for rental</strong> from <strong>1 September 2024 to 31 August 2025</strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/Our%20Network/NACLI/Campus%20Facilities%20-LL%20(Website)%20(200%20x%20250).jpg">
 </div>

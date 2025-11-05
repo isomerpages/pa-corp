@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - About PA.md
-      - Our Story.md
+      - Our Story/.keep
+      - Our Story/Our Story.md
       - Board of Management.md
       - Annual Reports.md
       - PA Act and Other Constitutions.md
