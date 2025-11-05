@@ -24,9 +24,6 @@ sections:
       variant: center
       button: Citizens’ Consultative Committees’ 60th Anniversary
       url: https://www.pa.gov.sg/our-network/grassroots-organisations/citizens-consultative-committees/
-  - resources:
-      title: News & Speeches
-      button: More News
   - infopic:
       title: Sparks
       id: infopic
@@ -67,4 +64,7 @@ sections:
       url: https://www.onepa.gov.sg/cc
       image: /images/Community Clubs/Hillview_CC.jpg
       alt: https://www.onepa.gov.sg/cc
+  - resources:
+      title: News & Speeches
+      button: More News
 ---
