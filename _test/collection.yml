@@ -1,5 +1,4 @@
 collections:
   test:
     output: true
-    order:
-      - Chinese New Year.md
+    order: []
