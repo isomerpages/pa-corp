@@ -7,7 +7,7 @@ description: Our Community celebrates Singapore’s community spirit and the
   leaders, and volunteers.
 third_nav_title: Our Story
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/downloadpdf-ocb"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Commbook_Bubble.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/downloadpdf-ocb"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Commbook_Bubble.png"></a>
 <p></p>
 <p><strong>Our Community</strong> book celebrates Singapore’s spirit and the
 strength of our social fabric, featuring stories from PA staff, grassroots
@@ -18,6 +18,6 @@ This book was launched in conjunction with SG60 and PA65.</p>
 <p>Through every chapter, it reveals the heart of community building:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Commbook_Table.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Commbook_Table.png">
 </div>
 <p></p>
