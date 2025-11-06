@@ -29,3 +29,5 @@ Kindly note that Our Community Gallery will open to the public from <strong>Janu
 </p>
 <p>Click on the image below to download our digital brochure to learn more
 about the Gallery's exhibits and Singapore's community building heritage.</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/ocg-brochure"><img style="width: 50%;" height="auto" width="100%" alt="OCG Brochure" src="/images/Our Network/Our Community Gallery/Brochure_cover.png"></a>
+<p></p>
