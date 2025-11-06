@@ -28,7 +28,26 @@ migrants with divided loyalties, lacking unity and facing social unrest.
 Gain a deeper appreciation for how far we've come as a nation.</p>
 <p></p>
 <h4>2 | Forging Our Path to Social Cohesion</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/IMG_0834.jpg">
+</div>
 <p>Journey through six decades of community development across three compelling
 themes:</p>
 <ul data-tight="true" class="tight">
