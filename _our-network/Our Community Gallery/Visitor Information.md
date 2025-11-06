@@ -106,7 +106,10 @@ on your left.</p>
 <p>From CTE towards AYE (Tuas): On AYE, take Exit 8 towards South Buona Vista
 Road and continue down the winding road for about 1.8km. Our NACLI campus
 is on your left.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
+<h4>Contact Information</h4>
+<p>For enquiries about your visit, please contact us at <a rel="noopener noreferrer nofollow" target="_blank">Our_Community_Gallery@pa.gov.sg</a>
+</p>
 <p></p>
