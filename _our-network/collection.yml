@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Our Community Gallery/Gallery Zones.md
       - Our Community Gallery/About the Gallery.md
       - Our Community Gallery/Our Community Gallery.md
       - Our Community Gallery/.keep
