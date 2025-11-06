@@ -69,14 +69,21 @@ how you can contribute to shaping Singapore's future and build a We-First
 society together. Engage with our digital Community Mural and connect with
 our volunteers’ inspiring stories through interactive kiosks to explore
 how you can get involved.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/LKC_7575.jpg">
+</div>
 <p>Discover your Community Archetype!</p>
 <p></p>
 <p>At the end of your gallery journey, receive your unique community archetype
 based on your RFID interactions. Each archetype reflects different ways
 of contributing to Singapore's vibrant community spirit.</p>
 <p>Planning Your Visit</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/LKC_7575.jpg">
+</div>
 <p>Allow approximately 60 minutes to fully experience all zones. Check out
 Visitor Information for more details.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
