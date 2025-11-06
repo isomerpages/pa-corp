@@ -69,3 +69,7 @@ of contributing to Singapore's vibrant community spirit.</p>
 <p>Allow approximately 60 minutes to fully experience all zones. Check out
 Visitor Information for more details.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore's Turbulent Beginnings" src="/images/Our Network/Our Community Gallery/LKC_7364.jpg">
+</div>
+<p></p>
