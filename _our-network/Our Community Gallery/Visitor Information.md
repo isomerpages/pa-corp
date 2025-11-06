@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Community Gallery
 ---
-<h4>Visitor Information </h4>
+<h4>Visitor Information</h4>
 <p>Our Community Gallery will be open to the public by appointment from January
 2026 onwards. See ‘Booking Your Visit' section below for booking information.</p>
 <p>&nbsp;</p>
@@ -64,5 +64,46 @@ your preferred date and time, please visit our <a href="https://go.gov.sg/ocg" r
 <p>For group visits with 15 or more visitors, such as school groups, corporate
 visits, and community organisations, please fill in the form at this
 <a href="https://go.gov.sg/cggrpbookings" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;or scan the QR code.</p>
+<p></p>
+<p><strong>Accessibility</strong>
+</p>
+<p>Please indicate any accessibility requirements or special assistance needed
+when making your booking.</p>
+<p></p>
+<h4>Getting Here</h4>
+<p><strong>Public Transport</strong>
+</p>
+<p>Bus no. 200</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>From Buona Vista Stn (Exit D): Alight at the 7th* stop (i.e. Bus Stop
+15099 Natl Leadership Inst)</p>
+</li>
+<li>
+<p>From Kent Ridge Stn (Exit B): Alight at the 4th* stop (i.e. Bus Stop 15099
+Natl Leadership Inst)</p>
+</li>
+<li>
+<p>From Haw Par Villa Stn: Alight at the 4th* stop (i.e. Bus Stop 15091 Opp
+Natl Leadership Inst)</p>
+</li>
+</ul>
+<p>*Excluding the bus stop you board from</p>
+<p></p>
+<p><strong>Driving Directions</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>From Tuas towards AYE (City): On AYE, take Exit 8 towards North Buona
+Vista Road. Turn right into Buona Vista Flyover and continue straight towards
+the winding South Buona Vista Road for about 1.9km. Our NACLI campus is
+on your left.</p>
+</li>
+<li>
+<p>From CTE towards AYE (Tuas): On AYE, take Exit 8 towards South Buona Vista
+Road and continue down the winding road for about 1.8km. Our NACLI campus
+is on your left.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
