@@ -63,24 +63,21 @@ demonstrating the power of social capital built over decades of dedicated
 community building efforts.</p>
 <p></p>
 <h4>4 | Charting Our Way Forward</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/LKC_7575.jpg">
+</div>
 <p></p>
 <p>Reflect on our nation’s six decades of community building and discover
 how you can contribute to shaping Singapore's future and build a We-First
 society together. Engage with our digital Community Mural and connect with
 our volunteers’ inspiring stories through interactive kiosks to explore
 how you can get involved.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/LKC_7575.jpg">
-</div>
-<p>Discover your Community Archetype!</p>
+<h4>Discover your Community Archetype!</h4>
 <p></p>
 <p>At the end of your gallery journey, receive your unique community archetype
 based on your RFID interactions. Each archetype reflects different ways
 of contributing to Singapore's vibrant community spirit.</p>
 <p>Planning Your Visit</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/LKC_7575.jpg">
-</div>
 <p>Allow approximately 60 minutes to fully experience all zones. Check out
 Visitor Information for more details.</p>
 <p></p>
