@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Our Community Gallery
 ---
 <h4>Welcome Lobby</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Welcome Lobby" src="/images/Our Network/Our Community Gallery/LKC_7609.jpg">
 </div>
@@ -20,7 +19,6 @@ to and benefited from being part of our community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore's Turbulent Beginnings" src="/images/Our Network/Our Community Gallery/LKC_7364.jpg">
 </div>
-<p></p>
 <p>Step back in time to understand how the peace and harmony we enjoy in
 Singapore today is not a natural state of affairs, but a constant work-in-</p>
 <p>progress. Experience Singapore's complex past as a diverse society of
@@ -28,25 +26,8 @@ migrants with divided loyalties, lacking unity and facing social unrest.
 Gain a deeper appreciation for how far we've come as a nation.</p>
 <p></p>
 <h4>2 | Forging Our Path to Social Cohesion</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/IMG_0834.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/Picture3.jpg">
 </div>
 <p>Journey through six decades of community development across three compelling
 themes:</p>
