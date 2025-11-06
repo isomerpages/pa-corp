@@ -55,6 +55,9 @@ cohesion.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/Picture4.jpg">
 </div>
 <h4>3 | Weathering Crises as a Community</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/Picture4.jpg">
+</div>
 <p></p>
 <p>Explore how Singapore's strong community bonds helped us emerge stronger
 from various national crises. See real examples of how opportunities were
