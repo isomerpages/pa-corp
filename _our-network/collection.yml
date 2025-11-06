@@ -2,7 +2,6 @@ collections:
   our-network:
     output: true
     order:
-      - About the Gallery.md
       - PA's Network.md
       - Community Clubs/.keep
       - Community Clubs/CC Information.md
@@ -43,6 +42,7 @@ collections:
       - NACLI/Campus Facilities.md
       - NACLI/Locate Us.md
       - Our Community Gallery.md
+      - About the Gallery.md
       - PAssion Wave.md
       - Heartbeat@Bedok/.keep
       - Heartbeat@Bedok/Heartbeat@Bedok.md
