@@ -17,6 +17,9 @@ and mini-games, and learn how ordinary individuals have both contributed
 to and benefited from being part of our community.</p>
 <p></p>
 <h4>1 | Singapore's Turbulent Beginnings</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore's Turbulent Beginnings" src="/images/Our Network/Our Community Gallery/LKC_7364.jpg">
+</div>
 <p></p>
 <p>Step back in time to understand how the peace and harmony we enjoy in
 Singapore today is not a natural state of affairs, but a constant work-in-progress.
@@ -69,7 +72,4 @@ of contributing to Singapore's vibrant community spirit.</p>
 <p>Allow approximately 60 minutes to fully experience all zones. Check out
 Visitor Information for more details.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore's Turbulent Beginnings" src="/images/Our Network/Our Community Gallery/LKC_7364.jpg">
-</div>
 <p></p>
