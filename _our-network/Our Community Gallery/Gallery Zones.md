@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Community Gallery
 ---
-<h4>Welcome Lobby </h4>
+<h4>Welcome Lobby</h4>
 <p></p>
 <p>Begin your journey by collecting your personalised RFID tag to optimise
 the interactive experience throughout your visit. Discover what makes Singapore's
