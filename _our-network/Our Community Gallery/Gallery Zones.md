@@ -50,7 +50,11 @@ our independence. Through institutions, programmes, and common spaces created,
 we turned the vision of a multi-racial society into reality as Singapore
 responded to various social challenges and began forging the path to social
 cohesion.</p>
-<p>3 | Weathering Crises as a Community</p>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/Picture4.jpg">
+</div>
+<h4>3 | Weathering Crises as a Community</h4>
 <p></p>
 <p>Explore how Singapore's strong community bonds helped us emerge stronger
 from various national crises. See real examples of how opportunities were
@@ -72,5 +76,6 @@ of contributing to Singapore's vibrant community spirit.</p>
 <p>Planning Your Visit</p>
 <p>Allow approximately 60 minutes to fully experience all zones. Check out
 Visitor Information for more details.</p>
+<p></p>
 <p></p>
 <p></p>
