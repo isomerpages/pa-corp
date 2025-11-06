@@ -51,7 +51,7 @@ we turned the vision of a multi-racial society into reality as Singapore
 responded to various social challenges and began forging the path to social
 cohesion.</p>
 <h4></h4>
-<h4>3 | Weathering Crises as a Communit</h4>
+<h4>3 | Weathering Crises as a Community</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/Picture4.jpg">
 </div>
@@ -79,7 +79,7 @@ how you can get involved.</p>
 <p></p>
 <p>At the end of your gallery journey, receive your unique community archetype
 based on your RFID interactions. Each archetype reflects different ways
-of contributing to Singapore's vibrant community spirit.</p>
+of contributing to Singapore's vibrant community spirit.y</p>
 <blockquote>
 <h4>Planning Your Visit</h4>
 </blockquote>
