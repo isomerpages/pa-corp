@@ -73,6 +73,9 @@ society together. Engage with our digital Community Mural and connect with
 our volunteers’ inspiring stories through interactive kiosks to explore
 how you can get involved.</p>
 <h4>Discover your Community Archetype!</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/Archetypes.png">
+</div>
 <p></p>
 <p>At the end of your gallery journey, receive your unique community archetype
 based on your RFID interactions. Each archetype reflects different ways
@@ -80,6 +83,7 @@ of contributing to Singapore's vibrant community spirit.</p>
 <p>Planning Your Visit</p>
 <p>Allow approximately 60 minutes to fully experience all zones. Check out
 Visitor Information for more details.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
