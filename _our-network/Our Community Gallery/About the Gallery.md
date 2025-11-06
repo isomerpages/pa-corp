@@ -7,7 +7,7 @@ third_nav_title: Our Community Gallery
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Community Gallery Logo" src="/images/Our Network/Our Community Gallery/OurCommunityGallery_PrimaryLogo_endorsement_line_.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Our Community Gallery Logo" src="/images/Our Network/Our Community Gallery/OurCommunityGallery_PrimaryLogo_endorsement_line_.png">
 </div>
 <p>Step into Singapore's community building journey at <strong>Our Community Gallery</strong>,
 where the stories of grassroots leaders, volunteers, and everyday heroes
@@ -29,5 +29,5 @@ Kindly note that Our Community Gallery will open to the public from <strong>Janu
 </p>
 <p>Click on the image below to download our digital brochure to learn more
 about the Gallery's exhibits and Singapore's community building heritage.</p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/ocg-brochure"><img style="width: 35%;" height="auto" width="100%" alt="OCG Brochure" src="/images/Our Network/Our Community Gallery/Brochure_cover.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/ocg-brochure"><img style="width: 30%;" height="auto" width="100%" alt="OCG Brochure" src="/images/Our Network/Our Community Gallery/Brochure_cover.png"></a>
 <p></p>
