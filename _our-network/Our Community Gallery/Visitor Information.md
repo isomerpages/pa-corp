@@ -16,7 +16,7 @@ Institute (NACLI):&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.817852055004!2d103.78563447457239!3d1.2831333987046847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bb1be649b5f%3A0x332f4456df53780a!2sNational%20Community%20Leadership%20Institute%20(NACLI)!5e0!3m2!1sen!2ssg!4v1762428275259!5m2!1sen!2ssg"></iframe>
 </div>
-<p><strong>Opening Hours (effective January 2026)</strong>
+<p><strong>Opening Hours (effective 23 January 2026)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -51,17 +51,23 @@ and Public Holidays.</p>
 <p>Saturdays at 10:00 AM and 12:00 PM</p>
 <p></p>
 <h4>Booking Your Visit</h4>
-<p>Public visits are only available from <strong>January 2026.</strong>
+<p>Public visits are only available from <strong>23 January 2026.</strong>
 </p>
 <p>Advance booking is required for all visits. No walk-ins allowed. To secure
 your preferred date and time, please visit our <a href="https://go.gov.sg/ocg" rel="noopener noreferrer nofollow" target="_blank">Booking Page</a> or scan the QR code below.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/Booking_QR_1.png">
+</div>
 <p><strong>Group Visits</strong>
 </p>
 <p>For group visits with 15 or more visitors, such as school groups, corporate
 visits, and community organisations, please fill in the form at this
 <a href="https://go.gov.sg/cggrpbookings" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;or scan the QR code.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Our Network/Our Community Gallery/Group_Booking_QR_1.png">
+</div>
 <p><strong>Accessibility</strong>
 </p>
 <p>Please indicate any accessibility requirements or special assistance needed
