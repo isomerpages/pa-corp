@@ -22,12 +22,13 @@ to and benefited from being part of our community.</p>
 </div>
 <p></p>
 <p>Step back in time to understand how the peace and harmony we enjoy in
-Singapore today is not a natural state of affairs, but a constant work-in-progress.
-Experience Singapore's complex past as a diverse society of migrants with
-divided loyalties, lacking unity and facing social unrest. Gain a deeper
-appreciation for how far we've come as a nation.</p>
+Singapore today is not a natural state of affairs, but a constant work-in-</p>
+<p>progress. Experience Singapore's complex past as a diverse society of
+migrants with divided loyalties, lacking unity and facing social unrest.
+Gain a deeper appreciation for how far we've come as a nation.</p>
 <p></p>
 <h4>2 | Forging Our Path to Social Cohesion</h4>
+<p></p>
 <p>Journey through six decades of community development across three compelling
 themes:</p>
 <ul data-tight="true" class="tight">
