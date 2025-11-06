@@ -61,7 +61,8 @@ from various national crises. See real examples of how opportunities were
 created for Singaporeans to support one another during challenging times,
 demonstrating the power of social capital built over decades of dedicated
 community building efforts.</p>
-<p>4 | Charting Our Way Forward</p>
+<p></p>
+<h4>4 | Charting Our Way Forward</h4>
 <p></p>
 <p>Reflect on our nation’s six decades of community building and discover
 how you can contribute to shaping Singapore's future and build a We-First
