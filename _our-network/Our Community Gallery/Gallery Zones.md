@@ -80,9 +80,12 @@ how you can get involved.</p>
 <p>At the end of your gallery journey, receive your unique community archetype
 based on your RFID interactions. Each archetype reflects different ways
 of contributing to Singapore's vibrant community spirit.</p>
-<p>Planning Your Visit</p>
+<blockquote>
+<h4>Planning Your Visit</h4>
+</blockquote>
 <p>Allow approximately 60 minutes to fully experience all zones. Check out
 Visitor Information for more details.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
