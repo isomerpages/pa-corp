@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Our Community Gallery
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Community Gallery Logo" src="/images/Our Network/Our Community Gallery/OurCommunityGallery_PrimaryLogo_endorsement_line_.png">
+</div>
 <p>Step into Singapore's community building journey at <strong>Our Community Gallery</strong>,
 where the stories of grassroots leaders, volunteers, and everyday heroes
 come alive. Located at the <a href="http://pa.gov.sg/nacli" rel="noopener noreferrer nofollow" target="_blank">National Community Leadership Institute</a>,
