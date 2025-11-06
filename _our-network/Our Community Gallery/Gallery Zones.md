@@ -7,6 +7,9 @@ third_nav_title: Our Community Gallery
 ---
 <h4>Welcome Lobby</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Welcome Lobby" src="/images/Our Network/Our Community Gallery/LKC_7609.jpg">
+</div>
 <p>Begin your journey by collecting your personalised RFID tag to optimise
 the interactive experience throughout your visit. Discover what makes Singapore's
 community building unique through inspiring stories, interactive quizzes,
@@ -14,6 +17,7 @@ and mini-games, and learn how ordinary individuals have both contributed
 to and benefited from being part of our community.</p>
 <p></p>
 <h4>1 | Singapore's Turbulent Beginnings</h4>
+<p></p>
 <p>Step back in time to understand how the peace and harmony we enjoy in
 Singapore today is not a natural state of affairs, but a constant work-in-progress.
 Experience Singapore's complex past as a diverse society of migrants with
