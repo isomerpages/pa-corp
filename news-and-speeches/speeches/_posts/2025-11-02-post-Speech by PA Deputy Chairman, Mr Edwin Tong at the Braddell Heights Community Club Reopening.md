@@ -18,10 +18,9 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>Welcome Greetings</u></strong>
-</p>
-<p>Grassroots Adviser Speaker Seah Kian Peng,</p>
-<p>Distinguished guests,</p>
-<p>and our dear residents of Braddell Heights
+<br>Grassroots Adviser Speaker Seah Kian Peng,
+<br>Distinguished guests,
+<br>and our dear residents of Braddell Heights
 <br>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good
@@ -31,61 +30,58 @@ Heights Community Club.
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Braddell
 Heights has been a stronghold of community bonding since 1976 – nearly
-five decades of shared memories, friendships, social cohesion and purpose.</p>
-<p>(a) &nbsp;Today, after 3 years of upgrading, we are now re-opened.</p>
+five decades of shared memories, friendships, social cohesion and purpose.
+<br>(a) &nbsp;Today, after 3 years of upgrading, we are now re-opened.</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A
 big thank you to all grassroots leaders, volunteers, sponsors and partners
 who have made this possible</p>
 <p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks
-to many dedicated individuals:</p>
-<p>a.&nbsp;&nbsp;&nbsp; Mr Lee Tee Loon, BBM (Chairman, Braddell Heights
-CCC)</p>
-<p>b.&nbsp;&nbsp;&nbsp; Mr Raymond Chan, PBM (Chairman, Braddell Heights
-CCMC)</p>
-<p>c.&nbsp;&nbsp;&nbsp; Mr Loo Chin Nong, BBM (Honorary Chairman, Braddell
-Heights CCMC)</p>
-<p>d.&nbsp;&nbsp;&nbsp; Mdm Chris Chu, PBM (Organising Chairman, BHCC Official
-Reopening)</p>
-<p>e.&nbsp;&nbsp;&nbsp; And GRA and Speaker of Parliament Mr Seah Kian Peng.</p>
-<p>
-<br>
-</p>
+to many dedicated individuals:
+<br>a.&nbsp;&nbsp;&nbsp; Mr Lee Tee Loon, BBM (Chairman, Braddell Heights
+CCC)
+<br>b.&nbsp;&nbsp;&nbsp; Mr Raymond Chan, PBM (Chairman, Braddell Heights
+CCMC)
+<br>c.&nbsp;&nbsp;&nbsp; Mr Loo Chin Nong, BBM (Honorary Chairman, Braddell
+Heights CCMC)
+<br>d.&nbsp;&nbsp;&nbsp; Mdm Chris Chu, PBM (Organising Chairman, BHCC Official
+Reopening)
+<br>e.&nbsp;&nbsp;&nbsp; And GRA and Speaker of Parliament Mr Seah Kian Peng.</p>
+<p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Together
 with the grassroots team and PA staff, your leadership has been instrumental
 in making this vision a reality.</p>
 <p></p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And
 we look forward to Braddell Heights CC, doing more to serve its residents
-again.</p>
-<p></p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With events and many
+again.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With events and many
 programmes, but more importantly as a space for us to meet, work and simply
-to do things together.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Making friends, helping
+to do things together.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Making friends, helping
 one another, this is how we build that special Singaporean community.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Community Clubs: Pillars of Singapore's Social Fabric</u></strong>
 </p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indeed,
 our CC spaces have been central to the building of Singapore's social landscape
-for over 70 years.</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CC spaces were first established
+for over 70 years.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CC spaces were first established
 in the 1950s to foster social cohesion and nation-building. This is even
-before PA was formally set up.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the
-early days, at home, there was no TV, no newspaper and no ping pong table.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+before PA was formally set up.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the
+early days, at home, there was no TV, no newspaper and no ping pong table.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 So, you had to come to the CC for TV, read the papers and have some sporting
-and social interaction.</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today,
-it’s very different. We don’t see the CC in the same way.</p>
-<p>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Most people
-don’t come to the CCs for TV – maybe except when there is World Cup!</p>
-<p>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-So, the fundamental paradigm has changed very much.</p>
-<p>(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is
+and social interaction.
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today,
+it’s very different. We don’t see the CC in the same way.
+<br>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Most people
+don’t come to the CCs for TV – maybe except when there is World Cup!
+<br>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+So, the fundamental paradigm has changed very much.
+<br>(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is
 therefore important for PA to continually adapt and innovate, refresh our
 space, evolve our space to the needs of the new population and society,
 and also to meet new challenges.</p>
@@ -93,25 +89,20 @@ and also to meet new challenges.</p>
 <p><strong><u>Community Clubs Today: Evolving to Meet Changing Needs</u></strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And
-we will continue to do so.</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our CCs
-must always remain a space for all of us.</p>
-<p>&nbsp;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All of
-us must see relevance in this space.</p>
-<p>&nbsp;</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A place
+we will continue to do so.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our CCs
+must always remain a space for all of us.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All of
+us must see relevance in this space.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A place
 to connect Government to people; people to people, bringing residents together,
-building social cohesion, sharing a “We-First” community.</p>
-<p>&nbsp;</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our CCs
+building social cohesion, sharing a “We-First” community.
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our CCs
 must continue to be the centre of gravity for major community events and
 activities.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And
 to cater to a growing and diverse needs of our residents,</p>
-<p>&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PA has also expanded
 our range of community facilities, and we now adopt different models of
 CCs that take into account the local needs.</p>
