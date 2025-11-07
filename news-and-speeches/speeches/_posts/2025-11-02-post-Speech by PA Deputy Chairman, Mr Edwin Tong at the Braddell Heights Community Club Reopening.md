@@ -11,9 +11,8 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="1280" width="720" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1133688540?h=bfd5d996f0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
-<p><strong>SPEECH BY PA DEPUTY CHAIRMAN, MR EDWIN TONG</strong>
-</p>
-<p><strong>BRADDELL HEIGHTS COMMUNITY CLUB OFFICIAL REOPENING</strong>
+<p><strong>SPEECH BY PA DEPUTY CHAIRMAN, MR EDWIN TONG </strong>
+<br><strong>BRADDELL HEIGHTS COMMUNITY CLUB OFFICIAL REOPENING</strong>
 <br><strong>2 NOVEMBER 2025 AT BRADDELL HEIGHTS COMMUNITY CLUB</strong>
 </p>
 <p></p>
