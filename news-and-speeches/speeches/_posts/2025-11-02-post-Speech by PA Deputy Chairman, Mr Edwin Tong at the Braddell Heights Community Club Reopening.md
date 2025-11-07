@@ -102,150 +102,145 @@ must continue to be the centre of gravity for major community events and
 activities.</p>
 <p></p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And
-to cater to a growing and diverse needs of our residents,</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PA has also expanded
+to cater to a growing and diverse needs of our residents,
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PA has also expanded
 our range of community facilities, and we now adopt different models of
-CCs that take into account the local needs.</p>
-<p>&nbsp;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have standalone
+CCs that take into account the local needs.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have standalone
 CCs, integrated CCs and we have those that are co-located with commercial
 properties.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today, we have a network
-of</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 110 community clubs,</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4 integrated
+of
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 110 community clubs,
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4 integrated
 community hubs; One Punggol, Our Tampines Hub, Wisma Geylang Serai and
-Heartbeat@Bedok),</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 PAssion Wave
-outlets and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 754 Residents’
-Network Centres (RN Centres).</p>
-<p>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today, we also
+Heartbeat@Bedok),
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 PAssion Wave
+outlets and
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 754 Residents’
+Network Centres (RN Centres).
+<br>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today, we also
 have RN Centres all over in the different precincts and these RN centres
 serve our micro-communities.</p>
-<p>&nbsp;</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We continually upgrade them.</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At any
+<p></p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We continually upgrade them.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At any
 given point in time, we have about 40 of these facilities either being
-upgraded, developed or going through cyclical maintenance.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And we
-have different models – the latest CC model is CC co-located with a mall.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Like what
-we see at Bidadari CC and Buangkok CC.</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where
+upgraded, developed or going through cyclical maintenance.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And we
+have different models – the latest CC model is CC co-located with a mall.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Like what
+we see at Bidadari CC and Buangkok CC.
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where
 the CC is integrated within a shopping mall, this allows us to bring the
-community spaces closer to where people work, live and play.</p>
-<p>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We also
+community spaces closer to where people work, live and play.
+<br>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We also
 have a few new CCs coming up – Mountbatten CC and Tengah CC. The latter,
 opened a few months ago – to cater to a growing population in a new town.</p>
 <p></p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the same time, CCs must
 also be well maintained – and that’s why we continue to upgrade our CCs,
-continue to redevelop, refresh our CCs for our residents.</p>
-<p></p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have
+continue to redevelop, refresh our CCs for our residents.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have
 upgraded many existing CCs like Tampines North CC and the CC we are at
-now – Braddell Heights CC.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition,
-we have to take advantage of technology.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By end
+now – Braddell Heights CC.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition,
+we have to take advantage of technology.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By end
 2026, all 754 RN centres will be retrofitted with smart devices – e.g.
 Smart door access for residents to enter conveniently to use the community
-spaces to study, work or to organise local events for the local community.</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will
+spaces to study, work or to organise local events for the local community
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will
 also have digital display panels installed outside all smart RN centres
 - residents will be able to see the latest, up to date community news and
 activities in the neighbourhood!&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Managing Facilities to Drive Social Cohesion</strong>
 </p>
 <p></p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We must also grow our offerings
 at the CC, to meet residents’ interests, in the sports they want to take
 part in, the activities we have now are newer.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;When popular interests
 such as water sports, sustainability programmes and more recently, drone
 flying are identified as part of a growing trend, we introduced them at
 our CCs.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Putting Users First, Reconfiguring Spaces for More Flexibility</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recently, we launched “Sparks”
 - to allow CCs to have free spaces, dedicated to collaborative projects
 for residents, volunteers and partners to brainstorm and propose ideas
-that can address the local community needs.</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have 10 CCMCs
+that can address the local community needs.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have 10 CCMCs
 to step forward to think about this as a pilot to look at flexible spaces,
 fit for user needs and not the other way round.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sometimes we think of our
 CCs as a space – a dance studio, a cooking studio, there might be a badminton
 hall but these are only spaces that we designed them to be so, if we do
-not have much of imagination.</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But what if
-we thought about it the other way round?</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start with the
+not have much of imagination.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But what if
+we thought about it the other way round?
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start with the
 users and users’ needs, which should come first, then we think how we can
 reconfigure the spaces to meet those needs.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, this initiative – “Sparks”
 is to think about the flexibility and innovation behind spaces. Allow us
 to work with the community, volunteers and community partners to think
 of ideas to benefit our community even more.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Transforming Braddell Heights CC</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At Braddell Heights CC,
-we have expanded the space to over 6,000 square metres.</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A bigger multi-purpose
+we have expanded the space to over 6,000 square metres.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A bigger multi-purpose
 hall, a sheltered outdoor fitness area, as well as dedicated rooms for
-music, dance, karaoke and the arts.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Something for
+music, dance, karaoke and the arts.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Something for
 everyone.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But beyond physical spaces,
 the CC is also a place to build networks and heartware.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At Braddell Heights, the
-youths are organising their own micro-communities.</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They’ve formed
-a cheerleading team known as Braddell Heights Team Xtreme Cheerleading.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But they’re
+youths are organising their own micro-communities.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They’ve formed
+a cheerleading team known as Braddell Heights Team Xtreme Cheerleading.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But they’re
 not just involved in cheerleading - they use this also as a platform to
-gather and to spillover into broader community work.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members like
+gather and to spillover into broader community work.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members like
 Austin Yue are familiar sights, helping out regularly at Braddell Heights
-events.</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The cheerleading
-group also helped to clean and declutter seniors’ homes in Braddell Heights.</p>
-<p>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We hope more
+events.
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The cheerleading
+group also helped to clean and declutter seniors’ homes in Braddell Heights.
+<br>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We hope more
 youths like Austin can step forward, take part in events at the CC but
 use the platform to build stronger networks and plug into the rest of the
 community and serve the rest of the community. &nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Conclusion</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upgraded Braddell Heights
-CC is more than a new building.</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a gathering
-point, a place for bonding.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A place for building
-relationships.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It’s a place
-for bridging the young and old.</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And across different
-divides, races, religion and background.</p>
-<p>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is our common
-space. This is a space for all of you.</p>
-<p>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, I
+CC is more than a new building.
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a gathering
+point, a place for bonding.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A place for building
+relationships.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It’s a place
+for bridging the young and old.
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And across different
+divides, races, religion and background.
+<br>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is our common
+space. This is a space for all of you.
+<br>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, I
 hope that you will use this space not just as place for hosting facilities
 but a space for building, enhancing and improving our social connections
 and social cohesion in Singapore.&nbsp;</p>
