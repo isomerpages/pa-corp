@@ -7,7 +7,8 @@ third_nav_title: Our Community Gallery
 ---
 <h4>Visitor Information</h4>
 <p>Our Community Gallery will be open to the public by appointment from <strong>23 January 2026</strong>.
-See ‘Booking Your Visit' section below for booking information.</p>
+Bookings can be made <strong>one month in advance</strong>. See ‘Booking
+Your Visit' section below for booking information.</p>
 <p><strong>Location</strong>
 </p>
 <p>Our Community Gallery is located at the National Community Leadership
