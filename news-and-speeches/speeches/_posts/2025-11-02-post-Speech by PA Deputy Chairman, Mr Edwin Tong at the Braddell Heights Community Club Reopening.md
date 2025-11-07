@@ -14,13 +14,9 @@ variant: tiptap
 <p><strong>SPEECH BY PA DEPUTY CHAIRMAN, MR EDWIN TONG</strong>
 </p>
 <p><strong>BRADDELL HEIGHTS COMMUNITY CLUB OFFICIAL REOPENING</strong>
+<br><strong>2 NOVEMBER 2025 AT BRADDELL HEIGHTS COMMUNITY CLUB</strong>
 </p>
-<p><strong>2 NOVEMBER 2025 AT</strong>
-</p>
-<p><strong>BRADDELL HEIGHTS COMMUNITY CLUB</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong><u>Welcome Greetings</u></strong>
 </p>
 <p>Grassroots Adviser Speaker Seah Kian Peng,</p>
