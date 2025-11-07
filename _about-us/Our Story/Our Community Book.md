@@ -18,10 +18,11 @@ This book was launched in conjunction with SG60 and PA65.</p>
 <p>Through every chapter, it reveals the heart of community building:</p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bubble_Asset_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Caring and connecting" src="/images/Table_Asset_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bubble_Asset_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="enabling and evolving" src="/images/Table_Asset_2.png">
 </div>
 <p></p>
