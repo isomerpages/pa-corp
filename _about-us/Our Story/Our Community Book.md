@@ -23,6 +23,10 @@ milestones, and looking ahead towards <a href="https://www.pa.gov.sg/pa-s-commun
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1134795273?h=13f76e3d0f"></iframe>
 </div>
+<div class="iframe-wrapper">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1134795273?h=13f76e3d0f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+</div>
+<p></p>
 <p>Through every chapter, it reveals the heart of community building:</p>
 <p></p>
 <p></p>
