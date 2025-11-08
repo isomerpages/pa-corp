@@ -15,7 +15,7 @@ community volunteers, and PA staff, as well as reflections from our residents.
 It traces PA’s journey, covering the COVID-19 period, highlighting key
 milestones, and looking ahead towards <a href="https://www.pa.gov.sg/pa-s-community-2030-plan-expands-community-participation-to-build-a-caring-and-united-singapore/" rel="noopener nofollow" target="_blank">PA's Next Bound: Community 2030</a>.</p>
 <div class="iframe-wrapper">
-<iframe height="170" width="510" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1134795273?h=13f76e3d0f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe height="160" width="480" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1134795273?h=13f76e3d0f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <p>Through every chapter, it reveals the heart of community building:</p>
 <p></p>
