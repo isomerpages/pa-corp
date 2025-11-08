@@ -10,10 +10,10 @@ third_nav_title: Our Story
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/downloadpdf-ocb"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Commbook_Bubble.png"></a>
 <p></p>
 <p><strong>Our Community</strong> book celebrates Singapore’s spirit and the
-strength of our social fabric, featuring stories from PA staff, grassroots
-leaders, and volunteers, as well as reflections from our residents. It
-traces PA’s journey, covering the COVID-19 period, highlighting key milestones,
-and looking ahead towards <a href="https://www.pa.gov.sg/pa-s-community-2030-plan-expands-community-participation-to-build-a-caring-and-united-singapore/" rel="noopener nofollow" target="_blank">PA's Next Bound: Community 2030</a>.
+strength of our social fabric, featuring stories from grassroots leaders,
+community volunteers, and PA staff, as well as reflections from our residents.
+It traces PA’s journey, covering the COVID-19 period, highlighting key
+milestones, and looking ahead towards <a href="https://www.pa.gov.sg/pa-s-community-2030-plan-expands-community-participation-to-build-a-caring-and-united-singapore/" rel="noopener nofollow" target="_blank">PA's Next Bound: Community 2030</a>.
 This book was launched in conjunction with SG60 and PA65.</p>
 <p>Through every chapter, it reveals the heart of community building:</p>
 <p></p>
