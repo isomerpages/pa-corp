@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/ccc60_group_banner_eyes2.jpg
+      background: /images/Hero_ocg.jpg
       key_highlights:
         - title: Join as a Volunteer
           description: ""
@@ -22,8 +22,18 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       variant: center
-      button: Citizens’ Consultative Committees’ 60th Anniversary
-      url: https://www.pa.gov.sg/our-network/grassroots-organisations/citizens-consultative-committees/
+      button: CLICK HERE TO FIND OUT MORE
+      url: https://www.pa.gov.sg/our-network/our-community-gallery
+  - infopic:
+      title: Our Community Book
+      id: infopic
+      description: Our Community book celebrates Singapore's spirit and strength of
+        our social fabric, featuring stories from grassroots leaders, community
+        volunteers and PA staff
+      button: Read Our Community Book
+      url: https://www.pa.gov.sg/about-us/our-story/our-community/
+      image: /images/Our_Community_Website_Highlights_1920x720.png
+      alt: Image alt text
   - infopic:
       title: Sparks
       id: infopic
