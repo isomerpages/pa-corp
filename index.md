@@ -23,7 +23,7 @@ sections:
           url: https://www.onepa.gov.sg/
       variant: center
       button: CLICK HERE TO FIND OUT MORE
-      url: https://www.pa.gov.sg/our-network/our-community-gallery
+      url: https://go.gov.sg/pahomepage-ourcg
   - infopic:
       title: Our Community Book
       id: infopic
