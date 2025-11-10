@@ -27,8 +27,7 @@ Room</p>
 <p>Only tenderers who have attended the mandatory Pre-tender briefing will
 be considered in the tender evaluation.</p>
 <p>&nbsp;</p>
-<p>(1) For request of soft copy tender documents, please email to <a rel="noopener noreferrer nofollow" target="_blank">Lim_Boon_Ying@pa.gov.sg</a> and
-<a rel="noopener noreferrer nofollow" target="_blank">Shayn_Bosco@pa.gov.sg</a>.</p>
+<p>(1) For request of soft copy tender documents, please email to <a rel="noopener noreferrer nofollow" target="_blank">Lim_Boon_Ying@pa.gov.sg</a> and <a rel="noopener noreferrer nofollow" target="_blank">Shayn_Bosco@pa.gov.sg</a>.</p>
 <p>(2) For request of hard copy tender documents, please collect at Sengkang
 Community Club reception counter located at 2 Sengkang Square, #01-01 S545025
 during operating hours from 10 am to 6 pm daily, except Public Holidays.</p>
