@@ -123,7 +123,7 @@ community.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div style="height: 200px; overflow: hidden;" class="isomer-image-wrapper">
-<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/Programmes/main_passionwave.jpg">
+<img style="width: 100%; height: 100%; object-fit: cover;" src="/images/KayakNKlean.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
