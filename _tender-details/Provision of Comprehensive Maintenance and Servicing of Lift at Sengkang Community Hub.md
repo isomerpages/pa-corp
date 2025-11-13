@@ -9,8 +9,8 @@ description: ""
 <p>&nbsp;</p>
 <p>Tenderers are invited to tender for the following:</p>
 <p>&nbsp;</p>
-<p>Provision of Comprehensive Maintenance and Servicing of One (1) Unite
-of Cargo Lift and Three (3) Units of Passenger Lifts at Sengkang Community
+<p>Provision of Comprehensive Maintenance and Servicing of One (1) Unit of
+Cargo Lift and Three (3) Units of Passenger Lifts at Sengkang Community
 Hub for a Period of One (1) Year with an Option to Extend For Another One
 (1) Year</p>
 <p>Publication Date: 10 November 2025, Monday</p>
