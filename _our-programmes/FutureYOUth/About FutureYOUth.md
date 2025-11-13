@@ -47,12 +47,7 @@ future for Singapore and Singaporeans. The Future starts with YOU!</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pg-6ALSFDPU?si=ymFCGk-u1cMRkBYs"></iframe>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/FutureYOUth_Motifs_Generic_V3.png">
-</div>
-<p>
-<br><strong><a href="https://go.gov.sg/futureyouthpaym" rel="noopener noreferrer nofollow" target="_blank">Share your views and be part of the movement!</a></strong>
-</p>
+<p></p>
 <p>Follow us on our socials for updates:</p><a class="isomer-image-wrapper" href="https://www.instagram.com/paym.youths/"><img style="width:45px;display:inline-block;margin-right:10px;" height="auto" width="100%" alt="" src="/images/IG.jpg"></a>
 <a class="isomer-image-wrapper" href="https://www.facebook.com/PAYMyouths">
 <img style="width:45px;display:inline-block;margin-right:10px;" height="auto" width="100%" alt="" src="/images/FB.jpg">
