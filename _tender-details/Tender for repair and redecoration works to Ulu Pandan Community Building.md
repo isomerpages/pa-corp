@@ -23,8 +23,7 @@ Committee</p>
 <p>Venue: Level 2 Ghim Moh Road Ulu Pandan Community Club</p>
 <p>Only tenderers who have attended the mandatory Pre-tender briefing will
 be considered in the tender evaluation.</p>
-<p>(1) For request of soft copy tender documents, please email to <a rel="noopener noreferrer nofollow" target="_blank">ong_lay_san@pa.gov.sg</a> and
-<a rel="noopener noreferrer nofollow" target="_blank">Peter.Li@cwservices.com</a>.</p>
+<p>(1) For request of soft copy tender documents, please email to <a rel="noopener noreferrer nofollow" target="_blank">ong_lay_san@pa.gov.sg</a> and <a rel="noopener noreferrer nofollow" target="_blank">Peter.Li@cwservices.com</a>.</p>
 <p>(2) For request of hard copy tender documents, please collect at Ulu Pandan
 Community Club reception counter located at 170 Ghim Moh Road during operating
 hours from 10.00 am to 6.00 pm daily, except Public Holidays.</p>
