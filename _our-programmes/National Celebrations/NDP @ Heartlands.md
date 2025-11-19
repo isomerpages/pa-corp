@@ -3,7 +3,7 @@ title: NDP @ Heartlands
 permalink: /our-programmes/national-day/ndp-heartlands/
 variant: tiptap
 description: NDP Heartland Celebrations
-third_nav_title: National Day
+third_nav_title: National Celebrations
 image: /images/Our Programmes/national_day_2023_oth.jpg
 ---
 <h1><strong>National Day Heartland Celebrations 2025</strong></h1>

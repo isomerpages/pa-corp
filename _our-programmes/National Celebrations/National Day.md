@@ -4,7 +4,7 @@ permalink: /our-programmes/national-day/
 variant: tiptap
 description: National Day
 image: /images/Screenshot_2024_07_05_164727.png
-third_nav_title: National Day
+third_nav_title: National Celebrations
 ---
 <p>As Singapore celebrates its 59th National Day, the People's Association
 plays a pivotal role in the nation's celebrations and nation building.
