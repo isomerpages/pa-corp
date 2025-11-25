@@ -139,7 +139,7 @@ options during the trip.</p>
 a healthy shopping experience but also deliver a scam awareness programme
 that helps raise awareness of this trend. And we were very thankful to
 PA for giving us this opportunity.”</p>
-<p><strong><em>Mr Leonard Tan,</em></strong><em> SVP and Head of Group CSR, UO</em>
+<p><strong><em>Mr Leonard Tan,</em></strong><em> SVP and Head of Group CSR, UOB</em>
 </p>
 <p></p>
 <table style="minWidth: 50px">
