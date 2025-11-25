@@ -94,7 +94,8 @@ families and conduct welfare checks after they move into purchased flats</p>
 </tr>
 </tbody>
 </table>
-<p><strong>What Our Programmes Aim to Do?</strong>s</p>
+<p><strong>What Our Programmes Aim to Do?</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -111,24 +112,34 @@ through combining grocery shopping with befriending</p>
 <p>Provide skills-sharing workshops to empower communities-in-need</p>
 </td>
 <th rowspan="1" colspan="1">
-<p><strong>Provide a safe, dignified and conducive home for motivated rental flat families with children</strong>
-</p>
+<p>Provide a safe, dignified and conducive home for motivated rental flat
+families with children</p>
 </th>
 </tr>
 </tbody>
 </table>
-<h3><strong>Hear from our Corporate Partners</strong></h3>
-<h4><u>Jalan With Your Buddy @ Hong Kah North</u></h4>
-<p>More than 100 residents from lower-income families enjoyed a grocery shopping
-trip with an interactive learning workshop about healthier living during
-the Jalan with Your Buddy initiative! Thanks to our partners such as <strong>DFI Retail Group</strong> who
-sponsored the grocery shopping trip, and <strong>ADEKA (Singapore)</strong> for
-their staff volunteers who were buddies of our beneficiaries, guiding them
-through the workshop on healthy eating tips and choosing healthier food
-options during the shopping trip.</p>
-<p>&nbsp;<em>“We are thankful to be part of this initiative organised by PA and get to connect with the beneficiaries. &nbsp;By engaging in this meaningful volunteer work, we not only contribute to our community, but also uphold ADEKA’s values and foster a compassionate and cohesive culture.”</em>
-</p>
-<p><strong><em>Mr Hirota Kiyonobu, </em></strong><em>Managing Director, ADEKA (Singapore) Pte Ltd</em>
+<h3><strong>Hear from our Corporate Partner</strong></h3>
+<h4><u>Jalan With Your Buddy (Corporate Adopter edition) </u></h4>
+<p>The programme pairs corporate volunteers with lower-income families for
+a day of experiential learning through interactive activities and a sponsored
+grocery shopping, with the objective of addressing rising living costs
+and knowledge gaps<strong> </strong>on affordable healthy eating. &nbsp;The
+programme has recently been enhanced to Corporate Adopter edition, where
+corporates are empowered to inject their own creative ideas and involve
+their employees to co-design and co-deliver the programme, fostering a
+deeper sense of joint ownership in meeting community needs. &nbsp;</p>
+<p>In 2025, <strong>UOB</strong> took the lead as the first corporate adopter
+of Jalan with Your Buddy @ Kembangan to co-organise the programme with
+PA.&nbsp; They curated interactive workshops on healthy eating and shared
+knowledge on scam awareness with the families. &nbsp;UOB also sponsored
+the grocery shopping trip for the families and mobilised their staff volunteers
+as shopping befrienders, guiding the residents in choosing healthier food
+options during the trip.</p>
+<p>“With the Jalan with Your Buddy initiative, we were not only able to deliver
+a healthy shopping experience but also deliver a scam awareness programme
+that helps raise awareness of this trend. And we were very thankful to
+PA for giving us this opportunity.”</p>
+<p><strong><em>Mr Leonard Tan,</em></strong><em> SVP and Head of Group CSR, UO</em>
 </p>
 <p></p>
 <table style="minWidth: 50px">
