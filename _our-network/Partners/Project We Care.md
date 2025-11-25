@@ -119,7 +119,7 @@ families with children</p>
 </tbody>
 </table>
 <h3><strong>Hear from our Corporate Partner</strong></h3>
-<h4><u>Jalan With Your Buddy (Corporate Adopter edition) </u></h4>
+<h4><u>Jalan With Your Buddy (Corporate Adopter edition)</u></h4>
 <p>The programme pairs corporate volunteers with lower-income families for
 a day of experiential learning through interactive activities and a sponsored
 grocery shopping, with the objective of addressing rising living costs
