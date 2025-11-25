@@ -17,46 +17,106 @@ towards meaningful causes in the community.</p>
 <p>Over the years, our <strong>PWC network has grown from 40 corporate partners to more than 400 corporate partners</strong> today.
 &nbsp;Through the partnership with PA, the network was <strong>engaged in over 700 social impact initiatives</strong>,
 benefitting <strong>close to a million beneficiaries</strong>!</p>
-<h3><strong>Opportunities to Make a Difference</strong></h3>
-<p>From befriending beneficiaries to upskilling the communities, corporate
-partners can play a pivotal role in creating a more inclusive and compassionate
-society by…</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+<h3><strong>Our Signature PWC Programmes</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students playing games with seniors at nursing home" src="/images/Project We Care/Time_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R5_00710__1_.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Volunteering Your Time</div>
-<div class="isomer-card-description">Contribute your time on causes you care about</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partner imparting culinary skills to youths" src="/images/Project We Care/Talent_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250623_110541__2_.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sharing Your Talent</div>
-<div class="isomer-card-description">Leverage on your industry expertise to co-create programmes and empower
-communities</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partner donating groceries to families in need" src="/images/Project We Care/Treasures_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG0072.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Donating Your Treasures</div>
-<div class="isomer-card-description">Provide in-kind sponsorships or cash donations to support community initiatives</div>
-</div>
-</div>
-</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Helping with Basic Living Needs through <strong>Jalan with Your Buddy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Helping with Basic Living Needs through <strong>Jalan with Your Buddy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Addressing Social Mobility through <strong>Stay Well</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How Your Company Can Make a Difference:</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sharing Your Talent:</strong> Partner with us to co-create and
+implement this programme</p>
+<p><strong>Donating Your Treasures: </strong>Provide grocery vouchers to
+help residents afford healthier options
+<br><strong>Volunteering Your Time:</strong> Dedicate your employees’ time
+to be shopping buddies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sharing Your Talent:</strong> Partner with us to co-create and
+implement this programme</p>
+<p><strong>Volunteering Your Time:</strong> Share your expertise and impart
+useful skills to communities in need</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Donating Your Treasures: </strong>Provide cash donations to support
+basic renovation needs</p>
+<p><strong>Volunteering Your Time:</strong> Rally your employees to befriend
+families and conduct welfare checks after they move into purchased flats</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What Our Programmes Aim to Do?</strong>s</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address rising living costs and knowledge gaps on affordable healthy eating
+through combining grocery shopping with befriending</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provide skills-sharing workshops to empower communities-in-need</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><strong>Provide a safe, dignified and conducive home for motivated rental flat families with children</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
 <h3><strong>Hear from our Corporate Partners</strong></h3>
 <h4><u>Jalan With Your Buddy @ Hong Kah North</u></h4>
 <p>More than 100 residents from lower-income families enjoyed a grocery shopping
