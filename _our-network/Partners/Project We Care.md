@@ -152,7 +152,7 @@ PA for giving us this opportunity.”</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jalan with Your Buddy at Hong Kah North" src="/images/Project We Care/JWYB_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UOB_Heartbeat_x_People_s_Association_Media__7__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
