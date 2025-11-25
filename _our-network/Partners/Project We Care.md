@@ -150,21 +150,20 @@ PA for giving us this opportunity.”</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/UOB_Heartbeat_x_People_s_Association_Media__7__1_.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adeka staff volunteer guiding beneficiary to choose healthier grocery option" src="/images/Project We Care/JWYB_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWM06806.jpg">
 </div>
+<p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><u>Bike Refresh @ Henderson-Dawson</u></h4>
 <p>The holiday season got a whole lot brighter for the underprivileged residents
 in Henderson-Dawson, thanks to a heartwarming partnership with <strong>HOPE Technik Pte Ltd</strong>.
