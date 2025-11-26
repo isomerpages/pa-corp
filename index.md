@@ -25,6 +25,15 @@ sections:
       button: CLICK HERE TO FIND OUT MORE
       url: https://go.gov.sg/pahomepage-ourcg
   - infopic:
+      title: ONE Countdown 2026
+      id: infopic
+      description: Usher in the New Year with celebrations and fireworks displays at
+        one of our 7 heartland countdown sites
+      button: ONE Countdown 2026 details
+      url: https://go.gov.sg/pahomepage-hcd2026
+      image: /images/Countdown_2026.jpg
+      alt: one countdown 2026
+  - infopic:
       title: Our Community Book
       id: infopic
       description: Our Community book celebrates Singapore's spirit and strength of
