@@ -17,58 +17,129 @@ towards meaningful causes in the community.</p>
 <p>Over the years, our <strong>PWC network has grown from 40 corporate partners to more than 400 corporate partners</strong> today.
 &nbsp;Through the partnership with PA, the network was <strong>engaged in over 700 social impact initiatives</strong>,
 benefitting <strong>close to a million beneficiaries</strong>!</p>
-<h3><strong>Opportunities to Make a Difference</strong></h3>
-<p>From befriending beneficiaries to upskilling the communities, corporate
-partners can play a pivotal role in creating a more inclusive and compassionate
-society by…</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+<h3><strong>Our Signature PWC Programmes</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students playing games with seniors at nursing home" src="/images/Project We Care/Time_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R5_00710__1_.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Volunteering Your Time</div>
-<div class="isomer-card-description">Contribute your time on causes you care about</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partner imparting culinary skills to youths" src="/images/Project We Care/Talent_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250623_110541__2_.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sharing Your Talent</div>
-<div class="isomer-card-description">Leverage on your industry expertise to co-create programmes and empower
-communities</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partner donating groceries to families in need" src="/images/Project We Care/Treasures_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG0072.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Donating Your Treasures</div>
-<div class="isomer-card-description">Provide in-kind sponsorships or cash donations to support community initiatives</div>
-</div>
-</div>
-</div>
-<h3><strong>Hear from our Corporate Partners</strong></h3>
-<h4><u>Jalan With Your Buddy @ Hong Kah North</u></h4>
-<p>More than 100 residents from lower-income families enjoyed a grocery shopping
-trip with an interactive learning workshop about healthier living during
-the Jalan with Your Buddy initiative! Thanks to our partners such as <strong>DFI Retail Group</strong> who
-sponsored the grocery shopping trip, and <strong>ADEKA (Singapore)</strong> for
-their staff volunteers who were buddies of our beneficiaries, guiding them
-through the workshop on healthy eating tips and choosing healthier food
-options during the shopping trip.</p>
-<p>&nbsp;<em>“We are thankful to be part of this initiative organised by PA and get to connect with the beneficiaries. &nbsp;By engaging in this meaningful volunteer work, we not only contribute to our community, but also uphold ADEKA’s values and foster a compassionate and cohesive culture.”</em>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Helping with Basic Living Needs through <strong>Jalan with Your Buddy</strong>
 </p>
-<p><strong><em>Mr Hirota Kiyonobu, </em></strong><em>Managing Director, ADEKA (Singapore) Pte Ltd</em>
+</td>
+<td rowspan="1" colspan="1">
+<p>Helping with Basic Living Needs through <strong>Jalan with Your Buddy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Addressing Social Mobility through <strong>Stay Well</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How Your Company Can Make a Difference:</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sharing Your Talent:</strong> Partner with us to co-create and
+implement this programme</p>
+<p><strong>Donating Your Treasures: </strong>Provide grocery vouchers to
+help residents afford healthier options
+<br><strong>Volunteering Your Time:</strong> Dedicate your employees’ time
+to be shopping buddies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sharing Your Talent:</strong> Partner with us to co-create and
+implement this programme</p>
+<p><strong>Volunteering Your Time:</strong> Share your expertise and impart
+useful skills to communities in need</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Donating Your Treasures: </strong>Provide cash donations to support
+basic renovation needs</p>
+<p><strong>Volunteering Your Time:</strong> Rally your employees to befriend
+families and conduct welfare checks after they move into purchased flats</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What Our Programmes Aim to Do?</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address rising living costs and knowledge gaps on affordable healthy eating
+through combining grocery shopping with befriending</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provide skills-sharing workshops to empower communities-in-need</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Provide a safe, dignified and conducive home for motivated rental flat
+families with children</p>
+</th>
+</tr>
+</tbody>
+</table>
+<h3><strong>Hear from our Corporate Partner</strong></h3>
+<h4><u>Jalan With Your Buddy (Corporate Adopter edition)</u></h4>
+<p>The programme pairs corporate volunteers with lower-income families for
+a day of experiential learning through interactive activities and a sponsored
+grocery shopping, with the objective of addressing rising living costs
+and knowledge gaps<strong> </strong>on affordable healthy eating. &nbsp;The
+programme has recently been enhanced to Corporate Adopter edition, where
+corporates are empowered to inject their own creative ideas and involve
+their employees to co-design and co-deliver the programme, fostering a
+deeper sense of joint ownership in meeting community needs. &nbsp;</p>
+<p>In 2025, <strong>UOB</strong> took the lead as the first corporate adopter
+of Jalan with Your Buddy @ Kembangan to co-organise the programme with
+PA.&nbsp; They curated interactive workshops on healthy eating and shared
+knowledge on scam awareness with the families. &nbsp;UOB also sponsored
+the grocery shopping trip for the families and mobilised their staff volunteers
+as shopping befrienders, guiding the residents in choosing healthier food
+options during the trip.</p>
+<p>“With the Jalan with Your Buddy initiative, we were not only able to deliver
+a healthy shopping experience but also deliver a scam awareness programme
+that helps raise awareness of this trend. And we were very thankful to
+PA for giving us this opportunity.”</p>
+<p><strong><em>Mr Leonard Tan,</em></strong><em> SVP and Head of Group CSR, UOB</em>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -79,21 +150,20 @@ options during the shopping trip.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jalan with Your Buddy at Hong Kah North" src="/images/Project We Care/JWYB_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UOB_Heartbeat_x_People_s_Association_Media__7__1_.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adeka staff volunteer guiding beneficiary to choose healthier grocery option" src="/images/Project We Care/JWYB_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWM06806.jpg">
 </div>
+<p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><u>Bike Refresh @ Henderson-Dawson</u></h4>
 <p>The holiday season got a whole lot brighter for the underprivileged residents
 in Henderson-Dawson, thanks to a heartwarming partnership with <strong>HOPE Technik Pte Ltd</strong>.
