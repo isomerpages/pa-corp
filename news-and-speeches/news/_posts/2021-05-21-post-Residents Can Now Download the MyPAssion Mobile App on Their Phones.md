@@ -5,6 +5,7 @@ date: 2021-05-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### Residents Can Now Download the MyPAssion Mobile App on Their Phones 
 
@@ -16,6 +17,6 @@ Residents can now download the MyPAssion mobile app on their phones. The app pro
 
 The MyPAssion Mobile App may be downloaded: 
 
-[Here](https://apps.apple.com/us/app/mypassion/id1494070367) for IOS users 
+[Here](https://apps.apple.com/sg/app/mypassion/id1494070367) for IOS users 
 
 [Here](https://play.google.com/store/apps/details?id=mypassion.sg) for Android users
