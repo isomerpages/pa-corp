@@ -24,7 +24,7 @@ leaders organised consultations to gather feedback and suggestions from
 Singaporeans on topics related to building a new social compact for Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PA_SYV_logo_large.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Engage/PA_SYV_logo_large.png">
 </div>
 <p>
 <br>
