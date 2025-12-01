@@ -197,17 +197,22 @@ growth.</p>
 </tr>
 </tbody>
 </table>
-<h4><u>Community Action Network (CAN) School Holiday Programmes @ Kolam-Ayer</u></h4>
-<p>Children from Kolam-Ayer embarked on an unforgettable experience learning
-the basics of content creation with a simulated live streaming session
-at Shopee’s studio! &nbsp;Organised by <strong>Sea Group</strong>, this
-is part of the CAN initiative where like-minded partners gathered to co-ideate
-and co-implement a series of school holiday programmes for children from
-lower-income families to unlock their potential and explore their dreams
-confidently.</p>
-<p>&nbsp;<em>“What started off as a discovery session for the children, turned out to be an immensely rewarding experience for our Sea Group staff volunteers too! &nbsp;We were deeply inspired by the boundless curiosity and enthusiasm of the young minds!”</em>
+<h4><u>PWC Stay Well Initiative</u></h4>
+<p>Over 14,000 rental families with young children lack conducive spaces
+for studying, privacy, and family bonding. &nbsp;Many of these families
+live from hand-to-mouth, and often exhaust their savings when purchasing
+a new flat. &nbsp;As a result, they may be unable to afford basic home
+renovations needed to create a safe, dignified, and nurturing living environment.&nbsp;
+The PWC Stay Well initiative provides basic renovation support for rental
+families with young children who are socially and financially ready to
+transition into home ownership. &nbsp;With the support from our corporate
+partners, such as <strong>Force 21 International</strong>, these families
+could be engaged through meaningful sessions, such as recreational activities,
+outings, and museum tours, and by conducting regular milestone check-ins
+with beneficiaries.</p>
+<p><em>“It was truly an awesome experience getting to meet the Stay Well families personally! It's a complete joy to witness the family settling well into their newly purchased flat and enjoying family meals together every day around a proper dinner table.”</em>
 </p>
-<p><strong><em>Ms Sherlyn Teo, </em></strong><em>Shopee Live SG Marketing Team</em>
+<p><strong><em>Mr Daniel Cheah</em></strong><em>, CEO, Force 21 International</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -219,23 +224,16 @@ confidently.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Children at Shopee office" src="/images/Project We Care/Shopee_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bedroom_Staywell.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A student 'promoting' his product during the simulated live session" src="/images/Project We Care/Shopee_2.png">
-</div>
 <p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Project We Care/Ms_Wee_quote.png">
-</div>
-<p></p>
 <h3><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong></h3>
 <p>Join Project We Care network to co-create and co-deliver impactful programmes
 to make a difference today!</p>
@@ -243,4 +241,6 @@ to make a difference today!</p>
 inspiring partnership stories and collaboration opportunities in the community!</p>
 <p>Watch our <strong><a href="https://www.linkedin.com/feed/update/urn:li:activity:7249720284931375104" rel="noopener nofollow" target="_blank">Project We Care video</a></strong> to
 find out more!</p>
+<p>visit our<strong> <a href="https://www.linkedin.com/company/project-we-care" rel="noopener nofollow" target="_blank">Project We Care LinkedIn</a></strong> for
+inspiring partnership stories and collaboration opportunities in the community!</p>
 <p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;</p>
