@@ -10,8 +10,8 @@ third_nav_title: Connect With Government
 </div>
 <p>From 2 December 2025 to 12 January 2026, PA will be launching a series
 of ShareYourViews engagements in your local communities to take in your
-views and suggestions on the following topics as a lead up to Budget 2026:
-<br><strong>1. Advancing our economy <br>2. Securing good jobs <br>3. Uplifting Singaporeans to progress together</strong>
+views and suggestions on the following topics as a lead up to Budget 2026:</p>
+<p><strong>1. Advancing our economy <br>2. Securing good jobs <br>3. Uplifting Singaporeans to progress together</strong>
 </p>
 <p>Stay tuned here for details of our physical PA ShareYourViews engagements*!</p>
 <p><sup>*Details of physical engagements will be progressively updated once confirmed.</sup>
