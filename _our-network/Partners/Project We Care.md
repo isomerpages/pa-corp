@@ -111,10 +111,10 @@ through combining grocery shopping with befriending</p>
 <td rowspan="1" colspan="1">
 <p>Provide skills-sharing workshops to empower communities-in-need</p>
 </td>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Provide a safe, dignified and conducive home for motivated rental flat
-families with children</p>
-</th>
+families with children&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -235,12 +235,10 @@ with beneficiaries.</p>
 </tbody>
 </table>
 <h3><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong></h3>
-<p>Join Project We Care network to co-create and co-deliver impactful programmes
-to make a difference today!</p>
-<p>Visit our<strong> <a href="https://www.linkedin.com/company/project-we-care" rel="noopener nofollow" target="_blank">Project We Care LinkedIn</a></strong> for
-inspiring partnership stories and collaboration opportunities in the community!</p>
+<p></p>
 <p>Watch our <strong><a href="https://www.linkedin.com/feed/update/urn:li:activity:7249720284931375104" rel="noopener nofollow" target="_blank">Project We Care video</a></strong> to
 find out more!</p>
-<p>visit our<strong> <a href="https://www.linkedin.com/company/project-we-care" rel="noopener nofollow" target="_blank">Project We Care LinkedIn</a></strong> for
+<p>Visit our<strong> <a href="https://www.linkedin.com/company/project-we-care" rel="noopener nofollow" target="_blank">Project We Care LinkedIn</a></strong> for
 inspiring partnership stories and collaboration opportunities in the community!</p>
-<p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;</p>
+<p>Connect with us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>PA_Partnership@pa.gov.sg</u></a></strong> to
+co-create and co-deliver impactful programmes and make a difference today!&nbsp;</p>
