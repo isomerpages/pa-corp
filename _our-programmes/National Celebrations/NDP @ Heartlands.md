@@ -77,7 +77,7 @@ a grand finale featuring fireworks and a drone show.</p>
 <div class="isomer-card-title">South West</div>
 <div class="isomer-card-description">Bukit Gombak ActiveSG Stadium (10 August 2025, 4pm - 9pm)</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1D6FGCaRyY" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="-" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Boon Lay</div><div class="isomer-card-description">Hardcourt in front of Blk 215 Boon Lay Place (31 Dec 2025, 7pm to 12.30am)</div><div class="isomer-card-link">Hearts @ Boon Lay, Building Brighter Futures!</div></div></a>
 </div>
 <p>From 8 July 2025, Members of the public can collect National Day Heartland
 Celebrations tickets at the nearest Community Clubs (CCs) in their respective
