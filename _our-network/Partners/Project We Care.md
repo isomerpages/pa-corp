@@ -157,24 +157,62 @@ PA for giving us this opportunity.”</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWM06806.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWM06806_2.jpg">
 </div>
 <p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<h4><u>Bike Refresh @ Henderson-Dawson</u></h4>
-<p>The holiday season got a whole lot brighter for the underprivileged residents
-in Henderson-Dawson, thanks to a heartwarming partnership with <strong>HOPE Technik Pte Ltd</strong>.
-&nbsp;22 unused bicycles needed some repair work and HOPE Technik, a home-grown
-precision engineering company, offered their expertise and resources to
-give these bicycles a new lease of life. &nbsp;These rejuvenated bicycles
-were then presented to the beneficiaries during a year-end party at Henderson-Dawson
-CC!</p>
-<p><em>“Hope Technik has CSR initiatives aimed at giving back to the community, and refurbishing bikes for those in need is a tangible way to achieve this. &nbsp;Witnessing the outcomes of our efforts warm the hearts of our staff when they see the positive impact the refurbished bikes have on the beneficiaries. &nbsp;We are thankful to work with Project We Care, giving Hope Technik this opportunity to give back to the community while fostering stronger connections among our staff.”</em>
+<h4><u>ENRICH: Empower Students with Presentation Skills @ Whampoa</u></h4>
+<p>With the objective to empower the community, <strong>SpeakIn</strong> collaborated
+with Whampoa to equip 29 students with essential presentation skills at
+a complimentary workshop. &nbsp;From mastering body language to creating
+captivating visual stories, these skills not only boost the students’ public
+speaking confidence but also contribute meaningfully to their personal
+growth.</p>
+<p><em>"We believe in the power of expert learning to uplift communities. This collaboration with PA was a heartfelt initiative to give back by equipping young students with essential communication skills that will serve them for life."</em>
 </p>
-<p><strong><em>Ms Eunice Ser, </em></strong><em>Senior People &amp; Culture Executive, HOPE Technik Pte Ltd</em>
+<p><strong><em>Mr Deepshika Kumar Anand, </em></strong><em>Founder, SpeakIn</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250623_110541__2_.jpg">
+</div>
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250623_113934__1_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><u>PWC Stay Well Initiative</u></h4>
+<p>Over 14,000 rental families with young children lack conducive spaces
+for studying, privacy, and family bonding. &nbsp;Many of these families
+live from hand-to-mouth, and often exhaust their savings when purchasing
+a new flat. &nbsp;As a result, they may be unable to afford basic home
+renovations needed to create a safe, dignified, and nurturing living environment.&nbsp;
+The PWC Stay Well initiative provides basic renovation support for rental
+families with young children who are socially and financially ready to
+transition into home ownership. &nbsp;With the support from our corporate
+partners, such as <strong>Force 21 International</strong>, these families
+could be engaged through meaningful sessions, such as recreational activities,
+outings, and museum tours, and by conducting regular milestone check-ins
+with beneficiaries.</p>
+<p><em>“It was truly an awesome experience getting to meet the Stay Well families personally! It's a complete joy to witness the family settling well into their newly purchased flat and enjoying family meals together every day around a proper dinner table.”</em>
+</p>
+<p><strong><em>Mr Daniel Cheah</em></strong><em>, CEO, Force 21 International</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -186,58 +224,16 @@ CC!</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="HOPE Technik Staff volunteers working to refurbish a children bike" src="/images/Project We Care/Bike_Refresh_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bedroom_Staywell.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A child from Henderson-Dawson receiving the refurbished bike" src="/images/Project We Care/Bike_Refresh_2.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h4><u>Community Action Network (CAN) School Holiday Programmes @ Kolam-Ayer</u></h4>
-<p>Children from Kolam-Ayer embarked on an unforgettable experience learning
-the basics of content creation with a simulated live streaming session
-at Shopee’s studio! &nbsp;Organised by <strong>Sea Group</strong>, this
-is part of the CAN initiative where like-minded partners gathered to co-ideate
-and co-implement a series of school holiday programmes for children from
-lower-income families to unlock their potential and explore their dreams
-confidently.</p>
-<p>&nbsp;<em>“What started off as a discovery session for the children, turned out to be an immensely rewarding experience for our Sea Group staff volunteers too! &nbsp;We were deeply inspired by the boundless curiosity and enthusiasm of the young minds!”</em>
-</p>
-<p><strong><em>Ms Sherlyn Teo, </em></strong><em>Shopee Live SG Marketing Team</em>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Children at Shopee office" src="/images/Project We Care/Shopee_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A student 'promoting' his product during the simulated live session" src="/images/Project We Care/Shopee_2.png">
-</div>
 <p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Project We Care/Ms_Wee_quote.png">
-</div>
-<p></p>
 <h3><strong>Empower Employees, Champion Causes, Share Resources &amp; Expertise</strong></h3>
 <p>Join Project We Care network to co-create and co-deliver impactful programmes
 to make a difference today!</p>
@@ -245,4 +241,6 @@ to make a difference today!</p>
 inspiring partnership stories and collaboration opportunities in the community!</p>
 <p>Watch our <strong><a href="https://www.linkedin.com/feed/update/urn:li:activity:7249720284931375104" rel="noopener nofollow" target="_blank">Project We Care video</a></strong> to
 find out more!</p>
+<p>visit our<strong> <a href="https://www.linkedin.com/company/project-we-care" rel="noopener nofollow" target="_blank">Project We Care LinkedIn</a></strong> for
+inspiring partnership stories and collaboration opportunities in the community!</p>
 <p>For enquiries, please feel free to reach us at <strong><a href="mailto:PA_Partnership@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_Partnership@pa.gov.sg</a>.</strong>&nbsp;</p>
