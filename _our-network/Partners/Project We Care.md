@@ -51,8 +51,7 @@ benefitting <strong>close to a million beneficiaries</strong>!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Helping with Basic Living Needs through <strong>Jalan with Your Buddy</strong>
-</p>
+<p>Bridging Knowledge &amp; Upskilling Gaps through <strong>ENRICH</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Addressing Social Mobility through <strong>Stay Well</strong>
