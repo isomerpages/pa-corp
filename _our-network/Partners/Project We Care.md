@@ -150,13 +150,13 @@ PA for giving us this opportunity.”</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UOB_Heartbeat_x_People_s_Association_Media__7__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05622.jpg">
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWM06806_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWM06806_3.jpg">
 </div>
 <p></p>
 </th>
