@@ -11,7 +11,7 @@ description: ""
 <p>Tender for repair and redecoration works to Ulu Pandan Community Building</p>
 <p>&nbsp;</p>
 <p>Publication Date: 17 November 2025, Monday</p>
-<p>Tender Closing Date: 1 December 2025, Thursday, 6.00 pm</p>
+<p>Tender Closing Date: 11 December 2025, Thursday, 6.00 pm</p>
 <p>Calling Committee: Ulu Pandan Community Building Facilities Management
 Committee</p>
 <p>&nbsp;</p>
