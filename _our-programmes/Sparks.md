@@ -179,19 +179,24 @@ summaries and audio formats, delivered in their preferred language</p>
 <td rowspan="1" colspan="1">
 <p><strong>Team CallBridge</strong>
 </p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Team Hawkify</strong> (Community’s Favourite)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Callbridge2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Callbridge___Hawkify.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Empowers hearing-impaired users to communicate independently using real-time
 speech-to-text and text-to-speech technology.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Team Hawkify</strong> (Community’s Favourite)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Copy_of_Hawkify.jpg">
-</div>
 <p>Enables hawkers to gain visibility and strengthen their livelihoods by
 connecting them with diners and supporters.</p>
 </td>
