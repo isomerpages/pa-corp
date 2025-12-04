@@ -26,22 +26,9 @@ benefitting <strong>close to a million beneficiaries</strong>!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R5_00710__1_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250623_110541__2_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG0072.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sig_Programmes_Banner.jpg">
 </div>
 </th>
 </tr>
@@ -150,7 +137,6 @@ PA for giving us this opportunity.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jalan_Banner.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 </tbody>
