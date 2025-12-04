@@ -140,23 +140,15 @@ that helps raise awareness of this trend. And we were very thankful to
 PA for giving us this opportunity.”</p>
 <p><strong><em>Mr Leonard Tan,</em></strong><em> SVP and Head of Group CSR, UOB</em>
 </p>
-<p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05622.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWM06806_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jalan_Banner.jpg">
 </div>
 <p></p>
 </th>
