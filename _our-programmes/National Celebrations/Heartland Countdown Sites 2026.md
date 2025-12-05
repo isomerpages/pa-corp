@@ -119,10 +119,10 @@ display.</p>
 Open Field in front of One Punggol</p>
 <p>Residents can look forward to multiple themed zones designed for different
 interests and age groups with carnival games, bouncy castles, photo booth
-and more. Community talents will take centre stage with a vibrant line-up
-of performances, including harmonica ensembles, karate demonstrations,
-spoken poetry, ballet showcases, traditional Aura Gemalai, ukulele and
-choir performances.</p>
+and more.</p>
+<p>Community talents will take centre stage with a vibrant line-up of performances,
+including harmonica ensembles, karate demonstrations, spoken poetry, ballet
+showcases, traditional Aura Gemalai, ukulele and choir performances.</p>
 <p>The night will culminate in a spectacular countdown experience featuring
 a drone show and a fireworks display, accompanied by thrilling fire dancing,
 fire eating and a high energy fire circus performance.</p>
@@ -204,4 +204,5 @@ is required and every dollar counts. 100% of your contribution goes directly
 to support those who need it most.</p>
 <p>Join us today and keep the impact going and build a shared future for
 all.</p>
+<p></p>
 <p></p>
