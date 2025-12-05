@@ -15,8 +15,7 @@ wide on 31 December 2025.</p>
 in the New Year with family, friends and neighbours as one community close
 to home at these 7 heartland countdown sites:&nbsp;</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-blcd2026" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Boon Lay</div><div class="isomer-card-description">Hardcourt in front of Blk 215 Boon Lay Place 
-(31 Dec 2025, 7pm to 12.30am)</div><div class="isomer-card-link">Hearts @ Boon Lay, Building Brighter Futures! </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-blcd2026" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Boon Lay</div><div class="isomer-card-description">Hardcourt in front of Blk 215 Boon Lay Place (31 Dec 2025, 7pm to 12.30am)</div><div class="isomer-card-link">Hearts @ Boon Lay, Building Brighter Futures!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-khcountdown2026" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Keat Hong</div>
@@ -24,26 +23,29 @@ to home at these 7 heartland countdown sites:&nbsp;</p>
 2025, 8pm to 12.15am)</div>
 <div class="isomer-card-link">Keat Hong Countdown to 2026: All To Gather</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-marscountdown2026" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Marsiling </div><div class="isomer-card-description">Woodlands Secondary School 
-(31 Dec 2025, 8pm to 12.15am) </div><div class="isomer-card-link">Marsiling Countdown As One</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-marscountdown2026" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Marsiling</div><div class="isomer-card-description">Woodlands Secondary School (31 Dec 2025, 8pm to 12.15am)</div><div class="isomer-card-link">Marsiling Countdown As One</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-nscd2026" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Nee Soon</div>
 <div class="isomer-card-description">Open field next to FutsalArena @ Yishun (31 Dec 2025, 8pm to 12:30am)</div>
 <div class="isomer-card-link">Nee Soon Countdown 2026: Dare to Dream</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-pungcd2026" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Punggol </div><div class="isomer-card-description">One Punggol – Celebration Square and The Plaza/ Open Field in front of One Punggol 
-(31 Dec 2025, 6pm to 12.30am) </div><div class="isomer-card-link">One Punggol Year-End Countdown 2026</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-othcd2026" class="isomer-card">
+</a>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Punggol</div>
+<div class="isomer-card-description">One Punggol – Celebration Square and The Plaza/ Open Field in front of
+One Punggol (31 Dec 2025, 6pm to 12.30am)</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Tampines</div>
 <div class="isomer-card-description">Our Tampines Hub – Town Square Level 1, Festive Area, Eco-Community Garden,
 Function Room 2, Community Auditorium and Central Plaza (31 Dec 2025, 12pm
 to 12.15am)</div>
-<div class="isomer-card-link">OTH Countdown Celebrations to 2026</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-wlcd2026" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Woodlands </div><div class="isomer-card-description">Woodlands Waterfront Park 
-(31 Dec 2025, 9pm to 12.15am) </div><div class="isomer-card-link">Woodlands Waterfront Countdown 2026 </div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/pa-wlcd2026" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Woodlands</div><div class="isomer-card-description">Woodlands Waterfront Park (31 Dec 2025, 9pm to 12.15am)</div><div class="isomer-card-link">Woodlands Waterfront Countdown 2026</div></div></a>
 </div>
 <p>For more information on ONE Countdown 2026 sites and programmes, please
 visit:&nbsp;<a href="https://go.gov.sg/pa-onecd2026" rel="noopener noreferrer nofollow" target="_blank"><u>https://gowhere.gov.sg/onecountdown</u></a>
