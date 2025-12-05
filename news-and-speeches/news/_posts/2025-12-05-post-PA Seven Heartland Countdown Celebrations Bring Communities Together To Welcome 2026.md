@@ -11,6 +11,8 @@ description: The People’s Association Grassroots Organisations (PA GROs) will
 image: ""
 variant: tiptap
 ---
+<h2>PEOPLE’S ASSOCIATION’S SEVEN HEARTLAND COUNTDOWN CELEBRATIONS BRING COMMUNITIES TOGETHER TO WELCOME 2026</h2>
+<p></p>
 <p>1. The People’s Association Grassroots Organisations (PA GROs) will organise
 seven heartland countdown celebrations on Wednesday, 31 December 2025 for
 residents to usher in the New Year with their friends and family nearer
