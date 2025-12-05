@@ -93,21 +93,19 @@ be brought over to the new Marsiling CC, which is slated to open in 2026.</p>
 <p><strong>Organiser(s): </strong>Nee Soon GROs</p>
 <p><strong>Date: </strong>31 Dec 2025</p>
 <p><strong>Time:</strong> 8pm to 12.30am</p>
-<p><strong>Venue: </strong>Open field next to FutsalArena @ Yishun<strong> </strong>
-</p>
+<p><strong>Venue: </strong>Open field next to FutsalArena @ Yishun</p>
 <p>Residents can look forward to shopping at the Nee Soon Youth Market which
 features over 50 young vendors turning their hobbies into entrepreneurial
 ventures. Residents can also take part in Postcard to My Future Self where
-they can pen messages of hope on</p>
-<p>winning postcard designs that will be mailed back next year as reminders
-of the dreams they dared to chase.</p>
+they can pen messages of hope on winning postcard designs that will be
+mailed back next year as reminders of the dreams they dared to chase.</p>
 <p>At the Art in the Heartlands corner, residents can create glow-in-the-dark
 crafts and personalised keepsakes to bring home.</p>
 <p>There will also be live performances by Ben Hum and Estelle Fly, Sharon
 Shobana, Sarah Syazlina, and Shirlyn + The UnXpected, as the community
 welcomes 2026 with music, art, youth expression and a lively carnival of
-rides, snacks and games. The night will</p>
-<p>culminate in a dazzling fireworks display.</p>
+rides, snacks and games. The night will culminate in a dazzling fireworks
+display.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -153,8 +151,7 @@ used textiles and plastic bottles.</p>
 <p>Residents of all ages can participate in fitness activities at the Community
 Auditorium, including Step HIIT classes and parent-child tele-matches.
 Central Plaza will be transformed into a digital playground with e-sports
-try-outs and games for families to</p>
-<p>enjoy.</p>
+try-outs and games for families to enjoy.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -173,14 +170,13 @@ spirit.</p>
 <p>A key highlight this year will be Sober Clubbing, bringing the globally
 trending wellness movement to the heartlands. Residents of all ages will
 enjoy an energetic, alcohol-free party experience with dynamic DJ sets,
-including a headline performance by DJ Ezra</p>
-<p>Hazard, while home-based businesses will serve mocktails, brewed coffee,
-and creative snacks.</p>
+including a headline performance by DJ Ezra Hazard, while home-based businesses
+will serve mocktails, brewed coffee, and creative snacks.</p>
 <p>Families will also enjoy a lively carnival zone with inflatables, a pirate
 ship ride, carnival games, and snack booths. The celebration will continue
 with "Waves of Celebration," where Woodlands residents from youth to seniors
-will take the Main Stage, showcasing</p>
-<p>community talent from dancers and singers to percussionists.</p>
+will take the Main Stage, showcasing community talent from dancers and
+singers to percussionists.</p>
 <p>The night will also feature a dazzling drone show over the waterfront,
 adding a stunning visual element to the festivities.</p>
 <p>Free shuttle buses from Woodlands North Plaza and Admiralty MRT Bus Stop
