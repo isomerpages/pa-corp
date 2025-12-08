@@ -22,8 +22,8 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       variant: center
-      button: CLICK HERE TO FIND OUT MORE
-      url: https://go.gov.sg/pahomepage-ourcg
+      button: Click here for information on 7 heartland countdown sites
+      url: https://go.gov.sg/pahomepage-hcd2026
   - infopic:
       title: Our Community Gallery
       subtitle: Add an image and text
@@ -34,15 +34,6 @@ sections:
       image: /images/Hero_ocg.jpg
       alt: Image alt text
       url: https://go.gov.sg/pahomepage-ourcg
-  - infopic:
-      title: ONE Countdown 2026
-      id: infopic
-      description: Usher in the New Year with celebrations and fireworks displays at
-        one of our 7 heartland countdown sites
-      button: ONE Countdown 2026 details
-      url: https://go.gov.sg/pahomepage-hcd2026
-      image: /images/Countdown_2026.jpg
-      alt: one countdown 2026
   - infopic:
       title: Our Community Book
       id: infopic
