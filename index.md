@@ -29,10 +29,11 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: Reflect on our past and play a part in charting the future of
-        community building  at NACLI
-      button: Button Text
+        community building at NACLI
+      button: Click here for details
       image: /images/Hero_ocg.jpg
       alt: Image alt text
+      url: https://go.gov.sg/pahomepage-ourcg
   - infopic:
       title: ONE Countdown 2026
       id: infopic
