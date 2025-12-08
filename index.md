@@ -25,6 +25,15 @@ sections:
       button: CLICK HERE TO FIND OUT MORE
       url: https://go.gov.sg/pahomepage-ourcg
   - infopic:
+      title: Our Community Gallery
+      subtitle: Add an image and text
+      id: infopic
+      description: Reflect on our past and play a part in charting the future of
+        community building  at NACLI
+      button: Button Text
+      image: /images/Hero_ocg.jpg
+      alt: Image alt text
+  - infopic:
       title: ONE Countdown 2026
       id: infopic
       description: Usher in the New Year with celebrations and fireworks displays at
