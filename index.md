@@ -22,11 +22,10 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       variant: center
-      button: Click here for information on 7 heartland countdown sites
+      button: Check out 7 Heartland countdown Sites
       url: https://go.gov.sg/pahomepage-hcd2026
   - infopic:
       title: Our Community Gallery
-      subtitle: Add an image and text
       id: infopic
       description: Reflect on our past and play a part in charting the future of
         community building at NACLI
