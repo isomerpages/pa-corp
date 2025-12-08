@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/Hero_ocg.jpg
+      background: /images/Countdown_2026.jpg
       key_highlights:
         - title: Join as a Volunteer
           description: ""
@@ -22,17 +22,17 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       variant: center
-      button: CLICK HERE TO FIND OUT MORE
-      url: https://go.gov.sg/pahomepage-ourcg
-  - infopic:
-      title: ONE Countdown 2026
-      id: infopic
-      description: Usher in the New Year with celebrations and fireworks displays at
-        one of our 7 heartland countdown sites
-      button: ONE Countdown 2026 details
+      button: Check out 7 Heartland countdown Sites
       url: https://go.gov.sg/pahomepage-hcd2026
-      image: /images/Countdown_2026.jpg
-      alt: one countdown 2026
+  - infopic:
+      title: Our Community Gallery
+      id: infopic
+      description: Reflect on our past and play a part in charting the future of
+        community building at NACLI
+      button: Click here for details
+      image: /images/Hero_ocg.jpg
+      alt: Image alt text
+      url: https://go.gov.sg/pahomepage-ourcg
   - infopic:
       title: Our Community Book
       id: infopic
