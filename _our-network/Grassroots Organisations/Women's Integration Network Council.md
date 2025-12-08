@@ -21,7 +21,7 @@ For more information on WECs and WIN Council, please visit our [Facebook Page](h
 
 The **People's Association's "Better Me, Better Us" Programme** equips women with knowledge and experiences, helping them navigate health, family, work-life balance, and financial planning.
 
-Here's a sneak peek at the exciting topics you can look forward to:
+Here are some exciting topics you can look forward to:
 
 • **Healthy Eating for Children**: Learn practical tips for nourishing your little ones.
 
@@ -40,8 +40,6 @@ Follow us on Instagram at pa.win.family!
 
 The PA WIN Council celebrates IWD every year with a different theme recognise the contributions of women to society and show care for women in the community
 
-In 2024, PA WIN Council organised a day out for caregivers of persons with mental health conditions and their loved ones on 16 March 2024. Caregivers shared their caregiving journey and how joining the WIN Caregivers Network helped them to connect with and be supported by other caregivers.
-        
-The WIN Caregivers Network was launched in collaboration with National Council of Social Service and Caregivers Alliance Limited (CAL) in April 2022. There are now more than 400 caregivers who have joined the Network.
+Watch this space for information on IWD 2026!
 
 ![Group Photo at IWD 2024 Event](/images/KHC___278_.jpg)
