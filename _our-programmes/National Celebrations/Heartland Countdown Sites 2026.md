@@ -187,14 +187,13 @@ will ensure everyone can easily join this memorable New Year's Eve celebration.<
 <p>For more information on ONE Countdown 2026 sites and programmes, please
 visit:&nbsp;<a href="https://go.gov.sg/pa-onecd2026" rel="noopener noreferrer nofollow" target="_blank"><u>https://gowhere.gov.sg/onecountdown</u></a>
 </p>
-<p></p>
+<h3>Carry the SG60 spirit forward with SGSHARE</h3>
 <p>As SG60 comes to a close, you can help continue making a difference in
 the lives of communities in need.</p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/pa-sgsharelogo2026"><img style="width: 100%" height="auto" width="100%" alt="community chest sgshare logos" src="/images/SGSHARE_Product_Marker_Lockup.png"></a>
-<p><a href="https://www.giving.sg/SG60share" rel="noopener nofollow" target="_blank">SGSHARE</a> is
-<a href="https://www.comchest.gov.sg/brand/sgshare/sgshare" rel="noopener nofollow" target="_blank">Community Chest</a>’s monthly giving programme that enables individuals
-to make small, regular contributions to support critical social service
-programmes.</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/pa-sgsharelogo2026"><img style="width: 100%" height="auto" width="100%" alt="community chest sg share dreams" src="/images/SGSHARE_KV_1640x641.jpg"></a>
+<p><a href="https://www.go.gov.sg/60forsg60" rel="noopener nofollow" target="_blank">SGSHARE</a> is
+Community Chest’s monthly giving programme that enables individuals to
+make small, regular contributions to support critical social service programmes.</p>
 <p>Donations through SGSHARE help people across five key areas: seniors,
 children and youth at risk, families in need, persons with mental health
 conditions, and individuals with disabilities. There is still time to amplify
@@ -202,7 +201,7 @@ your donations as every dollar you give is matched by the Government under
 the SG Gives Matching Grant until 31 December 2025. No minimum donation
 is required and every dollar counts. 100% of your contribution goes directly
 to support those who need it most.</p>
-<p>Join us today and keep the impact going and build a shared future for
-all.</p>
+<p><a href="https://www.go.gov.sg/60forsg60" rel="noopener nofollow" target="_blank">Donate Now</a> to
+start your giving journey with SGSHARE.</p>
 <p></p>
 <p></p>
