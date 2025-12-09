@@ -13,6 +13,8 @@ of ShareYourViews engagements in your local communities to take in your
 views and suggestions on the following topics as a lead up to Budget 2026:</p>
 <p><strong>1. Advancing our economy <br>2. Securing good jobs <br>3. Uplifting Singaporeans to progress together</strong>
 </p>
-<p>Stay tuned here for details of our physical PA ShareYourViews engagements*!</p>
-<p><sup>*Details of physical engagements will be progressively updated once confirmed.</sup>
+<p>Submit your views and suggestions during our community events having physical
+PA ShareYourViews: <a href="https://go.gov.sg/physicalsyvengagement" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/physicalsyvengagement</a>
+</p>
+<p>Alternatively, submit your views and suggestions online: <a href="https://go.gov.sg/pasyvb2026survey" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pasyvb2026survey</a>
 </p>
