@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/countdown_2026_banner.png
+      background: /images/revised_countdown_banner_2026.png
       key_highlights:
         - title: Join as a Volunteer
           description: ""
