@@ -42,4 +42,3 @@ The PA WIN Council celebrates IWD every year with a different theme recognise th
 
 Watch this space for information on IWD 2026!
 
-![Group Photo at IWD 2024 Event](/images/KHC___278_.jpg)
