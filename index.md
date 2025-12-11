@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/Countdown_2026.jpg
+      background: /images/countdown_2026_banner.png
       key_highlights:
         - title: Join as a Volunteer
           description: ""
@@ -30,18 +30,18 @@ sections:
       description: Our Community book celebrates Singapore's spirit and strength of
         our social fabric, featuring stories from grassroots leaders, community
         volunteers and PA staff
-      button: Click here for details
+      button: Read Our Community Book
       image: /images/Our_Community_Website_Highlights_1920x720.png
       alt: Image alt text
-      url: https://go.gov.sg/pahomepage-ourcg
+      url: https://go.gov.sg/pahomepage-ocb
   - infopic:
       title: Our Community Gallery
       id: infopic
       description: Reflect on our past and play a part in charting the future of
         community building at NACLI
-      button: Read Our Community Book
-      url: https://go.gov.sg/pahomepage-ocb
-      image: /images/Our_Community_Gallery___WA_v3.png
+      button: Click here for details
+      url: https://go.gov.sg/pahomepage-ourcg
+      image: /images/OCG_Banner.png
       alt: Image alt text
   - infopic:
       title: Sparks
