@@ -10,6 +10,10 @@ third_nav_title: Community Sports
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SEA Games 2025 Singapore Team" src="/images/SEA_Games_2025___16_x_9.jpg">
 </div>
+<p>The 33rd SEA Games will take place from 9 to 20 December 2025 across multiple
+cities including Bangkok, Chonburi, and Songkhla. Singapore will field
+930 athletes competing in 48 of the 50 medal sports on offer, including
+551 debutants.</p>
 <h3>Thursday 11 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
