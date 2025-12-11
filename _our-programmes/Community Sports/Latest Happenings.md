@@ -14,6 +14,8 @@ third_nav_title: Community Sports
 cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 930 athletes competing in 48 of the 50 medal sports on offer, including
 551 debutants.</p>
+<p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
+of selected games at the following CCs (no reservation required):</p>
 <h3>Thursday 11 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -56,8 +58,7 @@ cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 </div>
 </div>
 </div>
-<p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
-of selected games at the following CCs (no reservation required):</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
