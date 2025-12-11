@@ -41,7 +41,7 @@ sections:
         volunteers and PA staff
       button: Read Our Community Book
       url: https://go.gov.sg/pahomepage-ocb
-      image: /images/Our_Community_Website_Highlights_1920x720.png
+      image: /images/Our_Community_Gallery___WA_v3.png
       alt: Image alt text
   - infopic:
       title: Sparks
