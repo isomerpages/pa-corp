@@ -25,20 +25,20 @@ sections:
       button: Check out 7 Heartland countdown Sites
       url: https://go.gov.sg/pahomepage-hcd2026
   - infopic:
-      title: Our Community Gallery
-      id: infopic
-      description: Reflect on our past and play a part in charting the future of
-        community building at NACLI
-      button: Click here for details
-      image: /images/Hero_ocg.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/pahomepage-ourcg
-  - infopic:
       title: Our Community Book
       id: infopic
       description: Our Community book celebrates Singapore's spirit and strength of
         our social fabric, featuring stories from grassroots leaders, community
         volunteers and PA staff
+      button: Click here for details
+      image: /images/Our_Community_Website_Highlights_1920x720.png
+      alt: Image alt text
+      url: https://go.gov.sg/pahomepage-ourcg
+  - infopic:
+      title: Our Community Gallery
+      id: infopic
+      description: Reflect on our past and play a part in charting the future of
+        community building at NACLI
       button: Read Our Community Book
       url: https://go.gov.sg/pahomepage-ocb
       image: /images/Our_Community_Gallery___WA_v3.png
