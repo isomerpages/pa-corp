@@ -51,7 +51,7 @@ third_nav_title: Community Sports
 </div>
 <p></p>
 <p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
-of selected games at the following CCs:</p>
+of selected games at the following CCs (no reservation required):</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
