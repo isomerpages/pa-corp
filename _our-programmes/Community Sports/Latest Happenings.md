@@ -16,7 +16,7 @@ cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 551 debutants.</p>
 <p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
 of selected games at the following CCs (no reservation required):</p>
-<h3>Sunday 14 December 2025</h3>
+<h3>Sunday, 14 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -26,18 +26,37 @@ of selected games at the following CCs (no reservation required):</p>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Athletics</div>
-<div class="isomer-card-description">Men's &amp; Women's Heats &amp; Finals (5.30pm to 9pm)</div>
+<div class="isomer-card-title">Netball</div>
+<div class="isomer-card-description">Preliminary Round: Singapore vs Thailand (4pm to 6pm)</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Football</div>
-<div class="isomer-card-description">Men's Group Stage - Singapore vs Thailand (8pm to 10pm)</div>
+<div class="isomer-card-title">Volleyball</div>
+<div class="isomer-card-description">Men's Group Stage: Singapore vs Vietnam (8pm to 9pm)</div>
 </div>
 </div>
 </div>
-<h3>Friday 12 December 2025</h3>
+<h3>Saturday, 13 December 2025</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p>
+<br>
+</p>
+<h3>Friday, 12 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
