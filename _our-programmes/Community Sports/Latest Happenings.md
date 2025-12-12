@@ -16,7 +16,7 @@ cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 551 debutants.</p>
 <p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
 of selected games at the following CCs (no reservation required):</p>
-<h3>Thursday 11 December 2025</h3>
+<h3>Sunday, 14 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -26,35 +26,56 @@ of selected games at the following CCs (no reservation required):</p>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Athletics</div>
-<div class="isomer-card-description">Men's &amp; Women's Heats &amp; Finals (5.30pm to 9pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Football</div>
-<div class="isomer-card-description">Men's Group Stage - Singapore vs Thailand (8pm to 10pm)</div>
-</div>
-</div>
-</div>
-<h3>Friday 12 December 2025</h3>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sepak Takraw</div>
-<div class="isomer-card-description">Men's Team Preliminary Round - Singapore vs Myanmar (10am to 12pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
 <div class="isomer-card-title">Netball</div>
-<div class="isomer-card-description">Preliminary Round - Singapore vs Philippines (6pm to 8pm)</div>
+<div class="isomer-card-description">Preliminary Round: Singapore vs Thailand (4pm to 6pm)</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Volleyball</div>
-<div class="isomer-card-description">Women's Group Stage - Singapore vs Philippines (8pm to 9pm)</div>
+<div class="isomer-card-description">Men's Group Stage: Singapore vs Vietnam (8pm to 9pm)</div>
+</div>
+</div>
+</div>
+<h3>Saturday, 13 December 2025</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Swimming</div>
+<div class="isomer-card-description">Men's &amp; Women's Heats (10am to 12.30pm)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Women's Indoor Hockey</div>
+<div class="isomer-card-description">Preliminary Round: Singapore vs Malaysia (3.30pm to 4.30pm)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Basketball</div>
+<div class="isomer-card-description">Men's Group Stage: Singapore vs Thailand (8pm to 10pm)</div>
+</div>
+</div>
+</div>
+<h3>Friday, 12 December 2025</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sepak Takraw</div>
+<div class="isomer-card-description">Men's Team Preliminary Round: Singapore vs Myanmar (10am to 12pm)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Netball</div>
+<div class="isomer-card-description">Preliminary Round: Singapore vs Philippines (6pm to 8pm)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Volleyball</div>
+<div class="isomer-card-description">Women's Group Stage: Singapore vs Philippines (8pm to 9pm)</div>
 </div>
 </div>
 </div>
@@ -103,6 +124,12 @@ of selected games at the following CCs (no reservation required):</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Marsiling CC</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mountbatten CC</strong>
 </p>
 </td>
 </tr>
@@ -239,4 +266,3 @@ witness the appreciation ceremony!</p>
 </div>
 <p>Check out the <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjM4NjAwODQwMjY5NTYz?igsh=MWdscHM0aGJ5YmIweA==" rel="noopener noreferrer nofollow" target="_blank">Highlights</a> of
 PACF Fiesta by the SGAG Talents!</p>
-<p></p>
