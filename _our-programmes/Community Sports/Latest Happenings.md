@@ -8,7 +8,7 @@ third_nav_title: Community Sports
 ---
 <h2>2025 SEA Games Community Screening</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEA Games 2025 Singapore Team" src="/images/SEA_Games_2025___16_x_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/One_Team_One_Dream___Campaign_Visual__Resize_.jpg">
 </div>
 <p>The 33rd SEA Games will take place from 9 to 20 December 2025 across multiple
 cities including Bangkok, Chonburi, and Songkhla. Singapore will field
