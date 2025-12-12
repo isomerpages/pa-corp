@@ -58,7 +58,7 @@ of selected games at the following CCs (no reservation required):</p>
 </div>
 </div>
 </div>
-<h3><br>Friday, 12 December 2025</h3>
+<h3>Friday, 12 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
