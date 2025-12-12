@@ -63,19 +63,19 @@ of selected games at the following CCs (no reservation required):</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sepak Takraw</div>
-<div class="isomer-card-description">Men's Team Preliminary Round - Singapore vs Myanmar (10am to 12pm)</div>
+<div class="isomer-card-description">Men's Team Preliminary Round: Singapore vs Myanmar (10am to 12pm)</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Netball</div>
-<div class="isomer-card-description">Preliminary Round - Singapore vs Philippines (6pm to 8pm)</div>
+<div class="isomer-card-description">Preliminary Round: Singapore vs Philippines (6pm to 8pm)</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Volleyball</div>
-<div class="isomer-card-description">Women's Group Stage - Singapore vs Philippines (8pm to 9pm)</div>
+<div class="isomer-card-description">Women's Group Stage: Singapore vs Philippines (8pm to 9pm)</div>
 </div>
 </div>
 </div>
