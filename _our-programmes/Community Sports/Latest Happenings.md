@@ -78,12 +78,6 @@ of selected games at the following CCs (no reservation required):</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Heartbeat@Bedok</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Jalan Besar CC</strong>
 </p>
 </td>
