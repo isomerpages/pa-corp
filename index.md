@@ -6,12 +6,10 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: We are currently experiencing an unexpected outage with our PA
   hotline at 6225 5322. For assistance, you may contact your nearest CC or
-  submit feedback via
-  www.pa.gov.sg/feedback.    <br>                                                               Government
-  officials will never ask you to transfer money or disclose bank log-in details
-  over a phone call. Call the 24/7 ScamShield Helpline at 1799 if you are unsure
-  if something is a scam. <a href="https://www.scamshield.gov.sg/">Click here
-  for more information</a>.
+  submit feedback via www.pa.gov.sg/feedback.overnment officials will never ask
+  you to transfer money or disclose bank log-in details over a phone call. Call
+  the 24/7 ScamShield Helpline at 1799 if you are unsure if something is a scam.
+  <a href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
       background: /images/revised_countdown_banner_2026.png
@@ -28,7 +26,6 @@ sections:
       variant: center
       button: Check out 7 Heartland countdown Sites
       url: https://go.gov.sg/pahomepage-hcd2026
-      subtitle: ""
   - infopic:
       title: Our Community Book
       id: infopic
