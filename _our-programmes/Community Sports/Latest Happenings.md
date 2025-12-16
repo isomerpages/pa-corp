@@ -45,16 +45,7 @@ of selected games at the following CCs (no reservation required):</p>
 </div>
 </div>
 </div>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
 <h2>2025 F1 Community Screening</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_F1_Live_Screening___HQ_ver2.png">
-</div>
 <p>Rev up your engines! Join us for LIVE FORMULA 1 SINGAPORE AIRLINES SINGAPORE
 GRAND PRIX action at your neighbourhood Community Club (CC) - where every
 lap brings the community together. Check out these five CCs for more details
