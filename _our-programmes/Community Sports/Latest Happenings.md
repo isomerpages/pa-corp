@@ -16,189 +16,39 @@ cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 551 debutants.</p>
 <p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
 of selected games at the following CCs (no reservation required):</p>
-<h3>Sunday, 14 December 2025</h3>
+<h3>Tuesday, 12 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Swimming</div>
-<div class="isomer-card-description">Men's &amp; Women's Heats (10am to 12.30pm)</div>
+<div class="isomer-card-title">Water Polo</div>
+<div class="isomer-card-description">Men's Round Robin: TeamSG vs Thailand (12pm to 2pm)</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Netball</div>
-<div class="isomer-card-description">Preliminary Round: Singapore vs Thailand (4pm to 6pm)</div>
+<div class="isomer-card-title">Athletics</div>
+<div class="isomer-card-description">Men's &amp; Women's Finals (6pm to 8pm)</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Volleyball</div>
-<div class="isomer-card-description">Men's Group Stage: Singapore vs Vietnam (8pm to 9pm)</div>
+<div class="isomer-card-title">Gymnastics</div>
+<div class="isomer-card-description">Women's Rhythmic Individual All: Around Finals (3.30pm to 7pm)</div>
 </div>
 </div>
 </div>
-<h3>Saturday, 13 December 2025</h3>
+<h3></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Swimming</div>
-<div class="isomer-card-description">Men's &amp; Women's Heats (10am to 12.30pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Women's Indoor Hockey</div>
-<div class="isomer-card-description">Preliminary Round: Singapore vs Malaysia (3.30pm to 4.30pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Basketball</div>
-<div class="isomer-card-description">Men's Group Stage: Singapore vs Thailand (8pm to 10pm)</div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 </div>
-<h3>Friday, 12 December 2025</h3>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sepak Takraw</div>
-<div class="isomer-card-description">Men's Team Preliminary Round: Singapore vs Myanmar (10am to 12pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Netball</div>
-<div class="isomer-card-description">Preliminary Round: Singapore vs Philippines (6pm to 8pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Volleyball</div>
-<div class="isomer-card-description">Women's Group Stage: Singapore vs Philippines (8pm to 9pm)</div>
-</div>
-</div>
-</div>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
+<table style="width: 0px">
+<colgroup></colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Changi Simei CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Fernvale CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Jalan Besar CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Jurong Spring CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Kaki Bukit CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Keat Hong CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Marsiling CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mountbatten CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Nee Soon Central CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>One Punggol</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Our Tampines Hub</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pasir Rias Elias CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pek Kio CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Punggol 21 CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senja-Cashew CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tampines East CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tengah CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Frontier CC</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Toa Payoh West CC</strong>
-</p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
 <h2>2025 F1 Community Screening</h2>
