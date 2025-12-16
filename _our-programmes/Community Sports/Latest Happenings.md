@@ -16,7 +16,7 @@ cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 551 debutants.</p>
 <p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
 of selected games at the following CCs (no reservation required):</p>
-<h3>Tuesday, 12 December 2025</h3>
+<h3>Tuesday, 16 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -38,13 +38,6 @@ of selected games at the following CCs (no reservation required):</p>
 </div>
 </div>
 <h3></h3>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-link"></div>
-</div>
-</div>
-</div>
 <h2>2025 F1 Community Screening</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_F1_Live_Screening___HQ_ver2.png">
