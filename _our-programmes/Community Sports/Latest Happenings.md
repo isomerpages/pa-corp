@@ -16,30 +16,32 @@ cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 551 debutants.</p>
 <p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
 of selected games at the following CCs (no reservation required):</p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Buangkok CC</p>
 </li>
 </ol>
-</th>
-</tr>
-<tr>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong> Buangkok CC</strong>
+<p><strong>Changi Simei CC</strong>
 </p>
 </li>
 </ol>
@@ -47,14 +49,12 @@ of selected games at the following CCs (no reservation required):</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
+<ol start="3" data-tight="true" class="tight">
 <li>
-<p>Changi Simei CC</p>
+<p>Fernvale CC</p>
 </li>
 </ol>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -63,8 +63,6 @@ of selected games at the following CCs (no reservation required):</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -73,13 +71,38 @@ of selected games at the following CCs (no reservation required):</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
