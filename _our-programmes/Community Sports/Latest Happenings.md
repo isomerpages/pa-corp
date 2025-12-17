@@ -23,7 +23,11 @@ of selected games at the following CCs (no reservation required):</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
 <p></p>
+</li>
+</ol>
 </th>
 </tr>
 <tr>
@@ -32,23 +36,22 @@ of selected games at the following CCs (no reservation required):</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<th rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><strong> Buangkok CC</strong>
+</p>
+</li>
+</ol>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Changi Simei CC</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
