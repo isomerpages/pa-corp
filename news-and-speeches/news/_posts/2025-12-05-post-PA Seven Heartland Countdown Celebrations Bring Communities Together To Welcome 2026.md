@@ -55,6 +55,6 @@ information on the events.</p>
 in the Annex.</p>
 <p></p>
 <h4><strong>Annex:</strong></h4>
-<p>1. <a href="/files/7_PA_GRO_Heartland_Countdown_Sites.pdf" rel="noopener noreferrer nofollow" target="_blank">List of PA/GROs Heartland Countdown Celebrations</a>
+<p>1. <a href="/files/7_PA_GRO_Heartland_Countdown_Sites_update.pdf" rel="noopener noreferrer nofollow" target="_blank">List of PA/GROs Heartland Countdown Celebrations</a>
 </p>
 <p></p>
