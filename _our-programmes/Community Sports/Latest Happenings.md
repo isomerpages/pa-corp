@@ -16,24 +16,12 @@ cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 551 debutants.</p>
 <p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
 of selected games at the following CCs (no reservation required):</p>
-<h3>Tuesday, 16 December 2025</h3>
+<h3>Tuesday, 17 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Water Polo</div>
-<div class="isomer-card-description">Men's Round Robin: TeamSG vs Thailand (12pm to 2pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Athletics</div>
-<div class="isomer-card-description">Men's &amp; Women's Finals (6pm to 8pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Gymnastics</div>
-<div class="isomer-card-description">Women's Rhythmic Individual All: Around Finals (3.30pm to 7pm)</div>
+<div class="isomer-card-title">Netball</div>
+<div class="isomer-card-description">Women's Final: TeamSG vs Malaysia (4pm to 7pm)</div>
 </div>
 </div>
 </div>
