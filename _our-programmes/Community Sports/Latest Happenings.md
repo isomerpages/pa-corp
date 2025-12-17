@@ -81,7 +81,7 @@ of selected games at the following CCs (no reservation required):</p>
 <p>Toa Payoh West CC</p>
 </li>
 </ol>
-<h3>Tuesday, 17 December 2025</h3>
+<h3>Wednesday, 17 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
