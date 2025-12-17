@@ -16,28 +16,80 @@ cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 551 debutants.</p>
 <p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
 of selected games at the following CCs (no reservation required):</p>
-<h3>Tuesday, 16 December 2025</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Buangkok CC</p>
+</li>
+<li>
+<p>Changi Simei CC</p>
+</li>
+<li>
+<p>Fernvale CC</p>
+</li>
+<li>
+<p>Heartbeat@Bedok</p>
+</li>
+<li>
+<p>Jalan Besar CC</p>
+</li>
+<li>
+<p>Jurong Spring CC</p>
+</li>
+<li>
+<p>Kaki Bukit CC</p>
+</li>
+<li>
+<p>Keat Hong CC</p>
+</li>
+<li>
+<p>Marsiling CC</p>
+</li>
+<li>
+<p>Mountbatten CC</p>
+</li>
+<li>
+<p>Nee Soon Central CC</p>
+</li>
+<li>
+<p>One Punggol</p>
+</li>
+<li>
+<p>Our Tampines Hub</p>
+</li>
+<li>
+<p>Pasir Rias Elias CC</p>
+</li>
+<li>
+<p>Pek Kio CC</p>
+</li>
+<li>
+<p>Punggol 21 CC</p>
+</li>
+<li>
+<p>Senja-Cashew CC</p>
+</li>
+<li>
+<p>Tampines East CC</p>
+</li>
+<li>
+<p>Tengah CC</p>
+</li>
+<li>
+<p>The Frontier CC</p>
+</li>
+<li>
+<p>Toa Payoh West CC</p>
+</li>
+</ol>
+<h3>Tuesday, 17 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Water Polo</div>
-<div class="isomer-card-description">Men's Round Robin: TeamSG vs Thailand (12pm to 2pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Athletics</div>
-<div class="isomer-card-description">Men's &amp; Women's Finals (6pm to 8pm)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Gymnastics</div>
-<div class="isomer-card-description">Women's Rhythmic Individual All: Around Finals (3.30pm to 7pm)</div>
+<div class="isomer-card-title">Netball</div>
+<div class="isomer-card-description">Women's Final: TeamSG vs Malaysia (4pm to 7pm)</div>
 </div>
 </div>
 </div>
-<h3></h3>
 <h2>2025 F1 Community Screening</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_F1_Live_Screening___HQ_ver2.png">
@@ -103,3 +155,4 @@ witness the appreciation ceremony!</p>
 </div>
 <p>Check out the <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjM4NjAwODQwMjY5NTYz?igsh=MWdscHM0aGJ5YmIweA==" rel="noopener noreferrer nofollow" target="_blank">Highlights</a> of
 PACF Fiesta by the SGAG Talents!</p>
+<p></p>
