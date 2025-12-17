@@ -47,6 +47,39 @@ of selected games at the following CCs (no reservation required):</p>
 <li>
 <p>Mountbatten CC</p>
 </li>
+<li>
+<p>Nee Soon Central CC</p>
+</li>
+<li>
+<p>One Punggol</p>
+</li>
+<li>
+<p>Our Tampines Hub</p>
+</li>
+<li>
+<p>Pasir Rias Elias CC</p>
+</li>
+<li>
+<p>Pek Kio CC</p>
+</li>
+<li>
+<p>Punggol 21 CC</p>
+</li>
+<li>
+<p>Senja-Cashew CC</p>
+</li>
+<li>
+<p>Tampines East CC</p>
+</li>
+<li>
+<p>Tengah CC</p>
+</li>
+<li>
+<p>The Frontier CC</p>
+</li>
+<li>
+<p>Toa Payoh West CC</p>
+</li>
 </ol>
 <h3>Tuesday, 17 December 2025</h3>
 <div class="isomer-card-grid">
@@ -122,3 +155,4 @@ witness the appreciation ceremony!</p>
 </div>
 <p>Check out the <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjM4NjAwODQwMjY5NTYz?igsh=MWdscHM0aGJ5YmIweA==" rel="noopener noreferrer nofollow" target="_blank">Highlights</a> of
 PACF Fiesta by the SGAG Talents!</p>
+<p></p>
