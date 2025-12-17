@@ -52,5 +52,9 @@ survivors modelling sustainable outfits made from recycled materials.</p>
 Committees, Neighbourhood Committees, and Residents’ Networks for more
 information on the events.</p>
 <p>7. More information on PA’s heartland countdown celebrations can be found
-at <a href="http://go.gov.sg/pacountdown2026" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pacountdown2026</a>.</p>
+in the Annex.</p>
+<p></p>
+<h4><strong>Annex:</strong></h4>
+<p>1. <a href="/files/7_PA_GRO_Heartland_Countdown_Sites.pdf" rel="noopener noreferrer nofollow" target="_blank">List of PA/GROs Heartland Countdown Celebrations</a>
+</p>
 <p></p>
