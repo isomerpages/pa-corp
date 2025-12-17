@@ -16,99 +16,38 @@ cities including Bangkok, Chonburi, and Songkhla. Singapore will field
 551 debutants.</p>
 <p>Cheer on Team Singapore at the 33rd SEA Games and catch the live telecast
 of selected games at the following CCs (no reservation required):</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
 <p>Buangkok CC</p>
 </li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Changi Simei CC</strong>
-</p>
+<p>Changi Simei CC</p>
 </li>
-</ol>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
 <li>
 <p>Fernvale CC</p>
 </li>
+<li>
+<p>Heartbeat@Bedok</p>
+</li>
+<li>
+<p>Jalan Besar CC</p>
+</li>
+<li>
+<p>Jurong Spring CC</p>
+</li>
+<li>
+<p>Kaki Bukit CC</p>
+</li>
+<li>
+<p>Keat Hong CC</p>
+</li>
+<li>
+<p>Marsiling CC</p>
+</li>
+<li>
+<p>Mountbatten CC</p>
+</li>
 </ol>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Tuesday, 17 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
