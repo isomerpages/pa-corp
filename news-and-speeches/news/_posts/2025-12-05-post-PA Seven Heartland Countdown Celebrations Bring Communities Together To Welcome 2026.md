@@ -57,7 +57,7 @@ in the Annex.</p>
 <h4><strong>Annex:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Media_Release___PA_Seven_Heartland_Countdown_Celebrations_Bring_Communities_Together_To_Welcome_2026__dragged_.pdf" rel="noopener noreferrer nofollow" target="_blank">List of PA/GROs Heartland Countdown Celebrations</a>
+<p><a href="/files/PA_Seven_Heartland_Countdown_Celebrations_to_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">List of PA/GROs Heartland Countdown Celebrations</a>
 </p>
 </li>
 </ol>
