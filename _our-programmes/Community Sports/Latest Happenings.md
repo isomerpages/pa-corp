@@ -81,12 +81,30 @@ of selected games at the following CCs (no reservation required):</p>
 <p>Toa Payoh West CC</p>
 </li>
 </ol>
-<h3>Wednesday, 17 December 2025</h3>
+<h3>Thursday, 18 December 2025</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Netball</div>
-<div class="isomer-card-description">Women's Final: TeamSG vs Malaysia (4pm to 7pm)</div>
+<div class="isomer-card-title">Table Tennis</div>
+<div class="isomer-card-description">Men's Singles Preliminary Round: TeamSG vs Malaysia Men's Singles Preliminary
+Round: TeamSG vs Thailand Women's Singles Preliminary Round: Thailand vs
+TeamSG (Delayed) Women's Singles Preliminary Round: TeamSG vs Malaysia
+(10.48am to 2pm)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Table Tennis</div>
+<div class="isomer-card-description">Men's Singles Preliminary Round: TeamSG vs Malaysia Men's Singles Preliminary
+Round: TeamSG vs Thailand Women's Singles Preliminary Round: Thailand vs
+TeamSG (Delayed) Women's Singles Preliminary Round: TeamSG vs Malaysia
+(11am to 1.30pm)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Diving</div>
+<div class="isomer-card-description">Men's 3m Springboard Final (3pm to 4pm)</div>
 </div>
 </div>
 </div>
