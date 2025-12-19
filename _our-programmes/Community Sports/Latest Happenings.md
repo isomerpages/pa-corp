@@ -92,7 +92,7 @@ of selected games at the following CCs (no reservation required):</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Table Tennis</div>
-<div class="isomer-card-description">Men's Singles Semi-finals: TeamSG vs Vietnam Women's Semi-finals: TeamSG
+<div class="isomer-card-description">Men's Singles Semi-finals: TeamSG vs Vietnam , Women's Semi-finals: TeamSG
 vs Thailand (11am to 1pm)</div>
 </div>
 </div>
