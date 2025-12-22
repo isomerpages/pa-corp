@@ -2,5 +2,6 @@ collections:
   tender-details:
     output: true
     order:
+      - Stage Programme Services for Chinatown Chinese New Year Celebrations.md
       - Tender for repair and redecoration works to Ulu Pandan Community
         Building.md
