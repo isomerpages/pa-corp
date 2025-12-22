@@ -11,4 +11,4 @@ For tender notices pertaining to available spaces for rent at Community Clubs/Ce
 Open Procurement and Grassroots Trade Fair Tenders published via the Grassroots Emart System (GEMS) can be viewed online using [this](https://gems.pa.gov.sg/account/vendors) link. Access the GEMS webpage to learn more.
 <br>
 
-Please check the below listing(s) for the latest tender notices: <br> [Tender for repair and redecoration works to Ulu Pandan Community Building](/tender-for-repair-and-redecoration-works-to-ulu-pandan-community-building/)
+Please check the below listing(s) for the latest tender notices: <br> [Provision of Stage Programme Services for Chinatown Chinese New Year Celebrations 2026 Countdown Party](/stage-programme-services-for-chinatown-chinese-new-year-celebrations/) <br> [Tender for Remaining Street Stalls for Chinatown Chinese New Year Festive Fair 2026](/tender-for-remaining-street-stalls-for-chinatown-chinese-new-year-festive-fair-2026/)
