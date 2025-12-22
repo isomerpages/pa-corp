@@ -2,5 +2,6 @@ collections:
   tender-details:
     output: true
     order:
-      - Tender for repair and redecoration works to Ulu Pandan Community
-        Building.md
+      - Tender for Remaining Street Stalls for Chinatown Chinese New Year
+        Festive Fair 2026.md
+      - Stage Programme Services for Chinatown Chinese New Year Celebrations.md
