@@ -26,7 +26,7 @@ R Nathan, to rally Singaporeans in building a more caring and cohesive
 society, and to support communities in need.
 <br>
 <br>In 2025, the President’s Challenge was refreshed on achieving more&nbsp;sustained
-social impact – by supporting every aspiration, recognising every contribution,
+social impact by supporting every aspiration, recognising every contribution,
 and inspiring others to lift those around them.</p>
 <p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge.</a>
 </p>
