@@ -40,7 +40,7 @@ to raise awareness of inclusion in sport and encourage meaningful community
 connections. Here's a highlight of this year's PA Cares @ President's Challenge
 event!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3LsxrtTYkEI?si=vv4R59CNKCLUaVoO ?rel=0"></iframe>
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3LsxrtTYkEI?si=vv4R59CNKCLUaVoO?rel=0"></iframe>
 </div>
 <h2>Together, we can make an imPAct</h2>
 <p></p>
