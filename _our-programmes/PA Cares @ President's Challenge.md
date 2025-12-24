@@ -11,16 +11,11 @@ image: /images/PAPC2024_WebBanner.jpg
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Image_for_PA_Cares___PC_Webpage.png">
 </div>
 <h2>About PA Cares @ President's Challenge</h2>
-<p>The People's Association (PA), through <strong>PA Cares @ President's Ch</strong>Every
-contribution, no matter the amount, your contribution will make a real
-difference in the lives of those in need. Through the SG Gives Matching
-Grant, every dollar you donate will be matched with $1.50, multiplying
-the impact of your generosity. All donations of $10 and above are eligible
-for tax deductions.<strong>allenge</strong>, is committed to supporting
-communities in need by encouraging donations, volunteerism, and active
-community involvement. Through the President's Challenge, PA mobilises
-the community to promote greater inclusion in sports, contributing to building
-a more caring and inclusive community.</p>
+<p>The People's Association (PA), through <strong>PA Cares @ President's Challenge</strong>,
+is committed to supporting communities in need by encouraging donations,
+volunteerism, and active community involvement. Through the President's
+Challenge, PA mobilises the community to promote greater inclusion in sports,
+contributing to building a more caring and inclusive community.</p>
 <p>Powered by our Grassroots Movement and strengthened by Corporate Partnerships,
 PA continues its dedication to creating meaningful impact.</p>
 <div class="isomer-image-wrapper">
