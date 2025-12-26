@@ -26,17 +26,22 @@ R Nathan, to rally Singaporeans in building a more caring and cohesive
 society, and to support communities in need.
 <br>
 <br>In 2025, the President’s Challenge was refreshed on achieving more&nbsp;sustained
-social impact – by supporting every aspiration, recognising every contribution,
+social impact by supporting every aspiration, recognising every contribution,
 and inspiring others to lift those around them.</p>
-<p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge</a>
+<p>Find out more about <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">The President’s Challenge.</a>
 </p>
 <h2>Be part of PA Cares @ President’s Challenge</h2>
 <p>The PA Cares @ President's Challenge campaign this year features an inclusive
 sports activity at imPAct@Hong Lim Green on 5 October 2025, including Active
 Beyond Limits Exercises (A.B.L.E), a "Trust-in-Me" Walk and interactive
-sports try-outs for the public to experience. Through the event, PA rallies
-residents, corporate and community partners to raise awareness of inclusion
-in sport and encourage meaningful community connections.</p>
+sports try-outs for the public to experience.</p>
+<p>Through the event, PA rallies residents, corporate and community partners
+to raise awareness of inclusion in sport and encourage meaningful community
+connections. Here's a highlight of this year's PA Cares @ President's Challenge
+event!</p>
+<div class="iframe-wrapper">
+<iframe height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3LsxrtTYkEI?si=vv4R59CNKCLUaVoO?rel=0"></iframe>
+</div>
 <h2>Together, we can make an imPAct</h2>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -44,11 +49,9 @@ in sport and encourage meaningful community connections.</p>
 </div>
 <p>This year, PA is pledging $250,000 to President's Challenge, raising funds
 through various platforms to support the beneficiary organisations in their
-effort to create lasting social impact.
-<br>
-<br>Support a meaningful cause by <a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">donating to the President's Challenge!</a> Every
-contribution, no matter the amount, your contribution will make a real
-difference in the lives of those in need. Through the SG Gives Matching
+effort to create lasting social impact.</p>
+<p>Every contribution, no matter the amount, your contribution will make
+a real difference in the lives of those in need. Through the SG Gives Matching
 Grant, every dollar you donate will be matched with $1.50, multiplying
 the impact of your generosity. All donations of $10 and above are eligible
 for tax deductions.</p>
@@ -66,9 +69,8 @@ in our society</p>
 <p><strong>Foster Unity and Respect </strong>in our community</p>
 </li>
 </ul>
-<p>Together, let's create an inclusive Singapore where everyone can thrive.
-<a href="https://www.giving.sg/donate/campaign/pa-cares-presidents-challenge-2025" rel="noopener nofollow" target="_blank">Make your donation count today!</a>
-</p>
+<p>Together, let's create an inclusive Singapore where everyone can thrive.</p>
+<p></p>
 <h4>Press Release</h4>
 <p>Lianhe Zaobao Online (5 Oct 2025) <a href="https://www.zaobao.com.sg/news/singapore/story20251005-7618860" rel="noopener nofollow" target="_blank">“People's Association donates $250,000 to President's Challenge to promote inclusive sports and care for community”</a>
 </p>
@@ -81,10 +83,3 @@ in our society</p>
 receive updates from Community Sports Networks and be the first to know
 about our latest community sports events.</p>
 <p></p>
-<p>The PA Cares @ President's Challenge campaign this year features an inclusive
-sports activity <strong>at</strong> imPAct@Hong Lim Green on 5 October 2025,
-including Active Beyond Limits Exercises (A.B.L.E), a "Trust-in-Me" Walk
-and interactive sports try-outs for the public to experience. Through the
-event, PA <strong>rallies</strong> residents, corporate and community partners
-to raise awareness of inclusion in sport and encourage meaningful community
-connections.</p>
