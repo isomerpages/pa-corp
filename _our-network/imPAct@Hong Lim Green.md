@@ -20,4 +20,4 @@ Stay connected with imPAct@Hong Lim Green by following our [Facebook](http://www
 
 Join us and be part of the imPAct community today!
  
-(Accurate as of 25 March 2025)
+(Accurate as of 1 January 2026 )
