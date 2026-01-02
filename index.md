@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/revised_countdown_banner_2026.png
+      background: /images/27Sep_PA_Corp_Site_Banner_Website_V2_1900x760v3_L.png
       key_highlights:
         - title: Join as a Volunteer
           description: ""
@@ -22,8 +22,8 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       variant: center
-      button: Check out 7 Heartland countdown Sites
-      url: https://go.gov.sg/pahomepage-hcd2026
+      url: https://www.tiktok.com/@peoplesassociation/video/7558852030664625426
+      button: Find Out How Big Changes Can Start From You
   - infopic:
       title: Our Community Book
       id: infopic
