@@ -8,11 +8,11 @@ variant: markdown
 
 imPAct@Hong Lim Green is your one-stop community hub in the Central Business District (CBD), designed to empower and enable working professionals to create change and make a difference. Dive into our diverse programmes and volunteering opportunities to connect, grow, and do good with the community. 
 
-**imPAct Fitness Membership**<br>
-Unlock access to imPAct@Hong Lim Green's fitness programmes with our membership schemes. For more information on the fitness passes, please call us at 6786 0016. 
+**imPAct Passes**<br>
+Packed timelines, unpredictable schedules, and no time for self-care? We get it. That's why our **imPAct Passes** flex with your schedule - single sessions or regular access, your choice. &nbsp;Whatever plans you choose, you'll have access to trainer-guided Functional Fitness or Wellness classes. Browse our full schedule [here](https://file.go.gov.sg/ihlgschedule.pdf) to explore all programme options and find times that work for you.
 
 **Membership Rates**<br>
-![](/images/Membership_rates_iHLG__as_of_9_Nov_2024_.png)
+![](/images/Our%20Programmes/iHLG_Rates_2026.jpg)
 To view the full terms and conditions for the fitness membership, please click [here](http://go.gov.sg/ihlgterms).
 
 **Be part of imPAct's community today!**<br>
@@ -20,4 +20,4 @@ Stay connected with imPAct@Hong Lim Green by following our [Facebook](http://www
 
 Join us and be part of the imPAct community today!
  
-(Accurate as of 25 March 2025)
+(Accurate as of 1 January 2026 )
