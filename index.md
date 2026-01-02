@@ -22,8 +22,7 @@ sections:
           description: ""
           url: https://www.onepa.gov.sg/
       variant: center
-      button: Check out 7 Heartland countdown Sites
-      url: https://go.gov.sg/pahomepage-hcd2026
+      url: https://www.tiktok.com/@peoplesassociation/video/7558852030664625426
   - infopic:
       title: Our Community Book
       id: infopic
