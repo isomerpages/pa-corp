@@ -70,12 +70,13 @@ sections:
       image: /images/PA Course (smaller).jpg
       alt: PA courses
   - infopic:
-      description: Residents Can Now Download the MyPAssion Mobile App on Their Phones
-      button: download the app
-      url: /resource/news/residents-can-now-download-the-mypassion-mobile-app-on-their-phones/
-      alt: Image alt text
-      image: /images/Passion Mobile.png
-      title: MyPassion Mobile App
+      title: PAssion eCard
+      id: infopic
+      description: Log in to onePA via Singpass to access your PAssion eCard instantly.
+      button: Log in now
+      url: https://login.id.singpass.gov.sg/main
+      alt: Access PAssion eCard on onePA
+      image: /images/PAssion_eCard_Banner__square_.jpg
   - infopic:
       title: Find Your Nearest CC
       description: Locate a Community Club near you.
