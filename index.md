@@ -76,6 +76,7 @@ sections:
       button: Log in now
       url: https://login.id.singpass.gov.sg/main
       alt: Access PAssion eCard on onePA
+      image: /images/PAssion_eCard_Banner__square_.jpg
   - infopic:
       title: Find Your Nearest CC
       description: Locate a Community Club near you.
