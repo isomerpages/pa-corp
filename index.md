@@ -74,7 +74,7 @@ sections:
       id: infopic
       description: Log in to onePA via Singpass to access your PAssion eCard instantly.
       button: Log in now
-      url: https://login.id.singpass.gov.sg/main
+      url: https://www.onepa.gov.sg/dashboard/membership
       alt: Access PAssion eCard on onePA
       image: /images/PAssion_eCard_Banner__square_.jpg
   - infopic:
