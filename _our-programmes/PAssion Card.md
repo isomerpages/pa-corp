@@ -49,13 +49,13 @@ your support towards PAssion CARES. This initiative is fully supported
 by our partners, POSB and yuu Rewards Club. The yuu Points raised will
 go towards various community projects benefitting the underprivileged in
 the community.</p>
-<p>Not a PAssion Member yet?&nbsp;<a href="https://www.onepa.gov.sg/membership" rel="noopener nofollow" target="_blank">Sign up</a><a href="https://www.onepa.gov.sg/membership" rel="noopener noreferrer nofollow" target="_blank"> </a>for
+<p>Not a PAssion Member yet? <a href="https://www.onepa.gov.sg/membership" rel="noopener nofollow" target="_blank">Sign up</a> for
 your free PAssion e-Membership today! The PAssion e-Membership is available
 for all aged 15 and above with a valid Singpass and lets you enjoy the
 same PAssion privileges as a PAssion Card holder!</p>
-<p>Existing PAssion Card Members with expiring cards will<a href="https://www.onepa.gov.sg/dashboard/membership" rel="noopener nofollow" target="_blank"> </a>also
-have their membership auto-converted into a PAssion e-Membership 30 days
-before expiry. Access your e-Membership via&nbsp;<a href="https://www.onepa.gov.sg/dashboard/membership" rel="noopener nofollow" target="_blank">onePA</a>, and continue
+<p>Existing PAssion Card Members with expiring cards will also have their
+membership auto-converted into a PAssion e-Membership 30 days before expiry.
+Access your e-Membership via&nbsp;<a href="https://www.onepa.gov.sg/dashboard/membership" rel="noopener nofollow" target="_blank">onePA</a>, and continue
 to enjoy PAssion deals and privileges.</p>
 <p>For more information on the PAssion e-Membership, go to&nbsp;<a href="https://www.onepa.gov.sg/passion-card/passion-ecard" rel="noopener nofollow" target="_blank">https://www.onepa.gov.sg/passion-card/passion-ecard</a>
 </p>
