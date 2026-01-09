@@ -27,5 +27,5 @@ on a mobile device in landscape orientation.</p>
 an enjoyable and memorable one!</p>
 <p>For more information on our training facilities, please refer to the Rental
 Enquiry Form below.</p>
-<p><a href="/files/NACLI/04%20Campus%20Facilities/NACLI_Rental_Enquiry_Form__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Rental Enquiry Form</a> (Accurate
+<p><a href="/files/NACLI_Rental_Enquiry_Form__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Rental Enquiry Form</a> (Accurate
 as at 1 Jan 2024)</p>
