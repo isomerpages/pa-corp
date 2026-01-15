@@ -36,5 +36,5 @@ Association reaches out to residents across all ages, races and places
 of residence. We invite interested commercial operators to lease our commercial
 spaces to conduct businesses to add vibrancy and provide additional avenues
 for people to bond together. View the list of available CC spaces for lease
-<a href="/files/List_of_Availability_PA_22_Dec_2025.pdf" rel="noopener nofollow" target="_blank">here</a>
+<a href="/files/List_of_Availability_PA_12_Jan_2026.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
