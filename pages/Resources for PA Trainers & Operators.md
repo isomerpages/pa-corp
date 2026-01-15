@@ -23,11 +23,10 @@ are not our Trainers and Operators yet.</p>
 <p>To apply, please click <a href="https://form.gov.sg/6809a78a0c75b952d7871646" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 </li>
-<li>
+</ul>
 <p><strong>Professional Standards and Guidelines for PA Trainers</strong>
 </p>
-</li>
-</ul>
+<p></p>
 <p>Please download the resources via the links below:</p>
 <p></p>
 <ol>
@@ -102,27 +101,13 @@ are not our Trainers and Operators yet.</p>
 <p><strong>E-bites</strong>
 </p>
 <p>Please download the e-bites via the links below:</p>
-<p><a href="https://go.gov.sg/ebites-march2023" rel="noopener noreferrer nofollow" target="_blank">March 2023</a>
-</p>
-<p><a href="https://go.gov.sg/ebies-june2023" rel="noopener noreferrer nofollow" target="_blank">June 2023</a>
-</p>
-<p><a href="https://file.go.gov.sg/e-bites.png" rel="noopener noreferrer nofollow" target="_blank">September 2023</a>
-</p>
-<p><a href="https://go.gov.sg/ebites-december2023" rel="noopener noreferrer nofollow" target="_blank">December 2023</a>
-</p>
-<p><a href="https://file.go.gov.sg/ebites-march2024.png" rel="noopener noreferrer nofollow" target="_blank">March 2024</a>
-</p>
-<p><a href="https://go.gov.sg/ebites-june2024" rel="noopener noreferrer nofollow" target="_blank">June 2024</a>
-</p>
-<p><a href="https://go.gov.sg/ebites-sep2024" rel="noopener nofollow" target="_blank">September 2024</a>
-</p>
-<p><a href="https://go.gov.sg/ebites-dec2024" rel="noopener nofollow" target="_blank">December 2024</a>
-</p>
 <p><a href="https://go.gov.sg/ebites-mar2025" rel="noopener nofollow" target="_blank">March 2025</a>
 </p>
 <p><a href="https://go.gov.sg/ebites-jun2025" rel="noopener nofollow" target="_blank">June 2025</a>
 </p>
 <p><a href="https://go.gov.sg/ebites-sep2025" rel="noopener nofollow" target="_blank">September 2025</a>
+</p>
+<p><a href="https://go.gov.sg/ebites-dec2025a" rel="noopener nofollow" target="_blank">December 2025</a>
 </p>
 <p></p>
 <p><strong>National Registry of Exercise Professionals (NREP)</strong>
