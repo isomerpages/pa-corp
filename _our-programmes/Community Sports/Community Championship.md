@@ -63,7 +63,7 @@ year's Community Championship an unforgettable success.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSCC_07_Table_Tennis.png">
 </div>
-<p>Start preparing for this year's <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship" rel="noopener noreferrer nofollow" target="_blank">Pesta Sukan Community Championship</a> and <strong>let's continue to foster the spirit of sports and community together!</strong>
+<p>Start preparing for next year's <a href="https://www.activesgcircle.gov.sg/getactive-singapore/pesta-sukan/community-championship" rel="noopener noreferrer nofollow" target="_blank">Pesta Sukan Community Championship</a> and <strong>continue to foster the spirit of sports and community together!</strong>
 </p>
 <p>Connect with <strong>National Sports Associations (NSAs)</strong> for pro
 tips and resources:
