@@ -71,11 +71,10 @@ tips and resources:
 <br><a href="https://www.fas.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Football Association of Singapore</a>
 <br><a href="https://singaporebadminton.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Badminton Association</a>
 <br><a href="https://singaporebowling.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Bowling Federation</a>
-<br><a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Pickleball Association</a>
 <br><a href="https://www.netball.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Netball</a>
+<br><a href="https://www.singaporepickleball.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Pickleball Association</a>
 <br><a href="https://www.stta.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Table Tennis Association</a>
 </p>
-<p></p>
 <p></p>
 <h3>Sports Safety</h3>
 <p><strong>Sports Safety Advisory</strong>
